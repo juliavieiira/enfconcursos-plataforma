@@ -10,10 +10,9 @@ Enfermagem O planejamento familiar é um direito assegurado à mulher e ao homem
   [C] bloquear a passagem dos espermatozoides pela tuba uterina por meio de obstrução mecânica
   [D] liberar hormônios que inibem a ovulação de forma contínua durante todo o ciclo menstrual 29 Enfermagem > Administração de medicamentos , Saúde da Mulher , Assistência de Enfermagem ao Pré-Natal Medicação Endovenosa Banca: SELECON Órgão: Prefeitura de Araçás - BA Prova: SELECON - 2026 - Prefeitura de Araçás - BA - Técnico de
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: A
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [A]: 'promover uma reação inflamatória local no endométrio que cria um ambiente hostil à implantação do embrião e à sobrevivência dos espermatozoides'.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'promover uma reação inflamatória local no endométrio que cria um ambiente hostil à im...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'alterar a produção de hormônios hipofisários, suprimindo o pico de luteinização e imp...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'bloquear a passagem dos espermatozoides pela tuba uterina por meio de obstrução mecân...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'liberar hormônios que inibem a ovulação de forma contínua durante todo o ciclo menstr...' não atende às diretrizes oficiais do Ministério da Saúde.
@@ -29,10 +28,9 @@ Técnico em Enfermagem - SMS Uma puérpera em aleitamento exclusivo apresenta do
   [C] interromper o aleitamento até o desaparecimento da febre
   [D] descartar o leite da mama acometida até não haver mais sintomas
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: A
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [A]: 'manter a amamentação'.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'manter a amamentação...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'suspender a mama afetada...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'interromper o aleitamento até o desaparecimento da febre...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'descartar o leite da mama acometida até não haver mais sintomas...' não atende às diretrizes oficiais do Ministério da Saúde.
@@ -48,10 +46,9 @@ Durante a internação de gestante com diagnóstico de pré-eclâmpsia, o enferm
   [C] dor epigástrica isolada, aumento do débito urinário e ausência de alterações laboratoriais, ainda que haja oscilação pressórica transitória
   [D] edema generalizado com pressão arterial controlada, diurese acima de 1.000 mL/24h e exames laboratoriais dentro da normalidade
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: A
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [A]: 'convulsão tônico-clônica generalizada ou cefaleia persistente associada à pressão arterial ≥ 160x110 mmHg, oligúria (< 500 mL/24h), proteinúria significativa e possível elevação de creatinina sérica, configurando disfunção orgânica materna'.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'convulsão tônico-clônica generalizada ou cefaleia persistente associada à pressão art...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'cefaleia leve eventual com pressão arterial de 140x90 mmHg, edema de membros inferior...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'dor epigástrica isolada, aumento do débito urinário e ausência de alterações lab...'.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'edema generalizado com pressão arterial controlada, diurese acima de 1.000 mL/24h e e...' não atende às diretrizes oficiais do Ministério da Saúde.
@@ -67,12 +64,11 @@ MT - Técnico em Enfermagem Durante a assistência a uma puérpera no alojamento
   [C] lóquios de cor serosa, de coloração acastanhada ou rosada, com redução progressiva do volume
   [D] a ausência total de loquiação nas primeiras 48 horas após o parto vaginal, associada a útero flácido e aumentado à palpação abdominal 115 Ano: 2026
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: C
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [C]: 'lóquios de cor serosa, de coloração acastanhada ou rosada, com redução progressiva do volume'.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'a presença de lóquios de cor alba nas primeiras 24 horas após o parto, com odor fétid...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'lóquios de cor rubra persistentes e em grande volume após a segunda semana do parto...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'lóquios de cor serosa, de coloração acastanhada ou rosada, com redução progressiva do...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'a ausência total de loquiação nas primeiras 48 horas após o parto vaginal, associada ...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
@@ -86,10 +82,9 @@ Técnico em Enfermagem O Ministério da Saúde estabelece o número mínimo e a 
   [C] três consultas no 1º trimestre, duas no 2º trimestre e três no 3º trimestre, totalizando oito
   [D] uma consulta em cada trimestre, totalizando o mínimo de três 146 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: A
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [A]: 'duas consultas no 1º trimestre, duas no 2º trimestre e três no 3º trimestre, totalizando sete'.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'duas consultas no 1º trimestre, duas no 2º trimestre e três no 3º trimestre, totaliza...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'uma consulta no 1º trimestre, três no 2º trimestre e três no 3º trimestre, totalizand...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'três consultas no 1º trimestre, duas no 2º trimestre e três no 3º trimestre, totaliza...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'uma consulta em cada trimestre, totalizando o mínimo de três 146 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde.
@@ -105,11 +100,10 @@ A prevenção do câncer de mama e do cérvico-uterino, conforme as ações de e
   [C] prescrição de quimioterapia preventiva para grupos de risco
   [D] aconselhamento para cirurgia profilática em todas as mulheres
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: B
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [B]: 'incentivo à mamografia de rastreamento em faixas etárias específicas'.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'realização de exames de sangue anuais para marcadores tumorais...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'incentivo à mamografia de rastreamento em faixas etárias específicas...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'prescrição de quimioterapia preventiva para grupos de risco...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'aconselhamento para cirurgia profilática em todas as mulheres...' não atende às diretrizes oficiais do Ministério da Saúde.
 
@@ -124,12 +118,11 @@ Enfermagem Maria, puérpera de 3 dias, relata às profissionais da unidade de al
   [C] auxiliar a mãe com medidas não farmacológicas, como massagem e ordenha, e manter a amamentação
   [D] indicar compressas quentes contínuas e esvaziamento completo das mamas com bomba elétrica
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: C
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [C]: 'auxiliar a mãe com medidas não farmacológicas, como massagem e ordenha, e manter a amamentação'.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'orientar a suspensão das mamadas até que o leite “desça” completamente...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'encaminhar para antibiótico imediato, pois se trata de mastite com possível abscesso...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'auxiliar a mãe com medidas não farmacológicas, como massagem e ordenha, e manter a am...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'indicar compressas quentes contínuas e esvaziamento completo das mamas com bomba elét...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
@@ -143,10 +136,9 @@ Quatro Marcos - MT - Técnico em Enfermagem Na assistência pré-natal, recomend
   [C] hemograma completo
   [D] IgG e IgM para citomegalovírus 243 Ano: 2025 Enfermagem > Sinais vitais , Fisiologia , Fundamentos e Procedimentos de Enfermagem Fisiologia do Sistema Cardiovascular Banca: SELECON Órgão: Prefeitura de São José dos Quatro Marcos - MT Prova: SELECON - 2025 - Prefeitura de São José dos
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: A
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [A]: 'coombs indireto'.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'coombs indireto...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'teste de FTA-ABS...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'hemograma completo...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'IgG e IgM para citomegalovírus 243 Ano: 2025 Enfermagem > Sinais vitais , Fisiologia ...' não atende às diretrizes oficiais do Ministério da Saúde.
@@ -162,17 +154,16 @@ ANHH - Nível I - Grau A - Enfermeiro No contexto da gestação, a compatibilida
   [C] o uso de imunoglobulina anti-D durante a gestação é contraindicado, pois favorece a formação de anticorpos maternos contra o fator Rh
   [D] o fator Rh não apresenta relevância na gestação e não pode interferir na saúde do feto e da mãe 255 Ano: 2025 Enfermagem > Estrutura Organizacional dos Serviços de Enfermagem e Gerenciamento do Trabalho , Gestão de Processos e Equipes de Trabalho , Administração em Enfermagem Banca: SELECON Órgão: HEMOMINAS Prova: SELECON - 2025 - HEMOMINAS - Analista de Hematologia e Hemoterapia -
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: B
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [B]: 'mulheres Rh negativo podem desenvolver anticorpos anti-D contra o sangue do feto Rh positivo, colocando gestações subsequentes em risco'.
 ❌ Distratores:
    • Alternativa A: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a eritroblastose fetal ocorre apenas quando a mãe tem sangue ABO incompatível co...'.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'mulheres Rh negativo podem desenvolver anticorpos anti-D contra o sangue do feto Rh p...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'o uso de imunoglobulina anti-D durante a gestação é contraindicado, pois favorece a f...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'o fator Rh não apresenta relevância na gestação e não pode interferir na saúde do fet...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 10 [Código: EF0283] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 10 [Código: EF0282] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
 Assunto: Saúde da Mulher , Assistência de Enfermagem ao Pré-Natal
 Enfermagem Sobre o diagnóstico de diabetes gestacional, o exame recomendado para a confirmação da doença é:
 
@@ -181,27 +172,34 @@ Enfermagem Sobre o diagnóstico de diabetes gestacional, o exame recomendado par
   [C] teste de glicemia pós-prandial, realizado duas horas após a ingestão de 75g de glicose, sendo o método padrão para o diagnóstico de diabetes gestacional
   [D] teste oral de tolerância à glicose (TOTG) com sobrecarga de 50g de glicose, realizado entre a 24ª e 28ª semana de gestação para diagnosticar diabetes gestacional
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: D
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [D]: 'teste oral de tolerância à glicose (TOTG) com sobrecarga de 50g de glicose, realizado entre a 24ª e 28ª semana de gestação para diagnosticar diabetes gestacional'.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'este de glicemia em jejum, com valor acima de 120 mg/dL, sendo sufi ciente para diagn...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'teste de hemoglobina glicada (HbA1c), utilizado como primeiro exame diagnóstico para ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'teste de glicemia pós-prandial, realizado duas horas após a ingestão de 75g de glicos...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'teste oral de tolerância à glicose (TOTG) com sobrecarga de 50g de glicose, realizado...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 11 [Código: EF0307] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
+QUESTÃO 11 [Código: EF0306] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
 Assunto: Saúde da Mulher , Assistência de Enfermagem ao Parto/Aborto ,
 
 
+  [A] os Conselhos de Saúde devem ser compostos exclusivamente por representantes do governo, com a função de decidir sobre a execução das políticas de saúde, enquanto as Conferências de Saúde se restringem à avaliação das ações e serviços prestados pelo SUS
+  [B] os Conselhos de Saúde têm a função de fiscalizar apenas os recursos financeiros do SUS, enquanto as Conferências de Saúde devem ser realizadas exclusivamente no nível municipal, com foco no debate sobre saúde pública local
+  [C] a Lei nº 8.142/90 prevê que os Conselhos de Saúde sejam paritários, compostos por representantes do governo, prestadores de serviços e usuários, com atribuições de fiscalização, planejamento e controle das ações do SUS, enquanto as Conferências de Saúde devem ocorrer a cada quatro anos para avaliar e propor diretrizes
+  [D] a Lei nº 8.142/90 determina que os Conselhos de Saúde sejam apenas consultivos, sem poder de decisão sobre políticas públicas, sendo as Conferências de Saúde responsáveis pela implementação de todas as ações do SUS em nível federal 308 Ano: 2025 Enfermagem > Saúde da Mulher , Assistência de Enfermagem ao Parto/Aborto , Assistência de Enfermagem ao Puerpério Banca: SELECON Órgão: Prefeitura de Sinop - MT Prova: SELECON - 2025 - Prefeitura de Sinop - MT - Enfermeiro
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: C
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [C]: 'a Lei nº 8.142/90 prevê que os Conselhos de Saúde sejam paritários, compostos por representantes do governo, prestadores de serviços e usuários, com atribuições de fiscalização, planejamento e controle das ações do SUS, enquanto as Conferências de Saúde devem ocorrer a cada quatro anos para avaliar e propor diretrizes'.
+❌ Distratores:
+   • Alternativa A: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'os Conselhos de Saúde devem ser compostos exclusivamente por representantes do g...'.
+   • Alternativa B: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'os Conselhos de Saúde têm a função de fiscalizar apenas os recursos financeiros ...'.
+   • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a Lei nº 8.142/90 determina que os Conselhos de Saúde sejam apenas consultivos, ...'.
 
 ------------------------------------------------------------
 
-QUESTÃO 12 [Código: EF0321] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 12 [Código: EF0320] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Enfermeiro
 Assunto: Saúde da Mulher , Assistência de Enfermagem ao Pré-Natal
 O acompanhamento pré-natal é essencial para a redução da incidência de mortalidade materna, do baixo peso ao nascer e da mortalidade perinatal. A recomendação do Ministério da Saúde acerca do calendário de consultas pré-natais de risco habitual deve ser, no mínimo:
 
@@ -210,17 +208,16 @@ O acompanhamento pré-natal é essencial para a redução da incidência de mort
   [C] seis consultas, sendo uma no primeiro trimestre, duas no segundo trimestre, e três no terceiro trimestre
   [D] oito consultas, sendo duas no primeiro trimestre, duas no segundo trimestre, e quatro no terceiro trimestre 322 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: C
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [C]: 'seis consultas, sendo uma no primeiro trimestre, duas no segundo trimestre, e três no terceiro trimestre'.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'cinco consultas, sendo uma no primeiro trimestre, uma no segundo trimestre, e três no...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'nove consultas, sendo três no primeiro trimestre, três no segundo trimestre, e três n...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'seis consultas, sendo uma no primeiro trimestre, duas no segundo trimestre, e três no...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'oito consultas, sendo duas no primeiro trimestre, duas no segundo trimestre, e quatro...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 13 [Código: EF0330] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 13 [Código: EF0329] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
 Assunto: Saúde da Mulher
 A primeira menstruação da menina, denominada menarca, pode vir prescindida de uma secreção vaginal clara. A idade média para a menarca gira em torno de:
 
@@ -230,18 +227,17 @@ A primeira menstruação da menina, denominada menarca, pode vir prescindida de 
   [D] 11 anos
   [E] 12 anos 331 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: E
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [E]: '12 anos 331 Ano: 2024'.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa E: Incorreta perante os protocolos técnicos, pois '12 anos 331 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 14 [Código: EF0501] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 14 [Código: EF0494] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
 Assunto: Saúde da Mulher
 Como elemento constitutivo das relações sociais entre homens e mulheres, é uma construção social e histórica. É construído e alimentado com base em símbolos, normas e instituições que definem modelos e padrões de comportamento aceitáveis ou não para a sociedade. Delimita campos de atuação para cada membro da sociedade, dá suporte à elaboração de leis e suas formas de aplicação. Também está incluída nesse aspecto a subjetividade de cada sujeito, sendo única sua forma de reagir ao que lhe é oferecido em sociedade. É uma forma primeira de significação de poder. Tal definição se refere ao seguinte fator:
 
@@ -250,17 +246,16 @@ Como elemento constitutivo das relações sociais entre homens e mulheres, é um
   [C] gênero
   [D] sexo 502 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: C
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [C]: 'gênero'.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'nível socioeconômico...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'nível de escolaridade...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'sexo 502 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 15 [Código: EF0529] - Prefeitura de Dourados - MS (SELECON 2023) - Enfermeiro
+QUESTÃO 15 [Código: EF0521] - Prefeitura de Dourados - MS (SELECON 2023) - Enfermeiro
 Assunto: Saúde da Mulher , Atenção Básica e Saúde da Família
 Paciente Joana de 31 anos comparece ao posto de saúde da sua região com os seguintes sintomas: melasma facial, linha nigra e aumento do volume abdominal. De acordo com a literatura, esses sintomas que levam o profissional da saúde a investigar uma possível gravidez são definidos como:
 
@@ -269,17 +264,16 @@ Paciente Joana de 31 anos comparece ao posto de saúde da sua região com os seg
   [C] incerteza
   [D] certeza 530 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: B
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [B]: 'presunção'.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'probabilidade...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'certeza 530 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 16 [Código: EF0543] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 16 [Código: EF0535] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2023) - Enfermeiro
 Assunto: Saúde da Mulher , Atenção Básica e Saúde da Família
 MT - Enfermeiro 20H É fundamental que o enfermeiro da Atenção Básica conheça a avaliação do risco gestacional. Portanto, são alguns fatores de risco indicativos de encaminhamento ao pré-natal de alto risco:
 
@@ -288,17 +282,16 @@ MT - Enfermeiro 20H É fundamental que o enfermeiro da Atenção Básica conheç
   [C] cardiopatias, alterações genéticas maternas e isoimunização Rh
   [D] IMC que evidencie baixo peso, anemia leve e infecção urinária 544 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: C
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [C]: 'cardiopatias, alterações genéticas maternas e isoimunização Rh'.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'nefropatias graves (como insuficiência renal crônica e em casos de transplantados), d...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'baixa escolaridade (menor do que cinco anos de estudo regular), anemia grave (hemoglo...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'cardiopatias, alterações genéticas maternas e isoimunização Rh...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'IMC que evidencie baixo peso, anemia leve e infecção urinária 544 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 17 [Código: EF0553] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Técnico de Enfermagem
+QUESTÃO 17 [Código: EF0545] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Técnico de Enfermagem
 Assunto: Saúde da Mulher , Assistência de Enfermagem ao Pré-Natal
 Pública - MT - Técnico em Enfermagem O acesso ao cuidado do pré-natal no primeiro trimestre da gestação depende do envolvimento de toda a equipe para a assistência integral à gestante. No teste de tolerância à glicose, considerado um exame de rotina no pré-natal de baixo risco, com o objetivo de diagnosticar diabetes mellitus gestacional, utilizamse o jejum e, duas horas depois, a pós-sobrecarga com glicose, na quantidade de:
 
@@ -307,17 +300,16 @@ Pública - MT - Técnico em Enfermagem O acesso ao cuidado do pré-natal no prim
   [C] 85 gramas
   [D] 100 gramas 554 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: B
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [B]: '75 gramas'.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois '100 gramas 554 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 18 [Código: EF0587] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 18 [Código: EF0579] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
 Assunto: Saúde da Mulher , Assistência de Enfermagem ao Pré-Natal
 MT - Enfermeiro Intervencionista - SAMU No atendimento às síndromes hipertensivas da gestação: pré-eclâmpsia e pré-eclâmpsia sobreposta à hipertensão arterial crônica, a dose de ataque de sulfato de magnésio (endovenoso) deve ser a seguinte:
 
@@ -326,17 +318,16 @@ MT - Enfermeiro Intervencionista - SAMU No atendimento às síndromes hipertensi
   [C] 8 gramas, via intravenosa diluída em água bi-destilada ou solução salina 0,9% 100 mL com tempo de infusão rigoroso de 15 minutos
   [D] 10 gramas, via intravenosa diluída em água bi-destilada ou solução salina 0,9% 150 mL com tempo de infusão rigoroso de 20 minutos 588 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: A
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [A]: '4 gramas, via intravenosa diluída em água bi-destilada ou solução salina 0,9% 100 mL com tempo de infusão rigoroso de 15 minutos'.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois '4 gramas, via intravenosa diluída em água bi-destilada ou solução salina 0,9% 100 mL ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois '6 gramas, via intramuscular diluída em água bi-destilada ou solução salina 0,9% 100 m...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois '8 gramas, via intravenosa diluída em água bi-destilada ou solução salina 0,9% 100 mL ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois '10 gramas, via intravenosa diluída em água bi-destilada ou solução salina 0,9% 150 mL...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 19 [Código: EF0588] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 19 [Código: EF0580] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
 Assunto: Saúde da Mulher , Assistência de Enfermagem ao Parto/Aborto
 MT - Enfermeiro Intervencionista - SAMU O protocolo AGO3 de assistência ao parto consumado, descrito no manual de Suporte Avançado de Vida (SAMU), descreve, como critério de inclusão ou suspeita, a expulsão completa do recém-nascido (RN), com a seguinte idade gestacional:
 
@@ -345,17 +336,16 @@ MT - Enfermeiro Intervencionista - SAMU O protocolo AGO3 de assistência ao part
   [C] ≥ 22 semanas
   [D] ≥ 30 semanas 589 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: C
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [C]: '≥ 22 semanas'.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois '≤ 18 semanas...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois '≤ 21 semanas...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois '≥ 22 semanas...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois '≥ 30 semanas 589 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 20 [Código: EF0599] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 20 [Código: EF0591] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
 Assunto: Saúde da Mulher , Assistência de Enfermagem ao Pré-Natal
 MT - Enfermeiro Intervencionista - SAMU Paciente Daniele Mendes, gestante, 25 anos de idade, compareceu à emergência devido a um quadro de vômitos persistente. Durante a anamnese, a paciente informou que a data da última menstruação (DUM) tinha sido no dia 13/04/2023. Sendo assim, a data provável do parto (DPP) será no dia:
 
@@ -364,17 +354,16 @@ MT - Enfermeiro Intervencionista - SAMU Paciente Daniele Mendes, gestante, 25 an
   [C] 19/01/2024
   [D] 20/01/2024 600 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: D
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [D]: '20/01/2024 600 Ano: 2023'.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois '20/01/2024 600 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 21 [Código: EF0617] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 21 [Código: EF0609] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
 Assunto: Saúde da Mulher , Assistência de Enfermagem ao Parto/Aborto
 MT - Enfermeiro(a) Padrão De acordo com as diretrizes do Ministério da Saúde, entende-se como parto normal ou espontâneo, diferente da cesariana, aquele em que não foram utilizados fórceps e vácuo extrator. Entretanto, podem ocorrer intervenções baseadas em evidências científicas, em circunstâncias apropriadas, para facilitar o progresso do parto e um parto vaginal normal, tais como:
 
@@ -383,17 +372,16 @@ MT - Enfermeiro(a) Padrão De acordo com as diretrizes do Ministério da Saúde,
   [C] alívio não farmacológico da dor, manobra ativa no terceiro período e estimulação do trabalho de parto com fenoterol
   [D] estimulação do trabalho de parto com ocitocina, ruptura artificial de membranas e manobra ativa no terceiro período 618 Ano: 2023 Enfermagem > Anatomia na Enfermagem , Fisiologia , Anatomia do Sistema Respiratório Fisiologia do Sistema Respiratório Banca: SELECON Órgão: Prefeitura de Primavera do Leste - MT Prova: SELECON - 2023 - Prefeitura de Primavera do Leste -
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: D
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [D]: 'estimulação do trabalho de parto com ocitocina, ruptura artificial de membranas e manobra ativa no terceiro período 618 Ano: 2023 Enfermagem > Anatomia na Enfermagem , Fisiologia , Anatomia do Sistema Respiratório Fisiologia do Sistema Respiratório Banca: SELECON Órgão: Prefeitura de Primavera do Leste - MT Prova: SELECON - 2023 - Prefeitura de Primavera do Leste -'.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'alívio farmacológico da dor, estimulação do trabalho de parto com vasopressina e mano...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'estimulação do trabalho de parto com vasopressina, ruptura natural de membranas e man...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'alívio não farmacológico da dor, manobra ativa no terceiro período e estimulação do t...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'estimulação do trabalho de parto com ocitocina, ruptura artificial de membranas e man...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 22 [Código: EF0648] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 22 [Código: EF0640] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Enfermeiro
 Assunto: Saúde da Mulher , Assistência de Enfermagem ao Parto/Aborto
 O enfermeiro obstetra necessita detectar precocemente quaisquer alterações clínicas durante a assistência de Enfermagem, como na fase pós-parto, em que a hemorragia é caracterizada pela perda de sangue superior a 500 ml. Neste caso, o enfermeiro deve atentar para as três principais causas de sangramento puerperal, que são:
 
@@ -402,17 +390,16 @@ O enfermeiro obstetra necessita detectar precocemente quaisquer alterações cl�
   [C] atonia uterina, crise hipertensiva devido a estresse no parto e uso de corticoides em dose alta
   [D] hipotonia uterina, história de miomatose grave há menos de 2 anos e uso de drogas ilícitas durante o pré-natal
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: B
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [B]: 'atonia uterina, lacerações de trajeto e retenção de fragmentos placentários'.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'hipertonia uterina, taquicardia e retenção de fragmentos cirúrgicos...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'atonia uterina, lacerações de trajeto e retenção de fragmentos placentários...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'atonia uterina, crise hipertensiva devido a estresse no parto e uso de corticoides em...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'hipotonia uterina, história de miomatose grave há menos de 2 anos e uso de drogas ilí...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 23 [Código: EF0656] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 23 [Código: EF0648] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Enfermeiro
 Assunto: Saúde da Mulher , Assistência de Enfermagem ao Pré-Natal
 Paciente Mariana da Silva, casada, 28 anos de idade, compareceu à primeira consulta do pré-natal e foi atendida pela enfermeira da unidade. Durante a anamnese, a paciente informou que a data da última menstruação (DUM) foi no dia 13/09/2022. Sendo assim, a data provável do parto (DPP) será no dia:
 
@@ -421,17 +408,16 @@ Paciente Mariana da Silva, casada, 28 anos de idade, compareceu à primeira cons
   [C] 13/06/2023
   [D] 06/06/2023
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: B
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [B]: '20/06/2023'.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
 
 ------------------------------------------------------------
 
-QUESTÃO 24 [Código: EF0679] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Técnico de Enfermagem
+QUESTÃO 24 [Código: EF0671] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Técnico de Enfermagem
 Assunto: Saúde da Mulher , Planejamento Familiar , Assistência de Enfermagem ao Pré-Natal
 em Enfermagem Para ampliar a captação precoce das gestantes, o Ministério da Saúde, por intermédio da Rede Cegonha, incluiu o teste rápido de gravidez nos exames de rotina do pré-natal, que pode ser realizado pelas unidades básicas de saúde. Dessa forma, toda mulher com história de atraso menstrual deverá ser orientada pela equipe de saúde a realizar o teste imunológico de gravidez (TIG), quando o atraso for maior que:
 
@@ -440,17 +426,16 @@ em Enfermagem Para ampliar a captação precoce das gestantes, o Ministério da 
   [C] 10 dias
   [D] 15 dias 680 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: D
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [D]: '15 dias 680 Ano: 2023'.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois '15 dias 680 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 25 [Código: EF0709] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Técnico de Enfermagem
+QUESTÃO 25 [Código: EF0701] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Técnico de Enfermagem
 Assunto: Saúde da Mulher , Assistência de Enfermagem ao Pré-Natal
 Técnico em Enfermagem Na assistência de enfermagem durante o pré-natal, é importante reconhecer os sinais presuntivos, probabilidade e certeza de gravidez. Um dos sinais de probabilidade de gravidez é:
 
@@ -459,17 +444,16 @@ Técnico em Enfermagem Na assistência de enfermagem durante o pré-natal, é im
   [C] positividade da fração beta do HCG
   [D] presença dos batimentos cardíacos fetais 710 Ano: 2022
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: C
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [C]: 'positividade da fração beta do HCG'.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'saída de colostro pelo mamilo...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'positividade da fração beta do HCG...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'presença dos batimentos cardíacos fetais 710 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 26 [Código: EF0719] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Enfermeiro
+QUESTÃO 26 [Código: EF0711] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Enfermeiro
 Assunto: Saúde da Mulher , Assistência de Enfermagem ao Parto/Aborto
 São cuidados gerais prestados às mulheres durante a assistência ao trabalho de parto:
 
@@ -478,17 +462,16 @@ São cuidados gerais prestados às mulheres durante a assistência ao trabalho d
   [C] realização de ausculta antes, durante e imediatamente após uma contração, por pelo menos 5 minutos e a cada 60 minutos
   [D] palpação do pulso materno quando há suspeita de alguma anormalidade. Nesse caso, é necessário realizar a ausculta cardíaca para diferenciar os batimentos fetais e da mãe por 30 minutos 720 Ano: 2022 Enfermagem > Saúde da Mulher , Assistência de Enfermagem ao Pré-Natal , Assistência de Enfermagem ao Parto/Aborto Banca: SELECON Órgão: Prefeitura de Pontes e Lacerda - MT Prova: SELECON - 2022 - Prefeitura de Pontes e Lacerda - MT -
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: A
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [A]: 'oferta de líquidos, de preferência soluções isotônicas, no lugar de somente água'.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'oferta de líquidos, de preferência soluções isotônicas, no lugar de somente água...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'utilização dos antagonistas H2 e antiácidos de rotina para mulheres de baixo risco...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'realização de ausculta antes, durante e imediatamente após uma contração, por pelo me...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'palpação do pulso materno quando há suspeita de alguma anormalidade. Nesse caso, é ne...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 27 [Código: EF0741] - Prefeitura de Boa Vista - RR (SELECON 2020) - Técnico de Enfermagem
+QUESTÃO 27 [Código: EF0733] - Prefeitura de Boa Vista - RR (SELECON 2020) - Técnico de Enfermagem
 Assunto: Saúde da Mulher , Assistência de Enfermagem ao Parto/Aborto
 Enfermagem Em relação às intervenções e medidas de rotina no primeiro período do parto, de acordo com as Diretrizes Nacionais de Assistência ao Parto Normal do Ministério da Saúde, NÃO se pode afirmar que:
 
@@ -497,17 +480,16 @@ Enfermagem Em relação às intervenções e medidas de rotina no primeiro perí
   [C] A tricotomia pubiana e perineal não deve ser realizada de forma rotineira durante o trabalho de parto.
   [D] O enema deve ser realizado de forma rotineira durante o trabalho de parto para evitar contaminação do feto.
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: D
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [D]: 'O enema deve ser realizado de forma rotineira durante o trabalho de parto para evitar contaminação do feto.'.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'As mulheres devem ser encorajadas a se movimentarem e adotarem as posições que lhes s...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'A amniotomia precoce, associada ou não à ocitocina, não deve ser realizada de rotina ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'A tricotomia pubiana e perineal não deve ser realizada de forma rotineira durante o t...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'O enema deve ser realizado de forma rotineira durante o trabalho de parto para evitar...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 28 [Código: EF0743] - Prefeitura de Boa Vista - RR (SELECON 2020) - Técnico de Enfermagem
+QUESTÃO 28 [Código: EF0735] - Prefeitura de Boa Vista - RR (SELECON 2020) - Técnico de Enfermagem
 Assunto: Saúde da Mulher , Doenças Gastrointestinais
 Enfermagem O trauma perineal ou genital deve ser definido como aquele provocado por episiotomia ou lacerações. A lesão do períneo envolvendo o complexo do esfíncter anal (esfíncter anal interno e externo) e o epitélio anal é classificada como
 
@@ -516,17 +498,16 @@ Enfermagem O trauma perineal ou genital deve ser definido como aquele provocado 
   [C] quarto grau
   [D] quinto grau
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: C
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [C]: 'quarto grau'.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'primeiro grau...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'segundo grau...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'quarto grau...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'quinto grau...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 29 [Código: EF0775] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+QUESTÃO 29 [Código: EF0767] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
 Assunto: Saúde da Mulher , Assistência de Enfermagem ao Pré-Natal
 ESF O enfermeiro que atua na estratégia da saúde da família precisa estar atento aos sinais e sintomas às complicações obtétricas. Sendo assim, uma alteração na placenta, que consiste na implantação no segmento inferior do útero com a presença de sangramento vermelho vivo, sem a presença de coágulos, indolor e mantendo o tônus uterino normal recebe o nome de:
 
@@ -535,17 +516,16 @@ ESF O enfermeiro que atua na estratégia da saúde da família precisa estar ate
   [C] mola hidatiforme
   [D] placenta prévia 776 Ano: 2020
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: D
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [D]: 'placenta prévia 776 Ano: 2020'.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'descolamento prematuro da placenta...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'doença trofoblástica gestacional...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'mola hidatiforme...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'placenta prévia 776 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 30 [Código: EF0813] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+QUESTÃO 30 [Código: EF0805] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
 Assunto: Saúde da Mulher , Assistência de Enfermagem ao Parto/Aborto
 Paciente J.I.T, feminina, de 24 anos de idade, apresentou a data da última menstruação no dia 4/03/2018. A data provável do parto (DPP), segundo a Regra de Naegele, é:
 
@@ -554,17 +534,16 @@ Paciente J.I.T, feminina, de 24 anos de idade, apresentou a data da última mens
   [C] 21/12/2018
   [D] 11/12/2018 814 Ano: 2020
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: D
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [D]: '11/12/2018 814 Ano: 2020'.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois '11/12/2018 814 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 31 [Código: EF0820] - Prefeitura de Boa Vista - RR (SELECON 2024) - Enfermeiro
+QUESTÃO 31 [Código: EF0812] - Prefeitura de Boa Vista - RR (SELECON 2024) - Enfermeiro
 Assunto: Saúde da Mulher , Assistência de Enfermagem ao Pré-Natal
 De acordo com o Ministério da Saúde, durante o pré-natal existem diversos exames de rotina. O exame solicitado no 2º trimestre é:
 
@@ -573,17 +552,16 @@ De acordo com o Ministério da Saúde, durante o pré-natal existem diversos exa
   [C] Coombs indireto (se a mãe for Rh positivo)
   [D] Coombs indireto (se a mãe for Rh negativo)
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: D
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [D]: 'Coombs indireto (se a mãe for Rh negativo)'.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'hemocultura...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'glicemia capilar...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Coombs indireto (se a mãe for Rh positivo)...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Coombs indireto (se a mãe for Rh negativo)...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 32 [Código: EF0822] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+QUESTÃO 32 [Código: EF0814] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
 Assunto: Saúde da Mulher , Assistência de Enfermagem ao Parto/Aborto
 Sobre a dieta durante o trabalho de parto, é correto afirmar que:
 
@@ -592,17 +570,16 @@ Sobre a dieta durante o trabalho de parto, é correto afirmar que:
   [C] os agonistas H2 e ácidos devem ser utilizados de rotina para mulheres de baixo risco para anestesia geral durante o trabalho de parto
   [D] as mulheres em trabalho de parto podem ingerir líquidos, de preferência soluções isotônicas ao invés de somente água. 823 Ano: 2020
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: D
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [D]: 'as mulheres em trabalho de parto podem ingerir líquidos, de preferência soluções isotônicas ao invés de somente água. 823 Ano: 2020'.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'as mulheres que receberem opioides ou apresentarem fatores de risco que aumentem a ch...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'os antagonistas H2 e antiácidos devem ser utilizados de rotina para mulheres de baixo...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'os agonistas H2 e ácidos devem ser utilizados de rotina para mulheres de baixo risco ...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'as mulheres em trabalho de parto podem ingerir líquidos, de preferência soluções isot...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 33 [Código: EF0823] - Prefeitura de Boa Vista - RR (SELECON 2019) - Enfermeiro
+QUESTÃO 33 [Código: EF0815] - Prefeitura de Boa Vista - RR (SELECON 2019) - Enfermeiro
 Assunto: Saúde da Mulher , Assistência de Enfermagem ao Parto/Aborto
 Em 2017, o Ministério da Saúde publicou o documento sobre as Diretrizes Nacionais de Assistência ao Parto Normal que permite sintetizar e avaliar sistematicamente a informação científica disponível em relação às práticas mais comuns na assistência ao parto e ao nascimento. Dessa forma, o documento traz como um objetivo especifico:
 
@@ -611,17 +588,16 @@ Em 2017, o Ministério da Saúde publicou o documento sobre as Diretrizes Nacion
   [C] fortalecer as intervenções desnecessárias no processo de assistência na cesariana e, consequentemente, os seus agravos
   [D] atuar somente nas intervenções necessárias no processo de assistência ao parto normal e cesariana 824 Ano: 2019
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: A
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [A]: 'reduzir intervenções desnecessárias no processo d e a s s i s t ê n c i a a o p a r t o n o r m a l e , consequentemente, os seus agravos'.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'reduzir intervenções desnecessárias no processo d e a s s i s t ê n c i a a o p a r t...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'intensificar as intervenções necessárias no processo de assistência ao parto cirúrgic...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'fortalecer as intervenções desnecessárias no processo de assistência na cesariana e, ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'atuar somente nas intervenções necessárias no processo de assistência ao parto normal...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 34 [Código: EF0833] - Prefeitura de Campo Grande - MS (SELECON 2019) - Enfermeiro
+QUESTÃO 34 [Código: EF0825] - Prefeitura de Campo Grande - MS (SELECON 2019) - Enfermeiro
 Assunto: Saúde da Mulher
 No ano de 2015, o Ministério da Saúde adotou a nomenclatura de infecções sexualmente transmissíveis (1ST) substituindo o antigo nome DST. Sobre a uretrite não gonocócica (UNG), é correto afirmar que se caracteriza:
 
@@ -630,27 +606,34 @@ No ano de 2015, o Ministério da Saúde adotou a nomenclatura de infecções sex
   [C] pela transmissão exclusivamente sexual com corrimento abundante e sendo causada pelo vírus da varicela zoster
   [D] pelo acometimento agressivo da mucosa genital e pela presença de úlceras apresentando a bactéria Treponema pallidum 834 Ano: 2019
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: A
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [A]: 'habitualmente pela presença de corrimentos mucoides discretos, com disúria leve e intermitente, sendo o agente etológico mais comum a Chlamydia trachomatis'.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'habitualmente pela presença de corrimentos mucoides discretos, com disúria leve e int...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'pela presença de uma infecção crônica progressiva causada pela bactéria Klebsiella gr...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'pela transmissão exclusivamente sexual com corrimento abundante e sendo causada ...'.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'pelo acometimento agressivo da mucosa genital e pela presença de úlceras apresentando...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 35 [Código: EF0844] - Prefeitura Municipal (SELECON 2019) - Enfermeiro
+QUESTÃO 35 [Código: EF0836] - Prefeitura Municipal (SELECON 2019) - Enfermeiro
 Assunto: Saúde da Mulher , Assistência de Enfermagem ao Pré-Natal
+Banca: SELECON Órgão: Empresa Cuiabana de Saúde Pública - MT Provas: SELECON - 2019 - Empresa Cuiabana de Saúde Pública - MT - Enfermeiro Assistencial ... O fluxograma para o manejo de rotura prematura de membranas ovulares do Ministério da Saúde recomenda os seguintes testes para auxiliar no diagnóstico de aminiorrexe prematura:
 
+  [A] teste de nitrazina e teste de cristalização
+  [B] teste de EAS e teste urinocultura
+  [C] teste de nitrazina e teste de Whif
+  [D] teste de cristalização e teste credeização
 
-
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: A
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [A]: 'teste de nitrazina e teste de cristalização'.
+❌ Distratores:
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'teste de EAS e teste urinocultura...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'teste de nitrazina e teste de Whif...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'teste de cristalização e teste credeização...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 36 [Código: EF0862] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
+QUESTÃO 36 [Código: EF0854] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
 Assunto: Saúde da Mulher , Assistência de Enfermagem ao Parto/Aborto
 O trauma perineal ou genital deve ser definido como aquele provocado por episiotomia ou lacerações. Se uma paciente apresenta lesão do períneo envolvendo o complexo do esfíncter anal com laceração de mais de 50% da espessura do esfíncter anal, essa lesão é classificada como lesão de:
 
@@ -659,17 +642,16 @@ O trauma perineal ou genital deve ser definido como aquele provocado por episiot
   [C] quarto grau 1 c
   [D] terceiro grau 3b 863 Ano: 2019
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: D
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [D]: 'terceiro grau 3b 863 Ano: 2019'.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'terceiro grau 3a...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'primeiro grau 3c...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'quarto grau 1 c...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'terceiro grau 3b 863 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 37 [Código: EF0863] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
+QUESTÃO 37 [Código: EF0855] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
 Assunto: Saúde da Mulher , Assistência de Enfermagem ao Parto/Aborto
 A dilatação total do colo sem sensação de puxo involuntário ou parturiente com analgesia e a cabeça do feto ainda relativamente alta na pelve é chamada de fase:
 
@@ -678,17 +660,16 @@ A dilatação total do colo sem sensação de puxo involuntário ou parturiente 
   [C] secundária ou ativa
   [D] terciária ou ativa 864 Ano: 2019
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: B
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [B]: 'inicial ou passiva'.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'ativa completa...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'inicial ou passiva...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'secundária ou ativa...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'terciária ou ativa 864 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 38 [Código: EF0864] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
+QUESTÃO 38 [Código: EF0856] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
 Assunto: Saúde da Mulher , Assistência de Enfermagem ao Parto/Aborto
 Existem diversas estratégias e métodos não farmacológicos de alívio da dor no trabalho de parto normal. Sendo assim, uma estratégia recomendada, segundo as diretrizes nacionais de assistência ao parto normal, é:
 
@@ -697,10 +678,9 @@ Existem diversas estratégias e métodos não farmacológicos de alívio da dor 
   [C] verificar que a acupuntura não deve ser oferecida às mulheres que desejarem usar essa técnica durante o trabalho de parto
   [D] injetar água estéril para o alívio da dor no parto, com isso garantindo a segurança da assistência 865 Ano: 2019
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: A
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [A]: 'apoiar que sejam tocadas as músicas de escolha da mulher durante o trabalho de parto'.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'apoiar que sejam tocadas as músicas de escolha da mulher durante o trabalho de parto...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'garantir a estimulação elétrica transcutânea, que deve ser utilizada em mulheres em t...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'verificar que a acupuntura não deve ser oferecida às mulheres que desejarem usar essa...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'injetar água estéril para o alívio da dor no parto, com isso garantindo a segurança d...' não atende às diretrizes oficiais do Ministério da Saúde.

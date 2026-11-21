@@ -1,7 +1,7 @@
 === CADERNO DE QUESTÕES: HIV/AIDS ===
 Total: 4 questões
 
-QUESTÃO 1 [Código: EF0351] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 1 [Código: EF0350] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
 Assunto: HIV/AIDS , Doenças Infecciosas e parasitárias
 O Programa Nacional de DST/Aids integra três componentes que se articulam entre si para que, assim, possam responder a esses objetivos e à epidemia do HIV/aids no país. O componente que articula suas diretrizes, estratégias e ações, tendo em vista a redução da incidência da infecção pelo HIV/aids e por outras DST é denominado:
 
@@ -11,18 +11,17 @@ O Programa Nacional de DST/Aids integra três componentes que se articulam entre
   [D] promoção, diagnóstico e assistência
   [E] prevenção, diagnóstico e assistência 352 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: B
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('promoção, proteção e prevenção') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'diagnóstico e assistência...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'promoção, proteção e prevenção...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'prevenção, proteção e diagnóstico...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'promoção, diagnóstico e assistência...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa E: Incorreta perante os protocolos técnicos, pois 'prevenção, diagnóstico e assistência 352 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 2 [Código: EF0425] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 2 [Código: EF0418] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
 Assunto: HIV/AIDS , Doenças Infecciosas e parasitárias
 Janela imunológica é o intervalo de tempo decorrido entre a infecção pelo HIV até a primeira detecção de anticorpos anti-HIV produzidos pelo sistema de defesa do organismo. Se um teste para detecção de anticorpos anti-HIV é realizado durante o período da janela imunológica, há a possibilidade de gerar um resultado não reagente, mesmo que a pessoa esteja infectada. Dessa forma, recomenda-se que, nos casos de testes com resultados não reagentes em que permaneça a suspeita de infecção pelo HIV, a testagem seja repetida após:
 
@@ -31,17 +30,16 @@ Janela imunológica é o intervalo de tempo decorrido entre a infecção pelo HI
   [C] 20 dias
   [D] 30 dias 426 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Prefeitura de Água Boa - MT Prova: SELECON - 2024 - Prefeitura de Água Boa - MT -
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: D
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('30 dias 426 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Prefeitura de Água Boa - MT Prova: SELECON - 2024 - Prefeitura de Água Boa - MT -') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois '30 dias 426 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 3 [Código: EF0467] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 3 [Código: EF0460] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
 Assunto: HIV/AIDS , Doenças Infecciosas e parasitárias
 Administrativo - Saúde/40h Em uma unidade de internação, um paciente com HIV positivo recebe alta hospitalar. A equipe de enfermagem orienta o paciente sobre os cuidados necessários em casa, incluindo a administração da medicação antirretroviral. Diante do exposto, a atitude mais importante da enfermeira para garantir a adesão do paciente ao tratamento medicamentoso é:
 
@@ -50,17 +48,16 @@ Administrativo - Saúde/40h Em uma unidade de internação, um paciente com HIV 
   [C] fornecer um cronograma rígido para a administração dos medicamentos, com horários específicos e sem flexibilidade
   [D] escutar atentamente as dúvidas e preocupações do paciente, oferecendo apoio emocional e adaptando as orientações às suas necessidades individua 468 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: D
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('escutar atentamente as dúvidas e preocupações do paciente, oferecendo apoio emocional e adaptando as orientações às suas necessidades individua 468 Ano: 2024') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'explicar detalhadamente o mecanismo de ação de cada medicamento e seus possíveis efei...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'enfatizar a importância da medicação para controlar a replicação viral e prevenir o d...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'fornecer um cronograma rígido para a administração dos medicamentos, com horários esp...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'escutar atentamente as dúvidas e preocupações do paciente, oferecendo apoio emocional...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 4 [Código: EF0568] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 4 [Código: EF0560] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Enfermeiro
 Assunto: HIV/AIDS , Doenças Infecciosas e parasitárias
 Pública - MT - Enfermeiro Assistencial Três grandes objetivos norteiam as diretrizes e as estratégias dos componentes que constituem o Programa Nacional de DST/AIDS, que, por sua vez, servirão de base para as ações em todos os níveis de atenção à saúde da população, sendo eles reduzir a incidência da infecção, ampliar o acesso à assistência e:
 
@@ -69,11 +66,10 @@ Pública - MT - Enfermeiro Assistencial Três grandes objetivos norteiam as dire
   [C] priorizar a prevenção
   [D] ampliar o diagnóstico
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: B
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('fortalecer as instituições de saúde') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'capacitar os profissionais de saúde...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'fortalecer as instituições de saúde...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'priorizar a prevenção...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'ampliar o diagnóstico...' não atende às diretrizes oficiais do Ministério da Saúde.
 

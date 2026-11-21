@@ -1,6 +1,7 @@
 [
   {
     "codigo_origem": "Q3584433",
+    "numero_original": 541,
     "banca": "SELECON",
     "orgao": "Prefeitura de Lucas do Rio Verde - MT",
     "ano": 2023,
@@ -27,18 +28,14 @@
         "texto": "disfagia, comprometimento cognitivo e características comportamentais semelhante ao Alzheimer, como rigidez, tremor e bradicinesia 542 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0541",
-    "numero_ordem": 541,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "B",
+    "id": "EF0533",
+    "numero_ordem": 533,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [B] ('disfunção motora, comprometimento cognitivo e características comportamentais, como apatia e embotamento afetivo') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'disfunção vesical e intestinal, comprometimento sensório e abscessos na pele...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'disfunção motora, comprometimento cognitivo e características comportamentais, como a...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -49,10 +46,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'disfagia, comprometimento cognitivo e características comportamentais semelhante ao A...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [B] ('disfunção motora, comprometimento cognitivo e características comportamentais, como apatia e embotamento afetivo') responde corre..."
   },
   {
     "codigo_origem": "Q2310572",
+    "numero_original": 625,
     "banca": "SELECON",
     "orgao": "Prefeitura de Primavera do Leste - MT",
     "ano": 2023,
@@ -79,10 +77,10 @@
         "texto": "atividade motora, respiração, circulação, estado de consciência e saturação de oxigênio 626 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0625",
-    "numero_ordem": 625,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "D",
+    "id": "EF0617",
+    "numero_ordem": 617,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('atividade motora, respiração, circulação, estado de consciência e saturação de oxigênio 626 Ano: 2023') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -95,16 +93,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'débito cardíaco, respiração, gasometria, estado de consciência e saturação de oxigêni...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'atividade motora, respiração, circulação, estado de consciência e saturação de oxigên...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('atividade motora, respiração, circulação, estado de consciência e saturação de oxigênio 626 Ano: 2023') responde corretamente à q..."
   },
   {
     "codigo_origem": "Q2297118",
+    "numero_original": 633,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Verde - MT",
     "ano": 2023,
@@ -131,10 +126,10 @@
         "texto": "diagnóstico precoce e rastreamento 634 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0633",
-    "numero_ordem": 633,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "D",
+    "id": "EF0625",
+    "numero_ordem": 625,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('diagnóstico precoce e rastreamento 634 Ano: 2023') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -147,16 +142,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'diagnóstico cirúrgico e coleta de exames...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'diagnóstico precoce e rastreamento 634 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('diagnóstico precoce e rastreamento 634 Ano: 2023') responde corretamente à questão conforme as boas práticas assistenc..."
   },
   {
     "codigo_origem": "Q1956080",
+    "numero_original": 702,
     "banca": "SELECON",
     "orgao": "Prefeitura de Pontes e Lacerda - MT",
     "ano": 2022,
@@ -183,15 +175,11 @@
         "texto": "anúria e melena 703 Ano: 2022"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0702",
-    "numero_ordem": 702,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "A",
+    "id": "EF0694",
+    "numero_ordem": 694,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [A] ('edema e hematúria') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'edema e hematúria...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'diarreia e disúria...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -205,10 +193,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'anúria e melena 703 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [A] ('edema e hematúria') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q1956078",
+    "numero_original": 704,
     "banca": "SELECON",
     "orgao": "Prefeitura de Pontes e Lacerda - MT",
     "ano": 2022,
@@ -235,18 +224,14 @@
         "texto": "dispneia e síncope 705 Enfermagem > Saúde da Criança e do Adolescente , HIV/AIDS , Doenças Infecciosas e parasitárias Assistência de Enfermagem ao Recém-Nascido Banca: SELECON Órgão: Prefeitura de Pontes e Lacerda - MT Prova: SELECON - 2022 - Prefeitura de Pontes e Lacerda - MT -"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0704",
-    "numero_ordem": 704,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "B",
+    "id": "EF0696",
+    "numero_ordem": 696,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [B] ('peritonite e sangramentos') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'hipoglicemia e ganho de peso...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'peritonite e sangramentos...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -257,10 +242,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'dispneia e síncope 705 Enfermagem > Saúde da Criança e do Adolescente , HIV/AIDS , Do...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [B] ('peritonite e sangramentos') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q1953161",
+    "numero_original": 726,
     "banca": "SELECON",
     "orgao": "Prefeitura de Pontes e Lacerda - MT",
     "ano": 2022,
@@ -287,10 +273,10 @@
         "texto": "hidronefrose 727 Ano: 2022 Enfermagem > Doenças Cardiovasculares , Doenças Crônicas Não Transmissíveis , Doenças Crônicas Não Transmissíveis: panorama geral e plano de enfrentamento Banca: SELECON Órgão: Prefeitura de Pontes e Lacerda - MT Prova: SELECON - 2022 - Prefeitura de Pontes e Lacerda - MT -"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0726",
-    "numero_ordem": 726,
-    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "resposta_correta": "C",
+    "id": "EF0718",
+    "numero_ordem": 718,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [C] ('pré-renal') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -301,18 +287,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'intrarrenal...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'hidronefrose 727 Ano: 2022 Enfermagem > Doenças Cardiovasculares , Doenças Crônicas N...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [C]..."
   },
   {
     "codigo_origem": "Q1314501",
+    "numero_original": 759,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2020,
@@ -321,16 +304,47 @@
     "materia": "Enfermagem",
     "assunto": "Doenças Crônicas Não Transmissíveis ,",
     "enunciado": "",
-    "alternativas": [],
-    "resposta_correta": "",
-    "id": "EF0759",
-    "numero_ordem": 759,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
-    "analise_distratores": [],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "programas específicos por patologia"
+      },
+      {
+        "id": "B",
+        "texto": "níveis de complexidade e ou densidade tecnológica"
+      },
+      {
+        "id": "C",
+        "texto": "áreas geográficas definidas"
+      },
+      {
+        "id": "D",
+        "texto": "níveis de participação do público na gestão 760 Ano: 2020 Enfermagem > Doenças Crônicas Não Transmissíveis , Doenças Crônicas Não Transmissíveis: panorama geral e plano de enfrentamento Banca: SELECON Órgão: Prefeitura de Boa Vista - RR Prova: SELECON - 2020 - Prefeitura de Boa Vista - RR - Analista"
+      }
+    ],
+    "resposta_correta": "B",
+    "id": "EF0751",
+    "numero_ordem": 751,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [B] ('níveis de complexidade e ou densidade tecnológica') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'programas específicos por patologia...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'áreas geográficas definidas...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'níveis de participação do público na gestão 760 Ano: 2020 Enfermagem > Doenças Crônic...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [B] ('níveis de complexidade e ou densidade tecnológica') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q2710333",
+    "numero_original": 841,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Grande - MS",
     "ano": 2019,
@@ -357,15 +371,11 @@
         "texto": "etílicos, com histórico de DRC na família e com hipotireoidismo 842 Ano: 2019"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0841",
-    "numero_ordem": 841,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "A",
+    "id": "EF0833",
+    "numero_ordem": 833,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('tabagistas, obesos, idosos e em uso de agentes nefrotóxicos') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'tabagistas, obesos, idosos e em uso de agentes nefrotóxicos...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'negros, com ausência de diabetes, etílicos e adultos jovens...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -379,10 +389,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'etílicos, com histórico de DRC na família e com hipotireoidismo 842 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('tabagistas, obesos, idosos e em uso de agentes nefrotóxicos') responde corretamente à questão conforme as boas práticas assistenc..."
   },
   {
     "codigo_origem": "Q2710328",
+    "numero_original": 842,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Grande - MS",
     "ano": 2019,
@@ -409,10 +420,10 @@
         "texto": "hematúria, oligúria, hipotensão arterial e dislipidemia 843 Ano: 2019"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0842",
-    "numero_ordem": 842,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "C",
+    "id": "EF0834",
+    "numero_ordem": 834,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [C] ('edema periorbital, azotem ia e hipertensão arterial') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -423,14 +434,10 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'retenção de sódio e água, hipotensão arterial e choque anafilático...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'edema periorbital, azotem ia e hipertensão arterial...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'hematúria, oligúria, hipotensão arterial e dislipidemia 843 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [C] ('edema periorbital, azotem ia e hipertensão arterial') responde corretamente à questão conforme as boas práticas assistenciais."
   }
 ]

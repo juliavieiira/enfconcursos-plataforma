@@ -10,11 +10,10 @@ Enfermagem A homeostasia é um conceito central da fisiologia humana e refere-se
   [C] liberação de hormônio do crescimento, que estimula a produção de fatores de crescimento em cascata
   [D] ativação do sistema de coagulação sanguínea após uma lesão vascular, que amplifica a formação do coágulo
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: B
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [B] ('aumento da frequência respiratória em resposta à elevação da concentração de gás carbônico no sangue') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'liberação de ocitocina durante o parto, que intensifica as contrações uterinas...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'aumento da frequência respiratória em resposta à elevação da concentração de gás carb...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'liberação de hormônio do crescimento, que estimula a produção de fatores de crescimen...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'ativação do sistema de coagulação sanguínea após uma lesão vascular, que amplifica a ...' não atende às diretrizes oficiais do Ministério da Saúde.
 
@@ -29,11 +28,10 @@ A anemia é um distúrbio hematológico caracterizado pela redução da hemoglob
   [C] a queda da massa eritrocitária, que reduz a produção de leucócitos pela medula óssea, levando à imunossupressão sistêmica progressiva
   [D] a diminuição do número de hemácias, que interfere diretamente na hemostasia primária, aumentando o risco de sangramentos espontâneos 80 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: EMGEPRON Prova: SELECON - 2026 - EMGEPRON - Técnico em Enfermagem
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: B
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [B] ('a diminuição da hemoglobina, que prejudica o transporte de oxigênio aos tecidos, resultando em fadiga, palidez e dispneia aos esforços') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'a redução das hemácias, que compromete a resposta imunológica, favorecendo infecções ...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'a diminuição da hemoglobina, que prejudica o transporte de oxigênio aos tecidos, resu...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a queda da massa eritrocitária, que reduz a produção de leucócitos pela medula óssea,...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'a diminuição do número de hemácias, que interfere diretamente na hemostasia primária,...' não atende às diretrizes oficiais do Ministério da Saúde.
 
@@ -48,11 +46,10 @@ Paciente de 58 anos, internado em unidade clínica por descompensação cardíac
   [C] presença de hipoalbuminemia discreta afasta o papel das forças de Starling na gênese do edema, indicando mecanismo exclusivamente inflamatório sistêmico predominante
   [D] oligúria observada indica redistribuição hídrica transitória, sem relação com retenção renal de sódio mediada por ativação do sistema renina-angiotensina-aldosterona 102 Ano: 2026
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: B
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [B] ('edema generalizado resulta da combinação entre aumento da pressão hidrostática capilar, ativação neuro-hormonal com retenção de sódio e água e redução relativa da pressão oncótica plasmática, favorecendo o deslocamento de líquido para o espaço intersticial') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'anasarca decorre predominantemente da expansão do volume intracelular secundária à fa...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'edema generalizado resulta da combinação entre aumento da pressão hidrostática capila...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'presença de hipoalbuminemia discreta afasta o papel das forças de Starling na gê...'.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'oligúria observada indica redistribuição hídrica transitória, sem relação com retençã...' não atende às diretrizes oficiais do Ministério da Saúde.
 
@@ -67,11 +64,10 @@ MT - Técnico em Enfermagem Em uma unidade de atenção básica, no decorrer da 
   [C] eupneia, por ainda se situar dentro da variação fisiológica aceitável
   [D] apneia, por indicar interrupção dos movimentos respiratórios 118 Ano: 2026
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.
+✅ Gabarito: B
+💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [B] ('taquipneia, por indicar frequência respiratória acima dos valores considerados normais') reflete a melhor evidência científica para o manejo de emergência.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'bradipneia, por representar redução da frequência respiratória abaixo do valor de ref...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'taquipneia, por indicar frequência respiratória acima dos valores considerados normai...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'eupneia, por ainda se situar dentro da variação fisiológica aceitável...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'apneia, por indicar interrupção dos movimentos respiratórios 118 Ano: 2026...' não atende às diretrizes oficiais do Ministério da Saúde.
 
@@ -86,11 +82,10 @@ Enfermagem Maria, 45 anos, internada na clínica médica por pneumonia, encontra
   [C] hipotensão
   [D] eupneia
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.
+✅ Gabarito: B
+💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [B] ('taquicardia') reflete a melhor evidência científica para o manejo de emergência.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'bradicardia...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'taquicardia...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
 
@@ -105,17 +100,16 @@ ANHH - Nível I - Grau A - Enfermeiro O fator Rh é uma característica adiciona
   [C] a presença do fator Rh positivo garante que o indivíduo possa doar sangue para receptores Rh negativo sem risco de reação
   [D] o fator Rh não apresenta implicações clínicas relevantes no contexto de transfusões ou na gravidez 270 Ano: 2025 Enfermagem > Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Diagnósticos de Enfermagem - NIC-NOC/CIPE/NANDA , Anamnese (Coleta de Dados) Banca: SELECON Órgão: HEMOMINAS Prova: SELECON - 2025 - HEMOMINAS - Analista de Hematologia e Hemoterapia -
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('indivíduos Rh negativo não possuem o antígeno D e podem desenvolver anticorpos anti-D quando expostos ao sangue Rh positivo') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'indivíduos Rh negativo não possuem o antígeno D e podem desenvolver anticorpos anti-D...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'indivíduos com fator Rh negativo apresentam o antígeno D circulando no plasma, mas nã...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a presença do fator Rh positivo garante que o indivíduo possa doar sangue para recept...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'o fator Rh não apresenta implicações clínicas relevantes no contexto de transfusões o...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 7 [Código: EF0517] - Prefeitura de Dourados - MS (SELECON 2023) - Enfermeiro
+QUESTÃO 7 [Código: EF0509] - Prefeitura de Dourados - MS (SELECON 2023) - Enfermeiro
 Assunto: Fisiologia
 Sabe-se que o coração, em um adulto jovem saudável e em repouso, ejeta, por minuto, aproximadamente, 5 litros de sangue através de cada câmara ventricular. O aumento da força de contração que ocorre quando há um aumento do retorno venoso (pré-carga) é chamado de efeito:
 
@@ -124,17 +118,16 @@ Sabe-se que o coração, em um adulto jovem saudável e em repouso, ejeta, por m
   [C] Purkinje
   [D] Frank - Starling 518 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('Frank - Starling 518 Ano: 2023') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Frank - Starling 518 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 8 [Código: EF0539] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 8 [Código: EF0531] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2023) - Enfermeiro
 Assunto: Fisiologia
 MT - Enfermeiro 20H A hipocalemia pode levar à fraqueza muscular, paralisia ascendente, atonia gástrica, rabdomiólise com mioglobinúria e insuficiência renal aguda, taquicardia atrial, dissociação atrioventricular, taquicardia e fibrilação ventricular. Além disso, o paciente poderá apresentar, no eletrocardiograma, as seguintes alterações:
 
@@ -143,17 +136,16 @@ MT - Enfermeiro 20H A hipocalemia pode levar à fraqueza muscular, paralisia asc
   [C] alongamento de ondas T, depressão do segmento QRS e ondas U proeminentes
   [D] alongamento de ondas T, aumento do segmento ST e ausência de ondas U 540 Ano: 2023 Enfermagem > Doenças Cardiovasculares , Doenças Infecciosas e parasitárias , Doenças Crônicas Não Transmissíveis Outras Doenças Infecciosas e Parasitárias Banca: SELECON Órgão: Prefeitura de Lucas do Rio Verde - MT Prova: SELECON - 2023 - Prefeitura de Lucas do Rio Verde -
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: A
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [A] ('achatamento ou inversão de ondas T, depressão do segmento ST e ondas U proeminentes') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'achatamento ou inversão de ondas T, depressão do segmento ST e ondas U proeminentes...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'achatamento ou inversão do QRS, depressão do segmento P-R e ondas U proeminentes...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'alongamento de ondas T, depressão do segmento QRS e ondas U proeminentes...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'alongamento de ondas T, aumento do segmento ST e ausência de ondas U 540 Ano: 2023 En...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 9 [Código: EF0632] - Prefeitura de Campo Verde - MT (SELECON 2023) - Técnico de Enfermagem
+QUESTÃO 9 [Código: EF0624] - Prefeitura de Campo Verde - MT (SELECON 2023) - Técnico de Enfermagem
 Assunto: Fisiologia
 em Enfermagem O potássio é um íon predominantemente intracelular. O conteúdo corporal de potássio é de cerca de 50mEq/kg. Em caso de concentração plasmática do íon potássio acima da faixa de normalidade, denomina-se esse distúrbio de:
 
@@ -162,17 +154,16 @@ em Enfermagem O potássio é um íon predominantemente intracelular. O conteúdo
   [C] Hipercalemia
   [D] Hiperemia 633 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: C
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [C] ('Hipercalemia') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'Hipopotassemia...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'Hipercalcemia...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Hipercalemia...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Hiperemia 633 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 10 [Código: EF0637] - Prefeitura de Campo Verde - MT (SELECON 2023) - Técnico de Enfermagem
+QUESTÃO 10 [Código: EF0629] - Prefeitura de Campo Verde - MT (SELECON 2023) - Técnico de Enfermagem
 Assunto: Fisiologia , Fisiologia do Sistema Nervoso
 em Enfermagem Um distúrbio da deglutição, decorrente de causas neurológicas e/ou estruturais, que se manifesta desde uma dificuldade mínima para engolir comprimidos, alimentos e líquidos, até a incapacidade total de se realizar a deglutição recebe o nome de:
 
@@ -181,17 +172,16 @@ em Enfermagem Um distúrbio da deglutição, decorrente de causas neurológicas 
   [C] dislalia
   [D] apraxia 638 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: B
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [B] ('disfagia') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'apraxia 638 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 11 [Código: EF0660] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 11 [Código: EF0652] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Enfermeiro
 Assunto: Fisiologia , Doenças Hematológicas , Sistemas Glandular e Imunológico
 A sarcoidose é uma doença granulomatosa multissistêmica de etiologia desconhecida, que pode acometer quase todos os órgãos ou tecidos, porém afeta mais comumente os pulmões, linfonodos, fígado e baço. Quando a doença acomete os pulmões, as principais manifestações clínicas são:
 
@@ -200,17 +190,16 @@ A sarcoidose é uma doença granulomatosa multissistêmica de etiologia desconhe
   [C] bradicardia, tosse, melena e síncope
   [D] dispneia, tosse, hemoptise e congestão
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+✅ Gabarito: D
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [D] ('dispneia, tosse, hemoptise e congestão') constitui a conduta correta e segura.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'febre, dor, eupneia e hipertensão arterial...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'hiperglicemia, dor, disfagia e tonteira...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'bradicardia, tosse, melena e síncope...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'dispneia, tosse, hemoptise e congestão...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 12 [Código: EF0840] - Prefeitura de Campo Grande - MS (SELECON 2024) - Enfermeiro
+QUESTÃO 12 [Código: EF0832] - Prefeitura de Campo Grande - MS (SELECON 2024) - Enfermeiro
 Assunto: Fisiologia
 A lipoproteína que reveste a superfície alveolar e é responsável por impedir o colabamento do alvéolo, reduzindo a tensão superficial gerada pela força de atração das moléculas, é conhecida como:
 
@@ -219,17 +208,16 @@ A lipoproteína que reveste a superfície alveolar e é responsável por impedir
   [C] ptialina
   [D] surfactante
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('surfactante') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'acetilcolina...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'surfactante...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 13 [Código: EF0854] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
+QUESTÃO 13 [Código: EF0846] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
 Assunto: Fisiologia , Sistema Hematopoiético
 É uma neoplasia hematológica que corresponde a 1% de todas as doenças malignas e 10% das doenças malignas hematológicas, caracterizada pela proliferação clonai de plasmócitos que infiltram a medula óssea, suprimindo a hematopoese normal, além de provocar destruição óssea. Essa doença é chamada de:
 
@@ -238,17 +226,16 @@ Assunto: Fisiologia , Sistema Hematopoiético
   [C] leucemia crônica
   [D] linfoma múltiplo 855 Ano: 2019
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [A] ('mieloma múltiplo') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'mieloma múltiplo...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'leucemia aguda...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'leucemia crônica...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'linfoma múltiplo 855 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 14 [Código: EF0855] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
+QUESTÃO 14 [Código: EF0847] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
 Assunto: Fisiologia , Enfermagem em Oncologia , Sistema Hematopoiético
 A leucemia é uma doença maligna dos glóbulos brancos (leucócitos) de origem, na maioria das vezes, não conhecida, sendo caracterizada pela produção excessiva de células brancas anormais. São sinais e sintomas na leucemia aguda:
 
@@ -257,17 +244,16 @@ A leucemia é uma doença maligna dos glóbulos brancos (leucócitos) de origem,
   [C] febre, palidez, hemorragia, anorexia, fadiga, dor abdominal e óssea
   [D] tontura, cianose, perda de peso, sudorese noturna e ausência de febre 856 Ano: 2019
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: C
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [C] ('febre, palidez, hemorragia, anorexia, fadiga, dor abdominal e óssea') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'ausência de febre, ganho de peso, agitação, náuseas, vômitos e artralgia...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'febre, sangramentos, disposição aumentada, ganho de peso e tosse...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'febre, palidez, hemorragia, anorexia, fadiga, dor abdominal e óssea...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'tontura, cianose, perda de peso, sudorese noturna e ausência de febre 856 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 15 [Código: EF0856] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
+QUESTÃO 15 [Código: EF0848] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
 Assunto: Fisiologia , Sistema Hematopoiético
 O processo de formação, desenvolvimento e maturação dos elementos figurados do sangue (eritrócitos, leucócitos e plaquetas) a partir de um precursor celular comum e indiferenciado é chamado de
 
@@ -276,17 +262,16 @@ O processo de formação, desenvolvimento e maturação dos elementos figurados 
   [C] hematúria
   [D] hemoptise 857 Ano: 2019
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [A] ('hematopoese') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'hematopoese...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'hemoptise 857 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 16 [Código: EF0868] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
+QUESTÃO 16 [Código: EF0860] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
 Assunto: Fisiologia
 A administração intravenosa de sangue total ou hemocomponentes pode ser definida como a transferência de sangue e hemocomponentes de um indivíduo (doador) para outro (receptor). Está indicada para pacientes que sofreram perda sanguínea significante ou alterações hematológicas decorrentes de doenças ou procedimentos como: choque, traumatismo, hemorragia, entre outros. Uma medida importante, podendo ser realizada pelo técnico de enfermagem, para garantir uma administração de sangue de forma segura é:
 
@@ -295,10 +280,9 @@ A administração intravenosa de sangue total ou hemocomponentes pode ser defini
   [C] manter a infusão por no máximo oito horas, devido ao risco de contaminação e/ou alterações do produto, seguindo o protocolo da instituição
   [D] realizar a infusão de solução salina a 20% com 3ml de cloreto de potássio, após a administração do produto, com o objetivo de manter a permeabilidade do cateter 869 Ano: 2019
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: A
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [A] ('confirmar a identificação do paciente na pulseira, na prescrição médica e no rótulo do hemocomponente, antes da sua administração, efetuando esta verificação duas vezes antes de iniciar a infusão') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'confirmar a identificação do paciente na pulseira, na prescrição médica e no rótulo d...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'dispor o sangue e alguns componentes por no máximo 24 horas em temperatura ambiente a...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'manter a infusão por no máximo oito horas, devido ao risco de contaminação e/ou alter...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'realizar a infusão de solução salina a 20% com 3ml de cloreto de potássio, após a adm...' não atende às diretrizes oficiais do Ministério da Saúde.

@@ -10,10 +10,9 @@ O diabetes mellitus é um distúrbio endócrino caracterizado por alteração na
   [C] hiperglicemia no diabetes resulta exclusivamente do consumo excessivo de açúcar na alimentação diária
   [D] elevação da glicose sanguínea independe da ação hormonal e ocorre apenas por alterações renais
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: A
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [A] ('falta ou dificuldade de ação da insulina impede a utilização adequada da glicose pelas células, causando aumento da glicemia') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'falta ou dificuldade de ação da insulina impede a utilização adequada da glicose pela...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'diabetes ocorre quando o organismo deixa de produzir glucagon, hormônio responsável p...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'hiperglicemia no diabetes resulta exclusivamente do consumo excessivo de açúcar ...'.
    • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'elevação da glicose sanguínea independe da ação hormonal e ocorre apenas por alt...'.
@@ -29,13 +28,12 @@ MT - Enfermeiro O diabetes mellitus tipo 2 é uma doença metabólica crônica c
   [C] glicemia casual (a qualquer hora do dia) ≥ 180 mg/dL associada a sintomas clássicos
   [D] glicemia de jejum ≥ 126 mg/dL confirmada em repetição em outro dia
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: D
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [D] ('glicemia de jejum ≥ 126 mg/dL confirmada em repetição em outro dia') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'glicemia de jejum ≥ 110 mg/dL em uma única dosagem...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'hemoglobina glicada (HbA1c) ≥ 6,0% em duas ocasiões distintas...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'glicemia casual (a qualquer hora do dia) ≥ 180 mg/dL associada a sintomas clássicos...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'glicemia de jejum ≥ 126 mg/dL confirmada em repetição em outro dia...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
@@ -48,17 +46,16 @@ ANHH - Nível I - Grau A - Enfermeiro Na assistência de enfermagem a pacientes 
   [C] a administração de insulina pode ser realizada em qualquer local do corpo, desde que a rotação dos locais de aplicação não seja uma preocupação principal
   [D] a educação em saúde para pacientes diabéticos deve focar exclusivamente no controle alimentar, sendo desnecessário abordar a importância da atividade física regular 258 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: B
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [B] ('a orientação para o autocuidado inclui instruções sobre a administração correta de insulina, cuidados com os pés, alimentação adequada e reconhecimento de sinais de hipoglicemia e hiperglicemia') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
    • Alternativa A: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a monitorização da glicemia capilar deve ser realizada apenas uma vez ao dia, pr...'.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'a orientação para o autocuidado inclui instruções sobre a administração correta de in...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a administração de insulina pode ser realizada em qualquer local do corpo, desde que ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a educação em saúde para pacientes diabéticos deve focar exclusivamente no contr...'.
 
 ------------------------------------------------------------
 
-QUESTÃO 4 [Código: EF0298] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
+QUESTÃO 4 [Código: EF0297] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
 Assunto: Diabetes Mellitus , Atenção Básica e Saúde da Família , Doenças Crônicas Não Transmissíveis
 Um paciente de 48 anos foi diagnosticado recentemente com diabetes mellitus tipo 2 em um atendimento ambulatorial, após uma avaliação de rotina. O paciente tem histórico familiar de diabetes, apresenta sobrepeso e não segue uma dieta saudável, além de ter um estilo de vida sedentário. O enfermeiro da equipe responsável deve orientá-lo sobre o manejo da doença, enfatizando a importância de mudanças comportamentais, adesão ao tratamento medicamentoso e monitoramento da glicemia. Considerando as melhores práticas atuais e as diretrizes para o manejo do diabetes tipo 2, a alternativa abaixo que descreve a abordagem mais adequada para o enfermeiro, levando em conta a individualização do tratamento e a promoção da autogestão é:
 
@@ -67,17 +64,16 @@ Um paciente de 48 anos foi diagnosticado recentemente com diabetes mellitus tipo
   [C] o enfermeiro deve orientar que a diabetes mellitus tipo 2 é uma condição reversível com modificações significativas na dieta e prática de atividades físicas, e que o uso de medicamentos orais pode ser suspenso caso o paciente alcance resultados normais na glicemia após alguns meses de mudança de hábitos
   [D] o enfermeiro deve enfatizar a importância da adesão ao tratamento medicamentoso prescrito, mas também focar no controle glicêmico por meio de monitoramento regular da glicose, aconselhando a prática diária de exercícios físicos e uma alimentação balanceada, assim como incluir orientações sobre os fatores de risco cardiovascular, já que o paciente está em risco de desenvolver complicações crônicas 299 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: D
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [D] ('o enfermeiro deve enfatizar a importância da adesão ao tratamento medicamentoso prescrito, mas também focar no controle glicêmico por meio de monitoramento regular da glicose, aconselhando a prática diária de exercícios físicos e uma alimentação balanceada, assim como incluir orientações sobre os fatores de risco cardiovascular, já que o paciente está em risco de desenvolver complicações crônicas 299 Ano: 2025') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
    • Alternativa A: Abaixar a cabeceira logo após a dieta favorece a regurgitação gástrica com alto risco de broncoaspiração.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'o enfermeiro deve centrar a orientação na importância da insulina como primeira linha...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'o enfermeiro deve orientar que a diabetes mellitus tipo 2 é uma condição reversível c...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'o enfermeiro deve enfatizar a importância da adesão ao tratamento medicamentoso presc...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 5 [Código: EF0343] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 5 [Código: EF0342] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
 Assunto: Diabetes Mellitus , Doenças Crônicas Não Transmissíveis
 A diabetes é uma doença crônica que afeta os idosos com grande prevalência. A descompensação aguda grave no diabético com hiperglicemia pode gerar produção de corpos cetônicos (pela queima de gordura corporal), desidratação e alterações em graus variáveis da consciência. Esses sintomas são referentes a:
 
@@ -87,18 +83,17 @@ A diabetes é uma doença crônica que afeta os idosos com grande prevalência. 
   [D] cetoacidose diabética
   [E] descompensação diabética
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: D
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [D] ('cetoacidose diabética') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'hipoglicemia...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'coma diabético...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'coma hipoglicêmico...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'cetoacidose diabética...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa E: Incorreta perante os protocolos técnicos, pois 'descompensação diabética...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 6 [Código: EF0696] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Técnico de Enfermagem
+QUESTÃO 6 [Código: EF0688] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Técnico de Enfermagem
 Assunto: Diabetes Mellitus , Farmacologia na Enfermagem , Doenças Crônicas Não Transmissíveis
 Técnico em Enfermagem Segundo o Ministério da Saúde (2010), o pico de ação da insulina regular após a administração é de:
 
@@ -107,17 +102,16 @@ Técnico em Enfermagem Segundo o Ministério da Saúde (2010), o pico de ação 
   [C] 2 horas a 3 horas
   [D] 4 horas a 10 horas 697 Enfermagem > HIV/AIDS , Tuberculose , Hanseníase Doenças Infecciosas e parasitárias , Outras Doenças Infecciosas e Parasitárias Banca: SELECON Órgão: Prefeitura de Pontes e Lacerda - MT Prova: SELECON - 2022 - Prefeitura de Pontes e Lacerda - MT -
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: C
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [C] ('2 horas a 3 horas') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois '30 minutos a 60 minutos...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois '12 horas a 18 horas...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois '2 horas a 3 horas...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois '4 horas a 10 horas 697 Enfermagem > HIV/AIDS , Tuberculose , Hanseníase Doenças Infec...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 7 [Código: EF0717] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Enfermeiro
+QUESTÃO 7 [Código: EF0709] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Enfermeiro
 Assunto: Diabetes Mellitus , Doenças Crônicas Não Transmissíveis
 DiabetesMellitus (DM)éumasíndromemetabólicadeorigem múltipla, decorrente da falta de insulina e/ou da incapacidade de a insulina exercer adequadamente seus efeitos no organismo. Assinale a opção em que se apresenta o tipo de diabetes que acomete cerca de 5 a 10% dos pacientes, decorrente de um defeito do sistema imunológico, cujos anticorpos atacam as células que produzem insulina no pâncreas:
 
@@ -126,17 +120,16 @@ DiabetesMellitus (DM)éumasíndromemetabólicadeorigem múltipla, decorrente da 
   [C] LADA
   [D] Insipidus
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: A
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [A] ('Tipo') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
 
 ------------------------------------------------------------
 
-QUESTÃO 8 [Código: EF0791] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+QUESTÃO 8 [Código: EF0783] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
 Assunto: Diabetes Mellitus , Doenças Crônicas Não Transmissíveis
 Intensivista Pediátrico A cetoacidose diabética (CAD) é uma complicação causada pela deficiência de insulina por insuficiência das células pancreáticas, associada aos mecanismos contrarreguladores, como estresse, sepse e hormônios. São manifestações clínicas desse quadro:
 
@@ -145,27 +138,34 @@ Intensivista Pediátrico A cetoacidose diabética (CAD) é uma complicação cau
   [C] polidpsia, respiração atáxica, náusea, prurido, cefaleia e exantema
   [D] polifagia, náusea, poliúrua, febre, calafrios e edema severo. 792 Ano: 2020
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: A
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [A] ('hálito cetônico, respiração de Kussmaul, náusea, vômito e dor abdominal') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'hálito cetônico, respiração de Kussmaul, náusea, vômito e dor abdominal...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'poliúria, respiração de Biot, náusea, tonteira, palpitações e disfagia...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'polidpsia, respiração atáxica, náusea, prurido, cefaleia e exantema...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'polifagia, náusea, poliúrua, febre, calafrios e edema severo. 792 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 9 [Código: EF0848] - Prefeitura Municipal (SELECON 2019) - Enfermeiro
+QUESTÃO 9 [Código: EF0840] - Prefeitura Municipal (SELECON 2019) - Enfermeiro
 Assunto: Diabetes Mellitus , Doenças Crônicas Não Transmissíveis
 
 
+  [A] gliclazida
+  [B] metformina
+  [C] glibenclamida
+  [D] insulina regular 849 Ano: 2019
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: B
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [B] ('metformina') está perfeitamente alinhada com as metas clínicas preconizadas.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'glibenclamida...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'insulina regular 849 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 10 [Código: EF0879] - Prefeitura de Boa Vista - RR (SELECON 2019) - Técnico de Enfermagem
+QUESTÃO 10 [Código: EF0871] - Prefeitura de Boa Vista - RR (SELECON 2019) - Técnico de Enfermagem
 Assunto: Diabetes Mellitus , Doenças Crônicas Não Transmissíveis
 Técnico - Grupo Especial - Técnico de Enfermagem O tipo de Diabetes mellitus em que ocorre a destruição das células beta pancreáticas, que acomete as crianças e jovens sem excesso de peso, de início abrupto, com rápida evolução para cetoacidose é conhecido como:
 
@@ -174,10 +174,9 @@ Técnico - Grupo Especial - Técnico de Enfermagem O tipo de Diabetes mellitus e
   [C] tipo
   [D] tipo 4 880 Ano: 2019
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
+✅ Gabarito: A
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [A] ('tipo') representa a conduta científica e clinicamente recomendada.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'tipo 4 880 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde.

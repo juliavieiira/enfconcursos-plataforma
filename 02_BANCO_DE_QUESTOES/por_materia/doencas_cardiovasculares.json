@@ -1,6 +1,7 @@
 [
   {
     "codigo_origem": "Q3265169",
+    "numero_original": 256,
     "banca": "SELECON",
     "orgao": "HEMOMINAS",
     "ano": 2025,
@@ -27,10 +28,10 @@
         "texto": "a prática de exercícios físicos intensos é recomendada para todos os pacientes com insuficiência cardíaca, independentemente do estágio da doença, para melhorar a função cardíaca 257 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0256",
     "numero_ordem": 256,
-    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [C] ('a orientação ao paciente sobre a importância do controle da ingestão de sódio e a adesão ao tratamento medicamentoso é fundamental para a prevenção de exacerbações da insuficiência cardíaca') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -41,10 +42,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'a administração de diuréticos deve ser feita sem considerar a monitorização dos eletr...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'a orientação ao paciente sobre a importância do controle da ingestão de sódio e a ade...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'a prática de exercícios físicos intensos é recomendada para todos os pacientes com in...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -53,6 +50,7 @@
   },
   {
     "codigo_origem": "Q2453005",
+    "numero_original": 494,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sapezal - MT",
     "ano": 2024,
@@ -79,15 +77,11 @@
         "texto": "idade, sexo, grau de escolaridade, moradia, estresse e hipertensão 495 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0494",
-    "numero_ordem": 494,
-    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "resposta_correta": "A",
+    "id": "EF0487",
+    "numero_ordem": 487,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [A] ('tabagismo, colesterol em excesso, hipertensão, obesidade, estresse, depressão e diabetes') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'tabagismo, colesterol em excesso, hipertensão, obesidade, estresse, depressão e diabe...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'doenças pré-existentes, idade, sexo, condições socioeconômicas e estresse...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -105,6 +99,7 @@
   },
   {
     "codigo_origem": "Q2310587",
+    "numero_original": 610,
     "banca": "SELECON",
     "orgao": "Prefeitura de Primavera do Leste - MT",
     "ano": 2023,
@@ -113,16 +108,47 @@
     "materia": "Enfermagem",
     "assunto": "Doenças Cardiovasculares , Fisiologia , Doenças Crônicas Não Transmissíveis",
     "enunciado": "",
-    "alternativas": [],
-    "resposta_correta": "",
-    "id": "EF0610",
-    "numero_ordem": 610,
-    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
-    "analise_distratores": [],
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "duas, sendo a primeira fortalecer a educação em saúde do SUS, no âmbito municipal"
+      },
+      {
+        "id": "B",
+        "texto": "duas, sendo a segunda estimular a informatização do SUS, no âmbito estadual"
+      },
+      {
+        "id": "C",
+        "texto": "quatro, sendo a primeira exercer a gestão do SUS, no âmbito estadual"
+      },
+      {
+        "id": "D",
+        "texto": "quatro, sendo a segunda financiar vacinas no SUS, no âmbito federal 611 Ano: 2023 Enfermagem > Doenças Cardiovasculares , Fisiologia , Doenças Crônicas Não Transmissíveis Fisiologia do Sistema Cardiovascular Banca: SELECON Órgão: Prefeitura de Primavera do Leste - MT Prova: SELECON - 2023 - Prefeitura de Primavera do Leste -"
+      }
+    ],
+    "resposta_correta": "C",
+    "id": "EF0602",
+    "numero_ordem": 602,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [C] ('quatro, sendo a primeira exercer a gestão do SUS, no âmbito estadual') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'duas, sendo a primeira fortalecer a educação em saúde do SUS, no âmbito municipal...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'duas, sendo a segunda estimular a informatização do SUS, no âmbito estadual...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'quatro, sendo a segunda financiar vacinas no SUS, no âmbito federal 611 Ano: 2023 Enf...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
     "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   },
   {
     "codigo_origem": "Q1953164",
+    "numero_original": 723,
     "banca": "SELECON",
     "orgao": "Prefeitura de Pontes e Lacerda - MT",
     "ano": 2022,
@@ -149,10 +175,10 @@
         "texto": "sinal de Homans e Bandeira 724 Ano: 2022"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0723",
-    "numero_ordem": 723,
-    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "resposta_correta": "D",
+    "id": "EF0715",
+    "numero_ordem": 715,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [D] ('sinal de Homans e Bandeira 724 Ano: 2022') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -165,16 +191,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'sinal de Braden e Bandeira...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'sinal de Homans e Bandeira 724 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   },
   {
     "codigo_origem": "Q1953163",
+    "numero_original": 724,
     "banca": "SELECON",
     "orgao": "Prefeitura de Pontes e Lacerda - MT",
     "ano": 2022,
@@ -201,15 +224,11 @@
         "texto": "pressão arterial média do tornozelo e pressão arterial média do braço 725 Ano: 2022"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0724",
-    "numero_ordem": 724,
-    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "resposta_correta": "A",
+    "id": "EF0716",
+    "numero_ordem": 716,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [A] ('pressão arterial sistólica do tornozelo e pressão arterial sistólica do braço') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'pressão arterial sistólica do tornozelo e pressão arterial sistólica do braço...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'pressão arterial diastólica do tornozelo e pressão arterial sistólica do braço...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -227,6 +246,7 @@
   },
   {
     "codigo_origem": "Q1320490",
+    "numero_original": 751,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2020,
@@ -253,15 +273,11 @@
         "texto": "betabloqueador"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0751",
-    "numero_ordem": 751,
-    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "resposta_correta": "A",
+    "id": "EF0743",
+    "numero_ordem": 743,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [A] ('morfina') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'sinvastativa...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -279,6 +295,7 @@
   },
   {
     "codigo_origem": "Q1313703",
+    "numero_original": 796,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2020,
@@ -305,15 +322,11 @@
         "texto": "miose, euforia, falta de ar e febre 797 Ano: 2020"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0796",
-    "numero_ordem": 796,
-    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "resposta_correta": "A",
+    "id": "EF0788",
+    "numero_ordem": 788,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [A] ('palpitações, taquicardia, falta de ar e dor no peito') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'palpitações, taquicardia, falta de ar e dor no peito...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'taquicardia, palpitações, dor no peito e eczema...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -331,6 +344,7 @@
   },
   {
     "codigo_origem": "Q1313699",
+    "numero_original": 800,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2024,
@@ -357,10 +371,10 @@
         "texto": "a criança apresenta importante dispneia ou diaforese na alimentação em lactentes; tempo de alimentação muito prolongado, com déficit de crescimento; em crianças maiores, importante dispneia aos exercícios"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0800",
-    "numero_ordem": 800,
-    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "resposta_correta": "C",
+    "id": "EF0792",
+    "numero_ordem": 792,
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [C] ('a criança apresenta leve taquipneia ou diaforese na alimentação em lactentes; dispneia aos exercícios em crianças maiores') representa a conduta científica e clinicamente recomendada.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -369,10 +383,6 @@
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'a criança não apresenta taquipneia, retrações, roncos ou diaforese em repouso...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'a criança apresenta leve taquipneia ou diaforese na alimentação em lactentes; dispnei...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",

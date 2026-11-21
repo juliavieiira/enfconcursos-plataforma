@@ -1,5 +1,5 @@
 === CADERNO DE QUESTÕES: GESTÃO DE PROCESSOS E EQUIPES DE TRABALHO ===
-Total: 5 questões
+Total: 4 questões
 
 QUESTÃO 1 [Código: EF0083] - EMGEPRON (SELECON 2026) - Técnico de Enfermagem
 Assunto: Gestão de Processos e Equipes de Trabalho , Administração em Enfermagem
@@ -10,10 +10,9 @@ Durante o plantão em uma unidade de internação hospitalar, o técnico de enfe
   [C] falha técnica sem repercussão ética, uma vez que o registro foi realizado com a intenção de manter a organização do serviço e evitar conflitos hierárquicos
   [D] irregularidade atribuível exclusivamente à ausência do medicamento na unidade, não recaindo responsabilidade sobre o profissional que registrou
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: A
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('infração ética grave, por configurar registro de informação inverídica no prontuário do paciente, comprometendo a segurança do cuidado e a responsabilidade profissional') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'infração ética grave, por configurar registro de informação inverídica no prontuário ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'conduta inadequada do ponto de vista administrativo, passível apenas de advertên...'.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'falha técnica sem repercussão ética, uma vez que o registro foi realizado com a inten...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'irregularidade atribuível exclusivamente à ausência do medicamento na unidade, n...'.
@@ -24,13 +23,21 @@ QUESTÃO 2 [Código: EF0265] - HEMOMINAS (SELECON 2025) - Enfermeiro
 Assunto: Gestão de Processos e Equipes de Trabalho , Administração em Enfermagem ,
 
 
+  [A] ao suspeitar de uma reação transfusional, a infusão deve ser imediatamente suspensa e a bolsa de sangue descartada
+  [B] cefaleia, febre e prurido leve são indicações para continuar a transfusão, com monitoramento a cada 5 minutos
+  [C] o sangue e o equipo utilizados na transfusão devem ser mantidos e enviados para análise laboratorial em casos de reações adversas
+  [D] a principal conduta ao identificar uma reação transfusional é realizar um acesso venoso secundário para seguir com a transfusão 266 Ano: 2025 Enfermagem > Gestão de Processos e Equipes de Trabalho , Administração em Enfermagem , Liderança em Enfermagem Banca: SELECON Órgão: HEMOMINAS Prova: SELECON - 2025 - HEMOMINAS - Analista de Hematologia e Hemoterapia -
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: C
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [C] ('o sangue e o equipo utilizados na transfusão devem ser mantidos e enviados para análise laboratorial em casos de reações adversas') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'ao suspeitar de uma reação transfusional, a infusão deve ser imediatamente suspensa e...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'cefaleia, febre e prurido leve são indicações para continuar a transfusão, com monito...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'a principal conduta ao identificar uma reação transfusional é realizar um acesso veno...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 3 [Código: EF0431] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 3 [Código: EF0424] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Gestão de Processos e Equipes de Trabalho , Administração em Enfermagem
 Lilian trabalha em ambiente hospitalar e acredita na importância de preservar suas relações interpessoais para construir um ambiente de trabalho agradável e respeitoso. Alguns comportamentos corriqueiros podem auxiliar no vínculo e qualidade das relações no cotidiano. Um exemplo de comunicação não verbal útil que pode impactar positivamente nas relações interpessoais é:
 
@@ -40,10 +47,9 @@ Lilian trabalha em ambiente hospitalar e acredita na importância de preservar s
   [D] oferecer ajuda prática
   [E] perguntar como está sendo o dia da pessoa 432 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('sorrir') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'dar bons conselhos...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'oferecer ajuda prática...' não atende às diretrizes oficiais do Ministério da Saúde.
@@ -51,7 +57,7 @@ Lilian trabalha em ambiente hospitalar e acredita na importância de preservar s
 
 ------------------------------------------------------------
 
-QUESTÃO 4 [Código: EF0572] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 4 [Código: EF0564] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Enfermeiro
 Assunto: Gestão de Processos e Equipes de Trabalho , Administração em Enfermagem
 Pública - MT - Enfermeiro Assistencial As atividades do/a enfermeiro/a, como integrante da equipe de saúde, são de natureza privativa desse profissional e têm base na regulamentação do exercício profissional. Um exemplo dessas atividades privativas é a:
 
@@ -60,32 +66,12 @@ Pública - MT - Enfermeiro Assistencial As atividades do/a enfermeiro/a, como in
   [C] prestação de assistência de enfermagem à gestante, à parturiente, à puérpera e ao recém-nascido
   [D] realização de cuidados de enfermagem de maior complexidade técnica e que exijam conhecimentos científicos adequados e capacidade de tomar decisões imediatas 573 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('realização de cuidados de enfermagem de maior complexidade técnica e que exijam conhecimentos científicos adequados e capacidade de tomar decisões imediatas 573 Ano: 2023') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'participação no planejamento, na execução e na avaliação da programação de saúde...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'prescrição de medicamentos previamente estabelecidos em programas de saúde pública...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'prestação de assistência de enfermagem à gestante, à parturiente, à puérpera e ao rec...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'realização de cuidados de enfermagem de maior complexidade técnica e que exijam conhe...' não atende às diretrizes oficiais do Ministério da Saúde.
-
-------------------------------------------------------------
-
-QUESTÃO 5 [Código: EF0881] - Prefeitura de Boa Vista - RR (SELECON 2019) - Técnico de Enfermagem
-Assunto: Gestão de Processos e Equipes de Trabalho , Administração em Enfermagem
-Técnico - Grupo Especial - Técnico de Enfermagem Segundo o Ministério da Saúde, a troca do equipo como parte integrante do sistema de infusão é uma medida para prevenção de infecção relacionada à assistência a saúde. A troca do equipo que está sendo utilizada para infusões intermitentes é a cada:
-
-  [A] 96 horas
-  [B] 24 horas
-  [C] 36 horas
-  [D] 12 horas 882 Ano: 2019
-
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
-❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois '12 horas 882 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 

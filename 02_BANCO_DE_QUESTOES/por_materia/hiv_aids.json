@@ -1,6 +1,7 @@
 [
   {
     "codigo_origem": "Q2528675",
+    "numero_original": 351,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -31,18 +32,14 @@
         "texto": "prevenção, diagnóstico e assistência 352 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0351",
-    "numero_ordem": 351,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "B",
+    "id": "EF0350",
+    "numero_ordem": 350,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('promoção, proteção e prevenção') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'diagnóstico e assistência...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'promoção, proteção e prevenção...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -57,10 +54,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'prevenção, diagnóstico e assistência 352 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('promoção, proteção e p..."
   },
   {
     "codigo_origem": "Q2477203",
+    "numero_original": 425,
     "banca": "SELECON",
     "orgao": "Prefeitura de Água Boa - MT",
     "ano": 2024,
@@ -87,10 +85,10 @@
         "texto": "30 dias 426 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Prefeitura de Água Boa - MT Prova: SELECON - 2024 - Prefeitura de Água Boa - MT -"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0425",
-    "numero_ordem": 425,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "D",
+    "id": "EF0418",
+    "numero_ordem": 418,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('30 dias 426 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Prefeitura de Água Boa - MT Prova: SELECON - 2024 - Prefeitura de Água Boa - MT -') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -103,16 +101,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois '30 dias 426 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('30 dias 426 Ano: 2024 ..."
   },
   {
     "codigo_origem": "Q2467335",
+    "numero_original": 467,
     "banca": "SELECON",
     "orgao": "Prefeitura de Água Boa - MT",
     "ano": 2024,
@@ -139,10 +134,10 @@
         "texto": "escutar atentamente as dúvidas e preocupações do paciente, oferecendo apoio emocional e adaptando as orientações às suas necessidades individua 468 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0467",
-    "numero_ordem": 467,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "D",
+    "id": "EF0460",
+    "numero_ordem": 460,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('escutar atentamente as dúvidas e preocupações do paciente, oferecendo apoio emocional e adaptando as orientações às suas necessidades individua 468 Ano: 2024') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -155,16 +150,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'fornecer um cronograma rígido para a administração dos medicamentos, com horários esp...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'escutar atentamente as dúvidas e preocupações do paciente, oferecendo apoio emocional...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('escutar atentamente as..."
   },
   {
     "codigo_origem": "Q2341566",
+    "numero_original": 568,
     "banca": "SELECON",
     "orgao": "Empresa Cuiabana de Saúde Pública - MT",
     "ano": 2023,
@@ -191,18 +183,14 @@
         "texto": "ampliar o diagnóstico"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0568",
-    "numero_ordem": 568,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "B",
+    "id": "EF0560",
+    "numero_ordem": 560,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('fortalecer as instituições de saúde') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'capacitar os profissionais de saúde...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'fortalecer as instituições de saúde...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -213,6 +201,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'ampliar o diagnóstico...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('fortalecer as institui..."
   }
 ]

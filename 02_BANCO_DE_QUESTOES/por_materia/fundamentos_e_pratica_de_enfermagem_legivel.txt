@@ -1,172 +1,291 @@
 === CADERNO DE QUESTÕES: FUNDAMENTOS E PRÁTICA DE ENFERMAGEM ===
-Total: 71 questões
+Total: 69 questões
 
 QUESTÃO 1 [Código: EF0010] - Prefeitura Municipal (SELECON 2026) - Técnico de Enfermagem
 Assunto: Fundamentos e Prática de Enfermagem
+MT - Técnico de Enfermagem - Secretaria de Saúde A mensuração da pressão arterial é um procedimento técnico que exige rigor metodológico para garantir a fidedignidade dos valores obtidos. Erros na técnica de aferição, como o uso de manguito de tamanho inadequado, a velocidade de insuflação ou a posição do braço do paciente, podem resultar em leituras falsamente elevadas ou reduzidas. Nesse contexto, a Diretriz Brasileira de Hipertensão Arterial recomenda que, para a medida da pressão arterial, o manguito deve ser posicionado:
 
-
+  [A] cerca de dois a três centímetros acima da fossa cubital, com a largura da bolsa de borracha correspondendo a aproximadamente 40% da circunferência do braço
+  [B] sobre a fossa cubital, para que a campânula do estetoscópio fique alinhada com a artéria braquial
+  [C] no terço médio do braço, independentemente da circunferência do membro, desde que o manguito envolva completamente o braço
+  [D] cerca de cinco centímetros abaixo da axila, com o manguito ocupando toda a extensão do braço para maximizar a compressão arterial
 
 ✅ Gabarito: A
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [A] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [A] ('cerca de dois a três centímetros acima da fossa cubital, com a largura da bolsa de borracha correspondendo a aproximadamente 40% da circunferência do braço') está perfeitamente alinhada com as metas clínicas preconizadas.
+❌ Distratores:
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'sobre a fossa cubital, para que a campânula do estetoscópio fique alinhada com a arté...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'no terço médio do braço, independentemente da circunferência do membro, desde que o m...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'cerca de cinco centímetros abaixo da axila, com o manguito ocupando toda a extensão d...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
 QUESTÃO 2 [Código: EF0029] - Prefeitura Municipal (SELECON 2026) - Técnico de Enfermagem
 Assunto: Fundamentos e Prática de Enfermagem
+Enfermagem As síndromes hipertensivas da gestação representam a principal causa de mortalidade materna no Brasil, com destaque para a pré-eclâmpsia, condição multissistêmica que pode evoluir para eclâmpsia, com risco de vida para a mulher e para o feto. O tratamento farmacológico da pré-eclâmpsia grave tem como medicamento de escolha o sulfato de magnésio, cuja administração intravenosa visa a prevenir a ocorrência de convulsões. Sobre a administração desse fármaco, o técnico de enfermagem deve:
 
+  [A] monitorar os sinais de toxicidade, como depressão respiratória, hiporreflexia e oligúria, e suspender a infusão caso a diurese seja inferior a 30 mL/hora
+  [B] diluir o sulfato de magnésio em soro glicosado a 5% e infundir em bomba de infusão, sendo desnecessária a aferição da pressão arterial durante a administração
+  [C] administrar o medicamento por via intramuscular profunda, alternando os glúteos, e manter a paciente em decúbito lateral esquerdo para evitar hipotensão
+  [D] administrar o sulfato de magnésio em bolus intravenoso rápido para alcançar efeito terapêutico imediato, independentemente de monitoramento da diurese
 
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [A]: 'monitorar os sinais de toxicidade, como depressão respiratória, hiporreflexia e oligúria, e suspender a infusão caso a diurese seja inferior a 30 mL/hora'.
+❌ Distratores:
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'diluir o sulfato de magnésio em soro glicosado a 5% e infundir em bomba de infusão, s...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'administrar o medicamento por via intramuscular profunda, alternando os glúteos, e ma...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'administrar o sulfato de magnésio em bolus intravenoso rápido para alcançar efeito te...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
 QUESTÃO 3 [Código: EF0032] - Prefeitura Municipal (SELECON 2026) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
+Enfermagem O sistema cardiovascular é responsável pelo transporte de nutrientes, gases, hormônios e resíduos metabólicos entre os tecidos do organismo. O coração, órgão central desse sistema, apresenta uma estrutura com quatro câmaras que se comunicam por meio de valvas, garantindo o fluxo sanguíneo unidirecional. A valva localizada entre o átrio direito e o ventrículo direito, que impede o refluxo de sangue durante a contração ventricular, é denominada valva:
 
+  [A] mitral
+  [B] aórtica
+  [C] pulmonar
+  [D] tricúspide
 
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [D] ('tricúspide') está perfeitamente alinhada com as metas clínicas preconizadas.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
 
 ------------------------------------------------------------
 
 QUESTÃO 4 [Código: EF0038] - Prefeitura Municipal (SELECON 2026) - Técnico de Enfermagem
 Assunto: Fundamentos e Prática de Enfermagem
+Enfermagem O diabetes mellitus gestacional é uma condição que exige rastreamento, diagnóstico precoce e manejo adequado durante o pré-natal, sendo a atuação do enfermeiro na Atenção Básica fundamental para a identificação e o acompanhamento das gestantes afetadas. O tratamento não farmacológico é a primeira abordagem recomendada para o controle glicêmico na gestação e inclui orientações sobre alimentação e atividade física. O técnico de enfermagem, ao prestar orientações a uma gestante com diagnóstico recente de diabetes gestacional, deve recomendar o(a):
 
+  [A] realização de monitorização glicêmica apenas uma vez por semana, desde que a gestante não apresente sintomas de hiperglicemia
+  [B] suspensão imediata de todos os carboidratos da dieta e a prática de exercícios físicos de alta intensidade para redução rápida da glicemia
+  [C] adoção de um plano alimentar fracionado em seis refeições diárias, com baixo índice glicêmico, associado à prática regular de atividade física moderada
+  [D] uso de insulina de ação ultrarrápida antes de cada refeição como primeira escolha terapêutica, dispensando a necessidade de modificações dietéticas
 
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: C
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [C]: 'adoção de um plano alimentar fracionado em seis refeições diárias, com baixo índice glicêmico, associado à prática regular de atividade física moderada'.
+❌ Distratores:
+   • Alternativa A: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'realização de monitorização glicêmica apenas uma vez por semana, desde que a ges...'.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'suspensão imediata de todos os carboidratos da dieta e a prática de exercícios físico...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'uso de insulina de ação ultrarrápida antes de cada refeição como primeira escolha ter...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
 QUESTÃO 5 [Código: EF0044] - Prefeitura Municipal (SELECON 2026) - Técnico de Enfermagem
 Assunto: Fundamentos e Prática de Enfermagem
+Técnico em Enfermagem - SMS Uma pessoa com mobilidade reduzida, vinculada a uma equipe da Estratégia Saúde da Família, necessita de curativo cuja realização foi programada no domicílio. Nessa assistência, o técnico de enfermagem:
 
+  [A] pode realizar o curativo no domicílio, respeitadas sua área de atuação e a regulamentação profissional
+  [B] pode executar o procedimento somente na Unidade Básica de Saúde, ainda que o deslocamento do usuário seja limitado
+  [C] deve restringir sua atuação domiciliar à verificação de sinais vitais, encaminhando procedimentos de enfermagem para a unidade
+  [D] pode realizar o curativo domiciliar apenas após elaborar o plano de cuidados e definir autonomamente a periodicidade do procedimento
 
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [A] ('pode realizar o curativo no domicílio, respeitadas sua área de atuação e a regulamentação profissional') é a indicação terapêutica correta para o quadro apresentado.
+❌ Distratores:
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'pode executar o procedimento somente na Unidade Básica de Saúde, ainda que o deslocam...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'deve restringir sua atuação domiciliar à verificação de sinais vitais, encaminhando p...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'pode realizar o curativo domiciliar apenas após elaborar o plano de cuidados e d...'.
 
 ------------------------------------------------------------
 
 QUESTÃO 6 [Código: EF0051] - Prefeitura Municipal (SELECON 2026) - Técnico de Enfermagem
 Assunto: Fundamentos e Prática de Enfermagem
+Técnico em Enfermagem - SMS A indicação de aspiração das vias aéreas não implica que o procedimento possa ser executado indistintamente por todos os integrantes da equipe de enfermagem. No âmbito das competências do técnico de enfermagem, a aspiração das vias aéreas pode ser realizada em:
 
+  [A] paciente grave em unidade de emergência
+  [B] paciente grave, intubado, em unidade de internação
+  [C] paciente não grave em unidade de internação, após avaliação e prescrição do enfermeiro
+  [D] paciente grave traqueostomizado em unidade semi-intensiva, desde que o procedimento esteja previsto na prescrição de enfermagem
 
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: C
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('paciente não grave em unidade de internação, após avaliação e prescrição do enfermeiro') constitui a conduta correta e segura.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'paciente grave em unidade de emergência...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'paciente grave, intubado, em unidade de internação...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'paciente grave traqueostomizado em unidade semi-intensiva, desde que o procedimento e...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
 QUESTÃO 7 [Código: EF0055] - Prefeitura Municipal (SELECON 2026) - Técnico de Enfermagem
 Assunto: Fundamentos e Prática de Enfermagem
+Técnico em Enfermagem - SMS Na manutenção de um campo estéril durante um procedimento, determinadas condições comprometem a esterilidade, mesmo sem contato direto com material não estéril. Uma dessas condições consiste em:
 
+  [A] manter os artigos no centro do campo
+  [B] manipular o material estéril acima da cintura
+  [C] posicionar o campo estéril abaixo do nível da cintura
+  [D] abrir a embalagem estéril, afastando inicialmente a aba mais distante do corpo
 
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: C
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [C] ('posicionar o campo estéril abaixo do nível da cintura') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'manter os artigos no centro do campo...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'manipular o material estéril acima da cintura...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'abrir a embalagem estéril, afastando inicialmente a aba mais distante do corpo...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
 QUESTÃO 8 [Código: EF0058] - Prefeitura Municipal (SELECON 2026) - Técnico de Enfermagem
 Assunto: Fundamentos e Prática de Enfermagem
+Técnico em Enfermagem - SMS Ao término dos cuidados prestados a um paciente hospitalizado, um técnico de enfermagem registrou no prontuário os sinais observados, os procedimentos executados e a resposta apresentada pelo paciente. No mesmo registro, acrescentou sua interpretação clínica sobre os dados coletados e estabeleceu o problema que, em sua avaliação, deveria nortear os cuidados subsequentes. A inadequação presente nesse registro está em:
 
+  [A] documentar a resposta do paciente aos cuidados realizados
+  [B] registrar os sinais observados durante a assistência de enfermagem
+  [C] anotar os procedimentos executados no período sob sua responsabilidade
+  [D] estabelecer o Diagnóstico de Enfermagem a partir da interpretação dos dados obtidos
 
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('estabelecer o Diagnóstico de Enfermagem a partir da interpretação dos dados obtidos') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'documentar a resposta do paciente aos cuidados realizados...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'registrar os sinais observados durante a assistência de enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'anotar os procedimentos executados no período sob sua responsabilidade...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
 QUESTÃO 9 [Código: EF0060] - Prefeitura Municipal (SELECON 2026) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
+Banca: SELECON Órgão: Prefeitura de Conquista D'Oeste - MT Provas: SELECON - 2026 - Prefeitura de Conquista D'Oeste 60 MT - Agente Comunitário de Saúde ... sífilis, uma infecção sexualmente transmissível de evolução crônica, apresenta um padrão de manifestações clínicas que se sucedem em estágios, com períodos de latência e possibilidade de complicações graves. O conhecimento sobre o agente etiológico, as vias de transmissão e as fases da doença é fundamental para o diagnóstico precoce, o tratamento adequado e a interrupção da cadeia de transmissão. Sobre a epidemiologia e o controle da sífilis no Brasil, a relação correta entre o agente, a via de transmissão predominante e a principal estratégia de prevenção da transmissão vertical é:
 
+  [A] o agente etiológico Treponema pallidum é uma bactéria Gram-negativa espiralada, transmitida predominantemente por via sexual e vertical, sendo a triagem sorológica no prénatal e o tratamento da gestante com penicilina as principais medidas para prevenção da sífilis congênita
+  [B] o agente etiológico Chlamydia trachomatis é uma bactéria intracelular obrigatória, transmitida por via sexual e por contato com superfícies contaminadas, sendo a vacinação de adolescentes e o tratamento com doxiciclina as principais medidas de prevenção
+  [C] o agente etiológico Neisseria gonorrhoeae é uma bactéria Gram-negativa diplocócica, transmitida por via sexual e vertical, sendo o rastreamento universal e o tratamento com azitromicina as principais medidas para prevenção da transmissão vertical
+  [D] o agente etiológico Treponema pallidum é uma bactéria Grampositiva em forma de bastonete, transmitida exclusivamente por via sexual, sendo a vacinação de gestantes a principal medida para prevenção da transmissão vertical
 
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('o agente etiológico Treponema pallidum é uma bactéria Gram-negativa espiralada, transmitida predominantemente por via sexual e vertical, sendo a triagem sorológica no prénatal e o tratamento da gestante com penicilina as principais medidas para prevenção da sífilis congênita') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+❌ Distratores:
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'o agente etiológico Chlamydia trachomatis é uma bactéria intracelular obrigatória, tr...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'o agente etiológico Neisseria gonorrhoeae é uma bactéria Gram-negativa diplocócica, t...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o agente etiológico Treponema pallidum é uma bactéria Grampositiva em forma de b...'.
 
 ------------------------------------------------------------
 
 QUESTÃO 10 [Código: EF0061] - Prefeitura Municipal (SELECON 2026) - Técnico de Enfermagem
 Assunto: Fundamentos e Prática de Enfermagem
-petitivas. Considerando os princípios de ergonomia aplicados ao trabalho em saúde e as diretrizes da legislação vigente, pode-se afirmar que a:
+Durante a rotina assistencial em uma enfermaria, o técnico de enfermagem realiza mobilização e transferência de pacientes dependentes, além de permanecer longos períodos em pé e executar atividades repetitivas. Considerando os princípios de ergonomia aplicados ao trabalho em saúde e as diretrizes da legislação vigente, pode-se afirmar que a:
 
   [A] ergonomia no ambiente hospitalar está restrita à organização do mobiliário, não abrangendo a forma de execução das atividades assistenciais
   [B] adoção de posturas inadequadas durante a mobilização de pacientes é aceitável, desde que o profissional utilize equipamentos de proteção individual
   [C] ergonomia busca adaptar o trabalhador às exigências do trabalho, mesmo que isso resulte em sobrecarga física e musculoesquelética a longo prazo
   [D] ergonomia visa a adaptar as condições de trabalho às características psicofisiológicas do trabalhador, reduzindo riscos de lesões osteomusculares e fadiga
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: D
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [D] ('ergonomia visa a adaptar as condições de trabalho às características psicofisiológicas do trabalhador, reduzindo riscos de lesões osteomusculares e fadiga') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'ergonomia no ambiente hospitalar está restrita à organização do mobiliário, não abran...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'adoção de posturas inadequadas durante a mobilização de pacientes é aceitável, desde ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'ergonomia busca adaptar o trabalhador às exigências do trabalho, mesmo que isso resul...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'ergonomia visa a adaptar as condições de trabalho às características psicofisiológica...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
 QUESTÃO 11 [Código: EF0068] - Prefeitura Municipal (SELECON 2026) - Técnico de Enfermagem
 Assunto: Fundamentos e Prática de Enfermagem
+Durante a aferição de sinais vitais em um paciente adulto internado em enfermaria clínica, o técnico de enfermagem identifica temperatura axilar de 35,8 °C, associada a extremidades frias e palidez cutânea. Considerando os princípios básicos de enfermagem e os parâmetros de normalidade, essa condição caracteriza-se como:
 
+  [A] febre baixa, comum em processos infecciosos iniciais
+  [B] hipertermia, decorrente de falha nos mecanismos de dissipação de calor
+  [C] normotermia, por se tratar de medida axilar, que apresenta variação fisiológica
+  [D] hipotermia leve, resultante da diminuição da temperatura corporal abaixo dos valores de referência
 
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [D] ('hipotermia leve, resultante da diminuição da temperatura corporal abaixo dos valores de referência') reflete a melhor evidência científica para o manejo de emergência.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'febre baixa, comum em processos infecciosos iniciais...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'hipertermia, decorrente de falha nos mecanismos de dissipação de calor...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'normotermia, por se tratar de medida axilar, que apresenta variação fisiológica...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
 QUESTÃO 12 [Código: EF0074] - Prefeitura Municipal (SELECON 2026) - Técnico de Enfermagem
 Assunto: Fundamentos e Prática de Enfermagem
+Em uma consulta de puericultura, sob supervisão do enfermeiro da unidade, o técnico de enfermagem realiza a aferição do peso e da estatura de uma criança e registra esses dados na Caderneta de Saúde da Criança. Considerando o uso adequado desse instrumento e as atribuições da equipe de enfermagem, é correto afirmar que:
 
+  [A] o registro do peso e da estatura deve ser realizado apenas quando houver queixa clínica, não sendo necessário em consultas de rotina
+  [B] as curvas de crescimento da caderneta são utilizadas exclusivamente para crianças com diagnóstico de desnutrição ou caso de prematuridade
+  [C] a plotagem do peso e da estatura permite identificar precocemente alterações no crescimento e subsidiar intervenções precoces pela equipe de saúde
+  [D] o preenchimento das curvas de crescimento é atribuição exclusiva do enfermeiro ou médico, sendo vedada qualquer participação do técnico de enfermagem
 
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: C
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [C] ('a plotagem do peso e da estatura permite identificar precocemente alterações no crescimento e subsidiar intervenções precoces pela equipe de saúde') representa a conduta científica e clinicamente recomendada.
+❌ Distratores:
+   • Alternativa A: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o registro do peso e da estatura deve ser realizado apenas quando houver queixa ...'.
+   • Alternativa B: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'as curvas de crescimento da caderneta são utilizadas exclusivamente para criança...'.
+   • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o preenchimento das curvas de crescimento é atribuição exclusiva do enfermeiro o...'.
 
 ------------------------------------------------------------
 
 QUESTÃO 13 [Código: EF0077] - Prefeitura Municipal (SELECON 2026) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
+As sondas nasogástrica (SNG) e nasoenteral (SNE) são amplamente utilizadas para administração de dieta, medicamentos e descompressão gástrica, exigindo cuidados específicos da equipe de enfermagem para garantir a segurança do paciente. Sobre os cuidados de enfermagem relacionados ao posicionamento, à verificação e à manutenção dessas sondas, é coerente afirmar que a:
 
+  [A] administração de medicamentos por sonda nasoenteral pode ser realizada com comprimidos triturados em conjunto, desde que diluídos em água, para evitar obstrução do dispositivo
+  [B] troca periódica da sonda nasogástrica é suficiente para prevenir complicações, não sendo necessária a avaliação rotineira da permeabilidade e também da fixação do dispositivo para evitar manipulação
+  [C] ausculta epigástrica, após insuflação de ar, é considerada método isolado seguro e suficiente para confirmar o correto posicionamento da sonda nasogástrica ou nasoenteral antes de sua utilização de forma segura
+  [D] confirmação do posicionamento da sonda nasoenteral deve ser realizada, preferencialmente, por exame radiológico antes do início da dieta ou administração de medicamentos, sendo os métodos clínicos apenas auxiliares
 
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [D] ('confirmação do posicionamento da sonda nasoenteral deve ser realizada, preferencialmente, por exame radiológico antes do início da dieta ou administração de medicamentos, sendo os métodos clínicos apenas auxiliares') constitui a conduta correta e segura.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'administração de medicamentos por sonda nasoenteral pode ser realizada com comprimido...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'troca periódica da sonda nasogástrica é suficiente para prevenir complicações, não se...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'ausculta epigástrica, após insuflação de ar, é considerada método isolado seguro...'.
 
 ------------------------------------------------------------
 
 QUESTÃO 14 [Código: EF0080] - Prefeitura Municipal (SELECON 2026) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
+Um homem estrangeiro, em situação de rua, sem documentos pessoais e sem comprovação de residência, procura uma Unidade de Pronto Atendimento (UPA) apresentando dor torácica intensa e falta de ar. Apesar de não possuir vínculo formal com o território, a equipe realiza acolhimento, avaliação clínica imediata e inicia o atendimento necessário. A situação descrita exemplifica diretamente o seguinte princípio do Sistema Único de Saúde:
 
+  [A] equidade, por priorizar o atendimento de grupos socialmente vulneráveis
+  [B] integralidade, por garantir ações de promoção, prevenção e recuperação da saúde
+  [C] descentralização, por permitir que o município organize o atendimento conforme sua realidade local
+  [D] universalidade, por assegurar o acesso aos serviços de saúde a todas as pessoas, sem qualquer tipo de discriminação ou exigência prévia
 
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('universalidade, por assegurar o acesso aos serviços de saúde a todas as pessoas, sem qualquer tipo de discriminação ou exigência prévia') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'equidade, por priorizar o atendimento de grupos socialmente vulneráveis...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'integralidade, por garantir ações de promoção, prevenção e recuperação da saúde...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'descentralização, por permitir que o município organize o atendimento conforme sua re...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
 QUESTÃO 15 [Código: EF0082] - Prefeitura Municipal (SELECON 2026) - Técnico de Enfermagem
 Assunto: Fundamentos e Prática de Enfermagem
+Um paciente apresenta acúmulo de secreção em vias aéreas superiores, com indicação de aspiração conforme prescrição de enfermagem. De acordo com as boas práticas assistenciais e o suporte ventilatório de forma segura:
 
+  [A] a nebulização dispensa higienização prévia do equipamento, pois o uso de solução estéril elimina o risco de contaminação
+  [B] a oxigenoterapia pode ser iniciada pelo técnico de enfermagem sem prescrição, desde que o paciente apresente desconforto respiratório leve
+  [C] a aspiração das vias aéreas superiores deve ser realizada de forma contínua e prolongada, até a completa remoção das secreções, para garantir a desobstrução das vias aéreas
+  [D] a aspiração das vias aéreas superiores deve ser realizada por tempo limitado, com técnica asséptica, observando sinais de desconforto respiratório durante o procedimento
 
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [D] ('a aspiração das vias aéreas superiores deve ser realizada por tempo limitado, com técnica asséptica, observando sinais de desconforto respiratório durante o procedimento') constitui a conduta correta e segura.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'a nebulização dispensa higienização prévia do equipamento, pois o uso de solução esté...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'a oxigenoterapia pode ser iniciada pelo técnico de enfermagem sem prescrição, desde q...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a aspiração das vias aéreas superiores deve ser realizada de forma contínua e prolong...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
 QUESTÃO 16 [Código: EF0085] - Prefeitura Municipal (SELECON 2026) - Técnico de Enfermagem
 Assunto: Fundamentos e Prática de Enfermagem
+Em uma unidade de clínica médica de hospital público, o técnico de enfermagem inicia seu plantão recebendo a passagem de turno da equipe anterior. Durante essa etapa, são repassadas informações sobre condições clínicas dos pacientes, cuidados prioritários, riscos identificados e pendências assistenciais. Acerca do processo de trabalho em enfermagem, a finalidade principal da atividade descrita é:
 
+  [A] garantir a execução de procedimentos técnicos conforme prescrição da equipe multiprofissional
+  [B] assegurar a continuidade, segurança e qualidade da assistência prestada ao paciente
+  [C] direcionar atividades exclusivamente ao enfermeiro responsável pelo setor
+  [D] registrar informações administrativas para fins de auditoria
 
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: B
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [B] ('assegurar a continuidade, segurança e qualidade da assistência prestada ao paciente') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'garantir a execução de procedimentos técnicos conforme prescrição da equipe multiprof...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'direcionar atividades exclusivamente ao enfermeiro responsável pelo setor...'.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'registrar informações administrativas para fins de auditoria...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
@@ -174,9 +293,17 @@ QUESTÃO 17 [Código: EF0119] - Prefeitura Municipal (SELECON 2026) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] problema + etiologia + sinais e sintomas
+  [B] problema + etiologia + intervenções
+  [C] problema + sinais e sintomas + objetivos
+  [D] problema + intervenções + avaliação 120 Ano: 2026
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('problema + etiologia + sinais e sintomas') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'problema + etiologia + intervenções...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'problema + sinais e sintomas + objetivos...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'problema + intervenções + avaliação 120 Ano: 2026...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
@@ -184,25 +311,32 @@ QUESTÃO 18 [Código: EF0131] - Prefeitura Municipal (SELECON 2026) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] diagnóstico de enfermagem
+  [B] planejamento da assistência
+  [C] implementação das intervenções
+  [D] histórico de enfermagem 132 Ano: 2026
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('histórico de enfermagem 132 Ano: 2026') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'diagnóstico de enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'planejamento da assistência...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'implementação das intervenções...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
 QUESTÃO 19 [Código: EF0201] - Prefeitura Municipal (SELECON 2025) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
-exame físico, aferindo os sinais vitais, inspecionando a pele e auscultando os pulmões e o coração. Todos os dados coletados, tanto subjetivos quanto objetivos, são organizados para formar a base do plano de cuidados individualizado que representa:
+
 
   [A] a primeira etapa do processo de enfermagem, denominada coleta de dados ou histórico
   [B] a etapa de planejamento de enfermagem, na qual as metas são definidas
   [C] a fase de avaliação de enfermagem, que compara os resultados com as metas
   [D] a implementação das prescrições de enfermagem e médicas 202 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.
+✅ Gabarito: A
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('a primeira etapa do processo de enfermagem, denominada coleta de dados ou histórico') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'a primeira etapa do processo de enfermagem, denominada coleta de dados ou histórico...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'a etapa de planejamento de enfermagem, na qual as metas são definidas...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a fase de avaliação de enfermagem, que compara os resultados com as metas...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'a implementação das prescrições de enfermagem e médicas 202 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde.
@@ -211,11 +345,19 @@ exame físico, aferindo os sinais vitais, inspecionando a pele e auscultando os 
 
 QUESTÃO 20 [Código: EF0216] - Prefeitura Municipal (SELECON 2025) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
+Sobre a evolução epidemiológica das doenças crônicas transmissíveis, a principal característica que as distingue das doenças infecciosas agudas clássicas consiste na:
 
+  [A] ocorrência predominantemente zoonótica e ciclos incubatórios curtos
+  [B] capacidade de persistência do agente no hospedeiro humano, geralmente com longos períodos assintomáticos
+  [C] transmissão exclusiva por vetores artrópodes e escassa resposta imunológica
+  [D] elevada taxa de letalidade no período inicial da infecção
 
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: B
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('capacidade de persistência do agente no hospedeiro humano, geralmente com longos períodos assintomáticos') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'ocorrência predominantemente zoonótica e ciclos incubatórios curtos...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'transmissão exclusiva por vetores artrópodes e escassa resposta imunológica...'.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'elevada taxa de letalidade no período inicial da infecção...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
@@ -223,9 +365,17 @@ QUESTÃO 21 [Código: EF0243] - Prefeitura Municipal (SELECON 2025) - Técnico d
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] pulso dicrótico
+  [B] pulso filiforme
+  [C] pulso alternante
+  [D] pulso colapsante 244 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: C
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [C] ('pulso alternante') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'pulso dicrótico...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'pulso filiforme...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'pulso colapsante 244 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
@@ -233,9 +383,17 @@ QUESTÃO 22 [Código: EF0250] - Prefeitura Municipal (SELECON 2025) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] a orientação sobre o uso correto dos dispositivos inalatórios é crucial para garantir a eficácia do tratamento e prevenir exacerbações
+  [B] monitorização do pico de fluxo expiratório é desnecessária na avaliação do controle da asma, sendo suficiente a avaliação clínica dos sintomas
+  [C] a administração de corticosteroides inalatórios deve ser evitada, pois seu uso prolongado pode levar ao desenvolvimento de dependência e efeitos colaterais sistêmicos graves
+  [D] a exposição a alérgenos deve ser minimizada apenas durante as crises asmáticas, sendo desnecessário adotar medidas preventivas em períodos de controle da doença 251 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('a orientação sobre o uso correto dos dispositivos inalatórios é crucial para garantir a eficácia do tratamento e prevenir exacerbações') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'monitorização do pico de fluxo expiratório é desnecessária na avaliação do controle d...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a administração de corticosteroides inalatórios deve ser evitada, pois seu uso prolon...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a exposição a alérgenos deve ser minimizada apenas durante as crises asmáticas, ...'.
 
 ------------------------------------------------------------
 
@@ -243,19 +401,35 @@ QUESTÃO 23 [Código: EF0255] - Prefeitura Municipal (SELECON 2025) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] a avaliação de desempenho da equipe de enfermagem é uma responsabilidade do enfermeiro gerente, que deve utilizar critérios objetivos e subjetivos para promover o desenvolvimento profissional e a qualidade da assistência
+  [B] o enfermeiro gerente é responsável exclusivamente pela supervisão direta da assistência prestada, não se envolvendo na gestão de recursos materiais e financeiros da unidade
+  [C] a elaboração de escalas de trabalho é uma atribuição que deve ser realizada de maneira fixa e imutável, sem considerar as necessidades individuais dos profissionais e as demandas da unidade
+  [D] a comunicação eficaz é irrelevante para a gerência em enfermagem, uma vez que as decisões gerenciais são tomadas exclusivamente pelo enfermeiro gerente sem a necessidade de interação com a equipe 256 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('a avaliação de desempenho da equipe de enfermagem é uma responsabilidade do enfermeiro gerente, que deve utilizar critérios objetivos e subjetivos para promover o desenvolvimento profissional e a qualidade da assistência') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa B: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o enfermeiro gerente é responsável exclusivamente pela supervisão direta da assi...'.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a elaboração de escalas de trabalho é uma atribuição que deve ser realizada de maneir...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a comunicação eficaz é irrelevante para a gerência em enfermagem, uma vez que as...'.
 
 ------------------------------------------------------------
 
 QUESTÃO 24 [Código: EF0260] - Prefeitura Municipal (SELECON 2024) - Técnico de Enfermagem
 Assunto: Fundamentos e Prática de Enfermagem
+ANHH - Nível I - Grau A - Enfermeiro A Sistematização da Assistência de Enfermagem (SAE) é regulamentada pela Resolução COFEN nº 358/2009 e considera um processo dinâmico em etapas interconectadas, que visam à organização coerente da prática de enfermagem. Sobre a aplicação da SAE, é correto afirmar que:
 
+  [A] a SAE é aplicada exclusivamente a pacientes hospitalizados, dado que a complexidade do processo impede sua utilização em serviços de atenção primária ou domiciliar
+  [B] a SAE tem como finalidade estabelecer a autonomia do enfermeiro em sua prática assistencial, excluindo profissionais de nível técnico ou auxiliar de sua implementação
+  [C] a SAE compreende cinco etapas distintas: coleta de dados, diagnóstico de enfermagem, planejamento, implementação e avaliação, sendo o diagnóstico uma etapa privativa do enfermeiro
+  [D] o planejamento da assistência dentro da SAE deve restringir-se unicamente a cuidados prescritos, não incluindo ações educativas ou de prevenção realizadas pelo enfermeiro
 
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: C
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [C] ('a SAE compreende cinco etapas distintas: coleta de dados, diagnóstico de enfermagem, planejamento, implementação e avaliação, sendo o diagnóstico uma etapa privativa do enfermeiro') corresponde com fidelidade aos ditames legais da profissão.
+❌ Distratores:
+   • Alternativa A: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a SAE é aplicada exclusivamente a pacientes hospitalizados, dado que a complexid...'.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'a SAE tem como finalidade estabelecer a autonomia do enfermeiro em sua prática assist...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'o planejamento da assistência dentro da SAE deve restringir-se unicamente a cuidados ...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
@@ -263,9 +437,17 @@ QUESTÃO 25 [Código: EF0266] - Prefeitura Municipal (SELECON 2025) - Técnico d
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] o enfermeiro atua como líder técnico, delegando atividades sem a necessidade de supervisão sistemática
+  [B] a organização dos serviços reduz o papel do enfermeiro a ações operacionais, restringindo sua atuação no processo de planejamento
+  [C] o trabalho em equipe em enfermagem ocorre exclusivamente em ambientes hospitalares, sem importância nos serviços comunitários
+  [D] a liderança em enfermagem envolve o estímulo ao trabalho em equipe, a tomada de decisão compartilhada e a gestão eficaz dos conflitos 267 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('a liderança em enfermagem envolve o estímulo ao trabalho em equipe, a tomada de decisão compartilhada e a gestão eficaz dos conflitos 267 Ano: 2025') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'o enfermeiro atua como líder técnico, delegando atividades sem a necessidade de super...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'a organização dos serviços reduz o papel do enfermeiro a ações operacionais, restring...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o trabalho em equipe em enfermagem ocorre exclusivamente em ambientes hospitalar...'.
 
 ------------------------------------------------------------
 
@@ -273,239 +455,441 @@ QUESTÃO 26 [Código: EF0271] - Prefeitura Municipal (SELECON 2025) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] coleta de dados
+  [B] planejamento
+  [C] implementação
+  [D] avaliação 272 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: B
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [B] ('planejamento') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'coleta de dados...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'implementação...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'avaliação 272 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
 QUESTÃO 27 [Código: EF0274] - Prefeitura Municipal (SELECON 2025) - Técnico de Enfermagem
 Assunto: Fundamentos e Prática de Enfermagem
+ANHH - Nível I - Grau A - Enfermeiro A Sistematização da Assistência de Enfermagem (SAE) é regulamentada por normativas que orientam a atuação do profissional enfermeiro no planejamento e na execução do cuidado. Considerando os fundamentos legais da SAE e a prática assistencial segura, o principal documento que sustenta legalmente essa prática, bem como suas implicações ético profissionais, é:
 
+  [A] Lei nº 7.498/1986, que regulamenta o exercício da enfermagem, enfatizando que o planejamento e a implementação da assistência são de responsabilidade exclusiva do técnico de enfermagem, liberando o enfermeiro para atividades administrativas
+  [B] Resolução Cofen nº 358/2009, que defi ne a SAE como obrigatória em instituições públicas e privadas e orienta que o Processo de Enfermagem deve privilegiar a autonomia do enfermeiro no diagnóstico e no planejamento do cuidado
+  [C] Código de Ética dos Profissionais de Enfermagem, que solicita a implementação da SAE como responsabilidade moral dos enfermeiros, porém não impõe nenhuma exigência ou regulamentação sobre os aspectos técnicos da assistência
+  [D] Resolução Cofen nº 564/2017, que detalha os princípios éticos da profissão e regula diretamente a atuação da equipe de enfermagem no gerenciamento de conflitos no ambiente hospitalar sem priorizar a SAE
 
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
-
-------------------------------------------------------------
-
-QUESTÃO 28 [Código: EF0286] - Prefeitura Municipal (SELECON 2025) - Técnico de Enfermagem
-Assunto: Fundamentos e Prática de Enfermagem
-
-
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: B
+💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [B] ('Resolução Cofen nº 358/2009, que defi ne a SAE como obrigatória em instituições públicas e privadas e orienta que o Processo de Enfermagem deve privilegiar a autonomia do enfermeiro no diagnóstico e no planejamento do cuidado') expressa fielmente o preceito legislativo.
+❌ Distratores:
+   • Alternativa A: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'Lei nº 7.498/1986, que regulamenta o exercício da enfermagem, enfatizando que o ...'.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Código de Ética dos Profissionais de Enfermagem, que solicita a implementação da SAE ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Resolução Cofen nº 564/2017, que detalha os princípios éticos da profissão e regula d...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 29 [Código: EF0304] - Prefeitura Municipal (SELECON 2025) - Enfermeiro
+QUESTÃO 28 [Código: EF0285] - Prefeitura Municipal (SELECON 2025) - Técnico de Enfermagem
 Assunto: Fundamentos e Prática de Enfermagem
+Enfermagem Um paciente de 72 anos foi internado devido a uma desidratação severa e está utilizando uma sonda vesical para drenagem urinária. O técnico de enfermagem observa que, ao realizar a monitoração da urina, o volume urinário está abaixo de 30 ml/hora nas últimas 6 horas, e a urina apresenta coloração escura, com um aspecto turvo. Na situação descrita, a conduta do técnico de enfermagem deve ser:
 
+  [A] considerar a alteração na cor e no volume da urina como um sinal esperado de desidratação e continuar a monitorar a sonda sem necessidade de intervenção adicional
+  [B] aumentar a quantidade de líquidos infundidos via intravenosa e, se o volume urinário não normalizar, deve realizar a remoção da sonda vesical para verificação do problema
+  [C] a coloração escura e o volume urinário reduzido indicam possível desidratação ou insuficiência renal, e o técnico de enfermagem deve alertar imediatamente a equipe médica, manter a hidratação do paciente e, se necessário, verificar a perviedade da sonda
+  [D] a alteração na coloração escura e no volume urinário é um sinal comum de infecção urinária, e o técnico de enfermagem deve iniciar a administração de antibióticos de amplo espectro enquanto aguarda o resultado dos exames laboratoriais
 
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: C
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [C] ('a coloração escura e o volume urinário reduzido indicam possível desidratação ou insuficiência renal, e o técnico de enfermagem deve alertar imediatamente a equipe médica, manter a hidratação do paciente e, se necessário, verificar a perviedade da sonda') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'considerar a alteração na cor e no volume da urina como um sinal esperado de desidrat...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'aumentar a quantidade de líquidos infundidos via intravenosa e, se o volume urinário ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'a alteração na coloração escura e no volume urinário é um sinal comum de infecção uri...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 30 [Código: EF0308] - Prefeitura Municipal (SELECON 2025) - Enfermeiro
+QUESTÃO 29 [Código: EF0303] - Prefeitura Municipal (SELECON 2025) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] plaquetas, fibrina e cálcio
+  [B] fatores de coagulação, plaquetas e cálcio
+  [C] fatores de coagulação e proteínas plasmáticas
+  [D] fatores de coagulação, plaquetas, cálcio e fibrinogênio 305 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('fatores de coagulação, plaquetas, cálcio e fibrinogênio 305 Ano: 2025') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'plaquetas, fibrina e cálcio...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'fatores de coagulação, plaquetas e cálcio...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'fatores de coagulação e proteínas plasmáticas...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 31 [Código: EF0333] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
+QUESTÃO 30 [Código: EF0307] - Prefeitura Municipal (SELECON 2025) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] reconhecer sinais de insuficiência hipofisária, iniciar a reposição hormonal e monitorar o equilíbrio hídrico e a pressão arterial
+  [B] iniciar a administração de ocitocina para promover a lactação, monitorar sinais de hipovolemia e solicitar exames de função renal
+  [C] fornecer suporte cardiovascular com reposição de líquidos, monitorar sinais de deficiência hormonal e iniciar terapia de reposição hormonal
+  [D] monitorar a pressão arterial, administrar agentes vasoativos e iniciar a terapia com corticosteróides para evitar choque hipovolêmico 309 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('reconhecer sinais de insuficiência hipofisária, iniciar a reposição hormonal e monitorar o equilíbrio hídrico e a pressão arterial') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'iniciar a administração de ocitocina para promover a lactação, monitorar sinais de hi...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'fornecer suporte cardiovascular com reposição de líquidos, monitorar sinais de defici...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'monitorar a pressão arterial, administrar agentes vasoativos e iniciar a terapia com ...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 32 [Código: EF0347] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
+QUESTÃO 31 [Código: EF0332] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] Em saúde
+  [B] Continuada
+  [C] Em saúde pública
+  [D] Permanente em Saúde
+  [E] Para profissionais de saúde 334 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('Permanente em Saúde') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Em saúde pública...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa E: Incorreta perante os protocolos técnicos, pois 'Para profissionais de saúde 334 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 33 [Código: EF0395] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
+QUESTÃO 32 [Código: EF0346] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
+O Sistema Único de Saúde (SUS) é composto pelo Ministério da Saúde, Estados e Municípios, conforme determina a Constituição Federal. Temos como princípios do SUS:
 
+  [A] universalização, equidade, integralidade
+  [B] descentralização, equidade, integralidade
+  [C] descentralização, equidade, regionalização
+  [D] regionalização, universalização, integralidade
+  [E] universalização, descentralização, regionalização
 
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [A] ('universalização, equidade, integralidade') expressa fielmente o preceito legislativo.
+❌ Distratores:
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'descentralização, equidade, integralidade...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'descentralização, equidade, regionalização...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'regionalização, universalização, integralidade...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa E: Incorreta perante os protocolos técnicos, pois 'universalização, descentralização, regionalização...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 34 [Código: EF0399] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
+QUESTÃO 33 [Código: EF0391] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] crítica
+  [B] residente
+  [C] não-crítica
+  [D] transitória
+  [E] patológica 396 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('transitória') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'não-crítica...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa E: Incorreta perante os protocolos técnicos, pois 'patológica 396 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 35 [Código: EF0405] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
+QUESTÃO 34 [Código: EF0395] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] Acreditação Hospitalar
+  [B] Assistência Hospitalar
+  [C] Qualidade da Gestão
+  [D] Qualidade da Assistência
+  [E] Humanização da Assistência 400 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('Acreditação Hospitalar') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'Assistência Hospitalar...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Qualidade da Gestão...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Qualidade da Assistência...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa E: Incorreta perante os protocolos técnicos, pois 'Humanização da Assistência 400 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 36 [Código: EF0426] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
+QUESTÃO 35 [Código: EF0419] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] 196
+  [B] 197
+  [C] 198
+  [D] 199 427 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: C
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [C] ('198') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois '199 427 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 37 [Código: EF0436] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
+QUESTÃO 36 [Código: EF0429] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] madame
+  [B] senhora
+  [C] senhorita
+  [D] vossa excelência
+  [E] vossa eminência 437 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: C
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [C] ('senhorita') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'vossa excelência...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa E: Incorreta perante os protocolos técnicos, pois 'vossa eminência 437 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 38 [Código: EF0452] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
+QUESTÃO 37 [Código: EF0445] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
+Enfermagem A Norma Operacional Básica que tem por finalidade primordial promover e consolidar o pleno exercício, por parte do poder público municipal e do Distrito Federal, da função de gestor da atenção à saúde dos seus munícipes (Artigo 30, incisos V e VII, e Artigo 32, Parágrafo 1º, da Constituição Federal), com a consequente redefinição das responsabilidades dos Estados, do Distrito Federal e da União, avançando na consolidação dos princípios do SUS, é a:
 
+  [A] NOB-SUS/96
+  [B] NOB-SUS/90
+  [C] NOB-SUS/89
+  [D] NOB-SUS/85
 
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [A] ('NOB-SUS/96') expressa fielmente o preceito legislativo.
+❌ Distratores:
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
 
 ------------------------------------------------------------
 
-QUESTÃO 39 [Código: EF0457] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
+QUESTÃO 38 [Código: EF0450] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
+Enfermagem Segundo a Lei n.º 8080/90, o conjunto de ações capaz de eliminar, diminuir ou prevenir riscos à saúde e de intervir nos problemas sanitários decorrentes do meio ambiente, da produção e circulação de bens e da prestação de serviços de interesse da saúde é a definição de:
 
+  [A] saúde pública
+  [B] epidemiologia
+  [C] vigilância sanitária
+  [D] vigilância epidemiológica 458 Ano: 2024
 
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: C
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [C] ('vigilância sanitária') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'saúde pública...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'epidemiologia...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'vigilância epidemiológica 458 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 40 [Código: EF0470] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
+QUESTÃO 39 [Código: EF0463] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] ter acesso a um serviço de saúde de qualidade, mesmo em áreas remotas e com infraestrutura limitada
+  [B] agendar consultas médicas por telefone ou internet, sem a necessidade de comparecer presencialmente ao posto de saúde
+  [C] receber medicamentos gratuitos em farmácias particulares, mediante apresentação de receita médica emitida por um profissional de saúd
+  [D] exigir transporte gratuito do poder público para o acompanhamento médico, mesmo que haja alternativas viáveis como caronas com familiares ou vizinhos 471 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('ter acesso a um serviço de saúde de qualidade, mesmo em áreas remotas e com infraestrutura limitada') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'agendar consultas médicas por telefone ou internet, sem a necessidade de comparecer p...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'receber medicamentos gratuitos em farmácias particulares, mediante apresentação de re...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'exigir transporte gratuito do poder público para o acompanhamento médico, mesmo que h...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 41 [Código: EF0485] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
+QUESTÃO 40 [Código: EF0478] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
+Enfermagem O Sistema Único de Saúde (SUS), com suas bases estruturadas na reforma sanitária, tem como competência constitucional ordenar a formação dos profissionais da área. Nesse sentido, as políticas públicas de saúde brasileiras, ora fundamentadas nas diretrizes do SUS, têm demonstrado importante papel para desencadear mudanças no processo de educação dos profissionais da saúde. Para tanto, a Secretaria de Gestão do Trabalho e da Educação na Saúde criou a:
 
+  [A] Política Nacional de Educação para Profissionais de Saúde
+  [B] Política Nacional de Educação Permanente em Saúde
+  [C] Política Nacional de Educação Continuada
+  [D] Política Nacional de Educação em Saúde
 
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: B
+💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [B] ('Política Nacional de Educação Permanente em Saúde') expressa fielmente o preceito legislativo.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'Política Nacional de Educação para Profissionais de Saúde...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Política Nacional de Educação Continuada...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Política Nacional de Educação em Saúde...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 42 [Código: EF0496] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
+QUESTÃO 41 [Código: EF0489] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] telecanal
+  [B] telessaúde
+  [C] teleconsulta
+  [D] teleconferência 497 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: B
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [B] ('telessaúde') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'teleconsulta...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'teleconferência 497 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 43 [Código: EF0540] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
+QUESTÃO 42 [Código: EF0532] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
+MT - Enfermeiro 20H O Lúpus Eritematoso Sistêmico (LES) é uma doença do colágeno autoimune inflamatória, que acomete quase todos os órgãos do corpo, cujas manifestações clínicas são:
 
+  [A] início abrupto ou crônico, com sintomas sistêmicos, incluindo hipotermia, fadiga, perda de peso e artrite
+  [B] início abrupto ou crônico, com sintomas sistêmicos, incluindo hipertermia, fadiga, ganho de peso e plegia
+  [C] início insidioso ou subagudo, com sintomas sistêmicos, incluindo vômitos, fadiga, ganho de peso importante e edema
+  [D] início insidioso ou agudo, com sintomas sistêmicos, incluindo febre, fadiga, perda de peso e, possivelmente, artrite e pleurite
 
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('início insidioso ou agudo, com sintomas sistêmicos, incluindo febre, fadiga, perda de peso e, possivelmente, artrite e pleurite') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'início abrupto ou crônico, com sintomas sistêmicos, incluindo hipotermia, fadiga, per...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'início abrupto ou crônico, com sintomas sistêmicos, incluindo hipertermia, fadiga, ga...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'início insidioso ou subagudo, com sintomas sistêmicos, incluindo vômitos, fadiga, gan...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 44 [Código: EF0555] - Prefeitura Municipal (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 43 [Código: EF0547] - Prefeitura Municipal (SELECON 2024) - Técnico de Enfermagem
 Assunto: Fundamentos e Prática de Enfermagem
+Pública - MT - Técnico em Enfermagem O profissional de saúde que atende pacientes com queixa de dor torácica ou com sinais/sintomas sugestivos de infarto agudo do miocárdio devem realizar um eletrocardiograma (ECG) em até:
 
+  [A] 10 minutos, a contar do fim da triagem
+  [B] 10 minutos, a contar do início da triagem
+  [C] 20 minutos, a contar do fim da triagem
+  [D] 30 minutos, a contar do início da triagem
 
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: B
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [B] ('10 minutos, a contar do início da triagem') está perfeitamente alinhada com as metas clínicas preconizadas.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois '10 minutos, a contar do fim da triagem...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois '20 minutos, a contar do fim da triagem...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois '30 minutos, a contar do início da triagem...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 45 [Código: EF0564] - Prefeitura Municipal (SELECON 2023) - Técnico de Enfermagem
+QUESTÃO 44 [Código: EF0556] - Prefeitura Municipal (SELECON 2023) - Técnico de Enfermagem
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] ético
+  [B] técnico
+  [C] científico
+  [D] assistencial 565 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [A] ('ético') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'assistencial 565 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 46 [Código: EF0574] - Prefeitura Municipal (SELECON 2023) - Enfermeiro
+QUESTÃO 45 [Código: EF0566] - Prefeitura Municipal (SELECON 2023) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] descentralização
+  [B] universalização
+  [C] integralidade
+  [D] equidade 575 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: C
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [C] ('integralidade') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'descentralização...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'universalização...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'equidade 575 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 47 [Código: EF0590] - Prefeitura Municipal (SELECON 2023) - Enfermeiro
+QUESTÃO 46 [Código: EF0582] - Prefeitura Municipal (SELECON 2023) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] 14 a 28 dias
+  [B] 12 a 20 dias
+  [C] 11 a 14 dias
+  [D] 1 a 10 dias 591 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('1 a 10 dias 591 Ano: 2023') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois '14 a 28 dias...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois '12 a 20 dias...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois '11 a 14 dias...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 48 [Código: EF0593] - Prefeitura Municipal (SELECON 2023) - Enfermeiro
+QUESTÃO 47 [Código: EF0585] - Prefeitura Municipal (SELECON 2023) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] trocar o cateter vesical de demora rotineiramente para evitar acúmulo de biofilme
+  [B] realizar ultrassom de bexiga em todos os pacientes com cateter vesical de demora diariamente
+  [C] instalar o dispositivo condom, quando possível, ou dar preferência ao cateterismo intermitente
+  [D] direcionar o uso de cateter vesical de demora para todos casos de pacientes internados em unidade hospitalar devido ao risco de lesão por pressão 594 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: C
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [C] ('instalar o dispositivo condom, quando possível, ou dar preferência ao cateterismo intermitente') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'trocar o cateter vesical de demora rotineiramente para evitar acúmulo de biofilme...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'realizar ultrassom de bexiga em todos os pacientes com cateter vesical de demora diar...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'direcionar o uso de cateter vesical de demora para todos casos de pacientes internado...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 49 [Código: EF0596] - Prefeitura Municipal (SELECON 2023) - Enfermeiro
+QUESTÃO 48 [Código: EF0588] - Prefeitura Municipal (SELECON 2023) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] acidose mista
+  [B] acidose metabólica
+  [C] acidose respiratória
+  [D] alcalose metabólica 597 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('acidose mista') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'acidose metabólica...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'acidose respiratória...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'alcalose metabólica 597 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 49 [Código: EF0597] - Prefeitura Municipal (SELECON 2023) - Enfermeiro
+Assunto: Fundamentos e Prática de Enfermagem
+MT - Médico - 20h - Especialista Cardiologia ... De acordo com a Lei nº 8.080/90, no campo de atuação do Sistema Único de Saúde (SUS), a vigilância epidemiológica, em seu conjunto de ações de saúde, tem por finalidade:
+
+  [A] formular e executar a política de sangue e seus derivados
+  [B] recomendar e adotar as medidas de prevenção e controle das doenças ou agravos
+  [C] participar do controle e da fiscalização na produção, transporte, guarda e utilização de substâncias e produtos psicoativos
+  [D] participar do controle e da fiscalização na produção, transporte, guarda e utilização de substâncias e produtos radioativos
+
+✅ Gabarito: B
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [B] ('recomendar e adotar as medidas de prevenção e controle das doenças ou agravos') está perfeitamente alinhada com as metas clínicas preconizadas.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'formular e executar a política de sangue e seus derivados...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'participar do controle e da fiscalização na produção, transporte, guarda e utilização...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'participar do controle e da fiscalização na produção, transporte, guarda e utilização...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
@@ -513,53 +897,75 @@ QUESTÃO 50 [Código: EF0605] - Prefeitura Municipal (SELECON 2023) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] legionella pneumophila sorotipo Cruzi
+  [B] acinetobacter coccus sorotipo Typhi
+  [C] tripanossoma cruzi sorotipo Delphy
+  [D] salmonella enterica sorotipo Typhi 614 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('salmonella enterica sorotipo Typhi 614 Ano: 2023') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'legionella pneumophila sorotipo Cruzi...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'acinetobacter coccus sorotipo Typhi...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'tripanossoma cruzi sorotipo Delphy...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 51 [Código: EF0613] - Prefeitura Municipal (SELECON 2023) - Enfermeiro
+QUESTÃO 51 [Código: EF0610] - Prefeitura Municipal (SELECON 2023) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] hipertermia, corticoides, acidoses e fosfatos orgânicos
+  [B] hipocapnia, hipotermia, aumento de hemoglobina e alcalose
+  [C] hipercapnia, hipotermia maligna, sangramentos e queda da saturação
+  [D] corticoides, alcaloses, hipertermia e hiperlactatemia com ânion gap aumentado 619 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('hipertermia, corticoides, acidoses e fosfatos orgânicos') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'hipocapnia, hipotermia, aumento de hemoglobina e alcalose...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'hipercapnia, hipotermia maligna, sangramentos e queda da saturação...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'corticoides, alcaloses, hipertermia e hiperlactatemia com ânion gap aumentado 619 Ano...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 52 [Código: EF0618] - Prefeitura Municipal (SELECON 2023) - Enfermeiro
+QUESTÃO 52 [Código: EF0616] - Prefeitura Municipal (SELECON 2023) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] peptídeo hidrofóbico das células ciliais
+  [B] surfactante das células alveolares tipo II
+  [C] surfactante das células mesenquimais tipo I
+  [D] gamaglobulina das células alveolares do tipo III 625 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: B
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [B] ('surfactante das células alveolares tipo II') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'peptídeo hidrofóbico das células ciliais...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'surfactante das células mesenquimais tipo I...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'gamaglobulina das células alveolares do tipo III 625 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 53 [Código: EF0624] - Prefeitura Municipal (SELECON 2023) - Enfermeiro
+QUESTÃO 53 [Código: EF0635] - Prefeitura Municipal (SELECON 2023) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
+em Higiene Dental A lei 8080, de 19 de setembro de 1990, dispõe sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e dá outras providências. Essa lei é regulada em:
 
+  [A] todo território nacional, por pessoas do direito público
+  [B] todo território nacional, por pessoas do direito público e privado
+  [C] alguns estados específicos, garantindo a saúde como direito fundamental do ser humano
+  [D] alguns estados específicos, assegurando acesso universal e igualitário para promoção da saúde 644 Ano: 2023
 
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
-
-------------------------------------------------------------
-
-QUESTÃO 54 [Código: EF0643] - Prefeitura Municipal (SELECON 2023) - Enfermeiro
-Assunto: Fundamentos e Prática de Enfermagem
-
-
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: B
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [B] ('todo território nacional, por pessoas do direito público e privado') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'todo território nacional, por pessoas do direito público...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'alguns estados específicos, garantindo a saúde como direito fundamental do ser humano...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'alguns estados específicos, assegurando acesso universal e igualitário para promoção ...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 55 [Código: EF0651] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 54 [Código: EF0643] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 De acordo com a Resolução nº 543, de 18 de abril de 2017, do Cofen, é necessário adotar o referencial mínimo para o quadro de profissionais de Enfermagem para as 24 horas de cada unidade de internação (UI), considerar o Sistema de Classificação de Pacientes - SCP, as horas de assistência de Enfermagem, a distribuição percentual do total de profissionais de Enfermagem e a proporção profissional/paciente. Portanto, o número de horas, por paciente, para o cuidado de alta dependência é de:
 
@@ -568,37 +974,52 @@ De acordo com a Resolução nº 543, de 18 de abril de 2017, do Cofen, é necess
   [C] 10 horas
   [D] 18 horas 652 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: C
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [C] ('10 horas') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois '18 horas 652 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 56 [Código: EF0664] - Prefeitura Municipal (SELECON 2023) - Enfermeiro
+QUESTÃO 55 [Código: EF0656] - Prefeitura Municipal (SELECON 2023) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] 0,12%, durante 1 minuto, inclusive na superfície externa do tubo orotraqueal.
+  [B] 0,5%, durante 2 minutos, inclusive na superfície externa do tubo orotraqueal.
+  [C] 10%, durante 3 minutos, excluindo a superfície externa do tubo orotraqueal.
+  [D] 12%, durante 4 minutos, excluindo a superfície externa do tubo orotraqueal. 665 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('0,12%, durante 1 minuto, inclusive na superfície externa do tubo orotraqueal.') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois '0,5%, durante 2 minutos, inclusive na superfície externa do tubo orotraqueal....' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois '10%, durante 3 minutos, excluindo a superfície externa do tubo orotraqueal....' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois '12%, durante 4 minutos, excluindo a superfície externa do tubo orotraqueal. 665 Ano: ...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 57 [Código: EF0674] - Prefeitura Municipal (SELECON 2023) - Enfermeiro
+QUESTÃO 56 [Código: EF0666] - Prefeitura Municipal (SELECON 2023) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] taquipneia
+  [B] taquicardia
+  [C] bradicardia
+  [D] hipertermia 675 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: B
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [B] ('taquicardia') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'bradicardia...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'hipertermia 675 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 58 [Código: EF0682] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Técnico de Enfermagem
+QUESTÃO 57 [Código: EF0674] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Técnico de Enfermagem
 Assunto: Fundamentos e Prática de Enfermagem
 em Enfermagem Para a realização de um cuidado de enfermagem adequado, é fundamental que o técnico de enfermagem identifique as alterações clínicas no paciente. Portanto, durante o banho no leito, o profissional deve realizar a inspeção da pele com o objetivo de detectar as lesões elementares. São exemplos de lesões sólidas, de acordo com a classificação de Bechelli e Curban (1975):
 
@@ -607,143 +1028,228 @@ em Enfermagem Para a realização de um cuidado de enfermagem adequado, é funda
   [C] úlcera, nódulos, pápulas e bolha
   [D] erosão, úlcera, fissura, fístulas 683 Ano: 2022
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [A] ('pápulas, tubérculos, nódulos e urticária') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'pápulas, tubérculos, nódulos e urticária...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'vesícula, bolha, pústula, abscessos...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'úlcera, nódulos, pápulas e bolha...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'erosão, úlcera, fissura, fístulas 683 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
+QUESTÃO 58 [Código: EF0689] - Prefeitura Municipal (SELECON 2022) - Técnico de Enfermagem
+Assunto: Fundamentos e Prática de Enfermagem
+Técnico em Enfermagem A doença cujo agente etiológico é a Mycobacterium leprae, que se trata de um parasita intracelular bacilo álcool-ácido resistente, sendo a única espécie de micobactéria que infecta os nervos periféricos, especificamente as células de Schwann, é a doença chamada de:
+
+  [A] sífilis
+  [B] SIDA
+  [C] tuberculose
+  [D] hanseníase 698 Ano: 2022
+
+✅ Gabarito: D
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('hanseníase 698 Ano: 2022') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'tuberculose...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
 QUESTÃO 59 [Código: EF0697] - Prefeitura Municipal (SELECON 2022) - Técnico de Enfermagem
 Assunto: Fundamentos e Prática de Enfermagem
+Técnico em Enfermagem Para a profilaxia da transmissão vertical do HIV durante o parto, alguns cuidados são essenciais ao recém-nascido exposto ao vírus e que devem ser realizados após o nascimento. Um cuidado essencial é:
 
+  [A] estimular o aleitamento materno na primeira hora
+  [B] aspirar imediatamente as vias aéreas inferiores
+  [C] realizar banho imediatamente
+  [D] oferecer escuta ativa 706 Ano: 2022
 
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
-
-------------------------------------------------------------
-
-QUESTÃO 60 [Código: EF0705] - Prefeitura Municipal (SELECON 2022) - Técnico de Enfermagem
-Assunto: Fundamentos e Prática de Enfermagem
-
-
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: C
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [C]: 'realizar banho imediatamente'.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'estimular o aleitamento materno na primeira hora...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'aspirar imediatamente as vias aéreas inferiores...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'oferecer escuta ativa 706 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 61 [Código: EF0720] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
+QUESTÃO 60 [Código: EF0712] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
+Durante o pré-natal, incentiva-se a participação ativa da mulher e de seu acompanhante no trabalho de parto. Nesse processo, diversas estratégias são ensinadas, como tipos variados de respiração nos diferentes estágios do trabalho de parto, métodos de relaxamento de certos grupos musculares, além de outras medidas que visam a aumentar o conforto da parturiente. Essa prática constitui um método, que recebe o nome de:
 
+  [A] Montgomery
+  [B] Godell
+  [C] Bradley
+  [D] Lamaze
 
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [D]: 'Lamaze'.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
 
 ------------------------------------------------------------
 
-QUESTÃO 62 [Código: EF0727] - Prefeitura Municipal (SELECON 2022) - Enfermeiro
+QUESTÃO 61 [Código: EF0719] - Prefeitura Municipal (SELECON 2022) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] hipotensão arterial, lesão endotelial e VCM diminuído no hemograma
+  [B] estase arterial, lesão extravascular e alteração do tônus vascular
+  [C] aterosclerose, diabetes tipo 2 e alteração no fibrinogênio
+  [D] estase venosa, lesão endotelial e alteração da coagulação 728 Ano: 2022
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('estase venosa, lesão endotelial e alteração da coagulação 728 Ano: 2022') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'hipotensão arterial, lesão endotelial e VCM diminuído no hemograma...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'estase arterial, lesão extravascular e alteração do tônus vascular...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'aterosclerose, diabetes tipo 2 e alteração no fibrinogênio...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 63 [Código: EF0754] - Prefeitura Municipal (SELECON 2020) - Enfermeiro
+QUESTÃO 62 [Código: EF0746] - Prefeitura Municipal (SELECON 2020) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
+Enfermagem A lei que dispõe sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e dá outras providências é a Lei:
 
+  [A] nº 8.112/90
+  [B] nº 8.080/90
+  [C] nº 8.142/90
+  [D] nº 8.112/86 755 Ano: 2020
 
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: B
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [B] ('nº 8.080/90') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'nº 8.112/90...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'nº 8.142/90...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'nº 8.112/86 755 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 64 [Código: EF0760] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
+QUESTÃO 63 [Código: EF0752] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
+Especialista em Epidemiologista e Vigilância em Saúde O Plano de Ações Estratégicas para o Enfrentamento das Doenças Crônicas Não Transmissíveis - DCNT no Brasil, 2011-2022, define e prioriza as ações e os investimentos necessários para enfrentar e deter as DCNT, estabelecendo algumas metas. Dentre elas, pode-se citar, exceto:
 
+  [A] aumentar o consumo de frutas e hortaliças
+  [B] reduzir a taxa de mortalidade prematura por DCNT
+  [C] reduzir a prevalência de tabagismo
+  [D] deter o crescimento da obesidade em crianças e adolescentes e a prevalência em adultos
 
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('deter o crescimento da obesidade em crianças e adolescentes e a prevalência em adultos') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'aumentar o consumo de frutas e hortaliças...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'reduzir a taxa de mortalidade prematura por DCNT...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'reduzir a prevalência de tabagismo...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 65 [Código: EF0762] - Prefeitura Municipal (SELECON 2020) - Enfermeiro
+QUESTÃO 64 [Código: EF0754] - Prefeitura Municipal (SELECON 2020) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] estabelecer as características específicas dos instrumentos contratuais utilizados no SUS
+  [B] descredenciamento de prestadores de serviço às operadoras de planos de saúde sem necessidade de fixação de critérios
+  [C] estabelecer critérios de aferição e controle da qualidade dos serviços oferecidos pelas operadoras de planos privados de assistência à saúde
+  [D] facilitar o atendimento de consumidores conveniados junto ao Sistema Único de Saúde – SUS 763 Ano: 2020
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: C
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [C] ('estabelecer critérios de aferição e controle da qualidade dos serviços oferecidos pelas operadoras de planos privados de assistência à saúde') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'estabelecer as características específicas dos instrumentos contratuais utilizados no...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'descredenciamento de prestadores de serviço às operadoras de planos de saúde sem nece...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'facilitar o atendimento de consumidores conveniados junto ao Sistema Único de Saúde –...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 66 [Código: EF0767] - Prefeitura Municipal (SELECON 2020) - Técnico de Enfermagem
+QUESTÃO 65 [Código: EF0759] - Prefeitura Municipal (SELECON 2020) - Técnico de Enfermagem
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] 5 técnicos ou auxiliares de enfermagem por turno diurno; 4 técnicos ou auxiliares de enfermagem por turno noturno; 1 enfermeiro por turno; 2 profissionais de saúde mental de nível superior, totalizando carga horária mínima de 30h por semana; e 1 médico psiquiatra responsável pelos leitos, contabilizando carga horária mínima total de serviços de 40h por semana
+  [B] 4 técnicos ou auxiliares de enfermagem por turno diurno; 3 técnicos ou auxiliares de enfermagem por turno noturno; 1 enfermeiro por turno; 2 profissionais de saúde mental de nível superior, totalizando carga horária mínima de 60h por semana; 1 médico psiquiatra responsável pelos leitos, contabilizando carga horária mínima total de serviços de 20h por semana
+  [C] 3 técnicos ou auxiliares de enfermagem por turno diurno; 2 técnicos ou auxiliares de enfermagem por turno noturno; 2 enfermeiros por turno; 2 profissionais de saúde mental de nível superior, totalizando carga horária mínima de 60h por semana; 1 médico psiquiatra responsável pelos leitos, contabilizando carga horária mínima total de serviços de 36h por semana
+  [D] 4 técnicos ou auxiliares de enfermagem por turno diurno; 3 técnicos ou auxiliares de enfermagem por turno noturno; 2 enfermeiros por turno; 2 profissionais de saúde mental de nível superior, totalizando carga horária mínima de 20h por semana; 1 médico psiquiatra responsável pelos leitos, contabilizando carga horária mínima total de serviços de 30h por semana 768 Ano: 2020
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: B
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [B] ('4 técnicos ou auxiliares de enfermagem por turno diurno; 3 técnicos ou auxiliares de enfermagem por turno noturno; 1 enfermeiro por turno; 2 profissionais de saúde mental de nível superior, totalizando carga horária mínima de 60h por semana; 1 médico psiquiatra responsável pelos leitos, contabilizando carga horária mínima total de serviços de 20h por semana') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois '5 técnicos ou auxiliares de enfermagem por turno diurno; 4 técnicos ou auxiliares de ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois '3 técnicos ou auxiliares de enfermagem por turno diurno; 2 técnicos ou auxiliares de ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois '4 técnicos ou auxiliares de enfermagem por turno diurno; 3 técnicos ou auxiliares de ...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 67 [Código: EF0783] - Prefeitura Municipal (SELECON 2020) - Enfermeiro
+QUESTÃO 66 [Código: EF0775] - Prefeitura Municipal (SELECON 2020) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] a identificação e divulgação dos fatores condicionantes e determinantes da saúde; a formulação de política de saúde destinada a promover, nos campos econômico e social, a assistência às pessoas por intermédio de ações de promoção, proteção e recuperação da saúde, com a realização integrada das ações assistenciais e das atividades preventivas
+  [B] a identificação e a não divulgação dos fatores determinantes da saúde; a formulação de política de saúde destinada a promover, no campo social e a assistência às pessoas por intermédio de ações de promoção, proteção e recuperação da saúde, com a realização integrada das ações assistenciais e das atividades preventivas
+  [C] a identificação dos fatores condicionantes e determinantes da saúde; a formulação de política de saúde destinada a promover, no campo social, a assistência às pessoas por intermédio de promoção, proteção e recuperação da saúde, com a realização integrada das ações assistenciais e das atividades reabilitação
+  [D] a identificação e divulgação dos fatos condicionantes e determinantes da saúde; a formulação de política destinada a promover, nos campos econômico e social e a assistência às pessoas por intermédio de ações de promoção e recuperação da saúde, com a divisão das ações assistenciais e atividades curativas 784 Ano: 2020
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('a identificação e divulgação dos fatores condicionantes e determinantes da saúde; a formulação de política de saúde destinada a promover, nos campos econômico e social, a assistência às pessoas por intermédio de ações de promoção, proteção e recuperação da saúde, com a realização integrada das ações assistenciais e das atividades preventivas') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'a identificação e a não divulgação dos fatores determinantes da saúde; a formulação d...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a identificação dos fatores condicionantes e determinantes da saúde; a formulação de ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'a identificação e divulgação dos fatos condicionantes e determinantes da saúde; a for...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 68 [Código: EF0799] - Prefeitura Municipal (SELECON 2020) - Enfermeiro
+QUESTÃO 67 [Código: EF0791] - Prefeitura Municipal (SELECON 2020) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] NIC e NOC
+  [B] NOC e NIC
+  [C] CIPE e SAE
+  [D] SAE e CIPE 800 Ano: 2020
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('NIC e NOC') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'SAE e CIPE 800 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 69 [Código: EF0806] - Prefeitura Municipal (SELECON 2020) - Enfermeiro
+QUESTÃO 68 [Código: EF0798] - Prefeitura Municipal (SELECON 2020) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] o Mapa de Saúde
+  [B] o Sistema de Regulação
+  [C] a Rede de Atenção à Saúde
+  [D] o Protocolo Clínico e Diretriz Terapêutica 807 Ano: 2020
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('o Protocolo Clínico e Diretriz Terapêutica 807 Ano: 2020') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'o Mapa de Saúde...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'o Sistema de Regulação...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a Rede de Atenção à Saúde...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 70 [Código: EF0847] - Prefeitura Municipal (SELECON 2019) - Enfermeiro
+QUESTÃO 69 [Código: EF0839] - Prefeitura Municipal (SELECON 2019) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
+  [A] histórico de Enfermagem
+  [B] avaliação de Enfermagem
+  [C] evolução de Enfermagem
+  [D] diagnóstico de Enfermagem 848 Ano: 2019
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
-
-------------------------------------------------------------
-
-QUESTÃO 71 [Código: EF0888] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
-Assunto: Fundamentos e Prática de Enfermagem
-
-
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('diagnóstico de Enfermagem 848 Ano: 2019') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'histórico de Enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'avaliação de Enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'evolução de Enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 

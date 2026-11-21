@@ -1,6 +1,7 @@
 [
   {
     "codigo_origem": "Q3981931",
+    "numero_original": 66,
     "banca": "SELECON",
     "orgao": "EMGEPRON",
     "ano": 2026,
@@ -27,18 +28,14 @@
         "texto": "direcionar o cuidado exclusivamente para o controle medicamentoso, uma vez que o sofrimento psíquico exige tratamento farmacológico contínuo"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0066",
     "numero_ordem": 66,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [B] ('reforçar práticas de cuidado humanizado, valorizando o vínculo, a escuta qualificada e a continuidade do cuidado em serviços comunitários') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'priorizar a internação psiquiátrica como principal forma de cuidado diante de qualque...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'reforçar práticas de cuidado humanizado, valorizando o vínculo, a escuta qualificada ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -53,6 +50,7 @@
   },
   {
     "codigo_origem": "Q3974345",
+    "numero_original": 92,
     "banca": "SELECON",
     "orgao": "EMGEPRON",
     "ano": 2026,
@@ -79,15 +77,11 @@
         "texto": "Atenção Primária não atua na identificação, acompanhamento ou articulação do cuidado em saúde mental"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "A",
     "id": "EF0092",
     "numero_ordem": 92,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('cuidado deve ser territorial, comunitário e articulado à Rede de Atenção Psicossocial (RAPS), promovendo a integração multiprofissional e a participação da família no Projeto Terapêutico Singular') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'cuidado deve ser territorial, comunitário e articulado à Rede de Atenção Psicossocial...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'CAPS substitui integralmente todos os demais pontos de atenção, sem necessidade de in...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -101,10 +95,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'Atenção Primária não atua na identificação, acompanhamento ou articulação do cuidado ...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('cuidado deve ser territorial, comunitário e articulado à Rede de Atenção Psicossocial (RAPS), promovendo a integração multiprofis..."
   },
   {
     "codigo_origem": "Q3884078",
+    "numero_original": 124,
     "banca": "SELECON",
     "orgao": "Prefeitura de Porto dos Gaúchos - MT",
     "ano": 2026,
@@ -131,10 +126,10 @@
         "texto": "os itens da subescala psicopatológica geral avaliam sintomas como ansiedade, culpa e tensão 125 Ano: 2026"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "D",
     "id": "EF0124",
     "numero_ordem": 124,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('os itens da subescala psicopatológica geral avaliam sintomas como ansiedade, culpa e tensão 125 Ano: 2026') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -147,16 +142,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'a pontuação mínima na PANSS é 0, indicando ausência total de psicopatologia...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'os itens da subescala psicopatológica geral avaliam sintomas como ansiedade, culpa e ...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('os itens da subescala psicopatológica geral avaliam sintomas como ansiedade, culpa e tensão 125 Ano: 2026') responde corretamente..."
   },
   {
     "codigo_origem": "Q3197470",
+    "numero_original": 315,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sinop - MT",
     "ano": 2025,
@@ -183,10 +175,10 @@
         "texto": "agir de forma autoritária e determinar as intervenções terapêuticas necessárias sem consultar outros membros da equipe de saúde, com o objetivo de resolver a crise o mais rapidamente possível 316 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0315",
-    "numero_ordem": 315,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "C",
+    "id": "EF0314",
+    "numero_ordem": 314,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [C] ('avaliar o grau de risco e atuar de forma calmante e empática, buscando reduzir a ansiedade do paciente e promovendo um ambiente seguro, respeitando sua autonomia e trabalhando em conjunto com a equipe multidisciplinar para a estabilização do quadro') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -197,18 +189,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'adotar uma abordagem de contenção física imediata, sem considerar as preferências do ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'avaliar o grau de risco e atuar de forma calmante e empática, buscando reduzir a ansi...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'agir de forma autoritária e determinar as intervenções terapêuticas necessárias sem c...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [C] ('avaliar o grau de risco e atuar de forma calmante e empática, buscando reduzir a ansiedade do paciente e promovendo um ambiente s..."
   },
   {
     "codigo_origem": "Q2528678",
+    "numero_original": 348,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -239,10 +228,10 @@
         "texto": "biológica 349 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0348",
-    "numero_ordem": 348,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "C",
+    "id": "EF0347",
+    "numero_ordem": 347,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [C] ('mental') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -250,10 +239,6 @@
       },
       {
         "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "C",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
@@ -265,10 +250,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'biológica 349 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [C] ('mental') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q2453004",
+    "numero_original": 495,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sapezal - MT",
     "ano": 2024,
@@ -295,15 +281,11 @@
         "texto": "anamnese 496 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Prefeitura de Sapezal - MT Prova: SELECON - 2024 - Prefeitura de Sapezal - MT - Enfermeiro"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0495",
-    "numero_ordem": 495,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "A",
+    "id": "EF0488",
+    "numero_ordem": 488,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('acolhimento') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'acolhimento...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'diagnóstico...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -317,10 +299,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'anamnese 496 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SU...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('acolhimento') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q3674526",
+    "numero_original": 523,
     "banca": "SELECON",
     "orgao": "Prefeitura de Dourados - MS",
     "ano": 2023,
@@ -347,15 +330,11 @@
         "texto": "perda da memória, diplopia, incontinência fecal e disfunção autonômica 524 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0523",
-    "numero_ordem": 523,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "A",
+    "id": "EF0515",
+    "numero_ordem": 515,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('flutuação da função cognitiva, memória afetada, alucinações visuais e disfunção autonômica') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'flutuação da função cognitiva, memória afetada, alucinações visuais e disfunção auton...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'oscilações na cognição, bexiga neurogênica, memória preservada e disfunção autonômica...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -369,10 +348,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'perda da memória, diplopia, incontinência fecal e disfunção autonômica 524 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('flutuação da função cognitiva, memória afetada, alucinações visuais e disfunção autonômica') responde corretamente à questão conf..."
   },
   {
     "codigo_origem": "Q3584432",
+    "numero_original": 542,
     "banca": "SELECON",
     "orgao": "Prefeitura de Lucas do Rio Verde - MT",
     "ano": 2023,
@@ -399,15 +379,11 @@
         "texto": "Hospital de Urgência e Emergência, Hospitais Psiquiátricos com leitos de isolamento, SRT e Unidades de Acolhimento 543 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0542",
-    "numero_ordem": 542,
-    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
+    "resposta_correta": "A",
+    "id": "EF0534",
+    "numero_ordem": 534,
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [A] ('CAPS, Atenção Básica, Urgência e Emergência, SRT e Unidades de Acolhimento') expressa fielmente o preceito legislativo.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'CAPS, Atenção Básica, Urgência e Emergência, SRT e Unidades de Acolhimento...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'CAPS, Atenção Domiciliar, Urgência e Emergência, SRT e Unidades de Especializadas...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -425,6 +401,7 @@
   },
   {
     "codigo_origem": "Q2297111",
+    "numero_original": 640,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Verde - MT",
     "ano": 2024,
@@ -451,10 +428,10 @@
         "texto": "Centro de Atenção Psicossocial (CAPS)"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0640",
-    "numero_ordem": 640,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "C",
+    "id": "EF0632",
+    "numero_ordem": 632,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [C] ('Relacionamento Terapêutico') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -465,18 +442,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'Ambiente Terapêutico...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'Relacionamento Terapêutico...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'Centro de Atenção Psicossocial (CAPS)...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [C] ('Relacionamento Terapêutico') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q1313721",
+    "numero_original": 778,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2020,
@@ -503,10 +477,10 @@
         "texto": "p r o fi s s i o n a i s d e d i f e r e n t e s á r e a s d e conhecimento, que devem atuar de maneira integrada e apoiando os profissionais das equipes de Saúde da Família, das equipes de Atenção Básica para populações específicas (consultórios na rua, equipes ribeirinhas e fluviais etc.) e Academia da Saúde, compartilhando as práticas e saberes em saúde nos territórios sob a responsabilidade destas equipes, atuando diretamente no apoio matricial às equipes da(s) unidade(s) na(s) qual(is) o Nasf está vinculado 779 Ano: 2020"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0778",
-    "numero_ordem": 778,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "D",
+    "id": "EF0770",
+    "numero_ordem": 770,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('p r o fi s s i o n a i s d e d i f e r e n t e s á r e a s d e conhecimento, que devem atuar de maneira integrada e apoiando os profissionais das equipes de Saúde da Família, das equipes de Atenção Básica para populações específicas (consultórios na rua, equipes ribeirinhas e fluviais etc.) e Academia da Saúde, compartilhando as práticas e saberes em saúde nos territórios sob a responsabilidade destas equipes, atuando diretamente no apoio matricial às equipes da(s) unidade(s) na(s) qual(is) o Nasf está vinculado 779 Ano: 2020') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -519,12 +493,8 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'profissionais da área de saúde, que devem atuar de maneira individualizada e apoiando...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'p r o fi s s i o n a i s d e d i f e r e n t e s á r e a s d e conhecimento, que deve...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('p r o fi s s i o n a i s d e d i f e r e n t e s á r e a s d e conhecimento, que devem atuar de maneira integrada e ap..."
   }
 ]

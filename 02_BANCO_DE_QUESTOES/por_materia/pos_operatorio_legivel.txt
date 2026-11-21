@@ -10,10 +10,9 @@ Técnico em Enfermagem Uma paciente de 52 anos, submetida à colecistectomia vid
   [C] ajustar a infusão venosa para melhorar a perfusão periférica enquanto aguarda nova aferição dos sinais vitais, uma vez que pequenas intervenções podem ser realizadas de forma autônoma no pós-operatório imediato
   [D] priorizar a avaliação do curativo abdominal e da ferida operatória, pois alterações sistêmicas leves costumam estar relacionadas à dor ou ao jejum prolongado, devendo a equipe aprofundar a inspeção local antes de qualquer escalonamento 151 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.
+✅ Gabarito: A
+💡 Fundamentação: Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [A] ('notifi car imediatamente o enfermeiro responsável diante da alteração de consciência e da variação da saturação, garantindo intervenção precoce e acionamento de condutas avançadas, se necessário') é a indicação terapêutica correta para o quadro apresentado.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'notifi car imediatamente o enfermeiro responsável diante da alteração de consciência ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'manter a monitorização padrão, repetindo os sinais vitais em até 1 hora, visto q...'.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'ajustar a infusão venosa para melhorar a perfusão periférica enquanto aguarda nova af...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'priorizar a avaliação do curativo abdominal e da ferida operatória, pois alterações s...' não atende às diretrizes oficiais do Ministério da Saúde.

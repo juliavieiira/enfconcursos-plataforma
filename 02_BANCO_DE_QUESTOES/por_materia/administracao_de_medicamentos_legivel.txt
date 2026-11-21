@@ -46,10 +46,9 @@ Enfermagem A sífilis é uma infecção sexualmente transmissível causada pela 
   [C] penicilina G procaína 600.000 UI por via intramuscular, diariamente, por 10 dias consecutivos, com acompanhamento sorológico mensal
   [D] doxiciclina 100 mg, duas vezes ao dia, por 14 dias, como tratamento de primeira linha para todos os estágios da sífilis
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: A
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [A]: 'penicilina G benzatina 2.400.000 UI, administrada em dose única intramuscular, dividida em duas aplicações de 1.200.000 UI em cada glúteo'.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'penicilina G benzatina 2.400.000 UI, administrada em dose única intramuscular, dividi...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'azitromicina 1g em dose única oral para pacientes alérgicos à penicilina, com eficáci...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'penicilina G procaína 600.000 UI por via intramuscular, diariamente, por 10 dias cons...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'doxiciclina 100 mg, duas vezes ao dia, por 14 dias, como tratamento de primeira linha...' não atende às diretrizes oficiais do Ministério da Saúde.
@@ -65,10 +64,9 @@ Enfermagem A venoclise periférica é um procedimento invasivo que requer técni
   [C] selecionar veia do dorso da mão por ser de fácil acesso, utilizar cateter 22 G e estabilizar com curativo transparente, realizando rodízio do sítio a cada 24 horas
   [D] priorizar a veia cefálica do antebraço, utilizando cateter 24 G para reduzir o trauma, e fixar com fita adesiva micropore sem cobrir o local de inserção
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: A
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('escolher veia de maior calibre no antebraço ou na fossa antecubital, utilizar cateter 20 G, fixar com curativo transparente e realizar inspeção do sítio a cada 6 horas para detecção precoce de infiltração') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'escolher veia de maior calibre no antebraço ou na fossa antecubital, utilizar cateter...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'utilizar veia jugular externa como acesso periférico para soluções irritantes, pois a...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'selecionar veia do dorso da mão por ser de fácil acesso, utilizar cateter 22 G e esta...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'priorizar a veia cefálica do antebraço, utilizando cateter 24 G para reduzir o trauma...' não atende às diretrizes oficiais do Ministério da Saúde.
@@ -84,12 +82,11 @@ Técnico em Enfermagem - SMS A administração concomitante de medicamentos por 
   [C] incompatibilidade medicamentosa
   [D] interação farmacocinética por alteração da distribuição
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: C
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [C] ('incompatibilidade medicamentosa') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'sinergismo farmacológico...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'antagonismo farmacológico...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'incompatibilidade medicamentosa...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'interação farmacocinética por alteração da distribuição...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
@@ -103,10 +100,9 @@ Técnico em Enfermagem - SMS No início do turno, o técnico de enfermagem confe
   [C] executada pela mesma via utilizada na administração anterior
   [D] mantida no horário prescrito, com registro posterior da via utilizada no procedimento 58 Enfermagem > Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Diagnósticos de Enfermagem - NIC-NOC/CIPE/NANDA Banca: SELECON Órgão: Prefeitura de Barra do Garças - MT Prova: SELECON - 2026 - Prefeitura de Barra do Garças - MT -
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+✅ Gabarito: A
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [A] ('adiada até o esclarecimento da informação') constitui a conduta correta e segura.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'adiada até o esclarecimento da informação...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'realizada pela via relatada como habitual pelo paciente...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'executada pela mesma via utilizada na administração anterior...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'mantida no horário prescrito, com registro posterior da via utilizada no procedimento...' não atende às diretrizes oficiais do Ministério da Saúde.
@@ -122,12 +118,11 @@ Durante o plantão em uma unidade de internação clínica, o técnico de enferm
   [C] atendeu parcialmente às recomendações de segurança, por não contemplar todos os critérios previstos nos nove certos da administração de medicamentos, especialmente aqueles relacionados à indicação e à resposta do paciente
   [D] apresentou falha relacionada ao processo de supervisão do cuidado, uma vez que a orientação e o acompanhamento do enfermeiro responsável pelo setor não foram suficientes para prevenir o evento ocorrido 85 Enfermagem > Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Gestão de Processos e Equipes de Trabalho , Administração em Enfermagem Banca: SELECON Órgão: EMGEPRON Prova: SELECON - 2026 - EMGEPRON - Técnico em Enfermagem
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: C
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [C] ('atendeu parcialmente às recomendações de segurança, por não contemplar todos os critérios previstos nos nove certos da administração de medicamentos, especialmente aqueles relacionados à indicação e à resposta do paciente') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'atendeu integralmente às boas práticas do cuidado, pois cumpriu com todos os critério...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'realizou a administração de forma correta, priorizando a rotina assistencial da unida...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'atendeu parcialmente às recomendações de segurança, por não contemplar todos os crité...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'apresentou falha relacionada ao processo de supervisão do cuidado, uma vez que a orie...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
@@ -141,12 +136,11 @@ MT - Técnico em Enfermagem Na prática da administração de medicamentos, a es
   [C] absorção mais rápida que a via subcutânea, em razão da maior vascularização da área
   [D] administração de grandes volumes, independentemente do risco de dor ou lesão tecidual devido à extensão 117 Ano: 2026
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+✅ Gabarito: C
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('absorção mais rápida que a via subcutânea, em razão da maior vascularização da área') constitui a conduta correta e segura.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'absorção lenta e gradual, ideal para medicações mais espessas...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'início de ação imediato, comparável ao obtido pela via endovenosa...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'absorção mais rápida que a via subcutânea, em razão da maior vascularização da área...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'administração de grandes volumes, independentemente do risco de dor ou lesão tecidual...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
@@ -160,13 +154,12 @@ MT - Enfermeiro Um paciente pediátrico com peso de 12 kg deve receber uma medic
   [C] 27,0 mL
   [D] 3,0 mL 127 Ano: 2026
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+✅ Gabarito: D
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [D] ('3,0 mL 127 Ano: 2026') constitui a conduta correta e segura.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois '3,0 mL 127 Ano: 2026...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
@@ -179,11 +172,10 @@ Técnico em Enfermagem Um paciente adulto em hipoglicemia grave necessita de Gli
   [C] misturar igualmente 20 mL de G50% e 20 mL de diluente, resultando em G25% adequada ao protocolo
   [D] diluir G50% apenas com 10 mL de solução fisiológica, pois a diluição mínima já reduz risco de flebite 135 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: B
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [B] ('adicionar 80 mL de diluente aos 20 mL de G50%, obtendo um total de 100 mL em concentração de 10%') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'adicionar 30 mL de diluente aos 20 mL de G50%, reduzindo a concentração final para a ...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'adicionar 80 mL de diluente aos 20 mL de G50%, obtendo um total de 100 mL em concentr...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'misturar igualmente 20 mL de G50% e 20 mL de diluente, resultando em G25% adequada ao...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'diluir G50% apenas com 10 mL de solução fisiológica, pois a diluição mínima já r...'.
 
@@ -198,12 +190,11 @@ Técnico em Enfermagem Durante a administração de um medicamento prescrito, o 
   [C] a “orientação certa” implica garantir que o paciente receba informações pertinentes sobre o medicamento, como finalidade, forma correta de uso e possíveis efeitos esperados, contribuindo para maior segurança e adesão
   [D] a “resposta certa” diz respeito exclusivamente ao registro de reações adversas imediatas, não abrangendo a monitorização clínica posterior ou a avaliação de eficácia terapêutica, limitando-se apenas ao relato pontual de eventos observados no momento da administração 148 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+✅ Gabarito: C
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('a “orientação certa” implica garantir que o paciente receba informações pertinentes sobre o medicamento, como finalidade, forma correta de uso e possíveis efeitos esperados, contribuindo para maior segurança e adesão') constitui a conduta correta e segura.
 ❌ Distratores:
    • Alternativa A: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o "paciente certo" pode ser confi rmado apenas pela identifi cação verbal, desde...'.
    • Alternativa B: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o "registro certo" refere-se apenas ao horário da administração, não incluindo l...'.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a “orientação certa” implica garantir que o paciente receba informações pertinentes s...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a “resposta certa” diz respeito exclusivamente ao registro de reações adversas i...'.
 
 ------------------------------------------------------------
@@ -217,11 +208,10 @@ A segurança do paciente na administração de medicamentos é um pilar da prát
   [C] administrar todos os medicamentos do paciente em um único horário para otimizar o tempo
   [D] priorizar a administração de medicamentos orais antes dos injetáveis 186 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+✅ Gabarito: B
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [B] ('respeitar os intervalos de tempo entre as doses para manter a concentração terapêutica do fármaco') constitui a conduta correta e segura.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'administrar o medicamento no momento exato da prescrição, sem qualquer tolerância...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'respeitar os intervalos de tempo entre as doses para manter a concentração terapêutic...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'administrar todos os medicamentos do paciente em um único horário para otimizar o tem...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'priorizar a administração de medicamentos orais antes dos injetáveis 186 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde.
 
@@ -236,11 +226,10 @@ Em uma emergência, a necessidade de uma ação medicamentosa rápida e completa
   [C] necessidade de metabolização para ativação
   [D] a principal via para efeitos locais e tópicos 200 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: B
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [B] ('biodisponibilidade de 100%') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'a mais alta latência para o início da ação...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'biodisponibilidade de 100%...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'necessidade de metabolização para ativação...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'a principal via para efeitos locais e tópicos 200 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde.
 
@@ -255,11 +244,10 @@ Ao preparar a medicação para o Sr. João da Silva, internado na clínica médi
   [C] registro da evolução de enfermagem no prontuário
   [D] realização do balanço hídrico do paciente 203 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+✅ Gabarito: B
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [B] ('aplicação dos "certos" da administração de medicamentos') constitui a conduta correta e segura.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'verifi cação dos sinais vitais do paciente...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'aplicação dos "certos" da administração de medicamentos...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'registro da evolução de enfermagem no prontuário...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'realização do balanço hídrico do paciente 203 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde.
 
@@ -274,12 +262,11 @@ Ao se comparar o Fármaco A (meia-vida de 4 horas) com o Fármaco B (meia-vida d
   [C] apresenta maior risco de acúmulo e toxicidade em caso de ajuste inadequado da dose e levará mais tempo para atingir a concentração de estado estacionário (steady state)
   [D] atinge o pico de concentração plasmática mais rapidamente que o Fármaco A, necessitando de monitoramento intensivo apenas nas primeiras horas de tratamento 209 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+✅ Gabarito: C
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('apresenta maior risco de acúmulo e toxicidade em caso de ajuste inadequado da dose e levará mais tempo para atingir a concentração de estado estacionário (steady state)') constitui a conduta correta e segura.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'exige administrações mais frequentes para manter a concentração plasmática dentro da ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'é rapidamente eliminado do organismo, minimizando a duração de eventuais efeitos adve...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'apresenta maior risco de acúmulo e toxicidade em caso de ajuste inadequado da dose e ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'atinge o pico de concentração plasmática mais rapidamente que o Fármaco A, neces...'.
 
 ------------------------------------------------------------
@@ -293,11 +280,10 @@ Enfermagem Durante a administração de uma medicação por via intramuscular (I
   [C] bíceps braquial
   [D] vasto lateral da coxa
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+✅ Gabarito: B
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [B] ('ventroglúteo') constitui a conduta correta e segura.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'ventroglúteo...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'bíceps braquial...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'vasto lateral da coxa...' não atende às diretrizes oficiais do Ministério da Saúde.
 
@@ -312,12 +298,11 @@ MT - Técnico em Enfermagem APH Um enfermeiro esta orientando um estudante de en
   [C] "Sim, é possível mistura-las. Você deve aspirar primeiro a Insulina Regular (límpida) e depois a Insulina NPH (leitosa), após homogeneizar suavemente o frasco da NPH, e administrar imediatamente para garantir a estabilidade".
   [D] "A mistura é possível, mas apenas se a administração for imediata e o volume total não exceder 1 mL. A ordem de aspiração não interfere na eficácia, desde que não se contamine os frascos". 235 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+✅ Gabarito: C
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('"Sim, é possível mistura-las. Você deve aspirar primeiro a Insulina Regular (límpida) e depois a Insulina NPH (leitosa), após homogeneizar suavemente o frasco da NPH, e administrar imediatamente para garantir a estabilidade".') constitui a conduta correta e segura.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois '"Não é recomendado misturar diferentes tipos de insulina na mesma seringa devido ao r...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois '"Sim, você pode misturar as duas, aspirando primeiro a Insulina NPH (de aspecto leito...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois '"Sim, é possível mistura-las. Você deve aspirar primeiro a Insulina Regular (límpida)...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que '"A mistura é possível, mas apenas se a administração for imediata e o volume tot...'.
 
 ------------------------------------------------------------
@@ -331,10 +316,9 @@ MT - Técnico em Enfermagem APH Um técnico de enfermagem é designado para admi
   [C] desprezar toda a medicação e preparar uma nova dose, pois a presença de qualquer bolha de ar invalida a preparação
   [D] aumentar ligeiramente a dose aspirada para compensar o volume da bolha de ar, garantindo que o paciente receba os 10 mg 236 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+✅ Gabarito: A
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [A] ('expelir cuidadosamente a bolha de ar da seringa, garantindo que a dose correta de 1 mL (10 mg) permaneça, antes de realizar a antissepsia e a aplicação') constitui a conduta correta e segura.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'expelir cuidadosamente a bolha de ar da seringa, garantindo que a dose correta de 1 m...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'administrar a medicação com a bolha de ar, pois em via subcutânea pequenas bolhas não...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'desprezar toda a medicação e preparar uma nova dose, pois a presença de qualquer bolh...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'aumentar ligeiramente a dose aspirada para compensar o volume da bolha de ar, garanti...' não atende às diretrizes oficiais do Ministério da Saúde.
@@ -350,11 +334,10 @@ Quatro Marcos - MT - Técnico em Enfermagem Considerando as vacinas contra hepat
   [C] hepatite B (via intradérmica), tríplice viral (via intramuscular), febre amarela (via intramuscular)
   [D] hepatite B (via subcutânea), tríplice viral (via oral), febre amarela (via intramuscular) 245 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: B
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [B] ('hepatite B (via intramuscular), tríplice viral (via intramuscular), febre amarela (via subcutânea)') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'hepatite B (via oral), tríplice viral (via subcutânea), febre amarela (via intramuscu...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'hepatite B (via intramuscular), tríplice viral (via intramuscular), febre amarela (vi...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'hepatite B (via intradérmica), tríplice viral (via intramuscular), febre amarela (via...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'hepatite B (via subcutânea), tríplice viral (via oral), febre amarela (via intramuscu...' não atende às diretrizes oficiais do Ministério da Saúde.
 
@@ -369,17 +352,16 @@ ANHH - Nível I - Grau A - Biomédico/Biólogo/Farmacêutico/Bioquímico - 40 Ho
   [C] 35 dias
   [D] 60 dias
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+✅ Gabarito: C
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('35 dias') constitui a conduta correta e segura.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
 
 ------------------------------------------------------------
 
-QUESTÃO 21 [Código: EF0314] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
+QUESTÃO 21 [Código: EF0313] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
 Assunto: Administração de medicamentos , Medicação Intramuscular
 Durante a aplicação de uma medicação intramuscular em um paciente adulto, o enfermeiro decide utilizar a técnica Z para minimizar os riscos de extravasamento e complicações associadas à injeção. Após a inserção da agulha no músculo, o enfermeiro realiza a manobra específica para garantir a correta aplicação. Com base nas etapas dessa técnica e as suas indicações, a alternativa que a descreve corretamente é:
 
@@ -388,17 +370,16 @@ Durante a aplicação de uma medicação intramuscular em um paciente adulto, o 
   [C] na técnica Z, a agulha deve ser inserida em um ângulo de 30 graus, e a tração da pele não é necessária, pois a injeção é realizada lentamente, o que assegura a absorção imediata da medicação e minimiza o risco de complicações
   [D] o enfermeiro deve usar a técnica Z apenas em situações de infecções graves, inserindo a agulha de forma oblíqua e administrando a medicação lentamente, sem realizar qualquer tipo de tração na pele 315 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+✅ Gabarito: A
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [A] ('após inserir a agulha em um ângulo de 90 graus, o enfermeiro puxa a pele para formar um "Z", garantindo a vedação do local da aplicação, pois isso evita o extravasamento da medicação para os tecidos subcutâneos, o que reduziria as chances de formação de abscessos ou outras complicações locais') constitui a conduta correta e segura.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'após inserir a agulha em um ângulo de 90 graus, o enfermeiro puxa a pele para formar ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'a técnica Z exige a inserção da agulha em um ângulo de 45 graus, após o que o enferme...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'na técnica Z, a agulha deve ser inserida em um ângulo de 30 graus, e a tração da pele...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o enfermeiro deve usar a técnica Z apenas em situações de infecções graves, inse...'.
 
 ------------------------------------------------------------
 
-QUESTÃO 22 [Código: EF0318] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
+QUESTÃO 22 [Código: EF0317] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
 Assunto: Administração de medicamentos
 Uma ação combinada de dois ou mais medicamentos que produzem um efeito biológico, cujo resultado pode ser a soma dos efeitos de cada composto ou um efeito total superior a essa soma, podendo resultar em um determinado medicamento aumentar a ação de outro, é um fenômeno conhecido como:
 
@@ -407,17 +388,16 @@ Uma ação combinada de dois ou mais medicamentos que produzem um efeito biológ
   [C] antagonismo
   [D] cooperativismo 319 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+✅ Gabarito: B
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [B] ('sinergismo') constitui a conduta correta e segura.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'antagonismo...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'cooperativismo 319 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 23 [Código: EF0323] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 23 [Código: EF0322] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Administração de medicamentos , Diabetes Mellitus , Doenças Crônicas Não Transmissíveis
 Um paciente está em tratamento com metformina para diabetes tipo 2 e foi prescrito o uso de um antibiótico da classe dos macrolídeos. Para a segurança do paciente em relação à interação medicamentosa, o técnico de enfermagem deve considerar:
 
@@ -426,17 +406,16 @@ Um paciente está em tratamento com metformina para diabetes tipo 2 e foi prescr
   [C] não há interação significativa entre metformina e macrolideos, portanto, não é necessário monitorar o paciente
   [D] o uso concomitante pode aumentar o risco de hipoglicemia, exigindo monitoramento cuidadoso dos níveis de glicose 324 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: D
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [D] ('o uso concomitante pode aumentar o risco de hipoglicemia, exigindo monitoramento cuidadoso dos níveis de glicose 324 Ano: 2024') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'a metformina pode aumentar a eficácia do antibiótico, tornando o tratamento mais efic...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'a metformina pode diminuir a eficácia do antibiótico, tornando-o menos eficaz no trat...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'não há interação significativa entre metformina e macrolideos, portanto, não é necess...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'o uso concomitante pode aumentar o risco de hipoglicemia, exigindo monitoramento cuid...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 24 [Código: EF0335] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 24 [Código: EF0334] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
 Assunto: Administração de medicamentos , Cálculo de Solução e Medicamentos
 Estão prescritos para um paciente 150mg de amicacina e no hospital existem apenas ampolas contendo 500mg/2 ml. A dose a ser aplicada é de:
 
@@ -446,18 +425,17 @@ Estão prescritos para um paciente 150mg de amicacina e no hospital existem apen
   [D] 0,5 ml
   [E] 0,6 ml 336 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+✅ Gabarito: E
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [E] ('0,6 ml 336 Ano: 2024') constitui a conduta correta e segura.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa E: Incorreta perante os protocolos técnicos, pois '0,6 ml 336 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 25 [Código: EF0421] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 25 [Código: EF0414] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
 Assunto: Administração de medicamentos
 O método amplamente indicado no tratamento de problemas respiratórios agudos e crônicos de diversas origens, incluindo asma, bronquites, sinusites, infecções e inflamações em geral, também atuante na administração de medicamentos broncodilatadores e na umidificação das vias aéreas, é a:
 
@@ -466,17 +444,16 @@ O método amplamente indicado no tratamento de problemas respiratórios agudos e
   [C] vaporização
   [D] broncodilação 422 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: A
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('nebulização') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'nebulização...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'fluidificação...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'vaporização...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'broncodilação 422 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 26 [Código: EF0458] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 26 [Código: EF0451] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
 Assunto: Administração de medicamentos , Medicação Intramuscular
 Administrativo - 40H Uma das técnicas mais utilizadas pela enfermagem é a administração de medicamentos via intramuscular. Sua absorção é mais rápida e acontece através da via:
 
@@ -485,17 +462,16 @@ Administrativo - 40H Uma das técnicas mais utilizadas pela enfermagem é a admi
   [C] parenteral
   [D] sublingual 459 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+✅ Gabarito: C
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('parenteral') constitui a conduta correta e segura.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'sublingual 459 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 27 [Código: EF0472] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 27 [Código: EF0465] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
 Assunto: Administração de medicamentos
 Administrativo - Saúde/40h Durante a administração de medicamentos, o enfermeiro deve seguir procedimentos rigorosos para garantir a segurança do paciente. Uma das etapas essenciais é a verificação dos cinco certos, que são:
 
@@ -504,17 +480,16 @@ Administrativo - Saúde/40h Durante a administração de medicamentos, o enferme
   [C] certo paciente, certo medicamento, certo horário, certo método, certo profissional
   [D] certo paciente, certo medicamento, certo diagnóstico, certo local, certo profissional
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+✅ Gabarito: B
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [B] ('certo paciente, certo medicamento, certo horário, certo local, certo profissional') constitui a conduta correta e segura.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'certo paciente, certo medicamento, certo horário, certo local, certo registro...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'certo paciente, certo medicamento, certo horário, certo local, certo profissional...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'certo paciente, certo medicamento, certo horário, certo método, certo profissional...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'certo paciente, certo medicamento, certo diagnóstico, certo local, certo profissional...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 28 [Código: EF0480] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 28 [Código: EF0473] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Administração de medicamentos , Cálculo de Solução e Medicamentos
 Enfermagem A terapia medicamentosa tornou-se uma das formas mais comuns de intervenção no cuidado ao paciente, utilizada ao longo dos anos na cura de doenças. Para seu uso adequado, as dosagens devem ser aplicadas adequadamente. Com base nesta afirmativa, em 1 ml de uma determinada medicação encontram-se:
 
@@ -523,17 +498,16 @@ Enfermagem A terapia medicamentosa tornou-se uma das formas mais comuns de inter
   [C] 30 gotas
   [D] 40 gotas
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+✅ Gabarito: B
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [B] ('20 gotas') constitui a conduta correta e segura.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
 
 ------------------------------------------------------------
 
-QUESTÃO 29 [Código: EF0667] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 29 [Código: EF0659] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Administração de medicamentos , Medicação Oral , Medicação Endovenosa
 em Enfermagem O medicamento colocado debaixo da língua, que possibilita a absorção mais rápida que a via oral e não pode ser mastigado ou engolido, é o medicamento administrado via:
 
@@ -542,17 +516,16 @@ em Enfermagem O medicamento colocado debaixo da língua, que possibilita a absor
   [C] sublingual
   [D] ocular
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+✅ Gabarito: C
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('sublingual') constitui a conduta correta e segura.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
 
 ------------------------------------------------------------
 
-QUESTÃO 30 [Código: EF0687] - CLIN (SELECON 2022) - Enfermeiro
+QUESTÃO 30 [Código: EF0679] - CLIN (SELECON 2022) - Enfermeiro
 Assunto: Administração de medicamentos , Enfermagem em Oncologia , Medicação Subcutânea
 A hipodermóclise é uma via de acesso subcutâneo, amplamente utilizada na oncologia e no atendimento domiciliar, para administração de alguns medicamentos e hidratação. O volume diário recomendado em 24 horas é de:
 
@@ -561,17 +534,16 @@ A hipodermóclise é uma via de acesso subcutâneo, amplamente utilizada na onco
   [C] 6.000 ml, sendo 3.000 ml por sítio de punção
   [D] 8.000 ml, sendo 4.000 ml por sítio de punção 688 Ano: 2022
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+✅ Gabarito: A
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [A] ('2.000 ml, sendo 1.000 ml por sítio de punção') constitui a conduta correta e segura.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois '2.000 ml, sendo 1.000 ml por sítio de punção...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois '4.000 ml, sendo 2.000 ml por sítio de punção...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois '6.000 ml, sendo 3.000 ml por sítio de punção...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois '8.000 ml, sendo 4.000 ml por sítio de punção 688 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 31 [Código: EF0721] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Enfermeiro
+QUESTÃO 31 [Código: EF0713] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Enfermeiro
 Assunto: Administração de medicamentos , Medicação Intramuscular
 A aplicação de injeções intramusculares no músculo glúteo médio é considerada uma das técnicas mais seguras, especialmente em crianças acima de sete meses. Assinale a alternativa que apresenta o nome dessa técnica:
 
@@ -580,17 +552,16 @@ A aplicação de injeções intramusculares no músculo glúteo médio é consid
   [C] Hochstetter
   [D] Mann-Whitney 722 Ano: 2022
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
+✅ Gabarito: C
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [C] ('Hochstetter') representa a conduta científica e clinicamente recomendada.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Hochstetter...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Mann-Whitney 722 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 32 [Código: EF0788] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+QUESTÃO 32 [Código: EF0780] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
 Assunto: Administração de medicamentos , Cálculo de Solução e Medicamentos
 Intensivista Pediátrico Uma criança internada na unidade pediátrica apresenta a prescrição médica de metronidazol 125mg EV a cada 8 horas. Porém, na unidade, há disponível o medicamento metronidazol 0,5% com 100 ml de solução injetável. Para execução da prescrição médica com este último medicamento, serão necessários:
 
@@ -599,17 +570,16 @@ Intensivista Pediátrico Uma criança internada na unidade pediátrica apresenta
   [C] 50ml
   [D] 10 ml 789 Ano: 2020
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
+✅ Gabarito: B
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [B] ('25 ml') representa a conduta científica e clinicamente recomendada.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois '10 ml 789 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 33 [Código: EF0876] - Prefeitura de Boa Vista - RR (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 33 [Código: EF0868] - Prefeitura de Boa Vista - RR (SELECON 2024) - Técnico de Enfermagem
 Assunto: Administração de medicamentos , Cálculo de Solução e Medicamentos
 Técnico - Grupo Especial - Técnico de Enfermagem Foi prescrito para a paciente J.G.G.M , 68 anos de idade, a administração de 1000mL de soro fisiológico a 0,9% para ser infundido em 12h. Para essa infusão, é necessária a seguinte quantidade de gotas por minuto:
 
@@ -618,11 +588,10 @@ Técnico - Grupo Especial - Técnico de Enfermagem Foi prescrito para a paciente
   [C] 42 gotas/min
   [D] 83 gotas/min
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+✅ Gabarito: B
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [B] ('28 gotas/min') constitui a conduta correta e segura.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois '20 gotas/min...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois '28 gotas/min...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois '42 gotas/min...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois '83 gotas/min...' não atende às diretrizes oficiais do Ministério da Saúde.
 

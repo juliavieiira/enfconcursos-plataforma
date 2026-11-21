@@ -1,6 +1,7 @@
 [
   {
     "codigo_origem": "Q1242251",
+    "numero_original": 877,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2019,
@@ -27,10 +28,10 @@
         "texto": "estabelecer o acesso enteral por via orogástrica, ou transpilórica para a administração da TN"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0877",
-    "numero_ordem": 877,
-    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "resposta_correta": "C",
+    "id": "EF0869",
+    "numero_ordem": 869,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('promover cuidados gerais ao paciente de acordo com a prescrição de enfermagem ou protocolo estabelecido na instituição') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -41,14 +42,10 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'prescrever os cuidados de enfermagem inerentes à Terapia de Nutrição Enteral em nível...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'promover cuidados gerais ao paciente de acordo com a prescrição de enfermagem ou prot...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'estabelecer o acesso enteral por via orogástrica, ou transpilórica para a administraç...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('prom..."
   }
 ]

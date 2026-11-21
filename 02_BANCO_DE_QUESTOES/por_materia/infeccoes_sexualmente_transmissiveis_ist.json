@@ -1,6 +1,7 @@
 [
   {
     "codigo_origem": "Q2325278",
+    "numero_original": 600,
     "banca": "SELECON",
     "orgao": "Prefeitura de Primavera do Leste - MT",
     "ano": 2024,
@@ -27,15 +28,11 @@
         "texto": "peso, altura, cálculo do índice de massa corpórea, medida da circunferência abdominal e respiração"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0600",
-    "numero_ordem": 600,
-    "fundamentacao_correta": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.",
+    "resposta_correta": "A",
+    "id": "EF0592",
+    "numero_ordem": 592,
+    "fundamentacao_correta": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [A]: 'medida da circunferência abdominal, peso, altura, cálculo do índice de massa corpórea e aferição da pressão arterial'.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'medida da circunferência abdominal, peso, altura, cálculo do índice de massa corpórea...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'aferição da glicemia capilar, peso, altura, cálculo do índice de massa corpórea e med...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -53,6 +50,7 @@
   },
   {
     "codigo_origem": "Q1320540",
+    "numero_original": 737,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2024,
@@ -79,15 +77,11 @@
         "texto": "Síndrome da Imunodeficiência (AIDS)"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0737",
-    "numero_ordem": 737,
-    "fundamentacao_correta": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.",
+    "resposta_correta": "A",
+    "id": "EF0729",
+    "numero_ordem": 729,
+    "fundamentacao_correta": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [A]: 'sífilis'.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."

@@ -10,12 +10,11 @@ Um paciente adulto é admitido para procedimento cirúrgico eletivo e passa pela
   [C] pós-operatório imediato, o técnico de enfermagem deve monitorar sinais vitais, nível de consciência, dor e possíveis complicações, comunicando alterações à equipe
   [D] período transoperatório, o técnico de enfermagem atua apenas na esterilização dos materiais, sem participação direta na assistência ao paciente ou no transporte dele
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.
+✅ Gabarito: C
+💡 Fundamentação: Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [C] ('pós-operatório imediato, o técnico de enfermagem deve monitorar sinais vitais, nível de consciência, dor e possíveis complicações, comunicando alterações à equipe') atende às exigências normativas de biossegurança perioperatória.
 ❌ Distratores:
    • Alternativa A: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'período pré-operatório, cabe ao técnico de enfermagem realizar exclusivamente a ...'.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'período transoperatório, a responsabilidade do técnico de enfermagem limita-se ao tra...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'pós-operatório imediato, o técnico de enfermagem deve monitorar sinais vitais, nível ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'período transoperatório, o técnico de enfermagem atua apenas na esterilização do...'.
 
 ------------------------------------------------------------
@@ -29,11 +28,10 @@ Técnico em Enfermagem Um paciente submetido à laparotomia exploradora evolui c
   [C] promover irrigação da cavidade operatória e remoção de debris teciduais residuais
   [D] estimular fibras sensoriais periféricas, reduzindo o estímulo nociceptivo 145 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.
+✅ Gabarito: B
+💡 Fundamentação: Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [B] ('impedir o acúmulo de secreções, permitir a detecção precoce de sangramento e reduzir o risco de formação de coleções') atende às exigências normativas de biossegurança perioperatória.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'manter pressão negativa contínua de forma controlada e segura, garantindo a remoção p...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'impedir o acúmulo de secreções, permitir a detecção precoce de sangramento e reduzir ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'promover irrigação da cavidade operatória e remoção de debris teciduais residuais...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'estimular fibras sensoriais periféricas, reduzindo o estímulo nociceptivo 145 Ano: 20...' não atende às diretrizes oficiais do Ministério da Saúde.
 
@@ -48,17 +46,16 @@ Dentro dos princípios da assepsia cirúrgica para a montagem de um campo estér
   [C] à borda externa de 2,5 cm (uma polegada) do campo
   [D] a qualquer área que entre em contato com luvas estéreis
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.
+✅ Gabarito: C
+💡 Fundamentação: Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [C] ('à borda externa de 2,5 cm (uma polegada) do campo') atende às exigências normativas de biossegurança perioperatória.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'a toda a superfície abaixo do nível da cintura...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'ao centro do campo, no qual os instrumentos principais são depositados...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'à borda externa de 2,5 cm (uma polegada) do campo...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'a qualquer área que entre em contato com luvas estéreis...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 4 [Código: EF0284] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 4 [Código: EF0283] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
 Assunto: Enfermagem em Centro Cirúrgico , Enfermagem em Central de Material Esterilizado
 Enfermagem O técnico de enfermagem encaminhou materiais utilizados no Centro Cirúrgico para a Central de Material e Esterilização. De modo a garantir que o processamento de artigos hospitalares, como materiais cirúrgicos e equipamentos reutilizáveis, seja realizado de acordo com as normas de biossegurança, a conduta mais indicada é:
 
@@ -67,17 +64,16 @@ Enfermagem O técnico de enfermagem encaminhou materiais utilizados no Centro Ci
   [C] o processamento pode ser realizado apenas com a secagem manual e armazenamento do material, pois a esterilização não é necessária para materiais não críticos, como luvas e gazes
   [D] o processamento deve começar com a lavagem do material em água quente e detergente enzimático, seguida pela secagem adequada, esterilização e armazenamento em local adequado, respeitando as orientações de segurança e de controle de infecção
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.
+✅ Gabarito: D
+💡 Fundamentação: Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [D] ('o processamento deve começar com a lavagem do material em água quente e detergente enzimático, seguida pela secagem adequada, esterilização e armazenamento em local adequado, respeitando as orientações de segurança e de controle de infecção') atende às exigências normativas de biossegurança perioperatória.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'o processamento deve iniciar com a lavagem do material em água fria, seguido pela est...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'o processamento deve iniciar com a desinfecção simples dos artigos com álcool, seguid...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o processamento pode ser realizado apenas com a secagem manual e armazenamento d...'.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'o processamento deve começar com a lavagem do material em água quente e detergente en...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 5 [Código: EF0300] - Prefeitura de Sinop - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 5 [Código: EF0299] - Prefeitura de Sinop - MT (SELECON 2024) - Enfermeiro
 Assunto: Enfermagem em Centro Cirúrgico , Trans-Operatório , Segurança do Paciente
 Durante um procedimento cirúrgico complexo em um paciente adulto de 60 anos, com histórico de hipertensão, diabetes tipo 2 e insufi ciência renal crônica, o enfermeiro é responsável pela monitorização contínua dos parâmetros vitais e metabólicos. Considerando as condições pré-existentes do paciente e os efeitos da anestesia geral, a alternativa que melhor descreve a conduta de monitorização e os parâmetros que devem ser avaliados para garantir a segurança do paciente durante a cirurgia é:
 
@@ -86,17 +82,16 @@ Durante um procedimento cirúrgico complexo em um paciente adulto de 60 anos, co
   [C] a monitorização durante o procedimento pode ser restrita à pressão arterial média e à saturação de oxigênio, dado que a anestesia e os medicamentos administrados têm um impacto mínimo nas funções respiratórias e renais, sendo que a temperatura e a diurese não apresentam risco imediato ao paciente
   [D] a monitorização completa, que inclui todos os parâmetros vitais, deve ser feita apenas em pacientes com histórico de doenças cardíacas graves ou em cirurgias de emergência, não sendo necessária em casos de procedimentos programados, como o deste paciente
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: B
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [B] ('além dos parâmetros hemodinâmicos (pressão arterial, frequência cardíaca), o enfermeiro deve monitorar de forma contínua a saturação de oxigênio, a temperatura corporal, os parâmetros respiratórios (volume corrente, frequência respiratória) e a diurese, levando em consideração os efeitos da anestesia, da comorbidade renal e das possíveis alterações metabólicas') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'a monitorização deve ser limitada a parâmetros hemodinâmicos básicos, como pressão ar...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'além dos parâmetros hemodinâmicos (pressão arterial, frequência cardíaca), o enfermei...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a monitorização durante o procedimento pode ser restrita à pressão arterial média e à...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a monitorização completa, que inclui todos os parâmetros vitais, deve ser feita ...'.
 
 ------------------------------------------------------------
 
-QUESTÃO 6 [Código: EF0422] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 6 [Código: EF0415] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
 Assunto: Enfermagem em Centro Cirúrgico
 O checklist de cirurgia segura deve ser aplicado em três momentos, pela equipe cirúrgica (cirurgião, anestesista e equipe de enfermagem): antes da indução anestésica, antes da incisão cirúrgica e antes do paciente deixar a sala de cirurgia. A confirmação verbal da identidade do paciente, do sítio cirúrgico e do procedimento será realizada:
 
@@ -105,17 +100,16 @@ O checklist de cirurgia segura deve ser aplicado em três momentos, pela equipe 
   [C] quando chega na sala
   [D] antes de sair da sala 423 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.
+✅ Gabarito: B
+💡 Fundamentação: Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [B] ('antes da incisão cirúrgica') atende às exigências normativas de biossegurança perioperatória.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'antes da indução anestésica...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'antes da incisão cirúrgica...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'quando chega na sala...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'antes de sair da sala 423 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 7 [Código: EF0620] - Prefeitura de Primavera do Leste - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 7 [Código: EF0612] - Prefeitura de Primavera do Leste - MT (SELECON 2024) - Enfermeiro
 Assunto: Enfermagem em Centro Cirúrgico
 MT - Enfermeiro(a) Padrão Os fios cirúrgicos devem ser de alta resistência a tração e a torção para evitar complicações no pós-operatório imediato. Existem inúmeras classificações acerca do tipo do fio. Um exemplo de fio absorvível de origem animal é o:
 
@@ -124,17 +118,16 @@ MT - Enfermeiro(a) Padrão Os fios cirúrgicos devem ser de alta resistência a 
   [C] categute simples
   [D] de ácido polidioxanona
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.
+✅ Gabarito: C
+💡 Fundamentação: Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [C] ('categute simples') atende às exigências normativas de biossegurança perioperatória.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'categute simples...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'de ácido polidioxanona...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 8 [Código: EF0622] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 8 [Código: EF0614] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
 Assunto: Enfermagem em Centro Cirúrgico
 MT - Enfermeiro(a) Padrão De acordo com os princípios e as técnicas da tricotomia pré-operatória, quando o paciente apresenta pelos que necessitam da remoção, o enfermeiro deve proceder à retirada:
 
@@ -143,17 +136,16 @@ MT - Enfermeiro(a) Padrão De acordo com os princípios e as técnicas da tricot
   [C] 96 horas antes da cirurgia e, de preferência, utilizando lâminas de barbear
   [D] 24 horas antes da cirurgia e, de preferência, utilizando bisturi
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.
+✅ Gabarito: A
+💡 Fundamentação: Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [A] ('imediatamente antes da cirurgia e, de preferência, utilizando tricotomizadores elétricos') atende às exigências normativas de biossegurança perioperatória.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'imediatamente antes da cirurgia e, de preferência, utilizando tricotomizadores elétri...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois '48 horas antes da cirurgia e, de preferência, utilizando tricotomizadores elétricos...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois '96 horas antes da cirurgia e, de preferência, utilizando lâminas de barbear...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois '24 horas antes da cirurgia e, de preferência, utilizando bisturi...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 9 [Código: EF0636] - Prefeitura de Campo Verde - MT (SELECON 2023) - Técnico de Enfermagem
+QUESTÃO 9 [Código: EF0628] - Prefeitura de Campo Verde - MT (SELECON 2023) - Técnico de Enfermagem
 Assunto: Enfermagem em Centro Cirúrgico
 em Enfermagem A enfermagem cirúrgica é uma área que tem como foco o cuidado com pacientes submetidos a procedimentos cirúrgicos. Esses cuidados perpassam as fases de:
 
@@ -162,17 +154,16 @@ em Enfermagem A enfermagem cirúrgica é uma área que tem como foco o cuidado c
   [C] pré-anestésico; perioperatório e pós-anestesia
   [D] pré-internação; intraoperatório e pós-cirúrgico 637 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.
+✅ Gabarito: A
+💡 Fundamentação: Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [A] ('pré-operatório; intraoperatório e pós-operatório') atende às exigências normativas de biossegurança perioperatória.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'pré-operatório; intraoperatório e pós-operatório...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'perioperatório; pré-anestésico e hemostasia...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'pré-anestésico; perioperatório e pós-anestesia...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'pré-internação; intraoperatório e pós-cirúrgico 637 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 10 [Código: EF0663] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Técnico de Enfermagem
+QUESTÃO 10 [Código: EF0655] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Técnico de Enfermagem
 Assunto: Enfermagem em Centro Cirúrgico , Trans-Operatório
 em Enfermagem O procedimento executado pelo médico que consiste na abertura cirúrgica para dentro da cavidade torácica é chamado de:
 
@@ -181,17 +172,16 @@ em Enfermagem O procedimento executado pelo médico que consiste na abertura cir
   [C] mastopexia
   [D] toracotomia 664 Ano: 2023 Enfermagem > Urgência e emergência , Higiene nos Procedimentos de Enfermagem , Fundamentos e Procedimentos de Enfermagem Suporte Ventilatório , Enfermagem em UTI Banca: SELECON Órgão: Prefeitura de Nova Mutum - MT Prova: SELECON - 2023 - Prefeitura de Nova Mutum - MT - Técnico
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.
+✅ Gabarito: D
+💡 Fundamentação: Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [D] ('toracotomia 664 Ano: 2023 Enfermagem > Urgência e emergência , Higiene nos Procedimentos de Enfermagem , Fundamentos e Procedimentos de Enfermagem Suporte Ventilatório , Enfermagem em UTI Banca: SELECON Órgão: Prefeitura de Nova Mutum - MT Prova: SELECON - 2023 - Prefeitura de Nova Mutum - MT - Técnico') atende às exigências normativas de biossegurança perioperatória.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'pleuroscopia...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'toracotomia 664 Ano: 2023 Enfermagem > Urgência e emergência , Higiene nos Procedimen...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 11 [Código: EF0678] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Técnico de Enfermagem
+QUESTÃO 11 [Código: EF0670] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Técnico de Enfermagem
 Assunto: Enfermagem em Centro Cirúrgico , Trans-Operatório
 em Enfermagem O objetivo do ato cirúrgico é melhorar a saúde dos pacientes. Durante o intraoperatório, ocorre a hemostasia, que consiste no processo por meio do qual se impede, detém ou previne o sangramento, podendo ser preventiva, de urgência ou curativa. São exemplos instrumentais para hemostasia:
 
@@ -200,17 +190,16 @@ em Enfermagem O objetivo do ato cirúrgico é melhorar a saúde dos pacientes. D
   [C] o afastador Farabeuf, o dilatador e o porta-agulha
   [D] o trépano, o afastador Farabeuf e o afastador Finochietto
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.
+✅ Gabarito: A
+💡 Fundamentação: Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [A] ('as pinças de Kelly, Kocher e Rochester') atende às exigências normativas de biossegurança perioperatória.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'as pinças de Kelly, Kocher e Rochester...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'as pinças de mandril, o dilatador e o trépano...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'o afastador Farabeuf, o dilatador e o porta-agulha...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'o trépano, o afastador Farabeuf e o afastador Finochietto...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 12 [Código: EF0680] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 12 [Código: EF0672] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Enfermagem em Centro Cirúrgico , Pós-Operatório
 em Enfermagem A paciente Silvia Costa tem 43 anos, é etilista, tabagista, diabética e hipertensa. Ela foi submetida a uma histerectomia total e recebeu alta da UTI (Unidade de Tratamento Intensivo) no 8º dia após o procedimento cirúrgico. Essa paciente está no pósoperatório do tipo:
 
@@ -219,17 +208,16 @@ em Enfermagem A paciente Silvia Costa tem 43 anos, é etilista, tabagista, diab�
   [C] tardio
   [D] ativo
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: C
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [C] ('tardio') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
 
 ------------------------------------------------------------
 
-QUESTÃO 13 [Código: EF0703] - Prefeitura de Pontes e Lacerda - MT (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 13 [Código: EF0695] - Prefeitura de Pontes e Lacerda - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Enfermagem em Centro Cirúrgico , Segurança do Paciente
 Técnico em Enfermagem O protocolo de cirurgia segura possui como finalidade determinar as medidas a serem implantadas para reduzir a ocorrência de incidentes, eventos adversos e a mortalidade cirúrgica, possibilitando o aumento da segurança na realização de procedimentos cirúrgicos, no local correto e no paciente correto, por meio do uso da Lista de Verificação de Cirurgia Segura. Portanto, antes da indução anestésica, a equipe de enfermagem deve realizar a seguinte confirmação:
 
@@ -238,17 +226,16 @@ Técnico em Enfermagem O protocolo de cirurgia segura possui como finalidade det
   [C] suspensão do antibiótico profilático
   [D] identificação da amostra cirúrgica
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.
+✅ Gabarito: A
+💡 Fundamentação: Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [A] ('visualização do sítio cirúrgico correto e sua demarcação') atende às exigências normativas de biossegurança perioperatória.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'visualização do sítio cirúrgico correto e sua demarcação...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'contagem de compressas e instrumentais...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'suspensão do antibiótico profilático...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'identificação da amostra cirúrgica...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 14 [Código: EF0706] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Técnico de Enfermagem
+QUESTÃO 14 [Código: EF0698] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Técnico de Enfermagem
 Assunto: Enfermagem em Centro Cirúrgico , Pós-Operatório
 Técnico em Enfermagem É importante que o técnico de enfermagem atente-se aos sinais e sintomas de possíveis complicações no pós-operatório. Um exemplo de uma complicação é a embolia pulmonar, cujos sinais e sintomas podem incluir cianose, dispneia, taquicardia, dor torácica e diminuição da pressão arterial. Uma importante medida de prevenção dessa complicação é:
 
@@ -257,17 +244,16 @@ Técnico em Enfermagem É importante que o técnico de enfermagem atente-se aos 
   [C] manutenção de restrição no leito e massagem da face interna da coxa
   [D] administração de fluidos aquecidos intravenosos 707 Ano: 2022
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.
+✅ Gabarito: A
+💡 Fundamentação: Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [A] ('deambulação precoce sempre que possível ou outras medidas de prevenção de trombose venosa profunda') atende às exigências normativas de biossegurança perioperatória.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'deambulação precoce sempre que possível ou outras medidas de prevenção de trombose ve...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'administração de oxigênio a 4 litros por minuto, monitorando saturação de oxigênio...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'manutenção de restrição no leito e massagem da face interna da coxa...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'administração de fluidos aquecidos intravenosos 707 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 15 [Código: EF0715] - Prefeitura de Pontes e Lacerda - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 15 [Código: EF0707] - Prefeitura de Pontes e Lacerda - MT (SELECON 2024) - Enfermeiro
 Assunto: Enfermagem em Centro Cirúrgico , Pré-Operatório
 A enfermagem cirúrgica é uma importante especialidade, cujo objetivo consiste em realizar um cuidado seguro ao paciente submetido a um procedimento anestésico-cirúrgico. Inclui os períodos pré, trans e pós-operatório. A fase de pré-operatório mediato é aquela que compreende o seguinte período:
 
@@ -276,11 +262,10 @@ A enfermagem cirúrgica é uma importante especialidade, cujo objetivo consiste 
   [C] das 24 horas posteriores à cirurgia
   [D] das 24h anteriores à cirurgia
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.
+✅ Gabarito: B
+💡 Fundamentação: Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [B] ('do agendamento até 24h antes da cirurgia') atende às exigências normativas de biossegurança perioperatória.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'das 24 horas iniciais até os sete primeiros dias...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'do agendamento até 24h antes da cirurgia...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'das 24 horas posteriores à cirurgia...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'das 24h anteriores à cirurgia...' não atende às diretrizes oficiais do Ministério da Saúde.
 

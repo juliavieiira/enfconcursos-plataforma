@@ -1,6 +1,7 @@
 [
   {
     "codigo_origem": "Q3810628",
+    "numero_original": 149,
     "banca": "SELECON",
     "orgao": "Prefeitura de Barra do Garças - MT",
     "ano": 2025,
@@ -27,10 +28,10 @@
         "texto": "a higienização e o manejo externo da sonda devem ser realizados rotineiramente pelo técnico de enfermagem, mesmo em dietas de infusão contínua, a fim de prevenir obstruções, minimizar extravasamentos e reduzir risco de contaminação 150 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "D",
     "id": "EF0149",
     "numero_ordem": 149,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('a higienização e o manejo externo da sonda devem ser realizados rotineiramente pelo técnico de enfermagem, mesmo em dietas de infusão contínua, a fim de prevenir obstruções, minimizar extravasamentos e reduzir risco de contaminação 150 Ano: 2025') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -43,16 +44,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'a manutenção da sonda aberta entre administrações é recomendada para reduzir o risco ...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'a higienização e o manejo externo da sonda devem ser realizados rotineiramente pelo t...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('a higienização e o manejo externo da sonda devem ser realizados rotineiramente pelo técnico de enfermagem, mesmo em di..."
   },
   {
     "codigo_origem": "Q3742710",
+    "numero_original": 186,
     "banca": "SELECON",
     "orgao": "Prefeitura de Marcelândia - MT",
     "ano": 2025,
@@ -79,10 +77,10 @@
         "texto": "intravenosa 187 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0186",
     "numero_ordem": 186,
-    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('intradérmica') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -93,18 +91,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'intramuscular...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'intradérmica...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'intravenosa 187 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('intr..."
   },
   {
     "codigo_origem": "Q3615472",
+    "numero_original": 228,
     "banca": "SELECON",
     "orgao": "Prefeitura de Tapurah - MT",
     "ano": 2025,
@@ -131,10 +126,10 @@
         "texto": "essa diferença pode indicar condição clínica como estenose da artéria subclávia e deve ser relatada ao enfermeiro ou ao médico"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "D",
     "id": "EF0228",
     "numero_ordem": 228,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('essa diferença pode indicar condição clínica como estenose da artéria subclávia e deve ser relatada ao enfermeiro ou ao médico') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -147,16 +142,13 @@
       {
         "letra": "C",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a técnica utilizada pelo profissional está incorreta, pois a pressão arterial de...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'essa diferença pode indicar condição clínica como estenose da artéria subclávia e dev...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('essa diferença pode indicar condição clínica como estenose da artéria subclávia e deve ser relatada ao enfermeiro ou a..."
   },
   {
     "codigo_origem": "Q3199745",
+    "numero_original": 290,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sinop - MT",
     "ano": 2025,
@@ -183,10 +175,10 @@
         "texto": "os sinais de flebite incluem dor intensa, eritema, calor, edema, endurecimento da veia e, em alguns casos, presença de cordão visível ao longo da veia afetada. A conduta é suspender a infusão, remover o cateter e comunicar ao enfermeiro responsável para novas orientações"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0290",
-    "numero_ordem": 290,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "D",
+    "id": "EF0289",
+    "numero_ordem": 289,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('os sinais de flebite incluem dor intensa, eritema, calor, edema, endurecimento da veia e, em alguns casos, presença de cordão visível ao longo da veia afetada. A conduta é suspender a infusão, remover o cateter e comunicar ao enfermeiro responsável para novas orientações') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -199,16 +191,13 @@
       {
         "letra": "C",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a flebite é caracterizada pela dor leve no local de inserção, acompanhada de lev...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'os sinais de flebite incluem dor intensa, eritema, calor, edema, endurecimento da vei...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('os sinais de flebite incluem dor intensa, eritema, calor, edema, endurecimento da veia e, em alguns casos, presença de..."
   },
   {
     "codigo_origem": "Q3199740",
+    "numero_original": 295,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sinop - MT",
     "ano": 2025,
@@ -235,10 +224,10 @@
         "texto": "realizar a transfusão com uma única linha de infusão para economizar tempo, sem a necessidade de verificar a compatibilidade sanguínea, já que os hemocomponentes não causam reações adversas"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0295",
-    "numero_ordem": 295,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "C",
+    "id": "EF0294",
+    "numero_ordem": 294,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [C] ('antes de iniciar a transfusão, verificar a prescrição médica, confirmar a compatibilidade sanguínea do paciente com o hemocomponente e utilizar uma linha de infusão com solução salina para garantir a permeabilidade e a segurança do procedimento') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -249,18 +238,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'administrar o hemocomponente rapidamente, sem a necessidade de realizar a verificação...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'antes de iniciar a transfusão, verificar a prescrição médica, confirmar a compatibili...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'realizar a transfusão com uma única linha de infusão para economizar tempo, sem a nec...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [C] ('antes de iniciar a transfusão, verificar a prescrição médica, confirmar a compatibilidade sanguínea do paciente com o ..."
   },
   {
     "codigo_origem": "Q3197486",
+    "numero_original": 299,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sinop - MT",
     "ano": 2025,
@@ -287,10 +273,10 @@
         "texto": "o descarte imediato de agulhas e de materiais cortantes no recipiente adequado sem o uso de dispositivos de proteção 300 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0299",
-    "numero_ordem": 299,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "C",
+    "id": "EF0298",
+    "numero_ordem": 298,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [C] ('a implementação do uso de dispositivos de segurança com mecanismo de proteção, como agulhas autosselantes') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -301,18 +287,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'a realização de treinamentos periódicos sobre precauções universais...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'a implementação do uso de dispositivos de segurança com mecanismo de proteção, como a...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'o descarte imediato de agulhas e de materiais cortantes no recipiente adequado sem o ...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [C] ('a implementação do uso de dispositivos de segurança com mecanismo de proteção, como agulhas autosselantes') responde corretamente..."
   },
   {
     "codigo_origem": "Q3197476",
+    "numero_original": 309,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sinop - MT",
     "ano": 2025,
@@ -339,10 +322,10 @@
         "texto": "60 segundos, para garantir a remoção completa de secreções das vias aéreas 310 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0309",
-    "numero_ordem": 309,
-    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "resposta_correta": "C",
+    "id": "EF0308",
+    "numero_ordem": 308,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('10 segundos, de forma a minimizar o risco de trauma e hipoxemia durante o procedimento') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -353,18 +336,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois '30 segundos, conforme recomendado para reduzir o risco de obstrução da via aérea...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois '10 segundos, de forma a minimizar o risco de trauma e hipoxemia durante o procediment...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois '60 segundos, para garantir a remoção completa de secreções das vias aéreas 310 Ano: 2...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('10 s..."
   },
   {
     "codigo_origem": "Q2477208",
+    "numero_original": 420,
     "banca": "SELECON",
     "orgao": "Prefeitura de Água Boa - MT",
     "ano": 2024,
@@ -391,17 +371,13 @@
         "texto": "sem paciente"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0420",
-    "numero_ordem": 420,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "B",
+    "id": "EF0413",
+    "numero_ordem": 413,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [B] ('fechado') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "B",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
@@ -413,10 +389,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'sem paciente...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [B] ('fechado') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q3674525",
+    "numero_original": 524,
     "banca": "SELECON",
     "orgao": "Prefeitura de Dourados - MS",
     "ano": 2023,
@@ -443,10 +420,10 @@
         "texto": "05 a 10 minutos 525 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0524",
-    "numero_ordem": 524,
-    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "resposta_correta": "D",
+    "id": "EF0516",
+    "numero_ordem": 516,
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [D] ('05 a 10 minutos 525 Ano: 2023') representa a conduta científica e clinicamente recomendada.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -459,16 +436,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois '15 a 20 minutos...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois '05 a 10 minutos 525 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A altern..."
   },
   {
     "codigo_origem": "Q3674516",
+    "numero_original": 533,
     "banca": "SELECON",
     "orgao": "Prefeitura de Dourados - MS",
     "ano": 2023,
@@ -495,15 +469,11 @@
         "texto": "ultrassonografia abdominal e, a cada 2 horas ou na mudança no aspecto, verificação do PH do líquido gástrico com auxílio de fitas 534 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0533",
-    "numero_ordem": 533,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "A",
+    "id": "EF0525",
+    "numero_ordem": 525,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('radiografia abdominal e, a cada 4 horas, verificação e registro da marca da inserção e do seu comprimento externo') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'radiografia abdominal e, a cada 4 horas, verificação e registro da marca da inserção ...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'radiografia do tórax e, a cada 2 horas, verificação e registro da marca da inserção e...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -517,10 +487,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'ultrassonografia abdominal e, a cada 2 horas ou na mudança no aspecto, verificação do...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('radiografia abdominal e, a cada 4 horas, verificação e registro da marca da inserção e do seu comprimento externo') responde corr..."
   },
   {
     "codigo_origem": "Q2160736",
+    "numero_original": 671,
     "banca": "SELECON",
     "orgao": "Prefeitura de Nova Mutum - MT",
     "ano": 2023,
@@ -547,15 +518,11 @@
         "texto": "Ortostática 672 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0671",
-    "numero_ordem": 671,
-    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.",
+    "resposta_correta": "A",
+    "id": "EF0663",
+    "numero_ordem": 663,
+    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [A] ('de Sims') atende às exigências normativas de biossegurança perioperatória.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
@@ -573,6 +540,7 @@
   },
   {
     "codigo_origem": "Q2710364",
+    "numero_original": 836,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Grande - MS",
     "ano": 2019,
@@ -599,10 +567,10 @@
         "texto": "tempo, julgamento, meios, domínio, classe, NIC e resultado 837 Ano: 2019"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0836",
-    "numero_ordem": 836,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "C",
+    "id": "EF0828",
+    "numero_ordem": 828,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [C] ('foco, julgamento, tempo, localização, meios, clientes e ação') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -613,18 +581,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'foco, julgamento, tempo, localização, NOC (Classificação dos Resultados de Enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'foco, julgamento, tempo, localização, meios, clientes e ação...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'tempo, julgamento, meios, domínio, classe, NIC e resultado 837 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [C] ('foco, julgamento, tempo, localização, meios, clientes e ação') responde corretamente à questão conforme as boas práticas assisten..."
   },
   {
     "codigo_origem": "Q2710324",
+    "numero_original": 843,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Grande - MS",
     "ano": 2024,
@@ -651,10 +616,10 @@
         "texto": "azotemia"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0843",
-    "numero_ordem": 843,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "D",
+    "id": "EF0835",
+    "numero_ordem": 835,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('azotemia') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -667,16 +632,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('azotemia') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q2698351",
+    "numero_original": 845,
     "banca": "SELECON",
     "orgao": "Prefeitura Municipal",
     "ano": 2019,
@@ -684,17 +646,48 @@
     "cargo": "Enfermeiro",
     "materia": "Enfermagem",
     "assunto": "Fundamentos e Procedimentos de Enfermagem",
-    "enunciado": "",
-    "alternativas": [],
-    "resposta_correta": "",
-    "id": "EF0845",
-    "numero_ordem": 845,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
-    "analise_distratores": [],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "enunciado": "Banca: SELECON Órgão: Empresa Cuiabana de Saúde Pública - MT Provas: SELECON - 2019 - Empresa Cuiabana de Saúde Pública - MT - Enfermeiro Assistencial ... A ausculta cardíaca é um dos componentes do exame físico realizado pelo enfermeiro, sendo fundamental conhecer os focos da ausculta Ao colocar o estetoscópio no quarto ou quinto espaço intercostal esquerdo na linha hemiclavicular (ictus cordis), tem-se o foco chamado de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "aórtico"
+      },
+      {
+        "id": "B",
+        "texto": "mitral"
+      },
+      {
+        "id": "C",
+        "texto": "pulmonar"
+      },
+      {
+        "id": "D",
+        "texto": "tricúspide 846 Ano: 2019"
+      }
+    ],
+    "resposta_correta": "B",
+    "id": "EF0837",
+    "numero_ordem": 837,
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [B] ('mitral') expressa fielmente o preceito legislativo.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'tricúspide 846 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Partici..."
   },
   {
     "codigo_origem": "Q2692356",
+    "numero_original": 865,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Grande - MS",
     "ano": 2019,
@@ -721,10 +714,10 @@
         "texto": "nunca superior a uma hora 866 Ano: 2019"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0865",
-    "numero_ordem": 865,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "D",
+    "id": "EF0857",
+    "numero_ordem": 857,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [D] ('nunca superior a uma hora 866 Ano: 2019') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -737,10 +730,6 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'nunca superior a três horas...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'nunca superior a uma hora 866 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."

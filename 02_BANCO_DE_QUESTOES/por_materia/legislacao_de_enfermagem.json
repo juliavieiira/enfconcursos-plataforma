@@ -1,6 +1,7 @@
 [
   {
     "codigo_origem": "Q4370028",
+    "numero_original": 9,
     "banca": "SELECON",
     "orgao": "Prefeitura de Lucas do Rio Verde - MT",
     "ano": 2026,
@@ -49,6 +50,7 @@
   },
   {
     "codigo_origem": "Q4370025",
+    "numero_original": 12,
     "banca": "SELECON",
     "orgao": "Prefeitura de Lucas do Rio Verde - MT",
     "ano": 2026,
@@ -97,6 +99,7 @@
   },
   {
     "codigo_origem": "Q4370019",
+    "numero_original": 18,
     "banca": "SELECON",
     "orgao": "Prefeitura de Lucas do Rio Verde - MT",
     "ano": 2026,
@@ -145,6 +148,7 @@
   },
   {
     "codigo_origem": "Q4317371",
+    "numero_original": 48,
     "banca": "SELECON",
     "orgao": "Prefeitura de Barra do Garças - MT",
     "ano": 2026,
@@ -171,10 +175,10 @@
         "texto": "constituir o único meio disponível para prevenir dano imediato ou iminente ao paciente ou aos demais"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "D",
     "id": "EF0048",
     "numero_ordem": 48,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [D] ('constituir o único meio disponível para prevenir dano imediato ou iminente ao paciente ou aos demais') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -187,16 +191,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'houver agitação que dificulte a organização da unidade...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'constituir o único meio disponível para prevenir dano imediato ou iminente ao pacient...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
   },
   {
     "codigo_origem": "Q3974349",
+    "numero_original": 88,
     "banca": "SELECON",
     "orgao": "EMGEPRON",
     "ano": 2026,
@@ -223,15 +224,11 @@
         "texto": "a delegação de atividades privativas do enfermeiro é permitida mediante acordo informal entre membros da equipe"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "A",
     "id": "EF0088",
     "numero_ordem": 88,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('o efermeiro deve assegurar assistência livre de danos decorrentes de imperícia, negligência ou imprudência, respondendo pelos atos praticados e pela supervisão da equipe sob sua responsabilidade') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'o efermeiro deve assegurar assistência livre de danos decorrentes de imperícia, negli...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'a responsabilidade do enfermeito limita-se aos atos executados pessoalmente, não abra...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -249,6 +246,7 @@
   },
   {
     "codigo_origem": "Q3974333",
+    "numero_original": 100,
     "banca": "SELECON",
     "orgao": "EMGEPRON",
     "ano": 2026,
@@ -275,15 +273,11 @@
         "texto": "após cada desfibrilação realizada, é obrigatória a verificação imediata do pulso central antes da retomada das compressões, a fim de confirmar possível retorno da circulação espontânea"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "A",
     "id": "EF0100",
     "numero_ordem": 100,
-    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [A] ('identificado ritmo chocável, a desfibrilação deve ser realizada prontamente, com retomada imediata das compressões torácicas e nova análise do ritmo após cerca de dois minutos, minimizando interrupções') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'identificado ritmo chocável, a desfibrilação deve ser realizada prontamente, com reto...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'identificado ritmo chocável, recomenda-se completar previamente dois minutos de compr...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -301,6 +295,7 @@
   },
   {
     "codigo_origem": "Q3974324",
+    "numero_original": 108,
     "banca": "SELECON",
     "orgao": "EMGEPRON",
     "ano": 2026,
@@ -327,18 +322,14 @@
         "texto": "ato administrativo irregular, porém sem repercussão ética, desde que a prescrição não tenha sido efetivamente executada 109 Ano: 2026"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0108",
     "numero_ordem": 108,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [B] ('infração ética decorrente da ausência de registro formal e de comunicação institucional adequada diante de divergência técnico-assistencial') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'exercício legítimo da autonomia técnica do enfermeiro, sendo sufi ciente a orientação...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'infração ética decorrente da ausência de registro formal e de comunicação institucion...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -353,6 +344,7 @@
   },
   {
     "codigo_origem": "Q3884650",
+    "numero_original": 118,
     "banca": "SELECON",
     "orgao": "Prefeitura de Porto dos Gaúchos - MT",
     "ano": 2026,
@@ -379,10 +371,10 @@
         "texto": "sigilo profissional 119 Ano: 2026 Enfermagem > Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Diagnósticos de Enfermagem - NIC-NOC/CIPE/NANDA Banca: SELECON Órgão: Prefeitura de Porto dos Gaúchos - MT Prova: SELECON - 2026 - Prefeitura de Porto dos Gaúchos -"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "D",
     "id": "EF0118",
     "numero_ordem": 118,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [D] ('sigilo profissional 119 Ano: 2026 Enfermagem > Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Diagnósticos de Enfermagem - NIC-NOC/CIPE/NANDA Banca: SELECON Órgão: Prefeitura de Porto dos Gaúchos - MT Prova: SELECON - 2026 - Prefeitura de Porto dos Gaúchos -') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -395,16 +387,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'atualização técnica permanente...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'sigilo profissional 119 Ano: 2026 Enfermagem > Processo de Enfermagem e Sistematizaçã...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
   },
   {
     "codigo_origem": "Q3810631",
+    "numero_original": 146,
     "banca": "SELECON",
     "orgao": "Prefeitura de Barra do Garças - MT",
     "ano": 2025,
@@ -431,18 +420,14 @@
         "texto": "ação justificável eticamente quando o profissional entende que outro membro da equipe possui maior competência técnica para assumir o atendimento imediato, considerando a segurança do paciente e a organização do serviço 147 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0146",
     "numero_ordem": 146,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [B] ('infração ética, por negar assistência em situação que exige atendimento imediato, sem justificativa que represente risco pessoal ao profissional') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'procedimento aceitável, desde que o profissional tenha registrado adequadamente os mo...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'infração ética, por negar assistência em situação que exige atendimento imediato, sem...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -457,6 +442,7 @@
   },
   {
     "codigo_origem": "Q3810624",
+    "numero_original": 153,
     "banca": "SELECON",
     "orgao": "Prefeitura de Barra do Garças - MT",
     "ano": 2025,
@@ -483,10 +469,10 @@
         "texto": "participar da execução do plano assistencial de enfermagem, sob supervisão do enfermeiro 154 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "D",
     "id": "EF0153",
     "numero_ordem": 153,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [D] ('participar da execução do plano assistencial de enfermagem, sob supervisão do enfermeiro 154 Ano: 2025') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -499,16 +485,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'supervisionar diretamente os cuidados prestados por auxiliares e atendentes...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'participar da execução do plano assistencial de enfermagem, sob supervisão do enferme...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
   },
   {
     "codigo_origem": "Q3802716",
+    "numero_original": 154,
     "banca": "SELECON",
     "orgao": "Prefeitura de Barra do Garças - MT",
     "ano": 2025,
@@ -535,18 +518,14 @@
         "texto": "solicitar que a família do paciente decida em seu lugar, desconsiderando a autonomia do paciente 155 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0154",
     "numero_ordem": 154,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [B] ('respeitar a decisão do paciente, garantindo que ele compreendeu as informações sobre o procedimento e suas consequências, e documentar a recusa no prontuário') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'persuadir o paciente a aceitar o procedimento, enfatizando os riscos de não realizá-l...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'respeitar a decisão do paciente, garantindo que ele compreendeu as informações sobre ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -561,6 +540,7 @@
   },
   {
     "codigo_origem": "Q3615475",
+    "numero_original": 226,
     "banca": "SELECON",
     "orgao": "Prefeitura de Tapurah - MT",
     "ano": 2025,
@@ -587,10 +567,10 @@
         "texto": "será permitida se o técnico comunicar posteriormente ao enfermeiro responsável"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0226",
     "numero_ordem": 226,
-    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [C] ('caracteriza infração ética, pois viola o direito à privacidade e ao sigilo profissional') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -601,10 +581,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'não constitui infração ética se houver justificativa para aprendizado da equipe...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'caracteriza infração ética, pois viola o direito à privacidade e ao sigilo profission...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'será permitida se o técnico comunicar posteriormente ao enfermeiro responsável...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -613,6 +589,7 @@
   },
   {
     "codigo_origem": "Q3489356",
+    "numero_original": 231,
     "banca": "SELECON",
     "orgao": "Prefeitura de Lucas do Rio Verde - MT",
     "ano": 2025,
@@ -639,18 +616,14 @@
         "texto": "apenas um erro técnico sem implicação ética, desde que o paciente não sofra danos permanentes e o técnico se comprometa a ter mais atenção futuramente 232 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0231",
     "numero_ordem": 231,
-    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [B] ('uma infração ética grave por omissão de informação essencial para a segurança do paciente e por não registrar o incidente, caracterizando negligência e possível tentativa de encobrir o erro') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'um ato de imperícia, pois demonstrou falta de habilidade técnica na administração da ...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'uma infração ética grave por omissão de informação essencial para a segurança do paci...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -665,6 +638,7 @@
   },
   {
     "codigo_origem": "Q3287491",
+    "numero_original": 246,
     "banca": "SELECON",
     "orgao": "Prefeitura de São José dos Quatro Marcos - MT",
     "ano": 2025,
@@ -691,10 +665,10 @@
         "texto": "informar ao paciente que seu procedimento foi registrado por outra pessoa, para que ele tenha ciência da situação e tome suas providências legais, mas não tomar nenhuma ação em relação ao colega 247 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0246",
     "numero_ordem": 246,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [C] ('notificar imediatamente a direção do hospital e o Conselho Regional de Enfermagem (COREN), garantindo que a violação ética seja investigada e corrigida, de acordo com o Código de Ética') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -705,10 +679,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'discutir o ocorrido diretamente com o enfermeiro, sugerindo que ele pare de registrar...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'notificar imediatamente a direção do hospital e o Conselho Regional de Enfermagem (CO...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'informar ao paciente que seu procedimento foi registrado por outra pessoa, para que e...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -717,6 +687,7 @@
   },
   {
     "codigo_origem": "Q3265165",
+    "numero_original": 259,
     "banca": "SELECON",
     "orgao": "HEMOMINAS",
     "ano": 2025,
@@ -743,10 +714,10 @@
         "texto": "a Resolução COFEN nº 358/2009 permite que o enfermeiro formule o diagnóstico de enfermagem usando apenas critérios subjetivos, desde que validados diretamente com o paciente 260 Ano: 2025 Enfermagem > Legislação de Enfermagem , Processo de Enfermagem e Sistematização da Assistência de Enfermagem Banca: SELECON Órgão: HEMOMINAS Prova: SELECON - 2025 - HEMOMINAS - Analista de Hematologia e Hemoterapia -"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0259",
     "numero_ordem": 259,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [C] ('a aplicação da SAE no ambiente hospitalar é obrigatória por lei e contribui para a melhoria da qualidade do cuidado, unificando o raciocínio clínico e garantindo continuidade nas ações de enfermagem') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -757,10 +728,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'a SAE é um processo linear cujo principal foco está na resolução imediata do problema...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'a aplicação da SAE no ambiente hospitalar é obrigatória por lei e contribui para a me...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a Resolução COFEN nº 358/2009 permite que o enfermeiro formule o diagnóstico de ...'."
       }
@@ -769,6 +736,7 @@
   },
   {
     "codigo_origem": "Q3261145",
+    "numero_original": 277,
     "banca": "SELECON",
     "orgao": "HEMOMINAS",
     "ano": 2025,
@@ -795,10 +763,10 @@
         "texto": "aférese"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "D",
     "id": "EF0277",
     "numero_ordem": 277,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [D] ('aférese') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -811,68 +779,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      }
-    ],
-    "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
-  },
-  {
-    "codigo_origem": "Q3199754",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Sinop - MT",
-    "ano": 2025,
-    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Técnico de",
-    "cargo": "Técnico de Enfermagem",
-    "materia": "Enfermagem",
-    "assunto": "Legislação de Enfermagem , Código de Ética dos Profissionais de Enfermagem",
-    "enunciado": "Enfermagem Durante um atendimento de urgência em uma unidade de pronto atendimento (UPA), um enfermeiro é responsável pela triagem e pelo acompanhamento de um paciente que sofreu um acidente de trânsito. Ao iniciar o atendimento, o enfermeiro, em razão da gravidade do quadro clínico e da pressão do momento, decide administrar um medicamento de forma autônoma, sem a devida consulta prévia ao médico responsável, acreditando ser uma decisão necessária para salvar a vida do paciente. Ao perceber que o medicamento administrado não era o indicado para o quadro clínico do paciente, o enfermeiro deve agir de acordo com o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 311/2007). A conduta ética correta neste caso:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "o enfermeiro deve interromper o atendimento imediatamente e corrigir a administração do medicamento, comunicando de forma clara e imediata ao médico responsável, assumindo a responsabilidade pela ação e adotando as medidas corretivas para evitar complicações adicionais"
-      },
-      {
-        "id": "B",
-        "texto": "o enfermeiro pode continuar o atendimento, aguardando a avaliação do médico responsável para discutir o erro na administração do medicamento, já que as condições de urgência podem justificar decisões independentes da equipe médica"
-      },
-      {
-        "id": "C",
-        "texto": "o enfermeiro deve, imediatamente, comunicar ao médico sobre a administração do medicamento errado, mas não precisa reverter a administração, pois foi uma decisão tomada com boa intenção e urgência, e o paciente não apresenta sinais evidentes de complicação"
-      },
-      {
-        "id": "D",
-        "texto": "o enfermeiro deve assumir a responsabilidade pela administração do medicamento, mas somente informar ao médico após o término do atendimento de emergência, sem interromper o processo de atendimento, já que é uma ação comum em situações de urgência"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0281",
-    "numero_ordem": 281,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'o enfermeiro deve interromper o atendimento imediatamente e corrigir a administração ...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'o enfermeiro pode continuar o atendimento, aguardando a avaliação do médico responsáv...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'o enfermeiro deve, imediatamente, comunicar ao médico sobre a administração do medica...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'o enfermeiro deve assumir a responsabilidade pela administração do medicamento, mas s...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
   },
   {
     "codigo_origem": "Q3197475",
+    "numero_original": 310,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sinop - MT",
     "ano": 2025,
@@ -899,10 +812,10 @@
         "texto": "tomar medidas imediatas para garantir que o nome e a identidade de gênero da paciente sejam respeitados, explicando para a equipe que qualquer forma de discriminação é incompatível com a ética profissional e com os direitos da paciente 311 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0310",
-    "numero_ordem": 310,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "D",
+    "id": "EF0309",
+    "numero_ordem": 309,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [D] ('tomar medidas imediatas para garantir que o nome e a identidade de gênero da paciente sejam respeitados, explicando para a equipe que qualquer forma de discriminação é incompatível com a ética profissional e com os direitos da paciente 311 Ano: 2025') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -915,16 +828,13 @@
       {
         "letra": "C",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'focar apenas no cuidado técnico e clínico da paciente, deixando de lado questões...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'tomar medidas imediatas para garantir que o nome e a identidade de gênero da paciente...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
   },
   {
     "codigo_origem": "Q3197472",
+    "numero_original": 313,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sinop - MT",
     "ano": 2025,
@@ -951,10 +861,10 @@
         "texto": "a enfermeira deve notificar imediatamente o médico sobre o histórico alérgico do paciente e questionar a escolha do antibiótico, destacando o risco de reação alérgica grave e propondo alternativas seguras para o paciente 314 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0313",
-    "numero_ordem": 313,
-    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "resposta_correta": "D",
+    "id": "EF0312",
+    "numero_ordem": 312,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [D] ('a enfermeira deve notificar imediatamente o médico sobre o histórico alérgico do paciente e questionar a escolha do antibiótico, destacando o risco de reação alérgica grave e propondo alternativas seguras para o paciente 314 Ano: 2025') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -967,16 +877,13 @@
       {
         "letra": "C",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a enfermeira deve recusar-se a administrar o antibiótico e aguardar o médico rev...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'a enfermeira deve notificar imediatamente o médico sobre o histórico alérgico do paci...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   },
   {
     "codigo_origem": "Q3184821",
+    "numero_original": 325,
     "banca": "SELECON",
     "orgao": "Prefeitura de Nova Mutum - MT",
     "ano": 2024,
@@ -1003,15 +910,11 @@
         "texto": "uma infração 326 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0325",
-    "numero_ordem": 325,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "A",
+    "id": "EF0324",
+    "numero_ordem": 324,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('um dever') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
@@ -1029,6 +932,7 @@
   },
   {
     "codigo_origem": "Q2528696",
+    "numero_original": 332,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -1059,10 +963,10 @@
         "texto": "ético 333 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: SAD-MS Prova: SELECON - 2024 - SAD-MS - Técnico de Enfermagem"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0332",
-    "numero_ordem": 332,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "E",
+    "id": "EF0331",
+    "numero_ordem": 331,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [E] ('ético 333 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: SAD-MS Prova: SELECON - 2024 - SAD-MS - Técnico de Enfermagem') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1079,16 +983,13 @@
       {
         "letra": "D",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "E",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'ético 333 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: ...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
   },
   {
     "codigo_origem": "Q2496168",
+    "numero_original": 354,
     "banca": "SELECON",
     "orgao": "COREN-RR",
     "ano": 2024,
@@ -1115,15 +1016,11 @@
         "texto": "sistema de enfermagem 355 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0354",
-    "numero_ordem": 354,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "A",
+    "id": "EF0353",
+    "numero_ordem": 353,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('processo de enfermagem') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'processo de enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'cuidado de enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -1141,6 +1038,7 @@
   },
   {
     "codigo_origem": "Q2496167",
+    "numero_original": 355,
     "banca": "SELECON",
     "orgao": "COREN-RR",
     "ano": 2024,
@@ -1167,10 +1065,10 @@
         "texto": "Enfermeiro Responsável Técnico 356 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0355",
-    "numero_ordem": 355,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "D",
+    "id": "EF0354",
+    "numero_ordem": 354,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [D] ('Enfermeiro Responsável Técnico 356 Ano: 2024') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1183,52 +1081,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'Enfermeiro Responsável...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'Enfermeiro Responsável Técnico 356 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
-      }
-    ],
-    "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
-  },
-  {
-    "codigo_origem": "Q2496166",
-    "banca": "SELECON",
-    "orgao": "COREN-RR",
-    "ano": 2024,
-    "prova": "SELECON - 2024 - COREN-RR - Analista Administrativo - Enfermeiro Fiscal",
-    "cargo": "Técnico de Enfermagem",
-    "materia": "Enfermagem",
-    "assunto": "Legislação de Enfermagem",
-    "enunciado": "Os Enfermeiros e Técnicos de Enfermagem somente poderão atuar nos Serviços de Hemoterapia quando devidamente capacitados. Essa determinação está expressa na Resolução n⁰:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "B"
-      },
-      {
-        "id": "C",
-        "texto": "D 357 Ano: 2024"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0356",
-    "numero_ordem": 356,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'D 357 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
   },
   {
     "codigo_origem": "Q2496165",
+    "numero_original": 357,
     "banca": "SELECON",
     "orgao": "COREN-RR",
     "ano": 2024,
@@ -1255,18 +1114,14 @@
         "texto": "instrumentador cirúrgico 358 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0357",
-    "numero_ordem": 357,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "B",
+    "id": "EF0355",
+    "numero_ordem": 355,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [B] ('cuidador de idoso') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'cuidador de idoso...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -1281,6 +1136,7 @@
   },
   {
     "codigo_origem": "Q2496164",
+    "numero_original": 358,
     "banca": "SELECON",
     "orgao": "COREN-RR",
     "ano": 2024,
@@ -1307,15 +1163,11 @@
         "texto": "patogenicidade 359 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0358",
-    "numero_ordem": 358,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "A",
+    "id": "EF0356",
+    "numero_ordem": 356,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('risco') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
@@ -1332,43 +1184,8 @@
     "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
   },
   {
-    "codigo_origem": "Q2496159",
-    "banca": "SELECON",
-    "orgao": "COREN-RR",
-    "ano": 2024,
-    "prova": "SELECON - 2024 - COREN-RR - Analista Administrativo - Enfermeiro Fiscal",
-    "cargo": "Técnico de Enfermagem",
-    "materia": "Enfermagem",
-    "assunto": "Legislação de Enfermagem , COFEN",
-    "enunciado": "No âmbito da equipe de Enfermagem, a coleta de material para colpocitologia oncótica pelo método de Papanicolau é privativa do(a) Enfermeiro(a), observadas as disposições legais da profissão. O(a) Enfermeiro(a) deverá estar dotado(a) dos conhecimentos, competências e habilidades que garantam rigor técnico-científico ao procedimento, atentando para a capacitação contínua necessária à sua realização. Tal normatização está garantida na Resolução COFEN N⁰:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "B"
-      },
-      {
-        "id": "C",
-        "texto": "D 363 Ano: 2024"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0362",
-    "numero_ordem": 362,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'D 363 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
-      }
-    ],
-    "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
-  },
-  {
     "codigo_origem": "Q2496158",
+    "numero_original": 363,
     "banca": "SELECON",
     "orgao": "COREN-RR",
     "ano": 2024,
@@ -1395,15 +1212,11 @@
         "texto": "internação, visita 364 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0363",
-    "numero_ordem": 363,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "A",
+    "id": "EF0360",
+    "numero_ordem": 360,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('atendimento, internação, visita') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'atendimento, internação, visita...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'atendimento, internação...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -1421,6 +1234,7 @@
   },
   {
     "codigo_origem": "Q2480403",
+    "numero_original": 374,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -1451,10 +1265,10 @@
         "texto": "avaliador 375 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0374",
-    "numero_ordem": 374,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "E",
+    "id": "EF0371",
+    "numero_ordem": 371,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [E] ('avaliador 375 Ano: 2024') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1471,16 +1285,13 @@
       {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'coordenador...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "E",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'avaliador 375 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
   },
   {
     "codigo_origem": "Q2480398",
+    "numero_original": 379,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -1511,10 +1322,10 @@
         "texto": "Resolução N.º 311/12 380 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0379",
-    "numero_ordem": 379,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "C",
+    "id": "EF0376",
+    "numero_ordem": 376,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [C] ('Resolução N.º 429/23') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1523,10 +1334,6 @@
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'Resolução N.º 459/12...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'Resolução N.º 429/23...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
@@ -1541,6 +1348,7 @@
   },
   {
     "codigo_origem": "Q2480397",
+    "numero_original": 380,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -1571,10 +1379,10 @@
         "texto": "advertência, prisão e multa"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0380",
-    "numero_ordem": 380,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "D",
+    "id": "EF0377",
+    "numero_ordem": 377,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [D] ('multa e advertência') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1589,10 +1397,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'prisão e demissão...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'multa e advertência...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "E",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'advertência, prisão e multa...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -1600,51 +1404,8 @@
     "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
   },
   {
-    "codigo_origem": "Q2480390",
-    "banca": "SELECON",
-    "orgao": "SAD-MS",
-    "ano": 2024,
-    "prova": "SELECON - 2024 - SAD-MS - Enfermeiro",
-    "cargo": "Técnico de Enfermagem",
-    "materia": "Enfermagem",
-    "assunto": "Legislação de Enfermagem , COFEN",
-    "enunciado": "O Conselho Federal de Enfermagem (Cofen) publicou, em 2024, uma Resolução que determina a implementação do Processo de Enfermagem em todo contexto socioambiental, no qual ocorram cuidados prestados por enfermeiros, técnicos e auxiliares, atualizando e adequando às novas perspectivas da profissão e delimitando seu escopo de aplicação na prática. Tal Resolução é a de Nº:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "B"
-      },
-      {
-        "id": "C",
-        "texto": "D"
-      },
-      {
-        "id": "E",
-        "texto": "388 Ano: 2024"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0387",
-    "numero_ordem": 387,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "E",
-        "motivo": "Incorreta perante os protocolos técnicos, pois '388 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
-      }
-    ],
-    "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
-  },
-  {
     "codigo_origem": "Q2480384",
+    "numero_original": 393,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -1675,10 +1436,10 @@
         "texto": "14.434 394 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0393",
-    "numero_ordem": 393,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "E",
+    "id": "EF0389",
+    "numero_ordem": 389,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [E] ('14.434 394 Ano: 2024') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1695,60 +1456,13 @@
       {
         "letra": "D",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "E",
-        "motivo": "Incorreta perante os protocolos técnicos, pois '14.434 394 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
-      }
-    ],
-    "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
-  },
-  {
-    "codigo_origem": "Q2480371",
-    "banca": "SELECON",
-    "orgao": "SAD-MS",
-    "ano": 2024,
-    "prova": "SELECON - 2024 - SAD-MS - Enfermeiro",
-    "cargo": "Enfermeiro",
-    "materia": "Enfermagem",
-    "assunto": "Legislação de Enfermagem , COFEN",
-    "enunciado": "O profissional de enfermagem respeita a vida, a dignidade e os direitos humanos, em todas as suas dimensões. O instrumento legal que normatiza este tema é a Resolução/COFEN de nº:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "B"
-      },
-      {
-        "id": "C",
-        "texto": "D"
-      },
-      {
-        "id": "E",
-        "texto": "2/7 407 Ano: 2024"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0406",
-    "numero_ordem": 406,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "E",
-        "motivo": "Incorreta perante os protocolos técnicos, pois '2/7 407 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
   },
   {
     "codigo_origem": "Q2472192",
+    "numero_original": 429,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -1779,10 +1493,10 @@
         "texto": "estar em dia com as leis, regulamentos, regimentos, instruções e ordens de serviço que digam respeito às suas funções"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0429",
-    "numero_ordem": 429,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "E",
+    "id": "EF0422",
+    "numero_ordem": 422,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [E] ('estar em dia com as leis, regulamentos, regimentos, instruções e ordens de serviço que digam respeito às suas funções') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1799,16 +1513,13 @@
       {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'guardar sigilo sobre as questões da repartição, exceto em caso de solicitação por esc...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "E",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'estar em dia com as leis, regulamentos, regimentos, instruções e ordens de serviço qu...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
   },
   {
     "codigo_origem": "Q2472176",
+    "numero_original": 442,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -1839,15 +1550,11 @@
         "texto": "\"D\" 443 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0442",
-    "numero_ordem": 442,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "A",
+    "id": "EF0435",
+    "numero_ordem": 435,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('\"C\"') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
@@ -1869,6 +1576,7 @@
   },
   {
     "codigo_origem": "Q2472175",
+    "numero_original": 443,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -1899,15 +1607,11 @@
         "texto": "solidariedade 444 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0443",
-    "numero_ordem": 443,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "A",
+    "id": "EF0436",
+    "numero_ordem": 436,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('empatia') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
@@ -1929,6 +1633,7 @@
   },
   {
     "codigo_origem": "Q2470343",
+    "numero_original": 445,
     "banca": "SELECON",
     "orgao": "Prefeitura Municipal",
     "ano": 2024,
@@ -1936,17 +1641,48 @@
     "cargo": "Técnico de Enfermagem",
     "materia": "Enfermagem",
     "assunto": "Legislação de Enfermagem , Lei do Exercício Profissional de Enfermagem",
-    "enunciado": "",
-    "alternativas": [],
-    "resposta_correta": "",
-    "id": "EF0445",
-    "numero_ordem": 445,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
-    "analise_distratores": [],
+    "enunciado": "Enfermagem > Legislação de Enfermagem , Lei do Exercício Profissional de Enfermagem Banca: SELECON Órgão: COREN-RR Provas: SELECON - 2024 - COREN-RR - Assistente Administrativo ... O exercício da enfermagem é feito privativamente pelo enfermeiro, pelo técnico de enfermagem, pelo auxiliar de enfermagem e pela parteira, respeitados os respectivos graus de habilitação. Ao auxiliar de enfermagem, cabe especialmente:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "prestar cuidados de higiene e conforto ao paciente"
+      },
+      {
+        "id": "B",
+        "texto": "participar da programação da assistência de enfermagem"
+      },
+      {
+        "id": "C",
+        "texto": "prestar assistência de enfermagem à gestante e à parturiente"
+      },
+      {
+        "id": "D",
+        "texto": "participar da supervisão do trabalho de enfermagem em grau auxiliar"
+      }
+    ],
+    "resposta_correta": "A",
+    "id": "EF0438",
+    "numero_ordem": 438,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('prestar cuidados de higiene e conforto ao paciente') corresponde com fidelidade aos ditames legais da profissão.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'participar da programação da assistência de enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'prestar assistência de enfermagem à gestante e à parturiente...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'participar da supervisão do trabalho de enfermagem em grau auxiliar...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
     "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
   },
   {
     "codigo_origem": "Q2470342",
+    "numero_original": 446,
     "banca": "SELECON",
     "orgao": "Prefeitura Municipal",
     "ano": 2024,
@@ -1954,17 +1690,48 @@
     "cargo": "Enfermeiro",
     "materia": "Enfermagem",
     "assunto": "Legislação de Enfermagem , Código de Ética dos Profissionais de Enfermagem",
-    "enunciado": "",
-    "alternativas": [],
-    "resposta_correta": "",
-    "id": "EF0446",
-    "numero_ordem": 446,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
-    "analise_distratores": [],
+    "enunciado": "Banca: SELECON Órgão: COREN-RR Provas: SELECON - 2024 - COREN-RR - Assistente Administrativo ... As sanções administrativas previstas em lei para os infratores do Código de Deontologia de Enfermagem variam em natureza e gravidade, de acordo com o contexto. Após ouvido o Conselho Regional interessado, é uma pena de competência do Conselho Federal:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "censura"
+      },
+      {
+        "id": "B",
+        "texto": "advertência"
+      },
+      {
+        "id": "C",
+        "texto": "suspensão do exercício profissional"
+      },
+      {
+        "id": "D",
+        "texto": "cassação do direito ao exercício profissional 447 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "D",
+    "id": "EF0439",
+    "numero_ordem": 439,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [D] ('cassação do direito ao exercício profissional 447 Ano: 2024') corresponde com fidelidade aos ditames legais da profissão.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'advertência...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'suspensão do exercício profissional...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
     "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
   },
   {
     "codigo_origem": "Q2470341",
+    "numero_original": 447,
     "banca": "SELECON",
     "orgao": "Prefeitura Municipal",
     "ano": 2024,
@@ -1972,17 +1739,48 @@
     "cargo": "Enfermeiro",
     "materia": "Enfermagem",
     "assunto": "Legislação de Enfermagem , COREN",
-    "enunciado": "",
-    "alternativas": [],
-    "resposta_correta": "",
-    "id": "EF0447",
-    "numero_ordem": 447,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
-    "analise_distratores": [],
+    "enunciado": "Enfermagem > Legislação de Enfermagem , COREN Banca: SELECON Órgão: COREN-RR Provas: SELECON - 2024 - COREN-RR - Assistente Administrativo ... Cada Conselho Regional de Enfermagem deve eleger seu Presidente, Secretário e Tesoureiro, admitida a criação de cargos de Vice-Presidente, Segundo Secretário e Segundo Tesoureiro para os Conselhos com mais de doze membros. De acordo com a lei que dispõe sobre a criação dos Conselhos Federal e Regionais de Enfermagem, o mandato dos membros dos Conselhos Regionais:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "será exercido após realização de eleição por voto secreto e facultativo"
+      },
+      {
+        "id": "B",
+        "texto": "terá a duração de quatro anos"
+      },
+      {
+        "id": "C",
+        "texto": "admite uma reeleição"
+      },
+      {
+        "id": "D",
+        "texto": "será remunerado"
+      }
+    ],
+    "resposta_correta": "C",
+    "id": "EF0440",
+    "numero_ordem": 440,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [C] ('admite uma reeleição') corresponde com fidelidade aos ditames legais da profissão.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'será exercido após realização de eleição por voto secreto e facultativo...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'terá a duração de quatro anos...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'será remunerado...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
     "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
   },
   {
     "codigo_origem": "Q2454940",
+    "numero_original": 474,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sapezal - MT",
     "ano": 2024,
@@ -2009,15 +1807,11 @@
         "texto": "na Resolução da regulamentação profissional – Resolução 7498/1986"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0474",
-    "numero_ordem": 474,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "A",
+    "id": "EF0467",
+    "numero_ordem": 467,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('no Código de ética – Resolução 311/2012') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'no Código de ética – Resolução 311/2012...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'no Código de ética – Resolução 7498/1986...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -2035,6 +1829,7 @@
   },
   {
     "codigo_origem": "Q2454924",
+    "numero_original": 490,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sapezal - MT",
     "ano": 2024,
@@ -2061,10 +1856,10 @@
         "texto": "assistência de enfermagem de alta complexidade"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0490",
-    "numero_ordem": 490,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "C",
+    "id": "EF0483",
+    "numero_ordem": 483,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [C] ('procedimentos que estejam prescritos') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -2075,10 +1870,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'todo cuidado que avaliar necessário...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'procedimentos que estejam prescritos...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'assistência de enfermagem de alta complexidade...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -2087,6 +1878,7 @@
   },
   {
     "codigo_origem": "Q2453001",
+    "numero_original": 498,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sapezal - MT",
     "ano": 2024,
@@ -2113,18 +1905,14 @@
         "texto": "Toda Equipe de Enfermagem 499 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0498",
-    "numero_ordem": 498,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "B",
+    "id": "EF0491",
+    "numero_ordem": 491,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [B] ('Auxiliar de Enfermagem') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'Auxiliar de Enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -2139,6 +1927,7 @@
   },
   {
     "codigo_origem": "Q2452992",
+    "numero_original": 507,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sapezal - MT",
     "ano": 2024,
@@ -2165,10 +1954,10 @@
         "texto": "a Resolução 429/12 508 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0507",
-    "numero_ordem": 507,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "D",
+    "id": "EF0500",
+    "numero_ordem": 500,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [D] ('a Resolução 429/12 508 Ano: 2024') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -2181,16 +1970,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'a Resolução 311/07...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'a Resolução 429/12 508 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
   },
   {
     "codigo_origem": "Q2452991",
+    "numero_original": 508,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sapezal - MT",
     "ano": 2024,
@@ -2217,10 +2003,10 @@
         "texto": "multa e advertência 509 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0508",
-    "numero_ordem": 508,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "D",
+    "id": "EF0501",
+    "numero_ordem": 501,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [D] ('multa e advertência 509 Ano: 2024') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -2233,16 +2019,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'prisão e demissão...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'multa e advertência 509 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
   },
   {
     "codigo_origem": "Q3674512",
+    "numero_original": 536,
     "banca": "SELECON",
     "orgao": "Prefeitura de Dourados - MS",
     "ano": 2023,
@@ -2269,10 +2052,10 @@
         "texto": "52% de enfermeiros e os demais técnicos de enfermagem 537 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0536",
-    "numero_ordem": 536,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "C",
+    "id": "EF0528",
+    "numero_ordem": 528,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [C] ('42% de enfermeiros e os demais técnicos de enfermagem') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -2283,10 +2066,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois '38% de enfermeiros e os demais auxiliares e/ou técnicos de enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois '42% de enfermeiros e os demais técnicos de enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois '52% de enfermeiros e os demais técnicos de enfermagem 537 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -2295,6 +2074,7 @@
   },
   {
     "codigo_origem": "Q2341571",
+    "numero_original": 563,
     "banca": "SELECON",
     "orgao": "Empresa Cuiabana de Saúde Pública - MT",
     "ano": 2023,
@@ -2303,16 +2083,47 @@
     "materia": "Enfermagem",
     "assunto": "Legislação de Enfermagem , Código de Ética dos Profissionais de Enfermagem ,",
     "enunciado": "",
-    "alternativas": [],
-    "resposta_correta": "",
-    "id": "EF0563",
-    "numero_ordem": 563,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
-    "analise_distratores": [],
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "equidade"
+      },
+      {
+        "id": "B",
+        "texto": "normatização"
+      },
+      {
+        "id": "C",
+        "texto": "integralização"
+      },
+      {
+        "id": "D",
+        "texto": "territorialização 564 Ano: 2023 Enfermagem > Legislação de Enfermagem , Código de Ética dos Profissionais de Enfermagem , Segurança do Paciente Banca: SELECON Órgão: Empresa Cuiabana de Saúde Pública - MT Prova: SELECON - 2023 - Empresa Cuiabana de Saúde"
+      }
+    ],
+    "resposta_correta": "D",
+    "id": "EF0555",
+    "numero_ordem": 555,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [D] ('territorialização 564 Ano: 2023 Enfermagem > Legislação de Enfermagem , Código de Ética dos Profissionais de Enfermagem , Segurança do Paciente Banca: SELECON Órgão: Empresa Cuiabana de Saúde Pública - MT Prova: SELECON - 2023 - Empresa Cuiabana de Saúde') corresponde com fidelidade aos ditames legais da profissão.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'normatização...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'integralização...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
     "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
   },
   {
     "codigo_origem": "Q2341552",
+    "numero_original": 582,
     "banca": "SELECON",
     "orgao": "Empresa Cuiabana de Saúde Pública - MT",
     "ano": 2023,
@@ -2339,15 +2150,11 @@
         "texto": "controlar os registros de assistência de enfermagem 583 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0582",
-    "numero_ordem": 582,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "A",
+    "id": "EF0574",
+    "numero_ordem": 574,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('proteger o cliente contra danos decorrentes de imperícia ou imprudência por parte de qualquer membro da equipe de saúde') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'proteger o cliente contra danos decorrentes de imperícia ou imprudência por parte de ...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'informar à administração sobre dados relativos à assistência...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -2365,6 +2172,7 @@
   },
   {
     "codigo_origem": "Q2325292",
+    "numero_original": 586,
     "banca": "SELECON",
     "orgao": "Prefeitura de Primavera do Leste - MT",
     "ano": 2023,
@@ -2391,17 +2199,13 @@
         "texto": "leve 587 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0586",
-    "numero_ordem": 586,
-    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "resposta_correta": "B",
+    "id": "EF0578",
+    "numero_ordem": 578,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [B] ('moderada') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "B",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
@@ -2417,6 +2221,7 @@
   },
   {
     "codigo_origem": "Q2310591",
+    "numero_original": 606,
     "banca": "SELECON",
     "orgao": "Prefeitura de Primavera do Leste - MT",
     "ano": 2023,
@@ -2443,17 +2248,13 @@
         "texto": "suspensão"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0606",
-    "numero_ordem": 606,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "B",
+    "id": "EF0598",
+    "numero_ordem": 598,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [B] ('censura') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "B",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
@@ -2469,6 +2270,7 @@
   },
   {
     "codigo_origem": "Q2297124",
+    "numero_original": 627,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Verde - MT",
     "ano": 2023,
@@ -2495,10 +2297,10 @@
         "texto": "anunciar formação profissional, qualificação e título, ainda que não se possa comprovar; manter regularizadas as obrigações financeiras junto ao Conselho Regional de Enfermagem de sua jurisdição."
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0627",
-    "numero_ordem": 627,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "C",
+    "id": "EF0619",
+    "numero_ordem": 619,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [C] ('exercer a profissão com justiça, compromisso, equidade, resolutividade, dignidade, competência, responsabilidade, honestidade e lealdade; fundamentar suas relações no direito, na prudência, no respeito, na solidariedade e na diversidade de opinião e posição ideológica') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -2509,10 +2311,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'executar e/ou determinar atos contrários ao Código de Ética e à legislação que discip...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'exercer a profissão com justiça, compromisso, equidade, resolutividade, dignidade, co...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'anunciar formação profissional, qualificação e título, ainda que não se possa comprov...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -2521,6 +2319,7 @@
   },
   {
     "codigo_origem": "Q2024543",
+    "numero_original": 694,
     "banca": "SELECON",
     "orgao": "CLIN",
     "ano": 2022,
@@ -2547,15 +2346,11 @@
         "texto": "05 (cinco) a 15 (quinze) vezes o valor da anuidade 695 Ano: 2022"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0694",
-    "numero_ordem": 694,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "A",
+    "id": "EF0686",
+    "numero_ordem": 686,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('01 (um) a 10 (dez) vezes o valor da anuidade') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois '01 (um) a 10 (dez) vezes o valor da anuidade...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois '01 (um) a 5 (cinco) vezes o valor da anuidade...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -2573,6 +2368,7 @@
   },
   {
     "codigo_origem": "Q1953154",
+    "numero_original": 733,
     "banca": "SELECON",
     "orgao": "Prefeitura de Pontes e Lacerda - MT",
     "ano": 2022,
@@ -2599,10 +2395,10 @@
         "texto": "fundamentar suas relações no direito, na prudência, no respeito, na solidariedade e na diversidade de opinião e posição ideológica 734 Ano: 2022"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0733",
-    "numero_ordem": 733,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "D",
+    "id": "EF0725",
+    "numero_ordem": 725,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [D] ('fundamentar suas relações no direito, na prudência, no respeito, na solidariedade e na diversidade de opinião e posição ideológica 734 Ano: 2022') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -2615,16 +2411,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'promover ou participar de prática destinada a antecipar a morte da pessoa...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'fundamentar suas relações no direito, na prudência, no respeito, na solidariedade e n...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
   },
   {
     "codigo_origem": "Q1320492",
+    "numero_original": 750,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2020,
@@ -2651,15 +2444,11 @@
         "texto": "realizar atos sob coação e/ou intimidação ou grave ameaça"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0750",
-    "numero_ordem": 750,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "A",
+    "id": "EF0742",
+    "numero_ordem": 742,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('cometer infração dolosamente') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'cometer infração dolosamente...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'ter bons antecedentes profissionais...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -2677,6 +2466,7 @@
   },
   {
     "codigo_origem": "Q1313720",
+    "numero_original": 779,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2020,
@@ -2703,15 +2493,11 @@
         "texto": "prestar assistência de Enfermagem sem discriminação de qualquer natureza 780 Ano: 2020"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0779",
-    "numero_ordem": 779,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "A",
+    "id": "EF0771",
+    "numero_ordem": 771,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('receber vantagens de instituição, empresa, pessoa, família e coletividade, além do que lhe é devido, como forma de garantir assistência de Enfermagem diferenciada ou benefícios de qualquer natureza para si ou para outrem') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'receber vantagens de instituição, empresa, pessoa, família e coletividade, além do qu...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'estimular e apoiar a qualificação e o aperfeiçoamento técnico-científico, ético-polít...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -2729,6 +2515,7 @@
   },
   {
     "codigo_origem": "Q1313713",
+    "numero_original": 786,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2024,
@@ -2755,10 +2542,10 @@
         "texto": "processo de cuidado"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0786",
-    "numero_ordem": 786,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "C",
+    "id": "EF0778",
+    "numero_ordem": 778,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [C] ('processo de enfermagem') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -2769,10 +2556,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'sistematização da assistência multidisciplinar...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'processo de enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'processo de cuidado...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -2781,6 +2564,7 @@
   },
   {
     "codigo_origem": "Q1313698",
+    "numero_original": 801,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2020,
@@ -2807,18 +2591,14 @@
         "texto": "prestar assistência de Enfermagem promovendo a qualidade de vida a pessoa e família no processo do nascer, viver, morrer e luto 802 Ano: 2020"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0801",
-    "numero_ordem": 801,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "B",
+    "id": "EF0793",
+    "numero_ordem": 793,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [B] ('provocar aborto, ou cooperar em prática destinada a interromper a gestação, exceto nos casos permitidos pela legislação vigente') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'prestar assistência de Enfermagem livre de danos decorrentes de imperícia, negligênci...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'provocar aborto, ou cooperar em prática destinada a interromper a gestação, exceto no...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -2833,6 +2613,7 @@
   },
   {
     "codigo_origem": "Q1313684",
+    "numero_original": 814,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2020,
@@ -2859,18 +2640,14 @@
         "texto": "chefia de serviço e de unidade de Enfermagem; prescrição da assistência de enfermagem e participar da equipe de saúde 815 Ano: 2020"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0814",
-    "numero_ordem": 814,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "B",
+    "id": "EF0806",
+    "numero_ordem": 806,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [B] ('consulta de enfermagem; prescrição da assistência de enfermagem e cuidados diretos de enfermagem a pacientes graves com risco de vida') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'consulta de enfermagem; prescrição da assistência de enfermagem e cuidados indiretos ...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'consulta de enfermagem; prescrição da assistência de enfermagem e cuidados diretos de...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -2885,6 +2662,7 @@
   },
   {
     "codigo_origem": "Q2710357",
+    "numero_original": 838,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Grande - MS",
     "ano": 2019,
@@ -2911,17 +2689,13 @@
         "texto": "uma proibição 839 Ano: 2019"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0838",
-    "numero_ordem": 838,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "B",
+    "id": "EF0830",
+    "numero_ordem": 830,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [B] ('um direito') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "B",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
@@ -2937,6 +2711,7 @@
   },
   {
     "codigo_origem": "Q2698344",
+    "numero_original": 846,
     "banca": "SELECON",
     "orgao": "Empresa Cuiabana de Saúde Pública - MT Provas: SELECON - 2019 - Empresa Cuiabana de Saúde",
     "ano": 2019,
@@ -2945,16 +2720,47 @@
     "materia": "Enfermagem",
     "assunto": "Legislação de Enfermagem , Lei do Exercício Profissional de Enfermagem",
     "enunciado": "",
-    "alternativas": [],
-    "resposta_correta": "",
-    "id": "EF0846",
-    "numero_ordem": 846,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
-    "analise_distratores": [],
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "chefiar o serviço de enfermagem"
+      },
+      {
+        "id": "B",
+        "texto": "prestar cuidados de higiene e conforto ao paciente"
+      },
+      {
+        "id": "C",
+        "texto": "observar, reconhecer e descrever sinais e sintomas"
+      },
+      {
+        "id": "D",
+        "texto": "participar da equipe de saúde 847 Ano: 2019 Enfermagem > Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Diagnósticos de Enfermagem - NIC-NOC/CIPE/NANDA Banca: SELECON Órgão: Empresa Cuiabana de Saúde Pública - MT Provas: SELECON - 2019 - Empresa Cuiabana de Saúde"
+      }
+    ],
+    "resposta_correta": "A",
+    "id": "EF0838",
+    "numero_ordem": 838,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('chefiar o serviço de enfermagem') corresponde com fidelidade aos ditames legais da profissão.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'prestar cuidados de higiene e conforto ao paciente...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'observar, reconhecer e descrever sinais e sintomas...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'participar da equipe de saúde 847 Ano: 2019 Enfermagem > Processo de Enfermagem e Sis...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
     "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
   },
   {
     "codigo_origem": "Q2692352",
+    "numero_original": 866,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Grande - MS",
     "ano": 2019,
@@ -2981,15 +2787,11 @@
         "texto": "execução do parto sem distocia e consultoria sobre matéria de enfermagem 867 Ano: 2019"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0866",
-    "numero_ordem": 866,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "A",
+    "id": "EF0858",
+    "numero_ordem": 858,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('participar da programação da assistência de enfermagem e participar da equipe de saúde') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'participar da programação da assistência de enfermagem e participar da equipe de saúd...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'cuidados diretos de enfermagem a pacientes graves com risco de vida e consulta de enf...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -3007,6 +2809,7 @@
   },
   {
     "codigo_origem": "Q2692335",
+    "numero_original": 870,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Grande - MS",
     "ano": 2019,
@@ -3033,15 +2836,11 @@
         "texto": "uma proibição 871 Ano: 2019"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0870",
-    "numero_ordem": 870,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "A",
+    "id": "EF0862",
+    "numero_ordem": 862,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('um dever') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
@@ -3059,6 +2858,7 @@
   },
   {
     "codigo_origem": "Q1242256",
+    "numero_original": 872,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2019,
@@ -3085,15 +2885,11 @@
         "texto": "executar e/ou determinar atos contrários ao Código de Ética e à legislação que disciplina o exercício da Enfermagem 873 Ano: 2019"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0872",
-    "numero_ordem": 872,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "A",
+    "id": "EF0864",
+    "numero_ordem": 864,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('negar-se a ser filmado, fotografado e exposto em mídias sociais durante o desempenho de suas atividades profissionais') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'negar-se a ser filmado, fotografado e exposto em mídias sociais durante o desempenho ...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'manter inscrição no Conselho Regional de Enfermagem, com jurisdição na área onde ocor...' não atende às diretrizes oficiais do Ministério da Saúde."

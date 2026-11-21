@@ -1,6 +1,7 @@
 [
   {
     "codigo_origem": "Q4369109",
+    "numero_original": 23,
     "banca": "SELECON",
     "orgao": "Prefeitura de Lucas do Rio Verde - MT",
     "ano": 2026,
@@ -27,18 +28,14 @@
         "texto": "150 a 200 mmHg, com manobras de até 30 segundos por tentativa"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0023",
     "numero_ordem": 23,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('80 a 120 mmHg, com manobras de 10 a 15 segundos por tentativa') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois '60 a 80 mmHg, com manobras de até 5 segundos por tentativa...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois '80 a 120 mmHg, com manobras de 10 a 15 segundos por tentativa...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -49,10 +46,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois '150 a 200 mmHg, com manobras de até 30 segundos por tentativa...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('80 a 120 mmHg, com man..."
   },
   {
     "codigo_origem": "Q3802713",
+    "numero_original": 157,
     "banca": "SELECON",
     "orgao": "Prefeitura de Barra do Garças - MT",
     "ano": 2025,
@@ -79,15 +77,11 @@
         "texto": "pico pressórico inspiratório elevado 158 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "A",
     "id": "EF0157",
     "numero_ordem": 157,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('pressão intravesical maior que 20 mmHg') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'pressão intravesical maior que 20 mmHg...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'acidose metabólica refratária...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -101,10 +95,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'pico pressórico inspiratório elevado 158 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('pressão intravesical maior que 20 mmHg') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q3199739",
+    "numero_original": 296,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sinop - MT",
     "ano": 2025,
@@ -131,18 +126,14 @@
         "texto": "não pode administrar medicamentos, nem realizar nenhum procedimento invasivo, sendo sua atuação restrita apenas a cuidados de higiene e alimentação do paciente, conforme a legislação de enfermagem"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0296",
-    "numero_ordem": 296,
-    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "resposta_correta": "B",
+    "id": "EF0295",
+    "numero_ordem": 295,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [B] ('pode administrar medicamentos, incluindo infusão intravenosa, de acordo com a prescrição médica, mas sempre deve estar sob a supervisão direta do enfermeiro, especialmente para procedimentos complexos, como a infusão de medicamentos vasoativos') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'pode administrar medicamentos, incluindo medicamentos vasoativos intravenosos, com ba...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'pode administrar medicamentos, incluindo infusão intravenosa, de acordo com a prescri...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -157,6 +148,7 @@
   },
   {
     "codigo_origem": "Q3197474",
+    "numero_original": 311,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sinop - MT",
     "ano": 2025,
@@ -183,10 +175,10 @@
         "texto": "administrar a alimentação enteral com volumes reduzidos, manter hidratação intravenosa, e realizar controle rigoroso da temperatura, já que a ECN é uma condição benigna e com resolução espontânea na maioria dos casos 312 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0311",
-    "numero_ordem": 311,
-    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
+    "resposta_correta": "C",
+    "id": "EF0310",
+    "numero_ordem": 310,
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [C] ('suspender imediatamente a alimentação enteral, manter hidratação intravenosa, realizar vigilância rigorosa dos sinais vitais, especialmente da pressão arterial e temperatura, além de monitorar a função renal e sinais de septicemia, em conjunto com a equipe médica') expressa fielmente o preceito legislativo.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -197,10 +189,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'imediatamente iniciar a administração de líquidos por via intravenosa, manter o supor...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'suspender imediatamente a alimentação enteral, manter hidratação intravenosa, realiza...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'administrar a alimentação enteral com volumes reduzidos, manter hidratação intravenos...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -209,6 +197,7 @@
   },
   {
     "codigo_origem": "Q2467336",
+    "numero_original": 466,
     "banca": "SELECON",
     "orgao": "Prefeitura de Água Boa - MT",
     "ano": 2024,
@@ -235,15 +224,11 @@
         "texto": "negar o pedido da família, alegando que a sedação paliativa é eutanásia e fere os princípios da bioética 467 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0466",
-    "numero_ordem": 466,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "A",
+    "id": "EF0459",
+    "numero_ordem": 459,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('acolher a solicitação da família com empatia, discutir o caso com a equipe médica e multiprofissional, e buscar a melhor solução para aliviar o sofrimento do paciente, considerando os princípios éticos da enfermagem e os aspectos legais da sedação paliativa') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'acolher a solicitação da família com empatia, discutir o caso com a equipe médica e m...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'atender ao pedido da família sem questionar, iniciando a sedação paliativa sem a devi...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -261,6 +246,7 @@
   },
   {
     "codigo_origem": "Q3674531",
+    "numero_original": 518,
     "banca": "SELECON",
     "orgao": "Prefeitura de Dourados - MS",
     "ano": 2023,
@@ -287,10 +273,10 @@
         "texto": "CAM - ICU 519 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0518",
-    "numero_ordem": 518,
-    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "resposta_correta": "C",
+    "id": "EF0510",
+    "numero_ordem": 510,
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [C] ('Evaruci') aplica com precisão a fórmula e os critérios epidemiológicos.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -301,18 +287,15 @@
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'CAM - ICU 519 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [C] ('Evaruci') aplica com pre..."
   },
   {
     "codigo_origem": "Q2162340",
+    "numero_original": 653,
     "banca": "SELECON",
     "orgao": "Prefeitura de Nova Mutum - MT",
     "ano": 2023,
@@ -339,10 +322,10 @@
         "texto": "PPC= PAM – PIC 654 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0653",
-    "numero_ordem": 653,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "D",
+    "id": "EF0645",
+    "numero_ordem": 645,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('PPC= PAM – PIC 654 Ano: 2023') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -355,16 +338,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'PPC= PAM + PIC...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'PPC= PAM – PIC 654 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('PPC= PAM – PIC 654 Ano: 2023') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q2160739",
+    "numero_original": 668,
     "banca": "SELECON",
     "orgao": "Prefeitura de Nova Mutum - MT",
     "ano": 2023,
@@ -391,15 +371,11 @@
         "texto": "6,5 cm"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0668",
-    "numero_ordem": 668,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "A",
+    "id": "EF0660",
+    "numero_ordem": 660,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [A] ('2,5 cm') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
@@ -413,10 +389,11 @@
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [A] ('2,5 cm') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q1953156",
+    "numero_original": 731,
     "banca": "SELECON",
     "orgao": "Prefeitura de Pontes e Lacerda - MT",
     "ano": 2022,
@@ -443,10 +420,10 @@
         "texto": "Débito cardíaco e Pressão venosa central 732 Ano: 2022"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0731",
-    "numero_ordem": 731,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "C",
+    "id": "EF0723",
+    "numero_ordem": 723,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [C] ('Pressão arterial média e Pressão intracraniana') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -457,18 +434,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'Pressão arterial sistólica e Pressão intracerebral...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'Pressão arterial média e Pressão intracraniana...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'Débito cardíaco e Pressão venosa central 732 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [C] ('Pressão arterial média e Pressão intracraniana') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q1320504",
+    "numero_original": 738,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2020,
@@ -495,15 +469,11 @@
         "texto": "pandemia"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0738",
-    "numero_ordem": 738,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "A",
+    "id": "EF0730",
+    "numero_ordem": 730,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('comunitária') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'comunitária...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
@@ -517,10 +487,11 @@
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('comunitária') fundamen..."
   },
   {
     "codigo_origem": "Q1313707",
+    "numero_original": 792,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2020,
@@ -547,10 +518,10 @@
         "texto": "com pressão de suporte 793 Ano: 2020"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0792",
-    "numero_ordem": 792,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "D",
+    "id": "EF0784",
+    "numero_ordem": 784,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('com pressão de suporte 793 Ano: 2020') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -563,16 +534,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'mandatória contínua com pressão controlada...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'com pressão de suporte 793 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('com pressão de suporte 793 Ano: 2020') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q1313705",
+    "numero_original": 794,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2020,
@@ -599,10 +567,10 @@
         "texto": "V significa o enchimento do átrio direito 795 Ano: 2020"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0794",
-    "numero_ordem": 794,
-    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "resposta_correta": "D",
+    "id": "EF0786",
+    "numero_ordem": 786,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [D] ('V significa o enchimento do átrio direito 795 Ano: 2020') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -615,16 +583,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'U significa contração atrial sinusal direito...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'V significa o enchimento do átrio direito 795 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   },
   {
     "codigo_origem": "Q1313704",
+    "numero_original": 795,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2020,
@@ -651,10 +616,10 @@
         "texto": "Reye 796 Ano: 2020"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0795",
-    "numero_ordem": 795,
-    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "resposta_correta": "C",
+    "id": "EF0787",
+    "numero_ordem": 787,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [C] ('Turner') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -662,10 +627,6 @@
       },
       {
         "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "C",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
@@ -677,6 +638,7 @@
   },
   {
     "codigo_origem": "Q1313697",
+    "numero_original": 802,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2020,
@@ -703,10 +665,10 @@
         "texto": "deve haver uma separação física entre os ambientes de UTI Pediátrica e UTI Neonatal 803 Ano: 2020"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0802",
-    "numero_ordem": 802,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "D",
+    "id": "EF0794",
+    "numero_ordem": 794,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('deve haver uma separação física entre os ambientes de UTI Pediátrica e UTI Neonatal 803 Ano: 2020') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -719,16 +681,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'não deve haver uma separação física entre os ambientes de UTI pediátrica e UTI neonat...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'deve haver uma separação física entre os ambientes de UTI Pediátrica e UTI Neonatal 8...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('deve haver uma separação física entre os ambientes de UTI Pediátrica e UTI Neonatal 803 Ano: 2020') responde corretamente à quest..."
   },
   {
     "codigo_origem": "Q1313696",
+    "numero_original": 803,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2020,
@@ -755,15 +714,11 @@
         "texto": "25 dias a 17 ou 20 anos, sendo este limite definido de acordo com as rotinas da instituição 804 Ano: 2020"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0803",
-    "numero_ordem": 803,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "A",
+    "id": "EF0795",
+    "numero_ordem": 795,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('29 dias a 14 ou 18 anos, sendo este limite definido de acordo com as rotinas da instituição') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois '29 dias a 14 ou 18 anos, sendo este limite definido de acordo com as rotinas da insti...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois '27 dias a 14 ou 19 anos, sendo este limite definido de acordo com as rotinas da insti...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -777,10 +732,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois '25 dias a 17 ou 20 anos, sendo este limite definido de acordo com as rotinas da insti...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('29 dias a 14 ou 18 anos, sendo este limite definido de acordo com as rotinas da instituição') responde corretamente à questão con..."
   },
   {
     "codigo_origem": "Q2692375",
+    "numero_original": 859,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Grande - MS",
     "ano": 2019,
@@ -807,10 +763,10 @@
         "texto": "pressão venosa central (PVC) 860 Ano: 2019"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0859",
-    "numero_ordem": 859,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "D",
+    "id": "EF0851",
+    "numero_ordem": 851,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('pressão venosa central (PVC) 860 Ano: 2019') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -823,12 +779,8 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'pressão capilar pulmonar (PCAP)...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'pressão venosa central (PVC) 860 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('pressão venosa central (PVC) 860 Ano: 2019') responde corretamente à questão conforme as boas práticas assistenciais."
   }
 ]

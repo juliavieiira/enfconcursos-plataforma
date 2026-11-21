@@ -1,6 +1,7 @@
 [
   {
     "codigo_origem": "Q3802708",
+    "numero_original": 160,
     "banca": "SELECON",
     "orgao": "Prefeitura de Barra do Garças - MT",
     "ano": 2024,
@@ -27,15 +28,11 @@
         "texto": "vasodilatadores diretos, inibidores da fosfodiesterase-5 e agentes inotrópicos positivos"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "A",
     "id": "EF0160",
     "numero_ordem": 160,
-    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [A] ('inibidores da enzima conversora de angiotensina (IECA) ou bloqueadores do receptor de angiotensina (BRA), betabloqueadores e antagonistas do receptor de mineralocorticoide (ARM)') constitui a conduta correta e segura.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'inibidores da enzima conversora de angiotensina (IECA) ou bloqueadores do receptor de...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'bloqueadores dos canais de cálcio, nitratos de ação prolongada e digoxina...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -49,10 +46,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'vasodilatadores diretos, inibidores da fosfodiesterase-5 e agentes inotrópicos positi...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [A] ('inib..."
   },
   {
     "codigo_origem": "Q3742715",
+    "numero_original": 182,
     "banca": "SELECON",
     "orgao": "Prefeitura de Marcelândia - MT",
     "ano": 2025,
@@ -79,18 +77,14 @@
         "texto": "modificar geneticamente as células do hospedeiro para torná-las intrinsecamente resistentes à infecção"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0182",
     "numero_ordem": 182,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('prevenir a replicação viral e restaurar a função imunológica, sem erradicar o vírus') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'eliminar completamente o vírus do organismo do paciente, curando a infecção...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'prevenir a replicação viral e restaurar a função imunológica, sem erradicar o vírus...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -101,10 +95,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'modificar geneticamente as células do hospedeiro para torná-las intrinsecamente resis...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('prevenir a replicação ..."
   },
   {
     "codigo_origem": "Q3617181",
+    "numero_original": 209,
     "banca": "SELECON",
     "orgao": "Prefeitura de Tapurah - MT",
     "ano": 2025,
@@ -131,10 +126,10 @@
         "texto": "uma redução da concentração plasmática da varfarina devido à indução metabólica, exigindo um aumento da dose do anticoagulante para manter o efeito terapêutico 210 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "D",
     "id": "EF0209",
     "numero_ordem": 209,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('uma redução da concentração plasmática da varfarina devido à indução metabólica, exigindo um aumento da dose do anticoagulante para manter o efeito terapêutico 210 Ano: 2025') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -147,16 +142,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'potencialização do efeito anticoagulante por sinergismo em nível de receptores da vit...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'uma redução da concentração plasmática da varfarina devido à indução metabólica, exig...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('uma redução da concent..."
   },
   {
     "codigo_origem": "Q3184817",
+    "numero_original": 329,
     "banca": "SELECON",
     "orgao": "Prefeitura de Nova Mutum - MT",
     "ano": 2024,
@@ -183,10 +175,10 @@
         "texto": "reação hemolítica aguda 330 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0329",
-    "numero_ordem": 329,
-    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "resposta_correta": "C",
+    "id": "EF0328",
+    "numero_ordem": 328,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('deficiência de vitamina K') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -197,18 +189,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'trombocitemia primária...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'deficiência de vitamina K...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'reação hemolítica aguda 330 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('defi..."
   },
   {
     "codigo_origem": "Q2480381",
+    "numero_original": 396,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -239,10 +228,10 @@
         "texto": "críticos 397 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: SAD-MS Prova: SELECON - 2024 - SAD-MS - Enfermeiro"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0396",
-    "numero_ordem": 396,
-    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "resposta_correta": "E",
+    "id": "EF0392",
+    "numero_ordem": 392,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [E] ('críticos 397 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: SAD-MS Prova: SELECON - 2024 - SAD-MS - Enfermeiro') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -259,16 +248,13 @@
       {
         "letra": "D",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "E",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'críticos 397 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SU...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [E] ('crít..."
   },
   {
     "codigo_origem": "Q3674511",
+    "numero_original": 537,
     "banca": "SELECON",
     "orgao": "Prefeitura de Dourados - MS",
     "ano": 2023,
@@ -295,18 +281,14 @@
         "texto": "Atropina, Dopamina e Midazolam 538 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0537",
-    "numero_ordem": 537,
-    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "resposta_correta": "B",
+    "id": "EF0529",
+    "numero_ordem": 529,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [B] ('Epinefrina, Dopamina e Dobutamina') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'Fentanil, Noradrenalina e Vasopressina...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'Epinefrina, Dopamina e Dobutamina...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -317,10 +299,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'Atropina, Dopamina e Midazolam 538 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [B] ('Epin..."
   },
   {
     "codigo_origem": "Q2325286",
+    "numero_original": 592,
     "banca": "SELECON",
     "orgao": "Prefeitura de Primavera do Leste - MT",
     "ano": 2023,
@@ -347,10 +330,10 @@
         "texto": "60 minutos antes da incisão cirúrgica 593 Ano: 2023 Enfermagem > Fundamentos e Procedimentos de Enfermagem , Doenças Crônicas Não Transmissíveis , Doenças Renais Banca: SELECON Órgão: Prefeitura de Primavera do Leste - MT Prova: SELECON - 2023 - Prefeitura de Primavera do Leste -"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0592",
-    "numero_ordem": 592,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "D",
+    "id": "EF0584",
+    "numero_ordem": 584,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('60 minutos antes da incisão cirúrgica 593 Ano: 2023 Enfermagem > Fundamentos e Procedimentos de Enfermagem , Doenças Crônicas Não Transmissíveis , Doenças Renais Banca: SELECON Órgão: Prefeitura de Primavera do Leste - MT Prova: SELECON - 2023 - Prefeitura de Primavera do Leste -') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -363,16 +346,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois '60 minutos após a incisão cirúrgica...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois '60 minutos antes da incisão cirúrgica 593 Ano: 2023 Enfermagem > Fundamentos e Proced...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('60 minutos antes da in..."
   },
   {
     "codigo_origem": "Q2325281",
+    "numero_original": 597,
     "banca": "SELECON",
     "orgao": "Prefeitura de Primavera do Leste - MT",
     "ano": 2023,
@@ -399,10 +379,10 @@
         "texto": "naloxone 598 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0597",
-    "numero_ordem": 597,
-    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "resposta_correta": "D",
+    "id": "EF0589",
+    "numero_ordem": 589,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [D] ('naloxone 598 Ano: 2023') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -415,16 +395,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'naloxone 598 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [D]..."
   },
   {
     "codigo_origem": "Q2310590",
+    "numero_original": 607,
     "banca": "SELECON",
     "orgao": "Prefeitura de Primavera do Leste - MT",
     "ano": 2023,
@@ -451,15 +428,11 @@
         "texto": "beta 2 agonistas"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0607",
-    "numero_ordem": 607,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "A",
+    "id": "EF0599",
+    "numero_ordem": 599,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('beta 1 agonista') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'beta 1 agonista...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'dopaminérgicos...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -477,6 +450,7 @@
   },
   {
     "codigo_origem": "Q2310578",
+    "numero_original": 619,
     "banca": "SELECON",
     "orgao": "Prefeitura de Primavera do Leste - MT",
     "ano": 2023,
@@ -503,10 +477,10 @@
         "texto": "atropina 620 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0619",
-    "numero_ordem": 619,
-    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "resposta_correta": "D",
+    "id": "EF0611",
+    "numero_ordem": 611,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [D] ('atropina 620 Ano: 2023') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -519,16 +493,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'atropina 620 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [D] ('atro..."
   },
   {
     "codigo_origem": "Q2297121",
+    "numero_original": 630,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Verde - MT",
     "ano": 2023,
@@ -555,10 +526,10 @@
         "texto": "absorção"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0630",
-    "numero_ordem": 630,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "D",
+    "id": "EF0622",
+    "numero_ordem": 622,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [D] ('absorção') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -571,16 +542,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       }
     ],
     "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
   },
   {
     "codigo_origem": "Q1953165",
+    "numero_original": 722,
     "banca": "SELECON",
     "orgao": "Prefeitura de Pontes e Lacerda - MT",
     "ano": 2022,
@@ -607,18 +575,14 @@
         "texto": "ingestão, biotransformação, distribuição e monitoramento 723 Ano: 2022"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0722",
-    "numero_ordem": 722,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "B",
+    "id": "EF0714",
+    "numero_ordem": 714,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [B] ('absorção, distribuição, metabolismo e excreção') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'ingestão, via certa, metabolismo e excreção...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'absorção, distribuição, metabolismo e excreção...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -633,6 +597,7 @@
   },
   {
     "codigo_origem": "Q1953159",
+    "numero_original": 728,
     "banca": "SELECON",
     "orgao": "Prefeitura de Pontes e Lacerda - MT",
     "ano": 2022,
@@ -659,17 +624,13 @@
         "texto": "atropina 729 Ano: 2022"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0728",
-    "numero_ordem": 728,
-    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "resposta_correta": "B",
+    "id": "EF0720",
+    "numero_ordem": 720,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [B] ('naloxone') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "B",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
@@ -681,6 +642,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'atropina 729 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [B] ('nalo..."
   }
 ]

@@ -1,6 +1,7 @@
 [
   {
     "codigo_origem": "Q3884660",
+    "numero_original": 111,
     "banca": "SELECON",
     "orgao": "Prefeitura de Porto dos Gaúchos - MT",
     "ano": 2026,
@@ -27,18 +28,14 @@
         "texto": "curativo deve ser mantido seco, dispensando a limpeza em trocas subsequentes se não houver exsudato para não manipular excessivamente a ferida 112 Ano: 2026"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0111",
     "numero_ordem": 111,
-    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.",
+    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [B] ('irrigação da ferida deve ser feita com solução fisiológica a 0,9%, utilizando técnica que evite trauma tecidual') é a indicação terapêutica correta para o quadro apresentado.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'limpeza deve ser feita com solução antisséptica de uso habitual, independentemente da...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'irrigação da ferida deve ser feita com solução fisiológica a 0,9%, utilizando técnica...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -53,6 +50,7 @@
   },
   {
     "codigo_origem": "Q3810642",
+    "numero_original": 135,
     "banca": "SELECON",
     "orgao": "Prefeitura de Barra do Garças - MT",
     "ano": 2025,
@@ -79,18 +77,14 @@
         "texto": "utilizar solução antisséptica em todas as trocas, independentemente da evolução da ferida e da avaliação da equipe 136 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0135",
     "numero_ordem": 135,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('priorizar a limpeza do centro para a periferia, iniciando pela zona menos contaminada e avançando para a pele adjacente potencialmente colonizada') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'realizar a limpeza da periferia para o centro, garantindo que as áreas externas sejam...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'priorizar a limpeza do centro para a periferia, iniciando pela zona menos contaminada...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -101,10 +95,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'utilizar solução antisséptica em todas as trocas, independentemente da evolução da fe...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('priorizar a limpeza do..."
   },
   {
     "codigo_origem": "Q3810636",
+    "numero_original": 141,
     "banca": "SELECON",
     "orgao": "Prefeitura de Barra do Garças - MT",
     "ano": 2025,
@@ -131,18 +126,14 @@
         "texto": "de exsudação 142 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0141",
     "numero_ordem": 141,
-    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.",
+    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [B] ('proliferativa') é a indicação terapêutica correta para o quadro apresentado.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'inflamatória...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'proliferativa...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -157,6 +148,7 @@
   },
   {
     "codigo_origem": "Q3615478",
+    "numero_original": 223,
     "banca": "SELECON",
     "orgao": "Prefeitura de Tapurah - MT",
     "ano": 2025,
@@ -183,10 +175,10 @@
         "texto": "utilizar solução antisséptica compatível com tecido viável e cobrir com gaze estéril"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "D",
     "id": "EF0223",
     "numero_ordem": 223,
-    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.",
+    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [D] ('utilizar solução antisséptica compatível com tecido viável e cobrir com gaze estéril') é a indicação terapêutica correta para o quadro apresentado.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -199,16 +191,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'irrigar com água corrente e cobrir com papel alumínio estéril...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'utilizar solução antisséptica compatível com tecido viável e cobrir com gaze estéril...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa ..."
   },
   {
     "codigo_origem": "Q3184824",
+    "numero_original": 322,
     "banca": "SELECON",
     "orgao": "Prefeitura de Nova Mutum - MT",
     "ano": 2024,
@@ -235,15 +224,11 @@
         "texto": "higiene diária da ferida 323 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0322",
-    "numero_ordem": 322,
-    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.",
+    "resposta_correta": "A",
+    "id": "EF0321",
+    "numero_ordem": 321,
+    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [A] ('idade avançada') é a indicação terapêutica correta para o quadro apresentado.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'idade avançada...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'nutrição hiperproteica...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -261,6 +246,7 @@
   },
   {
     "codigo_origem": "Q2467602",
+    "numero_original": 449,
     "banca": "SELECON",
     "orgao": "Prefeitura de Água Boa - MT",
     "ano": 2024,
@@ -287,18 +273,14 @@
         "texto": "fungicidas"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0449",
-    "numero_ordem": 449,
-    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.",
+    "resposta_correta": "B",
+    "id": "EF0442",
+    "numero_ordem": 442,
+    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [B] ('antissépticos') atende às exigências normativas de biossegurança perioperatória.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'soluções aquosas...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'antissépticos...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -313,6 +295,7 @@
   },
   {
     "codigo_origem": "Q2467343",
+    "numero_original": 459,
     "banca": "SELECON",
     "orgao": "Prefeitura de Água Boa - MT",
     "ano": 2024,
@@ -339,10 +322,10 @@
         "texto": "massagear suavemente a área ao redor da lesão para estimular a circulação sanguínea 460 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0459",
-    "numero_ordem": 459,
-    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.",
+    "resposta_correta": "C",
+    "id": "EF0452",
+    "numero_ordem": 452,
+    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [C] ('realizar limpeza da lesão com solução salina e cobrir com um curativo estéril') é a indicação terapêutica correta para o quadro apresentado.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -353,10 +336,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'aplicar pomada antibiótica na lesão e cobrir com uma gaze...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'realizar limpeza da lesão com solução salina e cobrir com um curativo estéril...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'massagear suavemente a área ao redor da lesão para estimular a circulação sanguínea 4...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -365,6 +344,7 @@
   },
   {
     "codigo_origem": "Q2342273",
+    "numero_original": 560,
     "banca": "SELECON",
     "orgao": "Empresa Cuiabana de Saúde Pública - MT",
     "ano": 2024,
@@ -391,15 +371,11 @@
         "texto": "48 horas após a lesão"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0560",
-    "numero_ordem": 560,
-    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.",
+    "resposta_correta": "A",
+    "id": "EF0552",
+    "numero_ordem": 552,
+    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [A] ('12 horas após a lesão') é a indicação terapêutica correta para o quadro apresentado.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois '12 horas após a lesão...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois '24 horas após a lesão...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -417,6 +393,7 @@
   },
   {
     "codigo_origem": "Q2342271",
+    "numero_original": 562,
     "banca": "SELECON",
     "orgao": "Empresa Cuiabana de Saúde Pública - MT",
     "ano": 2023,
@@ -443,10 +420,10 @@
         "texto": "hiperflexão do antebraço 563 Ano: 2023 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Empresa Cuiabana de Saúde Pública - MT Prova: SELECON - 2023 - Empresa Cuiabana de Saúde"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0562",
-    "numero_ordem": 562,
-    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.",
+    "resposta_correta": "C",
+    "id": "EF0554",
+    "numero_ordem": 554,
+    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [C] ('braço ao longo do tronco') é a indicação terapêutica correta para o quadro apresentado.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -457,10 +434,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'hiperextensão ulnar...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'braço ao longo do tronco...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'hiperflexão do antebraço 563 Ano: 2023 Enfermagem > Legislação em Saúde , Sistema Úni...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -469,6 +442,7 @@
   },
   {
     "codigo_origem": "Q2325284",
+    "numero_original": 594,
     "banca": "SELECON",
     "orgao": "Prefeitura de Primavera do Leste - MT",
     "ano": 2023,
@@ -495,18 +469,14 @@
         "texto": "Papaína 595 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0594",
-    "numero_ordem": 594,
-    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.",
+    "resposta_correta": "B",
+    "id": "EF0586",
+    "numero_ordem": 586,
+    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [B] ('Alginato de cálcio') é a indicação terapêutica correta para o quadro apresentado.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'AGE - Ácidos Graxos Essenciais...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'Alginato de cálcio...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -521,6 +491,7 @@
   },
   {
     "codigo_origem": "Q1320502",
+    "numero_original": 740,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2020,
@@ -547,15 +518,11 @@
         "texto": "7 fatores de risco e a pontuação total varia de 4 a 25 pontos"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0740",
-    "numero_ordem": 740,
-    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.",
+    "resposta_correta": "A",
+    "id": "EF0732",
+    "numero_ordem": 732,
+    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [A] ('5 fatores de risco e a pontuação total varia de 5 a 20 pontos') é a indicação terapêutica correta para o quadro apresentado.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois '5 fatores de risco e a pontuação total varia de 5 a 20 pontos...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois '8 fatores de risco e a pontuação total varia de 5 a 25 pontos...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -573,6 +540,7 @@
   },
   {
     "codigo_origem": "Q2710373",
+    "numero_original": 827,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Grande - MS",
     "ano": 2019,
@@ -599,10 +567,10 @@
         "texto": "Uma pele com lesão que apresenta um formato diferenciado (pera, ferradura ou borboleta), com margens irregulares; tem inicio súbito, normalmente como abrasão, bolha ou área escurecida e cuja piora é drástica e progressiva em 48 horas. Essa ferida é muito comum em pacientes que estão se aproximando do fim de vida. 828 Ano: 2019"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0827",
-    "numero_ordem": 827,
-    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.",
+    "resposta_correta": "C",
+    "id": "EF0819",
+    "numero_ordem": 819,
+    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [C] ('Uma pele intacta ou não, com área localizada e persistente apresentando área vermelha escura, marrom ou púrpura que não embranquece ou separação epidérmica que mostra lesão com leito escurecido ou bolha com exsudato sanguinolento. Essa lesão resulta de pressão intensa e/ou prolongada e de cisalhamento na interface osso-músculo.') é a indicação terapêutica correta para o quadro apresentado.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -613,10 +581,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'Uma pele com lesão por pressão nesse aspecto geralmente está em conformidade com o pa...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'Uma pele intacta ou não, com área localizada e persistente apresentando área vermelha...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'Uma pele com lesão que apresenta um formato diferenciado (pera, ferradura ou borbolet...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -625,6 +589,7 @@
   },
   {
     "codigo_origem": "Q2692347",
+    "numero_original": 867,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Grande - MS",
     "ano": 2019,
@@ -651,10 +616,10 @@
         "texto": "grau de mobilidade alterado, incontinência urinária e/ou fecal e alterações da sensibilidade cutânea 868 Ano: 2019"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0867",
-    "numero_ordem": 867,
-    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.",
+    "resposta_correta": "D",
+    "id": "EF0859",
+    "numero_ordem": 859,
+    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [D] ('grau de mobilidade alterado, incontinência urinária e/ou fecal e alterações da sensibilidade cutânea 868 Ano: 2019') é a indicação terapêutica correta para o quadro apresentado.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -667,114 +632,6 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'alterações da sensibilidade cutânea, alterações do estado de consciência e ausência d...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'grau de mobilidade alterado, incontinência urinária e/ou fecal e alterações da sensib...' não atende às diretrizes oficiais do Ministério da Saúde."
-      }
-    ],
-    "comentario": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa ..."
-  },
-  {
-    "codigo_origem": "Q1242246",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Boa Vista - RR",
-    "ano": 2019,
-    "prova": "SELECON - 2019 - Prefeitura de Boa Vista - RR - Assistente",
-    "cargo": "Técnico de Enfermagem",
-    "materia": "Enfermagem",
-    "assunto": "Assistência de Enfermagem em Feridas e Curativos",
-    "enunciado": "Técnico - Grupo Especial - Técnico de Enfermagem Para o preparo da pele antes da punção venosa periférica, o técnico de enfermagem deverá conhecer as soluções existentes e os cuidados na aplicação. Para a aplicação da clorexidina alcoólica > 0,5%, são necessários os seguintes cuidados:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "aplicar com movimentos de “vai e vem” por 30 segundos e aguardar a secagem espontânea do antisséptico antes da punção"
-      },
-      {
-        "id": "B",
-        "texto": "aplicar com movimentos circulares de “dentro para fora” por 2 minutos e aguardar secagem espontânea do antisséptico antes da punção"
-      },
-      {
-        "id": "C",
-        "texto": "aplicar com movimentos de “vai e vem” por 2 minutos e não será necessário aguardar a secagem espontânea do antisséptico"
-      },
-      {
-        "id": "D",
-        "texto": "aplicar com movimentos circulares de “fora para dentro” por 1 minuto e poderá ser opcional aguardar a secagem espontânea do antisséptico 883 Ano: 2019"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0882",
-    "numero_ordem": 882,
-    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'aplicar com movimentos de “vai e vem” por 30 segundos e aguardar a secagem espontânea...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'aplicar com movimentos circulares de “dentro para fora” por 2 minutos e aguardar seca...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'aplicar com movimentos de “vai e vem” por 2 minutos e não será necessário aguardar a ...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'aplicar com movimentos circulares de “fora para dentro” por 1 minuto e poderá ser opc...' não atende às diretrizes oficiais do Ministério da Saúde."
-      }
-    ],
-    "comentario": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa ..."
-  },
-  {
-    "codigo_origem": "Q1242245",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Boa Vista - RR",
-    "ano": 2024,
-    "prova": "SELECON - 2019 - Prefeitura de Boa Vista - RR - Assistente",
-    "cargo": "Técnico de Enfermagem",
-    "materia": "Enfermagem",
-    "assunto": "Assistência de Enfermagem em Feridas e Curativos",
-    "enunciado": "Técnico - Grupo Especial - Técnico de Enfermagem Considera-se uma cobertura para lesão de pele todo material, substância ou produto que se aplica sobre uma ferida, formando uma barreira física com capacidade de proteção e regeneração celular, promovendo a cicatrização. Sendo assim a cobertura indicada para as feridas com pouca perda tecidual, para o desbridamento autolítico de feridas necróticas, com isso, mantendo o meio úmido da ferida e estimulando a granulação, é a cobertura chamada de:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "alginato de cálcio"
-      },
-      {
-        "id": "B",
-        "texto": "colagenase"
-      },
-      {
-        "id": "C",
-        "texto": "hidrogel"
-      },
-      {
-        "id": "D",
-        "texto": "papaína"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0883",
-    "numero_ordem": 883,
-    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'alginato de cálcio...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       }
     ],
     "comentario": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa ..."

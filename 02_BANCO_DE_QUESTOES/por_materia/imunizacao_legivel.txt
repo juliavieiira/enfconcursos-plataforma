@@ -10,12 +10,11 @@ Técnico em Enfermagem - SMS Uma criança de 18 meses, sem condição clínica e
   [C] administrar uma das vacinas e programar a outra, preferencialmente, após 30 dias
   [D] aplicar inicialmente a vacina de febre amarela e reiniciar posteriormente o esquema da tríplice viral
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: C
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [C] ('administrar uma das vacinas e programar a outra, preferencialmente, após 30 dias') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'aplicar somente a vacina tríplice viral...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'administrar as duas vacinas simultaneamente em sítios distintos...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'administrar uma das vacinas e programar a outra, preferencialmente, após 30 dias...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'aplicar inicialmente a vacina de febre amarela e reiniciar posteriormente o esquema d...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
@@ -29,11 +28,10 @@ Durante o acompanhamento do pré-natal na Atenção Primária à Saúde, uma ges
   [C] dTpa deve ser administrada somente após o parto, durante o puerpério, para evitar complicações no desenvolvimento fetal
   [D] vacina dTpa substitui todas as doses de vacina contra difteria e tétano previamente recebidas pela gestante
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: B
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [B] ('vacinação com dTpa no pré-natal tem como objetivo principal proteger o recém-nascido contra a coqueluche nos primeiros meses de vida') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
    • Alternativa A: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'vacina dTpa é indicada apenas para gestantes que não receberam esquema vacinal c...'.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'vacinação com dTpa no pré-natal tem como objetivo principal proteger o recém-nascido ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'dTpa deve ser administrada somente após o parto, durante o puerpério, para evitar com...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'vacina dTpa substitui todas as doses de vacina contra difteria e tétano previamente r...' não atende às diretrizes oficiais do Ministério da Saúde.
 
@@ -48,13 +46,12 @@ Durante a rotina da sala de vacinação de uma Unidade Básica de Saúde, o enfe
   [C] avaliar o tipo de imunobiológico, registrando o ocorrido e mantendo sob refrigeração até decisão da própria equipe da unidade
   [D] suspender o uso dos imunobiológicos expostos, identificá-los e mantê-los sob temperatura adequada, registrar formalmente o desvio e comunicar à instância superior, aguardando orientação técnica quanto ao aproveitamento ou descarte 106 Ano: 2026
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: D
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [D] ('suspender o uso dos imunobiológicos expostos, identificá-los e mantê-los sob temperatura adequada, registrar formalmente o desvio e comunicar à instância superior, aguardando orientação técnica quanto ao aproveitamento ou descarte 106 Ano: 2026') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'manter o uso dos imunobiológicos desde que não haja alteração no aspecto físico do fr...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'descartar todos os imunobiológicos expostos ao desvio térmico, independentemente de a...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'avaliar o tipo de imunobiológico, registrando o ocorrido e mantendo sob refrigeração ...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'suspender o uso dos imunobiológicos expostos, identificá-los e mantê-los sob temperat...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
@@ -67,10 +64,9 @@ Técnico em Enfermagem No âmbito do Programa Nacional de Imunizações (PNI), a
   [C] apenas profissionais da área da saúde
   [D] adultos saudáveis acima de 20 anos 144 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: A
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [A] ('grupos, como gestantes, puérperas e imunodeprimidos') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'grupos, como gestantes, puérperas e imunodeprimidos...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'apenas crianças menores de cinco anos...'.
    • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'apenas profissionais da área da saúde...'.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'adultos saudáveis acima de 20 anos 144 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde.
@@ -86,12 +82,11 @@ O Programa Nacional de Imunizações (PNI) do Brasil é reconhecido mundialmente
   [C] isolar a vacina, identificar o período e a temperatura de exposição, consultar o manual da Rede de Frio ou o fabricante para avaliar a viabilidade de uso, e documentar detalhadamente o ocorrido
   [D] reacondicionar a vacina na temperatura correta e utilizá-la em pacientes de baixo risco, pois a perda de potência não é total 157 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: C
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [C] ('isolar a vacina, identificar o período e a temperatura de exposição, consultar o manual da Rede de Frio ou o fabricante para avaliar a viabilidade de uso, e documentar detalhadamente o ocorrido') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'administrar a vacina imediatamente, pois a prioridade é não perder a oportunidade de ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'descartar a vacina imediatamente, sem qualquer análise, para evitar riscos à saúde pú...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'isolar a vacina, identificar o período e a temperatura de exposição, consultar o manu...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'reacondicionar a vacina na temperatura correta e utilizá-la em pacientes de baixo ris...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
@@ -105,10 +100,9 @@ O calendário vacinal do Programa Nacional de Imunização (PNI) é dinâmico e 
   [C] amamentação exclusiva de um lactente saudável
   [D] contato recente com pessoa imunodeprimida 166 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: A
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [A] ('uso de corticosteroides em dose imunossupressora por tempo prolongado') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'uso de corticosteroides em dose imunossupressora por tempo prolongado...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'história prévia de reação alérgica grave a ovo, desde que a reação não tenha sido ana...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'amamentação exclusiva de um lactente saudável...'.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'contato recente com pessoa imunodeprimida 166 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde.
@@ -124,13 +118,12 @@ em Enfermagem Durante a triagem em uma Unidade Básica de Saúde, o técnico de 
   [C] reiniciar todo o esquema vacinal, desconsiderando as doses anteriores
   [D] administrar apenas a dose seguinte, respeitando o intervalo mínimo entre as doses e atualizando o esquema vacinal 196 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: D
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [D] ('administrar apenas a dose seguinte, respeitando o intervalo mínimo entre as doses e atualizando o esquema vacinal 196 Ano: 2025') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'adiar a vacinação até a próxima campanha nacional...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'encaminhar a criança ao pediatra para avaliação antes de vacinar...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'reiniciar todo o esquema vacinal, desconsiderando as doses anteriores...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'administrar apenas a dose seguinte, respeitando o intervalo mínimo entre as dose...'.
 
 ------------------------------------------------------------
 
@@ -143,17 +136,16 @@ Enfermagem Durante uma campanha de vacinação, um frasco multidose da vacina he
   [C] armazenar o frasco por até 28 dias, se mantido entre 2 °C e 8 °C e respeitadas as condições assépticas
   [D] guardar o frasco apenas se estiver completamente cheio, pois após violado deve ser descartado
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: C
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [C] ('armazenar o frasco por até 28 dias, se mantido entre 2 °C e 8 °C e respeitadas as condições assépticas') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'desprezar o frasco após 6 horas aberto...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'utilizar o frasco até acabar, independentemente da data de abertura...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'armazenar o frasco por até 28 dias, se mantido entre 2 °C e 8 °C e respeitadas as con...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'guardar o frasco apenas se estiver completamente cheio, pois após violado deve s...'.
 
 ------------------------------------------------------------
 
-QUESTÃO 9 [Código: EF0291] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 9 [Código: EF0290] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
 Assunto: Imunização
 Enfermagem O Programa Nacional de Imunizações (PNI) do Brasil, criado em 1973, tem sido um marco na política de saúde pública do país. É importante considerar seu impacto na redução das desigualdades sociais, principalmente a ampliação do acesso à imunização. Sobre as estratégias adotadas pelo PNI e suas implicações sociais, é correto afirmar que:
 
@@ -162,17 +154,16 @@ Enfermagem O Programa Nacional de Imunizações (PNI) do Brasil, criado em 1973,
   [C] o PNI implantou a vacinação universal apenas em grandes centros urbanos, não conseguindo expandir significativamente a cobertura vacinal em áreas rurais e em populações vulneráveis, o que limitou seu impacto na redução das desigualdades sociais
   [D] apesar do sucesso na introdução de novas vacinas, o PNI teve um efeito limitado na redução das desigualdades sociais, pois as campanhas de imunização não estavam adequadamente adaptadas às necessidades específicas das populações marginalizadas, como as comunidades quilombolas e as populações indígenas
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: B
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [B] ('o PNI foi decisivo na diminuição das desigualdades sociais, pois garantiu o acesso universal à vacinação, incluindo populações indígenas, rurais e periféricas, sendo crucial para a proteção da saúde pública em áreas de maior vulnerabilidade') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'a adoção de vacinas de difícil acesso e de alto custo pelo PNI restringiu a ampliação...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'o PNI foi decisivo na diminuição das desigualdades sociais, pois garantiu o acesso un...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o PNI implantou a vacinação universal apenas em grandes centros urbanos, não con...'.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'apesar do sucesso na introdução de novas vacinas, o PNI teve um efeito limitado na re...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 10 [Código: EF0316] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
+QUESTÃO 10 [Código: EF0315] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
 Assunto: Imunização , Política Nacional de Imunização
 O Programa Nacional de Imunizações (PNI) do Brasil, desde sua criação em 1973, tem como base uma série de princípios que orientam suas estratégias e ações. Acerca do PNI, é correto afirmar que:
 
@@ -181,17 +172,16 @@ O Programa Nacional de Imunizações (PNI) do Brasil, desde sua criação em 197
   [C] baseia-se na escolha individual, permitindo que a população decida livremente se deseja ou não ser vacinada, respeitando o direito de cada cidadão em decidir sobre sua imunização
   [D] tem como princípio a vacinação seletiva, oferecendo vacinas apenas a indivíduos em situações de risco, como gestantes e pessoas com doenças crônicas, sem incluir a imunização de crianças ou adultos saudáveis 317 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: B
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [B] ('adota a vacinação como um direito da população, com foco na promoção da equidade, garantindo acesso universal e gratuito às vacinas, independentemente da classe social ou localização geográfica') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'prioriza a vacinação de grupos específicos, como crianças e idosos, sem a necessidade...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'adota a vacinação como um direito da população, com foco na promoção da equidade, gar...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'baseia-se na escolha individual, permitindo que a população decida livremente se dese...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'tem como princípio a vacinação seletiva, oferecendo vacinas apenas a indivíduos ...'.
 
 ------------------------------------------------------------
 
-QUESTÃO 11 [Código: EF0340] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 11 [Código: EF0339] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
 Assunto: Imunização
 A vacina tríplice viral é preparada com vírus vivos atenuados, sendo indicada para prevenir sarampo, caxumba e:
 
@@ -201,18 +191,17 @@ A vacina tríplice viral é preparada com vírus vivos atenuados, sendo indicada
   [D] rubéola
   [E] meningite
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: D
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [D] ('rubéola') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa E: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
 
 ------------------------------------------------------------
 
-QUESTÃO 12 [Código: EF0359] - COREN-RR (SELECON 2024) - Enfermeiro
+QUESTÃO 12 [Código: EF0357] - COREN-RR (SELECON 2024) - Enfermeiro
 Assunto: Imunização , Calendário Vacinal
 As vacinas são seguras e estimulam o sistema imunológico a proteger a pessoa contra doenças transmissíveis. Quando adotada como estratégia de saúde pública, elas são consideradas um dos melhores investimentos em saúde em relação ao custobenefício. O Programa Nacional de Imunizações do Brasil é um dos maiores do mundo, ofertando diferentes imunobiológicos para toda a população em diversas faixas etárias. Conforme as indicações do Calendário Nacional de Vacinação do Adulto e Idoso, na faixa etária entre 20 e 29 anos, a vacina a ser tomada é:
 
@@ -221,17 +210,16 @@ As vacinas são seguras e estimulam o sistema imunológico a proteger a pessoa c
   [C] poliomielite – uma dose
   [D] varicela – duas doses 360 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: A
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [A] ('tríplice viral – duas doses') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'tríplice viral – duas doses...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'tríplice viral – uma dose...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'poliomielite – uma dose...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'varicela – duas doses 360 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 13 [Código: EF0368] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 13 [Código: EF0365] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Imunização , Calendário Vacinal
 A vacinação é a melhor maneira de se proteger. As vacinas recomendadas durante a gravidez ajudam a proteger a mãe e seu bebê contra doenças imunopreveníveis. A vacina recomendada para a 20.ª semana de gestação e no puerpério até 45 dias é a:
 
@@ -241,18 +229,17 @@ A vacinação é a melhor maneira de se proteger. As vacinas recomendadas durant
   [D] HB - recombinante
   [E] HPV - recombinante 369 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: B
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [B] ('dTpa - acelular') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'dTpa - acelular...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'VFA - atenuada...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'HB - recombinante...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa E: Incorreta perante os protocolos técnicos, pois 'HPV - recombinante 369 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 14 [Código: EF0369] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 14 [Código: EF0366] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Imunização , Política Nacional de Imunização
 Eventos Supostamente Atribuíveis à Vacinação ou Imunização (ESAVI) são qualquer ocorrência médica indesejada após a vacinação, não possuindo necessariamente uma relação causal com o uso de uma vacina ou outro imunobiológico (imunoglobulinas e soros heterólogos). Para o registro de informações, o formulário de notificação/investigação e encerramento de casos de ESAVI deverá ser preenchido corretamente. O sistema de informação utilizado pelo Programa Nacional de Imunizações para o monitoramento de eventos pós-vacinação é o:
 
@@ -262,18 +249,17 @@ Eventos Supostamente Atribuíveis à Vacinação ou Imunização (ESAVI) são qu
   [D] e-SUS Informa
   [E] e-SUS Vacinação 370 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: C
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [C] ('e-SUS Notifica') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'e-SUS ESAVI...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'e-SUS Notifica...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'e-SUS Informa...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa E: Incorreta perante os protocolos técnicos, pois 'e-SUS Vacinação 370 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 15 [Código: EF0401] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 15 [Código: EF0396] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Imunização , Epidemiologia e Vigilância Epidemiológica
 O Brasil é o primeiro país do mundo a oferecer o imunizante, no sistema público de saúde, para certa doença. A doença à qual essa afirmativa se refere é a:
 
@@ -283,18 +269,17 @@ O Brasil é o primeiro país do mundo a oferecer o imunizante, no sistema públi
   [D] poliomielite
   [E] sarampo
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: B
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [B] ('dengue') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'tuberculose...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'poliomielite...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa E: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
 
 ------------------------------------------------------------
 
-QUESTÃO 16 [Código: EF0410] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 16 [Código: EF0403] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
 Assunto: Imunização , Calendário Vacinal
 A vacinação é a melhor maneira de proteger a criança contra doenças imunopreveníveis. Aos 12 meses de idade, segundo o calendário nacional de vacinação, do Ministério da Saúde, a criança deve tomar diversas vacinas. A vacina que a criança deve tomar de primeira dose é a:
 
@@ -303,17 +288,16 @@ A vacinação é a melhor maneira de proteger a criança contra doenças imunopr
   [C] meningocócica C
   [D] pneumocócica 10- valente 411 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: B
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [B] ('tríplice viral') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'tetra viral...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'tríplice viral...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'meningocócica C...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'pneumocócica 10- valente 411 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 17 [Código: EF0448] - Prefeitura de Água Boa - MT (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 17 [Código: EF0441] - Prefeitura de Água Boa - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Imunização
 Enfermagem A imunização que ocorre quando o próprio sistema imune do indivíduo, ao entrar em contato com uma substância estranha ao organismo (antígeno), responde produzindo anticorpos e células imunes (linfócitos T) é a:
 
@@ -322,17 +306,16 @@ Enfermagem A imunização que ocorre quando o próprio sistema imune do indivíd
   [C] passiva
   [D] adquirida
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: A
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [A] ('ativa') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
 
 ------------------------------------------------------------
 
-QUESTÃO 18 [Código: EF0453] - Prefeitura de Água Boa - MT (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 18 [Código: EF0446] - Prefeitura de Água Boa - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Imunização , Calendário Vacinal
 Enfermagem A vacina que é administrada em qualquer tempo da idade adulta; em dose única, caso a pessoa não tenha recebido nenhuma dose até os 5 anos; ou como reforço, caso a pessoa tenha recebido uma dose da vacina antes de completar 5 anos de idade, é a:
 
@@ -341,17 +324,16 @@ Enfermagem A vacina que é administrada em qualquer tempo da idade adulta; em do
   [C] febre amarela
   [D] Papilomavírus humano (HPV)
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: C
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [C] ('febre amarela') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'febre amarela...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Papilomavírus humano (HPV)...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 19 [Código: EF0483] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 19 [Código: EF0476] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Imunização , Calendário Vacinal
 Enfermagem A vacinação é a melhor maneira de proteger a criança contra doenças imunopreveníveis. O Calendário Nacional de Vacinação contém informações importantes. As vacinas disponibilizadas no Sistema Único de Saúde (SUS) são seguras e de vital importância para a proteção contra algumas doenças graves e muitas vezes fatais. A vacina que consta no Calendário Nacional de Vacinação com idade recomendada entre 9 e 10 anos é a:
 
@@ -360,17 +342,16 @@ Enfermagem A vacinação é a melhor maneira de proteger a criança contra doen�
   [C] Febre amarela
   [D] Papilomavírus Humano
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: D
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [D] ('Papilomavírus Humano') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Febre amarela...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Papilomavírus Humano...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 20 [Código: EF0527] - Prefeitura de Dourados - MS (SELECON 2024) - Enfermeiro
+QUESTÃO 20 [Código: EF0519] - Prefeitura de Dourados - MS (SELECON 2024) - Enfermeiro
 Assunto: Imunização , Administração de medicamentos
 A vacina de poliomielite 1, 2 e 3 (inativada) deve ser administrada em 3 (três) doses, aos 2 (dois), 4 (quatro) e 6 (seis) meses de idade, com intervalo de 60 dias entre as doses. O volume da dose e a via de administração são:
 
@@ -379,17 +360,16 @@ A vacina de poliomielite 1, 2 e 3 (inativada) deve ser administrada em 3 (três)
   [C] 0,5 mL, via intramuscular
   [D] 0,7 mL, via intramuscular
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: C
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [C] ('0,5 mL, via intramuscular') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois '1 ml, via subcutânea...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois '0,2 mL, via intradérmica...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois '0,5 mL, via intramuscular...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois '0,7 mL, via intramuscular...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 21 [Código: EF0528] - Prefeitura de Dourados - MS (SELECON 2023) - Enfermeiro
+QUESTÃO 21 [Código: EF0520] - Prefeitura de Dourados - MS (SELECON 2023) - Enfermeiro
 Assunto: Imunização , Saúde da Mulher
 É importante fortalecer a vacinação de acordo com o Programa Nacional de Imunização (PNI). Para as gestantes, o esquema básico de proteção contra Hepatite B é:
 
@@ -398,17 +378,16 @@ Assunto: Imunização , Saúde da Mulher
   [C] 3 doses (completar o esquema, de acordo com a situação vacinal e com a idade gestacional)
   [D] 1 dose (iniciar ou completar o esquema, de acordo com a situação vacinal e com a idade gestacional) 529 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: A
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [A] ('3 doses (iniciar ou completar o esquema, de acordo com a situação vacinal, independentemente da idade gestacional)') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois '3 doses (iniciar ou completar o esquema, de acordo com a situação vacinal, independen...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois '4 doses (iniciar ou completar o esquema, de acordo com a situação vacinal, independen...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois '3 doses (completar o esquema, de acordo com a situação vacinal e com a idade gestacio...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois '1 dose (iniciar ou completar o esquema, de acordo com a situação vacinal e com a idad...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 22 [Código: EF0557] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Técnico de Enfermagem
+QUESTÃO 22 [Código: EF0549] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Técnico de Enfermagem
 Assunto: Imunização , Calendário Vacinal
 Pública - MT - Técnico em Enfermagem A técnica de enfermagem Cíntia realiza o atendimento do paciente Carlos de 12 meses de idade, acompanhado do pai. Ao checar a caderneta vacinal, observa que todas as vacinas e doses estão atualizadas. Sendo assim, foi recomendado o seguinte esquema aos 12 meses de idade:
 
@@ -417,17 +396,16 @@ Pública - MT - Técnico em Enfermagem A técnica de enfermagem Cíntia realiza 
   [C] Poliomielite Inativada (VIP) – 3ª dose; Pentavalente (DTP+Hib+Hep.B) – reforço; Papilomavírus Humano (HPV) – Dose única
   [D] Pneumocócica 10-valente (conjugada) – 1ª dose; Oral contra Rotavírus Humano (VORH) – reforço; Tríplice Viral (SCR) com Varicela – 3ª dose
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: A
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [A] ('Tríplice viral (SCR) – dose única; Meningocócica C – reforço; Pneumocócica 10-valente – reforço') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'Tríplice viral (SCR) – dose única; Meningocócica C – reforço; Pneumocócica 10-valente...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'Poliomielite Inativada (VIP) – 3ª dose; Pentavalente (DTP+Hib+Hep.B) – reforço; Febre...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Poliomielite Inativada (VIP) – 3ª dose; Pentavalente (DTP+Hib+Hep.B) – reforço; Papil...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Pneumocócica 10-valente (conjugada) – 1ª dose; Oral contra Rotavírus Humano (VORH) – ...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 23 [Código: EF0569] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 23 [Código: EF0561] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Enfermeiro
 Assunto: Imunização , Política Nacional de Imunização , Calendário Vacinal
 Pública - MT - Enfermeiro Assistencial As vacinas são seguras e estimulam o sistema imunológico a proteger a pessoa contra doenças transmissíveis. Quando adotada como estratégia de saúde pública, elas são consideradas um dos melhores investimentos em saúde, considerando o custobenefício. A vacina adsorvida difteria, tétano, pertussis, hepatite B (recombinante) e Haemophilus influenzae B (conjugada) – Vacina Penta – tem o esquema de:
 
@@ -436,17 +414,16 @@ Pública - MT - Enfermeiro Assistencial As vacinas são seguras e estimulam o si
   [C] 3 doses e 2 reforços
   [D] 3 doses e 2 reforços 570 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: C
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [C] ('3 doses e 2 reforços') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois '2 doses e 2 reforços...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois '2 doses e 1 reforço...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois '3 doses e 2 reforços...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois '3 doses e 2 reforços 570 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 24 [Código: EF0595] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 24 [Código: EF0587] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
 Assunto: Imunização , Política Nacional de Imunização , Calendário Vacinal
 MT - Enfermeiro Intervencionista - SAMU A vacina intitulada SCRV (tetra viral), aplicada aos 15 meses (dose única), tem como objetivo evitar as seguintes doenças:
 
@@ -455,17 +432,16 @@ MT - Enfermeiro Intervencionista - SAMU A vacina intitulada SCRV (tetra viral), 
   [C] sarampo, caxumba, rubéola e varicela
   [D] difteria, tuberculose, sarampo e coqueluche 596 Ano: 2023 Enfermagem > Doenças Respiratórias , Hipertensão Arterial Sistêmica , Diabetes Mellitus Doenças Crônicas Não Transmissíveis Banca: SELECON Órgão: Prefeitura de Primavera do Leste - MT Prova: SELECON - 2023 - Prefeitura de Primavera do Leste -
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: C
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [C] ('sarampo, caxumba, rubéola e varicela') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'difteria, tétano, coqueluche, hepatite B, meningite e outras infecções causadas pelo ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'doenças invasivas causadas por Neisseria meningitidis do sorogrupo C...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'sarampo, caxumba, rubéola e varicela...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'difteria, tuberculose, sarampo e coqueluche 596 Ano: 2023 Enfermagem > Doenças Respir...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 25 [Código: EF0628] - Prefeitura de Campo Verde - MT (SELECON 2023) - Técnico de Enfermagem
+QUESTÃO 25 [Código: EF0620] - Prefeitura de Campo Verde - MT (SELECON 2023) - Técnico de Enfermagem
 Assunto: Imunização , Política Nacional de Imunização , Calendário Vacinal
 em Enfermagem A vacina pentavalente (DTP + HB + Hib), administrada no recém-nascido aos 2, 4 e 6 meses de vida, é aplicada para evitar doenças como:
 
@@ -474,17 +450,16 @@ em Enfermagem A vacina pentavalente (DTP + HB + Hib), administrada no recém-nas
   [C] sífilis congênita, otite média, difteria, tétano e hepatite
   [D] sarampo, caxumba, tuberculose, coqueluche e rubéola
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: B
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [B] ('difteria, tétano, coqueluche, hepatite B, meningite e outras infecções causadas pelo Haemophilus influenzae tipo b') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'poliomielite, tétano e otite média aguda causada por Streptococcus pneumoniae sorotip...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'difteria, tétano, coqueluche, hepatite B, meningite e outras infecções causadas pelo ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'sífilis congênita, otite média, difteria, tétano e hepatite...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'sarampo, caxumba, tuberculose, coqueluche e rubéola...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 26 [Código: EF0635] - Prefeitura de Campo Verde - MT (SELECON 2023) - Técnico de Enfermagem
+QUESTÃO 26 [Código: EF0627] - Prefeitura de Campo Verde - MT (SELECON 2023) - Técnico de Enfermagem
 Assunto: Imunização
 em Enfermagem Segundo a Organização Mundial de Saúde (OMS), o Programa Nacional de Imunização (PNI) brasileiro é uma referência mundial. Portanto, os profissionais de saúde devem conhecer o PNI e as suas recomendações. A vacina Pneumocócica 10valente previne as seguintes doenças:
 
@@ -493,17 +468,16 @@ em Enfermagem Segundo a Organização Mundial de Saúde (OMS), o Programa Nacion
   [C] sarampo, caxumba, rubéola e varicela
   [D] difteria, tétano, coqueluche e dengue 636 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: A
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [A] ('pneumonia, otite, meningite e outras doenças causadas pelo pneumococo') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'pneumonia, otite, meningite e outras doenças causadas pelo pneumococo...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'hepatite B, tuberculose, sarampo e varicela...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'sarampo, caxumba, rubéola e varicela...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'difteria, tétano, coqueluche e dengue 636 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 27 [Código: EF0654] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 27 [Código: EF0646] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Enfermeiro
 Assunto: Imunização , Calendário Vacinal
 A vacina BCG deve ser administrada em dose única, o mais precocemente possível, de preferência na maternidade, logo após o nascimento. Segundo a instrução normativa referente ao calendário nacional de vacinação publicada em 2022, para as crianças vacinadas na faixa etária preconizada que não apresentam cicatriz vacinal, a recomendação é:
 
@@ -512,17 +486,16 @@ A vacina BCG deve ser administrada em dose única, o mais precocemente possível
   [C] não será necessário revacinar
   [D] revacinar imediatamente 655 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: C
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [C] ('não será necessário revacinar') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'revacinar após 30 dias da primeira dose...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'revacinar após 60 dias da primeira dose...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'não será necessário revacinar...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'revacinar imediatamente 655 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 28 [Código: EF0688] - CLIN (SELECON 2022) - Enfermeiro
+QUESTÃO 28 [Código: EF0680] - CLIN (SELECON 2022) - Enfermeiro
 Assunto: Imunização , Calendário Vacinal
 A vacina de febre amarela (atenuada), no calendário para o adulto e o idoso, possui como esquema básico:
 
@@ -531,17 +504,16 @@ A vacina de febre amarela (atenuada), no calendário para o adulto e o idoso, po
   [C] duas doses para pessoas que nunca foram vacinadas ou sem comprovante de vacinação com idade até 65 anos
   [D] dose única para pessoas que nunca foram vacinadas ou sem comprovante de vacinação com idade até 59 anos 689 Ano: 2022
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: D
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [D] ('dose única para pessoas que nunca foram vacinadas ou sem comprovante de vacinação com idade até 59 anos 689 Ano: 2022') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'dose única para pessoas que nunca foram vacinadas ou sem comprovante de vacinação com...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'duas doses para pessoas que já foram vacinadas na infância, sendo a última dose a ser...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'duas doses para pessoas que nunca foram vacinadas ou sem comprovante de vacinação com...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'dose única para pessoas que nunca foram vacinadas ou sem comprovante de vacinação com...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 29 [Código: EF0777] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+QUESTÃO 29 [Código: EF0769] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
 Assunto: Imunização , Calendário Vacinal
 ESF De acordo com o calendário de vacinação, uma criança com 15 meses de idade, deverá receber as seguintes vacinas:
 
@@ -550,17 +522,16 @@ ESF De acordo com o calendário de vacinação, uma criança com 15 meses de ida
   [C] VIP (vacina oral poliomielite) 1º reforço; vacina hepatite A com dose única; DTP (tríplice bacteriana) 1º reforço e SCRV (tetraviral) com dose única
   [D] VOP (vacina oral poliomielite) 1º reforço; vacina hepatite A com dose única; DTP (tríplice bacteriana) 1º reforço e SCRV (tetraviral) com dose única 778 Ano: 2020
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: D
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [D] ('VOP (vacina oral poliomielite) 1º reforço; vacina hepatite A com dose única; DTP (tríplice bacteriana) 1º reforço e SCRV (tetraviral) com dose única 778 Ano: 2020') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'VOP (vacina oral poliomielite) 1º reforço; vacina varicela com dose única; DTP (trípl...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'VIP (vacina oral poliomielite) 1º reforço; vacina hepatite A com dose única; DTP (trí...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'VIP (vacina oral poliomielite) 1º reforço; vacina hepatite A com dose única; DTP (trí...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'VOP (vacina oral poliomielite) 1º reforço; vacina hepatite A com dose única; DTP (trí...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 30 [Código: EF0816] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+QUESTÃO 30 [Código: EF0808] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
 Assunto: Imunização , Calendário Vacinal
 Sobre a vacina pneumocócica 10 valente, é correto afirmar que sua ação é contra doenças invasivas e otite média aguda causadas por diversos sorotipos de:
 
@@ -569,17 +540,16 @@ Sobre a vacina pneumocócica 10 valente, é correto afirmar que sua ação é co
   [C] Staphylococcus aureus
   [D] Klebsiella pneumoniae 817 Ano: 2020
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: A
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [A] ('Streptococcus pneumoniae') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'Streptococcus pneumoniae...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'Acinetobacter baumannii...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Staphylococcus aureus...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Klebsiella pneumoniae 817 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 31 [Código: EF0817] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+QUESTÃO 31 [Código: EF0809] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
 Assunto: Imunização , Calendário Vacinal
 De acordo com o calendário nacional de imunização, o objetivo da vacina dTpa é proteger:
 
@@ -588,17 +558,16 @@ De acordo com o calendário nacional de imunização, o objetivo da vacina dTpa 
   [C] a criança contra a coqueluche
   [D] a criança contra a sífilis materna 818 Ano: 2020
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: C
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [C] ('a criança contra a coqueluche') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'a criança contra a tuberculose...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'a mãe contra a toxoplasmose...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a criança contra a coqueluche...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'a criança contra a sífilis materna 818 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 32 [Código: EF0819] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+QUESTÃO 32 [Código: EF0811] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
 Assunto: Imunização
 Sobre o esquema de vacinação da raiva humana pós-exposição, é correto afirmar que foi alterado:
 
@@ -607,17 +576,16 @@ Sobre o esquema de vacinação da raiva humana pós-exposição, é correto afir
   [C] de 4 para 5 doses
   [D] de 4 para 3 doses 820 Ano: 2020
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: B
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [B] ('de 5 para 4 doses') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'de 6 para 7 doses...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'de 5 para 4 doses...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'de 4 para 5 doses...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'de 4 para 3 doses 820 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 33 [Código: EF0831] - Prefeitura de Campo Grande - MS (SELECON 2019) - Enfermeiro
+QUESTÃO 33 [Código: EF0823] - Prefeitura de Campo Grande - MS (SELECON 2019) - Enfermeiro
 Assunto: Imunização
 Os imunobiológicos são produtos termolábeis, necessitam de equipamentos de refrigeração para manutenção da temperatura adequada e constante. Entre os principais equipamentos e instrumentos previstos na cadeia de frio de imunobiológicos, relacionam-se alguns equipamentos como:
 
@@ -626,17 +594,16 @@ Os imunobiológicos são produtos termolábeis, necessitam de equipamentos de re
   [C] câmaras refrigeradas que operam na faixa entre -2ºC e +8ºC, caixas térmicas utilizadas para transporte em atividades de rotina e campanhas, freezers utilizados para o armazenamento de vacinas em temperaturas negativas e de bobinas reutilizáveis e dispensa o uso de instrumentos para medição de temperatura
   [D] câmaras refrigeradas que operam na faixa entre -2°C e -8ºC, caixas térmicas utilizadas para transporte em atividades de rotina e campanhas, freezers utilizados para o armazenamento de vacinas e seringas em temperaturas negativas e de bobinas reutilizáveis, além de instrumentos para medição de temperatura digital 832 Ano: 2019
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: A
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [A] ('câmaras refrigeradas que operam na faixa entre +2ºC e +8ºC, caixas térmicas utilizadas para transporte em atividades de rotina e campanhas, freezers utilizados para o armazenamento de vacinas em temperaturas negativas e de bobinas reutilizáveis e instrumentos para medição de temperatura') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'câmaras refrigeradas que operam na faixa entre +2ºC e +8ºC, caixas térmicas utilizada...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'câmaras refrigeradas que operam na faixa entre -1 0 ºC e +8ºC, caixas térmicas utiliz...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'câmaras refrigeradas que operam na faixa entre -2ºC e +8ºC, caixas térmicas utilizada...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'câmaras refrigeradas que operam na faixa entre -2°C e -8ºC, caixas térmicas utilizada...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 34 [Código: EF0853] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
+QUESTÃO 34 [Código: EF0845] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
 Assunto: Imunização , Política Nacional de Imunização
 A vacina BCG (bacilo de Calmette e Guérin) é apresentada sob a forma liofilizada em ampola multidose, acompanhada da ampola do diluente específico para a vacina. A vacina é preparada com bacilos vivos sendo indicada para prevenir as formas graves da tuberculose (miliar e meníngea). Sobre os cuidados com a vacina da BCG, é correto afirmar:
 
@@ -645,11 +612,10 @@ A vacina BCG (bacilo de Calmette e Guérin) é apresentada sob a forma liofiliza
   [C] O esquema de vacinação com a vacina BCG corresponde a seis doses e preferencialmente nas primeiras 12 horas após o nascimento, ainda na maternidade.
   [D] Crianças com idades entre 6 meses e 8 anos, 11 meses e 29 dias, vacinadas, somente podem receber a segunda dose da vacina BCG após sorologia positiva para HIV; para estes indivíduos, a revacinação é contraindicada. 854 Ano: 2019
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: B
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [B] ('A vacina é conservada entre +2ºC e +8ºC (sendo ideal +5ºC), não podendo ser congelada. O congelamento provoca a perda de potência e/ou forma agregados e/ou aumenta o risco de eventos adversos.') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'A administração da vacina BCG deve ser adiada quando a criança apresentar peso inferi...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'A vacina é conservada entre +2ºC e +8ºC (sendo ideal +5ºC), não podendo ser congelada...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'O esquema de vacinação com a vacina BCG corresponde a seis doses e preferencialmente ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Crianças com idades entre 6 meses e 8 anos, 11 meses e 29 dias, vacinadas, somente po...' não atende às diretrizes oficiais do Ministério da Saúde.
 

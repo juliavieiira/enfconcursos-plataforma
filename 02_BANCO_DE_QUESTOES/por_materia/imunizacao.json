@@ -1,6 +1,7 @@
 [
   {
     "codigo_origem": "Q4317372",
+    "numero_original": 47,
     "banca": "SELECON",
     "orgao": "Prefeitura de Barra do Garças - MT",
     "ano": 2026,
@@ -27,10 +28,10 @@
         "texto": "aplicar inicialmente a vacina de febre amarela e reiniciar posteriormente o esquema da tríplice viral"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0047",
     "numero_ordem": 47,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [C] ('administrar uma das vacinas e programar a outra, preferencialmente, após 30 dias') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -41,10 +42,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'administrar as duas vacinas simultaneamente em sítios distintos...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'administrar uma das vacinas e programar a outra, preferencialmente, após 30 dias...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'aplicar inicialmente a vacina de febre amarela e reiniciar posteriormente o esquema d...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -53,6 +50,7 @@
   },
   {
     "codigo_origem": "Q3981926",
+    "numero_original": 71,
     "banca": "SELECON",
     "orgao": "EMGEPRON",
     "ano": 2026,
@@ -79,18 +77,14 @@
         "texto": "vacina dTpa substitui todas as doses de vacina contra difteria e tétano previamente recebidas pela gestante"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0071",
     "numero_ordem": 71,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [B] ('vacinação com dTpa no pré-natal tem como objetivo principal proteger o recém-nascido contra a coqueluche nos primeiros meses de vida') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'vacina dTpa é indicada apenas para gestantes que não receberam esquema vacinal c...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'vacinação com dTpa no pré-natal tem como objetivo principal proteger o recém-nascido ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -105,6 +99,7 @@
   },
   {
     "codigo_origem": "Q3974327",
+    "numero_original": 105,
     "banca": "SELECON",
     "orgao": "EMGEPRON",
     "ano": 2026,
@@ -131,10 +126,10 @@
         "texto": "suspender o uso dos imunobiológicos expostos, identificá-los e mantê-los sob temperatura adequada, registrar formalmente o desvio e comunicar à instância superior, aguardando orientação técnica quanto ao aproveitamento ou descarte 106 Ano: 2026"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "D",
     "id": "EF0105",
     "numero_ordem": 105,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [D] ('suspender o uso dos imunobiológicos expostos, identificá-los e mantê-los sob temperatura adequada, registrar formalmente o desvio e comunicar à instância superior, aguardando orientação técnica quanto ao aproveitamento ou descarte 106 Ano: 2026') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -147,16 +142,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'avaliar o tipo de imunobiológico, registrando o ocorrido e mantendo sob refrigeração ...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'suspender o uso dos imunobiológicos expostos, identificá-los e mantê-los sob temperat...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativ..."
   },
   {
     "codigo_origem": "Q3810634",
+    "numero_original": 143,
     "banca": "SELECON",
     "orgao": "Prefeitura de Barra do Garças - MT",
     "ano": 2025,
@@ -183,15 +175,11 @@
         "texto": "adultos saudáveis acima de 20 anos 144 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "A",
     "id": "EF0143",
     "numero_ordem": 143,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [A] ('grupos, como gestantes, puérperas e imunodeprimidos') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'grupos, como gestantes, puérperas e imunodeprimidos...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'apenas crianças menores de cinco anos...'."
@@ -209,6 +197,7 @@
   },
   {
     "codigo_origem": "Q3802714",
+    "numero_original": 156,
     "banca": "SELECON",
     "orgao": "Prefeitura de Barra do Garças - MT",
     "ano": 2025,
@@ -235,10 +224,10 @@
         "texto": "reacondicionar a vacina na temperatura correta e utilizá-la em pacientes de baixo risco, pois a perda de potência não é total 157 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0156",
     "numero_ordem": 156,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [C] ('isolar a vacina, identificar o período e a temperatura de exposição, consultar o manual da Rede de Frio ou o fabricante para avaliar a viabilidade de uso, e documentar detalhadamente o ocorrido') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -249,10 +238,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'descartar a vacina imediatamente, sem qualquer análise, para evitar riscos à saúde pú...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'isolar a vacina, identificar o período e a temperatura de exposição, consultar o manu...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'reacondicionar a vacina na temperatura correta e utilizá-la em pacientes de baixo ris...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -261,6 +246,7 @@
   },
   {
     "codigo_origem": "Q3802701",
+    "numero_original": 165,
     "banca": "SELECON",
     "orgao": "Prefeitura de Barra do Garças - MT",
     "ano": 2025,
@@ -287,15 +273,11 @@
         "texto": "contato recente com pessoa imunodeprimida 166 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "A",
     "id": "EF0165",
     "numero_ordem": 165,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [A] ('uso de corticosteroides em dose imunossupressora por tempo prolongado') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'uso de corticosteroides em dose imunossupressora por tempo prolongado...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'história prévia de reação alérgica grave a ovo, desde que a reação não tenha sido ana...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -313,6 +295,7 @@
   },
   {
     "codigo_origem": "Q3742296",
+    "numero_original": 195,
     "banca": "SELECON",
     "orgao": "Prefeitura de Marcelândia - MT",
     "ano": 2025,
@@ -339,10 +322,10 @@
         "texto": "administrar apenas a dose seguinte, respeitando o intervalo mínimo entre as doses e atualizando o esquema vacinal 196 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "D",
     "id": "EF0195",
     "numero_ordem": 195,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [D] ('administrar apenas a dose seguinte, respeitando o intervalo mínimo entre as doses e atualizando o esquema vacinal 196 Ano: 2025') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -355,16 +338,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'reiniciar todo o esquema vacinal, desconsiderando as doses anteriores...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'administrar apenas a dose seguinte, respeitando o intervalo mínimo entre as dose...'."
       }
     ],
     "comentario": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativ..."
   },
   {
     "codigo_origem": "Q3615481",
+    "numero_original": 220,
     "banca": "SELECON",
     "orgao": "Prefeitura de Tapurah - MT",
     "ano": 2025,
@@ -391,10 +371,10 @@
         "texto": "guardar o frasco apenas se estiver completamente cheio, pois após violado deve ser descartado"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0220",
     "numero_ordem": 220,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [C] ('armazenar o frasco por até 28 dias, se mantido entre 2 °C e 8 °C e respeitadas as condições assépticas') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -405,10 +385,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'utilizar o frasco até acabar, independentemente da data de abertura...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'armazenar o frasco por até 28 dias, se mantido entre 2 °C e 8 °C e respeitadas as con...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'guardar o frasco apenas se estiver completamente cheio, pois após violado deve s...'."
       }
@@ -417,6 +393,7 @@
   },
   {
     "codigo_origem": "Q3199744",
+    "numero_original": 291,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sinop - MT",
     "ano": 2025,
@@ -443,18 +420,14 @@
         "texto": "apesar do sucesso na introdução de novas vacinas, o PNI teve um efeito limitado na redução das desigualdades sociais, pois as campanhas de imunização não estavam adequadamente adaptadas às necessidades específicas das populações marginalizadas, como as comunidades quilombolas e as populações indígenas"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0291",
-    "numero_ordem": 291,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "resposta_correta": "B",
+    "id": "EF0290",
+    "numero_ordem": 290,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [B] ('o PNI foi decisivo na diminuição das desigualdades sociais, pois garantiu o acesso universal à vacinação, incluindo populações indígenas, rurais e periféricas, sendo crucial para a proteção da saúde pública em áreas de maior vulnerabilidade') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'a adoção de vacinas de difícil acesso e de alto custo pelo PNI restringiu a ampliação...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'o PNI foi decisivo na diminuição das desigualdades sociais, pois garantiu o acesso un...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -469,6 +442,7 @@
   },
   {
     "codigo_origem": "Q3197469",
+    "numero_original": 316,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sinop - MT",
     "ano": 2025,
@@ -495,18 +469,14 @@
         "texto": "tem como princípio a vacinação seletiva, oferecendo vacinas apenas a indivíduos em situações de risco, como gestantes e pessoas com doenças crônicas, sem incluir a imunização de crianças ou adultos saudáveis 317 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0316",
-    "numero_ordem": 316,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "resposta_correta": "B",
+    "id": "EF0315",
+    "numero_ordem": 315,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [B] ('adota a vacinação como um direito da população, com foco na promoção da equidade, garantindo acesso universal e gratuito às vacinas, independentemente da classe social ou localização geográfica') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'prioriza a vacinação de grupos específicos, como crianças e idosos, sem a necessidade...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'adota a vacinação como um direito da população, com foco na promoção da equidade, gar...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -521,6 +491,7 @@
   },
   {
     "codigo_origem": "Q2528688",
+    "numero_original": 340,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -551,10 +522,10 @@
         "texto": "meningite"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0340",
-    "numero_ordem": 340,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "resposta_correta": "D",
+    "id": "EF0339",
+    "numero_ordem": 339,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [D] ('rubéola') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -569,10 +540,6 @@
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
-        "letra": "D",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
         "letra": "E",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       }
@@ -581,6 +548,7 @@
   },
   {
     "codigo_origem": "Q2496162",
+    "numero_original": 359,
     "banca": "SELECON",
     "orgao": "COREN-RR",
     "ano": 2024,
@@ -607,15 +575,11 @@
         "texto": "varicela – duas doses 360 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0359",
-    "numero_ordem": 359,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "resposta_correta": "A",
+    "id": "EF0357",
+    "numero_ordem": 357,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [A] ('tríplice viral – duas doses') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'tríplice viral – duas doses...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'tríplice viral – uma dose...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -633,6 +597,7 @@
   },
   {
     "codigo_origem": "Q2480409",
+    "numero_original": 368,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -663,18 +628,14 @@
         "texto": "HPV - recombinante 369 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0368",
-    "numero_ordem": 368,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "resposta_correta": "B",
+    "id": "EF0365",
+    "numero_ordem": 365,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [B] ('dTpa - acelular') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'dTpa - acelular...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -693,6 +654,7 @@
   },
   {
     "codigo_origem": "Q2480408",
+    "numero_original": 369,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -723,10 +685,10 @@
         "texto": "e-SUS Vacinação 370 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0369",
-    "numero_ordem": 369,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "resposta_correta": "C",
+    "id": "EF0366",
+    "numero_ordem": 366,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [C] ('e-SUS Notifica') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -735,10 +697,6 @@
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'e-SUS ESAVI...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'e-SUS Notifica...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
@@ -753,6 +711,7 @@
   },
   {
     "codigo_origem": "Q2480376",
+    "numero_original": 401,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -783,17 +742,13 @@
         "texto": "sarampo"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0401",
-    "numero_ordem": 401,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "resposta_correta": "B",
+    "id": "EF0396",
+    "numero_ordem": 396,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [B] ('dengue') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "B",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
@@ -813,6 +768,7 @@
   },
   {
     "codigo_origem": "Q2477218",
+    "numero_original": 410,
     "banca": "SELECON",
     "orgao": "Prefeitura de Água Boa - MT",
     "ano": 2024,
@@ -839,18 +795,14 @@
         "texto": "pneumocócica 10- valente 411 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0410",
-    "numero_ordem": 410,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "resposta_correta": "B",
+    "id": "EF0403",
+    "numero_ordem": 403,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [B] ('tríplice viral') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'tetra viral...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'tríplice viral...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -865,6 +817,7 @@
   },
   {
     "codigo_origem": "Q2467603",
+    "numero_original": 448,
     "banca": "SELECON",
     "orgao": "Prefeitura de Água Boa - MT",
     "ano": 2024,
@@ -891,15 +844,11 @@
         "texto": "adquirida"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0448",
-    "numero_ordem": 448,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "resposta_correta": "A",
+    "id": "EF0441",
+    "numero_ordem": 441,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [A] ('ativa') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
@@ -917,6 +866,7 @@
   },
   {
     "codigo_origem": "Q2467598",
+    "numero_original": 453,
     "banca": "SELECON",
     "orgao": "Prefeitura de Água Boa - MT",
     "ano": 2024,
@@ -943,10 +893,10 @@
         "texto": "Papilomavírus humano (HPV)"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0453",
-    "numero_ordem": 453,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "resposta_correta": "C",
+    "id": "EF0446",
+    "numero_ordem": 446,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [C] ('febre amarela') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -957,10 +907,6 @@
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'febre amarela...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'Papilomavírus humano (HPV)...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -969,6 +915,7 @@
   },
   {
     "codigo_origem": "Q2454931",
+    "numero_original": 483,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sapezal - MT",
     "ano": 2024,
@@ -995,10 +942,10 @@
         "texto": "Papilomavírus Humano"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0483",
-    "numero_ordem": 483,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "resposta_correta": "D",
+    "id": "EF0476",
+    "numero_ordem": 476,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [D] ('Papilomavírus Humano') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1011,16 +958,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'Febre amarela...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'Papilomavírus Humano...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativ..."
   },
   {
     "codigo_origem": "Q3674522",
+    "numero_original": 527,
     "banca": "SELECON",
     "orgao": "Prefeitura de Dourados - MS",
     "ano": 2024,
@@ -1047,10 +991,10 @@
         "texto": "0,7 mL, via intramuscular"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0527",
-    "numero_ordem": 527,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "resposta_correta": "C",
+    "id": "EF0519",
+    "numero_ordem": 519,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [C] ('0,5 mL, via intramuscular') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1061,10 +1005,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois '0,2 mL, via intradérmica...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois '0,5 mL, via intramuscular...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois '0,7 mL, via intramuscular...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -1073,6 +1013,7 @@
   },
   {
     "codigo_origem": "Q3674521",
+    "numero_original": 528,
     "banca": "SELECON",
     "orgao": "Prefeitura de Dourados - MS",
     "ano": 2023,
@@ -1099,15 +1040,11 @@
         "texto": "1 dose (iniciar ou completar o esquema, de acordo com a situação vacinal e com a idade gestacional) 529 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0528",
-    "numero_ordem": 528,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "resposta_correta": "A",
+    "id": "EF0520",
+    "numero_ordem": 520,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [A] ('3 doses (iniciar ou completar o esquema, de acordo com a situação vacinal, independentemente da idade gestacional)') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois '3 doses (iniciar ou completar o esquema, de acordo com a situação vacinal, independen...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois '4 doses (iniciar ou completar o esquema, de acordo com a situação vacinal, independen...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -1125,6 +1062,7 @@
   },
   {
     "codigo_origem": "Q2342288",
+    "numero_original": 557,
     "banca": "SELECON",
     "orgao": "Empresa Cuiabana de Saúde Pública - MT",
     "ano": 2023,
@@ -1151,15 +1089,11 @@
         "texto": "Pneumocócica 10-valente (conjugada) – 1ª dose; Oral contra Rotavírus Humano (VORH) – reforço; Tríplice Viral (SCR) com Varicela – 3ª dose"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0557",
-    "numero_ordem": 557,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "resposta_correta": "A",
+    "id": "EF0549",
+    "numero_ordem": 549,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [A] ('Tríplice viral (SCR) – dose única; Meningocócica C – reforço; Pneumocócica 10-valente – reforço') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'Tríplice viral (SCR) – dose única; Meningocócica C – reforço; Pneumocócica 10-valente...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'Poliomielite Inativada (VIP) – 3ª dose; Pentavalente (DTP+Hib+Hep.B) – reforço; Febre...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -1177,6 +1111,7 @@
   },
   {
     "codigo_origem": "Q2341565",
+    "numero_original": 569,
     "banca": "SELECON",
     "orgao": "Empresa Cuiabana de Saúde Pública - MT",
     "ano": 2023,
@@ -1203,10 +1138,10 @@
         "texto": "3 doses e 2 reforços 570 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0569",
-    "numero_ordem": 569,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "resposta_correta": "C",
+    "id": "EF0561",
+    "numero_ordem": 561,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [C] ('3 doses e 2 reforços') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1217,10 +1152,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois '2 doses e 1 reforço...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois '3 doses e 2 reforços...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois '3 doses e 2 reforços 570 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -1229,6 +1160,7 @@
   },
   {
     "codigo_origem": "Q2325283",
+    "numero_original": 595,
     "banca": "SELECON",
     "orgao": "Prefeitura de Primavera do Leste - MT",
     "ano": 2023,
@@ -1255,10 +1187,10 @@
         "texto": "difteria, tuberculose, sarampo e coqueluche 596 Ano: 2023 Enfermagem > Doenças Respiratórias , Hipertensão Arterial Sistêmica , Diabetes Mellitus Doenças Crônicas Não Transmissíveis Banca: SELECON Órgão: Prefeitura de Primavera do Leste - MT Prova: SELECON - 2023 - Prefeitura de Primavera do Leste -"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0595",
-    "numero_ordem": 595,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "resposta_correta": "C",
+    "id": "EF0587",
+    "numero_ordem": 587,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [C] ('sarampo, caxumba, rubéola e varicela') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1269,10 +1201,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'doenças invasivas causadas por Neisseria meningitidis do sorogrupo C...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'sarampo, caxumba, rubéola e varicela...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'difteria, tuberculose, sarampo e coqueluche 596 Ano: 2023 Enfermagem > Doenças Respir...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -1281,6 +1209,7 @@
   },
   {
     "codigo_origem": "Q2297123",
+    "numero_original": 628,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Verde - MT",
     "ano": 2023,
@@ -1307,18 +1236,14 @@
         "texto": "sarampo, caxumba, tuberculose, coqueluche e rubéola"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0628",
-    "numero_ordem": 628,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "resposta_correta": "B",
+    "id": "EF0620",
+    "numero_ordem": 620,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [B] ('difteria, tétano, coqueluche, hepatite B, meningite e outras infecções causadas pelo Haemophilus influenzae tipo b') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'poliomielite, tétano e otite média aguda causada por Streptococcus pneumoniae sorotip...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'difteria, tétano, coqueluche, hepatite B, meningite e outras infecções causadas pelo ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -1333,6 +1258,7 @@
   },
   {
     "codigo_origem": "Q2297116",
+    "numero_original": 635,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Verde - MT",
     "ano": 2023,
@@ -1359,15 +1285,11 @@
         "texto": "difteria, tétano, coqueluche e dengue 636 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0635",
-    "numero_ordem": 635,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "resposta_correta": "A",
+    "id": "EF0627",
+    "numero_ordem": 627,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [A] ('pneumonia, otite, meningite e outras doenças causadas pelo pneumococo') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'pneumonia, otite, meningite e outras doenças causadas pelo pneumococo...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'hepatite B, tuberculose, sarampo e varicela...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -1385,6 +1307,7 @@
   },
   {
     "codigo_origem": "Q2162339",
+    "numero_original": 654,
     "banca": "SELECON",
     "orgao": "Prefeitura de Nova Mutum - MT",
     "ano": 2023,
@@ -1411,10 +1334,10 @@
         "texto": "revacinar imediatamente 655 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0654",
-    "numero_ordem": 654,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "resposta_correta": "C",
+    "id": "EF0646",
+    "numero_ordem": 646,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [C] ('não será necessário revacinar') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1425,10 +1348,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'revacinar após 60 dias da primeira dose...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'não será necessário revacinar...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'revacinar imediatamente 655 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -1437,6 +1356,7 @@
   },
   {
     "codigo_origem": "Q2024556",
+    "numero_original": 688,
     "banca": "SELECON",
     "orgao": "CLIN",
     "ano": 2022,
@@ -1463,10 +1383,10 @@
         "texto": "dose única para pessoas que nunca foram vacinadas ou sem comprovante de vacinação com idade até 59 anos 689 Ano: 2022"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0688",
-    "numero_ordem": 688,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "resposta_correta": "D",
+    "id": "EF0680",
+    "numero_ordem": 680,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [D] ('dose única para pessoas que nunca foram vacinadas ou sem comprovante de vacinação com idade até 59 anos 689 Ano: 2022') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1479,16 +1399,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'duas doses para pessoas que nunca foram vacinadas ou sem comprovante de vacinação com...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'dose única para pessoas que nunca foram vacinadas ou sem comprovante de vacinação com...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativ..."
   },
   {
     "codigo_origem": "Q1313722",
+    "numero_original": 777,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2020,
@@ -1515,10 +1432,10 @@
         "texto": "VOP (vacina oral poliomielite) 1º reforço; vacina hepatite A com dose única; DTP (tríplice bacteriana) 1º reforço e SCRV (tetraviral) com dose única 778 Ano: 2020"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0777",
-    "numero_ordem": 777,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "resposta_correta": "D",
+    "id": "EF0769",
+    "numero_ordem": 769,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [D] ('VOP (vacina oral poliomielite) 1º reforço; vacina hepatite A com dose única; DTP (tríplice bacteriana) 1º reforço e SCRV (tetraviral) com dose única 778 Ano: 2020') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1531,16 +1448,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'VIP (vacina oral poliomielite) 1º reforço; vacina hepatite A com dose única; DTP (trí...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'VOP (vacina oral poliomielite) 1º reforço; vacina hepatite A com dose única; DTP (trí...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativ..."
   },
   {
     "codigo_origem": "Q1313682",
+    "numero_original": 816,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2020,
@@ -1567,15 +1481,11 @@
         "texto": "Klebsiella pneumoniae 817 Ano: 2020"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0816",
-    "numero_ordem": 816,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "resposta_correta": "A",
+    "id": "EF0808",
+    "numero_ordem": 808,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [A] ('Streptococcus pneumoniae') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'Streptococcus pneumoniae...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'Acinetobacter baumannii...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -1593,6 +1503,7 @@
   },
   {
     "codigo_origem": "Q1313681",
+    "numero_original": 817,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2020,
@@ -1619,10 +1530,10 @@
         "texto": "a criança contra a sífilis materna 818 Ano: 2020"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0817",
-    "numero_ordem": 817,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "resposta_correta": "C",
+    "id": "EF0809",
+    "numero_ordem": 809,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [C] ('a criança contra a coqueluche') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1633,10 +1544,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'a mãe contra a toxoplasmose...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'a criança contra a coqueluche...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'a criança contra a sífilis materna 818 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -1645,6 +1552,7 @@
   },
   {
     "codigo_origem": "Q1313679",
+    "numero_original": 819,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2020,
@@ -1671,18 +1579,14 @@
         "texto": "de 4 para 3 doses 820 Ano: 2020"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0819",
-    "numero_ordem": 819,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "resposta_correta": "B",
+    "id": "EF0811",
+    "numero_ordem": 811,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [B] ('de 5 para 4 doses') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'de 6 para 7 doses...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'de 5 para 4 doses...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -1697,6 +1601,7 @@
   },
   {
     "codigo_origem": "Q2710369",
+    "numero_original": 831,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Grande - MS",
     "ano": 2019,
@@ -1723,15 +1628,11 @@
         "texto": "câmaras refrigeradas que operam na faixa entre -2°C e -8ºC, caixas térmicas utilizadas para transporte em atividades de rotina e campanhas, freezers utilizados para o armazenamento de vacinas e seringas em temperaturas negativas e de bobinas reutilizáveis, além de instrumentos para medição de temperatura digital 832 Ano: 2019"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0831",
-    "numero_ordem": 831,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "resposta_correta": "A",
+    "id": "EF0823",
+    "numero_ordem": 823,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [A] ('câmaras refrigeradas que operam na faixa entre +2ºC e +8ºC, caixas térmicas utilizadas para transporte em atividades de rotina e campanhas, freezers utilizados para o armazenamento de vacinas em temperaturas negativas e de bobinas reutilizáveis e instrumentos para medição de temperatura') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'câmaras refrigeradas que operam na faixa entre +2ºC e +8ºC, caixas térmicas utilizada...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'câmaras refrigeradas que operam na faixa entre -1 0 ºC e +8ºC, caixas térmicas utiliz...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -1749,6 +1650,7 @@
   },
   {
     "codigo_origem": "Q2692395",
+    "numero_original": 853,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Grande - MS",
     "ano": 2019,
@@ -1775,18 +1677,14 @@
         "texto": "Crianças com idades entre 6 meses e 8 anos, 11 meses e 29 dias, vacinadas, somente podem receber a segunda dose da vacina BCG após sorologia positiva para HIV; para estes indivíduos, a revacinação é contraindicada. 854 Ano: 2019"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0853",
-    "numero_ordem": 853,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "resposta_correta": "B",
+    "id": "EF0845",
+    "numero_ordem": 845,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [B] ('A vacina é conservada entre +2ºC e +8ºC (sendo ideal +5ºC), não podendo ser congelada. O congelamento provoca a perda de potência e/ou forma agregados e/ou aumenta o risco de eventos adversos.') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'A administração da vacina BCG deve ser adiada quando a criança apresentar peso inferi...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'A vacina é conservada entre +2ºC e +8ºC (sendo ideal +5ºC), não podendo ser congelada...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",

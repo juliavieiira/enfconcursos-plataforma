@@ -10,17 +10,16 @@ Técnico em Enfermagem - SMS A neutropenia decorrente do tratamento antineoplás
   [C] avaliação visual da região perianal
   [D] introdução de termômetro por via retal para aferição da temperatura
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: D
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('introdução de termômetro por via retal para aferição da temperatura') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'inspeção da pele...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'higiene da região perineal...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'avaliação visual da região perianal...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'introdução de termômetro por via retal para aferição da temperatura...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 2 [Código: EF0375] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 2 [Código: EF0372] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Enfermagem em Oncologia
 Grande parte da não adesão às medidas de atenção integral, por parte do homem, decorre das variáveis culturais. Os estereótipos de gênero, enraizados há séculos em nossa cultura patriarcal, potencializam práticas baseadas em crenças e valores do que é ser masculino. Neste cenário, o câncer de próstata é o segundo mais comum entre os homens (atrás apenas do câncer de pele não melanoma). Quanto à classificação e o estadiamento, temos o Estádio TNM, no qual cada letra significa respectivamente:
 
@@ -30,18 +29,17 @@ Grande parte da não adesão às medidas de atenção integral, por parte do hom
   [D] tumor benigno, tumor maligno, metástase
   [E] tumor, linfonodo, tumor maligno, metástase 376 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: C
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [C] ('tumor, linfonodo, metástase') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'tumor, nódulo, metástase...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'tumor, linfonodo, medicado...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'tumor, linfonodo, metástase...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'tumor benigno, tumor maligno, metástase...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa E: Incorreta perante os protocolos técnicos, pois 'tumor, linfonodo, tumor maligno, metástase 376 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 3 [Código: EF0386] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 3 [Código: EF0383] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Enfermagem em Oncologia
 O câncer de mama é o tipo mais frequente na mulher brasileira. Toda mulher com 40 anos ou mais de idade deve procurar um ambulatório, centro ou posto de saúde para realizar o exame clínico das mamas anualmente. Além disso, toda mulher, entre 50 e 69 anos deve fazer pelo menos uma mamografia a cada dois anos e, se uma pessoa da família – principalmente a mãe, irmã ou filha – teve essa doença antes dos 50 anos de idade, a mulher tem mais chances de ter um câncer de mama. Quem já teve câncer em uma das mamas ou câncer de ovário, em qualquer idade, também deve ficar atenta. As mulheres com maior risco de ter o câncer de mama devem tomar cuidados especiais, fazendo, a partir dos 35 anos de idade, o exame clínico das mamas e a mamografia:
 
@@ -51,18 +49,17 @@ O câncer de mama é o tipo mais frequente na mulher brasileira. Toda mulher com
   [D] a cada 3 anos
   [E] a cada 4 anos 387 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: B
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [B]: '1 vez por ano'.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'a cada 6 meses...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois '1 vez por ano...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a cada 2 anos...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'a cada 3 anos...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa E: Incorreta perante os protocolos técnicos, pois 'a cada 4 anos 387 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 4 [Código: EF0415] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 4 [Código: EF0408] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
 Assunto: Enfermagem em Oncologia
 Na infância e na adolescência, o câncer pode apresentar sintomas de muitas outras doenças infanto-juvenis benignas, atrasando o diagnóstico. Essa etapa da vida é uma fase de desenvolvimento, na qual as células se dividem com maior velocidade, ocorrendo tanto um rápido avanço do câncer como uma resposta melhor ao tratamento. O diagnóstico é muito importante para o sucesso do tratamento e para a obtenção da cura total. Assim, se o câncer pediátrico não é prevenível, a ênfase atual deve ser dada ao seu diagnóstico:
 
@@ -71,17 +68,16 @@ Na infância e na adolescência, o câncer pode apresentar sintomas de muitas ou
   [C] laboratorial
   [D] multiprofissional 416 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('precoce') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'diferencial...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'laboratorial...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'multiprofissional 416 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 5 [Código: EF0614] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 5 [Código: EF0606] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
 Assunto: Enfermagem em Oncologia
 MT - Enfermeiro(a) Padrão A leucemia aguda é a principal neoplasia que acomete as crianças e os adolescentes. São situações de risco de morte para o paciente, que indicam um encaminhamento rápido para atendimento emergencial, em poucas horas:
 
@@ -90,17 +86,16 @@ MT - Enfermeiro(a) Padrão A leucemia aguda é a principal neoplasia que acomete
   [C] sinais de sangramento ativo: petéquias, epistaxe; hemoglobina menor que 6,0 g/dL, e contagem de plaquetas menor que 20.000/mm3
   [D] leucócitos totais em quantidade maior que 50.000/ mm3, contagem de plaquetas maior que 20.000/mm3, e hemoglobina maior que 6,0 g/dL 615 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
+✅ Gabarito: C
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [C] ('sinais de sangramento ativo: petéquias, epistaxe; hemoglobina menor que 6,0 g/dL, e contagem de plaquetas menor que 20.000/mm3') representa a conduta científica e clinicamente recomendada.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'sinais de sangramento ativo: petéquias, epistaxe; contagem de plaquetas menor do que ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'hemoglobina maior que 8,0 g/dL; sinais de sangramento ativo: petéquias, epistaxe, e l...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'sinais de sangramento ativo: petéquias, epistaxe; hemoglobina menor que 6,0 g/dL, e c...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'leucócitos totais em quantidade maior que 50.000/ mm3, contagem de plaquetas maior qu...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 6 [Código: EF0634] - Prefeitura de Campo Verde - MT (SELECON 2023) - Técnico de Enfermagem
+QUESTÃO 6 [Código: EF0626] - Prefeitura de Campo Verde - MT (SELECON 2023) - Técnico de Enfermagem
 Assunto: Enfermagem em Oncologia
 em Enfermagem É um tratamento radioterápico no qual as fontes de radiação são colocadas dentro de reservatórios metálicos e aplicadas a poucos centímetros dos tumores com radiação interna. Tais fontes podem ser implantadas por meio de agulhas ou catéteres inseridos nas cavidades corporais. Essa modalidade de tratamento recebe o nome de:
 
@@ -109,17 +104,16 @@ em Enfermagem É um tratamento radioterápico no qual as fontes de radiação s�
   [C] braquiterapia
   [D] imunoterapia 635 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: C
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [C] ('braquiterapia') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'teleterapia...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'radiodermite...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'braquiterapia...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'imunoterapia 635 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 7 [Código: EF0675] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Técnico de Enfermagem
+QUESTÃO 7 [Código: EF0667] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Técnico de Enfermagem
 Assunto: Enfermagem em Oncologia
 em Enfermagem As neoplasias são proliferações descontroladas e anormais de um tecido com efeitos agressivos no organismo, que podem ser benignas ou malignas. São características de um tumor benigno:
 
@@ -128,17 +122,16 @@ em Enfermagem As neoplasias são proliferações descontroladas e anormais de um
   [C] o crescimento progressivo, a massa bem delimitada e a ausência de metástase
   [D] o crescimento rápido, as mitoses anormais e a ausência de metástase 676 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: C
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [C] ('o crescimento progressivo, a massa bem delimitada e a ausência de metástase') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'a formação de células bem diferenciadas, a massa expansiva e a apresentação de metást...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'a formação de células anaplásicas, a massa bem delimitada e a apresentação de metásta...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'o crescimento progressivo, a massa bem delimitada e a ausência de metástase...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'o crescimento rápido, as mitoses anormais e a ausência de metástase 676 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 8 [Código: EF0746] - Prefeitura de Boa Vista - RR (SELECON 2020) - Técnico de Enfermagem
+QUESTÃO 8 [Código: EF0738] - Prefeitura de Boa Vista - RR (SELECON 2020) - Técnico de Enfermagem
 Assunto: Enfermagem em Oncologia
 Enfermagem A quimioterapia que visa à redução parcial do tumor, preparando para o tratamento cirúrgico e/ou radioterapia é chamada de:
 
@@ -147,17 +140,16 @@ Enfermagem A quimioterapia que visa à redução parcial do tumor, preparando pa
   [C] paliativa
   [D] curativa
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.
+✅ Gabarito: A
+💡 Fundamentação: Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [A] ('neoadjuvante') atende às exigências normativas de biossegurança perioperatória.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'neoadjuvante...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
 
 ------------------------------------------------------------
 
-QUESTÃO 9 [Código: EF0747] - Prefeitura de Boa Vista - RR (SELECON 2020) - Técnico de Enfermagem
+QUESTÃO 9 [Código: EF0739] - Prefeitura de Boa Vista - RR (SELECON 2020) - Técnico de Enfermagem
 Assunto: Enfermagem em Oncologia
 Enfermagem O câncer de tireoide representa 90% das malignidades endócrinas. A modalidade de tratamento da doença, que consiste na irradiação através da administração do radioisótopo na forma líquida, por via oral, sendo eliminado do organismo principalmente pela urina e muito pouco pelas fezes, é a:
 
@@ -166,17 +158,16 @@ Enfermagem O câncer de tireoide representa 90% das malignidades endócrinas. A 
   [C] iodoterapia
   [D] cirurgia
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+✅ Gabarito: C
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('iodoterapia') constitui a conduta correta e segura.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'quimioterapia...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'radiodermite...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'iodoterapia...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
 
 ------------------------------------------------------------
 
-QUESTÃO 10 [Código: EF0748] - Prefeitura de Boa Vista - RR (SELECON 2020) - Técnico de Enfermagem
+QUESTÃO 10 [Código: EF0740] - Prefeitura de Boa Vista - RR (SELECON 2020) - Técnico de Enfermagem
 Assunto: Enfermagem em Oncologia
 Enfermagem Os radiofármacos são agentes cujo objetivo é mostrar a função fisiológica de órgãos ou sistemas, sendo sua distribuição determinada pela forma como eles são administrados e por processos metabólicos. São vias de administração dos radiofármacos:
 
@@ -185,12 +176,11 @@ Enfermagem Os radiofármacos são agentes cujo objetivo é mostrar a função fi
   [C] oral, inalatória e endovenosa
   [D] inalatória, vaginal e subcutâneo
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+✅ Gabarito: C
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('oral, inalatória e endovenosa') constitui a conduta correta e segura.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'retal, ocular e tópica...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'intraumuscular, oral e tópica...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'oral, inalatória e endovenosa...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'inalatória, vaginal e subcutâneo...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------

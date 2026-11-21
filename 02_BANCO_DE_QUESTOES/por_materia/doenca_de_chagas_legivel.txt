@@ -1,7 +1,7 @@
 === CADERNO DE QUESTÕES: DOENÇA DE CHAGAS ===
 Total: 1 questões
 
-QUESTÃO 1 [Código: EF0424] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 1 [Código: EF0417] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
 Assunto: Doença de Chagas , Doenças Infecciosas e parasitárias
 A doença de Chagas pode apresentar sintomas distintos nas suas duas fases: aguda e crônica. Na fase aguda, os principais sintomas são: febre prolongada, dor de cabeça, fraqueza intensa, inchaço no rosto e nas pernas. Após a fase aguda, caso a pessoa não receba tratamento oportuno, ela pode desenvolver a fase crônica da doença, inicialmente sem sintomas, mas, podendo, com o passar dos anos, apresentar complicações como:
 
@@ -10,10 +10,9 @@ A doença de Chagas pode apresentar sintomas distintos nas suas duas fases: agud
   [C] insuficiência respiratório e megacólon
   [D] insuficiência respiratória e cardíaca e megacólon
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: A
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('Insuficiência cardíaca e megacólon') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'Insuficiência cardíaca e megacólon...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'insuficiência respiratória e cardíaca...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'insuficiência respiratório e megacólon...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'insuficiência respiratória e cardíaca e megacólon...' não atende às diretrizes oficiais do Ministério da Saúde.

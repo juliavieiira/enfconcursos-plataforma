@@ -1,6 +1,7 @@
 [
   {
     "codigo_origem": "Q1953171",
+    "numero_original": 716,
     "banca": "SELECON",
     "orgao": "Prefeitura de Pontes e Lacerda - MT",
     "ano": 2022,
@@ -27,10 +28,10 @@
         "texto": "estrutura, processo e resultado"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0716",
-    "numero_ordem": 716,
-    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "resposta_correta": "D",
+    "id": "EF0708",
+    "numero_ordem": 708,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [D] ('estrutura, processo e resultado') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -43,10 +44,6 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'estrutura, resiliência e resultado...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'estrutura, processo e resultado...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."

@@ -1,6 +1,7 @@
 [
   {
     "codigo_origem": "Q2477215",
+    "numero_original": 413,
     "banca": "SELECON",
     "orgao": "Prefeitura de Água Boa - MT",
     "ano": 2024,
@@ -27,18 +28,14 @@
         "texto": "20 a 40 respirações por minuto 414 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0413",
-    "numero_ordem": 413,
-    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "resposta_correta": "B",
+    "id": "EF0406",
+    "numero_ordem": 406,
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [B] ('20 a 30 respirações por minuto') representa a conduta científica e clinicamente recomendada.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois '10 a 20 respirações por minuto...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois '20 a 30 respirações por minuto...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",

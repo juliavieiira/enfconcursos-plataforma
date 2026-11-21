@@ -10,10 +10,9 @@ A insuficiência cardíaca (IC) é uma síndrome clínica complexa, resultante d
   [C] diuréticos de alça, antiarrítmicos classe I e estatinas de alta intensidade
   [D] vasodilatadores diretos, inibidores da fosfodiesterase-5 e agentes inotrópicos positivos
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+✅ Gabarito: A
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [A] ('inibidores da enzima conversora de angiotensina (IECA) ou bloqueadores do receptor de angiotensina (BRA), betabloqueadores e antagonistas do receptor de mineralocorticoide (ARM)') constitui a conduta correta e segura.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'inibidores da enzima conversora de angiotensina (IECA) ou bloqueadores do receptor de...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'bloqueadores dos canais de cálcio, nitratos de ação prolongada e digoxina...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'diuréticos de alça, antiarrítmicos classe I e estatinas de alta intensidade...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'vasodilatadores diretos, inibidores da fosfodiesterase-5 e agentes inotrópicos positi...' não atende às diretrizes oficiais do Ministério da Saúde.
@@ -29,11 +28,10 @@ O vírus da imunodeficiência humana (HIV) apresenta um desafio persistente para
   [C] induzir uma resposta imune esterilizante que confere imunidade permanente
   [D] modificar geneticamente as células do hospedeiro para torná-las intrinsecamente resistentes à infecção
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: B
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('prevenir a replicação viral e restaurar a função imunológica, sem erradicar o vírus') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'eliminar completamente o vírus do organismo do paciente, curando a infecção...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'prevenir a replicação viral e restaurar a função imunológica, sem erradicar o vírus...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'induzir uma resposta imune esterilizante que confere imunidade permanente...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'modificar geneticamente as células do hospedeiro para torná-las intrinsecamente resis...' não atende às diretrizes oficiais do Ministério da Saúde.
 
@@ -48,17 +46,16 @@ Um paciente em terapia anticoagulante crônica com varfarina, mantendo um INR (�
   [C] potencialização do efeito anticoagulante por sinergismo em nível de receptores da vitamina K, sem alteração na concentração do fármaco
   [D] uma redução da concentração plasmática da varfarina devido à indução metabólica, exigindo um aumento da dose do anticoagulante para manter o efeito terapêutico 210 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: D
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('uma redução da concentração plasmática da varfarina devido à indução metabólica, exigindo um aumento da dose do anticoagulante para manter o efeito terapêutico 210 Ano: 2025') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'um aumento da concentração plasmática da varfarina por inibição competitiva, elevando...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'diminuição da absorção gastrointestinal da varfarina, resultando em subterapia por um...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'potencialização do efeito anticoagulante por sinergismo em nível de receptores da vit...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'uma redução da concentração plasmática da varfarina devido à indução metabólica, exig...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 4 [Código: EF0329] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 4 [Código: EF0328] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Enfermeiro
 Assunto: Farmacologia na Enfermagem , Assistência de Enfermagem no Processo Nutricional
 Paciente de 68 anos, desnutrido, em uso de Varfarina, apresenta epistaxe e foi admitido ao setor para tratamento. A síntese adequada de fatores de coagulação desse indivíduo pode ter sido afetada pelo seguinte quadro clínico:
 
@@ -67,17 +64,16 @@ Paciente de 68 anos, desnutrido, em uso de Varfarina, apresenta epistaxe e foi a
   [C] deficiência de vitamina K
   [D] reação hemolítica aguda 330 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+✅ Gabarito: C
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('deficiência de vitamina K') constitui a conduta correta e segura.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'deficiência de zinco...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'trombocitemia primária...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'deficiência de vitamina K...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'reação hemolítica aguda 330 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 5 [Código: EF0396] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 5 [Código: EF0392] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Farmacologia na Enfermagem
 Os produtos para a saúde, utilizados em procedimentos invasivos com penetração de pele e mucosas adjacentes, tecidos subepteliais e sistema vascular, incluindo também todos os produtos para saúde que estejam diretamente conectados com esses sistemas são denominados:
 
@@ -87,18 +83,17 @@ Os produtos para a saúde, utilizados em procedimentos invasivos com penetraçã
   [D] complexos
   [E] críticos 397 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: SAD-MS Prova: SELECON - 2024 - SAD-MS - Enfermeiro
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+✅ Gabarito: E
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [E] ('críticos 397 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: SAD-MS Prova: SELECON - 2024 - SAD-MS - Enfermeiro') constitui a conduta correta e segura.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'processáveis...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'semicríticos...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'não críticos...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa E: Incorreta perante os protocolos técnicos, pois 'críticos 397 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SU...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 6 [Código: EF0537] - Prefeitura de Dourados - MS (SELECON 2023) - Enfermeiro
+QUESTÃO 6 [Código: EF0529] - Prefeitura de Dourados - MS (SELECON 2023) - Enfermeiro
 Assunto: Farmacologia na Enfermagem , Enfermagem em UTI
 As drogas vasoativas, frequentemente utilizadas na terapia intensiva, são substâncias que apresentam efeitos vasculares periféricos, pulmonares ou cardíacos, por isso, os enfermeiros devem conhecer as propriedades farmacológicas, a indicação e os cuidados de enfermagem. São exemplos de drogas vasoativas:
 
@@ -107,17 +102,16 @@ As drogas vasoativas, frequentemente utilizadas na terapia intensiva, são subst
   [C] Nitroglicerina, Dopamina e Propofol
   [D] Atropina, Dopamina e Midazolam 538 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+✅ Gabarito: B
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [B] ('Epinefrina, Dopamina e Dobutamina') constitui a conduta correta e segura.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'Fentanil, Noradrenalina e Vasopressina...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'Epinefrina, Dopamina e Dobutamina...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Nitroglicerina, Dopamina e Propofol...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Atropina, Dopamina e Midazolam 538 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 7 [Código: EF0592] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 7 [Código: EF0584] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
 Assunto: Farmacologia na Enfermagem , Enfermagem em Centro Cirúrgico , Pós-Operatório
 MT - Enfermeiro Intervencionista - SAMU As infecções do sítio cirúrgico (ISC), que ocorrem no pósoperatório em cerca de 3 a 20%, são as complicações mais comuns decorrentes do ato cirúrgico e dos procedimentos realizados, gerando um impacto desfavorável nos desfechos dos pacientes. Uma das recomendações para a prevenção dessa infecção é a administração de antibióticos com dose efetiva em até:
 
@@ -126,17 +120,16 @@ MT - Enfermeiro Intervencionista - SAMU As infecções do sítio cirúrgico (ISC
   [C] 60 minutos após a incisão cirúrgica
   [D] 60 minutos antes da incisão cirúrgica 593 Ano: 2023 Enfermagem > Fundamentos e Procedimentos de Enfermagem , Doenças Crônicas Não Transmissíveis , Doenças Renais Banca: SELECON Órgão: Prefeitura de Primavera do Leste - MT Prova: SELECON - 2023 - Prefeitura de Primavera do Leste -
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: D
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('60 minutos antes da incisão cirúrgica 593 Ano: 2023 Enfermagem > Fundamentos e Procedimentos de Enfermagem , Doenças Crônicas Não Transmissíveis , Doenças Renais Banca: SELECON Órgão: Prefeitura de Primavera do Leste - MT Prova: SELECON - 2023 - Prefeitura de Primavera do Leste -') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois '20 minutos após a incisão cirúrgica...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois '40 minutos após a incisão cirúrgica...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois '60 minutos após a incisão cirúrgica...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois '60 minutos antes da incisão cirúrgica 593 Ano: 2023 Enfermagem > Fundamentos e Proced...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 8 [Código: EF0597] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 8 [Código: EF0589] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
 Assunto: Farmacologia na Enfermagem
 MT - Enfermeiro Intervencionista - SAMU Paciente João das Neves, 45 anos de idade, deu entrada na emergência com quadro de intoxicação exógena de opioides. Nesse caso, a droga considerada antagonista é o (a):
 
@@ -145,17 +138,16 @@ MT - Enfermeiro Intervencionista - SAMU Paciente João das Neves, 45 anos de ida
   [C] cetamina
   [D] naloxone 598 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.
+✅ Gabarito: D
+💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [D] ('naloxone 598 Ano: 2023') reflete a melhor evidência científica para o manejo de emergência.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'naloxone 598 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 9 [Código: EF0607] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 9 [Código: EF0599] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
 Assunto: Farmacologia na Enfermagem
 MT - Enfermeiro(a) Padrão As drogas vasoativas, comumente empregadas nos pacientes críticos atendidos nas emergências, apresentam efeitos vasculares periféricos, pulmonares ou cardíacos, sejam eles diretos ou indiretos. A dobutamina é uma droga simpatomimética sintética, com ação predominantemente no receptor:
 
@@ -164,17 +156,16 @@ MT - Enfermeiro(a) Padrão As drogas vasoativas, comumente empregadas nos pacien
   [C] alfa 2 agonistas
   [D] beta 2 agonistas
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: A
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('beta 1 agonista') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'beta 1 agonista...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'dopaminérgicos...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'alfa 2 agonistas...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'beta 2 agonistas...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 10 [Código: EF0619] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 10 [Código: EF0611] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
 Assunto: Farmacologia na Enfermagem
 MT - Enfermeiro(a) Padrão A droga que antagoniza a ação da acetilcolina, um neurotransmissor parassimpático, nos receptores muscarínicos, bloqueando o efeito do nervo vago, tanto no nó sinoatrial como no nó atrioventricular, aumentando a frequência de disparos do nó sinusal e facilitando a condução atrioventricular, é chamada de:
 
@@ -183,17 +174,16 @@ MT - Enfermeiro(a) Padrão A droga que antagoniza a ação da acetilcolina, um n
   [C] adenosina
   [D] atropina 620 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+✅ Gabarito: D
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [D] ('atropina 620 Ano: 2023') constitui a conduta correta e segura.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'noradrenalina...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'atropina 620 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 11 [Código: EF0630] - Prefeitura de Campo Verde - MT (SELECON 2023) - Técnico de Enfermagem
+QUESTÃO 11 [Código: EF0622] - Prefeitura de Campo Verde - MT (SELECON 2023) - Técnico de Enfermagem
 Assunto: Farmacologia na Enfermagem
 em Enfermagem A farmacocinética consiste em compreender o movimento do fármaco no organismo, o qual se dá em diversas fases. A transferência de um fármaco, desde o seu local de administração, até a circulação sanguínea é denominada:
 
@@ -202,17 +192,16 @@ em Enfermagem A farmacocinética consiste em compreender o movimento do fármaco
   [C] excreção
   [D] absorção
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: D
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [D] ('absorção') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'biotransformação...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'distribuição...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
 
 ------------------------------------------------------------
 
-QUESTÃO 12 [Código: EF0722] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Enfermeiro
+QUESTÃO 12 [Código: EF0714] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Enfermeiro
 Assunto: Farmacologia na Enfermagem
 A farmacocinética descreve como os medicamentos entram no organismo, atingem seus locais de ação e são metabolizados e excretados. Portanto, a farmacocinética representa o trajeto do fármaco no organismo, desde a entrada até a eliminação. As fases da farmacocinética são:
 
@@ -221,17 +210,16 @@ A farmacocinética descreve como os medicamentos entram no organismo, atingem se
   [C] armazenamento, absorção, biomarcadores e excreção
   [D] ingestão, biotransformação, distribuição e monitoramento 723 Ano: 2022
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: B
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [B] ('absorção, distribuição, metabolismo e excreção') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'ingestão, via certa, metabolismo e excreção...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'absorção, distribuição, metabolismo e excreção...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'armazenamento, absorção, biomarcadores e excreção...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'ingestão, biotransformação, distribuição e monitoramento 723 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 13 [Código: EF0728] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Enfermeiro
+QUESTÃO 13 [Código: EF0720] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Enfermeiro
 Assunto: Farmacologia na Enfermagem
 É um antagonista frequentemente utilizado nos casos de intoxicação de opioides:
 
@@ -240,11 +228,10 @@ Assunto: Farmacologia na Enfermagem
   [C] propofol
   [D] atropina 729 Ano: 2022
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+✅ Gabarito: B
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [B] ('naloxone') constitui a conduta correta e segura.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'atropina 729 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde.
 

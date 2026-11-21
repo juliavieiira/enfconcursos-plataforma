@@ -1,6 +1,7 @@
 [
   {
     "codigo_origem": "Q4369114",
+    "numero_original": 20,
     "banca": "SELECON",
     "orgao": "Prefeitura de Lucas do Rio Verde - MT",
     "ano": 2026,
@@ -49,6 +50,7 @@
   },
   {
     "codigo_origem": "Q4369111",
+    "numero_original": 21,
     "banca": "SELECON",
     "orgao": "Prefeitura de Lucas do Rio Verde - MT",
     "ano": 2026,
@@ -75,18 +77,14 @@
         "texto": "incorporação de vacinas de rotina ao escopo dos CRIE, uniformizando a oferta em todo o território nacional"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0021",
     "numero_ordem": 21,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [B] ('lista dos CRIE em funcionamento no país, com informações para profissionais de saúde e usuários') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'extinção da lista de imunobiológicos especiais, que passou a ser definida caso a caso...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'lista dos CRIE em funcionamento no país, com informações para profissionais de saúde ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -101,6 +99,7 @@
   },
   {
     "codigo_origem": "Q4369108",
+    "numero_original": 24,
     "banca": "SELECON",
     "orgao": "Prefeitura de Lucas do Rio Verde - MT",
     "ano": 2026,
@@ -127,10 +126,10 @@
         "texto": "implementação de medidas de saneamento básico no território, como intervenção sobre os determinantes ambientais"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "D",
     "id": "EF0024",
     "numero_ordem": 24,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('implementação de medidas de saneamento básico no território, como intervenção sobre os determinantes ambientais') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -143,16 +142,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'isolamento domiciliar dos indivíduos sintomáticos, como forma de contenção da transmi...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'implementação de medidas de saneamento básico no território, como intervenção sobre o...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('implementação de medid..."
   },
   {
     "codigo_origem": "Q4336851",
+    "numero_original": 31,
     "banca": "SELECON",
     "orgao": "Prefeitura de Araçás - BA",
     "ano": 2026,
@@ -179,15 +175,11 @@
         "texto": "influenza e covid-19, em razão das campanhas nacionais de vacinação realizadas no primeiro semestre 32 Enfermagem > Anatomia na Enfermagem , Fisiologia , Anatomia do Sistema Cardiovascular Fisiologia do Sistema Cardiovascular Banca: SELECON Órgão: Prefeitura de Araçás - BA Prova: SELECON - 2026 - Prefeitura de Araçás - BA - Técnico de"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "A",
     "id": "EF0031",
     "numero_ordem": 31,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [A] ('hepatite B e BCG, sinalizando recuperação parcial após anos de queda nas coberturas vacinais') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'hepatite B e BCG, sinalizando recuperação parcial após anos de queda nas coberturas v...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'pentavalente e pneumocócica 10-valente, com cobertura superior a 95% em todos os esta...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -205,6 +197,7 @@
   },
   {
     "codigo_origem": "Q3981921",
+    "numero_original": 76,
     "banca": "SELECON",
     "orgao": "EMGEPRON",
     "ano": 2026,
@@ -231,10 +224,10 @@
         "texto": "processo saúde-doença é determinado apenas pelas condições econômicas e ambientais da população, não havendo influência relevante de fatores individuais ou biológicos 77 Enfermagem > Dietas , Fundamentos e Procedimentos de Enfermagem , Assistência de Enfermagem no Processo Nutricional Banca: SELECON Órgão: EMGEPRON Prova: SELECON - 2026 - EMGEPRON - Técnico em Enfermagem"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0076",
     "numero_ordem": 76,
-    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [C] ('ocorrência das doenças resulta da interação entre condições biológicas, ambientais, sociais e comportamentais, exigindo ações que ultrapassem o cuidado estritamente curativo') expressa fielmente o preceito legislativo.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -245,10 +238,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'adoecimento é explicado a partir de causas únicas e específicas, sendo o controle da ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'ocorrência das doenças resulta da interação entre condições biológicas, ambientais, s...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'processo saúde-doença é determinado apenas pelas condições econômicas e ambienta...'."
       }
@@ -257,6 +246,7 @@
   },
   {
     "codigo_origem": "Q3974336",
+    "numero_original": 97,
     "banca": "SELECON",
     "orgao": "EMGEPRON",
     "ano": 2026,
@@ -283,15 +273,11 @@
         "texto": "hospitalocêntrico"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "A",
     "id": "EF0097",
     "numero_ordem": 97,
-    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [A] ('educação em saúde participativa e emancipatória') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'educação em saúde participativa e emancipatória...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'biomédico tradicional...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -309,6 +295,7 @@
   },
   {
     "codigo_origem": "Q3974330",
+    "numero_original": 102,
     "banca": "SELECON",
     "orgao": "EMGEPRON",
     "ano": 2026,
@@ -335,15 +322,11 @@
         "texto": "a gravidade do agravo é uniforme entre indivíduos expostos ao mesmo agente 103 Ano: 2026"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "A",
     "id": "EF0102",
     "numero_ordem": 102,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('tal processo resulta da interação entre fatores biológicos, ambientais e sociais, que influenciam a vulnerabilidade, a resistência e a resposta clínica do indivíduo') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'tal processo resulta da interação entre fatores biológicos, ambientais e sociais, que...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o desenvolvimento da doença depende exclusivamente da virulência do agente etiol...'."
@@ -357,10 +340,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'a gravidade do agravo é uniforme entre indivíduos expostos ao mesmo agente 103 Ano: 2...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('tal processo resulta d..."
   },
   {
     "codigo_origem": "Q3884663",
+    "numero_original": 109,
     "banca": "SELECON",
     "orgao": "Prefeitura de Porto dos Gaúchos - MT",
     "ano": 2026,
@@ -387,15 +371,11 @@
         "texto": "restringir o atendimento até confirmação diagnóstica definitiva, evitando risco de transmissão ocupacional 110 Ano: 2026"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "A",
     "id": "EF0109",
     "numero_ordem": 109,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('comunicar a equipe de enfermagem, reforçar a necessidade de retomada do acompanhamento, orientar quanto às formas de transmissão e proceder à notificação compulsória conforme normatização vigente') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'comunicar a equipe de enfermagem, reforçar a necessidade de retomada do acompanhament...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'iniciar esquema vacinal completo para hepatite C e dispensar acompanhamento clínico, ...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -409,10 +389,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'restringir o atendimento até confirmação diagnóstica definitiva, evitando risco de tr...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('comunicar a equipe de ..."
   },
   {
     "codigo_origem": "Q3884659",
+    "numero_original": 112,
     "banca": "SELECON",
     "orgao": "Prefeitura de Porto dos Gaúchos - MT",
     "ano": 2026,
@@ -439,10 +420,10 @@
         "texto": "reiniciar o tratamento desde o início do esquema básico, com novo acompanhamento em TDO e registro da interrupção no sistema de informação 113 Ano: 2026"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "D",
     "id": "EF0112",
     "numero_ordem": 112,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('reiniciar o tratamento desde o início do esquema básico, com novo acompanhamento em TDO e registro da interrupção no sistema de informação 113 Ano: 2026') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -455,16 +436,13 @@
       {
         "letra": "C",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'suspender temporariamente a medicação, aguardar nova baciloscopia de escarro e d...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'reiniciar o tratamento desde o início do esquema básico, com novo acompanhamento em T...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('reiniciar o tratamento..."
   },
   {
     "codigo_origem": "Q3884657",
+    "numero_original": 113,
     "banca": "SELECON",
     "orgao": "Prefeitura de Porto dos Gaúchos - MT",
     "ano": 2026,
@@ -491,18 +469,14 @@
         "texto": "descartar os imunobiológicos caso a energia não seja restabelecida em um período de 120 minutos 114 Ano: 2026"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0113",
     "numero_ordem": 113,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [B] ('manter o refrigerador fechado, monitorar a temperatura interna e comunicar a ocorrência ao responsável pela sala de vacinação') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'transferir imediatamente as vacinas para caixas térmicas, utilizando gelo reciclável,...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'manter o refrigerador fechado, monitorar a temperatura interna e comunicar a ocorrênc...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -517,6 +491,7 @@
   },
   {
     "codigo_origem": "Q3802706",
+    "numero_original": 162,
     "banca": "SELECON",
     "orgao": "Prefeitura de Barra do Garças - MT",
     "ano": 2025,
@@ -543,10 +518,10 @@
         "texto": "adoção de diferentes arranjos de equipes, como a ESF e a EAP, com composições mínimas distintas e flexibilidade para adequação local 163 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "D",
     "id": "EF0162",
     "numero_ordem": 162,
-    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [D] ('adoção de diferentes arranjos de equipes, como a ESF e a EAP, com composições mínimas distintas e flexibilidade para adequação local 163 Ano: 2025') expressa fielmente o preceito legislativo.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -559,16 +534,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'redução da carga horária mínima dos profissionais das equipes de Saúde da Família par...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'adoção de diferentes arranjos de equipes, como a ESF e a EAP, com composições mínimas...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Partici..."
   },
   {
     "codigo_origem": "Q3742708",
+    "numero_original": 188,
     "banca": "SELECON",
     "orgao": "Prefeitura de Marcelândia - MT",
     "ano": 2025,
@@ -595,10 +567,10 @@
         "texto": "crônica e multifatorial 189 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "D",
     "id": "EF0188",
     "numero_ordem": 188,
-    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [D] ('crônica e multifatorial 189 Ano: 2025') expressa fielmente o preceito legislativo.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -611,16 +583,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'endêmica e de fácil erradicação...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'crônica e multifatorial 189 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Partici..."
   },
   {
     "codigo_origem": "Q3742705",
+    "numero_original": 191,
     "banca": "SELECON",
     "orgao": "Prefeitura de Marcelândia - MT",
     "ano": 2025,
@@ -647,15 +616,11 @@
         "texto": "a delegação exclusiva da responsabilidade pela educação em saúde aos agentes comunitários de saúde 192 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "A",
     "id": "EF0191",
     "numero_ordem": 191,
-    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [A] ('o desenvolvimento de atividades participativas que estimulem a reflexão crítica e a construção coletiva do conhecimento') expressa fielmente o preceito legislativo.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'o desenvolvimento de atividades participativas que estimulem a reflexão crítica e a c...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'a transmissão unilateral de informações técnicas complexas, sem espaço para diálogo...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -673,6 +638,7 @@
   },
   {
     "codigo_origem": "Q3742704",
+    "numero_original": 192,
     "banca": "SELECON",
     "orgao": "Prefeitura de Marcelândia - MT",
     "ano": 2025,
@@ -699,10 +665,10 @@
         "texto": "a prescrição de medicamentos de uso contínuo para todas as condições crônicas sem avaliação médica 193 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0192",
     "numero_ordem": 192,
-    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [C] ('a articulação entre os serviços de saúde, a gestão de casos e o acompanhamento dos usuários ao longo do tempo') expressa fielmente o preceito legislativo.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -713,10 +679,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'o encaminhamento de todos os casos para especialistas, sem intervenção prévia na unid...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'a articulação entre os serviços de saúde, a gestão de casos e o acompanhamento dos us...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'a prescrição de medicamentos de uso contínuo para todas as condições crônicas sem ava...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -725,6 +687,7 @@
   },
   {
     "codigo_origem": "Q3742303",
+    "numero_original": 194,
     "banca": "SELECON",
     "orgao": "Prefeitura de Marcelândia - MT",
     "ano": 2025,
@@ -751,10 +714,10 @@
         "texto": "tentar resolver o problema apenas entre os técnicos de enfermagem da equipe, sem envolver o enfermeiro, pois tratase de uma responsabilidade deles 195 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "D",
     "id": "EF0194",
     "numero_ordem": 194,
-    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [D] ('tentar resolver o problema apenas entre os técnicos de enfermagem da equipe, sem envolver o enfermeiro, pois tratase de uma responsabilidade deles 195 Ano: 2025') aplica com precisão a fórmula e os critérios epidemiológicos.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -767,16 +730,13 @@
       {
         "letra": "C",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'registrar o ocorrido apenas no plantão seguinte, para evitar constrangimento à c...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'tentar resolver o problema apenas entre os técnicos de enfermagem da equipe, sem...'."
       }
     ],
-    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [D] ('tentar resolver o proble..."
   },
   {
     "codigo_origem": "Q3615483",
+    "numero_original": 218,
     "banca": "SELECON",
     "orgao": "Prefeitura de Tapurah - MT",
     "ano": 2025,
@@ -803,18 +763,14 @@
         "texto": "o técnico de enfermagem deve apenas registrar o relato e repassar ao enfermeiro, sem orientar o paciente"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0218",
     "numero_ordem": 218,
-    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [B] ('a escuta qualificada e o sigilo devem ser garantidos, orientando-o e encaminhando-o para avaliação com a equipe') representa a conduta científica e clinicamente recomendada.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'o técnico de enfermagem deve aguardar que o paciente traga um responsável para orient...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'a escuta qualificada e o sigilo devem ser garantidos, orientando-o e encaminhando-o p...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -829,6 +785,7 @@
   },
   {
     "codigo_origem": "Q3615471",
+    "numero_original": 229,
     "banca": "SELECON",
     "orgao": "Prefeitura de Tapurah - MT",
     "ano": 2025,
@@ -855,10 +812,10 @@
         "texto": "aguardar, pois a notificação compulsória é de responsabilidade exclusiva do médico, não cabendo ao técnico de enfermagem qualquer ação"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0229",
     "numero_ordem": 229,
-    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [C] ('realizar notificação compulsória imediata, devendo ser comunicada em até 24 horas após a suspeita') aplica com precisão a fórmula e os critérios epidemiológicos.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -869,18 +826,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'aguardar a evolução clínica para registrar no sistema de notificação, pois a suspeita...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'realizar notificação compulsória imediata, devendo ser comunicada em até 24 horas apó...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'aguardar, pois a notificação compulsória é de responsabilidade exclusiva do médi...'."
       }
     ],
-    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [C] ('realizar notificação com..."
   },
   {
     "codigo_origem": "Q3615470",
+    "numero_original": 230,
     "banca": "SELECON",
     "orgao": "Prefeitura de Tapurah - MT",
     "ano": 2025,
@@ -907,18 +861,14 @@
         "texto": "a transmissão da hanseníase ocorre principalmente por contato com lesões cutâneas abertas e secreções purulentas 231 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0230",
     "numero_ordem": 230,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('a forma multibacilar da hanseníase apresenta maior carga bacilar e risco aumentado de transmissão') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o diagnóstico é feito exclusivamente por exame laboratorial, sendo o exame clíni...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'a forma multibacilar da hanseníase apresenta maior carga bacilar e risco aumentado de...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -929,10 +879,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'a transmissão da hanseníase ocorre principalmente por contato com lesões cutâneas abe...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('a forma multibacilar d..."
   },
   {
     "codigo_origem": "Q3287497",
+    "numero_original": 240,
     "banca": "SELECON",
     "orgao": "Prefeitura de São José dos Quatro Marcos - MT",
     "ano": 2024,
@@ -959,15 +910,11 @@
         "texto": "a política permite que o aleitamento materno exclusivo seja interrompido a partir do primeiro mês de vida, com a inclusão de sucos e chás"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "A",
     "id": "EF0240",
     "numero_ordem": 240,
-    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [A] ('a política assegura que o aleitamento materno exclusivo seja recomendado até os 6 meses de vida da criança, com a introdução de alimentos complementares a partir dos 6 meses e o aleitamento materno continuado até os dois anos ou mais') representa a conduta científica e clinicamente recomendada.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a política assegura que o aleitamento materno exclusivo seja recomendado até os ...'."
-      },
       {
         "letra": "B",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a política não especifica o tempo de aleitamento materno exclusivo e orienta que...'."
@@ -985,6 +932,7 @@
   },
   {
     "codigo_origem": "Q3287489",
+    "numero_original": 248,
     "banca": "SELECON",
     "orgao": "Prefeitura de São José dos Quatro Marcos - MT",
     "ano": 2025,
@@ -1011,18 +959,14 @@
         "texto": "responsabilizar-se pela execução de atividades complexas, como prescrição médica e diagnóstico de enfermagem, com total autonomia 249 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0248",
     "numero_ordem": 248,
-    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [B] ('integrar a equipe, realizando atividades como educação em saúde, orientação às famílias e apoio às ações de promoção e prevenção, sob supervisão do enfermeiro') expressa fielmente o preceito legislativo.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'coordenar as visitas domiciliares e elabora o plano de cuidado, atuando de forma inde...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'integrar a equipe, realizando atividades como educação em saúde, orientação às famíli...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -1037,6 +981,7 @@
   },
   {
     "codigo_origem": "Q3265155",
+    "numero_original": 267,
     "banca": "SELECON",
     "orgao": "HEMOMINAS",
     "ano": 2025,
@@ -1063,18 +1008,14 @@
         "texto": "a organização dos serviços de enfermagem limita-se à execução de tarefas operacionais, sem envolvimento no planejamento estratégico 268 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0267",
     "numero_ordem": 267,
-    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [B] ('os serviços de enfermagem em atenção primária buscam a promoção da saúde, prevenção de agravos e acompanhamento longitudinal') expressa fielmente o preceito legislativo.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o cuidado primário concentra-se exclusivamente em intervenções curativas voltada...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'os serviços de enfermagem em atenção primária buscam a promoção da saúde, prevenção d...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -1089,6 +1030,7 @@
   },
   {
     "codigo_origem": "Q3265150",
+    "numero_original": 272,
     "banca": "SELECON",
     "orgao": "HEMOMINAS",
     "ano": 2024,
@@ -1115,10 +1057,10 @@
         "texto": "administração profilática de antibióticos em todos os pacientes internados"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0272",
     "numero_ordem": 272,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [C] ('realização de culturas e testes de sensibilidade aos antibióticos antes do início da terapia') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1129,18 +1071,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'utilização de antibióticos de última geração em todas as infecções...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'realização de culturas e testes de sensibilidade aos antibióticos antes do início da ...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'administração profilática de antibióticos em todos os pacientes internados...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [C] ('realização de culturas..."
   },
   {
     "codigo_origem": "Q2496155",
+    "numero_original": 364,
     "banca": "SELECON",
     "orgao": "COREN-RR",
     "ano": 2024,
@@ -1167,10 +1106,10 @@
         "texto": "doença de Creutzfeldt-Jakob 365 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0364",
-    "numero_ordem": 364,
-    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
+    "resposta_correta": "D",
+    "id": "EF0361",
+    "numero_ordem": 361,
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [D] ('doença de Creutzfeldt-Jakob 365 Ano: 2024') expressa fielmente o preceito legislativo.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1183,16 +1122,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'doença de cronh...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'doença de Creutzfeldt-Jakob 365 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Partici..."
   },
   {
     "codigo_origem": "Q2496151",
+    "numero_original": 366,
     "banca": "SELECON",
     "orgao": "COREN-RR",
     "ano": 2024,
@@ -1219,10 +1155,10 @@
         "texto": "saúde do trabalhador 367 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0366",
-    "numero_ordem": 366,
-    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
+    "resposta_correta": "D",
+    "id": "EF0363",
+    "numero_ordem": 363,
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [D] ('saúde do trabalhador 367 Ano: 2024') expressa fielmente o preceito legislativo.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1235,16 +1171,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'saúde sanitária...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'saúde do trabalhador 367 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Partici..."
   },
   {
     "codigo_origem": "Q2467596",
+    "numero_original": 455,
     "banca": "SELECON",
     "orgao": "Prefeitura de Água Boa - MT",
     "ano": 2024,
@@ -1271,10 +1204,10 @@
         "texto": "epidemiológica"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0455",
-    "numero_ordem": 455,
-    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
+    "resposta_correta": "C",
+    "id": "EF0448",
+    "numero_ordem": 448,
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [C] ('saúde ambiental') expressa fielmente o preceito legislativo.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1285,10 +1218,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'situação de saúde...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'saúde ambiental...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'epidemiológica...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -1297,6 +1226,7 @@
   },
   {
     "codigo_origem": "Q2454922",
+    "numero_original": 492,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sapezal - MT",
     "ano": 2024,
@@ -1323,10 +1253,10 @@
         "texto": "altamente críticos"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0492",
-    "numero_ordem": 492,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "C",
+    "id": "EF0485",
+    "numero_ordem": 485,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [C] ('semicríticos') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1337,18 +1267,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'não críticos...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'semicríticos...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'altamente críticos...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [C] ('semicríticos') fundame..."
   },
   {
     "codigo_origem": "Q2452995",
+    "numero_original": 504,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sapezal - MT",
     "ano": 2024,
@@ -1375,10 +1302,10 @@
         "texto": "validade, confiabilidade, cobertura, aspectos éticos e administrativos 505 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0504",
-    "numero_ordem": 504,
-    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
+    "resposta_correta": "D",
+    "id": "EF0497",
+    "numero_ordem": 497,
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [D] ('validade, confiabilidade, cobertura, aspectos éticos e administrativos 505 Ano: 2024') expressa fielmente o preceito legislativo.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1391,16 +1318,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'confiabilidade, cobertura, aspectos éticos e administrativos...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'validade, confiabilidade, cobertura, aspectos éticos e administrativos 505 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Partici..."
   },
   {
     "codigo_origem": "Q3674513",
+    "numero_original": 535,
     "banca": "SELECON",
     "orgao": "Prefeitura de Dourados - MS",
     "ano": 2024,
@@ -1427,15 +1351,11 @@
         "texto": "logo de início; de 20 a 24 semanas e com 12 meses após a exposição"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0535",
-    "numero_ordem": 535,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "A",
+    "id": "EF0527",
+    "numero_ordem": 527,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('logo de início; de 4 a 6 semanas e com 3 meses após a exposição') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'logo de início; de 4 a 6 semanas e com 3 meses após a exposição...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'de forma tardia; de 8 a 12 semanas e com 4 meses após a exposição...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -1449,10 +1369,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'logo de início; de 20 a 24 semanas e com 12 meses após a exposição...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('logo de início; de 4 a..."
   },
   {
     "codigo_origem": "Q3584429",
+    "numero_original": 545,
     "banca": "SELECON",
     "orgao": "Prefeitura de Lucas do Rio Verde - MT",
     "ano": 2023,
@@ -1479,10 +1400,10 @@
         "texto": "tratamento com corticosteroides em dose imunossupressora (equivalente a Prednisona de 2 mg/kg/dia, para criança, ou de 20 mg/kg/dia para o adulto) por mais de duas semanas: adiar a vacinação por 30 dias após a suspensão do tratamento 546 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0545",
-    "numero_ordem": 545,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "resposta_correta": "D",
+    "id": "EF0537",
+    "numero_ordem": 537,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [D] ('tratamento com corticosteroides em dose imunossupressora (equivalente a Prednisona de 2 mg/kg/dia, para criança, ou de 20 mg/kg/dia para o adulto) por mais de duas semanas: adiar a vacinação por 30 dias após a suspensão do tratamento 546 Ano: 2023') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1494,10 +1415,6 @@
       },
       {
         "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'tratamento com corticosteroides em dose imunossupressora (equivalente a Prednisona de...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'tratamento com corticosteroides em dose imunossupressora (equivalente a Prednisona de...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],

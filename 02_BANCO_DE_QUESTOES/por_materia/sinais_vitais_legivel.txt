@@ -1,5 +1,5 @@
 === CADERNO DE QUESTÕES: SINAIS VITAIS ===
-Total: 22 questões
+Total: 20 questões
 
 QUESTÃO 1 [Código: EF0011] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2026) - Técnico de Enfermagem
 Assunto: Sinais vitais , Fundamentos e Procedimentos de Enfermagem
@@ -46,12 +46,11 @@ MT - Orientador(a) de Atividade Física e Desportiva Sinais vitais são mediçõ
   [C] temperatura
   [D] tamanho da pupila
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.
+✅ Gabarito: C
+💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [C] ('temperatura') reflete a melhor evidência científica para o manejo de emergência.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'temperatura...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'tamanho da pupila...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
@@ -65,11 +64,10 @@ Enfermagem A mensuração da pressão arterial é um procedimento de rotina, mas
   [C] suspender a aferição por 5 minutos, reaplicar o manguito no membro contralateral e considerar o valor mais baixo como referência para ajuste da medicação
   [D] utilizar o mesmo manguito e realizar as medidas em ambos os braços, adotando o valor mais alto entre os dois membros, pois isso reflete a pressão central
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.
+✅ Gabarito: B
+💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [B] ('repetir a medida por mais três vezes, intercalando intervalos de 2 minutos entre cada uma, e calcular a média aritmética das cinco aferições, desprezando a primeira') reflete a melhor evidência científica para o manejo de emergência.
 ❌ Distratores:
    • Alternativa A: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'considerar o menor valor como válido, pois a redução da pressão arterial é esper...'.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'repetir a medida por mais três vezes, intercalando intervalos de 2 minutos entre cada...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'suspender a aferição por 5 minutos, reaplicar o manguito no membro contralateral e co...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'utilizar o mesmo manguito e realizar as medidas em ambos os braços, adotando o valor ...' não atende às diretrizes oficiais do Ministério da Saúde.
 
@@ -84,12 +82,11 @@ Técnico em Enfermagem - SMS Na aferição da pressão arterial pelo método aus
   [C] superestimados
   [D] inalterados pela largura do manguito
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.
+✅ Gabarito: C
+💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [C] ('superestimados') reflete a melhor evidência científica para o manejo de emergência.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'subestimados...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'superestimados...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'inalterados pela largura do manguito...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
@@ -103,12 +100,11 @@ Técnico em Enfermagem Em adulto, é classificado como hipertermia a temperatura
   [C] 38,0 °C
   [D] 38,5 °C 137 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.
+✅ Gabarito: C
+💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [C] ('38,0 °C') reflete a melhor evidência científica para o manejo de emergência.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois '38,5 °C 137 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
@@ -122,17 +118,16 @@ Técnico em Enfermagem Para evitar erro de leitura decorrente do gap auscultató
   [C] utilizar exclusivamente a técnica palpatória para aferição da diastólica
   [D] realizar previamente a técnica palpatória para estimar a pressão sistólica real 140 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.
+✅ Gabarito: D
+💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [D] ('realizar previamente a técnica palpatória para estimar a pressão sistólica real 140 Ano: 2025') reflete a melhor evidência científica para o manejo de emergência.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'insuflar o manguito rapidamente até 80 mmHg acima do habitual...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'utilizar estetoscópio com membrana pediátrica para maior precisão...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'utilizar exclusivamente a técnica palpatória para aferição da diastólica...'.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'realizar previamente a técnica palpatória para estimar a pressão sistólica real 140 A...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 8 [Código: EF0320] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 8 [Código: EF0319] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Sinais vitais , Fundamentos e Procedimentos de Enfermagem
 Ao admitir no setor um paciente de 11 anos, seu responsável relata que o mesmo tem apresentado febre e que as últimas aferições foram, respectivamente, 39,4ºC às 8h, 38,2ºC às 12h, 39,6ºC às 16h e 38,5ºC às 20h. Ao registrar, o técnico de enfermagem pode classificar o padrão de febre descrito como:
 
@@ -141,17 +136,16 @@ Ao admitir no setor um paciente de 11 anos, seu responsável relata que o mesmo 
   [C] sustentada
   [D] remitente
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.
+✅ Gabarito: D
+💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [D] ('remitente') reflete a melhor evidência científica para o manejo de emergência.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'intermitente...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'reincidente...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
 
 ------------------------------------------------------------
 
-QUESTÃO 9 [Código: EF0326] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 9 [Código: EF0325] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Sinais vitais , Fundamentos e Procedimentos de Enfermagem
 Durante o atendimento, o técnico de enfermagem avalia perda de turgor na pele do paciente e suspeita de um quadro de desidratação. Outros sinais clínicos que corroborem com a indicação:
 
@@ -160,17 +154,16 @@ Durante o atendimento, o técnico de enfermagem avalia perda de turgor na pele d
   [C] sede excessiva e diminuição de diurese
   [D] dor de cabeça e perda de peso acelerada 327 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.
+✅ Gabarito: B
+💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [B] ('mucosas secas e taquicardia') expressa fielmente o preceito legislativo.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'hipotensão e tontura...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'mucosas secas e taquicardia...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'sede excessiva e diminuição de diurese...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'dor de cabeça e perda de peso acelerada 327 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 10 [Código: EF0456] - Prefeitura de Água Boa - MT (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 10 [Código: EF0449] - Prefeitura de Água Boa - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Sinais vitais , Fundamentos e Procedimentos de Enfermagem
 Enfermagem Fatores fisiopatológicos podem alterar a necessidade de oxigênio ou a concentração de gás carbônico no sangue. Isso contribui para a diminuição ou o aumento da frequência dos movimentos respiratórios. A dificuldade na execução dos movimentos respiratórios denomina-se:
 
@@ -179,17 +172,16 @@ Enfermagem Fatores fisiopatológicos podem alterar a necessidade de oxigênio ou
   [C] bradipnéia
   [D] hiperventilação 457 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Prefeitura de Água Boa - MT Prova: SELECON - 2024 - Prefeitura de Água Boa - MT - Técnico em
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.
+✅ Gabarito: B
+💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [B] ('dispnéia') reflete a melhor evidência científica para o manejo de emergência.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'hiperventilação 457 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: ...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 11 [Código: EF0461] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 11 [Código: EF0454] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
 Assunto: Sinais vitais , Fundamentos e Procedimentos de Enfermagem
 Administrativo - Saúde/40h É um sinal vital:
 
@@ -198,17 +190,16 @@ Administrativo - Saúde/40h É um sinal vital:
   [C] frequência respiratória
   [D] peso corporal 462 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.
+✅ Gabarito: C
+💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [C] ('frequência respiratória') reflete a melhor evidência científica para o manejo de emergência.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'perfusão alvéolo-capilar...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'pressão coloidosmótica...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'frequência respiratória...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'peso corporal 462 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 12 [Código: EF0462] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 12 [Código: EF0455] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
 Assunto: Sinais vitais , Fundamentos e Procedimentos de Enfermagem
 Administrativo - Saúde/40h Ao se aferir a frequência respiratória do paciente, obtém-se o seguinte valor: 20 respirações por minuto. Esse resultado indica a seguinte classificação da frequência respiratória do paciente:
 
@@ -217,17 +208,16 @@ Administrativo - Saúde/40h Ao se aferir a frequência respiratória do paciente
   [C] taquipneia leve
   [D] taquipneia grave 463 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.
+✅ Gabarito: A
+💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [A] ('eupneia') reflete a melhor evidência científica para o manejo de emergência.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'taquipneia leve...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'taquipneia grave 463 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 13 [Código: EF0463] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 13 [Código: EF0456] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
 Assunto: Sinais vitais , Fundamentos e Procedimentos de Enfermagem
 Administrativo - Saúde/40h Uma enfermeira realiza a avaliação dos sinais vitais de um paciente adulto consciente e em repouso. Ao aferir a pressão arterial do paciente, obtém os seguintes valores: 130/80 mmHg. A pressão arterial do paciente pode ser classificada como:
 
@@ -236,17 +226,16 @@ Administrativo - Saúde/40h Uma enfermeira realiza a avaliação dos sinais vita
   [C] hipotensão arterial
   [D] pré-hipertensão 464 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.
+✅ Gabarito: B
+💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [B] ('pressão arterial normal') reflete a melhor evidência científica para o manejo de emergência.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'hipertensão arterial grau...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'pressão arterial normal...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'hipotensão arterial...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'pré-hipertensão 464 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 14 [Código: EF0473] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 14 [Código: EF0466] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
 Assunto: Sinais vitais , Fundamentos e Procedimentos de Enfermagem
 Administrativo - Saúde/40h Dentre os seguintes sinais vitais, o que é uma medida da quantidade de oxigênio transportada pelo sangue, expressa em porcentagem, é a:
 
@@ -255,17 +244,16 @@ Administrativo - Saúde/40h Dentre os seguintes sinais vitais, o que é uma medi
   [C] saturação de oxigênio
   [D] frequência cardíaca
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.
+✅ Gabarito: C
+💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [C] ('saturação de oxigênio') reflete a melhor evidência científica para o manejo de emergência.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'pressão arterial sistólica...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'frequência respiratória...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'saturação de oxigênio...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'frequência cardíaca...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 15 [Código: EF0552] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Técnico de Enfermagem
+QUESTÃO 15 [Código: EF0544] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Técnico de Enfermagem
 Assunto: Sinais vitais , Fundamentos e Procedimentos de Enfermagem
 Pública - MT - Técnico em Enfermagem O técnico de enfermagem é responsável pelo monitoramento e o registro dos sinais vitais dos pacientes. Sendo assim, no caso de um paciente que apresenta uma frequência cardíaca acima do normal e uma frequência respiratória abaixo do normal, com períodos de pausa da respiração, o profissional deve registrar a seguinte alteração:
 
@@ -274,17 +262,16 @@ Pública - MT - Técnico em Enfermagem O técnico de enfermagem é responsável 
   [C] taquicardia e taquidispneia com períodos de ortopneia
   [D] bradicardia e hiperventilação com períodos de taquidispneia 553 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.
+✅ Gabarito: A
+💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [A] ('taquicardia e bradipneia com períodos de apneia') reflete a melhor evidência científica para o manejo de emergência.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'taquicardia e bradipneia com períodos de apneia...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'bradicardia e bradipneia com períodos de apneia...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'taquicardia e taquidispneia com períodos de ortopneia...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'bradicardia e hiperventilação com períodos de taquidispneia 553 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 16 [Código: EF0639] - Prefeitura de Campo Verde - MT (SELECON 2023) - Técnico de Enfermagem
+QUESTÃO 16 [Código: EF0631] - Prefeitura de Campo Verde - MT (SELECON 2023) - Técnico de Enfermagem
 Assunto: Sinais vitais , Fundamentos e Procedimentos de Enfermagem
 em Enfermagem A temperatura corporal é a diferença entre a quantidade de calor produzido por processos do corpo e a quantidade de calor perdido para o ambiente externo. Portanto, a aferição da temperatura faz parte da avaliação dos sinais vitais. A aferição da temperatura dos pacientes pode ser realizada nas regiões:
 
@@ -293,17 +280,16 @@ em Enfermagem A temperatura corporal é a diferença entre a quantidade de calor
   [C] retal, pediosa, escapular e esofagiana
   [D] central, glabelar, timpânica e mamilar 640 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.
+✅ Gabarito: A
+💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [A] ('oral, retal, axilar e timpânica') reflete a melhor evidência científica para o manejo de emergência.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'oral, retal, axilar e timpânica...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'oral, sublingual, mamilar e retal...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'retal, pediosa, escapular e esofagiana...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'central, glabelar, timpânica e mamilar 640 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 17 [Código: EF0689] - CLIN (SELECON 2022) - Enfermeiro
+QUESTÃO 17 [Código: EF0681] - CLIN (SELECON 2022) - Enfermeiro
 Assunto: Sinais vitais , Fundamentos e Procedimentos de Enfermagem
 Na consulta de enfermagem no ambulatório da saúde do trabalhador, o enfermeiro Jonas solicitou à auxiliar de enfermagem Ana Maria a aferição completa dos sinais vitais do funcionário Marcos de 31 anos de idade. Os dados obtidos foram: temperatura 36,2°C, pulso 45 BPM e pressão arterial 110/70 mmHg. Ao informar a Jonas os dados do paciente, a auxiliar Ana Maria relata que ele se encontra:
 
@@ -312,17 +298,16 @@ Na consulta de enfermagem no ambulatório da saúde do trabalhador, o enfermeiro
   [C] febril, taquicárdico e hipertenso
   [D] afebril, eupneico e normotenso 690 Ano: 2022
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.
+✅ Gabarito: A
+💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [A] ('afebril, bradicárdico e normotenso') reflete a melhor evidência científica para o manejo de emergência.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'afebril, bradicárdico e normotenso...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'febril, normocárdico e hipotenso...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'febril, taquicárdico e hipertenso...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'afebril, eupneico e normotenso 690 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 18 [Código: EF0691] - CLIN (SELECON 2022) - Enfermeiro
+QUESTÃO 18 [Código: EF0683] - CLIN (SELECON 2022) - Enfermeiro
 Assunto: Sinais vitais , Fundamentos e Procedimentos de Enfermagem
 O auxiliar de enfermagem realizou a aferição da pressão arterial de um funcionário que apresentou cefaleia e náuseas. Ao aferir a pressão, identificou que as pressões sistólica e diastólica estavam muito próximas. Quando esse evento ocorre, é chamado de:
 
@@ -331,17 +316,16 @@ O auxiliar de enfermagem realizou a aferição da pressão arterial de um funcio
   [C] convergente
   [D] filiforme 692 Ano: 2022
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.
+✅ Gabarito: C
+💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [C] ('convergente') reflete a melhor evidência científica para o manejo de emergência.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'convergente...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'filiforme 692 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 19 [Código: EF0860] - Prefeitura de Campo Grande - MS (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 19 [Código: EF0852] - Prefeitura de Campo Grande - MS (SELECON 2024) - Técnico de Enfermagem
 Assunto: Sinais vitais , Fundamentos e Procedimentos de Enfermagem
 A alteração respiratória caracterizada por um aumento gradual na profundidade das respirações, seguida de decréscimo gradual dessa profundidade com período de apneia subsequente é chamada de:
 
@@ -350,17 +334,16 @@ A alteração respiratória caracterizada por um aumento gradual na profundidade
   [C] respiração de Murphy
   [D] respiração de Biot
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.
+✅ Gabarito: A
+💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [A] ('respiração de Cheyne Stokes') reflete a melhor evidência científica para o manejo de emergência.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'respiração de Cheyne Stokes...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'respiração de Korotkoff...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'respiração de Murphy...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'respiração de Biot...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 20 [Código: EF0861] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
+QUESTÃO 20 [Código: EF0853] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
 Assunto: Sinais vitais , Fundamentos e Procedimentos de Enfermagem
 O termo técnico que define um paciente apresentando um pulso fino e com uma frequência cardíaca abaixo da normal é:
 
@@ -369,51 +352,12 @@ O termo técnico que define um paciente apresentando um pulso fino e com uma fre
   [C] bradisfigmia
   [D] taquisfigmia 862 Ano: 2019
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.
+✅ Gabarito: C
+💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [C] ('bradisfigmia') reflete a melhor evidência científica para o manejo de emergência.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'normocardia...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'bradisfigmia...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'taquisfigmia 862 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde.
-
-------------------------------------------------------------
-
-QUESTÃO 21 [Código: EF0885] - Prefeitura de Boa Vista - RR (SELECON 2019) - Técnico de Enfermagem
-Assunto: Sinais vitais , Fundamentos e Procedimentos de Enfermagem
-Técnico - Grupo Especial - Técnico de Enfermagem Existem inúmeros locais para mensurar a frequência do pulso. Quando o examinador coloca o estetoscópio entre o 4º e o 5º espaço intercostal na linha clavicular média esquerda, é chamado de pulso:
-
-  [A] temporal
-  [B] braquial
-  [C] apical
-  [D] radial 886 Ano: 2019
-
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.
-❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'radial 886 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde.
-
-------------------------------------------------------------
-
-QUESTÃO 22 [Código: EF0886] - Prefeitura de Boa Vista - RR (SELECON 2019) - Técnico de Enfermagem
-Assunto: Sinais vitais , Fundamentos e Procedimentos de Enfermagem
-Técnico - Grupo Especial - Técnico de Enfermagem A aferição dos sinais vitais é um modo eficiente e rápido de avaliar e monitorar a condição clínica do paciente. De acordo com Potter e Perry (2013), o pulso é a delimitação palpável da circulação sanguínea, podendo ser aferido em vários pontos no corpo. Os fatores que influenciam o pulso são:
-
-  [A] fármacos, emoções, idade e glicemia em jejum
-  [B] idade, fármacos, raça e condições pulmonares
-  [C] ambiente, raça, sexo e mudanças posturais
-  [D] temperatura, fármacos, hemorragia e exercício 887 Ano: 2019
-
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.
-❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'fármacos, emoções, idade e glicemia em jejum...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'idade, fármacos, raça e condições pulmonares...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'ambiente, raça, sexo e mudanças posturais...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'temperatura, fármacos, hemorragia e exercício 887 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 

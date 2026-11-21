@@ -1,6 +1,7 @@
 [
   {
     "codigo_origem": "Q4445449",
+    "numero_original": 7,
     "banca": "SELECON",
     "orgao": "Prefeitura de Nova Mutum - MT",
     "ano": 2026,
@@ -49,6 +50,7 @@
   },
   {
     "codigo_origem": "Q4445448",
+    "numero_original": 8,
     "banca": "SELECON",
     "orgao": "Prefeitura de Nova Mutum - MT",
     "ano": 2026,
@@ -97,6 +99,7 @@
   },
   {
     "codigo_origem": "Q4336856",
+    "numero_original": 27,
     "banca": "SELECON",
     "orgao": "Prefeitura de Araçás - BA",
     "ano": 2026,
@@ -123,15 +126,11 @@
         "texto": "doxiciclina 100 mg, duas vezes ao dia, por 14 dias, como tratamento de primeira linha para todos os estágios da sífilis"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "A",
     "id": "EF0027",
     "numero_ordem": 27,
-    "fundamentacao_correta": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.",
+    "fundamentacao_correta": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [A]: 'penicilina G benzatina 2.400.000 UI, administrada em dose única intramuscular, dividida em duas aplicações de 1.200.000 UI em cada glúteo'.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'penicilina G benzatina 2.400.000 UI, administrada em dose única intramuscular, dividi...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'azitromicina 1g em dose única oral para pacientes alérgicos à penicilina, com eficáci...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -149,6 +148,7 @@
   },
   {
     "codigo_origem": "Q4336852",
+    "numero_original": 30,
     "banca": "SELECON",
     "orgao": "Prefeitura de Araçás - BA",
     "ano": 2026,
@@ -175,15 +175,11 @@
         "texto": "priorizar a veia cefálica do antebraço, utilizando cateter 24 G para reduzir o trauma, e fixar com fita adesiva micropore sem cobrir o local de inserção"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "A",
     "id": "EF0030",
     "numero_ordem": 30,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('escolher veia de maior calibre no antebraço ou na fossa antecubital, utilizar cateter 20 G, fixar com curativo transparente e realizar inspeção do sítio a cada 6 horas para detecção precoce de infiltração') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'escolher veia de maior calibre no antebraço ou na fossa antecubital, utilizar cateter...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'utilizar veia jugular externa como acesso periférico para soluções irritantes, pois a...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -197,10 +193,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'priorizar a veia cefálica do antebraço, utilizando cateter 24 G para reduzir o trauma...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('escolher veia de maior..."
   },
   {
     "codigo_origem": "Q4317363",
+    "numero_original": 56,
     "banca": "SELECON",
     "orgao": "Prefeitura de Barra do Garças - MT",
     "ano": 2026,
@@ -227,10 +224,10 @@
         "texto": "interação farmacocinética por alteração da distribuição"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0056",
     "numero_ordem": 56,
-    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [C] ('incompatibilidade medicamentosa') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -241,10 +238,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'antagonismo farmacológico...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'incompatibilidade medicamentosa...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'interação farmacocinética por alteração da distribuição...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -253,6 +246,7 @@
   },
   {
     "codigo_origem": "Q4317362",
+    "numero_original": 57,
     "banca": "SELECON",
     "orgao": "Prefeitura de Barra do Garças - MT",
     "ano": 2026,
@@ -279,15 +273,11 @@
         "texto": "mantida no horário prescrito, com registro posterior da via utilizada no procedimento 58 Enfermagem > Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Diagnósticos de Enfermagem - NIC-NOC/CIPE/NANDA Banca: SELECON Órgão: Prefeitura de Barra do Garças - MT Prova: SELECON - 2026 - Prefeitura de Barra do Garças - MT -"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "A",
     "id": "EF0057",
     "numero_ordem": 57,
-    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [A] ('adiada até o esclarecimento da informação') constitui a conduta correta e segura.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'adiada até o esclarecimento da informação...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'realizada pela via relatada como habitual pelo paciente...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -301,10 +291,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'mantida no horário prescrito, com registro posterior da via utilizada no procedimento...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [A] ('adia..."
   },
   {
     "codigo_origem": "Q3981913",
+    "numero_original": 84,
     "banca": "SELECON",
     "orgao": "EMGEPRON",
     "ano": 2026,
@@ -331,10 +322,10 @@
         "texto": "apresentou falha relacionada ao processo de supervisão do cuidado, uma vez que a orientação e o acompanhamento do enfermeiro responsável pelo setor não foram suficientes para prevenir o evento ocorrido 85 Enfermagem > Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Gestão de Processos e Equipes de Trabalho , Administração em Enfermagem Banca: SELECON Órgão: EMGEPRON Prova: SELECON - 2026 - EMGEPRON - Técnico em Enfermagem"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0084",
     "numero_ordem": 84,
-    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [C] ('atendeu parcialmente às recomendações de segurança, por não contemplar todos os critérios previstos nos nove certos da administração de medicamentos, especialmente aqueles relacionados à indicação e à resposta do paciente') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -345,10 +336,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'realizou a administração de forma correta, priorizando a rotina assistencial da unida...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'atendeu parcialmente às recomendações de segurança, por não contemplar todos os crité...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'apresentou falha relacionada ao processo de supervisão do cuidado, uma vez que a orie...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -357,6 +344,7 @@
   },
   {
     "codigo_origem": "Q3884652",
+    "numero_original": 116,
     "banca": "SELECON",
     "orgao": "Prefeitura de Porto dos Gaúchos - MT",
     "ano": 2026,
@@ -383,10 +371,10 @@
         "texto": "administração de grandes volumes, independentemente do risco de dor ou lesão tecidual devido à extensão 117 Ano: 2026"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0116",
     "numero_ordem": 116,
-    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('absorção mais rápida que a via subcutânea, em razão da maior vascularização da área') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -397,18 +385,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'início de ação imediato, comparável ao obtido pela via endovenosa...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'absorção mais rápida que a via subcutânea, em razão da maior vascularização da área...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'administração de grandes volumes, independentemente do risco de dor ou lesão tecidual...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('abso..."
   },
   {
     "codigo_origem": "Q3884076",
+    "numero_original": 126,
     "banca": "SELECON",
     "orgao": "Prefeitura de Porto dos Gaúchos - MT",
     "ano": 2026,
@@ -435,10 +420,10 @@
         "texto": "3,0 mL 127 Ano: 2026"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "D",
     "id": "EF0126",
     "numero_ordem": 126,
-    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [D] ('3,0 mL 127 Ano: 2026') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -451,16 +436,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois '3,0 mL 127 Ano: 2026...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [D] ('3,0 ..."
   },
   {
     "codigo_origem": "Q3810643",
+    "numero_original": 134,
     "banca": "SELECON",
     "orgao": "Prefeitura de Barra do Garças - MT",
     "ano": 2025,
@@ -487,18 +469,14 @@
         "texto": "diluir G50% apenas com 10 mL de solução fisiológica, pois a diluição mínima já reduz risco de flebite 135 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0134",
     "numero_ordem": 134,
-    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [B] ('adicionar 80 mL de diluente aos 20 mL de G50%, obtendo um total de 100 mL em concentração de 10%') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'adicionar 30 mL de diluente aos 20 mL de G50%, reduzindo a concentração final para a ...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'adicionar 80 mL de diluente aos 20 mL de G50%, obtendo um total de 100 mL em concentr...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -513,6 +491,7 @@
   },
   {
     "codigo_origem": "Q3810630",
+    "numero_original": 147,
     "banca": "SELECON",
     "orgao": "Prefeitura de Barra do Garças - MT",
     "ano": 2025,
@@ -539,10 +518,10 @@
         "texto": "a “resposta certa” diz respeito exclusivamente ao registro de reações adversas imediatas, não abrangendo a monitorização clínica posterior ou a avaliação de eficácia terapêutica, limitando-se apenas ao relato pontual de eventos observados no momento da administração 148 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0147",
     "numero_ordem": 147,
-    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('a “orientação certa” implica garantir que o paciente receba informações pertinentes sobre o medicamento, como finalidade, forma correta de uso e possíveis efeitos esperados, contribuindo para maior segurança e adesão') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -553,18 +532,15 @@
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o \"registro certo\" refere-se apenas ao horário da administração, não incluindo l...'."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'a “orientação certa” implica garantir que o paciente receba informações pertinentes s...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a “resposta certa” diz respeito exclusivamente ao registro de reações adversas i...'."
       }
     ],
-    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('a “o..."
   },
   {
     "codigo_origem": "Q3742711",
+    "numero_original": 185,
     "banca": "SELECON",
     "orgao": "Prefeitura de Marcelândia - MT",
     "ano": 2025,
@@ -591,18 +567,14 @@
         "texto": "priorizar a administração de medicamentos orais antes dos injetáveis 186 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0185",
     "numero_ordem": 185,
-    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [B] ('respeitar os intervalos de tempo entre as doses para manter a concentração terapêutica do fármaco') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'administrar o medicamento no momento exato da prescrição, sem qualquer tolerância...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'respeitar os intervalos de tempo entre as doses para manter a concentração terapêutic...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -613,10 +585,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'priorizar a administração de medicamentos orais antes dos injetáveis 186 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [B] ('resp..."
   },
   {
     "codigo_origem": "Q3623618",
+    "numero_original": 199,
     "banca": "SELECON",
     "orgao": "Prefeitura de Nova Mutum - MT",
     "ano": 2025,
@@ -643,18 +616,14 @@
         "texto": "a principal via para efeitos locais e tópicos 200 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0199",
     "numero_ordem": 199,
-    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [B] ('biodisponibilidade de 100%') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'a mais alta latência para o início da ação...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'biodisponibilidade de 100%...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -669,6 +638,7 @@
   },
   {
     "codigo_origem": "Q3623615",
+    "numero_original": 202,
     "banca": "SELECON",
     "orgao": "Prefeitura de Nova Mutum - MT",
     "ano": 2025,
@@ -695,18 +665,14 @@
         "texto": "realização do balanço hídrico do paciente 203 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0202",
     "numero_ordem": 202,
-    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [B] ('aplicação dos \"certos\" da administração de medicamentos') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'verifi cação dos sinais vitais do paciente...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'aplicação dos \"certos\" da administração de medicamentos...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -717,10 +683,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'realização do balanço hídrico do paciente 203 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [B] ('apli..."
   },
   {
     "codigo_origem": "Q3617182",
+    "numero_original": 208,
     "banca": "SELECON",
     "orgao": "Prefeitura de Tapurah - MT",
     "ano": 2025,
@@ -747,10 +714,10 @@
         "texto": "atinge o pico de concentração plasmática mais rapidamente que o Fármaco A, necessitando de monitoramento intensivo apenas nas primeiras horas de tratamento 209 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0208",
     "numero_ordem": 208,
-    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('apresenta maior risco de acúmulo e toxicidade em caso de ajuste inadequado da dose e levará mais tempo para atingir a concentração de estado estacionário (steady state)') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -761,18 +728,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'é rapidamente eliminado do organismo, minimizando a duração de eventuais efeitos adve...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'apresenta maior risco de acúmulo e toxicidade em caso de ajuste inadequado da dose e ...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'atinge o pico de concentração plasmática mais rapidamente que o Fármaco A, neces...'."
       }
     ],
-    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('apre..."
   },
   {
     "codigo_origem": "Q3615479",
+    "numero_original": 222,
     "banca": "SELECON",
     "orgao": "Prefeitura de Tapurah - MT",
     "ano": 2025,
@@ -799,18 +763,14 @@
         "texto": "vasto lateral da coxa"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0222",
     "numero_ordem": 222,
-    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [B] ('ventroglúteo') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'ventroglúteo...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -821,10 +781,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'vasto lateral da coxa...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [B] ('vent..."
   },
   {
     "codigo_origem": "Q3489353",
+    "numero_original": 234,
     "banca": "SELECON",
     "orgao": "Prefeitura de Lucas do Rio Verde - MT",
     "ano": 2025,
@@ -851,10 +812,10 @@
         "texto": "\"A mistura é possível, mas apenas se a administração for imediata e o volume total não exceder 1 mL. A ordem de aspiração não interfere na eficácia, desde que não se contamine os frascos\". 235 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0234",
     "numero_ordem": 234,
-    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('\"Sim, é possível mistura-las. Você deve aspirar primeiro a Insulina Regular (límpida) e depois a Insulina NPH (leitosa), após homogeneizar suavemente o frasco da NPH, e administrar imediatamente para garantir a estabilidade\".') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -865,18 +826,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois '\"Sim, você pode misturar as duas, aspirando primeiro a Insulina NPH (de aspecto leito...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois '\"Sim, é possível mistura-las. Você deve aspirar primeiro a Insulina Regular (límpida)...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que '\"A mistura é possível, mas apenas se a administração for imediata e o volume tot...'."
       }
     ],
-    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('\"Sim..."
   },
   {
     "codigo_origem": "Q3489352",
+    "numero_original": 235,
     "banca": "SELECON",
     "orgao": "Prefeitura de Lucas do Rio Verde - MT",
     "ano": 2025,
@@ -903,15 +861,11 @@
         "texto": "aumentar ligeiramente a dose aspirada para compensar o volume da bolha de ar, garantindo que o paciente receba os 10 mg 236 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "A",
     "id": "EF0235",
     "numero_ordem": 235,
-    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [A] ('expelir cuidadosamente a bolha de ar da seringa, garantindo que a dose correta de 1 mL (10 mg) permaneça, antes de realizar a antissepsia e a aplicação') constitui a conduta correta e segura.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'expelir cuidadosamente a bolha de ar da seringa, garantindo que a dose correta de 1 m...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'administrar a medicação com a bolha de ar, pois em via subcutânea pequenas bolhas não...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -925,10 +879,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'aumentar ligeiramente a dose aspirada para compensar o volume da bolha de ar, garanti...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [A] ('expe..."
   },
   {
     "codigo_origem": "Q3287493",
+    "numero_original": 244,
     "banca": "SELECON",
     "orgao": "Prefeitura de São José dos Quatro Marcos - MT",
     "ano": 2025,
@@ -955,18 +910,14 @@
         "texto": "hepatite B (via subcutânea), tríplice viral (via oral), febre amarela (via intramuscular) 245 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0244",
     "numero_ordem": 244,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [B] ('hepatite B (via intramuscular), tríplice viral (via intramuscular), febre amarela (via subcutânea)') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'hepatite B (via oral), tríplice viral (via subcutânea), febre amarela (via intramuscu...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'hepatite B (via intramuscular), tríplice viral (via intramuscular), febre amarela (vi...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -981,6 +932,7 @@
   },
   {
     "codigo_origem": "Q3262530",
+    "numero_original": 275,
     "banca": "SELECON",
     "orgao": "HEMOMINAS",
     "ano": 2025,
@@ -1007,10 +959,10 @@
         "texto": "60 dias"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0275",
     "numero_ordem": 275,
-    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('35 dias') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1021,18 +973,15 @@
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       }
     ],
-    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('35 d..."
   },
   {
     "codigo_origem": "Q3197471",
+    "numero_original": 314,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sinop - MT",
     "ano": 2025,
@@ -1059,15 +1008,11 @@
         "texto": "o enfermeiro deve usar a técnica Z apenas em situações de infecções graves, inserindo a agulha de forma oblíqua e administrando a medicação lentamente, sem realizar qualquer tipo de tração na pele 315 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0314",
-    "numero_ordem": 314,
-    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "resposta_correta": "A",
+    "id": "EF0313",
+    "numero_ordem": 313,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [A] ('após inserir a agulha em um ângulo de 90 graus, o enfermeiro puxa a pele para formar um \"Z\", garantindo a vedação do local da aplicação, pois isso evita o extravasamento da medicação para os tecidos subcutâneos, o que reduziria as chances de formação de abscessos ou outras complicações locais') constitui a conduta correta e segura.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'após inserir a agulha em um ângulo de 90 graus, o enfermeiro puxa a pele para formar ...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'a técnica Z exige a inserção da agulha em um ângulo de 45 graus, após o que o enferme...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -1081,10 +1026,11 @@
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o enfermeiro deve usar a técnica Z apenas em situações de infecções graves, inse...'."
       }
     ],
-    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [A] ('após..."
   },
   {
     "codigo_origem": "Q3197247",
+    "numero_original": 318,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sinop - MT",
     "ano": 2025,
@@ -1111,17 +1057,13 @@
         "texto": "cooperativismo 319 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0318",
-    "numero_ordem": 318,
-    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "resposta_correta": "B",
+    "id": "EF0317",
+    "numero_ordem": 317,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [B] ('sinergismo') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "B",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
@@ -1133,10 +1075,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'cooperativismo 319 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [B] ('sine..."
   },
   {
     "codigo_origem": "Q3184823",
+    "numero_original": 323,
     "banca": "SELECON",
     "orgao": "Prefeitura de Nova Mutum - MT",
     "ano": 2024,
@@ -1163,10 +1106,10 @@
         "texto": "o uso concomitante pode aumentar o risco de hipoglicemia, exigindo monitoramento cuidadoso dos níveis de glicose 324 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0323",
-    "numero_ordem": 323,
-    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "resposta_correta": "D",
+    "id": "EF0322",
+    "numero_ordem": 322,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [D] ('o uso concomitante pode aumentar o risco de hipoglicemia, exigindo monitoramento cuidadoso dos níveis de glicose 324 Ano: 2024') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1179,16 +1122,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'não há interação significativa entre metformina e macrolideos, portanto, não é necess...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'o uso concomitante pode aumentar o risco de hipoglicemia, exigindo monitoramento cuid...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   },
   {
     "codigo_origem": "Q2528693",
+    "numero_original": 335,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -1219,10 +1159,10 @@
         "texto": "0,6 ml 336 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0335",
-    "numero_ordem": 335,
-    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "resposta_correta": "E",
+    "id": "EF0334",
+    "numero_ordem": 334,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [E] ('0,6 ml 336 Ano: 2024') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1239,16 +1179,13 @@
       {
         "letra": "D",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "E",
-        "motivo": "Incorreta perante os protocolos técnicos, pois '0,6 ml 336 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [E] ('0,6 ..."
   },
   {
     "codigo_origem": "Q2477207",
+    "numero_original": 421,
     "banca": "SELECON",
     "orgao": "Prefeitura de Água Boa - MT",
     "ano": 2024,
@@ -1275,15 +1212,11 @@
         "texto": "broncodilação 422 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0421",
-    "numero_ordem": 421,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "A",
+    "id": "EF0414",
+    "numero_ordem": 414,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('nebulização') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'nebulização...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'fluidificação...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -1297,10 +1230,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'broncodilação 422 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('nebulização') fundamen..."
   },
   {
     "codigo_origem": "Q2467380",
+    "numero_original": 458,
     "banca": "SELECON",
     "orgao": "Prefeitura de Água Boa - MT",
     "ano": 2024,
@@ -1327,10 +1261,10 @@
         "texto": "sublingual 459 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0458",
-    "numero_ordem": 458,
-    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "resposta_correta": "C",
+    "id": "EF0451",
+    "numero_ordem": 451,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('parenteral') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1341,18 +1275,15 @@
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'sublingual 459 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('pare..."
   },
   {
     "codigo_origem": "Q2467330",
+    "numero_original": 472,
     "banca": "SELECON",
     "orgao": "Prefeitura de Água Boa - MT",
     "ano": 2024,
@@ -1379,18 +1310,14 @@
         "texto": "certo paciente, certo medicamento, certo diagnóstico, certo local, certo profissional"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0472",
-    "numero_ordem": 472,
-    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "resposta_correta": "B",
+    "id": "EF0465",
+    "numero_ordem": 465,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [B] ('certo paciente, certo medicamento, certo horário, certo local, certo profissional') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'certo paciente, certo medicamento, certo horário, certo local, certo registro...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'certo paciente, certo medicamento, certo horário, certo local, certo profissional...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -1401,10 +1328,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'certo paciente, certo medicamento, certo diagnóstico, certo local, certo profissional...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [B] ('cert..."
   },
   {
     "codigo_origem": "Q2454934",
+    "numero_original": 480,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sapezal - MT",
     "ano": 2024,
@@ -1431,17 +1359,13 @@
         "texto": "40 gotas"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0480",
-    "numero_ordem": 480,
-    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "resposta_correta": "B",
+    "id": "EF0473",
+    "numero_ordem": 473,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [B] ('20 gotas') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "B",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
@@ -1453,10 +1377,11 @@
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       }
     ],
-    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [B] ('20 g..."
   },
   {
     "codigo_origem": "Q2160740",
+    "numero_original": 667,
     "banca": "SELECON",
     "orgao": "Prefeitura de Nova Mutum - MT",
     "ano": 2024,
@@ -1483,10 +1408,10 @@
         "texto": "ocular"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0667",
-    "numero_ordem": 667,
-    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "resposta_correta": "C",
+    "id": "EF0659",
+    "numero_ordem": 659,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('sublingual') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1497,18 +1422,15 @@
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       }
     ],
-    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [C] ('subl..."
   },
   {
     "codigo_origem": "Q2024557",
+    "numero_original": 687,
     "banca": "SELECON",
     "orgao": "CLIN",
     "ano": 2022,
@@ -1535,15 +1457,11 @@
         "texto": "8.000 ml, sendo 4.000 ml por sítio de punção 688 Ano: 2022"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0687",
-    "numero_ordem": 687,
-    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "resposta_correta": "A",
+    "id": "EF0679",
+    "numero_ordem": 679,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [A] ('2.000 ml, sendo 1.000 ml por sítio de punção') constitui a conduta correta e segura.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois '2.000 ml, sendo 1.000 ml por sítio de punção...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois '4.000 ml, sendo 2.000 ml por sítio de punção...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -1557,10 +1475,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois '8.000 ml, sendo 4.000 ml por sítio de punção 688 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [A] ('2.00..."
   },
   {
     "codigo_origem": "Q1953166",
+    "numero_original": 721,
     "banca": "SELECON",
     "orgao": "Prefeitura de Pontes e Lacerda - MT",
     "ano": 2022,
@@ -1587,10 +1506,10 @@
         "texto": "Mann-Whitney 722 Ano: 2022"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0721",
-    "numero_ordem": 721,
-    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "resposta_correta": "C",
+    "id": "EF0713",
+    "numero_ordem": 713,
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [C] ('Hochstetter') representa a conduta científica e clinicamente recomendada.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1601,10 +1520,6 @@
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'Hochstetter...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'Mann-Whitney 722 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -1613,6 +1528,7 @@
   },
   {
     "codigo_origem": "Q1313711",
+    "numero_original": 788,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2020,
@@ -1639,17 +1555,13 @@
         "texto": "10 ml 789 Ano: 2020"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0788",
-    "numero_ordem": 788,
-    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "resposta_correta": "B",
+    "id": "EF0780",
+    "numero_ordem": 780,
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [B] ('25 ml') representa a conduta científica e clinicamente recomendada.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "B",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
@@ -1665,6 +1577,7 @@
   },
   {
     "codigo_origem": "Q1242252",
+    "numero_original": 876,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2024,
@@ -1691,18 +1604,14 @@
         "texto": "83 gotas/min"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0876",
-    "numero_ordem": 876,
-    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "resposta_correta": "B",
+    "id": "EF0868",
+    "numero_ordem": 868,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [B] ('28 gotas/min') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois '20 gotas/min...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois '28 gotas/min...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -1713,6 +1622,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois '83 gotas/min...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [B] ('28 g..."
   }
 ]

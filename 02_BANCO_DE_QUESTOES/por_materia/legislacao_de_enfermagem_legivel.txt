@@ -1,5 +1,5 @@
 === CADERNO DE QUESTÕES: LEGISLAÇÃO DE ENFERMAGEM ===
-Total: 63 questões
+Total: 58 questões
 
 QUESTÃO 1 [Código: EF0009] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2026) - Técnico de Enfermagem
 Assunto: Legislação de Enfermagem , Código de Ética dos Profissionais de Enfermagem
@@ -64,13 +64,12 @@ Técnico em Enfermagem - SMS A contenção mecânica constitui uma medida excepc
   [C] houver agitação que dificulte a organização da unidade
   [D] constituir o único meio disponível para prevenir dano imediato ou iminente ao paciente ou aos demais
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: D
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [D] ('constituir o único meio disponível para prevenir dano imediato ou iminente ao paciente ou aos demais') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'facilitar a realização dos cuidados...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'reduzir a necessidade de vigilância contínua...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'houver agitação que dificulte a organização da unidade...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'constituir o único meio disponível para prevenir dano imediato ou iminente ao pacient...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
@@ -83,10 +82,9 @@ Com base no Código de Ética dos Profissionais de Enfermagem, no que diz respei
   [C] em situações de risco institucional, o profissional pode deixar de registrar intercorrências para evitar responsabilização administrativa
   [D] a delegação de atividades privativas do enfermeiro é permitida mediante acordo informal entre membros da equipe
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: A
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('o efermeiro deve assegurar assistência livre de danos decorrentes de imperícia, negligência ou imprudência, respondendo pelos atos praticados e pela supervisão da equipe sob sua responsabilidade') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'o efermeiro deve assegurar assistência livre de danos decorrentes de imperícia, negli...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'a responsabilidade do enfermeito limita-se aos atos executados pessoalmente, não abra...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'em situações de risco institucional, o profissional pode deixar de registrar intercor...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'a delegação de atividades privativas do enfermeiro é permitida mediante acordo inform...' não atende às diretrizes oficiais do Ministério da Saúde.
@@ -102,10 +100,9 @@ Durante atendimento em uma Unidade de Pronto Atendimento (UPA), um paciente adul
   [C] a coordenação da equipe durante a parada cardiorrespiratória constitui atribuição privativa do médico presente, sendo o enfermeiro responsável apenas por executar intervenções previamente prescritas
   [D] após cada desfibrilação realizada, é obrigatória a verificação imediata do pulso central antes da retomada das compressões, a fim de confirmar possível retorno da circulação espontânea
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: A
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [A] ('identificado ritmo chocável, a desfibrilação deve ser realizada prontamente, com retomada imediata das compressões torácicas e nova análise do ritmo após cerca de dois minutos, minimizando interrupções') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'identificado ritmo chocável, a desfibrilação deve ser realizada prontamente, com reto...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'identificado ritmo chocável, recomenda-se completar previamente dois minutos de compr...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a coordenação da equipe durante a parada cardiorrespiratória constitui atribuiçã...'.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'após cada desfibrilação realizada, é obrigatória a verificação imediata do pulso cent...' não atende às diretrizes oficiais do Ministério da Saúde.
@@ -121,11 +118,10 @@ Durante auditoria interna em hospital público, identificou-se que uma enfermeir
   [C] conduta aceitável desde que haja consenso verbal da equipe de enfermagem no plantão quanto à inadequação da prescrição
   [D] ato administrativo irregular, porém sem repercussão ética, desde que a prescrição não tenha sido efetivamente executada 109 Ano: 2026
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: B
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [B] ('infração ética decorrente da ausência de registro formal e de comunicação institucional adequada diante de divergência técnico-assistencial') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'exercício legítimo da autonomia técnica do enfermeiro, sendo sufi ciente a orientação...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'infração ética decorrente da ausência de registro formal e de comunicação institucion...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'conduta aceitável desde que haja consenso verbal da equipe de enfermagem no plantão q...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'ato administrativo irregular, porém sem repercussão ética, desde que a prescrição não...' não atende às diretrizes oficiais do Ministério da Saúde.
 
@@ -140,13 +136,12 @@ MT - Técnico em Enfermagem Durante o turno de trabalho, em uma unidade de saúd
   [C] atualização técnica permanente
   [D] sigilo profissional 119 Ano: 2026 Enfermagem > Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Diagnósticos de Enfermagem - NIC-NOC/CIPE/NANDA Banca: SELECON Órgão: Prefeitura de Porto dos Gaúchos - MT Prova: SELECON - 2026 - Prefeitura de Porto dos Gaúchos -
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: D
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [D] ('sigilo profissional 119 Ano: 2026 Enfermagem > Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Diagnósticos de Enfermagem - NIC-NOC/CIPE/NANDA Banca: SELECON Órgão: Prefeitura de Porto dos Gaúchos - MT Prova: SELECON - 2026 - Prefeitura de Porto dos Gaúchos -') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'trabalho em equipe multiprofissional...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'comunicação efetiva em saúde...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'atualização técnica permanente...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'sigilo profissional 119 Ano: 2026 Enfermagem > Processo de Enfermagem e Sistematizaçã...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
@@ -159,11 +154,10 @@ Técnico em Enfermagem Durante uma avaliação interna de práticas assistenciai
   [C] conduta passível de orientação administrativa, mas não caracterizada como infração ética, por envolver interpretação subjetiva de prioridades
   [D] ação justificável eticamente quando o profissional entende que outro membro da equipe possui maior competência técnica para assumir o atendimento imediato, considerando a segurança do paciente e a organização do serviço 147 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: B
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [B] ('infração ética, por negar assistência em situação que exige atendimento imediato, sem justificativa que represente risco pessoal ao profissional') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'procedimento aceitável, desde que o profissional tenha registrado adequadamente os mo...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'infração ética, por negar assistência em situação que exige atendimento imediato, sem...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'conduta passível de orientação administrativa, mas não caracterizada como infração ét...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'ação justificável eticamente quando o profissional entende que outro membro da equipe...' não atende às diretrizes oficiais do Ministério da Saúde.
 
@@ -178,13 +172,12 @@ Técnico em Enfermagem O processo de trabalho em enfermagem se organiza de forma
   [C] supervisionar diretamente os cuidados prestados por auxiliares e atendentes
   [D] participar da execução do plano assistencial de enfermagem, sob supervisão do enfermeiro 154 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: D
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [D] ('participar da execução do plano assistencial de enfermagem, sob supervisão do enfermeiro 154 Ano: 2025') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'prescrever medicamentos de uso contínuo sob supervisão médica...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'planejar ações de enfermagem em programas de saúde coletiva...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'supervisionar diretamente os cuidados prestados por auxiliares e atendentes...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'participar da execução do plano assistencial de enfermagem, sob supervisão do enferme...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
@@ -197,11 +190,10 @@ A ética e a bioética são fundamentais na prática da enfermagem, guiando as d
   [C] ignorar a recusa do paciente e preparar-se para o procedimento, pois a equipe médica já o indicou
   [D] solicitar que a família do paciente decida em seu lugar, desconsiderando a autonomia do paciente 155 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: B
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [B] ('respeitar a decisão do paciente, garantindo que ele compreendeu as informações sobre o procedimento e suas consequências, e documentar a recusa no prontuário') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'persuadir o paciente a aceitar o procedimento, enfatizando os riscos de não realizá-l...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'respeitar a decisão do paciente, garantindo que ele compreendeu as informações sobre ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'ignorar a recusa do paciente e preparar-se para o procedimento, pois a equipe médica ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'solicitar que a família do paciente decida em seu lugar, desconsiderando a autonomia ...' não atende às diretrizes oficiais do Ministério da Saúde.
 
@@ -216,12 +208,11 @@ Enfermagem Durante o plantão, um técnico de enfermagem compartilha em um grupo
   [C] caracteriza infração ética, pois viola o direito à privacidade e ao sigilo profissional
   [D] será permitida se o técnico comunicar posteriormente ao enfermeiro responsável
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: C
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [C] ('caracteriza infração ética, pois viola o direito à privacidade e ao sigilo profissional') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'é aceitável, pois não houve identificação direta do paciente...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'não constitui infração ética se houver justificativa para aprendizado da equipe...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'caracteriza infração ética, pois viola o direito à privacidade e ao sigilo profission...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'será permitida se o técnico comunicar posteriormente ao enfermeiro responsável...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
@@ -235,11 +226,10 @@ MT - Técnico em Enfermagem APH Um técnico de enfermagem, ao administrar medica
   [C] uma atitude de prudência ao evitar alarde desnecessário, já que o paciente poderia não apresentar reações adversas significativas
   [D] apenas um erro técnico sem implicação ética, desde que o paciente não sofra danos permanentes e o técnico se comprometa a ter mais atenção futuramente 232 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: B
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [B] ('uma infração ética grave por omissão de informação essencial para a segurança do paciente e por não registrar o incidente, caracterizando negligência e possível tentativa de encobrir o erro') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'um ato de imperícia, pois demonstrou falta de habilidade técnica na administração da ...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'uma infração ética grave por omissão de informação essencial para a segurança do paci...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'uma atitude de prudência ao evitar alarde desnecessário, já que o paciente poderia nã...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'apenas um erro técnico sem implicação ética, desde que o paciente não sofra dano...'.
 
@@ -254,12 +244,11 @@ Quatro Marcos - MT - Técnico em Enfermagem Durante o plantão, o técnico de en
   [C] notificar imediatamente a direção do hospital e o Conselho Regional de Enfermagem (COREN), garantindo que a violação ética seja investigada e corrigida, de acordo com o Código de Ética
   [D] informar ao paciente que seu procedimento foi registrado por outra pessoa, para que ele tenha ciência da situação e tome suas providências legais, mas não tomar nenhuma ação em relação ao colega 247 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: C
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [C] ('notificar imediatamente a direção do hospital e o Conselho Regional de Enfermagem (COREN), garantindo que a violação ética seja investigada e corrigida, de acordo com o Código de Ética') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'ignorar a situação, pois o técnico de enfermagem não é responsável pelo comportamento...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'discutir o ocorrido diretamente com o enfermeiro, sugerindo que ele pare de registrar...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'notificar imediatamente a direção do hospital e o Conselho Regional de Enfermagem (CO...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'informar ao paciente que seu procedimento foi registrado por outra pessoa, para que e...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
@@ -273,12 +262,11 @@ ANHH - Nível I - Grau A - Enfermeiro Ao trabalhar com a Sistematização da Ass
   [C] a aplicação da SAE no ambiente hospitalar é obrigatória por lei e contribui para a melhoria da qualidade do cuidado, unificando o raciocínio clínico e garantindo continuidade nas ações de enfermagem
   [D] a Resolução COFEN nº 358/2009 permite que o enfermeiro formule o diagnóstico de enfermagem usando apenas critérios subjetivos, desde que validados diretamente com o paciente 260 Ano: 2025 Enfermagem > Legislação de Enfermagem , Processo de Enfermagem e Sistematização da Assistência de Enfermagem Banca: SELECON Órgão: HEMOMINAS Prova: SELECON - 2025 - HEMOMINAS - Analista de Hematologia e Hemoterapia -
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: C
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [C] ('a aplicação da SAE no ambiente hospitalar é obrigatória por lei e contribui para a melhoria da qualidade do cuidado, unificando o raciocínio clínico e garantindo continuidade nas ações de enfermagem') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a SAE é exclusiva para os enfermeiros, enquanto os técnicos e auxiliares de enfe...'.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'a SAE é um processo linear cujo principal foco está na resolução imediata do problema...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a aplicação da SAE no ambiente hospitalar é obrigatória por lei e contribui para a me...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a Resolução COFEN nº 358/2009 permite que o enfermeiro formule o diagnóstico de ...'.
 
 ------------------------------------------------------------
@@ -292,36 +280,16 @@ ANHH - Nível I - Grau A - Assistente Social De acordo com a Resolução RDC n°
   [C] calibração
   [D] aférese
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: D
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [D] ('aférese') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'ciclo produtivo do sangue...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'crioprecipitado...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
 
 ------------------------------------------------------------
 
-QUESTÃO 17 [Código: EF0281] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
-Assunto: Legislação de Enfermagem , Código de Ética dos Profissionais de Enfermagem
-Enfermagem Durante um atendimento de urgência em uma unidade de pronto atendimento (UPA), um enfermeiro é responsável pela triagem e pelo acompanhamento de um paciente que sofreu um acidente de trânsito. Ao iniciar o atendimento, o enfermeiro, em razão da gravidade do quadro clínico e da pressão do momento, decide administrar um medicamento de forma autônoma, sem a devida consulta prévia ao médico responsável, acreditando ser uma decisão necessária para salvar a vida do paciente. Ao perceber que o medicamento administrado não era o indicado para o quadro clínico do paciente, o enfermeiro deve agir de acordo com o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 311/2007). A conduta ética correta neste caso:
-
-  [A] o enfermeiro deve interromper o atendimento imediatamente e corrigir a administração do medicamento, comunicando de forma clara e imediata ao médico responsável, assumindo a responsabilidade pela ação e adotando as medidas corretivas para evitar complicações adicionais
-  [B] o enfermeiro pode continuar o atendimento, aguardando a avaliação do médico responsável para discutir o erro na administração do medicamento, já que as condições de urgência podem justificar decisões independentes da equipe médica
-  [C] o enfermeiro deve, imediatamente, comunicar ao médico sobre a administração do medicamento errado, mas não precisa reverter a administração, pois foi uma decisão tomada com boa intenção e urgência, e o paciente não apresenta sinais evidentes de complicação
-  [D] o enfermeiro deve assumir a responsabilidade pela administração do medicamento, mas somente informar ao médico após o término do atendimento de emergência, sem interromper o processo de atendimento, já que é uma ação comum em situações de urgência
-
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
-❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'o enfermeiro deve interromper o atendimento imediatamente e corrigir a administração ...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'o enfermeiro pode continuar o atendimento, aguardando a avaliação do médico responsáv...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'o enfermeiro deve, imediatamente, comunicar ao médico sobre a administração do medica...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'o enfermeiro deve assumir a responsabilidade pela administração do medicamento, mas s...' não atende às diretrizes oficiais do Ministério da Saúde.
-
-------------------------------------------------------------
-
-QUESTÃO 18 [Código: EF0310] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 17 [Código: EF0309] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
 Assunto: Legislação de Enfermagem , Código de Ética dos Profissionais de Enfermagem
 Em um hospital, uma paciente transgênero de 28 anos foi admitida na unidade de emergência após um acidente. Durante a avaliação inicial, a equipe de enfermagem, composta por profissionais recém-formados, começa a discutir de forma inadequada sobre a identidade de gênero da paciente, questionando o nome e o sexo designado ao nascimento. A enfermeira responsável pela equipe, embora não tenha participado diretamente dessa conversa, opta por não intervir e segue com os procedimentos de atendimento sem esclarecer a situação para a equipe. Considerando a ética profissional e a legislação vigente, a postura mais adequada da enfermeira responsável diante dessa situação deve ser:
 
@@ -330,17 +298,16 @@ Em um hospital, uma paciente transgênero de 28 anos foi admitida na unidade de 
   [C] focar apenas no cuidado técnico e clínico da paciente, deixando de lado questões relacionadas à identidade de gênero, pois este não é um aspecto relevante para o tratamento de emergência
   [D] tomar medidas imediatas para garantir que o nome e a identidade de gênero da paciente sejam respeitados, explicando para a equipe que qualquer forma de discriminação é incompatível com a ética profissional e com os direitos da paciente 311 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: D
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [D] ('tomar medidas imediatas para garantir que o nome e a identidade de gênero da paciente sejam respeitados, explicando para a equipe que qualquer forma de discriminação é incompatível com a ética profissional e com os direitos da paciente 311 Ano: 2025') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'orientar a equipe sobre os princípios de respeito à identidade de gênero, assegurando...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'se abster de intervir, considerando que o comportamento da equipe é resultado de sua ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'focar apenas no cuidado técnico e clínico da paciente, deixando de lado questões...'.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'tomar medidas imediatas para garantir que o nome e a identidade de gênero da paciente...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 19 [Código: EF0313] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
+QUESTÃO 18 [Código: EF0312] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
 Assunto: Legislação de Enfermagem , Código de Ética dos Profissionais de Enfermagem
 Uma enfermeira está responsável pelo cuidado de um paciente com comorbidades, incluindo diabetes tipo 1 e insuficiência renal crônica, que foi internado para uma cirurgia de grande porte. Durante a administração dos medicamentos, a enfermeira percebe que o paciente tem um histórico de reações alérgicas graves a medicamentos da classe dos antibióticos beta lactâmicos, mas o médico prescreveu um antibiótico dessa classe para profilaxia. A enfermeira, ciente dessa alergia, opta por não informar o médico sobre o histórico alérgico do paciente e administra o medicamento prescrito sem questionamentos. Segundo o Código de Ética dos Profissionais de Enfermagem, a conduta ética mais adequada é:
 
@@ -349,17 +316,16 @@ Uma enfermeira está responsável pelo cuidado de um paciente com comorbidades, 
   [C] a enfermeira deve recusar-se a administrar o antibiótico e aguardar o médico revisar a prescrição, sem informar sobre o histórico alérgico do paciente, pois a responsabilidade pela escolha do medicamento é exclusivamente do médico
   [D] a enfermeira deve notificar imediatamente o médico sobre o histórico alérgico do paciente e questionar a escolha do antibiótico, destacando o risco de reação alérgica grave e propondo alternativas seguras para o paciente 314 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: D
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [D] ('a enfermeira deve notificar imediatamente o médico sobre o histórico alérgico do paciente e questionar a escolha do antibiótico, destacando o risco de reação alérgica grave e propondo alternativas seguras para o paciente 314 Ano: 2025') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'a enfermeira deve administrar o medicamento conforme prescrito, pois a prescrição méd...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'a enfermeira pode administrar o antibiótico prescrito sem questionamentos, pois o méd...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a enfermeira deve recusar-se a administrar o antibiótico e aguardar o médico rev...'.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'a enfermeira deve notificar imediatamente o médico sobre o histórico alérgico do paci...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 20 [Código: EF0325] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 19 [Código: EF0324] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Enfermeiro
 Assunto: Legislação de Enfermagem , Código de Ética dos Profissionais de Enfermagem
 De acordo com o Código de Ética dos Profissionais de Enfermagem (CEPE), manter o sigilo profissional referente a informaçóes de um menor de idade capaz de expressar discernimento, ainda que estas informaçóes sejam solicitadas pelos pais ou responsáveis, consiste em:
 
@@ -368,17 +334,16 @@ De acordo com o Código de Ética dos Profissionais de Enfermagem (CEPE), manter
   [C] uma proibição
   [D] uma infração 326 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: A
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('um dever') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'uma proibição...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'uma infração 326 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 21 [Código: EF0332] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 20 [Código: EF0331] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
 Assunto: Legislação de Enfermagem
 A conduta do profissional de enfermagem deve prevenir prejuízos ao paciente devido à falta de atenção, negligência ou mesmo imperícia. Para tanto, prioritariamente, deve-se adotar um conjunto de princípios que norteiem o exercício profissional no campo:
 
@@ -388,18 +353,17 @@ A conduta do profissional de enfermagem deve prevenir prejuízos ao paciente dev
   [D] técnico
   [E] ético 333 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: SAD-MS Prova: SELECON - 2024 - SAD-MS - Técnico de Enfermagem
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: E
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [E] ('ético 333 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: SAD-MS Prova: SELECON - 2024 - SAD-MS - Técnico de Enfermagem') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'administrativo...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'assistencial...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa E: Incorreta perante os protocolos técnicos, pois 'ético 333 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: ...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 22 [Código: EF0354] - COREN-RR (SELECON 2024) - Enfermeiro
+QUESTÃO 21 [Código: EF0353] - COREN-RR (SELECON 2024) - Enfermeiro
 Assunto: Legislação de Enfermagem , COFEN
 Segundo a Resolução COFEN n.⁰ 736/2024, o elemento que deve estar fundamentado em suporte teórico, como teorias e modelos de cuidado, sistemas de linguagens padronizadas, instrumentos de avaliação de predição de risco validados, protocolos baseados em evidências e outros conhecimentos correlatos, como estruturas teóricas conceituais e operacionais que fornecem propriedades descritivas, explicativas, preditivas e prescritivas que lhe servem de base é o:
 
@@ -408,17 +372,16 @@ Segundo a Resolução COFEN n.⁰ 736/2024, o elemento que deve estar fundamenta
   [C] serviço de enfermagem
   [D] sistema de enfermagem 355 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: A
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('processo de enfermagem') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'processo de enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'cuidado de enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'serviço de enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'sistema de enfermagem 355 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 23 [Código: EF0355] - COREN-RR (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 22 [Código: EF0354] - COREN-RR (SELECON 2024) - Técnico de Enfermagem
 Assunto: Legislação de Enfermagem , COFEN
 A Anotação de Responsabilidade Técnica – ART é concedida, pelo Coren, ao profissional que exerce as atividades de enfermagem dispostas nos termos da Lei nº 7.498/1986 e do Decreto n.º 94.406/1987 e que desempenha as atribuições previstas nos atos regulatórios do exercício da profissão de enfermagem e na Resolução 727/2023 – Cofen. Esse profissional é o:
 
@@ -427,32 +390,16 @@ A Anotação de Responsabilidade Técnica – ART é concedida, pelo Coren, ao p
   [C] Enfermeiro Responsável
   [D] Enfermeiro Responsável Técnico 356 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: D
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [D] ('Enfermeiro Responsável Técnico 356 Ano: 2024') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'Enfermeiro Técnico...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Enfermeiro Responsável...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Enfermeiro Responsável Técnico 356 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 24 [Código: EF0356] - COREN-RR (SELECON 2024) - Técnico de Enfermagem
-Assunto: Legislação de Enfermagem
-Os Enfermeiros e Técnicos de Enfermagem somente poderão atuar nos Serviços de Hemoterapia quando devidamente capacitados. Essa determinação está expressa na Resolução n⁰:
-
-  [A] B
-  [C] D 357 Ano: 2024
-
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
-❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'D 357 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
-
-------------------------------------------------------------
-
-QUESTÃO 25 [Código: EF0357] - COREN-RR (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 23 [Código: EF0355] - COREN-RR (SELECON 2024) - Técnico de Enfermagem
 Assunto: Legislação de Enfermagem
 Segundo a Resolução 582/2018, é vedado ao Enfermeiro o ensino de práticas de Enfermagem que exija aplicação de conhecimentos técnico-científicos, tanto em aulas teóricas como em atividades de estágio e em atividades de formação de:
 
@@ -461,17 +408,16 @@ Segundo a Resolução 582/2018, é vedado ao Enfermeiro o ensino de práticas de
   [C] técnico de enfermagem
   [D] instrumentador cirúrgico 358 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: B
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [B] ('cuidador de idoso') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'cuidador de idoso...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'técnico de enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'instrumentador cirúrgico 358 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 26 [Código: EF0358] - COREN-RR (SELECON 2024) - Enfermeiro
+QUESTÃO 24 [Código: EF0356] - COREN-RR (SELECON 2024) - Enfermeiro
 Assunto: Legislação de Enfermagem
 De acordo com a Resolução n.⁰ 7/2010, a combinação da probabilidade de ocorrência de um dano com a gravidade de tal dano refere-se à definição de:
 
@@ -480,32 +426,16 @@ De acordo com a Resolução n.⁰ 7/2010, a combinação da probabilidade de oco
   [C] prevalência
   [D] patogenicidade 359 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: A
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('risco') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'prevalência...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'patogenicidade 359 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 27 [Código: EF0362] - COREN-RR (SELECON 2024) - Técnico de Enfermagem
-Assunto: Legislação de Enfermagem , COFEN
-No âmbito da equipe de Enfermagem, a coleta de material para colpocitologia oncótica pelo método de Papanicolau é privativa do(a) Enfermeiro(a), observadas as disposições legais da profissão. O(a) Enfermeiro(a) deverá estar dotado(a) dos conhecimentos, competências e habilidades que garantam rigor técnico-científico ao procedimento, atentando para a capacitação contínua necessária à sua realização. Tal normatização está garantida na Resolução COFEN N⁰:
-
-  [A] B
-  [C] D 363 Ano: 2024
-
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
-❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'D 363 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
-
-------------------------------------------------------------
-
-QUESTÃO 28 [Código: EF0363] - COREN-RR (SELECON 2024) - Enfermeiro
+QUESTÃO 25 [Código: EF0360] - COREN-RR (SELECON 2024) - Enfermeiro
 Assunto: Legislação de Enfermagem , COFEN
 Segundo a Resolução COFEN Nº 0464/2014, a Atenção Domiciliar compreende as seguintes modalidades:
 
@@ -514,17 +444,16 @@ Segundo a Resolução COFEN Nº 0464/2014, a Atenção Domiciliar compreende as 
   [C] atendimento, visita
   [D] internação, visita 364 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: A
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('atendimento, internação, visita') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'atendimento, internação, visita...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'atendimento, internação...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'atendimento, visita...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'internação, visita 364 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 29 [Código: EF0374] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 26 [Código: EF0371] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Legislação de Enfermagem
 O profissional qualificado para efetuar as avaliações do Processo de Acreditação, capacitado conforme as normas vigentes, definidas em parâmetros específicos da ONA (Organização Nacional de Acreditação) denomina-se:
 
@@ -534,18 +463,17 @@ O profissional qualificado para efetuar as avaliações do Processo de Acredita�
   [D] coordenador
   [E] avaliador 375 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: E
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [E] ('avaliador 375 Ano: 2024') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'membro da equipe...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'membro líder...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'avaliador líder...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'coordenador...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa E: Incorreta perante os protocolos técnicos, pois 'avaliador 375 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 30 [Código: EF0379] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 27 [Código: EF0376] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Legislação de Enfermagem , COFEN
 O instrumento legal do COFEN que dispõe sobre o registro das ações profissionais no prontuário do paciente, e em outros documentos próprios da enfermagem, independente do meio de suporte – tradicional ou eletrônico é a:
 
@@ -555,18 +483,17 @@ O instrumento legal do COFEN que dispõe sobre o registro das ações profission
   [D] Resolução N.º 311/07
   [E] Resolução N.º 311/12 380 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: C
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [C] ('Resolução N.º 429/23') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'Resolução N.º 808/90...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'Resolução N.º 459/12...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Resolução N.º 429/23...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Resolução N.º 311/07...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa E: Incorreta perante os protocolos técnicos, pois 'Resolução N.º 311/12 380 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 31 [Código: EF0380] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 28 [Código: EF0377] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Legislação de Enfermagem , COFEN , COREN
 Os Conselhos Federal e Regional de Enfermagem, conforme previsto em lei, são responsáveis por estabelecer penalidades a serem impostas aos profissionais da enfermagem, em caso de infrações éticas e disciplinares. Nesse sentido, estão previstas:
 
@@ -576,35 +503,17 @@ Os Conselhos Federal e Regional de Enfermagem, conforme previsto em lei, são re
   [D] multa e advertência
   [E] advertência, prisão e multa
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: D
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [D] ('multa e advertência') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'prisão e multa...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'multa e demissão...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'prisão e demissão...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'multa e advertência...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa E: Incorreta perante os protocolos técnicos, pois 'advertência, prisão e multa...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 32 [Código: EF0387] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
-Assunto: Legislação de Enfermagem , COFEN
-O Conselho Federal de Enfermagem (Cofen) publicou, em 2024, uma Resolução que determina a implementação do Processo de Enfermagem em todo contexto socioambiental, no qual ocorram cuidados prestados por enfermeiros, técnicos e auxiliares, atualizando e adequando às novas perspectivas da profissão e delimitando seu escopo de aplicação na prática. Tal Resolução é a de Nº:
-
-  [A] B
-  [C] D
-  [E] 388 Ano: 2024
-
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
-❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa E: Incorreta perante os protocolos técnicos, pois '388 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
-
-------------------------------------------------------------
-
-QUESTÃO 33 [Código: EF0393] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 29 [Código: EF0389] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
 Assunto: Legislação de Enfermagem
 Em 2022, houve alteração da Lei Nº 7.498, de 25 de junho de 1986, para instituir o novo piso salarial nacional do Enfermeiro, do Técnico de Enfermagem, do Auxiliar de Enfermagem e da Parteira, através da Lei Nº:
 
@@ -614,35 +523,17 @@ Em 2022, houve alteração da Lei Nº 7.498, de 25 de junho de 1986, para instit
   [D] 13.434
   [E] 14.434 394 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: E
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [E] ('14.434 394 Ano: 2024') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa E: Incorreta perante os protocolos técnicos, pois '14.434 394 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 34 [Código: EF0406] - SAD-MS (SELECON 2024) - Enfermeiro
-Assunto: Legislação de Enfermagem , COFEN
-O profissional de enfermagem respeita a vida, a dignidade e os direitos humanos, em todas as suas dimensões. O instrumento legal que normatiza este tema é a Resolução/COFEN de nº:
-
-  [A] B
-  [C] D
-  [E] 2/7 407 Ano: 2024
-
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
-❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa E: Incorreta perante os protocolos técnicos, pois '2/7 407 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
-
-------------------------------------------------------------
-
-QUESTÃO 35 [Código: EF0429] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 30 [Código: EF0422] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Legislação de Enfermagem
 No que tange ao regime disciplinar, regulamentado pela Lei Nº 1.102/90, é um dever do servidor público:
 
@@ -652,18 +543,17 @@ No que tange ao regime disciplinar, regulamentado pela Lei Nº 1.102/90, é um d
   [D] guardar sigilo sobre as questões da repartição, exceto em caso de solicitação por escrito de entidades superiores
   [E] estar em dia com as leis, regulamentos, regimentos, instruções e ordens de serviço que digam respeito às suas funções
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: E
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [E] ('estar em dia com as leis, regulamentos, regimentos, instruções e ordens de serviço que digam respeito às suas funções') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'trajar-se conforme preferir, fazendo jus ao seu direito de expressão...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'fazer uso de licença prêmio a cada 12 meses corridos, caso não haja nenhuma falta ou ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'tratar com urbanidade seus superiores e zelar pelas contratações do Estado...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'guardar sigilo sobre as questões da repartição, exceto em caso de solicitação por esc...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa E: Incorreta perante os protocolos técnicos, pois 'estar em dia com as leis, regulamentos, regimentos, instruções e ordens de serviço qu...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 36 [Código: EF0442] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 31 [Código: EF0435] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Legislação de Enfermagem
 As medidas para reduzir o risco de incêndio são essenciais para a segurança. Em relação à classificação de um incêndio baseado em sua natureza, o fogo originado pela queima de equipamentos e instalações elétricas energizadas pertence à classe:
 
@@ -673,10 +563,9 @@ As medidas para reduzir o risco de incêndio são essenciais para a segurança. 
   [D] "E"
   [E] "D" 443 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: A
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('"C"') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
@@ -684,7 +573,7 @@ As medidas para reduzir o risco de incêndio são essenciais para a segurança. 
 
 ------------------------------------------------------------
 
-QUESTÃO 37 [Código: EF0443] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 32 [Código: EF0436] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Legislação de Enfermagem , Lei do Exercício Profissional de Enfermagem
 João é um colaborador que prima pelo trabalho em equipe e o relacionamento interpessoal, e destaca-se por ter a habilidade de compreender os sentimentos de seus colegas de trabalho, considerando as diferentes perspectivas de suas experiências e vivências. É possível afirmar que essa habilidade se chama:
 
@@ -694,10 +583,9 @@ João é um colaborador que prima pelo trabalho em equipe e o relacionamento int
   [D] generosidade
   [E] solidariedade 444 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: A
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('empatia') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'afetividade...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'generosidade...' não atende às diretrizes oficiais do Ministério da Saúde.
@@ -705,37 +593,61 @@ João é um colaborador que prima pelo trabalho em equipe e o relacionamento int
 
 ------------------------------------------------------------
 
-QUESTÃO 38 [Código: EF0445] - Prefeitura Municipal (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 33 [Código: EF0438] - Prefeitura Municipal (SELECON 2024) - Técnico de Enfermagem
 Assunto: Legislação de Enfermagem , Lei do Exercício Profissional de Enfermagem
+Enfermagem > Legislação de Enfermagem , Lei do Exercício Profissional de Enfermagem Banca: SELECON Órgão: COREN-RR Provas: SELECON - 2024 - COREN-RR - Assistente Administrativo ... O exercício da enfermagem é feito privativamente pelo enfermeiro, pelo técnico de enfermagem, pelo auxiliar de enfermagem e pela parteira, respeitados os respectivos graus de habilitação. Ao auxiliar de enfermagem, cabe especialmente:
 
+  [A] prestar cuidados de higiene e conforto ao paciente
+  [B] participar da programação da assistência de enfermagem
+  [C] prestar assistência de enfermagem à gestante e à parturiente
+  [D] participar da supervisão do trabalho de enfermagem em grau auxiliar
 
-
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: A
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('prestar cuidados de higiene e conforto ao paciente') corresponde com fidelidade aos ditames legais da profissão.
+❌ Distratores:
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'participar da programação da assistência de enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'prestar assistência de enfermagem à gestante e à parturiente...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'participar da supervisão do trabalho de enfermagem em grau auxiliar...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 39 [Código: EF0446] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
+QUESTÃO 34 [Código: EF0439] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
 Assunto: Legislação de Enfermagem , Código de Ética dos Profissionais de Enfermagem
+Banca: SELECON Órgão: COREN-RR Provas: SELECON - 2024 - COREN-RR - Assistente Administrativo ... As sanções administrativas previstas em lei para os infratores do Código de Deontologia de Enfermagem variam em natureza e gravidade, de acordo com o contexto. Após ouvido o Conselho Regional interessado, é uma pena de competência do Conselho Federal:
 
+  [A] censura
+  [B] advertência
+  [C] suspensão do exercício profissional
+  [D] cassação do direito ao exercício profissional 447 Ano: 2024
 
-
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: D
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [D] ('cassação do direito ao exercício profissional 447 Ano: 2024') corresponde com fidelidade aos ditames legais da profissão.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'advertência...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'suspensão do exercício profissional...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 40 [Código: EF0447] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
+QUESTÃO 35 [Código: EF0440] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
 Assunto: Legislação de Enfermagem , COREN
+Enfermagem > Legislação de Enfermagem , COREN Banca: SELECON Órgão: COREN-RR Provas: SELECON - 2024 - COREN-RR - Assistente Administrativo ... Cada Conselho Regional de Enfermagem deve eleger seu Presidente, Secretário e Tesoureiro, admitida a criação de cargos de Vice-Presidente, Segundo Secretário e Segundo Tesoureiro para os Conselhos com mais de doze membros. De acordo com a lei que dispõe sobre a criação dos Conselhos Federal e Regionais de Enfermagem, o mandato dos membros dos Conselhos Regionais:
 
+  [A] será exercido após realização de eleição por voto secreto e facultativo
+  [B] terá a duração de quatro anos
+  [C] admite uma reeleição
+  [D] será remunerado
 
-
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: C
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [C] ('admite uma reeleição') corresponde com fidelidade aos ditames legais da profissão.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'será exercido após realização de eleição por voto secreto e facultativo...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'terá a duração de quatro anos...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'será remunerado...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 41 [Código: EF0474] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 36 [Código: EF0467] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Legislação de Enfermagem , Código de Ética dos Profissionais de Enfermagem
 Enfermagem A enfermagem compreende um componente próprio de conhecimentos científicos e técnicos, construído e reproduzido por um conjunto de práticas sociais, éticas e políticas que se processa pelo ensino, pela pesquisa e pela assistência. Realiza-se na prestação de serviços à pessoa, família e coletividade, no seu contexto e nas circunstâncias de vida. Para regulamentar tais atividades, a equipe de enfermagem se baseia:
 
@@ -744,17 +656,16 @@ Enfermagem A enfermagem compreende um componente próprio de conhecimentos cient
   [C] Resolução da regulamentação profissional – Resolução 311/2012
   [D] na Resolução da regulamentação profissional – Resolução 7498/1986
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: A
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('no Código de ética – Resolução 311/2012') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'no Código de ética – Resolução 311/2012...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'no Código de ética – Resolução 7498/1986...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Resolução da regulamentação profissional – Resolução 311/2012...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'na Resolução da regulamentação profissional – Resolução 7498/1986...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 42 [Código: EF0490] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 37 [Código: EF0483] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Legislação de Enfermagem , Lei do Exercício Profissional de Enfermagem
 Enfermagem O exercício profissional da Enfermagem no Brasil é regido pela Lei nº 7.498, de 25 de junho de 1986, e pelo Decreto nº 94.406, de 08 de junho de 1987, que a regulamenta e dá outras providências. Esses dispositivos legais se encarregam de relacionar os membros da Equipe de Enfermagem: Enfermeiro, Técnico de Enfermagem, Auxiliar de Enfermagem e Parteira, mencionando, entre outros, os requisitos legais para obtenção dos títulos e suas respectivas atribuições. O Técnico de Enfermagem somente poderá executar:
 
@@ -763,17 +674,16 @@ Enfermagem O exercício profissional da Enfermagem no Brasil é regido pela Lei 
   [C] procedimentos que estejam prescritos
   [D] assistência de enfermagem de alta complexidade
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: C
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [C] ('procedimentos que estejam prescritos') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'consulta de enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'todo cuidado que avaliar necessário...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'procedimentos que estejam prescritos...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'assistência de enfermagem de alta complexidade...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 43 [Código: EF0498] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 38 [Código: EF0491] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Legislação de Enfermagem , Lei do Exercício Profissional de Enfermagem
 Os limites das atividades dos profissionais de enfermagem (auxiliar, técnico e enfermeiro) estão definidos no Decreto N° 94.406/87, que regulamenta a Lei N° 7.498/86, sobre o exercício profissional da Enfermagem. As funções são divididas por níveis de complexidade e cumulativas, ou seja, ao técnico competem as suas funções específicas e as dos auxiliares, enquanto que o enfermeiro é responsável pelas suas atividades privativas, outras mais complexas e ainda pode desempenhar as tarefas das outras categorias. A categoria da equipe de enfermagem que tem todas as atividades explicitadas em Lei é a de:
 
@@ -782,17 +692,16 @@ Os limites das atividades dos profissionais de enfermagem (auxiliar, técnico e 
   [C] Técnico de Enfermagem
   [D] Toda Equipe de Enfermagem 499 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: B
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [B] ('Auxiliar de Enfermagem') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'Auxiliar de Enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Técnico de Enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Toda Equipe de Enfermagem 499 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 44 [Código: EF0507] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 39 [Código: EF0500] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
 Assunto: Legislação de Enfermagem , COFEN
 A enfermagem é uma profissão fortemente dependente de informações precisas e oportunas para executar a grande variedade de intervenções envolvidas no cuidado. O instrumento legal do COFEN que dispõe sobre o registro das ações profissionais no prontuário do paciente, e em outros documentos próprios da enfermagem, independente do meio de suporte – tradicional ou eletrônico – é:
 
@@ -801,17 +710,16 @@ A enfermagem é uma profissão fortemente dependente de informações precisas e
   [C] a Resolução 311/07
   [D] a Resolução 429/12 508 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: D
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [D] ('a Resolução 429/12 508 Ano: 2024') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'a Lei 8080/90...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'o Código de ética...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a Resolução 311/07...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'a Resolução 429/12 508 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 45 [Código: EF0508] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 40 [Código: EF0501] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
 Assunto: Legislação de Enfermagem , Código de Ética dos Profissionais de Enfermagem
 A enfermagem é uma profissão comprometida com a saúde e a qualidade de vida da pessoa, da família e da coletividade. Quando há ocorrência de infrações éticas e disciplinares, dentre as penalidades a serem impostas pelos Conselhos Federal e Regional de Enfermagem, conforme o que determina o Art. 18, da Lei n° 5.905, de 12 de julho de 1973, destaca-se:
 
@@ -820,17 +728,16 @@ A enfermagem é uma profissão comprometida com a saúde e a qualidade de vida d
   [C] prisão e demissão
   [D] multa e advertência 509 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: D
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [D] ('multa e advertência 509 Ano: 2024') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'prisão e multa...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'multa e demissão...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'prisão e demissão...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'multa e advertência 509 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 46 [Código: EF0536] - Prefeitura de Dourados - MS (SELECON 2023) - Técnico de Enfermagem
+QUESTÃO 41 [Código: EF0528] - Prefeitura de Dourados - MS (SELECON 2023) - Técnico de Enfermagem
 Assunto: Legislação de Enfermagem
 De acordo com a Resolução COFEN nº 543 de 2017, há um referencial mínimo para o quadro de profissionais de enfermagem para as 24 horas de cada unidade de internação (UI). A distribuição percentual do total de profissionais de enfermagem, para cuidado semi-intensivo, é de:
 
@@ -839,27 +746,34 @@ De acordo com a Resolução COFEN nº 543 de 2017, há um referencial mínimo pa
   [C] 42% de enfermeiros e os demais técnicos de enfermagem
   [D] 52% de enfermeiros e os demais técnicos de enfermagem 537 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: C
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [C] ('42% de enfermeiros e os demais técnicos de enfermagem') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois '33% de enfermeiros e os demais auxiliares e/ou técnicos de enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois '38% de enfermeiros e os demais auxiliares e/ou técnicos de enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois '42% de enfermeiros e os demais técnicos de enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois '52% de enfermeiros e os demais técnicos de enfermagem 537 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 47 [Código: EF0563] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 42 [Código: EF0555] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Enfermeiro
 Assunto: Legislação de Enfermagem , Código de Ética dos Profissionais de Enfermagem ,
 
 
+  [A] equidade
+  [B] normatização
+  [C] integralização
+  [D] territorialização 564 Ano: 2023 Enfermagem > Legislação de Enfermagem , Código de Ética dos Profissionais de Enfermagem , Segurança do Paciente Banca: SELECON Órgão: Empresa Cuiabana de Saúde Pública - MT Prova: SELECON - 2023 - Empresa Cuiabana de Saúde
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: D
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [D] ('territorialização 564 Ano: 2023 Enfermagem > Legislação de Enfermagem , Código de Ética dos Profissionais de Enfermagem , Segurança do Paciente Banca: SELECON Órgão: Empresa Cuiabana de Saúde Pública - MT Prova: SELECON - 2023 - Empresa Cuiabana de Saúde') corresponde com fidelidade aos ditames legais da profissão.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'normatização...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'integralização...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 48 [Código: EF0582] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 43 [Código: EF0574] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Enfermeiro
 Assunto: Legislação de Enfermagem , Código de Ética dos Profissionais de Enfermagem
 Pública - MT - Enfermeiro Auditor De acordo com o Código de Ética dos Profissionais de Enfermagem (COFEN, 1993), no Capítulo IV – dos deveres, encontramse ações pertinentes à auditoria em Enfermagem, dentre elas:
 
@@ -868,17 +782,16 @@ Pública - MT - Enfermeiro Auditor De acordo com o Código de Ética dos Profiss
   [C] manter o controle da qualidade dos serviços prestados
   [D] controlar os registros de assistência de enfermagem 583 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: A
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('proteger o cliente contra danos decorrentes de imperícia ou imprudência por parte de qualquer membro da equipe de saúde') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'proteger o cliente contra danos decorrentes de imperícia ou imprudência por parte de ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'informar à administração sobre dados relativos à assistência...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'manter o controle da qualidade dos serviços prestados...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'controlar os registros de assistência de enfermagem 583 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 49 [Código: EF0586] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 44 [Código: EF0578] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
 Assunto: Legislação de Enfermagem , Código de Ética dos Profissionais de Enfermagem
 MT - Enfermeiro Intervencionista - SAMU Enfermeira Joana participou de uma palestra sobre o Código de Ética dos Profissionais de Enfermagem. Durante a aula foram abordadas as infrações que podem ser consideradas leves, moderadas, graves ou gravíssimas, segundo a natureza do ato e a circunstância de cada caso. Aquela infração que provoca debilidade temporária de membro, sentido ou função na pessoa, ou quando causarem danos mentais, morais, patrimoniais ou financeiros é classificada como infração:
 
@@ -887,17 +800,16 @@ MT - Enfermeiro Intervencionista - SAMU Enfermeira Joana participou de uma pales
   [C] grave
   [D] leve 587 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: B
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [B] ('moderada') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'leve 587 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 50 [Código: EF0606] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 45 [Código: EF0598] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
 Assunto: Legislação de Enfermagem , Código de Ética dos Profissionais de Enfermagem
 MT - Enfermeiro(a) Padrão A caracterização das infrações éticas e disciplinares e a aplicação das respectivas penalidades são regidas pelo Código de Ética da Enfermagem, sem prejuízo das sanções previstas em outros dispositivos legais. A penalidade que consiste em repreensão que será divulgada nas publicações oficiais dos Conselhos Federal e Regional de Enfermagem e em jornais de grande circulação recebe o nome de:
 
@@ -906,17 +818,16 @@ MT - Enfermeiro(a) Padrão A caracterização das infrações éticas e discipli
   [C] cassação
   [D] suspensão
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: B
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [B] ('censura') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
 
 ------------------------------------------------------------
 
-QUESTÃO 51 [Código: EF0627] - Prefeitura de Campo Verde - MT (SELECON 2023) - Técnico de Enfermagem
+QUESTÃO 46 [Código: EF0619] - Prefeitura de Campo Verde - MT (SELECON 2023) - Técnico de Enfermagem
 Assunto: Legislação de Enfermagem , Código de Ética dos Profissionais de Enfermagem
 em Enfermagem A enfermagem é uma profissão comprometida com a saúde e a qualidade de vida da pessoa, família e coletividade. Portanto, de acordo com o código de ética da enfermagem, são deveres dos profissionais:
 
@@ -925,17 +836,16 @@ em Enfermagem A enfermagem é uma profissão comprometida com a saúde e a quali
   [C] exercer a profissão com justiça, compromisso, equidade, resolutividade, dignidade, competência, responsabilidade, honestidade e lealdade; fundamentar suas relações no direito, na prudência, no respeito, na solidariedade e na diversidade de opinião e posição ideológica
   [D] anunciar formação profissional, qualificação e título, ainda que não se possa comprovar; manter regularizadas as obrigações financeiras junto ao Conselho Regional de Enfermagem de sua jurisdição.
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: C
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [C] ('exercer a profissão com justiça, compromisso, equidade, resolutividade, dignidade, competência, responsabilidade, honestidade e lealdade; fundamentar suas relações no direito, na prudência, no respeito, na solidariedade e na diversidade de opinião e posição ideológica') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'ter acesso, pelos meios de informação disponíveis, às diretrizes políticas, normativa...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'executar e/ou determinar atos contrários ao Código de Ética e à legislação que discip...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'exercer a profissão com justiça, compromisso, equidade, resolutividade, dignidade, co...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'anunciar formação profissional, qualificação e título, ainda que não se possa comprov...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 52 [Código: EF0694] - CLIN (SELECON 2022) - Enfermeiro
+QUESTÃO 47 [Código: EF0686] - CLIN (SELECON 2022) - Enfermeiro
 Assunto: Legislação de Enfermagem , Código de Ética dos Profissionais de Enfermagem
 A funcionária Joana (auxiliar de enfermagem do trabalho) cometeu uma infração e recebeu uma notificação do COREN para o pagamento de uma multa. De acordo com o Código de Ética dos Profissionais de Enfermagem, com base na Lei n° 5.905, de 12 de julho de 1973, a multa consiste na obrigatoriedade de pagamento de acordo com valor da anuidade da categoria profissional à qual pertence o infrator, em vigor no ato do pagamento. Essa multa pode ser de:
 
@@ -944,17 +854,16 @@ A funcionária Joana (auxiliar de enfermagem do trabalho) cometeu uma infração
   [C] 10 (dez) a 20 (vinte) vezes o valor da anuidade
   [D] 05 (cinco) a 15 (quinze) vezes o valor da anuidade 695 Ano: 2022
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: A
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('01 (um) a 10 (dez) vezes o valor da anuidade') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois '01 (um) a 10 (dez) vezes o valor da anuidade...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois '01 (um) a 5 (cinco) vezes o valor da anuidade...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois '10 (dez) a 20 (vinte) vezes o valor da anuidade...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois '05 (cinco) a 15 (quinze) vezes o valor da anuidade 695 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 53 [Código: EF0733] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Enfermeiro
+QUESTÃO 48 [Código: EF0725] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Enfermeiro
 Assunto: Legislação de Enfermagem , Código de Ética dos Profissionais de Enfermagem
 O cuidado da enfermagem se fundamenta no conhecimento próprio da profissão e nas ciências humanas, sociais e aplicadas. É executado pelos profissionais na prática social e cotidiana de assistir, gerenciar, ensinar, educar e pesquisar. Por isso, segundo o Código de Ética de Enfermagem, é um dever do profissional:
 
@@ -963,17 +872,16 @@ O cuidado da enfermagem se fundamenta no conhecimento próprio da profissão e n
   [C] promover ou participar de prática destinada a antecipar a morte da pessoa
   [D] fundamentar suas relações no direito, na prudência, no respeito, na solidariedade e na diversidade de opinião e posição ideológica 734 Ano: 2022
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: D
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [D] ('fundamentar suas relações no direito, na prudência, no respeito, na solidariedade e na diversidade de opinião e posição ideológica 734 Ano: 2022') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'ter acesso às informações relacionadas à pessoa, à família e à coletividade, necessár...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'executar e/ou determinar atos contrários ao Código de Ética e à legislação que discip...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'promover ou participar de prática destinada a antecipar a morte da pessoa...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'fundamentar suas relações no direito, na prudência, no respeito, na solidariedade e n...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 54 [Código: EF0750] - Prefeitura de Boa Vista - RR (SELECON 2020) - Técnico de Enfermagem
+QUESTÃO 49 [Código: EF0742] - Prefeitura de Boa Vista - RR (SELECON 2020) - Técnico de Enfermagem
 Assunto: Legislação de Enfermagem , COFEN
 Enfermagem De acordo com a Resolução COFEN nº 564/2017, no capítulo IV, das infrações e penalidades do profissional, é considerada circunstância agravante:
 
@@ -982,17 +890,16 @@ Enfermagem De acordo com a Resolução COFEN nº 564/2017, no capítulo IV, das 
   [C] realizar atos sob emprego real de força física
   [D] realizar atos sob coação e/ou intimidação ou grave ameaça
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: A
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('cometer infração dolosamente') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'cometer infração dolosamente...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'ter bons antecedentes profissionais...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'realizar atos sob emprego real de força física...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'realizar atos sob coação e/ou intimidação ou grave ameaça...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 55 [Código: EF0779] - Prefeitura de Boa Vista - RR (SELECON 2020) - Técnico de Enfermagem
+QUESTÃO 50 [Código: EF0771] - Prefeitura de Boa Vista - RR (SELECON 2020) - Técnico de Enfermagem
 Assunto: Legislação de Enfermagem , Código de Ética dos Profissionais de Enfermagem
 ESF O cuidado da Enfermagem é fundamentado no conhecimento próprio da profissão e nas ciências humanas, sociais e aplicadas e é executado pelos profissionais na prática social e cotidiana de assistir, gerenciar, ensinar, educar e pesquisar. De acordo com Código de Ética dos Profissionais de Enfermagem – CEPE, é proibido a esses profissionais
 
@@ -1001,17 +908,16 @@ ESF O cuidado da Enfermagem é fundamentado no conhecimento próprio da profiss�
   [C] prestar assistência de Enfermagem livre de danos decorrentes de imperícia, negligência ou imprudência
   [D] prestar assistência de Enfermagem sem discriminação de qualquer natureza 780 Ano: 2020
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: A
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('receber vantagens de instituição, empresa, pessoa, família e coletividade, além do que lhe é devido, como forma de garantir assistência de Enfermagem diferenciada ou benefícios de qualquer natureza para si ou para outrem') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'receber vantagens de instituição, empresa, pessoa, família e coletividade, além do qu...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'estimular e apoiar a qualificação e o aperfeiçoamento técnico-científico, ético-polít...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'prestar assistência de Enfermagem livre de danos decorrentes de imperícia, negligênci...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'prestar assistência de Enfermagem sem discriminação de qualquer natureza 780 Ano: 202...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 56 [Código: EF0786] - Prefeitura de Boa Vista - RR (SELECON 2024) - Enfermeiro
+QUESTÃO 51 [Código: EF0778] - Prefeitura de Boa Vista - RR (SELECON 2024) - Enfermeiro
 Assunto: Legislação de Enfermagem , COFEN
 Intensivista Pediátrico O instrumento metodológico que orienta o cuidado profissional de enfermagem e a documentação da prática profissional e que deverá ser realizado, de modo deliberado e sistemático, em todos os ambientes, públicos ou privados, segundo a resolução do COFEN nº 358/2009 é chamado de:
 
@@ -1020,17 +926,16 @@ Intensivista Pediátrico O instrumento metodológico que orienta o cuidado profi
   [C] processo de enfermagem
   [D] processo de cuidado
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: C
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [C] ('processo de enfermagem') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'sistematização da assistência de enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'sistematização da assistência multidisciplinar...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'processo de enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'processo de cuidado...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 57 [Código: EF0801] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+QUESTÃO 52 [Código: EF0793] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
 Assunto: Legislação de Enfermagem , COFEN
 Intensivista Pediátrico De acordo com a resolução do COFEN nº 564/2017, o profissional de enfermagem é proibido de executar a seguinte ação:
 
@@ -1039,17 +944,16 @@ Intensivista Pediátrico De acordo com a resolução do COFEN nº 564/2017, o pr
   [C] resguardar os preceitos éticos e legais da profissão quanto ao conteúdo e imagem veiculados nos diferentes meios de comunicação e publicidade
   [D] prestar assistência de Enfermagem promovendo a qualidade de vida a pessoa e família no processo do nascer, viver, morrer e luto 802 Ano: 2020
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: B
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [B] ('provocar aborto, ou cooperar em prática destinada a interromper a gestação, exceto nos casos permitidos pela legislação vigente') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'prestar assistência de Enfermagem livre de danos decorrentes de imperícia, negligênci...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'provocar aborto, ou cooperar em prática destinada a interromper a gestação, exceto no...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'resguardar os preceitos éticos e legais da profissão quanto ao conteúdo e imagem veic...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'prestar assistência de Enfermagem promovendo a qualidade de vida a pessoa e família n...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 58 [Código: EF0814] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+QUESTÃO 53 [Código: EF0806] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
 Assunto: Legislação de Enfermagem , COFEN
 Segundo o Conselho Federal de Enfermagem (COFEN), em relação ao conhecimento das normas e legislação que regem o exercício da profissão, o profissional deve desempenhar suas atividades com segurança, comprometido com a justiça, responsabilidade social, equidade, resolutividade, competência e lealdade. Segundo a Lei do Exercício Profissional de Enfermagem, Lei nº 7.498/86, que dispõe sobre a regulamentação do exercício da Enfermagem e dá outras providências, o Enfermeiro exerce todas as ati v idades de Enfermagem, cabendo-lhe privativamente:
 
@@ -1058,17 +962,16 @@ Segundo o Conselho Federal de Enfermagem (COFEN), em relação ao conhecimento d
   [C] chefia de serviço e de unidade de Enfermagem; prescrição da assistência de enfermagem e observar, reconhecer e descrever sinais e sintomas
   [D] chefia de serviço e de unidade de Enfermagem; prescrição da assistência de enfermagem e participar da equipe de saúde 815 Ano: 2020
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: B
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [B] ('consulta de enfermagem; prescrição da assistência de enfermagem e cuidados diretos de enfermagem a pacientes graves com risco de vida') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'consulta de enfermagem; prescrição da assistência de enfermagem e cuidados indiretos ...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'consulta de enfermagem; prescrição da assistência de enfermagem e cuidados diretos de...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'chefia de serviço e de unidade de Enfermagem; prescrição da assistência de enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'chefia de serviço e de unidade de Enfermagem; prescrição da assistência de enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 59 [Código: EF0838] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
+QUESTÃO 54 [Código: EF0830] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
 Assunto: Legislação de Enfermagem , Código de Ética dos Profissionais de Enfermagem
 Segundo a Resolução COFEN N º 564/2017, o aprimoramento dos conhecimentos técnico-científicos, ético-políticos, socioeducativos, históricos e culturais que dão sustentação à prática profissional é:
 
@@ -1077,27 +980,34 @@ Segundo a Resolução COFEN N º 564/2017, o aprimoramento dos conhecimentos té
   [C] uma infração
   [D] uma proibição 839 Ano: 2019
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: B
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [B] ('um direito') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'uma infração...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'uma proibição 839 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 60 [Código: EF0846] - Empresa Cuiabana de Saúde Pública - MT Provas: SELECON - 2019 - Empresa Cuiabana de Saúde (SELECON 2019) - Enfermeiro
+QUESTÃO 55 [Código: EF0838] - Empresa Cuiabana de Saúde Pública - MT Provas: SELECON - 2019 - Empresa Cuiabana de Saúde (SELECON 2019) - Enfermeiro
 Assunto: Legislação de Enfermagem , Lei do Exercício Profissional de Enfermagem
 
 
+  [A] chefiar o serviço de enfermagem
+  [B] prestar cuidados de higiene e conforto ao paciente
+  [C] observar, reconhecer e descrever sinais e sintomas
+  [D] participar da equipe de saúde 847 Ano: 2019 Enfermagem > Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Diagnósticos de Enfermagem - NIC-NOC/CIPE/NANDA Banca: SELECON Órgão: Empresa Cuiabana de Saúde Pública - MT Provas: SELECON - 2019 - Empresa Cuiabana de Saúde
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: A
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('chefiar o serviço de enfermagem') corresponde com fidelidade aos ditames legais da profissão.
+❌ Distratores:
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'prestar cuidados de higiene e conforto ao paciente...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'observar, reconhecer e descrever sinais e sintomas...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'participar da equipe de saúde 847 Ano: 2019 Enfermagem > Processo de Enfermagem e Sis...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 61 [Código: EF0866] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
+QUESTÃO 56 [Código: EF0858] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
 Assunto: Legislação de Enfermagem , Lei do Exercício Profissional de Enfermagem
 Segundo a lei do exercício profissional de enfermagem n º 7.498/86, o técnico de enfermagem exerce atividade de nível médio, envolvendo orientação e acompanhamento do trabalho de enfermagem em grau auxiliar e participação no planejamento da assistência de enfermagem, cabendo-lhe especialmente
 
@@ -1106,17 +1016,16 @@ Segundo a lei do exercício profissional de enfermagem n º 7.498/86, o técnico
   [C] cuidados de higiene e cuidados diretos de enfermagem a pacientes graves com risco de vida
   [D] execução do parto sem distocia e consultoria sobre matéria de enfermagem 867 Ano: 2019
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: A
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('participar da programação da assistência de enfermagem e participar da equipe de saúde') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'participar da programação da assistência de enfermagem e participar da equipe de saúd...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'cuidados diretos de enfermagem a pacientes graves com risco de vida e consulta de enf...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'cuidados de higiene e cuidados diretos de enfermagem a pacientes graves com risco de ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'execução do parto sem distocia e consultoria sobre matéria de enfermagem 867 Ano: 201...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 62 [Código: EF0870] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
+QUESTÃO 57 [Código: EF0862] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
 Assunto: Legislação de Enfermagem , Código de Ética dos Profissionais de Enfermagem
 Segundo a Resolução COFEN N º 564/2017, manter inscrição no conselho regional de enfermagem, com jurisdição na área onde ocorrer o exercício profissional é:
 
@@ -1125,17 +1034,16 @@ Segundo a Resolução COFEN N º 564/2017, manter inscrição no conselho region
   [C] uma infração
   [D] uma proibição 871 Ano: 2019
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: A
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('um dever') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'uma infração...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'uma proibição 871 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 63 [Código: EF0872] - Prefeitura de Boa Vista - RR (SELECON 2019) - Técnico de Enfermagem
+QUESTÃO 58 [Código: EF0864] - Prefeitura de Boa Vista - RR (SELECON 2019) - Técnico de Enfermagem
 Assunto: Legislação de Enfermagem , COFEN
 Técnico - Grupo Especial - Técnico de Enfermagem De acordo com a Resolução COFEN nº 564/2017, é um direito dos profissionais de enfermagem:
 
@@ -1144,10 +1052,9 @@ Técnico - Grupo Especial - Técnico de Enfermagem De acordo com a Resolução C
   [C] prestar assistência de enfermagem livre de dados decorrentes de imperícia, negligência ou imprudência
   [D] executar e/ou determinar atos contrários ao Código de Ética e à legislação que disciplina o exercício da Enfermagem 873 Ano: 2019
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: A
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('negar-se a ser filmado, fotografado e exposto em mídias sociais durante o desempenho de suas atividades profissionais') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'negar-se a ser filmado, fotografado e exposto em mídias sociais durante o desempenho ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'manter inscrição no Conselho Regional de Enfermagem, com jurisdição na área onde ocor...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'prestar assistência de enfermagem livre de dados decorrentes de imperícia, negligênci...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'executar e/ou determinar atos contrários ao Código de Ética e à legislação que discip...' não atende às diretrizes oficiais do Ministério da Saúde.

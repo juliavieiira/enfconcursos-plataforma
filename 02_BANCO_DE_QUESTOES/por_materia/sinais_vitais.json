@@ -1,6 +1,7 @@
 [
   {
     "codigo_origem": "Q4370026",
+    "numero_original": 11,
     "banca": "SELECON",
     "orgao": "Prefeitura de Lucas do Rio Verde - MT",
     "ano": 2026,
@@ -49,6 +50,7 @@
   },
   {
     "codigo_origem": "Q4370020",
+    "numero_original": 17,
     "banca": "SELECON",
     "orgao": "Prefeitura de Lucas do Rio Verde - MT",
     "ano": 2026,
@@ -97,6 +99,7 @@
   },
   {
     "codigo_origem": "Q4341995",
+    "numero_original": 25,
     "banca": "SELECON",
     "orgao": "Prefeitura de Lucas do Rio Verde - MT",
     "ano": 2026,
@@ -123,10 +126,10 @@
         "texto": "tamanho da pupila"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0025",
     "numero_ordem": 25,
-    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [C] ('temperatura') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -137,18 +140,15 @@
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'temperatura...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'tamanho da pupila...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [C]..."
   },
   {
     "codigo_origem": "Q4336846",
+    "numero_original": 35,
     "banca": "SELECON",
     "orgao": "Prefeitura de Araçás - BA",
     "ano": 2026,
@@ -175,18 +175,14 @@
         "texto": "utilizar o mesmo manguito e realizar as medidas em ambos os braços, adotando o valor mais alto entre os dois membros, pois isso reflete a pressão central"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0035",
     "numero_ordem": 35,
-    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [B] ('repetir a medida por mais três vezes, intercalando intervalos de 2 minutos entre cada uma, e calcular a média aritmética das cinco aferições, desprezando a primeira') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'considerar o menor valor como válido, pois a redução da pressão arterial é esper...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'repetir a medida por mais três vezes, intercalando intervalos de 2 minutos entre cada...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -197,10 +193,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'utilizar o mesmo manguito e realizar as medidas em ambos os braços, adotando o valor ...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [B]..."
   },
   {
     "codigo_origem": "Q4317367",
+    "numero_original": 52,
     "banca": "SELECON",
     "orgao": "Prefeitura de Barra do Garças - MT",
     "ano": 2026,
@@ -227,10 +224,10 @@
         "texto": "inalterados pela largura do manguito"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0052",
     "numero_ordem": 52,
-    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [C] ('superestimados') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -241,18 +238,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'subestimados...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'superestimados...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'inalterados pela largura do manguito...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [C]..."
   },
   {
     "codigo_origem": "Q3810641",
+    "numero_original": 136,
     "banca": "SELECON",
     "orgao": "Prefeitura de Barra do Garças - MT",
     "ano": 2025,
@@ -279,10 +273,10 @@
         "texto": "38,5 °C 137 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0136",
     "numero_ordem": 136,
-    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [C] ('38,0 °C') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -293,18 +287,15 @@
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois '38,5 °C 137 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [C]..."
   },
   {
     "codigo_origem": "Q3810638",
+    "numero_original": 139,
     "banca": "SELECON",
     "orgao": "Prefeitura de Barra do Garças - MT",
     "ano": 2025,
@@ -331,10 +322,10 @@
         "texto": "realizar previamente a técnica palpatória para estimar a pressão sistólica real 140 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "D",
     "id": "EF0139",
     "numero_ordem": 139,
-    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [D] ('realizar previamente a técnica palpatória para estimar a pressão sistólica real 140 Ano: 2025') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -347,16 +338,13 @@
       {
         "letra": "C",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'utilizar exclusivamente a técnica palpatória para aferição da diastólica...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'realizar previamente a técnica palpatória para estimar a pressão sistólica real 140 A...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [D]..."
   },
   {
     "codigo_origem": "Q3184826",
+    "numero_original": 320,
     "banca": "SELECON",
     "orgao": "Prefeitura de Nova Mutum - MT",
     "ano": 2024,
@@ -383,10 +371,10 @@
         "texto": "remitente"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0320",
-    "numero_ordem": 320,
-    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "resposta_correta": "D",
+    "id": "EF0319",
+    "numero_ordem": 319,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [D] ('remitente') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -399,16 +387,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       }
     ],
-    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [D]..."
   },
   {
     "codigo_origem": "Q3184820",
+    "numero_original": 326,
     "banca": "SELECON",
     "orgao": "Prefeitura de Nova Mutum - MT",
     "ano": 2024,
@@ -435,18 +420,14 @@
         "texto": "dor de cabeça e perda de peso acelerada 327 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0326",
-    "numero_ordem": 326,
-    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
+    "resposta_correta": "B",
+    "id": "EF0325",
+    "numero_ordem": 325,
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [B] ('mucosas secas e taquicardia') expressa fielmente o preceito legislativo.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'hipotensão e tontura...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'mucosas secas e taquicardia...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -461,6 +442,7 @@
   },
   {
     "codigo_origem": "Q2467595",
+    "numero_original": 456,
     "banca": "SELECON",
     "orgao": "Prefeitura de Água Boa - MT",
     "ano": 2024,
@@ -487,17 +469,13 @@
         "texto": "hiperventilação 457 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Prefeitura de Água Boa - MT Prova: SELECON - 2024 - Prefeitura de Água Boa - MT - Técnico em"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0456",
-    "numero_ordem": 456,
-    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "resposta_correta": "B",
+    "id": "EF0449",
+    "numero_ordem": 449,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [B] ('dispnéia') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "B",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
@@ -509,10 +487,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'hiperventilação 457 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: ...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [B]..."
   },
   {
     "codigo_origem": "Q2467341",
+    "numero_original": 461,
     "banca": "SELECON",
     "orgao": "Prefeitura de Água Boa - MT",
     "ano": 2024,
@@ -539,10 +518,10 @@
         "texto": "peso corporal 462 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0461",
-    "numero_ordem": 461,
-    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "resposta_correta": "C",
+    "id": "EF0454",
+    "numero_ordem": 454,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [C] ('frequência respiratória') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -553,18 +532,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'pressão coloidosmótica...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'frequência respiratória...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'peso corporal 462 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [C]..."
   },
   {
     "codigo_origem": "Q2467340",
+    "numero_original": 462,
     "banca": "SELECON",
     "orgao": "Prefeitura de Água Boa - MT",
     "ano": 2024,
@@ -591,15 +567,11 @@
         "texto": "taquipneia grave 463 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0462",
-    "numero_ordem": 462,
-    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "resposta_correta": "A",
+    "id": "EF0455",
+    "numero_ordem": 455,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [A] ('eupneia') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
@@ -613,10 +585,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'taquipneia grave 463 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [A]..."
   },
   {
     "codigo_origem": "Q2467339",
+    "numero_original": 463,
     "banca": "SELECON",
     "orgao": "Prefeitura de Água Boa - MT",
     "ano": 2024,
@@ -643,18 +616,14 @@
         "texto": "pré-hipertensão 464 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0463",
-    "numero_ordem": 463,
-    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "resposta_correta": "B",
+    "id": "EF0456",
+    "numero_ordem": 456,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [B] ('pressão arterial normal') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'hipertensão arterial grau...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'pressão arterial normal...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -665,10 +634,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'pré-hipertensão 464 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [B]..."
   },
   {
     "codigo_origem": "Q2467329",
+    "numero_original": 473,
     "banca": "SELECON",
     "orgao": "Prefeitura de Água Boa - MT",
     "ano": 2024,
@@ -695,10 +665,10 @@
         "texto": "frequência cardíaca"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0473",
-    "numero_ordem": 473,
-    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "resposta_correta": "C",
+    "id": "EF0466",
+    "numero_ordem": 466,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [C] ('saturação de oxigênio') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -709,18 +679,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'frequência respiratória...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'saturação de oxigênio...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'frequência cardíaca...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [C]..."
   },
   {
     "codigo_origem": "Q2342293",
+    "numero_original": 552,
     "banca": "SELECON",
     "orgao": "Empresa Cuiabana de Saúde Pública - MT",
     "ano": 2023,
@@ -747,15 +714,11 @@
         "texto": "bradicardia e hiperventilação com períodos de taquidispneia 553 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0552",
-    "numero_ordem": 552,
-    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "resposta_correta": "A",
+    "id": "EF0544",
+    "numero_ordem": 544,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [A] ('taquicardia e bradipneia com períodos de apneia') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'taquicardia e bradipneia com períodos de apneia...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'bradicardia e bradipneia com períodos de apneia...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -769,10 +732,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'bradicardia e hiperventilação com períodos de taquidispneia 553 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [A]..."
   },
   {
     "codigo_origem": "Q2297112",
+    "numero_original": 639,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Verde - MT",
     "ano": 2023,
@@ -799,15 +763,11 @@
         "texto": "central, glabelar, timpânica e mamilar 640 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0639",
-    "numero_ordem": 639,
-    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "resposta_correta": "A",
+    "id": "EF0631",
+    "numero_ordem": 631,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [A] ('oral, retal, axilar e timpânica') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'oral, retal, axilar e timpânica...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'oral, sublingual, mamilar e retal...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -821,10 +781,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'central, glabelar, timpânica e mamilar 640 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [A]..."
   },
   {
     "codigo_origem": "Q2024554",
+    "numero_original": 689,
     "banca": "SELECON",
     "orgao": "CLIN",
     "ano": 2022,
@@ -851,15 +812,11 @@
         "texto": "afebril, eupneico e normotenso 690 Ano: 2022"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0689",
-    "numero_ordem": 689,
-    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "resposta_correta": "A",
+    "id": "EF0681",
+    "numero_ordem": 681,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [A] ('afebril, bradicárdico e normotenso') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'afebril, bradicárdico e normotenso...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'febril, normocárdico e hipotenso...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -873,10 +830,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'afebril, eupneico e normotenso 690 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [A]..."
   },
   {
     "codigo_origem": "Q2024551",
+    "numero_original": 691,
     "banca": "SELECON",
     "orgao": "CLIN",
     "ano": 2022,
@@ -903,10 +861,10 @@
         "texto": "filiforme 692 Ano: 2022"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0691",
-    "numero_ordem": 691,
-    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "resposta_correta": "C",
+    "id": "EF0683",
+    "numero_ordem": 683,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [C] ('convergente') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -917,18 +875,15 @@
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'convergente...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'filiforme 692 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [C]..."
   },
   {
     "codigo_origem": "Q2692371",
+    "numero_original": 860,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Grande - MS",
     "ano": 2024,
@@ -955,15 +910,11 @@
         "texto": "respiração de Biot"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0860",
-    "numero_ordem": 860,
-    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "resposta_correta": "A",
+    "id": "EF0852",
+    "numero_ordem": 852,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [A] ('respiração de Cheyne Stokes') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'respiração de Cheyne Stokes...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'respiração de Korotkoff...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -977,10 +928,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'respiração de Biot...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [A]..."
   },
   {
     "codigo_origem": "Q2692368",
+    "numero_original": 861,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Grande - MS",
     "ano": 2019,
@@ -1007,10 +959,10 @@
         "texto": "taquisfigmia 862 Ano: 2019"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0861",
-    "numero_ordem": 861,
-    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "resposta_correta": "C",
+    "id": "EF0853",
+    "numero_ordem": 853,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [C] ('bradisfigmia') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1021,118 +973,10 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'normocardia...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'bradisfigmia...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'taquisfigmia 862 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
-  },
-  {
-    "codigo_origem": "Q1242243",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Boa Vista - RR",
-    "ano": 2019,
-    "prova": "SELECON - 2019 - Prefeitura de Boa Vista - RR - Assistente",
-    "cargo": "Técnico de Enfermagem",
-    "materia": "Enfermagem",
-    "assunto": "Sinais vitais , Fundamentos e Procedimentos de Enfermagem",
-    "enunciado": "Técnico - Grupo Especial - Técnico de Enfermagem Existem inúmeros locais para mensurar a frequência do pulso. Quando o examinador coloca o estetoscópio entre o 4º e o 5º espaço intercostal na linha clavicular média esquerda, é chamado de pulso:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "temporal"
-      },
-      {
-        "id": "B",
-        "texto": "braquial"
-      },
-      {
-        "id": "C",
-        "texto": "apical"
-      },
-      {
-        "id": "D",
-        "texto": "radial 886 Ano: 2019"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0885",
-    "numero_ordem": 885,
-    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'radial 886 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde."
-      }
-    ],
-    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
-  },
-  {
-    "codigo_origem": "Q1242242",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Boa Vista - RR",
-    "ano": 2019,
-    "prova": "SELECON - 2019 - Prefeitura de Boa Vista - RR - Assistente",
-    "cargo": "Técnico de Enfermagem",
-    "materia": "Enfermagem",
-    "assunto": "Sinais vitais , Fundamentos e Procedimentos de Enfermagem",
-    "enunciado": "Técnico - Grupo Especial - Técnico de Enfermagem A aferição dos sinais vitais é um modo eficiente e rápido de avaliar e monitorar a condição clínica do paciente. De acordo com Potter e Perry (2013), o pulso é a delimitação palpável da circulação sanguínea, podendo ser aferido em vários pontos no corpo. Os fatores que influenciam o pulso são:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "fármacos, emoções, idade e glicemia em jejum"
-      },
-      {
-        "id": "B",
-        "texto": "idade, fármacos, raça e condições pulmonares"
-      },
-      {
-        "id": "C",
-        "texto": "ambiente, raça, sexo e mudanças posturais"
-      },
-      {
-        "id": "D",
-        "texto": "temperatura, fármacos, hemorragia e exercício 887 Ano: 2019"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0886",
-    "numero_ordem": 886,
-    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'fármacos, emoções, idade e glicemia em jejum...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'idade, fármacos, raça e condições pulmonares...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'ambiente, raça, sexo e mudanças posturais...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'temperatura, fármacos, hemorragia e exercício 887 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde."
-      }
-    ],
-    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [C]..."
   }
 ]

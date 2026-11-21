@@ -1,6 +1,7 @@
 [
   {
     "codigo_origem": "Q3981933",
+    "numero_original": 64,
     "banca": "SELECON",
     "orgao": "EMGEPRON",
     "ano": 2026,
@@ -27,10 +28,10 @@
         "texto": "estabelecer medidas de proteção à saúde e à segurança dos trabalhadores dos serviços de saúde"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "D",
     "id": "EF0064",
     "numero_ordem": 64,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('estabelecer medidas de proteção à saúde e à segurança dos trabalhadores dos serviços de saúde') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -43,16 +44,13 @@
       {
         "letra": "C",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'normatizar apenas o gerenciamento de resíduos dos serviços de saúde e fluxos ass...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'estabelecer medidas de proteção à saúde e à segurança dos trabalhadores dos serviços ...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('estabelecer medidas de proteção à saúde e à segurança dos trabalhadores dos serviços de saúde') responde corretamente ..."
   },
   {
     "codigo_origem": "Q3974348",
+    "numero_original": 89,
     "banca": "SELECON",
     "orgao": "EMGEPRON",
     "ano": 2026,
@@ -79,10 +77,10 @@
         "texto": "aguardar os resultados sorológicos do paciente-fonte antes de formalizar a emissão da Comunicação de Acidente de Trabalho e de decidir sobre a necessidade de profilaxia pós-exposição, mantendo inicialmente apenas acompanhamento clínico da profissional"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0089",
     "numero_ordem": 89,
-    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [C] ('realizar imediatamente os cuidados locais, comunicar o serviço de referência, emitir Comunicação de Acidente de Trabalho (CAT), avaliar risco biológico e considerar profilaxia pós-exposição conforme protocolo vigente') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -93,10 +91,6 @@
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'encaminhar a profissional apenas para avaliação médica eletiva, sem necessidade ...'."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'realizar imediatamente os cuidados locais, comunicar o serviço de referência, emitir ...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'aguardar os resultados sorológicos do paciente-fonte antes de formalizar a emiss...'."
       }
@@ -105,6 +99,7 @@
   },
   {
     "codigo_origem": "Q3810626",
+    "numero_original": 151,
     "banca": "SELECON",
     "orgao": "Prefeitura de Barra do Garças - MT",
     "ano": 2025,
@@ -131,15 +126,11 @@
         "texto": "realizar rotineiramente a higienização, organização e guarda dos EPIs utilizados pelos diferentes membros da equipe, assegurando que todos os equipamentos permaneçam disponíveis e em boas condições de uso ao longo do plantão 152 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "A",
     "id": "EF0151",
     "numero_ordem": 151,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [A] ('utilizar o EPI fornecido de acordo com as orientações estabelecidas, mantendo seu uso adequado durante todas as atividades em que houver risco previsto') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'utilizar o EPI fornecido de acordo com as orientações estabelecidas, mantendo seu uso...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'identificar eventuais desgastes, desconfortos ou falhas do EPI e proceder, por conta ...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -153,10 +144,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'realizar rotineiramente a higienização, organização e guarda dos EPIs utilizados pelo...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [A] ('utilizar o EPI fornecido de acordo com as orientações estabelecidas, mantendo seu uso adequado durante todas as ativid..."
   },
   {
     "codigo_origem": "Q3623621",
+    "numero_original": 197,
     "banca": "SELECON",
     "orgao": "Prefeitura de Nova Mutum - MT",
     "ano": 2025,
@@ -183,15 +175,11 @@
         "texto": "notificar os casos confirmados no sistema oficial como acidentes de trabalho e focar no acompanhamento clínico dos sintomáticos, garantindo que recebam o tratamento médico adequado para suas condições 198 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "A",
     "id": "EF0197",
     "numero_ordem": 197,
-    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [A] ('realizar uma inspeção nos ambientes de trabalho para mapear as fontes de ruído e as atividades com risco ergonômico, articulando com a CIPA e a gestão da empresa para propor mudanças nos processos produtivos e no ambiente, como o enclausuramento de máquinas e a implementação de pausas programadas') aplica com precisão a fórmula e os critérios epidemiológicos.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'realizar uma inspeção nos ambientes de trabalho para mapear as fontes de ruído e as a...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'encaminhar os trabalhadores diagnosticados para o INSS para avaliação de nexo causal ...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -205,10 +193,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'notificar os casos confirmados no sistema oficial como acidentes de trabalho e focar ...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [A] ('realizar uma inspeção no..."
   },
   {
     "codigo_origem": "Q2477201",
+    "numero_original": 427,
     "banca": "SELECON",
     "orgao": "Prefeitura de Água Boa - MT",
     "ano": 2024,
@@ -235,17 +224,13 @@
         "texto": "9 428 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0427",
-    "numero_ordem": 427,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "B",
+    "id": "EF0420",
+    "numero_ordem": 420,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [B] ('32') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "B",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
@@ -257,10 +242,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois '9 428 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [B] ('32') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q2454939",
+    "numero_original": 475,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sapezal - MT",
     "ano": 2024,
@@ -287,10 +273,10 @@
         "texto": "do trabalhador"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0475",
-    "numero_ordem": 475,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "D",
+    "id": "EF0468",
+    "numero_ordem": 468,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('do trabalhador') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -303,16 +289,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'da população...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'do trabalhador...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('do trabalhador') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q2452996",
+    "numero_original": 503,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sapezal - MT",
     "ano": 2024,
@@ -339,10 +322,10 @@
         "texto": "ambientais, ergonômicos, riscos de acidente"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0503",
-    "numero_ordem": 503,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "D",
+    "id": "EF0496",
+    "numero_ordem": 496,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('ambientais, ergonômicos, riscos de acidente') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -355,16 +338,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'físicos, ergonômicos, riscos de acidente...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'ambientais, ergonômicos, riscos de acidente...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('ambientais, ergonômicos, riscos de acidente') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q2341567",
+    "numero_original": 567,
     "banca": "SELECON",
     "orgao": "Empresa Cuiabana de Saúde Pública - MT",
     "ano": 2023,
@@ -391,17 +371,13 @@
         "texto": "institucional"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0567",
-    "numero_ordem": 567,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "B",
+    "id": "EF0559",
+    "numero_ordem": 559,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [B] ('psíquica') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "B",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
@@ -413,10 +389,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'institucional...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [B] ('psíquica') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q2341542",
+    "numero_original": 583,
     "banca": "SELECON",
     "orgao": "Empresa Cuiabana de Saúde Pública - MT",
     "ano": 2024,
@@ -443,15 +420,11 @@
         "texto": "ações de cidadania e ética nos ambientes de trabalho junto aos trabalhadores da empresa"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0583",
-    "numero_ordem": 583,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "A",
+    "id": "EF0575",
+    "numero_ordem": 575,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('ações de instrução aos trabalhadores da empresa sobre segurança no trabalho e melhores maneiras de evitar e prevenir-se de acidentes') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'ações de instrução aos trabalhadores da empresa sobre segurança no trabalho e melhore...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'assistência ambulatorial, visando ao acompanhamento sistemático dentro dos programas ...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -465,10 +438,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'ações de cidadania e ética nos ambientes de trabalho junto aos trabalhadores da empre...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('ações de instrução aos trabalhadores da empresa sobre segurança no trabalho e melhores maneiras de evitar e prevenir-se de aciden..."
   },
   {
     "codigo_origem": "Q2692381",
+    "numero_original": 857,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Grande - MS",
     "ano": 2019,
@@ -495,15 +469,11 @@
         "texto": "NR 36 858 Ano: 2019"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0857",
-    "numero_ordem": 857,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "A",
+    "id": "EF0849",
+    "numero_ordem": 849,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [A] ('NR') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
@@ -517,6 +487,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'NR 36 858 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [A] ('NR') responde corretamente à questão conforme as boas práticas assistenciais."
   }
 ]

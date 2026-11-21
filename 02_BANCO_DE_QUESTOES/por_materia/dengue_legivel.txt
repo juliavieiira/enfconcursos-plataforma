@@ -1,7 +1,7 @@
 === CADERNO DE QUESTÕES: DENGUE ===
 Total: 8 questões
 
-QUESTÃO 1 [Código: EF0301] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
+QUESTÃO 1 [Código: EF0300] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
 Assunto: Dengue , Doenças Infecciosas e parasitárias
 Uma paciente de 28 anos, com histórico recente de febre alta e dor muscular intensa, procura atendimento médico após 4 dias de evolução. Ao exame físico, observa-se hipersensibilidade abdominal, sangramentos nas gengivas e petéquias disseminadas, além de sinais de hipotensão. Os exames laboratoriais indicam plaquetopenia severa e aumento da hematócrito. Diante do quadro suspeito de dengue hemorrágica, o manejo inicial do paciente, considerando os riscos imediatos da doença, deve ser:
 
@@ -10,17 +10,16 @@ Uma paciente de 28 anos, com histórico recente de febre alta e dor muscular int
   [C] suspender a reposição volêmica e iniciar a infusão de hemoderivados, além de iniciar a monitorização laboratorial constante
   [D] administrar antibióticos de amplo espectro, realizar transfusão de plaquetas e iniciar a terapia de suporte com oxigênio 302 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: A
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('iniciar a administração de soluções isotônicas intravenosas, monitorar a pressão arterial, a diurese e os sinais de sangramento, com especial atenção ao risco de choque hipovolêmico') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'iniciar a administração de soluções isotônicas intravenosas, monitorar a pressão arte...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'iniciar infusão de plasma fresco congelado, monitorar a saturação de oxigênio e admin...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'suspender a reposição volêmica e iniciar a infusão de hemoderivados, além de iniciar ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'administrar antibióticos de amplo espectro, realizar transfusão de plaquetas e inicia...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 2 [Código: EF0319] - Prefeitura de Sinop - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 2 [Código: EF0318] - Prefeitura de Sinop - MT (SELECON 2024) - Enfermeiro
 Assunto: Dengue , Doenças Infecciosas e parasitárias
 Uma doença febril aguda, de etiologia viral e de evolução benígna na forma clássica, e grave quando se apresenta na forma hemorrágica, considerada uma arbovirose, que tem o Aedes aegypti como mosquito vetor, é conhecida como:
 
@@ -29,17 +28,16 @@ Uma doença febril aguda, de etiologia viral e de evolução benígna na forma c
   [C] filariose
   [D] toxoplasmose 320 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: B
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('dengue') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'toxoplasmose 320 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 3 [Código: EF0454] - Prefeitura de Água Boa - MT (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 3 [Código: EF0447] - Prefeitura de Água Boa - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Dengue , Doenças Infecciosas e parasitárias
 Enfermagem É uma doença febril aguda, sistêmica, dinâmica, debilitante e autolimitada. Os sintomas iniciais são: febre, dor de cabeça, prostração, dores musculares e/ou articulares e dor atrás dos olhos. Essas informações referem-se à:
 
@@ -48,17 +46,16 @@ Enfermagem É uma doença febril aguda, sistêmica, dinâmica, debilitante e aut
   [C] malária
   [D] dengue
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: D
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('dengue') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'febre amarela...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
 
 ------------------------------------------------------------
 
-QUESTÃO 4 [Código: EF0464] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 4 [Código: EF0457] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
 Assunto: Dengue , Doenças Infecciosas e parasitárias
 Administrativo - Saúde/40h Em um município brasileiro, observa-se um aumento significativo no número de casos de dengue nos últimos meses. A equipe de Vigilância Epidemiológica local investiga a situação e identifica diversos focos do mosquito Aedes aegypti, transmissor da doença. Diante do exposto, a medida mais importante para controlar o surto de dengue no município é:
 
@@ -67,17 +64,16 @@ Administrativo - Saúde/40h Em um município brasileiro, observa-se um aumento s
   [C] aplicar inseticida em todas as áreas do município para eliminar o mosquito Aedes aegypti
   [D] distribuir repelentes de mosquitos gratuitamente para a população 465 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: C
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [C] ('aplicar inseticida em todas as áreas do município para eliminar o mosquito Aedes aegypti') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'realizar campanhas de conscientização sobre os sintomas da dengue e a importância da ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'eliminar os criadouros do mosquito Aedes aegypti, como água parada em recipientes e p...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'aplicar inseticida em todas as áreas do município para eliminar o mosquito Aedes aegy...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'distribuir repelentes de mosquitos gratuitamente para a população 465 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 5 [Código: EF0510] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 5 [Código: EF0503] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
 Assunto: Dengue , Doenças Infecciosas e parasitárias , Outras Doenças Infecciosas e Parasitárias
 O momento é de intensificar os esforços e as medidas de prevenção, por parte de todos, para reduzir a transmissão da doença. A principal medida é a eliminação dos criadouros do mosquito – 75% deles localizados dentro e no entorno dos domicílios. Daí a importância de receber os agentes de combate a endemias e os agentes comunitários de saúde, que vão ajudar a encontrar e eliminar possíveis criadouros. Tal afirmativa refere-se à:
 
@@ -86,17 +82,16 @@ O momento é de intensificar os esforços e as medidas de prevenção, por parte
   [C] Covid
   [D] Leishmaniose 511 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: B
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('Dengue') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Leishmaniose 511 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 6 [Código: EF0615] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 6 [Código: EF0607] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
 Assunto: Dengue , Doenças Infecciosas e parasitárias
 MT - Enfermeiro(a) Padrão A infecção pelo vírus da dengue causa uma doença de amplo espectro clínico, incluindo desde formas pouco sintomáticas até quadros graves, podendo evoluir para o óbito. São exemplos de sinais de alarme na dengue:
 
@@ -105,17 +100,16 @@ MT - Enfermeiro(a) Padrão A infecção pelo vírus da dengue causa uma doença 
   [C] sangramento de mucosa, queda abrupta de plaquetas e hepatoesplenomegalia indolor
   [D] prova do laço positiva, aumento abruto de plaquetas e queda do volume urinário em 24 horas 616 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: B
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('dor abdominal intensa e contínua, hepatomegalia dolorosa e diminuição da diurese') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'dor abdominal leve e contínua, hepatomegalia indolor e aumento da diurese...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'dor abdominal intensa e contínua, hepatomegalia dolorosa e diminuição da diurese...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'sangramento de mucosa, queda abrupta de plaquetas e hepatoesplenomegalia indolor...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'prova do laço positiva, aumento abruto de plaquetas e queda do volume urinário em 24 ...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 7 [Código: EF0645] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 7 [Código: EF0637] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Enfermeiro
 Assunto: Dengue , Doenças Infecciosas e parasitárias
 A dengue é uma doença de importância em saúde pública no Brasil, por isso, desde 2014, o Ministério da Saúde adota a seguinte classificação de casos: dengue, dengue com sinais de alarme e dengue grave. A pesquisa de anticorpos IgM para dengue deve ser realizada durante o período:
 
@@ -124,17 +118,16 @@ A dengue é uma doença de importância em saúde pública no Brasil, por isso, 
   [C] pandêmico
   [D] somente em casos de surtos 646 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: B
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('epidêmico') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'somente em casos de surtos 646 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 8 [Código: EF0681] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 8 [Código: EF0673] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Dengue , Doenças Infecciosas e parasitárias
 em Enfermagem Aprova do laço é importante para a triagem do paciente com suspeita de dengue e deverá ser realizada obrigatoriamente. A prova será positiva nos pacientes em que houver:
 
@@ -143,13 +136,12 @@ em Enfermagem Aprova do laço é importante para a triagem do paciente com suspe
   [C] 15 ou mais petéquias em adultos e 10 ou mais em crianças
   [D] 20 ou mais petéquias em adultos e 10 ou mais em crianças Enfermagem > Processo de Enfermagem e Sistematização da Assistência de Enfermagem ,
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: D
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('20 ou mais petéquias em adultos e 10 ou mais em crianças Enfermagem > Processo de Enfermagem e Sistematização da Assistência de Enfermagem ,') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois '5 ou mais petéquias em adultos e 2 ou mais em crianças...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois '10 ou mais petéquias em adultos e 5 ou mais em crianças...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois '15 ou mais petéquias em adultos e 10 ou mais em crianças...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois '20 ou mais petéquias em adultos e 10 ou mais em crianças Enfermagem > Processo de Enf...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 

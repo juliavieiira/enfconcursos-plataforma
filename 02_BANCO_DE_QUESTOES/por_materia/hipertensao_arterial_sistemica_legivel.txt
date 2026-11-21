@@ -10,12 +10,11 @@ MT - Enfermeiro No manejo do paciente hipertenso na Atenção Básica, a consult
   [C] incentivar a redução do consumo de sódio, evidenciando os alimentos industrializados como principais fontes
   [D] prescrever um plano de exercícios físicos de alta intensidade, independentemente da avaliação de risco cardiovascular 124 Ano: 2026
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: C
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [C] ('incentivar a redução do consumo de sódio, evidenciando os alimentos industrializados como principais fontes') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'recomendar o uso contínuo de anti-infl amatórios não esteroidais para dores articular...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'orientar sobre a importância da restrição severa de líquidos para menos de 500ml/dia ...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'incentivar a redução do consumo de sódio, evidenciando os alimentos industrializados ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'prescrever um plano de exercícios físicos de alta intensidade, independentemente da a...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
@@ -29,17 +28,16 @@ MT - Enfermeiro A hipertensão arterial sistêmica (HAS) é um dos principais fa
   [C] ≥ 180 mmHg e/ou diastólica ≥ 110 mmHg
   [D] entre 140-159 mmHg e/ou diastólica entre 90-99 mmHg 130 Ano: 2026
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: D
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [D] ('entre 140-159 mmHg e/ou diastólica entre 90-99 mmHg 130 Ano: 2026') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'entre 130-139 mmHg e/ou diastólica entre 85-89 mmHg...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'entre 120-129 mmHg e diastólica < 80 mmHg...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois '≥ 180 mmHg e/ou diastólica ≥ 110 mmHg...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'entre 140-159 mmHg e/ou diastólica entre 90-99 mmHg 130 Ano: 2026...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 3 [Código: EF0338] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 3 [Código: EF0337] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
 Assunto: Hipertensão Arterial Sistêmica , Doenças Crônicas Não Transmissíveis
 Para a confirmação de um caso de hipertensão, faz-se necessário realizar três verificações consecutivas, em dias alternados. Os valores das pressões sistólica e diastólica determinam a gravidade da doença. A hipertensão arterial moderada encontrase em:
 
@@ -49,18 +47,17 @@ Para a confirmação de um caso de hipertensão, faz-se necessário realizar tr�
   [D] 180 x 120 mmHg
   [E] 200 x 130 mmHg 339 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: C
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [C] ('160 x 100 mmHg') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois '120 x 80 mmHg...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois '130 x 90 mmHg...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois '160 x 100 mmHg...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois '180 x 120 mmHg...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa E: Incorreta perante os protocolos técnicos, pois '200 x 130 mmHg 339 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 4 [Código: EF0468] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 4 [Código: EF0461] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
 Assunto: Hipertensão Arterial Sistêmica , Doenças Crônicas Não Transmissíveis
 Administrativo - Saúde/40h Um paciente de 55 anos, com histórico familiar de HAS e tabagismo, é avaliado e encaminhado a um enfermeiro na unidade de Estratégia Saúde da Família. Ao realizar a anamnese durante a consulta de enfermagem, o profissional identifica que o paciente apresenta pressão arterial elevada em todas as medições, com valores consistentemente acima de 140/90 mmHg. O exame físico não revela alterações significativas, e o paciente nega outros sintomas além de cefaleia ocasional. Diante do quadro clínico, a classificação da HAS do paciente e o manejo mais adequado para o controle da pressão arterial são, respectivamente:
 
@@ -69,17 +66,16 @@ Administrativo - Saúde/40h Um paciente de 55 anos, com histórico familiar de H
   [C] HAS grau 2 sem comorbidades, com monoterapia medicamentosa
   [D] HAS grau 1 com comorbidades, com monoterapia medicamentosa 469 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: A
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [A] ('HAS grau 2 com comorbidades, com terapia medicamentosa combinada') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'HAS grau 2 com comorbidades, com terapia medicamentosa combinada...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'HAS grau 1 sem comorbidades, com monoterapia medicamentosa...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'HAS grau 2 sem comorbidades, com monoterapia medicamentosa...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'HAS grau 1 com comorbidades, com monoterapia medicamentosa 469 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 5 [Código: EF0477] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 5 [Código: EF0470] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Hipertensão Arterial Sistêmica , Doenças Crônicas Não Transmissíveis
 Enfermagem A Hipertensão Arterial Sistêmica (HAS) é um problema grave de saúde pública no Brasil e no mundo. Ela é um dos mais importantes fatores de risco para o desenvolvimento de outras doenças graves, tais como:
 
@@ -88,17 +84,16 @@ Enfermagem A Hipertensão Arterial Sistêmica (HAS) é um problema grave de saú
   [C] distúrbios mentais
   [D] obesidade
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: B
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [B] ('doença renal crônica') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'insuficiência respiratória...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'doença renal crônica...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'distúrbios mentais...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
 
 ------------------------------------------------------------
 
-QUESTÃO 6 [Código: EF0491] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 6 [Código: EF0484] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Hipertensão Arterial Sistêmica , Doenças Crônicas Não Transmissíveis
 Enfermagem A Hipertensão Arterial Sistêmica é a mais frequente das doenças cardiovasculares. É também o principal fator de risco para as complicações mais comuns, como acidente vascular cerebral e infarto agudo do miocárdio, além da doença renal crônica terminal. O método que permite o registro indireto e intermitente da pressão arterial durante 24 horas denomina-se:
 
@@ -107,17 +102,16 @@ Enfermagem A Hipertensão Arterial Sistêmica é a mais frequente das doenças c
   [C] Avaliação da Pressão Arterial em Situações do Cotidiano
   [D] Monitorização da Pressão Arterial em Situações do Cotidiano
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: B
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [B] ('Monitorização Ambulatorial da Pressão Arterial') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'Avaliação Ambulatorial da Pressão Arterial...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'Monitorização Ambulatorial da Pressão Arterial...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Avaliação da Pressão Arterial em Situações do Cotidiano...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Monitorização da Pressão Arterial em Situações do Cotidiano...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 7 [Código: EF0718] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Enfermeiro
+QUESTÃO 7 [Código: EF0710] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Enfermeiro
 Assunto: Hipertensão Arterial Sistêmica , Farmacologia na Enfermagem , Doenças Crônicas Não Transmissíveis
 Os inibidores da enzima conversora de angiotensina (IECA) são medicamentos amplamente utilizados no tratamento da hipertensão arterial sistêmica. São efeitos colaterais:
 
@@ -126,17 +120,16 @@ Os inibidores da enzima conversora de angiotensina (IECA) são medicamentos ampl
   [C] palpitações, hipocalemia e confusão mental
   [D] tontura, sede e euforia 719 Ano: 2022
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: B
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [B] ('agioedema, modificação do paladar e hipercalemia') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'tosse produtiva, euforia e angioedema generalizado...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'agioedema, modificação do paladar e hipercalemia...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'palpitações, hipocalemia e confusão mental...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'tontura, sede e euforia 719 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 8 [Código: EF0773] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+QUESTÃO 8 [Código: EF0765] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
 Assunto: Hipertensão Arterial Sistêmica , Doenças Crônicas Não Transmissíveis
 ESF O cuidado ao indivíduo portador hipertensão arterial sistêmica (HAS) é realizado no âmbito da baixa, média e alta complexidade do SUS. São fatores de risco não modificáveis para HAS:
 
@@ -145,10 +138,9 @@ ESF O cuidado ao indivíduo portador hipertensão arterial sistêmica (HAS) é r
   [C] ingestão de sal, ingestão de álcool e obesidade
   [D] e x c e s s o d e p e s o , e t n i a e f a t o r e s socioeconômicos 774 Ano: 2020
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: A
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [A] ('dade, sexo e etnia') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'dade, sexo e etnia...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'sedentarismo, sexo e fatores socioeconômicos...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'ingestão de sal, ingestão de álcool e obesidade...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'e x c e s s o d e p e s o , e t n i a e f a t o r e s socioeconômicos 774 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde.

@@ -10,11 +10,10 @@ MT - Enfermeiro - Secretaria de Saúde A aspiração de vias aéreas superiores 
   [C] 120 a 150 mmHg, com manobras de até 20 segundos por tentativa
   [D] 150 a 200 mmHg, com manobras de até 30 segundos por tentativa
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: B
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('80 a 120 mmHg, com manobras de 10 a 15 segundos por tentativa') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois '60 a 80 mmHg, com manobras de até 5 segundos por tentativa...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois '80 a 120 mmHg, com manobras de 10 a 15 segundos por tentativa...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois '120 a 150 mmHg, com manobras de até 20 segundos por tentativa...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois '150 a 200 mmHg, com manobras de até 30 segundos por tentativa...' não atende às diretrizes oficiais do Ministério da Saúde.
 
@@ -29,17 +28,16 @@ Na síndrome de compressão de compartimento abdominal, o indicador decisivo par
   [C] oligúria persistente
   [D] pico pressórico inspiratório elevado 158 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('pressão intravesical maior que 20 mmHg') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'pressão intravesical maior que 20 mmHg...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'acidose metabólica refratária...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'oligúria persistente...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'pico pressórico inspiratório elevado 158 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 3 [Código: EF0296] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 3 [Código: EF0295] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
 Assunto: Enfermagem em UTI
 Enfermagem Em uma Unidade de Terapia Intensiva (UTI), um técnico de enfermagem se depara com a necessidade de administrar medicamentos prescritos, incluindo infusão intravenosa de medicamentos vasoativos. O técnico sabe que, para garantir a segurança do paciente, deve atuar dentro dos limites estabelecidos pela legislação de enfermagem. Considerando a legislação vigente sobre as atribuições do técnico de enfermagem, suas responsabilidades e limitações em relação à administração de medicamentos e procedimentos invasivos, é correto afirmar que o técnico de enfermagem:
 
@@ -48,17 +46,16 @@ Enfermagem Em uma Unidade de Terapia Intensiva (UTI), um técnico de enfermagem 
   [C] pode prescrever medicamentos para o paciente, conforme sua avaliação clínica, e administrar qualquer tipo de medicamento, incluindo infusão intravenosa, sem a necessidade de supervisão do enfermeiro
   [D] não pode administrar medicamentos, nem realizar nenhum procedimento invasivo, sendo sua atuação restrita apenas a cuidados de higiene e alimentação do paciente, conforme a legislação de enfermagem
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: B
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [B] ('pode administrar medicamentos, incluindo infusão intravenosa, de acordo com a prescrição médica, mas sempre deve estar sob a supervisão direta do enfermeiro, especialmente para procedimentos complexos, como a infusão de medicamentos vasoativos') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'pode administrar medicamentos, incluindo medicamentos vasoativos intravenosos, com ba...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'pode administrar medicamentos, incluindo infusão intravenosa, de acordo com a prescri...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'pode prescrever medicamentos para o paciente, conforme sua avaliação clínica, e admin...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'não pode administrar medicamentos, nem realizar nenhum procedimento invasivo, se...'.
 
 ------------------------------------------------------------
 
-QUESTÃO 4 [Código: EF0311] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
+QUESTÃO 4 [Código: EF0310] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
 Assunto: Enfermagem em UTI
 Um recém-nascido de 32 semanas de gestação é internado na Unidade de Terapia Intensiva Neonatal com quadro de distensão abdominal, dificuldade respiratória e sinais de instabilidade hemodinâmica após a introdução precoce da alimentação enteral. Ao exame físico, observa-se aumento do perímetro abdominal, presença de sangue nas fezes e sinais de irritabilidade. O médico suspeita de enterocolite necrosante (ECN) e solicita exames complementares. Como enfermeiro responsável pelo atendimento, a conduta mais apropriada diante deste quadro é:
 
@@ -67,17 +64,16 @@ Um recém-nascido de 32 semanas de gestação é internado na Unidade de Terapia
   [C] suspender imediatamente a alimentação enteral, manter hidratação intravenosa, realizar vigilância rigorosa dos sinais vitais, especialmente da pressão arterial e temperatura, além de monitorar a função renal e sinais de septicemia, em conjunto com a equipe médica
   [D] administrar a alimentação enteral com volumes reduzidos, manter hidratação intravenosa, e realizar controle rigoroso da temperatura, já que a ECN é uma condição benigna e com resolução espontânea na maioria dos casos 312 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.
+✅ Gabarito: C
+💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [C] ('suspender imediatamente a alimentação enteral, manter hidratação intravenosa, realizar vigilância rigorosa dos sinais vitais, especialmente da pressão arterial e temperatura, além de monitorar a função renal e sinais de septicemia, em conjunto com a equipe médica') expressa fielmente o preceito legislativo.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'continuar com a alimentação enteral conforme prescrição médica, monitorar os sinais v...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'imediatamente iniciar a administração de líquidos por via intravenosa, manter o supor...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'suspender imediatamente a alimentação enteral, manter hidratação intravenosa, realiza...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'administrar a alimentação enteral com volumes reduzidos, manter hidratação intravenos...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 5 [Código: EF0466] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 5 [Código: EF0459] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
 Assunto: Enfermagem em UTI
 Administrativo - Saúde/40h Em uma Unidade de Terapia Intensiva (UTI), uma enfermeira se depara com a seguinte situação: um paciente em estado terminal, com respiração assistida e sem chances de recuperação, apresenta sofrimento intenso e agonia. A família do paciente solicita à equipe a sedação paliativa para aliviar o sofrimento do ente querido. Nessa situação, a atitude mais ética e profissional da enfermeira é:
 
@@ -86,17 +82,16 @@ Administrativo - Saúde/40h Em uma Unidade de Terapia Intensiva (UTI), uma enfer
   [C] informar à família que a sedação paliativa só pode ser realizada mediante autorização judicial, mesmo em casos de sofrimento extremo
   [D] negar o pedido da família, alegando que a sedação paliativa é eutanásia e fere os princípios da bioética 467 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: A
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('acolher a solicitação da família com empatia, discutir o caso com a equipe médica e multiprofissional, e buscar a melhor solução para aliviar o sofrimento do paciente, considerando os princípios éticos da enfermagem e os aspectos legais da sedação paliativa') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'acolher a solicitação da família com empatia, discutir o caso com a equipe médica e m...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'atender ao pedido da família sem questionar, iniciando a sedação paliativa sem a devi...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'informar à família que a sedação paliativa só pode ser realizada mediante autorização...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'negar o pedido da família, alegando que a sedação paliativa é eutanásia e fere os pri...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 6 [Código: EF0518] - Prefeitura de Dourados - MS (SELECON 2023) - Enfermeiro
+QUESTÃO 6 [Código: EF0510] - Prefeitura de Dourados - MS (SELECON 2023) - Enfermeiro
 Assunto: Enfermagem em UTI
 A incidência de lesão por pressão (LPP) nos pacientes críticos, internados na Unidade de Terapia Intensiva (UTI), depende das características e das condições clínicas. Ao longo dos anos, escalas como Norton, Waterlow e Braden foram criadas para auxiliar o enfermeiro na identificação do risco de LPP, contudo, uma escala adequada para a avaliação nos pacientes críticos é a:
 
@@ -105,17 +100,16 @@ A incidência de lesão por pressão (LPP) nos pacientes críticos, internados n
   [C] Evaruci
   [D] CAM - ICU 519 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.
+✅ Gabarito: C
+💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [C] ('Evaruci') aplica com precisão a fórmula e os critérios epidemiológicos.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'CAM - ICU 519 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 7 [Código: EF0653] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 7 [Código: EF0645] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Enfermeiro
 Assunto: Enfermagem em UTI
 Os pacientes considerados neurocríticos podem ter alteração da pressão intracraniana (PIC), que é a pressão exercida dentro do crânio, determinada pelos seguintes elementos: líquido cefalorraquidiano (LCR), sangue e parênquima cerebral, sendo, no adulto, seu valor fisiológico inferior a 15 mmHg. Para se obter a pressão de perfusão cerebral (PPC), a fórmula indicada para o cálculo é:
 
@@ -124,17 +118,16 @@ Os pacientes considerados neurocríticos podem ter alteração da pressão intra
   [C] PPC= PAM + PIC
   [D] PPC= PAM – PIC 654 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('PPC= PAM – PIC 654 Ano: 2023') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'PPC= FSC + PIC...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'PPC= FSC – PIC...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'PPC= PAM + PIC...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'PPC= PAM – PIC 654 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 8 [Código: EF0668] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Técnico de Enfermagem
+QUESTÃO 8 [Código: EF0660] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Técnico de Enfermagem
 Assunto: Enfermagem em UTI
 em Enfermagem O pneumotórax consiste na coleção de ar no espaço pleural, sendo necessário o médico inserir o dreno torácico, que é posicionado no segundo ou terceiro espaço intercostal, cujo objetivo é a drenagem de ar ou líquido do espaço pleural para ajudar a restaurar a pressão negativa. Nesse caso, o sistema de drenagem, com relação ao nível da água no recipiente, deve estar abaixo de:
 
@@ -143,17 +136,16 @@ em Enfermagem O pneumotórax consiste na coleção de ar no espaço pleural, sen
   [C] 4,0 cm
   [D] 6,5 cm
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [A] ('2,5 cm') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
 
 ------------------------------------------------------------
 
-QUESTÃO 9 [Código: EF0731] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Enfermeiro
+QUESTÃO 9 [Código: EF0723] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Enfermeiro
 Assunto: Enfermagem em UTI
 A doutrina de Monro-Kellie explica o equilíbrio dinâmico do conteúdo craniano. Trata-se de uma abordagem, segundo a qual, devido ao espaço limitado para ocorrer expansão intracraniana, o aumento de qualquer um dos componentes do crânio modifica o volume dos outros e resulta na elevação da PIC. Essa elevação pode reduzir o fluxo sanguíneo cerebral e resultar em isquemia e morte celular. A fórmula que traduz a pressão de perfusão cerebral (PPC) possui as seguintes variáveis:
 
@@ -162,17 +154,16 @@ A doutrina de Monro-Kellie explica o equilíbrio dinâmico do conteúdo craniano
   [C] Pressão arterial média e Pressão intracraniana
   [D] Débito cardíaco e Pressão venosa central 732 Ano: 2022
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: C
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [C] ('Pressão arterial média e Pressão intracraniana') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'Fluxo sanguíneo cerebral e Pressão intra-abdominal...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'Pressão arterial sistólica e Pressão intracerebral...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Pressão arterial média e Pressão intracraniana...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Débito cardíaco e Pressão venosa central 732 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 10 [Código: EF0738] - Prefeitura de Boa Vista - RR (SELECON 2020) - Técnico de Enfermagem
+QUESTÃO 10 [Código: EF0730] - Prefeitura de Boa Vista - RR (SELECON 2020) - Técnico de Enfermagem
 Assunto: Enfermagem em UTI
 Enfermagem Ainfecção que é constatada ou em incubação na admissão, não relacionada à internação hospitalar anterior é chamada de:
 
@@ -181,17 +172,16 @@ Enfermagem Ainfecção que é constatada ou em incubação na admissão, não re
   [C] hospitalar
   [D] pandemia
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: A
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('comunitária') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'comunitária...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
 
 ------------------------------------------------------------
 
-QUESTÃO 11 [Código: EF0792] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+QUESTÃO 11 [Código: EF0784] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
 Assunto: Enfermagem em UTI
 Intensivista Pediátrico Durante a assistência de enfermagem na terapia intensiva pediátrica, é fundamental que o enfermeiro conheça os modos de ventilação mecânica. A modalidade ventilatória que consiste em uma ventilação mecânica espontânea, ou seja, é disparado e ciclado pelo próprio paciente, em que o ventilador mecânico assiste à ventilação através da manutenção de uma pressão positiva prédeterminada durante a inspiração até que o fluxo inspiratório do paciente reduza-se a um nível crítico, é chamada de ventilação:
 
@@ -200,17 +190,16 @@ Intensivista Pediátrico Durante a assistência de enfermagem na terapia intensi
   [C] mandatória contínua com pressão controlada
   [D] com pressão de suporte 793 Ano: 2020
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('com pressão de suporte 793 Ano: 2020') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'com pressão negativa contínua nas vias aéreas...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'mandatória contínua com volume controlado...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'mandatória contínua com pressão controlada...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'com pressão de suporte 793 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 12 [Código: EF0794] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+QUESTÃO 12 [Código: EF0786] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
 Assunto: Enfermagem em UTI
 Intensivista Pediátrico A pressão venosa central (PVC) é uma medida amplamente utilizada na terapia intensiva. Entretanto, para a avaliação da volemia e da função cardíaca de pacientes graves, deverá ser associada a outros parâmetros clínicos e hemodinâmicos. Sobre as características das ondas de PVC no monitor, é correto afirmar que a onda:
 
@@ -219,17 +208,16 @@ Intensivista Pediátrico A pressão venosa central (PVC) é uma medida amplament
   [C] U significa contração atrial sinusal direito
   [D] V significa o enchimento do átrio direito 795 Ano: 2020
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: D
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [D] ('V significa o enchimento do átrio direito 795 Ano: 2020') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'Y significa o enchimento do átrio esquerdo...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'E significa o esvaziamento dos ventrículos...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'U significa contração atrial sinusal direito...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'V significa o enchimento do átrio direito 795 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 13 [Código: EF0795] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+QUESTÃO 13 [Código: EF0787] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
 Assunto: Enfermagem em UTI
 Intensivista Pediátrico No cenário da terapia intensiva pediátrica, o enfermeiro deverá estar atendo aos sinais e sintomas das doenças cardiovasculares. Sendo assim, a coarctação de aorta é uma doença que pode se apresentar como lesão isolada ou associada a outras anomalias, tais como a valva aórtica bivalvular, persistência do canal arterial (PCA), comunicação interventricular CIV, entre outras. Essa malformação é mais frequente no paciente com síndrome de:
 
@@ -238,17 +226,16 @@ Intensivista Pediátrico No cenário da terapia intensiva pediátrica, o enferme
   [C] Turner
   [D] Reye 796 Ano: 2020
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: C
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [C] ('Turner') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Reye 796 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 14 [Código: EF0802] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+QUESTÃO 14 [Código: EF0794] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
 Assunto: Enfermagem em UTI
 Intensivista Pediátrico A infraestrutura da unidade de terapia intensiva pediátrica deve contribuir para manutenção da privacidade do paciente sem, contudo, interferir na sua monitorização. No entanto, sobre as UTI's pediátricas mistas, é correto afirmar que:
 
@@ -257,17 +244,16 @@ Intensivista Pediátrico A infraestrutura da unidade de terapia intensiva pediá
   [C] não deve haver uma separação física entre os ambientes de UTI pediátrica e UTI neonatal
   [D] deve haver uma separação física entre os ambientes de UTI Pediátrica e UTI Neonatal 803 Ano: 2020
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('deve haver uma separação física entre os ambientes de UTI Pediátrica e UTI Neonatal 803 Ano: 2020') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'não deve haver somente uma separação entre os profissionais de UTI pediátrica e UTI n...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'deve haver somente uma separação entre os profissionais de UTI pediátrica e UTI neona...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'não deve haver uma separação física entre os ambientes de UTI pediátrica e UTI neonat...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'deve haver uma separação física entre os ambientes de UTI Pediátrica e UTI Neonatal 8...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 15 [Código: EF0803] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+QUESTÃO 15 [Código: EF0795] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
 Assunto: Enfermagem em UTI
 Intensivista Pediátrico Segundo a RDC Nº 7 de 24 de fevereiro de 2010, que dispõe sobre os requisitos mínimos para funcionamento de unidades de terapia intensiva, a unidade de terapia intensiva pediátrica é destinada à assistência a pacientes com idade de:
 
@@ -276,17 +262,16 @@ Intensivista Pediátrico Segundo a RDC Nº 7 de 24 de fevereiro de 2010, que dis
   [C] 30 dias a 14 ou 19 anos, sendo este limite definido de acordo com as rotinas da instituição
   [D] 25 dias a 17 ou 20 anos, sendo este limite definido de acordo com as rotinas da instituição 804 Ano: 2020
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('29 dias a 14 ou 18 anos, sendo este limite definido de acordo com as rotinas da instituição') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois '29 dias a 14 ou 18 anos, sendo este limite definido de acordo com as rotinas da insti...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois '27 dias a 14 ou 19 anos, sendo este limite definido de acordo com as rotinas da insti...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois '30 dias a 14 ou 19 anos, sendo este limite definido de acordo com as rotinas da insti...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois '25 dias a 17 ou 20 anos, sendo este limite definido de acordo com as rotinas da insti...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 16 [Código: EF0859] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
+QUESTÃO 16 [Código: EF0851] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
 Assunto: Enfermagem em UTI
 A pressão exercida em veia cava superior e inferior durante o retorno venoso na circulação sistêmica e que deve ser mensurada quando houver dúvida sobre o estado volêmico do paciente recebe o nome de:
 
@@ -295,13 +280,12 @@ A pressão exercida em veia cava superior e inferior durante o retorno venoso na
   [C] pressão capilar pulmonar (PCAP)
   [D] pressão venosa central (PVC) 860 Ano: 2019
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('pressão venosa central (PVC) 860 Ano: 2019') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'pressão arterial média não invasiva (PAMNI)...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'pressão arterial média invasiva (PAMI)...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'pressão capilar pulmonar (PCAP)...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'pressão venosa central (PVC) 860 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 

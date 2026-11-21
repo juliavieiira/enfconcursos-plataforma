@@ -1,6 +1,7 @@
 [
   {
     "codigo_origem": "Q4369115",
+    "numero_original": 19,
     "banca": "SELECON",
     "orgao": "Prefeitura de Lucas do Rio Verde - MT",
     "ano": 2026,
@@ -49,6 +50,7 @@
   },
   {
     "codigo_origem": "Q4317377",
+    "numero_original": 43,
     "banca": "SELECON",
     "orgao": "Prefeitura de Barra do Garças - MT",
     "ano": 2026,
@@ -75,18 +77,14 @@
         "texto": "oferta de alimentos de consistência pastosa, por apresentarem menor risco de aspiração 44 Enfermagem > Legislação de Enfermagem , Lei do Exercício Profissional de Enfermagem , Assistência de Enfermagem em Feridas e Curativos Atenção Básica e Saúde da Família Banca: SELECON Órgão: Prefeitura de Barra do Garças - MT Prova: SELECON - 2026 - Prefeitura de Barra do Garças - MT -"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0043",
     "numero_ordem": 43,
-    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [B] ('manutenção da restrição de ingestão por via oral') expressa fielmente o preceito legislativo.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'oferta fracionada de água para verificar tolerância...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'manutenção da restrição de ingestão por via oral...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -101,6 +99,7 @@
   },
   {
     "codigo_origem": "Q3974343",
+    "numero_original": 93,
     "banca": "SELECON",
     "orgao": "EMGEPRON",
     "ano": 2026,
@@ -127,10 +126,10 @@
         "texto": "contribuir para a qualificação do cuidado em saúde em todos os estabelecimentos do território nacional, por meio da prevenção e da redução da incidência de eventos adversos relacionados à assistência à saúde"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "D",
     "id": "EF0093",
     "numero_ordem": 93,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('contribuir para a qualificação do cuidado em saúde em todos os estabelecimentos do território nacional, por meio da prevenção e da redução da incidência de eventos adversos relacionados à assistência à saúde') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -143,16 +142,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'desenvolver estratégias institucionais de gestão de risco e implementar protocolos bá...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'contribuir para a qualificação do cuidado em saúde em todos os estabelecimentos do te...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('contribuir para a qualificação do cuidado em saúde em todos os estabelecimentos do território nacional, por meio da prevenção e d..."
   },
   {
     "codigo_origem": "Q3974326",
+    "numero_original": 106,
     "banca": "SELECON",
     "orgao": "EMGEPRON",
     "ano": 2026,
@@ -179,10 +175,10 @@
         "texto": "definição da prioridade assistencial deve fundamentar-se principalmente nos parâmetros hemodinâmicos objetivos aferidos na triagem, sendo os sintomas inespecíficos considerados apenas como complementares na estratificação inicial de risco 107 Ano: 2026"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0106",
     "numero_ordem": 106,
-    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [C] ('presença de fatores de risco cardiovascular associada a sintomas atípicos impõe classificação como condição potencialmente tempo-dependente, com prioridade elevada para avaliação imediata') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -193,10 +189,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'estabilidade dos sinais vitais afasta, no primeiro momento, suspeita de condição temp...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'presença de fatores de risco cardiovascular associada a sintomas atípicos impõe class...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'definição da prioridade assistencial deve fundamentar-se principalmente nos parâ...'."
       }
@@ -205,6 +197,7 @@
   },
   {
     "codigo_origem": "Q3199755",
+    "numero_original": 280,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sinop - MT",
     "ano": 2025,
@@ -231,18 +224,14 @@
         "texto": "continuar a aspiração de secreções até que o paciente apresente melhora completa na respiração, sem a necessidade de monitoramento adicional"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0280",
     "numero_ordem": 280,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [B] ('reavaliar a saturação de oxigênio, monitorar os sinais vitais e proporcionar conforto respiratório, evitando novas aspirações desnecessárias') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'administrar oxigênio imediatamente, monitorando a frequência cardíaca e respiratória,...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'reavaliar a saturação de oxigênio, monitorar os sinais vitais e proporcionar conforto...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -253,10 +242,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'continuar a aspiração de secreções até que o paciente apresente melhora completa na r...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [B] ('reavaliar a saturação de oxigênio, monitorar os sinais vitais e proporcionar conforto respiratório, evitando novas asp..."
   },
   {
     "codigo_origem": "Q3199748",
+    "numero_original": 287,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sinop - MT",
     "ano": 2025,
@@ -283,10 +273,10 @@
         "texto": "a padronização de procedimentos e o uso de checklists de segurança, incluindo a verificação da identificação do paciente, a conferência de medicamentos e a correta realização de procedimentos, são fundamentais e devem ser sistematicamente aplicados por todos os membros da equipe, independentemente da gravidade do quadro do paciente"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0287",
-    "numero_ordem": 287,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "D",
+    "id": "EF0286",
+    "numero_ordem": 286,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('a padronização de procedimentos e o uso de checklists de segurança, incluindo a verificação da identificação do paciente, a conferência de medicamentos e a correta realização de procedimentos, são fundamentais e devem ser sistematicamente aplicados por todos os membros da equipe, independentemente da gravidade do quadro do paciente') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -299,16 +289,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'a monitorização constante da segurança do paciente deve ser realizada somente após a ...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'a padronização de procedimentos e o uso de checklists de segurança, incluindo a verif...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('a padronização de procedimentos e o uso de checklists de segurança, incluindo a verificação da identificação do pacien..."
   },
   {
     "codigo_origem": "Q2480399",
+    "numero_original": 378,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -339,15 +326,11 @@
         "texto": "sistêmica, externa, interna 379 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0378",
-    "numero_ordem": 378,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "A",
+    "id": "EF0375",
+    "numero_ordem": 375,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('humana, sistêmica, externa, relacionada ao paciente') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'humana, sistêmica, externa, relacionada ao paciente...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'individual, sistêmica, interna, relacionada ao paciente...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -365,10 +348,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'sistêmica, externa, interna 379 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('humana, sistêmica, externa, relacionada ao paciente') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q2452994",
+    "numero_original": 505,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sapezal - MT",
     "ano": 2024,
@@ -395,10 +379,10 @@
         "texto": "individuais, sistêmicos, internos, relacionados ao paciente 506 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0505",
-    "numero_ordem": 505,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "C",
+    "id": "EF0498",
+    "numero_ordem": 498,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [C] ('humanos, sistêmicos, externos, relacionados ao paciente') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -409,18 +393,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'humanos, sistêmicos, externos, internos...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'humanos, sistêmicos, externos, relacionados ao paciente...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'individuais, sistêmicos, internos, relacionados ao paciente 506 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [C] ('humanos, sistêmicos, externos, relacionados ao paciente') responde corretamente à questão conforme as boas práticas assistenciais..."
   },
   {
     "codigo_origem": "Q2452988",
+    "numero_original": 511,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sapezal - MT",
     "ano": 2024,
@@ -447,10 +428,10 @@
         "texto": "Lei 14.737/2023 512 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0511",
-    "numero_ordem": 511,
-    "fundamentacao_correta": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.",
+    "resposta_correta": "D",
+    "id": "EF0504",
+    "numero_ordem": 504,
+    "fundamentacao_correta": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [D]: 'Lei 14.737/2023 512 Ano: 2024'.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -463,16 +444,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'Lei 12.466/2011...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'Lei 14.737/2023 512 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos pad..."
   },
   {
     "codigo_origem": "Q3584426",
+    "numero_original": 548,
     "banca": "SELECON",
     "orgao": "Prefeitura de Lucas do Rio Verde - MT",
     "ano": 2023,
@@ -499,18 +477,14 @@
         "texto": "leve 549 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0548",
-    "numero_ordem": 548,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "B",
+    "id": "EF0540",
+    "numero_ordem": 540,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [B] ('moderado') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'catastrófico...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "C",
@@ -521,10 +495,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'leve 549 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [B] ('moderado') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q2297113",
+    "numero_original": 638,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Verde - MT",
     "ano": 2023,
@@ -551,10 +526,10 @@
         "texto": "Sims 639 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0638",
-    "numero_ordem": 638,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "C",
+    "id": "EF0630",
+    "numero_ordem": 630,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [C] ('Fowler') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -565,18 +540,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'Semi-Fowler...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'Sims 639 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [C] ('Fowler') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q2162338",
+    "numero_original": 655,
     "banca": "SELECON",
     "orgao": "Prefeitura de Nova Mutum - MT",
     "ano": 2024,
@@ -603,18 +575,14 @@
         "texto": "públicos, privados, civis ou militares, excluindo os filantrópicos e incluindo aqueles que exercem ações de ensino e pesquisa"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0655",
-    "numero_ordem": 655,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "B",
+    "id": "EF0647",
+    "numero_ordem": 647,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [B] ('públicos, privados, filantrópicos, civis ou militares, incluindo aqueles que exercem ações de ensino e pesquisa') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'públicos, privados, filantrópicos, civis ou militares, excluindo aqueles que exercem ...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'públicos, privados, filantrópicos, civis ou militares, incluindo aqueles que exercem ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -629,6 +597,7 @@
   },
   {
     "codigo_origem": "Q2160741",
+    "numero_original": 666,
     "banca": "SELECON",
     "orgao": "Prefeitura de Nova Mutum - MT",
     "ano": 2023,
@@ -655,10 +624,10 @@
         "texto": "a percepção sensorial 667 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0666",
-    "numero_ordem": 666,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "D",
+    "id": "EF0658",
+    "numero_ordem": 658,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('a percepção sensorial 667 Ano: 2023') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -671,16 +640,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'a hidratação venosa...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'a percepção sensorial 667 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('a percepção sensorial 667 Ano: 2023') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q1956074",
+    "numero_original": 708,
     "banca": "SELECON",
     "orgao": "Prefeitura de Pontes e Lacerda - MT",
     "ano": 2022,
@@ -707,15 +673,11 @@
         "texto": "quatro identificadores em uma pulseira branca padronizada pela instituição 709 Ano: 2022"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0708",
-    "numero_ordem": 708,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "A",
+    "id": "EF0700",
+    "numero_ordem": 700,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [A] ('dois identificadores em uma pulseira branca padronizada pela instituição') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'dois identificadores em uma pulseira branca padronizada pela instituição...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'três identificadores em uma pulseira amarela padronizada pela instituição...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -729,10 +691,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'quatro identificadores em uma pulseira branca padronizada pela instituição 709 Ano: 2...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [A] ('dois identificadores em uma pulseira branca padronizada pela instituição') responde corretamente à questão conforme as..."
   },
   {
     "codigo_origem": "Q1313730",
+    "numero_original": 769,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2020,
@@ -759,10 +722,10 @@
         "texto": "melhora a gestão dos leitos hospitalares e o uso dos recursos 770 Ano: 2020"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0769",
-    "numero_ordem": 769,
-    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
+    "resposta_correta": "C",
+    "id": "EF0761",
+    "numero_ordem": 761,
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [C] ('aumenta a superlotação de serviços de urgência e emergência') expressa fielmente o preceito legislativo.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -773,10 +736,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'evita-se hospitalizações desnecessárias e diminui o risco de infecções...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'aumenta a superlotação de serviços de urgência e emergência...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'melhora a gestão dos leitos hospitalares e o uso dos recursos 770 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -785,6 +744,7 @@
   },
   {
     "codigo_origem": "Q2710375",
+    "numero_original": 825,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Grande - MS",
     "ano": 2019,
@@ -811,15 +771,11 @@
         "texto": "antes da indução anestésica, antes da incisão cirúrgica e após o paciente sair da sala de cirurgia 826 Ano: 2019"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0825",
-    "numero_ordem": 825,
-    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.",
+    "resposta_correta": "A",
+    "id": "EF0817",
+    "numero_ordem": 817,
+    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [A] ('antes da indução anestésica, antes da incisão cirúrgica e antes do paciente sair da sala de cirurgia') atende às exigências normativas de biossegurança perioperatória.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'antes da indução anestésica, antes da incisão cirúrgica e antes do paciente sair da s...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'antes da indução anestésica, após a incisão cirúrgica e antes do paciente sair da sal...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -837,6 +793,7 @@
   },
   {
     "codigo_origem": "Q2710372",
+    "numero_original": 828,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Grande - MS",
     "ano": 2019,
@@ -863,10 +820,10 @@
         "texto": "quase falha 829 Ano: 2019"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0828",
-    "numero_ordem": 828,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "C",
+    "id": "EF0820",
+    "numero_ordem": 820,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [C] ('incidente com dano') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -877,18 +834,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'incidente sem dano...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'incidente com dano...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'quase falha 829 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [C] ('incidente com dano') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q2710370",
+    "numero_original": 830,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Grande - MS",
     "ano": 2019,
@@ -915,18 +869,14 @@
         "texto": "promover e apoiar a implementação de iniciativas voltadas à segurança do paciente em diferentes áreas da atenção, organização e gestão de serviços de saúde por meio da implantação da gestão de risco e de Núcleos de Segurança do Paciente nos estabelecimentos de saúde; envolver os pacientes e familiares nas ações de segurança do paciente e não fomentar a inclusão do tema segurança do paciente no ensino técnico e de graduação e pós-graduação na área da saúde 831 Ano: 2019"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0830",
-    "numero_ordem": 830,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "B",
+    "id": "EF0822",
+    "numero_ordem": 822,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [B] ('promover e apoiar a implementação de iniciativas voltadas à segurança do paciente em diferentes áreas da atenção, organização e gestão de serviços de saúde por meio da implantação da gestão de risco e de Núcleos de Segurança do Paciente nos estabelecimentos de saúde; envolver os pacientes e familiares nas ações de segurança do paciente e ampliar o acesso da sociedade às informações relativas à segurança do paciente') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'produzir, sistematizar e difundir conhecimentos sobre segurança do paciente; promover...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'promover e apoiar a implementação de iniciativas voltadas à segurança do paciente em ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -937,10 +887,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'promover e apoiar a implementação de iniciativas voltadas à segurança do paciente em ...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [B] ('promover e apoiar a implementação de iniciativas voltadas à segurança do paciente em diferentes áreas da atenção, orga..."
   },
   {
     "codigo_origem": "Q2692378",
+    "numero_original": 858,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Grande - MS",
     "ano": 2019,
@@ -967,18 +918,14 @@
         "texto": "quase falha 859 Ano: 2019"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0858",
-    "numero_ordem": 858,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "B",
+    "id": "EF0850",
+    "numero_ordem": 850,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [B] ('incidente sem dano') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'circunstância de risco...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'incidente sem dano...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -989,10 +936,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'quase falha 859 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [B] ('incidente sem dano') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q1242255",
+    "numero_original": 873,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2019,
@@ -1019,10 +967,10 @@
         "texto": "72 horas 874 Ano: 2019"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0873",
-    "numero_ordem": 873,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "D",
+    "id": "EF0865",
+    "numero_ordem": 865,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('72 horas 874 Ano: 2019') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1035,16 +983,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois '72 horas 874 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('72 horas 874 Ano: 2019') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q1242254",
+    "numero_original": 874,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2019,
@@ -1071,10 +1016,10 @@
         "texto": "risco 875 Ano: 2019"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0874",
-    "numero_ordem": 874,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "C",
+    "id": "EF0866",
+    "numero_ordem": 866,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [C] ('dano') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1085,14 +1030,10 @@
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'risco 875 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [C] ('dano') responde corretamente à questão conforme as boas práticas assistenciais."
   }
 ]

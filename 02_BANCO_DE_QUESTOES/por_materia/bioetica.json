@@ -1,6 +1,7 @@
 [
   {
     "codigo_origem": "Q3623612",
+    "numero_original": 205,
     "banca": "SELECON",
     "orgao": "Prefeitura de Nova Mutum - MT",
     "ano": 2025,
@@ -27,10 +28,10 @@
         "texto": "confidencialidade 206 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0205",
     "numero_ordem": 205,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [C] ('autonomia') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -38,10 +39,6 @@
       },
       {
         "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "C",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
@@ -53,6 +50,7 @@
   },
   {
     "codigo_origem": "Q3265167",
+    "numero_original": 258,
     "banca": "SELECON",
     "orgao": "HEMOMINAS",
     "ano": 2025,
@@ -79,10 +77,10 @@
         "texto": "em situações de urgência, é permitido que o técnico de enfermagem realize registros no prontuário eletrônico utilizando o login e a senha de um enfermeiro, desde que justificado 259 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0258",
     "numero_ordem": 258,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [C] ('o profissional de enfermagem é responsável por manter a confidencialidade das informações no prontuário eletrônico, sendo vedado compartilhar sua senha de acesso com outros membros da equipe ou terceiros') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -93,10 +91,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'o uso do prontuário eletrônico está isento de normas éticas ou legais que regulam o r...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'o profissional de enfermagem é responsável por manter a confidencialidade das informa...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'em situações de urgência, é permitido que o técnico de enfermagem realize registros n...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -105,6 +99,7 @@
   },
   {
     "codigo_origem": "Q2528694",
+    "numero_original": 334,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -135,15 +130,11 @@
         "texto": "promover e ser conivente com a injúria, calúnia e difamação de membro da equipe de enfermagem, equipe de saúde e de trabalhadores de outras áreas, de organizações da categoria ou instituições."
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0334",
-    "numero_ordem": 334,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "A",
+    "id": "EF0333",
+    "numero_ordem": 333,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [A] ('exercer a profissão com justiça, compromisso, equidade, resolutividade, dignidade, competência, responsabilidade, honestidade e lealdade.') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'exercer a profissão com justiça, compromisso, equidade, resolutividade, dignidade, co...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'apoiar as iniciativas que visem ao aprimoramento profissional e à defesa dos direitos...' não atende às diretrizes oficiais do Ministério da Saúde."

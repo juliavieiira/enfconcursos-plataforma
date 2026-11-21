@@ -1,6 +1,7 @@
 [
   {
     "codigo_origem": "Q4370021",
+    "numero_original": 16,
     "banca": "SELECON",
     "orgao": "Prefeitura de Lucas do Rio Verde - MT",
     "ano": 2026,
@@ -49,6 +50,7 @@
   },
   {
     "codigo_origem": "Q2342291",
+    "numero_original": 554,
     "banca": "SELECON",
     "orgao": "Empresa Cuiabana de Saúde Pública - MT",
     "ano": 2023,
@@ -75,10 +77,10 @@
         "texto": "< 150/110 mmHg e tentar manter pressão arterial sistólica preferencialmente < 140 mmHg 555 Ano: 2023 Enfermagem > Urgência e emergência , Processo de Enfermagem e Sistematização da Assistência de Enfermagem , APH-Atendimento Pré-Hospitalar Banca: SELECON Órgão: Empresa Cuiabana de Saúde Pública - MT Prova: SELECON - 2023 - Empresa Cuiabana de Saúde"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0554",
-    "numero_ordem": 554,
-    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "resposta_correta": "C",
+    "id": "EF0546",
+    "numero_ordem": 546,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [C] ('< 180/105 mmHg e tentar manter pressão arterial sistólica preferencialmente > 160 mmHg') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -89,10 +91,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois '> 180/105 mmHg e tentar manter pressão arterial sistólica preferencialmente > 140 mmH...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois '< 180/105 mmHg e tentar manter pressão arterial sistólica preferencialmente > 160 mmH...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois '< 150/110 mmHg e tentar manter pressão arterial sistólica preferencialmente < 140 mmH...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -101,6 +99,7 @@
   },
   {
     "codigo_origem": "Q2297120",
+    "numero_original": 631,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Verde - MT",
     "ano": 2023,
@@ -127,18 +126,14 @@
         "texto": "insuficiência respiratória, aumento da pressão arterial e hiperglicemia 632 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0631",
-    "numero_ordem": 631,
-    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "resposta_correta": "B",
+    "id": "EF0623",
+    "numero_ordem": 623,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [B] ('plegia ou paresia facial súbita, cefaleia e disfasia') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'sialorreia, febre e taquicardia...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'plegia ou paresia facial súbita, cefaleia e disfasia...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",

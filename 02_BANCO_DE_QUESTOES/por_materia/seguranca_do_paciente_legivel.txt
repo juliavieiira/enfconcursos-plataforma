@@ -28,11 +28,10 @@ Técnico em Enfermagem - SMS Um paciente admitido com suspeita de acidente vascu
   [C] administração de medicamentos orais com pequeno volume de líquido
   [D] oferta de alimentos de consistência pastosa, por apresentarem menor risco de aspiração 44 Enfermagem > Legislação de Enfermagem , Lei do Exercício Profissional de Enfermagem , Assistência de Enfermagem em Feridas e Curativos Atenção Básica e Saúde da Família Banca: SELECON Órgão: Prefeitura de Barra do Garças - MT Prova: SELECON - 2026 - Prefeitura de Barra do Garças - MT -
 
-✅ Gabarito: 
-💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.
+✅ Gabarito: B
+💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [B] ('manutenção da restrição de ingestão por via oral') expressa fielmente o preceito legislativo.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'oferta fracionada de água para verificar tolerância...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'manutenção da restrição de ingestão por via oral...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'administração de medicamentos orais com pequeno volume de líquido...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'oferta de alimentos de consistência pastosa, por apresentarem menor risco de aspiraçã...' não atende às diretrizes oficiais do Ministério da Saúde.
 
@@ -47,13 +46,12 @@ A Portaria n.º 529 instituiu o Programa Nacional de Segurança do Paciente (PNS
   [C] desenvolver estratégias institucionais de gestão de risco e implementar protocolos básicos de segurança do paciente
   [D] contribuir para a qualificação do cuidado em saúde em todos os estabelecimentos do território nacional, por meio da prevenção e da redução da incidência de eventos adversos relacionados à assistência à saúde
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('contribuir para a qualificação do cuidado em saúde em todos os estabelecimentos do território nacional, por meio da prevenção e da redução da incidência de eventos adversos relacionados à assistência à saúde') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'organizar diretrizes gerais para melhoria da assistência hospitalar no país...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'implantar ações voltadas à melhoria da qualidade assistencial nos serviços de saúde...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'desenvolver estratégias institucionais de gestão de risco e implementar protocolos bá...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'contribuir para a qualificação do cuidado em saúde em todos os estabelecimentos do te...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
@@ -66,12 +64,11 @@ Em um serviço hospitalar que adota protocolo estruturado de classificação de 
   [C] presença de fatores de risco cardiovascular associada a sintomas atípicos impõe classificação como condição potencialmente tempo-dependente, com prioridade elevada para avaliação imediata
   [D] definição da prioridade assistencial deve fundamentar-se principalmente nos parâmetros hemodinâmicos objetivos aferidos na triagem, sendo os sintomas inespecíficos considerados apenas como complementares na estratificação inicial de risco 107 Ano: 2026
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: C
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [C] ('presença de fatores de risco cardiovascular associada a sintomas atípicos impõe classificação como condição potencialmente tempo-dependente, com prioridade elevada para avaliação imediata') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'ausência de dor torácica típica e de instabilidade hemodinâmica permite classificação...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'estabilidade dos sinais vitais afasta, no primeiro momento, suspeita de condição temp...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'presença de fatores de risco cardiovascular associada a sintomas atípicos impõe class...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'definição da prioridade assistencial deve fundamentar-se principalmente nos parâ...'.
 
 ------------------------------------------------------------
@@ -85,17 +82,16 @@ Enfermagem Após o técnico de enfermagem realizar a aspiração traqueal, o pac
   [C] solicitar o médico para uma nova avaliação, já que a aspiração traqueal pode causar complicações e o paciente precisa de observação contínua
   [D] continuar a aspiração de secreções até que o paciente apresente melhora completa na respiração, sem a necessidade de monitoramento adicional
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: B
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [B] ('reavaliar a saturação de oxigênio, monitorar os sinais vitais e proporcionar conforto respiratório, evitando novas aspirações desnecessárias') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'administrar oxigênio imediatamente, monitorando a frequência cardíaca e respiratória,...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'reavaliar a saturação de oxigênio, monitorar os sinais vitais e proporcionar conforto...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'solicitar o médico para uma nova avaliação, já que a aspiração traqueal pode causar c...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'continuar a aspiração de secreções até que o paciente apresente melhora completa na r...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 6 [Código: EF0287] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 6 [Código: EF0286] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
 Assunto: Segurança do Paciente
 Enfermagem Com base nas diretrizes do Programa Nacional de Segurança do Paciente (PNSP), instituído pela Resolução RDC nº 36/2013 da ANVISA, a ação mais eficaz para minimizar os riscos de eventos adversos em ambientes hospitalares, considerando as práticas recomendadas para a segurança do paciente e os papéis dos profissionais de saúde, é:
 
@@ -104,17 +100,16 @@ Enfermagem Com base nas diretrizes do Programa Nacional de Segurança do Pacient
   [C] a monitorização constante da segurança do paciente deve ser realizada somente após a ocorrência de eventos adversos, para garantir que as ações corretivas sejam efetivas e que os erros não se repitam, sem necessidade de estratégias preventivas contínuas
   [D] a padronização de procedimentos e o uso de checklists de segurança, incluindo a verificação da identificação do paciente, a conferência de medicamentos e a correta realização de procedimentos, são fundamentais e devem ser sistematicamente aplicados por todos os membros da equipe, independentemente da gravidade do quadro do paciente
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('a padronização de procedimentos e o uso de checklists de segurança, incluindo a verificação da identificação do paciente, a conferência de medicamentos e a correta realização de procedimentos, são fundamentais e devem ser sistematicamente aplicados por todos os membros da equipe, independentemente da gravidade do quadro do paciente') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'a implementação de uma rotina de identificação verbal do paciente antes de procedimen...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a priorização de protocolos de comunicação e a utilização de sistemas de verific...'.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a monitorização constante da segurança do paciente deve ser realizada somente após a ...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'a padronização de procedimentos e o uso de checklists de segurança, incluindo a verif...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 7 [Código: EF0378] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 7 [Código: EF0375] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Segurança do Paciente
 Um plano de segurança do paciente em estabelecimentos de Saúde será mais preciso, se os Núcleos de Segurança do Paciente medirem a cultura de segurança existente neste serviço, sendo importante que se conheçam os fatores contribuintes, que podem ser de ordem:
 
@@ -124,10 +119,9 @@ Um plano de segurança do paciente em estabelecimentos de Saúde será mais prec
   [D] humana, sistêmica, externa, interna
   [E] sistêmica, externa, interna 379 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('humana, sistêmica, externa, relacionada ao paciente') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'humana, sistêmica, externa, relacionada ao paciente...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'individual, sistêmica, interna, relacionada ao paciente...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'individual, coletiva, interna, externa...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'humana, sistêmica, externa, interna...' não atende às diretrizes oficiais do Ministério da Saúde.
@@ -135,7 +129,7 @@ Um plano de segurança do paciente em estabelecimentos de Saúde será mais prec
 
 ------------------------------------------------------------
 
-QUESTÃO 8 [Código: EF0505] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 8 [Código: EF0498] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
 Assunto: Segurança do Paciente
 Um plano de segurança do paciente em estabelecimentos de Saúde será mais preciso, se os Núcleos de Segurança do Paciente medirem a cultura de segurança existente nesse serviço. Para a organização do plano, é importante que se conheçam os fatores contribuintes, que são circunstâncias, ações ou influências que desempenham um papel na origem ou no desenvolvimento de um incidente ou no aumento do risco de incidente. Estes fatores podem ser:
 
@@ -144,17 +138,16 @@ Um plano de segurança do paciente em estabelecimentos de Saúde será mais prec
   [C] humanos, sistêmicos, externos, relacionados ao paciente
   [D] individuais, sistêmicos, internos, relacionados ao paciente 506 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: C
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [C] ('humanos, sistêmicos, externos, relacionados ao paciente') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'individuais, coletivos, internos, externos...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'humanos, sistêmicos, externos, internos...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'humanos, sistêmicos, externos, relacionados ao paciente...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'individuais, sistêmicos, internos, relacionados ao paciente 506 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 9 [Código: EF0511] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 9 [Código: EF0504] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
 Assunto: Segurança do Paciente
 Em consultas, exames e procedimentos realizados em unidades de saúde públicas ou privadas, toda mulher tem o direito de fazer-se acompanhar por pessoa maior de idade, durante todo o período do atendimento, independentemente de notificação prévia. Tal direito foi garantido pelo seguinte instrumento legal:
 
@@ -163,17 +156,16 @@ Em consultas, exames e procedimentos realizados em unidades de saúde públicas 
   [C] Lei 12.466/2011
   [D] Lei 14.737/2023 512 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+✅ Gabarito: D
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [D]: 'Lei 14.737/2023 512 Ano: 2024'.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'Lei 8.142/1990...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'Lei 12.401/2011...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Lei 12.466/2011...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Lei 14.737/2023 512 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 10 [Código: EF0548] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 10 [Código: EF0540] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2023) - Enfermeiro
 Assunto: Segurança do Paciente
 MT - Enfermeiro 20H No contexto da Segurança do Paciente, o incidente que resulta em um dano ou em uma perda de função temporária, requer intervenção adicional (cirurgia de médio ou pequeno porte, tratamento clínico específico devido ao incidente), aumento de tempo de internação, entretanto sem a necessidade de intervenção para suporte ou manutenção da vida, é chamado de incidente com dano:
 
@@ -182,17 +174,16 @@ MT - Enfermeiro 20H No contexto da Segurança do Paciente, o incidente que resul
   [C] óbito
   [D] leve 549 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: B
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [B] ('moderado') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'catastrófico...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'leve 549 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 11 [Código: EF0638] - Prefeitura de Campo Verde - MT (SELECON 2023) - Técnico de Enfermagem
+QUESTÃO 11 [Código: EF0630] - Prefeitura de Campo Verde - MT (SELECON 2023) - Técnico de Enfermagem
 Assunto: Segurança do Paciente
 em Enfermagem Quando um paciente está com a cabeceira do leito elevada até o ângulo de 45 graus ou mais, ou ainda em posição semissentada, denomina-se essa posição de:
 
@@ -201,17 +192,16 @@ em Enfermagem Quando um paciente está com a cabeceira do leito elevada até o �
   [C] Fowler
   [D] Sims 639 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: C
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [C] ('Fowler') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'Trendelenburg...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'Semi-Fowler...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Sims 639 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 12 [Código: EF0655] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 12 [Código: EF0647] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Enfermeiro
 Assunto: Segurança do Paciente
 Segundo a legislação vigente, o Núcleo de Segurança do Paciente (NSP) é a instância do serviço de saúde criada para promover e apoiar a implementação de ações voltadas à segurança do paciente e a melhoria da qualidade nos serviços de saúde. Portanto, o NSP deve ser estruturado nos serviços de saúde:
 
@@ -220,17 +210,16 @@ Segundo a legislação vigente, o Núcleo de Segurança do Paciente (NSP) é a i
   [C] públicos, privados, filantrópicos, civis, excluindo os militares e aqueles que exercem ações de ensino e pesquisa
   [D] públicos, privados, civis ou militares, excluindo os filantrópicos e incluindo aqueles que exercem ações de ensino e pesquisa
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: B
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [B] ('públicos, privados, filantrópicos, civis ou militares, incluindo aqueles que exercem ações de ensino e pesquisa') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'públicos, privados, filantrópicos, civis ou militares, excluindo aqueles que exercem ...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'públicos, privados, filantrópicos, civis ou militares, incluindo aqueles que exercem ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'públicos, privados, filantrópicos, civis, excluindo os militares e aqueles que exerce...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'públicos, privados, civis ou militares, excluindo os filantrópicos e incluindo aquele...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 13 [Código: EF0666] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Técnico de Enfermagem
+QUESTÃO 13 [Código: EF0658] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Técnico de Enfermagem
 Assunto: Segurança do Paciente
 em Enfermagem Atualmente, existem inúmeras escalas de avaliação para identificar o risco de lesão por pressão nos pacientes hospitalizados. A escala de Braden avalia o risco do paciente a partir da verificação de seis domínios, sendo um desses domínios:
 
@@ -239,17 +228,16 @@ em Enfermagem Atualmente, existem inúmeras escalas de avaliação para identifi
   [C] a hidratação venosa
   [D] a percepção sensorial 667 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('a percepção sensorial 667 Ano: 2023') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a hidratação venosa...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'a percepção sensorial 667 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 14 [Código: EF0708] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Técnico de Enfermagem
+QUESTÃO 14 [Código: EF0700] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Técnico de Enfermagem
 Assunto: Segurança do Paciente
 Técnico em Enfermagem O protocolo de identificação consiste em garantir a correta identificação do paciente a fim de reduzir a ocorrência de incidentes. Esse processo deve assegurar que o cuidado seja prestado à pessoa para a qual se destina. Para assegurar que todos os pacientes sejam corretamente identificados, é necessário usar pelo menos:
 
@@ -258,17 +246,16 @@ Técnico em Enfermagem O protocolo de identificação consiste em garantir a cor
   [C] um identificador em uma pulseira vermelha padronizada pela instituição
   [D] quatro identificadores em uma pulseira branca padronizada pela instituição 709 Ano: 2022
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [A] ('dois identificadores em uma pulseira branca padronizada pela instituição') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'dois identificadores em uma pulseira branca padronizada pela instituição...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'três identificadores em uma pulseira amarela padronizada pela instituição...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'um identificador em uma pulseira vermelha padronizada pela instituição...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'quatro identificadores em uma pulseira branca padronizada pela instituição 709 Ano: 2...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 15 [Código: EF0769] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+QUESTÃO 15 [Código: EF0761] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
 Assunto: Segurança do Paciente
 ESF A atenção domiciliar (AD) é uma estratégia de atenção à saúde, oferecida no domicílio do paciente e caracterizada por um conjunto de ações de promoção à saúde, prevenção e tratamento de doenças e reabilitação, com garantia da continuidade do cuidado disponível no Sistema Único de Saúde (SUS). Sobre a atenção domiciliar, NÃO se pode afirmar que:
 
@@ -277,17 +264,16 @@ ESF A atenção domiciliar (AD) é uma estratégia de atenção à saúde, ofere
   [C] aumenta a superlotação de serviços de urgência e emergência
   [D] melhora a gestão dos leitos hospitalares e o uso dos recursos 770 Ano: 2020
 
-✅ Gabarito: 
-💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.
+✅ Gabarito: C
+💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [C] ('aumenta a superlotação de serviços de urgência e emergência') expressa fielmente o preceito legislativo.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'proporciona ao paciente um cuidado ligado diretamente aos aspectos referentes à estru...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'evita-se hospitalizações desnecessárias e diminui o risco de infecções...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'aumenta a superlotação de serviços de urgência e emergência...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'melhora a gestão dos leitos hospitalares e o uso dos recursos 770 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 16 [Código: EF0825] - Prefeitura de Campo Grande - MS (SELECON 2019) - Enfermeiro
+QUESTÃO 16 [Código: EF0817] - Prefeitura de Campo Grande - MS (SELECON 2019) - Enfermeiro
 Assunto: Segurança do Paciente
 O protocolo de cirurgia segura possui como finalidade implementar as medidas para reduzir a ocorrência de incidentes ou eventos adversos no paciente cirúrgico, contribuindo para melhoria da qualidade da assistência cirúrgica prestada pela equipe multi profissional. A lista de verificação existente no protocolo é dividida nas seguintes três fases:
 
@@ -296,17 +282,16 @@ O protocolo de cirurgia segura possui como finalidade implementar as medidas par
   [C] após a indução anestésica, antes da incisão cirúrgica e antes do paciente sair da sala de cirurgia
   [D] antes da indução anestésica, antes da incisão cirúrgica e após o paciente sair da sala de cirurgia 826 Ano: 2019
 
-✅ Gabarito: 
-💡 Fundamentação: Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.
+✅ Gabarito: A
+💡 Fundamentação: Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [A] ('antes da indução anestésica, antes da incisão cirúrgica e antes do paciente sair da sala de cirurgia') atende às exigências normativas de biossegurança perioperatória.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'antes da indução anestésica, antes da incisão cirúrgica e antes do paciente sair da s...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'antes da indução anestésica, após a incisão cirúrgica e antes do paciente sair da sal...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'após a indução anestésica, antes da incisão cirúrgica e antes do paciente sair da sal...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'antes da indução anestésica, antes da incisão cirúrgica e após o paciente sair da sal...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 17 [Código: EF0828] - Prefeitura de Campo Grande - MS (SELECON 2019) - Enfermeiro
+QUESTÃO 17 [Código: EF0820] - Prefeitura de Campo Grande - MS (SELECON 2019) - Enfermeiro
 Assunto: Segurança do Paciente
 A segurança do paciente consiste na redução ao mínimo aceitável do risco de dano desnecessário ao cuidado em saúde. Um incidente que atingiu o paciente e resultou em dano a ele é chamado de:
 
@@ -315,17 +300,16 @@ A segurança do paciente consiste na redução ao mínimo aceitável do risco de
   [C] incidente com dano
   [D] quase falha 829 Ano: 2019
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: C
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [C] ('incidente com dano') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'circunstância de risco...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'incidente sem dano...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'incidente com dano...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'quase falha 829 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 18 [Código: EF0830] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
+QUESTÃO 18 [Código: EF0822] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
 Assunto: Segurança do Paciente
 Considerando a relevância e magnitude que os Eventos Adversos (EA) têm em nosso país, no ano de 2013, através da portaria número 529, foi instituído o PNSP - Programa Nacional de Segurança do Paciente. Constituem-se objetivos específicos do PNSP:
 
@@ -334,17 +318,16 @@ Considerando a relevância e magnitude que os Eventos Adversos (EA) têm em noss
   [C] produzir, sistematizar e não difundir conhecimentos sobre segurança do paciente; promover e apoiar a implementação de iniciativas voltadas à segurança do paciente em diferentes áreas da atenção, organização e gestão de serviços de saúde por meio da implantação da gestão de risco e de Núcleos de Segurança do Paciente nos estabelecimentos de saúde; não envolver os pacientes e familiares nas ações de segurança do paciente e ampliar o acesso da sociedade às informações relativas à segurança do paciente
   [D] promover e apoiar a implementação de iniciativas voltadas à segurança do paciente em diferentes áreas da atenção, organização e gestão de serviços de saúde por meio da implantação da gestão de risco e de Núcleos de Segurança do Paciente nos estabelecimentos de saúde; envolver os pacientes e familiares nas ações de segurança do paciente e não fomentar a inclusão do tema segurança do paciente no ensino técnico e de graduação e pós-graduação na área da saúde 831 Ano: 2019
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: B
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [B] ('promover e apoiar a implementação de iniciativas voltadas à segurança do paciente em diferentes áreas da atenção, organização e gestão de serviços de saúde por meio da implantação da gestão de risco e de Núcleos de Segurança do Paciente nos estabelecimentos de saúde; envolver os pacientes e familiares nas ações de segurança do paciente e ampliar o acesso da sociedade às informações relativas à segurança do paciente') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'produzir, sistematizar e difundir conhecimentos sobre segurança do paciente; promover...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'promover e apoiar a implementação de iniciativas voltadas à segurança do paciente em ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'produzir, sistematizar e não difundir conhecimentos sobre segurança do paciente; prom...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'promover e apoiar a implementação de iniciativas voltadas à segurança do paciente em ...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 19 [Código: EF0858] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
+QUESTÃO 19 [Código: EF0850] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
 Assunto: Segurança do Paciente
 A segurança do paciente consiste na redução ao mínimo aceitável do risco de dano desnecessário ao cuidado em saúde. Pode-se afirmar que um incidente que atingiu o paciente, porém não resultou em um dano, é chamado de:
 
@@ -353,17 +336,16 @@ A segurança do paciente consiste na redução ao mínimo aceitável do risco de
   [C] incidente com dano
   [D] quase falha 859 Ano: 2019
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: B
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [B] ('incidente sem dano') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'circunstância de risco...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'incidente sem dano...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'incidente com dano...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'quase falha 859 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 20 [Código: EF0873] - Prefeitura de Boa Vista - RR (SELECON 2019) - Técnico de Enfermagem
+QUESTÃO 20 [Código: EF0865] - Prefeitura de Boa Vista - RR (SELECON 2019) - Técnico de Enfermagem
 Assunto: Segurança do Paciente
 Técnico - Grupo Especial - Técnico de Enfermagem Segundo a RDC nº 36, de 25 de julho de 2013, que instituiu as ações para a segurança do paciente nos serviços de saúde, os eventos adversos que evoluírem para óbito devem ser notificados, a partir do ocorrido, em um prazo máximo de:
 
@@ -372,17 +354,16 @@ Técnico - Grupo Especial - Técnico de Enfermagem Segundo a RDC nº 36, de 25 d
   [C] 96 horas
   [D] 72 horas 874 Ano: 2019
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('72 horas 874 Ano: 2019') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois '15º dia útil do mês subsequente...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois '24 horas subsequentes...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois '72 horas 874 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 21 [Código: EF0874] - Prefeitura de Boa Vista - RR (SELECON 2019) - Técnico de Enfermagem
+QUESTÃO 21 [Código: EF0866] - Prefeitura de Boa Vista - RR (SELECON 2019) - Técnico de Enfermagem
 Assunto: Segurança do Paciente
 Técnico - Grupo Especial - Técnico de Enfermagem Segundo a Classificação Internacional de Segurança do Paciente da OMS, o comprometimento da estrutura ou função do corpo e/ou qualquer efeito dele oriundo, incluindo-se doenças, lesão, sofrimento, morte, incapacidade ou disfunção, podendo, assim, ser físico, social ou psicológico é a definição de:
 
@@ -391,12 +372,11 @@ Técnico - Grupo Especial - Técnico de Enfermagem Segundo a Classificação Int
   [C] dano
   [D] risco 875 Ano: 2019
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: C
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [C] ('dano') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'circunstância de risco...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'risco 875 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------

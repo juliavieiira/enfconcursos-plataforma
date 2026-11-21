@@ -10,17 +10,16 @@ Técnico em Enfermagem Durante o banho no leito, uma prática essencial para min
   [C] lavar primeiro as áreas de maior carga microbiana, para reduzir o tempo total do procedimento
   [D] iniciar o banho pelas extremidades inferiores, independentemente do grau de sujidade
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: B
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [B] ('executar a higiene perineal somente após a limpeza das demais regiões corporais') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'realizar a limpeza sempre no sentido céfalo-caudal, começando pela face...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'executar a higiene perineal somente após a limpeza das demais regiões corporais...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'lavar primeiro as áreas de maior carga microbiana, para reduzir o tempo total do proc...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'iniciar o banho pelas extremidades inferiores, independentemente do grau de sujidade...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 2 [Código: EF0336] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 2 [Código: EF0335] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
 Assunto: Higiene nos Procedimentos de Enfermagem , Fundamentos e Procedimentos de Enfermagem
 A higiene é um elemento fundamental no autocuidado do paciente hospitalizado que, por muitas vezes, necessita da assistência da equipe de enfermagem. Em relação ao paciente acamado, é recomendado o banho de:
 
@@ -30,18 +29,17 @@ A higiene é um elemento fundamental no autocuidado do paciente hospitalizado qu
   [D] leito
   [E] chuveiro 337 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('leito') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa E: Incorreta perante os protocolos técnicos, pois 'chuveiro 337 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 3 [Código: EF0591] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 3 [Código: EF0583] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
 Assunto: Higiene nos Procedimentos de Enfermagem , Fundamentos e Procedimentos de Enfermagem
 MT - Enfermeiro Intervencionista - SAMU De acordo com protocolo PE36, que descreve a limpeza e a de 20 minutos desinfecção de equipamentos da ambulância, o laringoscópio e as lâminas para intubação devem seguir a seguinte rotina:
 
@@ -50,17 +48,16 @@ MT - Enfermeiro Intervencionista - SAMU De acordo com protocolo PE36, que descre
   [C] retirar as pilhas do cabo; retirar as lâmpadas das lâminas; friccionar com pano umedecido em água morna e sabão e retirar o excesso antes de secar, e friccionar com pano umedecido em óxido de etileno
   [D] retirar as pilhas do cabo; manter as lâmpadas das lâminas; friccionar com pano umedecido em água e sabão e retirar o excesso antes de secar, e friccionar com pano umedecido com clorexidina aquosa 0,12% 592 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: A
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('retirar as pilhas do cabo; retirar as lâmpadas das lâminas; friccionar com pano umedecido em água e sabão e retirar o excesso antes de secar, e friccionar com pano umedecido em álcool 70%') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'retirar as pilhas do cabo; retirar as lâmpadas das lâminas; friccionar com pano umede...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'manter as pilhas do cabo; manter as lâmpadas das lâminas; friccionar com pano umedeci...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'retirar as pilhas do cabo; retirar as lâmpadas das lâminas; friccionar com pano umede...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'retirar as pilhas do cabo; manter as lâmpadas das lâminas; friccionar com pano umedec...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 4 [Código: EF0673] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Técnico de Enfermagem
+QUESTÃO 4 [Código: EF0665] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Técnico de Enfermagem
 Assunto: Higiene nos Procedimentos de Enfermagem , Fundamentos e Procedimentos de Enfermagem
 em Enfermagem O banho no leito é um cuidado extremamente importante executado pelo técnico de enfermagem, cujos principais objetivos são proporcionar conforto, limpeza corporal e estimulação da circulação; além disso, é uma estratégia complementar de inspeção do paciente. Para realizar esse cuidado, é importante iniciar com a limpeza:
 
@@ -69,12 +66,11 @@ em Enfermagem O banho no leito é um cuidado extremamente importante executado p
   [C] do rosto (ensaboar o rosto, começando pelo lado mais distante, abrangendo toda a face, as orelhas, o pescoço e a nuca) e, na sequência, enxaguar e secar
   [D] dos braços (ensaboar os braços, começando pelo membro mais distante, abrangendo todo braço, antebraço, punho e dedos) e, na sequência, enxaguar e secar. 674 Ano: 2023 Enfermagem > Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Sinais vitais , Fundamentos e Procedimentos de Enfermagem Exame Físico Banca: SELECON Órgão: Prefeitura de Nova Mutum - MT Prova: SELECON - 2023 - Prefeitura de Nova Mutum - MT - Técnico
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: C
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [C] ('do rosto (ensaboar o rosto, começando pelo lado mais distante, abrangendo toda a face, as orelhas, o pescoço e a nuca) e, na sequência, enxaguar e secar') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'do tronco (ensaboar o tórax e as axilas, começando pelo lado mais distante, abrangend...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'das pernas (ensaboar as pernas, começando pelo lado mais distante, abrangendo a raiz ...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'do rosto (ensaboar o rosto, começando pelo lado mais distante, abrangendo toda a face...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'dos braços (ensaboar os braços, começando pelo membro mais distante, abrangendo todo ...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------

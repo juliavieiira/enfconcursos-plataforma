@@ -1,6 +1,7 @@
 [
   {
     "codigo_origem": "Q3981935",
+    "numero_original": 62,
     "banca": "SELECON",
     "orgao": "EMGEPRON",
     "ano": 2026,
@@ -27,10 +28,10 @@
         "texto": "período transoperatório, o técnico de enfermagem atua apenas na esterilização dos materiais, sem participação direta na assistência ao paciente ou no transporte dele"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0062",
     "numero_ordem": 62,
-    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.",
+    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [C] ('pós-operatório imediato, o técnico de enfermagem deve monitorar sinais vitais, nível de consciência, dor e possíveis complicações, comunicando alterações à equipe') atende às exigências normativas de biossegurança perioperatória.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -41,10 +42,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'período transoperatório, a responsabilidade do técnico de enfermagem limita-se ao tra...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'pós-operatório imediato, o técnico de enfermagem deve monitorar sinais vitais, nível ...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'período transoperatório, o técnico de enfermagem atua apenas na esterilização do...'."
       }
@@ -53,6 +50,7 @@
   },
   {
     "codigo_origem": "Q3810633",
+    "numero_original": 144,
     "banca": "SELECON",
     "orgao": "Prefeitura de Barra do Garças - MT",
     "ano": 2025,
@@ -79,18 +77,14 @@
         "texto": "estimular fibras sensoriais periféricas, reduzindo o estímulo nociceptivo 145 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0144",
     "numero_ordem": 144,
-    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.",
+    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [B] ('impedir o acúmulo de secreções, permitir a detecção precoce de sangramento e reduzir o risco de formação de coleções') atende às exigências normativas de biossegurança perioperatória.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'manter pressão negativa contínua de forma controlada e segura, garantindo a remoção p...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'impedir o acúmulo de secreções, permitir a detecção precoce de sangramento e reduzir ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -105,6 +99,7 @@
   },
   {
     "codigo_origem": "Q3617175",
+    "numero_original": 212,
     "banca": "SELECON",
     "orgao": "Prefeitura de Tapurah - MT",
     "ano": 2024,
@@ -131,10 +126,10 @@
         "texto": "a qualquer área que entre em contato com luvas estéreis"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0212",
     "numero_ordem": 212,
-    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.",
+    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [C] ('à borda externa de 2,5 cm (uma polegada) do campo') atende às exigências normativas de biossegurança perioperatória.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -145,10 +140,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'ao centro do campo, no qual os instrumentos principais são depositados...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'à borda externa de 2,5 cm (uma polegada) do campo...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'a qualquer área que entre em contato com luvas estéreis...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -157,6 +148,7 @@
   },
   {
     "codigo_origem": "Q3199751",
+    "numero_original": 284,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sinop - MT",
     "ano": 2025,
@@ -183,10 +175,10 @@
         "texto": "o processamento deve começar com a lavagem do material em água quente e detergente enzimático, seguida pela secagem adequada, esterilização e armazenamento em local adequado, respeitando as orientações de segurança e de controle de infecção"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0284",
-    "numero_ordem": 284,
-    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.",
+    "resposta_correta": "D",
+    "id": "EF0283",
+    "numero_ordem": 283,
+    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [D] ('o processamento deve começar com a lavagem do material em água quente e detergente enzimático, seguida pela secagem adequada, esterilização e armazenamento em local adequado, respeitando as orientações de segurança e de controle de infecção') atende às exigências normativas de biossegurança perioperatória.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -199,16 +191,13 @@
       {
         "letra": "C",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o processamento pode ser realizado apenas com a secagem manual e armazenamento d...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'o processamento deve começar com a lavagem do material em água quente e detergente en...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes bi..."
   },
   {
     "codigo_origem": "Q3197485",
+    "numero_original": 300,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sinop - MT",
     "ano": 2024,
@@ -235,18 +224,14 @@
         "texto": "a monitorização completa, que inclui todos os parâmetros vitais, deve ser feita apenas em pacientes com histórico de doenças cardíacas graves ou em cirurgias de emergência, não sendo necessária em casos de procedimentos programados, como o deste paciente"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0300",
-    "numero_ordem": 300,
-    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "resposta_correta": "B",
+    "id": "EF0299",
+    "numero_ordem": 299,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [B] ('além dos parâmetros hemodinâmicos (pressão arterial, frequência cardíaca), o enfermeiro deve monitorar de forma contínua a saturação de oxigênio, a temperatura corporal, os parâmetros respiratórios (volume corrente, frequência respiratória) e a diurese, levando em consideração os efeitos da anestesia, da comorbidade renal e das possíveis alterações metabólicas') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'a monitorização deve ser limitada a parâmetros hemodinâmicos básicos, como pressão ar...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'além dos parâmetros hemodinâmicos (pressão arterial, frequência cardíaca), o enfermei...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -261,6 +246,7 @@
   },
   {
     "codigo_origem": "Q2477206",
+    "numero_original": 422,
     "banca": "SELECON",
     "orgao": "Prefeitura de Água Boa - MT",
     "ano": 2024,
@@ -287,18 +273,14 @@
         "texto": "antes de sair da sala 423 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0422",
-    "numero_ordem": 422,
-    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.",
+    "resposta_correta": "B",
+    "id": "EF0415",
+    "numero_ordem": 415,
+    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [B] ('antes da incisão cirúrgica') atende às exigências normativas de biossegurança perioperatória.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'antes da indução anestésica...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'antes da incisão cirúrgica...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -313,6 +295,7 @@
   },
   {
     "codigo_origem": "Q2310577",
+    "numero_original": 620,
     "banca": "SELECON",
     "orgao": "Prefeitura de Primavera do Leste - MT",
     "ano": 2024,
@@ -339,10 +322,10 @@
         "texto": "de ácido polidioxanona"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0620",
-    "numero_ordem": 620,
-    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.",
+    "resposta_correta": "C",
+    "id": "EF0612",
+    "numero_ordem": 612,
+    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [C] ('categute simples') atende às exigências normativas de biossegurança perioperatória.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -353,10 +336,6 @@
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'categute simples...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'de ácido polidioxanona...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -365,6 +344,7 @@
   },
   {
     "codigo_origem": "Q2310575",
+    "numero_original": 622,
     "banca": "SELECON",
     "orgao": "Prefeitura de Primavera do Leste - MT",
     "ano": 2023,
@@ -391,15 +371,11 @@
         "texto": "24 horas antes da cirurgia e, de preferência, utilizando bisturi"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0622",
-    "numero_ordem": 622,
-    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.",
+    "resposta_correta": "A",
+    "id": "EF0614",
+    "numero_ordem": 614,
+    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [A] ('imediatamente antes da cirurgia e, de preferência, utilizando tricotomizadores elétricos') atende às exigências normativas de biossegurança perioperatória.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'imediatamente antes da cirurgia e, de preferência, utilizando tricotomizadores elétri...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois '48 horas antes da cirurgia e, de preferência, utilizando tricotomizadores elétricos...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -417,6 +393,7 @@
   },
   {
     "codigo_origem": "Q2297115",
+    "numero_original": 636,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Verde - MT",
     "ano": 2023,
@@ -443,15 +420,11 @@
         "texto": "pré-internação; intraoperatório e pós-cirúrgico 637 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0636",
-    "numero_ordem": 636,
-    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.",
+    "resposta_correta": "A",
+    "id": "EF0628",
+    "numero_ordem": 628,
+    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [A] ('pré-operatório; intraoperatório e pós-operatório') atende às exigências normativas de biossegurança perioperatória.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'pré-operatório; intraoperatório e pós-operatório...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'perioperatório; pré-anestésico e hemostasia...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -469,6 +442,7 @@
   },
   {
     "codigo_origem": "Q2160744",
+    "numero_original": 663,
     "banca": "SELECON",
     "orgao": "Prefeitura de Nova Mutum - MT",
     "ano": 2023,
@@ -495,10 +469,10 @@
         "texto": "toracotomia 664 Ano: 2023 Enfermagem > Urgência e emergência , Higiene nos Procedimentos de Enfermagem , Fundamentos e Procedimentos de Enfermagem Suporte Ventilatório , Enfermagem em UTI Banca: SELECON Órgão: Prefeitura de Nova Mutum - MT Prova: SELECON - 2023 - Prefeitura de Nova Mutum - MT - Técnico"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0663",
-    "numero_ordem": 663,
-    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.",
+    "resposta_correta": "D",
+    "id": "EF0655",
+    "numero_ordem": 655,
+    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [D] ('toracotomia 664 Ano: 2023 Enfermagem > Urgência e emergência , Higiene nos Procedimentos de Enfermagem , Fundamentos e Procedimentos de Enfermagem Suporte Ventilatório , Enfermagem em UTI Banca: SELECON Órgão: Prefeitura de Nova Mutum - MT Prova: SELECON - 2023 - Prefeitura de Nova Mutum - MT - Técnico') atende às exigências normativas de biossegurança perioperatória.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -511,16 +485,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'toracotomia 664 Ano: 2023 Enfermagem > Urgência e emergência , Higiene nos Procedimen...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes bi..."
   },
   {
     "codigo_origem": "Q2160729",
+    "numero_original": 678,
     "banca": "SELECON",
     "orgao": "Prefeitura de Nova Mutum - MT",
     "ano": 2023,
@@ -547,15 +518,11 @@
         "texto": "o trépano, o afastador Farabeuf e o afastador Finochietto"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0678",
-    "numero_ordem": 678,
-    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.",
+    "resposta_correta": "A",
+    "id": "EF0670",
+    "numero_ordem": 670,
+    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [A] ('as pinças de Kelly, Kocher e Rochester') atende às exigências normativas de biossegurança perioperatória.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'as pinças de Kelly, Kocher e Rochester...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'as pinças de mandril, o dilatador e o trépano...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -573,6 +540,7 @@
   },
   {
     "codigo_origem": "Q2160727",
+    "numero_original": 680,
     "banca": "SELECON",
     "orgao": "Prefeitura de Nova Mutum - MT",
     "ano": 2024,
@@ -599,10 +567,10 @@
         "texto": "ativo"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0680",
-    "numero_ordem": 680,
-    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "resposta_correta": "C",
+    "id": "EF0672",
+    "numero_ordem": 672,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [C] ('tardio') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -610,10 +578,6 @@
       },
       {
         "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "C",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
@@ -625,6 +589,7 @@
   },
   {
     "codigo_origem": "Q1956079",
+    "numero_original": 703,
     "banca": "SELECON",
     "orgao": "Prefeitura de Pontes e Lacerda - MT",
     "ano": 2024,
@@ -651,15 +616,11 @@
         "texto": "identificação da amostra cirúrgica"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0703",
-    "numero_ordem": 703,
-    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.",
+    "resposta_correta": "A",
+    "id": "EF0695",
+    "numero_ordem": 695,
+    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [A] ('visualização do sítio cirúrgico correto e sua demarcação') atende às exigências normativas de biossegurança perioperatória.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'visualização do sítio cirúrgico correto e sua demarcação...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'contagem de compressas e instrumentais...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -677,6 +638,7 @@
   },
   {
     "codigo_origem": "Q1956076",
+    "numero_original": 706,
     "banca": "SELECON",
     "orgao": "Prefeitura de Pontes e Lacerda - MT",
     "ano": 2022,
@@ -703,15 +665,11 @@
         "texto": "administração de fluidos aquecidos intravenosos 707 Ano: 2022"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0706",
-    "numero_ordem": 706,
-    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.",
+    "resposta_correta": "A",
+    "id": "EF0698",
+    "numero_ordem": 698,
+    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [A] ('deambulação precoce sempre que possível ou outras medidas de prevenção de trombose venosa profunda') atende às exigências normativas de biossegurança perioperatória.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'deambulação precoce sempre que possível ou outras medidas de prevenção de trombose ve...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'administração de oxigênio a 4 litros por minuto, monitorando saturação de oxigênio...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -729,6 +687,7 @@
   },
   {
     "codigo_origem": "Q1953172",
+    "numero_original": 715,
     "banca": "SELECON",
     "orgao": "Prefeitura de Pontes e Lacerda - MT",
     "ano": 2024,
@@ -755,18 +714,14 @@
         "texto": "das 24h anteriores à cirurgia"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0715",
-    "numero_ordem": 715,
-    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.",
+    "resposta_correta": "B",
+    "id": "EF0707",
+    "numero_ordem": 707,
+    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [B] ('do agendamento até 24h antes da cirurgia') atende às exigências normativas de biossegurança perioperatória.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'das 24 horas iniciais até os sete primeiros dias...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'do agendamento até 24h antes da cirurgia...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",

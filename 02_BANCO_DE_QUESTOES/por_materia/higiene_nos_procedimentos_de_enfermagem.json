@@ -1,6 +1,7 @@
 [
   {
     "codigo_origem": "Q3810637",
+    "numero_original": 140,
     "banca": "SELECON",
     "orgao": "Prefeitura de Barra do Garças - MT",
     "ano": 2024,
@@ -27,18 +28,14 @@
         "texto": "iniciar o banho pelas extremidades inferiores, independentemente do grau de sujidade"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0140",
     "numero_ordem": 140,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [B] ('executar a higiene perineal somente após a limpeza das demais regiões corporais') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'realizar a limpeza sempre no sentido céfalo-caudal, começando pela face...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'executar a higiene perineal somente após a limpeza das demais regiões corporais...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -49,10 +46,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'iniciar o banho pelas extremidades inferiores, independentemente do grau de sujidade...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [B] ('executar a higiene perineal somente após a limpeza das demais regiões corporais') responde corretamente à questão conf..."
   },
   {
     "codigo_origem": "Q2528692",
+    "numero_original": 336,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -83,10 +81,10 @@
         "texto": "chuveiro 337 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0336",
-    "numero_ordem": 336,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "D",
+    "id": "EF0335",
+    "numero_ordem": 335,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('leito') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -101,18 +99,15 @@
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
-        "letra": "D",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
         "letra": "E",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'chuveiro 337 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('leito') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q2325287",
+    "numero_original": 591,
     "banca": "SELECON",
     "orgao": "Prefeitura de Primavera do Leste - MT",
     "ano": 2023,
@@ -139,15 +134,11 @@
         "texto": "retirar as pilhas do cabo; manter as lâmpadas das lâminas; friccionar com pano umedecido em água e sabão e retirar o excesso antes de secar, e friccionar com pano umedecido com clorexidina aquosa 0,12% 592 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0591",
-    "numero_ordem": 591,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "A",
+    "id": "EF0583",
+    "numero_ordem": 583,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('retirar as pilhas do cabo; retirar as lâmpadas das lâminas; friccionar com pano umedecido em água e sabão e retirar o excesso antes de secar, e friccionar com pano umedecido em álcool 70%') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'retirar as pilhas do cabo; retirar as lâmpadas das lâminas; friccionar com pano umede...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'manter as pilhas do cabo; manter as lâmpadas das lâminas; friccionar com pano umedeci...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -161,10 +152,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'retirar as pilhas do cabo; manter as lâmpadas das lâminas; friccionar com pano umedec...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('retirar as pilhas do c..."
   },
   {
     "codigo_origem": "Q2160734",
+    "numero_original": 673,
     "banca": "SELECON",
     "orgao": "Prefeitura de Nova Mutum - MT",
     "ano": 2023,
@@ -191,10 +183,10 @@
         "texto": "dos braços (ensaboar os braços, começando pelo membro mais distante, abrangendo todo braço, antebraço, punho e dedos) e, na sequência, enxaguar e secar. 674 Ano: 2023 Enfermagem > Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Sinais vitais , Fundamentos e Procedimentos de Enfermagem Exame Físico Banca: SELECON Órgão: Prefeitura de Nova Mutum - MT Prova: SELECON - 2023 - Prefeitura de Nova Mutum - MT - Técnico"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0673",
-    "numero_ordem": 673,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "C",
+    "id": "EF0665",
+    "numero_ordem": 665,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [C] ('do rosto (ensaboar o rosto, começando pelo lado mais distante, abrangendo toda a face, as orelhas, o pescoço e a nuca) e, na sequência, enxaguar e secar') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -205,14 +197,10 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'das pernas (ensaboar as pernas, começando pelo lado mais distante, abrangendo a raiz ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'do rosto (ensaboar o rosto, começando pelo lado mais distante, abrangendo toda a face...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'dos braços (ensaboar os braços, começando pelo membro mais distante, abrangendo todo ...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [C] ('do rosto (ensaboar o rosto, começando pelo lado mais distante, abrangendo toda a face, as orelhas, o pescoço e a nuca)..."
   }
 ]

@@ -1,6 +1,7 @@
 [
   {
     "codigo_origem": "Q3810627",
+    "numero_original": 150,
     "banca": "SELECON",
     "orgao": "Prefeitura de Barra do Garças - MT",
     "ano": 2025,
@@ -27,15 +28,11 @@
         "texto": "priorizar a avaliação do curativo abdominal e da ferida operatória, pois alterações sistêmicas leves costumam estar relacionadas à dor ou ao jejum prolongado, devendo a equipe aprofundar a inspeção local antes de qualquer escalonamento 151 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "A",
     "id": "EF0150",
     "numero_ordem": 150,
-    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.",
+    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [A] ('notifi car imediatamente o enfermeiro responsável diante da alteração de consciência e da variação da saturação, garantindo intervenção precoce e acionamento de condutas avançadas, se necessário') é a indicação terapêutica correta para o quadro apresentado.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'notifi car imediatamente o enfermeiro responsável diante da alteração de consciência ...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'manter a monitorização padrão, repetindo os sinais vitais em até 1 hora, visto q...'."

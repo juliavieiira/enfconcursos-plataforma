@@ -46,12 +46,11 @@ Técnico em Enfermagem - SMS Em um atendimento a um paciente em cuidados paliati
   [C] pode ser indicado na presença de hipoxemia, não sendo recomendado de forma rotineira apenas pela existência de dispneia
   [D] deve ser mantido continuamente em pacientes com doença avançada, independentemente da saturação de oxigênio e da resposta clínica apresentada 51 Enfermagem > Legislação de Enfermagem , Lei do Exercício Profissional de Enfermagem , Fundamentos e Procedimentos de Enfermagem Banca: SELECON Órgão: Prefeitura de Barra do Garças - MT Prova: SELECON - 2026 - Prefeitura de Barra do Garças - MT -
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: C
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [C] ('pode ser indicado na presença de hipoxemia, não sendo recomendado de forma rotineira apenas pela existência de dispneia') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'deve ser iniciado sempre que o paciente relatar dispneia...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'constitui medida obrigatória diante de qualquer desconforto respiratório persistente...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'pode ser indicado na presença de hipoxemia, não sendo recomendado de forma rotin...'.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'deve ser mantido continuamente em pacientes com doença avançada, independentemente da...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
@@ -65,17 +64,16 @@ O suporte à família é um componente integral dos Cuidados Paliativos, pois a 
   [C] avaliar regularmente a saúde física e mental do cuidador, identificar fontes de apoio social e comunitário, e encorajar o autocuidado e o estabelecimento de limites
   [D] sugerir que o cuidador se isole socialmente para evitar o contágio de doenças e focar exclusivamente no paciente 165 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.
+✅ Gabarito: C
+💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [C] ('avaliar regularmente a saúde física e mental do cuidador, identificar fontes de apoio social e comunitário, e encorajar o autocuidado e o estabelecimento de limites') expressa fielmente o preceito legislativo.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'instruir o cuidador a se dedicar integralmente ao paciente, evitando qualquer ativida...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'oferecer ao cuidador uma lista de tarefas diárias detalhadas, para que ele possa segu...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'avaliar regularmente a saúde física e mental do cuidador, identificar fontes de apoio...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'sugerir que o cuidador se isole socialmente para evitar o contágio de doenças e ...'.
 
 ------------------------------------------------------------
 
-QUESTÃO 5 [Código: EF0324] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 5 [Código: EF0323] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Enfermeiro
 Assunto: Cuidados Paliativos na Enfermagem
 No que tange a assistência em enfermagem ao paciente em cuidados paliativos, a avaliação da dor é um quesito primordial e podem ser utilizados diversos instrumentos. Segundo a Escala comportamental de dor, em casos nos quais o paciente está inconsciente, sob sedação e em ventilação mecânica, avalia-se os seguintes itens:
 
@@ -84,17 +82,16 @@ No que tange a assistência em enfermagem ao paciente em cuidados paliativos, a 
   [C] membros superiores, aspecto da pele e frequência cardíaca
   [D] expressão facial, tensão cervical e emissão de sons 325 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('expressão facial, membros superiores e adaptação à ventilação mecânica') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'expressão facial, membros superiores e adaptação à ventilação mecânica...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'tônus muscular, adaptação à ventilação mecânica e aspecto da pele...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'membros superiores, aspecto da pele e frequência cardíaca...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'expressão facial, tensão cervical e emissão de sons 325 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 6 [Código: EF0520] - Prefeitura de Dourados - MS (SELECON 2024) - Enfermeiro
+QUESTÃO 6 [Código: EF0512] - Prefeitura de Dourados - MS (SELECON 2024) - Enfermeiro
 Assunto: Cuidados Paliativos na Enfermagem , Enfermagem em Oncologia
 A escala de performance status conhecida como Karnofsky foi desenvolvida para pacientes oncológicos com o objetivo de documentar o declínio clínico e de avaliar a capacidade dos pacientes em realizar determinadas atividades básicas. A maioria dos pacientes com uma escala Karnofsky inferior a 70% tem indicação precoce de assistência de cuidado:
 
@@ -103,17 +100,16 @@ A escala de performance status conhecida como Karnofsky foi desenvolvida para pa
   [C] paliativo
   [D] emergencial
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: C
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [C] ('paliativo') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'emergencial...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 7 [Código: EF0641] - Prefeitura de Campo Verde - MT (SELECON 2023) - Técnico de Enfermagem
+QUESTÃO 7 [Código: EF0633] - Prefeitura de Campo Verde - MT (SELECON 2023) - Técnico de Enfermagem
 Assunto: Cuidados Paliativos na Enfermagem
 em Enfermagem Os cuidados paliativos são executados por uma equipe multidisciplinar, sendo o técnico de enfermagem o profissional mais próximo do paciente e da família. Portanto, esse profissional deve desenvolver uma comunicação efetiva, por meio de uma escuta:
 
@@ -122,17 +118,16 @@ em Enfermagem Os cuidados paliativos são executados por uma equipe multidiscipl
   [C] proativa e estritamente técnica, diagnosticando os problemas de saúde e mantendo o sigilo profissional
   [D] proativa e respeitosa, limitando algumas informações técnicas devido ao quadro de saúde do paciente e reduzindo o sigilo profissional
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [A] ('ativa e qualificada, possibilitando a identificação das necessidades dos membros envolvidos, com redução de conflitos e do esgotamento das relações') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'ativa e qualificada, possibilitando a identificação das necessidades dos membros envo...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'ativa e não técnica, possibilitando a identificação das necessidades somente do pacie...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'proativa e estritamente técnica, diagnosticando os problemas de saúde e mantendo o si...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'proativa e respeitosa, limitando algumas informações técnicas devido ao quadro de saú...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 8 [Código: EF0642] - Prefeitura de Campo Verde - MT (SELECON 2023) - Técnico de Enfermagem
+QUESTÃO 8 [Código: EF0634] - Prefeitura de Campo Verde - MT (SELECON 2023) - Técnico de Enfermagem
 Assunto: Cuidados Paliativos na Enfermagem
 em Higiene Dental Promover qualidade de vida e bem-estar de pacientes em fase terminal visa a uma proposta de assistência integral que busca o alívio da dor e de sintomas, além de suporte psicossocial e espiritual. A temática de extrema importância engloba rede multidisciplinar de cuidados dispensados ao paciente e a seus familiares, quando a doença não responde mais ao tratamento curativo. O nome dado para esse pacote de medidas é:
 
@@ -141,17 +136,16 @@ em Higiene Dental Promover qualidade de vida e bem-estar de pacientes em fase te
   [C] promoção de saúde
   [D] tratamento e remissão da doença 643 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Prefeitura de Campo Verde - MT Prova: SELECON - 2023 - Prefeitura de Campo Verde - MT - Técnico
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.
+✅ Gabarito: B
+💡 Fundamentação: Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [B] ('cuidados paliativos') é a indicação terapêutica correta para o quadro apresentado.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'morte assistida...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'cuidados paliativos...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'promoção de saúde...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'tratamento e remissão da doença 643 Enfermagem > Legislação em Saúde , Sistema Único ...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 9 [Código: EF0714] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Técnico de Enfermagem
+QUESTÃO 9 [Código: EF0706] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Técnico de Enfermagem
 Assunto: Cuidados Paliativos na Enfermagem
 Técnico em Enfermagem Segundo a definição da Organização Mundial de Saúde (OMS), revisada em 2017, o cuidado paliativo é uma abordagem que consiste em melhorar a qualidade de vida:
 
@@ -160,13 +154,12 @@ Técnico em Enfermagem Segundo a definição da Organização Mundial de Saúde 
   [C] dos pacientes adultos que enfrentam problemas associados a doenças que ameaçam a vida, além de aliviar o sofrimento através da identificação precoce, avaliação correta e tratamento da dor e de outros problemas físicos e psicossociais, excluindo os espirituais
   [D] de pacientes (adultos e crianças) e suas famílias que enfrentam problemas associados a doenças que ameaçam a vida; além disso, previne e alivia o sofrimento através da identificação precoce, avaliação correta e tratamento da dor e de outros problemas físicos, psicossociais ou espirituais 715 Ano: 2022
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('de pacientes (adultos e crianças) e suas famílias que enfrentam problemas associados a doenças que ameaçam a vida; além disso, previne e alivia o sofrimento através da identificação precoce, avaliação correta e tratamento da dor e de outros problemas físicos, psicossociais ou espirituais 715 Ano: 2022') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'das crianças que enfrentam problemas associados a doenças que ameaçam a vida, além de...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'dos pacientes adultos e crianças que enfrentam problemas associados a doenças que ame...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'dos pacientes adultos que enfrentam problemas associados a doenças que ameaçam a vida...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'de pacientes (adultos e crianças) e suas famílias que enfrentam problemas associados ...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 

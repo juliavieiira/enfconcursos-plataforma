@@ -1,6 +1,7 @@
 [
   {
     "codigo_origem": "Q3974350",
+    "numero_original": 87,
     "banca": "SELECON",
     "orgao": "EMGEPRON",
     "ano": 2026,
@@ -27,10 +28,10 @@
         "texto": "amamentação deve ser rigidamente realizada a cada três horas, não podendo prolongar além disso devido ao risco de hipoglicemia"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0087",
     "numero_ordem": 87,
-    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [C] ('aleitamento materno exclusivo até os seis meses de vida dispensa a oferta de água, chás ou outros líquidos, salvo em situações clínicas específicas devidamente avaliadas') representa a conduta científica e clinicamente recomendada.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -41,10 +42,6 @@
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'aleitamento materno exclusivo deve ser mantido até os seis meses de vida, sendo ...'."
       },
       {
-        "letra": "C",
-        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'aleitamento materno exclusivo até os seis meses de vida dispensa a oferta de águ...'."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'amamentação deve ser rigidamente realizada a cada três horas, não podendo prolongar a...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -53,6 +50,7 @@
   },
   {
     "codigo_origem": "Q3974328",
+    "numero_original": 104,
     "banca": "SELECON",
     "orgao": "EMGEPRON",
     "ano": 2026,
@@ -79,10 +77,10 @@
         "texto": "lactentes alimentados com fórmulas infantis estão automaticamente dispensados da suplementação de vitamina D, independentemente do volume ingerido, da concentração presente na fórmula ou de avaliação individual pela equipe de saúde 105 Ano: 2026"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0104",
     "numero_ordem": 104,
-    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [C] ('a suplementação de vitamina D é recomendada desde o nascimento, na dose preconizada de 400 UI/dia para lactentes, independentemente do tipo de aleitamento, cabendo ao enfermeiro orientar a administração correta e reforçar a adesão') representa a conduta científica e clinicamente recomendada.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -93,10 +91,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'a suplementação de vitamina D deve ser iniciada a partir do sexto mês de vida, períod...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'a suplementação de vitamina D é recomendada desde o nascimento, na dose preconizada d...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'lactentes alimentados com fórmulas infantis estão automaticamente dispensados da supl...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -105,6 +99,7 @@
   },
   {
     "codigo_origem": "Q3884661",
+    "numero_original": 110,
     "banca": "SELECON",
     "orgao": "Prefeitura de Porto dos Gaúchos - MT",
     "ano": 2026,
@@ -131,18 +126,14 @@
         "texto": "aspirar vias aéreas superiores para evitar recusa na amamentação 111 Ano: 2026"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0110",
     "numero_ordem": 110,
-    "fundamentacao_correta": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.",
+    "fundamentacao_correta": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [B]: 'manter o recém-nascido aquecido e estimular o contato pele a pele na primeira hora'.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'realizar o primeiro banho logo após o nascimento para evitar infecções e manter o beb...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'manter o recém-nascido aquecido e estimular o contato pele a pele na primeira hora...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -157,6 +148,7 @@
   },
   {
     "codigo_origem": "Q3810629",
+    "numero_original": 148,
     "banca": "SELECON",
     "orgao": "Prefeitura de Barra do Garças - MT",
     "ano": 2025,
@@ -183,18 +175,14 @@
         "texto": "orientar suspensão temporária da alimentação habitual até cessarem completamente as evacuações líquidas, evitando oferecer qualquer alimento sólido nesse período, uma vez que o trato gastrointestinal precisa de repouso para recuperação 149 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0148",
     "numero_ordem": 148,
-    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [B] ('reforçar com o responsável que a criança deve receber maior oferta de líquidos, incluindo SRO em pequenas quantidades e intervalos frequentes') representa a conduta científica e clinicamente recomendada.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'oferecer solução de reidratação oral somente após cada episódio diarreico, evitando s...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'reforçar com o responsável que a criança deve receber maior oferta de líquidos, inclu...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -209,6 +197,7 @@
   },
   {
     "codigo_origem": "Q3615484",
+    "numero_original": 217,
     "banca": "SELECON",
     "orgao": "Prefeitura de Tapurah - MT",
     "ano": 2025,
@@ -235,10 +224,10 @@
         "texto": "reforçar para a mãe que a icterícia é normal e que o bebê provavelmente está apenas chorando por cólica"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0217",
     "numero_ordem": 217,
-    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [C] ('realizar registro dos achados e comunicar imediatamente à equipe de enfermagem para avaliação') representa a conduta científica e clinicamente recomendada.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -249,10 +238,6 @@
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'registrar os achados, reforçar o aleitamento e orientar retorno apenas no próxim...'."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'realizar registro dos achados e comunicar imediatamente à equipe de enfermagem para a...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'reforçar para a mãe que a icterícia é normal e que o bebê provavelmente está ape...'."
       }
@@ -261,6 +246,7 @@
   },
   {
     "codigo_origem": "Q3199746",
+    "numero_original": 289,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sinop - MT",
     "ano": 2025,
@@ -287,15 +273,11 @@
         "texto": "a PA de 115/75 mmHg está ligeiramente elevada para uma criança de 5 anos e a equipe de enfermagem deve iniciar uma investigação detalhada sobre possíveis fatores contribuintes, como dieta e atividade física, antes de realizar novas avaliações ou intervenções"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0289",
-    "numero_ordem": 289,
-    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "resposta_correta": "A",
+    "id": "EF0288",
+    "numero_ordem": 288,
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [A] ('a PA está dentro dos limites normais para a faixa etária da criança, portanto, o profissional deve documentar os resultados e continuar com a avaliação sem a necessidade de intervenções adicionais') representa a conduta científica e clinicamente recomendada.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'a PA está dentro dos limites normais para a faixa etária da criança, portanto, o prof...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'a PA está elevada para a faixa etária da criança, indicando hipertensão e o profissio...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -313,6 +295,7 @@
   },
   {
     "codigo_origem": "Q3199743",
+    "numero_original": 292,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sinop - MT",
     "ano": 2025,
@@ -339,15 +322,11 @@
         "texto": "é predominantemente influenciada pela dieta materna, sendo que a quantidade de componentes bioativos, como os anticorpos, se mantém constante, independentemente das condições de saúde da mãe ou do ambiente"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0292",
-    "numero_ordem": 292,
-    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "resposta_correta": "A",
+    "id": "EF0291",
+    "numero_ordem": 291,
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [A] ('é composto por uma mistura dinâmica de lipídios, proteínas, carboidratos, vitaminas e minerais, além de componentes bioativos, como anticorpos, fatores de crescimento e células imunológicas, os quais são essenciais para o desenvolvimento físico e imunológico do lactente') representa a conduta científica e clinicamente recomendada.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'é composto por uma mistura dinâmica de lipídios, proteínas, carboidratos, vitaminas e...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'possui uma concentração predominante de carboidratos, especialmente lactose, e é prat...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -365,6 +344,7 @@
   },
   {
     "codigo_origem": "Q3197480",
+    "numero_original": 305,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sinop - MT",
     "ano": 2025,
@@ -391,18 +371,14 @@
         "texto": "aleitamento artificial, porque o bebê recebe, além do leite materno, suplementos como vitaminas e água, o que caracteriza o uso de outros alimentos 306 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0305",
-    "numero_ordem": 305,
-    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "resposta_correta": "B",
+    "id": "EF0304",
+    "numero_ordem": 304,
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [B] ('aleitamento predominante, pois o bebê recebe leite materno, mas também recebe alimentos e líquidos complementares, como as vitaminas e a água') representa a conduta científica e clinicamente recomendada.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'aleitamento exclusivo, pois o bebê recebe apenas leite materno e não outros alim...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'aleitamento predominante, pois o bebê recebe leite materno, mas também recebe aliment...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -417,6 +393,7 @@
   },
   {
     "codigo_origem": "Q3197468",
+    "numero_original": 317,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sinop - MT",
     "ano": 2025,
@@ -443,10 +420,10 @@
         "texto": "administrar anti-inflamatórios não esteroides, iniciar tratamento com antitussígenos e prescrever exames laboratoriais para confirmar a infecção 318 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0317",
-    "numero_ordem": 317,
-    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "resposta_correta": "C",
+    "id": "EF0316",
+    "numero_ordem": 316,
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [C] ('isolar o paciente para prevenir a transmissão, iniciar antibióticos para erradicação da Bordetella pertussis, monitorar a frequência respiratória e sinais de apneia, e manter a criança em observação rigorosa') representa a conduta científica e clinicamente recomendada.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -457,10 +434,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'realizar antibioticoterapia intravenosa, administrar corticosteróides para controle d...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'isolar o paciente para prevenir a transmissão, iniciar antibióticos para erradicação ...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'administrar anti-inflamatórios não esteroides, iniciar tratamento com antitussígenos ...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -469,6 +442,7 @@
   },
   {
     "codigo_origem": "Q3184818",
+    "numero_original": 328,
     "banca": "SELECON",
     "orgao": "Prefeitura de Nova Mutum - MT",
     "ano": 2024,
@@ -495,15 +469,11 @@
         "texto": "teste da linguinha 329 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0328",
-    "numero_ordem": 328,
-    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "resposta_correta": "A",
+    "id": "EF0327",
+    "numero_ordem": 327,
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [A] ('teste do pezinho') representa a conduta científica e clinicamente recomendada.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'teste do pezinho...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'teste da orelhinha...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -521,6 +491,7 @@
   },
   {
     "codigo_origem": "Q2480407",
+    "numero_original": 370,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -551,18 +522,14 @@
         "texto": "Programa Saúde do Jovem e do Adolescente do Ministério da Saúde"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0370",
-    "numero_ordem": 370,
-    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "resposta_correta": "B",
+    "id": "EF0367",
+    "numero_ordem": 367,
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [B] ('Estatuto da Criança e do Adolescente') representa a conduta científica e clinicamente recomendada.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'Programa Saúde do Adolescente...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'Estatuto da Criança e do Adolescente...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -581,6 +548,7 @@
   },
   {
     "codigo_origem": "Q2480404",
+    "numero_original": 373,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -611,10 +579,10 @@
         "texto": "Política Materno Infantil 374 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0373",
-    "numero_ordem": 373,
-    "fundamentacao_correta": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.",
+    "resposta_correta": "C",
+    "id": "EF0370",
+    "numero_ordem": 370,
+    "fundamentacao_correta": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [C]: 'Estratégia QualiNEO'.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -623,10 +591,6 @@
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'Rede Materno Infantil...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'Estratégia QualiNEO...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
@@ -641,6 +605,7 @@
   },
   {
     "codigo_origem": "Q2480387",
+    "numero_original": 390,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -671,17 +636,13 @@
         "texto": "3 anos e meio 391 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0390",
-    "numero_ordem": 390,
-    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "resposta_correta": "B",
+    "id": "EF0386",
+    "numero_ordem": 386,
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [B] ('2 anos') representa a conduta científica e clinicamente recomendada.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "B",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
@@ -701,6 +662,7 @@
   },
   {
     "codigo_origem": "Q2480386",
+    "numero_original": 391,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -731,15 +693,11 @@
         "texto": "certidão hospitalar 392 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0391",
-    "numero_ordem": 391,
-    "fundamentacao_correta": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.",
+    "resposta_correta": "A",
+    "id": "EF0387",
+    "numero_ordem": 387,
+    "fundamentacao_correta": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [A]: 'declaração de nascidos vivos'.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'declaração de nascidos vivos...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'certidão de nascido vivo...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -761,6 +719,7 @@
   },
   {
     "codigo_origem": "Q2480385",
+    "numero_original": 392,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -791,10 +750,10 @@
         "texto": "0e2 393 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0392",
-    "numero_ordem": 392,
-    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "resposta_correta": "D",
+    "id": "EF0388",
+    "numero_ordem": 388,
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [D] ('0e3') representa a conduta científica e clinicamente recomendada.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -809,10 +768,6 @@
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
-        "letra": "D",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
         "letra": "E",
         "motivo": "Incorreta perante os protocolos técnicos, pois '0e2 393 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -821,6 +776,7 @@
   },
   {
     "codigo_origem": "Q2477219",
+    "numero_original": 409,
     "banca": "SELECON",
     "orgao": "Prefeitura de Água Boa - MT",
     "ano": 2024,
@@ -847,15 +803,11 @@
         "texto": "acidemia isovalérica 410 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0409",
-    "numero_ordem": 409,
-    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "resposta_correta": "A",
+    "id": "EF0402",
+    "numero_ordem": 402,
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [A] ('hipoglicemia') representa a conduta científica e clinicamente recomendada.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'hipoglicemia...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'hiperglicemia...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -873,6 +825,7 @@
   },
   {
     "codigo_origem": "Q2477210",
+    "numero_original": 418,
     "banca": "SELECON",
     "orgao": "Prefeitura de Água Boa - MT",
     "ano": 2024,
@@ -899,10 +852,10 @@
         "texto": "colostro 419 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0418",
-    "numero_ordem": 418,
-    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "resposta_correta": "D",
+    "id": "EF0411",
+    "numero_ordem": 411,
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [D] ('colostro 419 Ano: 2024') representa a conduta científica e clinicamente recomendada.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -915,16 +868,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'colostro 419 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A altern..."
   },
   {
     "codigo_origem": "Q2452997",
+    "numero_original": 502,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sapezal - MT",
     "ano": 2024,
@@ -951,15 +901,11 @@
         "texto": "do nascimento aos 12 anos de idade 503 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0502",
-    "numero_ordem": 502,
-    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "resposta_correta": "A",
+    "id": "EF0495",
+    "numero_ordem": 495,
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [A] ('da gestação aos 9 anos de idade') representa a conduta científica e clinicamente recomendada.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'da gestação aos 9 anos de idade...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'da gestação aos 12 anos de idade...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -977,6 +923,7 @@
   },
   {
     "codigo_origem": "Q2325294",
+    "numero_original": 584,
     "banca": "SELECON",
     "orgao": "Prefeitura de Primavera do Leste - MT",
     "ano": 2023,
@@ -1003,10 +950,10 @@
         "texto": "febre sem causa determinada, perda de peso e sudorese noturna"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0584",
-    "numero_ordem": 584,
-    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "resposta_correta": "D",
+    "id": "EF0576",
+    "numero_ordem": 576,
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [D] ('febre sem causa determinada, perda de peso e sudorese noturna') representa a conduta científica e clinicamente recomendada.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1019,16 +966,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'plaquetopenia, sorologias negativas, febre e perda de peso abrupta...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'febre sem causa determinada, perda de peso e sudorese noturna...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A altern..."
   },
   {
     "codigo_origem": "Q1956087",
+    "numero_original": 695,
     "banca": "SELECON",
     "orgao": "Prefeitura de Pontes e Lacerda - MT",
     "ano": 2024,
@@ -1055,10 +999,10 @@
         "texto": "papa de fruta, papa salgada, ovo e carne"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0695",
-    "numero_ordem": 695,
-    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "resposta_correta": "D",
+    "id": "EF0687",
+    "numero_ordem": 687,
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [D] ('papa de fruta, papa salgada, ovo e carne') representa a conduta científica e clinicamente recomendada.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1071,16 +1015,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'papa de fruta, papa salgada, peixes e ovo cru...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'papa de fruta, papa salgada, ovo e carne...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A altern..."
   },
   {
     "codigo_origem": "Q1313727",
+    "numero_original": 772,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2020,
@@ -1107,15 +1048,11 @@
         "texto": "congestão/diminuição da vascularização da mama, retenção de leite nos alvéolos e edema decorrente da congestão com obstrução da drenagem do sistema linfático 773 Ano: 2020"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0772",
-    "numero_ordem": 772,
-    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "resposta_correta": "A",
+    "id": "EF0764",
+    "numero_ordem": 764,
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [A] ('congestão/aumento da vascularização da mama, retenção de leite nos alvéolos e edema decorrente da congestão com obstrução da drenagem do sistema linfático') representa a conduta científica e clinicamente recomendada.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'congestão/aumento da vascularização da mama, retenção de leite nos alvéolos e edema d...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'congestão/aumento da vascularização da mama, extravazamento de leite nos alvéolos e e...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -1133,6 +1070,7 @@
   },
   {
     "codigo_origem": "Q1313725",
+    "numero_original": 774,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2020,
@@ -1159,10 +1097,10 @@
         "texto": "proceder à amamentação com técnica adequada e aplicação de produtos que retiram a gordura natural do mamilo como sabões, álcool ou qualquer produto secante 775 Ano: 2020"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0774",
-    "numero_ordem": 774,
-    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "resposta_correta": "C",
+    "id": "EF0766",
+    "numero_ordem": 766,
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [C] ('proceder à amamentação com técnica adequada (posicionamento e pega adequados) e ordenha manual da aréola antes da mamada se ela estiver ingurgitada') representa a conduta científica e clinicamente recomendada.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1173,10 +1111,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'suspender a amamentação e uso de protetores (intermediários) de mamilo, pois eles, po...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'proceder à amamentação com técnica adequada (posicionamento e pega adequados) e orden...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'proceder à amamentação com técnica adequada e aplicação de produtos que retiram a gor...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -1185,6 +1119,7 @@
   },
   {
     "codigo_origem": "Q1313723",
+    "numero_original": 776,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2020,
@@ -1211,18 +1146,14 @@
         "texto": "aumenta os custos com tratamentos nos sistemas de saúde 777 Ano: 2020"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0776",
-    "numero_ordem": 776,
-    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "resposta_correta": "B",
+    "id": "EF0768",
+    "numero_ordem": 768,
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [B] ('protege a criança contra diabetes tipo 2, diminuindo 37% o risco de apresentar a doença') representa a conduta científica e clinicamente recomendada.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'diminui o desempenho em testes de inteligência das crianças que receberam aleita...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'protege a criança contra diabetes tipo 2, diminuindo 37% o risco de apresentar a doen...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -1237,6 +1168,7 @@
   },
   {
     "codigo_origem": "Q2692341",
+    "numero_original": 869,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Grande - MS",
     "ano": 2019,
@@ -1263,18 +1195,14 @@
         "texto": "quando a criança recebe, além do leite materno, água ou bebidas à base de água (água adocicada, chás, infusões), sucos de frutas e fluidos rituais 870 Ano: 2019"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0869",
-    "numero_ordem": 869,
-    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "resposta_correta": "B",
+    "id": "EF0861",
+    "numero_ordem": 861,
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [B] ('quando a criança recebe, além do leite materno, qualquer alimento sólido ou semissólido com a finalidade de complementá-lo, e não de substituí-lo; nessa categoria a criança pode receber, além do leite materno, outro tipo de leite, mas este não é considerado alimento complementar') representa a conduta científica e clinicamente recomendada.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'quando a criança recebe somente leite, direto da mama ou ordenhado, ou leite humano d...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'quando a criança recebe, além do leite materno, qualquer alimento sólido ou semissóli...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",

@@ -1,6 +1,7 @@
 [
   {
     "codigo_origem": "Q1320497",
+    "numero_original": 745,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2020,
@@ -27,18 +28,14 @@
         "texto": "linfoma múltiplo"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0745",
-    "numero_ordem": 745,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "B",
+    "id": "EF0737",
+    "numero_ordem": 737,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [B] ('linfoma de Hodgkin') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'linfoma não Hodgkin...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'linfoma de Hodgkin...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -49,6 +46,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'linfoma múltiplo...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [B] ('linfoma de Hodgkin') responde corretamente à questão conforme as boas práticas assistenciais."
   }
 ]

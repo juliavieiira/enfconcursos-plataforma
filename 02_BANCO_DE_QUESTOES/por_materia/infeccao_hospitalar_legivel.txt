@@ -10,10 +10,9 @@ Durante a assistência a um paciente adulto em Unidade de Terapia Intensiva, sub
   [C] manter o paciente permanentemente em posição supina, sem alterações posturais, para facilitar a monitorização contínua
   [D] suspender a higiene oral diária com antisséptico, pois não apresenta impacto signifi cativo na prevenção de PAV
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: A
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('elevar a cabeceira do leito entre 30° e 45°, mantendo posição adequada para reduzir risco de aspiração e favorecer mecânica ventilatória') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'elevar a cabeceira do leito entre 30° e 45°, mantendo posição adequada para reduzir r...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'realizar aspiração traqueal apenas quando houver secreção visível, ignorando a r...'.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'manter o paciente permanentemente em posição supina, sem alterações posturais, para f...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'suspender a higiene oral diária com antisséptico, pois não apresenta impacto signifi ...' não atende às diretrizes oficiais do Ministério da Saúde.
@@ -29,10 +28,9 @@ A esterilização é um processo essencial no controle de infecções, visando �
   [C] requerer um longo tempo de exposição e não ser influenciado pela presença de matéria orgânica
   [D] ser um processo que não necessita de monitoramento biológico regular 160 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: A
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('atingir altas temperaturas e pressões, promovendo a desnaturação proteica e a coagulação celular') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'atingir altas temperaturas e pressões, promovendo a desnaturação proteica e a coagula...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'ser um método indicado para materiais termossensíveis e líquidos inflamáveis...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'requerer um longo tempo de exposição e não ser influenciado pela presença de matéria ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'ser um processo que não necessita de monitoramento biológico regular 160 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde.
@@ -48,13 +46,12 @@ A medida mais simples, econômica e efi caz para prevenir a disseminação de mi
   [C] restrição total de visitas aos pacientes internados
   [D] higienização correta das mãos dos profi ssionais de saúde 205 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: D
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('higienização correta das mãos dos profi ssionais de saúde 205 Ano: 2025') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'limpeza terminal diária de todas as unidades...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'vacinação obrigatória de todos os pacientes...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'restrição total de visitas aos pacientes internados...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'higienização correta das mãos dos profi ssionais de saúde 205 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
@@ -67,17 +64,16 @@ ANHH - Nível I - Grau A - Enfermeiro Em um hospital de alta complexidade, a pro
   [C] antissepsia das mãos da equipe cirúrgica, com técnica padronizada e solução alcoólica
   [D] utilização de vestimentas cirúrgicas reutilizáveis, previamente esterilizadas em autoclave 274 Enfermagem > Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Diagnósticos de Enfermagem - NIC-NOC/CIPE/NANDA , Prescrições de Cuidados de Enfermagem Banca: SELECON Órgão: HEMOMINAS Prova: SELECON - 2025 - HEMOMINAS - Analista de Hematologia e Hemoterapia -
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: C
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [C] ('antissepsia das mãos da equipe cirúrgica, com técnica padronizada e solução alcoólica') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'administração seletiva de antibióticos de amplo espectro no pré-operatório imediato...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'tricotomia capilar com lâmina de barbear em todas as áreas a serem incisadas...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'antissepsia das mãos da equipe cirúrgica, com técnica padronizada e solução alcoólica...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'utilização de vestimentas cirúrgicas reutilizáveis, previamente esterilizadas em auto...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 5 [Código: EF0435] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 5 [Código: EF0428] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Infecção Hospitalar
 Com o intuito de controlar infecções, a forma de higienização das mãos indicada antes e após a ida ao banheiro é a/com:
 
@@ -87,18 +83,17 @@ Com o intuito de controlar infecções, a forma de higienização das mãos indi
   [D] gel antisséptico
   [E] cloro 436 Ano: 2024 Enfermagem > Estrutura Organizacional dos Serviços de Enfermagem e Gerenciamento do Trabalho , Administração em Enfermagem Banca: SELECON Órgão: SAD-MS Prova: SELECON - 2024 - SAD-MS - Auxiliar de Serviços Hospitalares
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: B
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('lavagem com água e sabão') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'lavagem com clorexidina degermante...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'lavagem com água e sabão...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'solução alcóolica...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'gel antisséptico...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa E: Incorreta perante os protocolos técnicos, pois 'cloro 436 Ano: 2024 Enfermagem > Estrutura Organizacional dos Serviços de Enfermagem ...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 6 [Código: EF0444] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 6 [Código: EF0437] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Infecção Hospitalar
 Uma medida de higiene dos pisos utilizada para reduzir o risco de infecções em ambiente hospitalar é:
 
@@ -108,18 +103,17 @@ Uma medida de higiene dos pisos utilizada para reduzir o risco de infecções em
   [D] somente higienizar com solução clorada
   [E] somente higienizar com enceradeiras de baixa rotação 445 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: B
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('utilizar varredura úmida') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'utilizar aspirador...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'utilizar varredura úmida...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'utilizar varredura seca...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'somente higienizar com solução clorada...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa E: Incorreta perante os protocolos técnicos, pois 'somente higienizar com enceradeiras de baixa rotação 445 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 7 [Código: EF0646] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 7 [Código: EF0638] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Enfermeiro
 Assunto: Infecção Hospitalar , Segurança do Paciente
 As infecções da corrente sanguínea relacionadas a cateteres centrais estão associadas a importantes desfechos desfavoráveis em saúde. Atualmente, existem diversos critérios para definição de uma infecção primária de corrente sanguínea associada a cateter central laboratorialmente confirmada (IPCSL). Portanto, o critério para definição de IPCSL causada por agente patogênico é quando:
 
@@ -128,17 +122,16 @@ As infecções da corrente sanguínea relacionadas a cateteres centrais estão a
   [C] Paciente > 28 dias em uso de cateter central por um período maior que dois dias de calendário (sendo o D1 o dia de instalação do dispositivo) e que na data da infecção o paciente estava em uso do dispositivo ou este foi removido no mesmo dia, com agente patogênico identificado em uma ou mais hemoculturas e o microrganismo identificado não está relacionado a outro foco infeccioso.
   [D] Paciente > 28 dias em uso de cateter periférico por um período maior que quatro dias de calendário (sendo o D1 o dia de instalação do dispositivo) e que na data da infecção o paciente estava em uso do dispositivo ou este foi removido no dia anterior, com agente patogênico identificado em uma ou mais hemoculturas e o microrganismo identificado está relacionado a outro foco infeccioso.
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: A
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('Paciente > 28 dias em uso de cateter central por um período maior que dois dias de calendário (sendo o D1 o dia de instalação do dispositivo) e que na data da infecção o paciente estava em uso do dispositivo ou este foi removido no dia anterior, com agente patogênico identificado em uma ou mais hemoculturas e o microrganismo identificado não está relacionado a outro foco infeccioso.') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'Paciente > 28 dias em uso de cateter central por um período maior que dois dias de ca...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'Paciente > 28 dias em uso de cateter central por um período maior que três dias de ca...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Paciente > 28 dias em uso de cateter central por um período maior que dois dias de ca...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Paciente > 28 dias em uso de cateter periférico por um período maior que quatro dias ...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 8 [Código: EF0676] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 8 [Código: EF0668] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Infecção Hospitalar , Cuidados de Enfermagem
 em Enfermagem A ITU (infecção do trato urinário) é uma das causas prevalentes de IRAS (infecção relacionada à assistência à saúde) de grande potencial preventivo, visto que a maioria está relacionada à cateterização vesical. Por isso, o técnico de enfermagem deverá executar os seguintes cuidados para prevenção dessa infecção:
 
@@ -147,17 +140,16 @@ em Enfermagem A ITU (infecção do trato urinário) é uma das causas prevalente
   [C] esvaziar a bolsa coletora a cada 12 horas e manter sempre a bolsa coletora acima do nível da bexiga
   [D] esvaziar a bolsa coletora regularmente e manter sempre a bolsa coletora acima do nível da bexiga
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: B
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('esvaziar a bolsa coletora regularmente, utilizando recipiente coletor individual e evitar contato do tubo de drenagem com o recipiente coletor') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'esvaziar a bolsa coletora a cada 24 horas, utilizando recipiente coletor coletivo e e...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'esvaziar a bolsa coletora regularmente, utilizando recipiente coletor individual e ev...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'esvaziar a bolsa coletora a cada 12 horas e manter sempre a bolsa coletora acima do n...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'esvaziar a bolsa coletora regularmente e manter sempre a bolsa coletora acima do níve...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 9 [Código: EF0707] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Técnico de Enfermagem
+QUESTÃO 9 [Código: EF0699] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Técnico de Enfermagem
 Assunto: Infecção Hospitalar
 Técnico em Enfermagem A infecção do trato urinário (ITU) é uma das causas prevalentes de infecções relacionadas à assistência em saúde, no entanto, é de grande potencial preventivo, visto que a maioria está relacionada ao cateterismo vesical de demora. É uma estratégia para prevenção dessa infecção:
 
@@ -166,17 +158,16 @@ Técnico em Enfermagem A infecção do trato urinário (ITU) é uma das causas p
   [C] evitar a ficção, pois pode gerar traumas na uretra e crescimento bacteriano
   [D] evitar manter o cateter vesical de demora por tempo desnecessário 708 Ano: 2022
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: D
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('evitar manter o cateter vesical de demora por tempo desnecessário 708 Ano: 2022') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'realizar rotineiramente a irrigação do cateter com antimicrobianos e antissépticos tó...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'não sinalizar o enfermeiro quando ocorrer desconexão, quebra da técnica asséptica ou ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'evitar a ficção, pois pode gerar traumas na uretra e crescimento bacteriano...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'evitar manter o cateter vesical de demora por tempo desnecessário 708 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 10 [Código: EF0713] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Técnico de Enfermagem
+QUESTÃO 10 [Código: EF0705] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Técnico de Enfermagem
 Assunto: Infecção Hospitalar
 Técnico em Enfermagem As infecções relacionadas à assistência à saúde (IRAS), antigamente denominadas infecções hospitalares, consistem em eventos adversos com alta taxa nos serviços de saúde. Aquela infecção que se transmite de paciente a paciente, geralmente pelas mãos da equipe de saúde, recebe o nome infecção do tipo:
 
@@ -185,10 +176,9 @@ Técnico em Enfermagem As infecções relacionadas à assistência à saúde (IR
   [C] multifatorial
   [D] multirresistente 714 Ano: 2022
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: A
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('cruzada') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'multifatorial...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'multirresistente 714 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde.

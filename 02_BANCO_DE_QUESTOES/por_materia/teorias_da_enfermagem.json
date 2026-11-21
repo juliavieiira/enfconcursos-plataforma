@@ -1,6 +1,7 @@
 [
   {
     "codigo_origem": "Q1953155",
+    "numero_original": 732,
     "banca": "SELECON",
     "orgao": "Prefeitura de Pontes e Lacerda - MT",
     "ano": 2022,
@@ -27,18 +28,14 @@
         "texto": "Dorothea Orem; Teoria do Autocuidado 733 Ano: 2022"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0732",
-    "numero_ordem": 732,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "B",
+    "id": "EF0724",
+    "numero_ordem": 724,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [B] ('Marta Rogers; Ciência Humanística da Enfermagem') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'Imogene King; Teoria do Alcance de Objetivos...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'Marta Rogers; Ciência Humanística da Enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -49,10 +46,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'Dorothea Orem; Teoria do Autocuidado 733 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [B] ('Marta Rogers; Ciência Humanística da Enfermagem') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q1313687",
+    "numero_original": 811,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2020,
@@ -79,10 +77,10 @@
         "texto": "Marta Rogers 812 Ano: 2020"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0811",
-    "numero_ordem": 811,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "D",
+    "id": "EF0803",
+    "numero_ordem": 803,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('Marta Rogers 812 Ano: 2020') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -95,16 +93,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'Betty Neuman...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'Marta Rogers 812 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('Marta Rogers 812 Ano: 2020') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q2710365",
+    "numero_original": 835,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Grande - MS",
     "ano": 2019,
@@ -131,18 +126,14 @@
         "texto": "Jean Watson 836 Ano: 2019"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0835",
-    "numero_ordem": 835,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "resposta_correta": "B",
+    "id": "EF0827",
+    "numero_ordem": 827,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [B] ('Callista Roy') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'Florence Nightingale...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'Callista Roy...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -153,10 +144,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'Jean Watson 836 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [B] ('Callista Roy') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q2698325",
+    "numero_original": 852,
     "banca": "SELECON",
     "orgao": "Prefeitura Municipal",
     "ano": 2019,
@@ -165,12 +157,42 @@
     "materia": "Enfermagem",
     "assunto": "Teorias da Enfermagem",
     "enunciado": "",
-    "alternativas": [],
-    "resposta_correta": "",
-    "id": "EF0852",
-    "numero_ordem": 852,
-    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
-    "analise_distratores": [],
-    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "reconhecer os 21 problemas de enfermagem na pessoa, família e sociedade"
+      },
+      {
+        "id": "B",
+        "texto": "desenvolver as relações interpessoais entre o enfermeiro e o paciente"
+      },
+      {
+        "id": "C",
+        "texto": "promover o bem-estar total, diminuindo o estresse"
+      },
+      {
+        "id": "D",
+        "texto": "alcançar o autocuidado e a enfermagem humanística 853 Ano: 2019"
+      }
+    ],
+    "resposta_correta": "B",
+    "id": "EF0844",
+    "numero_ordem": 844,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [B] ('desenvolver as relações interpessoais entre o enfermeiro e o paciente') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'reconhecer os 21 problemas de enfermagem na pessoa, família e sociedade...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'promover o bem-estar total, diminuindo o estresse...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'alcançar o autocuidado e a enfermagem humanística 853 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [B] ('desenvolver as relações interpessoais entre o enfermeiro e o paciente') responde corretamente à questão conforme as boas práticas..."
   }
 ]

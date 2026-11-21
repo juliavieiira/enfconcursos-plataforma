@@ -19,7 +19,7 @@ MT - Técnico de Enfermagem - Secretaria de Saúde O protocolo clínico do Minis
 
 ------------------------------------------------------------
 
-QUESTÃO 2 [Código: EF0554] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Técnico de Enfermagem
+QUESTÃO 2 [Código: EF0546] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Técnico de Enfermagem
 Assunto: AVE / AVC , Doenças Crônicas Não Transmissíveis
 Pública - MT - Técnico em Enfermagem OAcidenteVascularCerebral(AVC)éumadasmaiorescausas de morte e incapacidade adquirida em todo o mundo. É muito importante que o técnico de enfermagem saiba o monitoramento dos parâmetros fisiológicos no AVC isquêmico, sobretudo a pressão arterial, nos pacientes candidatos à trombólise ou póstrombólise. Nesse caso, a pressão arterial desses pacientes deve ser controlada com anti-hipertensivo endovenoso e mantida em:
 
@@ -28,17 +28,16 @@ Pública - MT - Técnico em Enfermagem OAcidenteVascularCerebral(AVC)éumadasmai
   [C] < 180/105 mmHg e tentar manter pressão arterial sistólica preferencialmente > 160 mmHg
   [D] < 150/110 mmHg e tentar manter pressão arterial sistólica preferencialmente < 140 mmHg 555 Ano: 2023 Enfermagem > Urgência e emergência , Processo de Enfermagem e Sistematização da Assistência de Enfermagem , APH-Atendimento Pré-Hospitalar Banca: SELECON Órgão: Empresa Cuiabana de Saúde Pública - MT Prova: SELECON - 2023 - Empresa Cuiabana de Saúde
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: C
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [C] ('< 180/105 mmHg e tentar manter pressão arterial sistólica preferencialmente > 160 mmHg') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois '> 160/100 mmHg e tentar manter pressão arterial diastólica preferencialmente > 160 mm...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois '> 180/105 mmHg e tentar manter pressão arterial sistólica preferencialmente > 140 mmH...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois '< 180/105 mmHg e tentar manter pressão arterial sistólica preferencialmente > 160 mmH...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois '< 150/110 mmHg e tentar manter pressão arterial sistólica preferencialmente < 140 mmH...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 3 [Código: EF0631] - Prefeitura de Campo Verde - MT (SELECON 2023) - Técnico de Enfermagem
+QUESTÃO 3 [Código: EF0623] - Prefeitura de Campo Verde - MT (SELECON 2023) - Técnico de Enfermagem
 Assunto: AVE / AVC , Doenças Crônicas Não Transmissíveis
 em Enfermagem OAVC (acidente vascular cerebral) é caracterizado por início súbito de sinais e sintomas neurológicos persistentes, como:
 
@@ -47,11 +46,10 @@ em Enfermagem OAVC (acidente vascular cerebral) é caracterizado por início sú
   [C] alteração do nível de consciência, síncope e diarreia
   [D] insuficiência respiratória, aumento da pressão arterial e hiperglicemia 632 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: B
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [B] ('plegia ou paresia facial súbita, cefaleia e disfasia') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'sialorreia, febre e taquicardia...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'plegia ou paresia facial súbita, cefaleia e disfasia...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'alteração do nível de consciência, síncope e diarreia...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'insuficiência respiratória, aumento da pressão arterial e hiperglicemia 632 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 

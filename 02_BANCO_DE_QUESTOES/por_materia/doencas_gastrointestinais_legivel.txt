@@ -1,7 +1,7 @@
 === CADERNO DE QUESTÕES: DOENÇAS GASTROINTESTINAIS ===
 Total: 2 questões
 
-QUESTÃO 1 [Código: EF0538] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 1 [Código: EF0530] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2023) - Enfermeiro
 Assunto: Doenças Gastrointestinais
 MT - Enfermeiro 20H As Doenças Inflamatórias Intestinais (DII) podem afetar apenas o intestino ou todo o trato gastrointestinal. As principais são a doença de Crohn e a Retocolite ulcerativa, inflamações muito parecidas, mas que apresentam as suas diferenças. São características da Retocolite ulcerativa:
 
@@ -10,17 +10,16 @@ MT - Enfermeiro 20H As Doenças Inflamatórias Intestinais (DII) podem afetar ap
   [C] afetação de qualquer parte do trato gastrintestinal, diarreia contínua com dor abdominal e lesão profunda
   [D] ocorrência no intestino grosso e reto, diarreia frequente de pouco volume com sangue e inflamação do cólon superficial 539 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('ocorrência no intestino grosso e reto, diarreia frequente de pouco volume com sangue e inflamação do cólon superficial 539 Ano: 2023') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'afetação de qualquer parte do trato gastrintestinal, constipação com dor abdominal e ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'ocorrência de lesão transmural do intestino transverso, sem dor e com a presença de p...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'afetação de qualquer parte do trato gastrintestinal, diarreia contínua com dor abdomi...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'ocorrência no intestino grosso e reto, diarreia frequente de pouco volume com sangue ...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 2 [Código: EF0602] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 2 [Código: EF0594] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
 Assunto: Doenças Gastrointestinais
 MT - Enfermeiro Intervencionista - SAMU No atendimento de casos de hemorragia digestiva baixa (HDB), os critérios de inclusão são:
 
@@ -29,10 +28,9 @@ MT - Enfermeiro Intervencionista - SAMU No atendimento de casos de hemorragia di
   [C] o profissional presenciar, na cena do atendimento, a enterorragia; episódios de enterorragia relatados apenas pelo próprio paciente
   [D] o profissional ser comunicado ao telefone sobre a melena; os familiares e/ou o próprio paciente relatarem episódios de enterorragia 603 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('o profissional presenciar, na cena do atendimento, a enterorragia; os familiares e/ou o próprio paciente relatarem episódios de enterorragia') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'o profissional presenciar, na cena do atendimento, a enterorragia; os familiares e/ou...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'o profissional presenciar, no ambiente hospitalar, as varizes esofagianas; os familia...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o profissional presenciar, na cena do atendimento, a enterorragia; episódios de ...'.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'o profissional ser comunicado ao telefone sobre a melena; os familiares e/ou o própri...' não atende às diretrizes oficiais do Ministério da Saúde.

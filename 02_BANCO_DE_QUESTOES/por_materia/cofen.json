@@ -1,6 +1,7 @@
 [
   {
     "codigo_origem": "Q1320493",
+    "numero_original": 749,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2020,
@@ -27,10 +28,10 @@
         "texto": "aceitar cargo, função ou emprego vago em decorrência de fatos que envolvam recusa ou demissão motivada pela necessidade do profissional em cumprir o presente código e a legislação do exercício profissional, bem como pleitear cargo, função ou emprego ocupado por colega, utilizando-se de concorrência desleal"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0749",
-    "numero_ordem": 749,
-    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "resposta_correta": "D",
+    "id": "EF0741",
+    "numero_ordem": 741,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [D] ('aceitar cargo, função ou emprego vago em decorrência de fatos que envolvam recusa ou demissão motivada pela necessidade do profissional em cumprir o presente código e a legislação do exercício profissional, bem como pleitear cargo, função ou emprego ocupado por colega, utilizando-se de concorrência desleal') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -43,10 +44,6 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'exercer a Enfermagem com liberdade, segurança técnica, científica e ambiental, autono...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'aceitar cargo, função ou emprego vago em decorrência de fatos que envolvam recusa ou ...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."

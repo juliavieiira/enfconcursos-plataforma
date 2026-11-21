@@ -1,6 +1,7 @@
 [
   {
     "codigo_origem": "Q4445455",
+    "numero_original": 1,
     "banca": "SELECON",
     "orgao": "Prefeitura de Nova Mutum - MT",
     "ano": 2026,
@@ -49,6 +50,7 @@
   },
   {
     "codigo_origem": "Q3981927",
+    "numero_original": 70,
     "banca": "SELECON",
     "orgao": "EMGEPRON",
     "ano": 2026,
@@ -75,10 +77,10 @@
         "texto": "mortalidade específica, por relacionar o número de óbitos à população total exposta ao risco da doença"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0070",
     "numero_ordem": 70,
-    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [C] ('prevalência, por expressar o total de casos existentes em uma população em determinado período') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -89,10 +91,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'letalidade, por representar a proporção de óbitos entre os casos existentes da doença...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'prevalência, por expressar o total de casos existentes em uma população em determinad...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'mortalidade específica, por relacionar o número de óbitos à população total exposta a...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -101,6 +99,7 @@
   },
   {
     "codigo_origem": "Q3981924",
+    "numero_original": 73,
     "banca": "SELECON",
     "orgao": "EMGEPRON",
     "ano": 2026,
@@ -127,10 +126,10 @@
         "texto": "vacinação com BCG impede totalmente a infecção pelo Mycobacterium tuberculosis em todas as faixas etárias, sendo considerada suficiente como medida isolada de prevenção 74 Enfermagem > Saúde da Criança e do Adolescente , Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Exame Físico Banca: SELECON Órgão: EMGEPRON Prova: SELECON - 2026 - EMGEPRON - Técnico em Enfermagem"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0073",
     "numero_ordem": 73,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [C] ('interrupção da transmissão da tuberculose envolve a identificação precoce de casos, o tratamento adequado e medidas respiratórias, como ventilação dos ambientes') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -141,18 +140,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'transmissão da tuberculose ocorre principalmente por contato direto com objetos conta...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'interrupção da transmissão da tuberculose envolve a identificação precoce de casos, o...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'vacinação com BCG impede totalmente a infecção pelo Mycobacterium tuberculosis e...'."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [C] ('interrupção da transmi..."
   },
   {
     "codigo_origem": "Q3974338",
+    "numero_original": 96,
     "banca": "SELECON",
     "orgao": "EMGEPRON",
     "ano": 2026,
@@ -179,15 +175,11 @@
         "texto": "incidência expressa o número de casos novos de uma doença em população sob risco, em determinado período, permitindo estimar a velocidade de ocorrência do agravo e sendo especialmente útil para monitoramento de surtos, doenças transmissíveis e agravos emergentes em um território"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "A",
     "id": "EF0096",
     "numero_ordem": 96,
-    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [A] ('análise epidemiológica regional deve restringir-se aos dados municipais isolados, uma vez que indicadores agregados por região de saúde comprometem a definição de prioridades locais') aplica com precisão a fórmula e os critérios epidemiológicos.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'análise epidemiológica regional deve restringir-se aos dados municipais isolados...'."
-      },
       {
         "letra": "B",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'prevalência corresponde exclusivamente aos casos novos registrados em certo perí...'."
@@ -201,10 +193,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'incidência expressa o número de casos novos de uma doença em população sob risco, em ...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [A] ('análise epidemiológica r..."
   },
   {
     "codigo_origem": "Q3884081",
+    "numero_original": 121,
     "banca": "SELECON",
     "orgao": "Prefeitura de Porto dos Gaúchos - MT",
     "ano": 2026,
@@ -231,10 +224,10 @@
         "texto": "ecológico 122 Ano: 2026"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0121",
     "numero_ordem": 121,
-    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [C] ('caso-controle') aplica com precisão a fórmula e os critérios epidemiológicos.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -245,18 +238,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'transversal...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'caso-controle...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'ecológico 122 Ano: 2026...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [C] ('caso-controle') aplica c..."
   },
   {
     "codigo_origem": "Q3884077",
+    "numero_original": 125,
     "banca": "SELECON",
     "orgao": "Prefeitura de Porto dos Gaúchos - MT",
     "ano": 2026,
@@ -283,18 +273,14 @@
         "texto": "centralizar a coleta de dados em um único setor, minimizando a participação de equipes multidisciplinares 126 Ano: 2026"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0125",
     "numero_ordem": 125,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('identificar precocemente surtos, avaliar a efetividade das medidas de controle e direcionar intervenções específicas') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'reduzir exclusivamente a taxa de infecções de sítio cirúrgico em procedimentos d...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'identificar precocemente surtos, avaliar a efetividade das medidas de controle e dire...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -305,10 +291,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'centralizar a coleta de dados em um único setor, minimizando a participação de equipe...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('identificar precocemen..."
   },
   {
     "codigo_origem": "Q3884075",
+    "numero_original": 127,
     "banca": "SELECON",
     "orgao": "Prefeitura de Porto dos Gaúchos - MT",
     "ano": 2026,
@@ -335,18 +322,14 @@
         "texto": "mais forte nas áreas rurais, sendo insignificante nos centros urbanos 128 Ano: 2026"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0127",
     "numero_ordem": 127,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('direta e expressiva, na qual grupos em situação de maior vulnerabilidade social apresentam maior risco e pior desfecho para as DANTs') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'de baixa influência, uma vez que as DANTs estão mais ligadas a escolhas individuais d...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'direta e expressiva, na qual grupos em situação de maior vulnerabilidade social apres...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -357,10 +340,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'mais forte nas áreas rurais, sendo insignificante nos centros urbanos 128 Ano: 2026...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('direta e expressiva, n..."
   },
   {
     "codigo_origem": "Q3810635",
+    "numero_original": 142,
     "banca": "SELECON",
     "orgao": "Prefeitura de Barra do Garças - MT",
     "ano": 2025,
@@ -387,15 +371,11 @@
         "texto": "pandemia 143 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "A",
     "id": "EF0142",
     "numero_ordem": 142,
-    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [A] ('surto') aplica com precisão a fórmula e os critérios epidemiológicos.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
@@ -409,10 +389,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'pandemia 143 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [A] ('surto') aplica com preci..."
   },
   {
     "codigo_origem": "Q3802707",
+    "numero_original": 161,
     "banca": "SELECON",
     "orgao": "Prefeitura de Barra do Garças - MT",
     "ano": 2025,
@@ -439,18 +420,14 @@
         "texto": "a diminuição da carga de doenças relacionadas a fatores de risco comportamentais, como tabagismo e sedentarismo 162 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0161",
     "numero_ordem": 161,
-    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [B] ('um aumento da prevalência de doenças crônicas degenerativas e da demanda por cuidados de longa duração') aplica com precisão a fórmula e os critérios epidemiológicos.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'uma redução drástica na demanda por serviços de saúde, devido à menor incidência de d...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'um aumento da prevalência de doenças crônicas degenerativas e da demanda por cuidados...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -461,10 +438,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'a diminuição da carga de doenças relacionadas a fatores de risco comportamentais, com...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [B] ('um aumento da prevalênci..."
   },
   {
     "codigo_origem": "Q3802698",
+    "numero_original": 167,
     "banca": "SELECON",
     "orgao": "Prefeitura de Barra do Garças - MT",
     "ano": 2025,
@@ -491,10 +469,10 @@
         "texto": "as doenças crônico-degenerativas passaram a ser a principal causa de óbitos, superando as doenças infecciosas e parasitárias 168 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "D",
     "id": "EF0167",
     "numero_ordem": 167,
-    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [D] ('as doenças crônico-degenerativas passaram a ser a principal causa de óbitos, superando as doenças infecciosas e parasitárias 168 Ano: 2025') aplica com precisão a fórmula e os critérios epidemiológicos.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -507,16 +485,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'as causas externas de mortalidade, como violência e acidentes, tornaram-se insignific...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'as doenças crônico-degenerativas passaram a ser a principal causa de óbitos, superand...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [D] ('as doenças crônico-degen..."
   },
   {
     "codigo_origem": "Q3802697",
+    "numero_original": 168,
     "banca": "SELECON",
     "orgao": "Prefeitura de Barra do Garças - MT",
     "ano": 2025,
@@ -543,18 +518,14 @@
         "texto": "à menor exposição a novos patógenos, resultante da diminuição da interferência humana nos ecossistemas 169 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0168",
     "numero_ordem": 168,
-    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [B] ('ao estabelecimento de ciclos completos de infecções e endemias, devido à estabilidade de hospedeiros') aplica com precisão a fórmula e os critérios epidemiológicos.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'à redução da transmissão de patógenos em virtude da melhoria das condições de higiene...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'ao estabelecimento de ciclos completos de infecções e endemias, devido à estabilidade...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -565,10 +536,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'à menor exposição a novos patógenos, resultante da diminuição da interferência humana...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [B] ('ao estabelecimento de ci..."
   },
   {
     "codigo_origem": "Q3742714",
+    "numero_original": 183,
     "banca": "SELECON",
     "orgao": "Prefeitura de Marcelândia - MT",
     "ano": 2025,
@@ -595,15 +567,11 @@
         "texto": "transmissão por contato sexual com indivíduos infectados"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "A",
     "id": "EF0183",
     "numero_ordem": 183,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('transmissão oral por alimentos contaminados com formas infectantes do parasito') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'transmissão oral por alimentos contaminados com formas infectantes do parasito...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'transfusão sanguínea de doadores infectados...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -617,10 +585,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'transmissão por contato sexual com indivíduos infectados...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('transmissão oral por a..."
   },
   {
     "codigo_origem": "Q3617184",
+    "numero_original": 206,
     "banca": "SELECON",
     "orgao": "Prefeitura de Tapurah - MT",
     "ano": 2025,
@@ -647,18 +616,14 @@
         "texto": "está sendo descrito um caso de modificação de efeito, no qual o novo fármaco tem um efeito biológico diferente em pacientes mais graves, não se tratando de um viés 207 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0206",
     "numero_ordem": 206,
-    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [B] ('tem-se descrito o viés de confusão por indicação, um tipo específico de fator de confusão em que a gravidade da doença ou o prognóstico do paciente influencia a escolha terapêutica e, simultaneamente, o resultado em saúde') aplica com precisão a fórmula e os critérios epidemiológicos.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'tal cenário descreve um viés de seleção, no qual os grupos de tratamento são incompar...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'tem-se descrito o viés de confusão por indicação, um tipo específico de fator de conf...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -669,10 +634,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'está sendo descrito um caso de modificação de efeito, no qual o novo fármaco tem um e...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [B] ('tem-se descrito o viés d..."
   },
   {
     "codigo_origem": "Q3265173",
+    "numero_original": 253,
     "banca": "SELECON",
     "orgao": "HEMOMINAS",
     "ano": 2025,
@@ -699,10 +665,10 @@
         "texto": "a hemovigilância é uma atribuição exclusiva do enfermeiro responsável pela transfusão, não havendo necessidade de envolver outros profissionais da equipe de saúde 254 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0253",
     "numero_ordem": 253,
-    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [C] ('as reações transfusionais febris não hemolíticas são comuns e, embora sejam menos graves, devem ser notificadas e investigadas para prevenir recorrências e melhorar a segurança transfusional') aplica com precisão a fórmula e os critérios epidemiológicos.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -713,18 +679,15 @@
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a hemovigilância envolve a coleta e análise sistemática de dados relacionados a ...'."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'as reações transfusionais febris não hemolíticas são comuns e, embora sejam menos gra...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a hemovigilância é uma atribuição exclusiva do enfermeiro responsável pela trans...'."
       }
     ],
-    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [C] ('as reações transfusionai..."
   },
   {
     "codigo_origem": "Q3261155",
+    "numero_original": 276,
     "banca": "SELECON",
     "orgao": "HEMOMINAS",
     "ano": 2025,
@@ -751,18 +714,14 @@
         "texto": "validação"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0276",
     "numero_ordem": 276,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('retrovigilância') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'sistema de qualidade...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'retrovigilância...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -773,10 +732,11 @@
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('retrovigilância') fund..."
   },
   {
     "codigo_origem": "Q3199750",
+    "numero_original": 285,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sinop - MT",
     "ano": 2025,
@@ -803,10 +763,10 @@
         "texto": "risco relativo, pois compara a ocorrência de doenças respiratórias em diferentes grupos de crianças com características diferentes, mas suscetíveis aos mesmos determinantes 286 Enfermagem > Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Fundamentos e Procedimentos de Enfermagem Banca: SELECON Órgão: Prefeitura de Sinop - MT Prova: SELECON - 2025 - Prefeitura de Sinop - MT - Técnico de"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0285",
-    "numero_ordem": 285,
-    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "resposta_correta": "C",
+    "id": "EF0284",
+    "numero_ordem": 284,
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [C] ('prevalência, pois descreve a proporção de crianças que apresentaram doenças respiratórias em relação ao total de crianças da população durante o período de estudo') representa a conduta científica e clinicamente recomendada.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -817,10 +777,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'taxa de mortalidade, pois indica o número de óbitos em crianças menores de 5 anos por...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'prevalência, pois descreve a proporção de crianças que apresentaram doenças respirató...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'risco relativo, pois compara a ocorrência de doenças respiratórias em diferentes grup...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
@@ -829,6 +785,7 @@
   },
   {
     "codigo_origem": "Q3199741",
+    "numero_original": 294,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sinop - MT",
     "ano": 2025,
@@ -855,10 +812,10 @@
         "texto": "é um instrumento legal que visa a identificar, monitorar e controlar doenças e agravos à saúde, sendo obrigatória para todos os profissionais de saúde, incluindo médicos, enfermeiros e outros membros da equipe de saúde"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0294",
-    "numero_ordem": 294,
-    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "resposta_correta": "D",
+    "id": "EF0293",
+    "numero_ordem": 293,
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [D] ('é um instrumento legal que visa a identificar, monitorar e controlar doenças e agravos à saúde, sendo obrigatória para todos os profissionais de saúde, incluindo médicos, enfermeiros e outros membros da equipe de saúde') aplica com precisão a fórmula e os critérios epidemiológicos.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -871,16 +828,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'o não cumprimento da notificação compulsória por parte dos profissionais de saúde é u...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'é um instrumento legal que visa a identificar, monitorar e controlar doenças e agravo...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [D] ('é um instrumento legal q..."
   },
   {
     "codigo_origem": "Q3197479",
+    "numero_original": 306,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sinop - MT",
     "ano": 2025,
@@ -907,10 +861,10 @@
         "texto": "investir em programas de saneamento básico e condições de habitação adequadas 307 Ano: 2025 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Prefeitura de Sinop - MT Prova: SELECON - 2025 - Prefeitura de Sinop - MT - Enfermeiro"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0306",
-    "numero_ordem": 306,
-    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "resposta_correta": "D",
+    "id": "EF0305",
+    "numero_ordem": 305,
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [D] ('investir em programas de saneamento básico e condições de habitação adequadas 307 Ano: 2025 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Prefeitura de Sinop - MT Prova: SELECON - 2025 - Prefeitura de Sinop - MT - Enfermeiro') aplica com precisão a fórmula e os critérios epidemiológicos.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -923,16 +877,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'oferecer tratamento medicamentoso gratuito para as doenças crônicas mais prevalentes...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'investir em programas de saneamento básico e condições de habitação adequadas 307 Ano...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [D] ('investir em programas de..."
   },
   {
     "codigo_origem": "Q3184819",
+    "numero_original": 327,
     "banca": "SELECON",
     "orgao": "Prefeitura de Nova Mutum - MT",
     "ano": 2024,
@@ -959,10 +910,10 @@
         "texto": "prevalência 328 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0327",
-    "numero_ordem": 327,
-    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "resposta_correta": "D",
+    "id": "EF0326",
+    "numero_ordem": 326,
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [D] ('prevalência 328 Ano: 2024') aplica com precisão a fórmula e os critérios epidemiológicos.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -975,16 +926,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'causalidade...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'prevalência 328 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [D] ('prevalência 328 Ano: 202..."
   },
   {
     "codigo_origem": "Q2528687",
+    "numero_original": 341,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -1015,18 +963,14 @@
         "texto": "morbimortalidade 342 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0341",
-    "numero_ordem": 341,
-    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "resposta_correta": "B",
+    "id": "EF0340",
+    "numero_ordem": 340,
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [B] ('morbidade') aplica com precisão a fórmula e os critérios epidemiológicos.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'mortalidade...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "C",
@@ -1041,10 +985,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'morbimortalidade 342 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [B] ('morbidade') aplica com p..."
   },
   {
     "codigo_origem": "Q2528686",
+    "numero_original": 342,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -1075,15 +1020,11 @@
         "texto": "saúde 343 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0342",
-    "numero_ordem": 342,
-    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "resposta_correta": "A",
+    "id": "EF0341",
+    "numero_ordem": 341,
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [A] ('vigilância em saúde') aplica com precisão a fórmula e os critérios epidemiológicos.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'vigilância em saúde...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'saúde individual...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -1101,10 +1042,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'saúde 343 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [A] ('vigilância em saúde') ap..."
   },
   {
     "codigo_origem": "Q2528682",
+    "numero_original": 345,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -1135,10 +1077,10 @@
         "texto": "SIM 346 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0345",
-    "numero_ordem": 345,
-    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "resposta_correta": "C",
+    "id": "EF0344",
+    "numero_ordem": 344,
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [C] ('e-SUS Notifica') aplica com precisão a fórmula e os critérios epidemiológicos.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1149,10 +1091,6 @@
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'e-SUS Notifica...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
@@ -1161,10 +1099,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'SIM 346 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [C] ('e-SUS Notifica') aplica ..."
   },
   {
     "codigo_origem": "Q2480405",
+    "numero_original": 372,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -1195,10 +1134,10 @@
         "texto": "urgentes 373 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0372",
-    "numero_ordem": 372,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "C",
+    "id": "EF0369",
+    "numero_ordem": 369,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [C] ('emergentes') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1206,10 +1145,6 @@
       },
       {
         "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "C",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
@@ -1221,10 +1156,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'urgentes 373 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [C] ('emergentes') fundament..."
   },
   {
     "codigo_origem": "Q2480396",
+    "numero_original": 381,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -1255,17 +1191,13 @@
         "texto": "leishmaniose 382 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0381",
-    "numero_ordem": 381,
-    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "resposta_correta": "B",
+    "id": "EF0378",
+    "numero_ordem": 378,
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [B] ('dengue') aplica com precisão a fórmula e os critérios epidemiológicos.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "B",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
@@ -1281,10 +1213,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'leishmaniose 382 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [B] ('dengue') aplica com prec..."
   },
   {
     "codigo_origem": "Q2480394",
+    "numero_original": 383,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -1315,15 +1248,11 @@
         "texto": "análise de dados e divulgação dos resultados 384 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0383",
-    "numero_ordem": 383,
-    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "resposta_correta": "A",
+    "id": "EF0380",
+    "numero_ordem": 380,
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [A] ('coleta e análise de dados, interpretação e divulgação da informação') aplica com precisão a fórmula e os critérios epidemiológicos.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'coleta e análise de dados, interpretação e divulgação da informação...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'coleta e interpretação dos dados, divulgação dos resultados...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -1341,10 +1270,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'análise de dados e divulgação dos resultados 384 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [A] ('coleta e análise de dado..."
   },
   {
     "codigo_origem": "Q2480392",
+    "numero_original": 385,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -1375,10 +1305,10 @@
         "texto": "microlocalização 386 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0385",
-    "numero_ordem": 385,
-    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "resposta_correta": "D",
+    "id": "EF0382",
+    "numero_ordem": 382,
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [D] ('territorialização') aplica com precisão a fórmula e os critérios epidemiológicos.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1393,18 +1323,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'integralização...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'territorialização...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "E",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'microlocalização 386 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [D] ('territorialização') apli..."
   },
   {
     "codigo_origem": "Q2480383",
+    "numero_original": 394,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -1435,15 +1362,11 @@
         "texto": "coleta de dados e interpretação 395 Ano: 2024 Enfermagem > Biossegurança em Enfermagem , Higiene nos Procedimentos de Enfermagem , Fundamentos e Procedimentos de Enfermagem Banca: SELECON Órgão: SAD-MS Prova: SELECON - 2024 - SAD-MS - Enfermeiro"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0394",
-    "numero_ordem": 394,
-    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "resposta_correta": "A",
+    "id": "EF0390",
+    "numero_ordem": 390,
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [A] ('mensuração e comparação') aplica com precisão a fórmula e os critérios epidemiológicos.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'mensuração e comparação...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'mensuração e interpretação...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -1461,10 +1384,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'coleta de dados e interpretação 395 Ano: 2024 Enfermagem > Biossegurança em Enfermage...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [A] ('mensuração e comparação'..."
   },
   {
     "codigo_origem": "Q2480375",
+    "numero_original": 402,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -1495,10 +1419,10 @@
         "texto": "saúde integral"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0402",
-    "numero_ordem": 402,
-    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "resposta_correta": "D",
+    "id": "EF0397",
+    "numero_ordem": 397,
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [D] ('epidemiologia') aplica com precisão a fórmula e os critérios epidemiológicos.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1513,18 +1437,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'saúde pública...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'epidemiologia...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "E",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'saúde integral...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [D] ('epidemiologia') aplica c..."
   },
   {
     "codigo_origem": "Q2480374",
+    "numero_original": 403,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -1555,10 +1476,10 @@
         "texto": "e-SUS Notifica 404 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0403",
-    "numero_ordem": 403,
-    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "resposta_correta": "E",
+    "id": "EF0398",
+    "numero_ordem": 398,
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [E] ('e-SUS Notifica 404 Ano: 2024') aplica com precisão a fórmula e os critérios epidemiológicos.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1575,16 +1496,13 @@
       {
         "letra": "D",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "E",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'e-SUS Notifica 404 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [E] ('e-SUS Notifica 404 Ano: ..."
   },
   {
     "codigo_origem": "Q2480370",
+    "numero_original": 407,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -1615,10 +1533,10 @@
         "texto": "morbimortalidade infantil 408 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0407",
-    "numero_ordem": 407,
-    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "resposta_correta": "D",
+    "id": "EF0400",
+    "numero_ordem": 400,
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [D] ('mortalidade infantil') aplica com precisão a fórmula e os critérios epidemiológicos.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1633,18 +1551,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'morbimortalidade...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'mortalidade infantil...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "E",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'morbimortalidade infantil 408 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [D] ('mortalidade infantil') a..."
   },
   {
     "codigo_origem": "Q2467601",
+    "numero_original": 450,
     "banca": "SELECON",
     "orgao": "Prefeitura de Água Boa - MT",
     "ano": 2024,
@@ -1671,10 +1586,10 @@
         "texto": "acidente de trabalho"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0450",
-    "numero_ordem": 450,
-    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "resposta_correta": "D",
+    "id": "EF0443",
+    "numero_ordem": 443,
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [D] ('acidente de trabalho') aplica com precisão a fórmula e os critérios epidemiológicos.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1687,16 +1602,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'fibrose cística...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'acidente de trabalho...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [D] ('acidente de trabalho') a..."
   },
   {
     "codigo_origem": "Q2467600",
+    "numero_original": 451,
     "banca": "SELECON",
     "orgao": "Prefeitura de Água Boa - MT",
     "ano": 2024,
@@ -1723,18 +1635,14 @@
         "texto": "crônica 452 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Prefeitura de Água Boa - MT Prova: SELECON - 2024 - Prefeitura de Água Boa - MT - Técnico em"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0451",
-    "numero_ordem": 451,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "B",
+    "id": "EF0444",
+    "numero_ordem": 444,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('infecciosa') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'ocupacional...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "C",
@@ -1745,10 +1653,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'crônica 452 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constitu...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('infecciosa') fundament..."
   },
   {
     "codigo_origem": "Q2454928",
+    "numero_original": 486,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sapezal - MT",
     "ano": 2024,
@@ -1775,17 +1684,13 @@
         "texto": "infectocontagiosos"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0486",
-    "numero_ordem": 486,
-    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "resposta_correta": "B",
+    "id": "EF0479",
+    "numero_ordem": 479,
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [B] ('biológicos') aplica com precisão a fórmula e os critérios epidemiológicos.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "B",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
@@ -1797,10 +1702,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'infectocontagiosos...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [B] ('biológicos') aplica com ..."
   },
   {
     "codigo_origem": "Q2452987",
+    "numero_original": 512,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sapezal - MT",
     "ano": 2024,
@@ -1827,10 +1733,10 @@
         "texto": "pesquisa e interpretação das informações, divulgação dos resultados 513 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0512",
-    "numero_ordem": 512,
-    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "resposta_correta": "C",
+    "id": "EF0505",
+    "numero_ordem": 505,
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [C] ('coleta e análise de dados, interpretação e divulgação da informação') aplica com precisão a fórmula e os critérios epidemiológicos.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -1841,18 +1747,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'coleta e interpretação dos dados, divulgação da informação...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'coleta e análise de dados, interpretação e divulgação da informação...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'pesquisa e interpretação das informações, divulgação dos resultados 513 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [C] ('coleta e análise de dado..."
   },
   {
     "codigo_origem": "Q3674524",
+    "numero_original": 525,
     "banca": "SELECON",
     "orgao": "Prefeitura de Dourados - MS",
     "ano": 2023,
@@ -1879,18 +1782,14 @@
         "texto": "5 a 6 meses 526 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0525",
-    "numero_ordem": 525,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "B",
+    "id": "EF0517",
+    "numero_ordem": 517,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('2 a 3 meses') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois '1 a 2 meses...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois '2 a 3 meses...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -1901,10 +1800,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois '5 a 6 meses 526 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('2 a 3 meses') fundamen..."
   },
   {
     "codigo_origem": "Q3584423",
+    "numero_original": 551,
     "banca": "SELECON",
     "orgao": "Prefeitura de Lucas do Rio Verde - MT",
     "ano": 2023,
@@ -1931,15 +1831,11 @@
         "texto": "20 a 40 dias, com intervalo que pode variar de 15 a 45 dias 552 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0551",
-    "numero_ordem": 551,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "A",
+    "id": "EF0543",
+    "numero_ordem": 543,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('5 a 6 dias, com intervalo que pode variar de 0 a 14 dias') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois '5 a 6 dias, com intervalo que pode variar de 0 a 14 dias...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois '10 a 16 dias, com intervalo que pode variar de 7 a 21 dias...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -1953,10 +1849,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois '20 a 40 dias, com intervalo que pode variar de 15 a 45 dias 552 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('5 a 6 dias, com interv..."
   },
   {
     "codigo_origem": "Q2325289",
+    "numero_original": 589,
     "banca": "SELECON",
     "orgao": "Prefeitura de Primavera do Leste - MT",
     "ano": 2023,
@@ -1983,17 +1880,13 @@
         "texto": "4 590 Ano: 2023 Enfermagem > Saúde da Criança e do Adolescente , Doenças Infecciosas e parasitárias , Outras Doenças Infecciosas e Parasitárias Banca: SELECON Órgão: Prefeitura de Primavera do Leste - MT Prova: SELECON - 2023 - Prefeitura de Primavera do Leste -"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0589",
-    "numero_ordem": 589,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "B",
+    "id": "EF0581",
+    "numero_ordem": 581,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('2') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "B",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
@@ -2005,10 +1898,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois '4 590 Ano: 2023 Enfermagem > Saúde da Criança e do Adolescente , Doenças Infecciosas ...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('2') fundamenta-se nas ..."
   },
   {
     "codigo_origem": "Q2310585",
+    "numero_original": 612,
     "banca": "SELECON",
     "orgao": "Prefeitura de Primavera do Leste - MT",
     "ano": 2023,
@@ -2035,10 +1929,10 @@
         "texto": "50% 613 Ano: 2023 Enfermagem > Epidemiologia e Vigilância Epidemiológica , Doenças Infecciosas e parasitárias , Outras Doenças Infecciosas e Parasitárias Banca: SELECON Órgão: Prefeitura de Primavera do Leste - MT Prova: SELECON - 2023 - Prefeitura de Primavera do Leste -"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0612",
-    "numero_ordem": 612,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "C",
+    "id": "EF0604",
+    "numero_ordem": 604,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [C] ('37%') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -2049,18 +1943,15 @@
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois '50% 613 Ano: 2023 Enfermagem > Epidemiologia e Vigilância Epidemiológica , Doenças In...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [C] ('37%') fundamenta-se na..."
   },
   {
     "codigo_origem": "Q1313719",
+    "numero_original": 780,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2024,
@@ -2087,10 +1978,10 @@
         "texto": "Indicador de Clark e Breslow"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0780",
-    "numero_ordem": 780,
-    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "resposta_correta": "C",
+    "id": "EF0772",
+    "numero_ordem": 772,
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [C] ('Indicador de Swaroop e Uemura') aplica com precisão a fórmula e os critérios epidemiológicos.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -2101,18 +1992,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'Indicador de Norwood e Ludwigg...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'Indicador de Swaroop e Uemura...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'Indicador de Clark e Breslow...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [C] ('Indicador de Swaroop e U..."
   },
   {
     "codigo_origem": "Q1313691",
+    "numero_original": 807,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2020,
@@ -2139,15 +2027,11 @@
         "texto": "febre amarela e HIV 808 Ano: 2020"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0807",
-    "numero_ordem": 807,
-    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "resposta_correta": "A",
+    "id": "EF0799",
+    "numero_ordem": 799,
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [A] ('esquistossomose e tuberculose') aplica com precisão a fórmula e os critérios epidemiológicos.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'esquistossomose e tuberculose...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'febre tifoide e hanseníase...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -2161,10 +2045,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'febre amarela e HIV 808 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [A] ('esquistossomose e tuberc..."
   },
   {
     "codigo_origem": "Q1242253",
+    "numero_original": 875,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2019,
@@ -2191,15 +2076,11 @@
         "texto": "medicamento - cirurgia; medicamento - cafeína; medicamento - bebidas frias; medicamento - exames laboratoriais 876 Ano: 2019"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0875",
-    "numero_ordem": 875,
-    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "resposta_correta": "A",
+    "id": "EF0867",
+    "numero_ordem": 867,
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [A] ('medicamento - medicamento; medicamento - alimento; medicamento - bebida alcoólica; medicamento - exames laboratoriais') aplica com precisão a fórmula e os critérios epidemiológicos.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'medicamento - medicamento; medicamento - alimento; medicamento - bebida alcoólica; me...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'medicamento - procedimento; medicamento - leguminosas; medicamento - bebida alcoólica...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -2213,6 +2094,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'medicamento - cirurgia; medicamento - cafeína; medicamento - bebidas frias; medicamen...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [A] ('medicamento - medicament..."
   }
 ]

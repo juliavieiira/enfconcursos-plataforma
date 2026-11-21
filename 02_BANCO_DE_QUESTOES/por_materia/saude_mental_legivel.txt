@@ -10,11 +10,10 @@ Um paciente adulto em acompanhamento em um Centro de Atenção Psicossocial (CAP
   [C] restringir o contato do paciente com a equipe multiprofissional para evitar dependência emocional do serviço, o que pode agravar a longo prazo
   [D] direcionar o cuidado exclusivamente para o controle medicamentoso, uma vez que o sofrimento psíquico exige tratamento farmacológico contínuo
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+✅ Gabarito: B
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [B] ('reforçar práticas de cuidado humanizado, valorizando o vínculo, a escuta qualificada e a continuidade do cuidado em serviços comunitários') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'priorizar a internação psiquiátrica como principal forma de cuidado diante de qualque...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'reforçar práticas de cuidado humanizado, valorizando o vínculo, a escuta qualificada ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'restringir o contato do paciente com a equipe multiprofissional para evitar dependênc...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'direcionar o cuidado exclusivamente para o controle medicamentoso, uma vez que o...'.
 
@@ -29,10 +28,9 @@ O modelo assistencial em que pacientes com transtornos mentais recebem acompanha
   [C] modelo prioriza a internação hospitalar prolongada como principal estratégia, restringindo o atendimento comunitário
   [D] Atenção Primária não atua na identificação, acompanhamento ou articulação do cuidado em saúde mental
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('cuidado deve ser territorial, comunitário e articulado à Rede de Atenção Psicossocial (RAPS), promovendo a integração multiprofissional e a participação da família no Projeto Terapêutico Singular') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'cuidado deve ser territorial, comunitário e articulado à Rede de Atenção Psicossocial...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'CAPS substitui integralmente todos os demais pontos de atenção, sem necessidade de in...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'modelo prioriza a internação hospitalar prolongada como principal estratégia, restrin...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Atenção Primária não atua na identificação, acompanhamento ou articulação do cuidado ...' não atende às diretrizes oficiais do Ministério da Saúde.
@@ -48,17 +46,16 @@ MT - Enfermeiro Ao utilizar a Escala de Avaliação das Síndromes Positiva e Ne
   [C] a pontuação mínima na PANSS é 0, indicando ausência total de psicopatologia
   [D] os itens da subescala psicopatológica geral avaliam sintomas como ansiedade, culpa e tensão 125 Ano: 2026
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('os itens da subescala psicopatológica geral avaliam sintomas como ansiedade, culpa e tensão 125 Ano: 2026') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a escala é utilizada exclusivamente para avaliação de sintomas negativos em tran...'.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'a aplicação deve ser realizada por qualquer membro da equipe multidisciplinar, indepe...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a pontuação mínima na PANSS é 0, indicando ausência total de psicopatologia...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'os itens da subescala psicopatológica geral avaliam sintomas como ansiedade, culpa e ...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 4 [Código: EF0315] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
+QUESTÃO 4 [Código: EF0314] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
 Assunto: Saúde Mental
 A assistência de enfermagem a pacientes em crise psiquiátrica exige competências específicas para proporcionar um atendimento seguro e eficaz. Considerando os princípios e as práticas de enfermagem em situações de crise psiquiátrica, a alternativa que melhor descreve a conduta apropriada do enfermeiro é:
 
@@ -67,17 +64,16 @@ A assistência de enfermagem a pacientes em crise psiquiátrica exige competênc
   [C] avaliar o grau de risco e atuar de forma calmante e empática, buscando reduzir a ansiedade do paciente e promovendo um ambiente seguro, respeitando sua autonomia e trabalhando em conjunto com a equipe multidisciplinar para a estabilização do quadro
   [D] agir de forma autoritária e determinar as intervenções terapêuticas necessárias sem consultar outros membros da equipe de saúde, com o objetivo de resolver a crise o mais rapidamente possível 316 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: C
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [C] ('avaliar o grau de risco e atuar de forma calmante e empática, buscando reduzir a ansiedade do paciente e promovendo um ambiente seguro, respeitando sua autonomia e trabalhando em conjunto com a equipe multidisciplinar para a estabilização do quadro') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'priorizar o estabelecimento de um vínculo terapêutico rápido e forçar a comunicação c...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'adotar uma abordagem de contenção física imediata, sem considerar as preferências do ...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'avaliar o grau de risco e atuar de forma calmante e empática, buscando reduzir a ansi...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'agir de forma autoritária e determinar as intervenções terapêuticas necessárias sem c...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 5 [Código: EF0348] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 5 [Código: EF0347] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
 Assunto: Saúde Mental
 “De acordo com a Organização Mundial de Saúde (OMS), é a área da saúde que pode ser considerada um estado de bemestar vivido pelo indivíduo, que possibilita o desenvolvimento de suas habilidades pessoais para responder aos desafios da vida e contribuir com a comunidade, intrinsecamente ligada a uma série de condições fundamentais, devendo-se considerar que resulta da interação de fatores biológicos, psicológicos e sociais, tendo características biopsicossociais”. Esse excerto referese à saúde:
 
@@ -87,18 +83,17 @@ Assunto: Saúde Mental
   [D] integral
   [E] biológica 349 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: C
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [C] ('mental') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa E: Incorreta perante os protocolos técnicos, pois 'biológica 349 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 6 [Código: EF0495] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 6 [Código: EF0488] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
 Assunto: Saúde Mental
 De acordo com a Organização Mundial de Saúde (OMS), a saúde mental pode ser considerada, um estado de bem-estar vivido pelo indivíduo, que possibilita o desenvolvimento de suas habilidades pessoais para responder aos desafios da vida e contribuir com a comunidade. Deve-se considerar que a saúde mental resulta da interação de fatores biológicos, psicológicos e sociais, e pode-se afirmar que tem características biopsicossociais. Baseando-se nessa afirmativa, a fase da assistência em saúde que é de fundamental e primordial importância no sucesso do tratamento desse segmento da população com agravos em saúde mental denomina-se:
 
@@ -107,17 +102,16 @@ De acordo com a Organização Mundial de Saúde (OMS), a saúde mental pode ser 
   [C] tratamento
   [D] anamnese 496 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Prefeitura de Sapezal - MT Prova: SELECON - 2024 - Prefeitura de Sapezal - MT - Enfermeiro
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('acolhimento') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'acolhimento...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'diagnóstico...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'anamnese 496 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SU...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 7 [Código: EF0523] - Prefeitura de Dourados - MS (SELECON 2023) - Enfermeiro
+QUESTÃO 7 [Código: EF0515] - Prefeitura de Dourados - MS (SELECON 2023) - Enfermeiro
 Assunto: Saúde Mental , Saúde do Idoso
 Demência é uma síndrome clínica caracterizada por déficits cognitivos múltiplos, adquiridos e persistentes, capazes de interferir de maneira substancial nas atividades de vida diária do paciente. A doença de Alzheimer (De a demência com corpos de Lewy (DCL) são as principais demências neurodegenerativas. Os principais sintomas da DCL são:
 
@@ -126,17 +120,16 @@ Demência é uma síndrome clínica caracterizada por déficits cognitivos múlt
   [C] rigidez, tremores em membros superiores, salivação excessiva e incontinência urinária
   [D] perda da memória, diplopia, incontinência fecal e disfunção autonômica 524 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('flutuação da função cognitiva, memória afetada, alucinações visuais e disfunção autonômica') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'flutuação da função cognitiva, memória afetada, alucinações visuais e disfunção auton...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'oscilações na cognição, bexiga neurogênica, memória preservada e disfunção autonômica...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'rigidez, tremores em membros superiores, salivação excessiva e incontinência urinária...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'perda da memória, diplopia, incontinência fecal e disfunção autonômica 524 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 8 [Código: EF0542] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 8 [Código: EF0534] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2023) - Enfermeiro
 Assunto: Saúde Mental
 MT - Enfermeiro 20H Segundo o Ministério da Saúde, a Rede de Atenção Psicossocial (RAPS) corresponde a um conjunto articulado de ações integradas na atenção à saúde, com objetivo de realizar o acolhimento dos indivíduos com necessidades decorrentes do uso de álcool, drogas e sofrimento psíquico, no âmbito do Sistema Único de Saúde (SUS). Portanto, essa rede é formada pelos seguintes pontos de atenção:
 
@@ -145,17 +138,16 @@ MT - Enfermeiro 20H Segundo o Ministério da Saúde, a Rede de Atenção Psicoss
   [C] Hospital Dia, Atenção Indígena Básica, Urgência e Emergência, SRT e Unidades de Acolhimento
   [D] Hospital de Urgência e Emergência, Hospitais Psiquiátricos com leitos de isolamento, SRT e Unidades de Acolhimento 543 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.
+✅ Gabarito: A
+💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [A] ('CAPS, Atenção Básica, Urgência e Emergência, SRT e Unidades de Acolhimento') expressa fielmente o preceito legislativo.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'CAPS, Atenção Básica, Urgência e Emergência, SRT e Unidades de Acolhimento...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'CAPS, Atenção Domiciliar, Urgência e Emergência, SRT e Unidades de Especializadas...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Hospital Dia, Atenção Indígena Básica, Urgência e Emergência, SRT e Unidades de Acolh...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Hospital de Urgência e Emergência, Hospitais Psiquiátricos com leitos de isolamento, ...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 9 [Código: EF0640] - Prefeitura de Campo Verde - MT (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 9 [Código: EF0632] - Prefeitura de Campo Verde - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Saúde Mental
 em Enfermagem De acordo com a norma técnica para atuação da equipe de enfermagem em saúde mental e psiquiatria, o processo terapêutico fundamentado no relacionamento interpessoal, como ferramenta do cuidado, entre o profissional e o usuário, no contexto individual ou em grupo é chamado de:
 
@@ -164,17 +156,16 @@ em Enfermagem De acordo com a norma técnica para atuação da equipe de enferma
   [C] Relacionamento Terapêutico
   [D] Centro de Atenção Psicossocial (CAPS)
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: C
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [C] ('Relacionamento Terapêutico') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'Apoio Matricial...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'Ambiente Terapêutico...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Relacionamento Terapêutico...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Centro de Atenção Psicossocial (CAPS)...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 10 [Código: EF0778] - Prefeitura de Boa Vista - RR (SELECON 2020) - Técnico de Enfermagem
+QUESTÃO 10 [Código: EF0770] - Prefeitura de Boa Vista - RR (SELECON 2020) - Técnico de Enfermagem
 Assunto: Saúde Mental
 ESF De acordo com o Caderno de Atenção Básica de Saúde Mental, os Núcleos de Apoio à Saúde da Família (Nasfs) foram criados com o objetivo de ampliar a abrangência e o escopo das ações da Atenção Básica, bem como sua resolutividade. Dessa forma, os Nasfs são constituídos por equipes compostas de:
 
@@ -183,13 +174,12 @@ ESF De acordo com o Caderno de Atenção Básica de Saúde Mental, os Núcleos d
   [C] profissionais da área de saúde, que devem atuar de maneira individualizada e apoiando os profissionais das equipes de Saúde da Família, das equipes de Atenção Básica para populações e s p e c í fi c a s e A c a d e m i a d a S a ú d e , compartilhando as práticas em saúde nos territórios sob a responsabilidade destas equipes, atuando diretamente no apoio matricial às equipes das unidades nas quais o Nasf está vinculado
   [D] p r o fi s s i o n a i s d e d i f e r e n t e s á r e a s d e conhecimento, que devem atuar de maneira integrada e apoiando os profissionais das equipes de Saúde da Família, das equipes de Atenção Básica para populações específicas (consultórios na rua, equipes ribeirinhas e fluviais etc.) e Academia da Saúde, compartilhando as práticas e saberes em saúde nos territórios sob a responsabilidade destas equipes, atuando diretamente no apoio matricial às equipes da(s) unidade(s) na(s) qual(is) o Nasf está vinculado 779 Ano: 2020
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('p r o fi s s i o n a i s d e d i f e r e n t e s á r e a s d e conhecimento, que devem atuar de maneira integrada e apoiando os profissionais das equipes de Saúde da Família, das equipes de Atenção Básica para populações específicas (consultórios na rua, equipes ribeirinhas e fluviais etc.) e Academia da Saúde, compartilhando as práticas e saberes em saúde nos territórios sob a responsabilidade destas equipes, atuando diretamente no apoio matricial às equipes da(s) unidade(s) na(s) qual(is) o Nasf está vinculado 779 Ano: 2020') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'enfermeiros, médicos e outras áreas de conhecimento, que devem atuar de maneira integ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'profissionais de diferentes áreas de educação, que devem atuar de maneira integrada e...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'profissionais da área de saúde, que devem atuar de maneira individualizada e apoiando...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'p r o fi s s i o n a i s d e d i f e r e n t e s á r e a s d e conhecimento, que deve...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 

@@ -1,6 +1,7 @@
 [
   {
     "codigo_origem": "Q3974339",
+    "numero_original": 95,
     "banca": "SELECON",
     "orgao": "EMGEPRON",
     "ano": 2026,
@@ -27,10 +28,10 @@
         "texto": "quadro viral febril em fase de defervescência, com trombocitopenia esperada e sintomas gastrointestinais inespecíficos, passível de manejo ambulatorial mediante orientação e retorno programado"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "C",
     "id": "EF0095",
     "numero_ordem": 95,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [C] ('dengue com sinais de alarme, demandando monitoramento clínico rigoroso, reavaliação laboratorial seriada e possível internação') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -41,18 +42,15 @@
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'dengue grave, caracterizada exclusivamente pela presença de choque instalado ou ...'."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'dengue com sinais de alarme, demandando monitoramento clínico rigoroso, reavaliação l...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'quadro viral febril em fase de defervescência, com trombocitopenia esperada e sintoma...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [C] ('dengue com sinais de a..."
   },
   {
     "codigo_origem": "Q3742309",
+    "numero_original": 193,
     "banca": "SELECON",
     "orgao": "Prefeitura de Marcelândia - MT",
     "ano": 2025,
@@ -79,18 +77,14 @@
         "texto": "aumento súbito da resistência vascular periférica, associado à lesão medular e perda do tônus simpático 194 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0193",
     "numero_ordem": 193,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('vasodilatação sistêmica mediada por liberação de endotoxinas bacterianas, resultando em redistribuição inadequada do fluxo sanguíneo') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'comprometimento primário da contratilidade miocárdica, ocasionando acúmulo de sangue ...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'vasodilatação sistêmica mediada por liberação de endotoxinas bacterianas, resultando ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -101,10 +95,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'aumento súbito da resistência vascular periférica, associado à lesão medular e perda ...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('vasodilatação sistêmic..."
   },
   {
     "codigo_origem": "Q3617172",
+    "numero_original": 215,
     "banca": "SELECON",
     "orgao": "Prefeitura de Tapurah - MT",
     "ano": 2024,
@@ -131,10 +126,10 @@
         "texto": "poder do Mycobacterium leprae de sobreviver e multiplicar-se lentamente nos tecidos periféricos, especialmente nos nervos 216 Enfermagem > Doenças Crônicas Não Transmissíveis , Doenças Crônicas Não Transmissíveis: panorama geral e plano de enfrentamento Banca: SELECON Órgão: Prefeitura de Tapurah - MT Prova: SELECON - 2025 - Prefeitura de Tapurah - MT -"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "D",
     "id": "EF0215",
     "numero_ordem": 215,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('poder do Mycobacterium leprae de sobreviver e multiplicar-se lentamente nos tecidos periféricos, especialmente nos nervos 216 Enfermagem > Doenças Crônicas Não Transmissíveis , Doenças Crônicas Não Transmissíveis: panorama geral e plano de enfrentamento Banca: SELECON Órgão: Prefeitura de Tapurah - MT Prova: SELECON - 2025 - Prefeitura de Tapurah - MT -') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -147,16 +142,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'predominância de transmissão vertical com baixa infectividade comunitária...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'poder do Mycobacterium leprae de sobreviver e multiplicar-se lentamente nos tecidos p...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('poder do Mycobacterium..."
   },
   {
     "codigo_origem": "Q2480400",
+    "numero_original": 377,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -187,10 +179,10 @@
         "texto": "15 a 90 dias 378 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0377",
-    "numero_ordem": 377,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "D",
+    "id": "EF0374",
+    "numero_ordem": 374,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('30 a 180 dias') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -205,18 +197,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois '15 a 180 dias...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois '30 a 180 dias...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "E",
         "motivo": "Incorreta perante os protocolos técnicos, pois '15 a 90 dias 378 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('30 a 180 dias') fundam..."
   },
   {
     "codigo_origem": "Q2477216",
+    "numero_original": 412,
     "banca": "SELECON",
     "orgao": "Prefeitura de Água Boa - MT",
     "ano": 2024,
@@ -243,10 +232,10 @@
         "texto": "vírus sentinela respiratório 413 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0412",
-    "numero_ordem": 412,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "C",
+    "id": "EF0405",
+    "numero_ordem": 405,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [C] ('vírus sincicial respiratório') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -257,18 +246,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'vírus sancial respiratório...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'vírus sincicial respiratório...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'vírus sentinela respiratório 413 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [C] ('vírus sincicial respir..."
   },
   {
     "codigo_origem": "Q2477214",
+    "numero_original": 414,
     "banca": "SELECON",
     "orgao": "Prefeitura de Água Boa - MT",
     "ano": 2024,
@@ -295,10 +281,10 @@
         "texto": "sífilis 415 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0414",
-    "numero_ordem": 414,
-    "fundamentacao_correta": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.",
+    "resposta_correta": "C",
+    "id": "EF0407",
+    "numero_ordem": 407,
+    "fundamentacao_correta": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a [C]: 'rubéola'.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -306,10 +292,6 @@
       },
       {
         "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "C",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
@@ -321,6 +303,7 @@
   },
   {
     "codigo_origem": "Q2477205",
+    "numero_original": 423,
     "banca": "SELECON",
     "orgao": "Prefeitura de Água Boa - MT",
     "ano": 2024,
@@ -347,10 +330,10 @@
         "texto": "tifo"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0423",
-    "numero_ordem": 423,
-    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "resposta_correta": "C",
+    "id": "EF0416",
+    "numero_ordem": 416,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [C] ('tétano') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -358,10 +341,6 @@
       },
       {
         "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "C",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
@@ -373,6 +352,7 @@
   },
   {
     "codigo_origem": "Q2467333",
+    "numero_original": 469,
     "banca": "SELECON",
     "orgao": "Prefeitura de Água Boa - MT",
     "ano": 2024,
@@ -399,10 +379,10 @@
         "texto": "leptospirose 470 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Prefeitura de Água Boa - MT Prova: SELECON - 2024 - Prefeitura de Água Boa - MT - Agente"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0469",
-    "numero_ordem": 469,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "D",
+    "id": "EF0462",
+    "numero_ordem": 462,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('leptospirose 470 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Prefeitura de Água Boa - MT Prova: SELECON - 2024 - Prefeitura de Água Boa - MT - Agente') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -415,16 +395,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'ascaridíase...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'leptospirose 470 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde ...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('leptospirose 470 Ano: ..."
   },
   {
     "codigo_origem": "Q2454933",
+    "numero_original": 481,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sapezal - MT",
     "ano": 2024,
@@ -451,10 +428,10 @@
         "texto": "sangramento e perda de peso"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0481",
-    "numero_ordem": 481,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "C",
+    "id": "EF0474",
+    "numero_ordem": 474,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [C] ('falta de ar e perda de apetite') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -465,18 +442,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'perda de peso e náuseas...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'falta de ar e perda de apetite...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'sangramento e perda de peso...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [C] ('falta de ar e perda de..."
   },
   {
     "codigo_origem": "Q2453000",
+    "numero_original": 499,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sapezal - MT",
     "ano": 2024,
@@ -503,10 +477,10 @@
         "texto": "30 a 180 dias"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0499",
-    "numero_ordem": 499,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "D",
+    "id": "EF0492",
+    "numero_ordem": 492,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('30 a 180 dias') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -519,52 +493,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois '30 a 120 dias...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois '30 a 180 dias...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
-  },
-  {
-    "codigo_origem": "Q3674535",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Dourados - MS",
-    "ano": 2023,
-    "prova": "SELECON - 2023 - Prefeitura de Dourados - MS -",
-    "cargo": "Enfermeiro",
-    "materia": "Enfermagem",
-    "assunto": "Doenças Infecciosas e parasitárias",
-    "enunciado": "A classificação do HIV é feita por meio da análise filogenética de sequências nucleotídicas dos vírus. A classificação atual é hierárquica e consiste em tipos, grupos, subtipos e formas recombinantes. O HIV-1 e o HIV-2 são tipos distintos do vírus, mais distantes filogeneticamente. O HIV-1 é subdividido em quatro grupos chamados:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "B"
-      },
-      {
-        "id": "C",
-        "texto": "D AG, CG, UG e JG J X, P G , W Y e J U WR, CG, VG e LG MG , N G , O G e P G 515 Ano: 2023"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0514",
-    "numero_ordem": 514,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'D AG, CG, UG e JG J X, P G , W Y e J U WR, CG, VG e LG MG , N G , O G e P G 515 Ano: ...' não atende às diretrizes oficiais do Ministério da Saúde."
-      }
-    ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('30 a 180 dias') fundam..."
   },
   {
     "codigo_origem": "Q3674530",
+    "numero_original": 519,
     "banca": "SELECON",
     "orgao": "Prefeitura de Dourados - MS",
     "ano": 2023,
@@ -591,15 +526,11 @@
         "texto": "doença pulmonar obstrutiva crônica (DPOC) 520 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0519",
-    "numero_ordem": 519,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "A",
+    "id": "EF0511",
+    "numero_ordem": 511,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('síndrome da angústia respiratória aguda (SARA)') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'síndrome da angústia respiratória aguda (SARA)...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'insuficiência cardíaca congestiva global (ICC)...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -613,10 +544,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'doença pulmonar obstrutiva crônica (DPOC) 520 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('síndrome da angústia r..."
   },
   {
     "codigo_origem": "Q3674523",
+    "numero_original": 526,
     "banca": "SELECON",
     "orgao": "Prefeitura de Dourados - MS",
     "ano": 2023,
@@ -643,10 +575,10 @@
         "texto": "hepatomegalia maior que 2cm abaixo do rebordo costal, sangramento de mucosa e aumento progressivo do hematócrito 527 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0526",
-    "numero_ordem": 526,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "D",
+    "id": "EF0518",
+    "numero_ordem": 518,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('hepatomegalia maior que 2cm abaixo do rebordo costal, sangramento de mucosa e aumento progressivo do hematócrito 527 Ano: 2023') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -659,16 +591,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'dor no corpo e articulações, epigastralgia com queimação e queda progressiva dos leuc...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'hepatomegalia maior que 2cm abaixo do rebordo costal, sangramento de mucosa e aumento...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('hepatomegalia maior qu..."
   },
   {
     "codigo_origem": "Q3674515",
+    "numero_original": 534,
     "banca": "SELECON",
     "orgao": "Prefeitura de Dourados - MS",
     "ano": 2023,
@@ -695,18 +624,14 @@
         "texto": "neurotoxidade, paralisia da musculatura, atresia esofagiana e ânus imperfurado 535 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0534",
-    "numero_ordem": 534,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "B",
+    "id": "EF0526",
+    "numero_ordem": 526,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('espasticidade, convulsões, irritabilidade e disfunção do tronco encefálico') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'herpes zoster, hepatite, convulsões e disartrias...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'espasticidade, convulsões, irritabilidade e disfunção do tronco encefálico...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -717,10 +642,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'neurotoxidade, paralisia da musculatura, atresia esofagiana e ânus imperfurado 535 An...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('espasticidade, convuls..."
   },
   {
     "codigo_origem": "Q3584425",
+    "numero_original": 549,
     "banca": "SELECON",
     "orgao": "Prefeitura de Lucas do Rio Verde - MT",
     "ano": 2023,
@@ -747,10 +673,10 @@
         "texto": "a segunda manifestação clínica, pois o agravamento, em geral, é lento, diferente do que ocorre no adulto, que é súbito, em que os sinais de alarme são mais facilmente detectados 550 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0549",
-    "numero_ordem": 549,
-    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "resposta_correta": "C",
+    "id": "EF0541",
+    "numero_ordem": 541,
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [C] ('a primeira manifestação clínica, pois o agravamento, em geral, é súbito, diferente do que ocorre no adulto, que é gradual, em que os sinais de alarme são mais facilmente detectados') representa a conduta científica e clinicamente recomendada.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -758,10 +684,6 @@
       },
       {
         "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'a primeira manifestação clínica, pois o agravamento, em geral, é súbito, diferente do...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'a primeira manifestação clínica, pois o agravamento, em geral, é súbito, diferente do...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
@@ -773,6 +695,7 @@
   },
   {
     "codigo_origem": "Q3584424",
+    "numero_original": 550,
     "banca": "SELECON",
     "orgao": "Prefeitura de Lucas do Rio Verde - MT",
     "ano": 2023,
@@ -799,10 +722,10 @@
         "texto": "febre de início súbito e surgimento de intensa poliartralgia, geralmente acompanhada de dores nas costas, rash cutâneo (presente em mais de 50% dos casos), cefaleia e fadiga, com duração média de sete dias 551 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0550",
-    "numero_ordem": 550,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "D",
+    "id": "EF0542",
+    "numero_ordem": 542,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('febre de início súbito e surgimento de intensa poliartralgia, geralmente acompanhada de dores nas costas, rash cutâneo (presente em mais de 50% dos casos), cefaleia e fadiga, com duração média de sete dias 551 Ano: 2023') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -815,16 +738,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'astenia, recorrência do prurido generalizado, exantema maculopapular, surgimento de l...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'febre de início súbito e surgimento de intensa poliartralgia, geralmente acompanhada ...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('febre de início súbito..."
   },
   {
     "codigo_origem": "Q2342289",
+    "numero_original": 556,
     "banca": "SELECON",
     "orgao": "Empresa Cuiabana de Saúde Pública - MT",
     "ano": 2023,
@@ -851,10 +771,10 @@
         "texto": "recente (primária, secundária e latente recente), com até um ano de evolução; e tardia (latente tardia e terciária), com mais de um ano de evolução"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0556",
-    "numero_ordem": 556,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "D",
+    "id": "EF0548",
+    "numero_ordem": 548,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('recente (primária, secundária e latente recente), com até um ano de evolução; e tardia (latente tardia e terciária), com mais de um ano de evolução') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -867,16 +787,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'recente (primária, secundária e terciária), com até dois anos de evolução; e tardia (...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'recente (primária, secundária e latente recente), com até um ano de evolução; e tardi...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('recente (primária, sec..."
   },
   {
     "codigo_origem": "Q2310581",
+    "numero_original": 616,
     "banca": "SELECON",
     "orgao": "Prefeitura de Primavera do Leste - MT",
     "ano": 2023,
@@ -903,15 +820,11 @@
         "texto": "14 a 60 dias, sendo mais frequente entre 16 e 24 dias 617 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0616",
-    "numero_ordem": 616,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "A",
+    "id": "EF0608",
+    "numero_ordem": 608,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('1 a 30 dias, sendo mais frequente entre 5 e 14 dias') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois '1 a 30 dias, sendo mais frequente entre 5 e 14 dias...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois '7 a 40 dias, sendo mais frequente entre 7 e 14 dias...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -925,10 +838,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois '14 a 60 dias, sendo mais frequente entre 16 e 24 dias 617 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('1 a 30 dias, sendo mai..."
   },
   {
     "codigo_origem": "Q1313680",
+    "numero_original": 818,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2020,
@@ -955,10 +869,10 @@
         "texto": "dor articular, dor musculoesquelética e dor neuropática 819 Ano: 2020"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0818",
-    "numero_ordem": 818,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "D",
+    "id": "EF0810",
+    "numero_ordem": 810,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('dor articular, dor musculoesquelética e dor neuropática 819 Ano: 2020') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -971,16 +885,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'cefaleia, eczema e tenosinovite com edema grave...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'dor articular, dor musculoesquelética e dor neuropática 819 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('dor articular, dor mus..."
   },
   {
     "codigo_origem": "Q2710376",
+    "numero_original": 824,
     "banca": "SELECON",
     "orgao": "Prefeitura de Campo Grande - MS",
     "ano": 2019,
@@ -1007,18 +918,14 @@
         "texto": "higiene das mãos e precaução de barreira máxima com uso de gorro, máscara, avental, campos longos e luvas de procedimento 825 Ano: 2019"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0824",
-    "numero_ordem": 824,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "B",
+    "id": "EF0816",
+    "numero_ordem": 816,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('higiene das mãos e precaução de barreira máxima com uso de gorro, máscara, avental, campos longos e luvas estéreis') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'dispensa da necessidade de precaução de barreira máxima com uso de gorro, máscara, av...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'higiene das mãos e precaução de barreira máxima com uso de gorro, máscara, avental, c...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -1029,10 +936,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'higiene das mãos e precaução de barreira máxima com uso de gorro, máscara, avental, c...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('higiene das mãos e pre..."
   },
   {
     "codigo_origem": "Q2698329",
+    "numero_original": 849,
     "banca": "SELECON",
     "orgao": "Prefeitura Municipal",
     "ano": 2019,
@@ -1041,16 +949,47 @@
     "materia": "Enfermagem",
     "assunto": "Doenças Infecciosas e parasitárias",
     "enunciado": "",
-    "alternativas": [],
-    "resposta_correta": "",
-    "id": "EF0849",
-    "numero_ordem": 849,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
-    "analise_distratores": [],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "sífilis recente (mais de um ano de duração) e sífilis tardia (menos de um mês de duração)"
+      },
+      {
+        "id": "B",
+        "texto": "sífilis recente (mais de dois anos de duração) e sífilis tardia (menos de cinco anos de duração)"
+      },
+      {
+        "id": "C",
+        "texto": "sífilis recente (menos de um ano de duração) e sífilis tardia (mais de um ano de duração)"
+      },
+      {
+        "id": "D",
+        "texto": "sífilis recente (mais de três anos de duração) e sífilis tardia (menos de um mês de duração) 850 Ano: 2019"
+      }
+    ],
+    "resposta_correta": "C",
+    "id": "EF0841",
+    "numero_ordem": 841,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [C] ('sífilis recente (menos de um ano de duração) e sífilis tardia (mais de um ano de duração)') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'sífilis recente (mais de um ano de duração) e sífilis tardia (menos de um mês de dura...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'sífilis recente (mais de dois anos de duração) e sífilis tardia (menos de cinco anos ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'sífilis recente (mais de três anos de duração) e sífilis tardia (menos de um mês de d...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [C] ('sífilis recente (menos..."
   },
   {
     "codigo_origem": "Q1242250",
+    "numero_original": 878,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2019,
@@ -1077,15 +1016,11 @@
         "texto": "à família Clostridiaceae e ao gênero Clostridium"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0878",
-    "numero_ordem": 878,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "A",
+    "id": "EF0870",
+    "numero_ordem": 870,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('à família Rhabdoviridae e ao gênero Lyssavirus') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'à família Rhabdoviridae e ao gênero Lyssavirus...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'à família Flaviviridae e ao gênero Flavivirus...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -1099,6 +1034,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'à família Clostridiaceae e ao gênero Clostridium...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('à família Rhabdovirida..."
   }
 ]

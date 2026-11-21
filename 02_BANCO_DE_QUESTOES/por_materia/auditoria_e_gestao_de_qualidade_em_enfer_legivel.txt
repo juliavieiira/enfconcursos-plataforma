@@ -10,17 +10,16 @@ Durante auditoria interna em hospital de médio porte, constatou-se que o enferm
   [C] ausência de avaliação configura falha predominantemente administrativa, restrita ao registro documental, não interferindo de maneira direta na qualidade e na segurança da assistência prestada
   [D] avaliação pode ser realizada por qualquer membro da equipe de enfermagem, desde que sob supervisão do enfermeiro responsável técnico pela unidade 108 Ano: 2026
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: B
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [B] ('Processo de Enfermagem foi executado de forma incompleta, pois a avaliação constitui etapa obrigatória, interdependente e determinante para a continuidade, a modificação ou o encerramento do plano de cuidados estabelecido') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'execução das etapas de coleta de dados, a formulação diagnóstica, o planejamento e a ...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'Processo de Enfermagem foi executado de forma incompleta, pois a avaliação constitui ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'ausência de avaliação configura falha predominantemente administrativa, restrita ao r...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'avaliação pode ser realizada por qualquer membro da equipe de enfermagem, desde que s...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 2 [Código: EF0573] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 2 [Código: EF0565] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Enfermeiro
 Assunto: Auditoria e Gestão de Qualidade em Enfermagem
 Pública - MT - Enfermeiro Auditor A tendência da função do enfermeiro auditor, em torno de uma concepção mesclada de controle de custo e de melhoria da qualidade, pode resultar de um panorama de reestruturação da produção em saúde demarcada por uma nova lógica de gestão das organizações, denominada atenção:
 
@@ -29,17 +28,16 @@ Pública - MT - Enfermeiro Auditor A tendência da função do enfermeiro audito
   [C] normatizada
   [D] integralizada 574 Ano: 2023 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Empresa Cuiabana de Saúde Pública - MT Prova: SELECON - 2023 - Empresa Cuiabana de Saúde
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('gerenciada') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'assistencial...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'normatizada...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'integralizada 574 Ano: 2023 Enfermagem > Legislação em Saúde , Sistema Único de Saúde...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 3 [Código: EF0575] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 3 [Código: EF0567] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Enfermeiro
 Assunto: Auditoria e Gestão de Qualidade em Enfermagem
 Pública - MT - Enfermeiro Auditor No processo de auditoria em enfermagem, a etapa que aponta problemas administrativos, sejam eles diagnósticos de Enfermagem, colaborativos, reais, potenciais ou possíveis, denomina-se:
 
@@ -48,17 +46,16 @@ Pública - MT - Enfermeiro Auditor No processo de auditoria em enfermagem, a eta
   [C] implantação
   [D] coleta de dados 576 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: B
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [B] ('diagnóstico') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'diagnóstico...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'implantação...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'coleta de dados 576 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 4 [Código: EF0576] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 4 [Código: EF0568] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Enfermeiro
 Assunto: Auditoria e Gestão de Qualidade em Enfermagem
 Pública - MT - Enfermeiro Auditor Durante uma auditoria, o profissional de enfermagem identifica uma infração cometida por um enfermeiro. A conduta adequada do enfermeiro auditor deverá ser:
 
@@ -67,17 +64,16 @@ Pública - MT - Enfermeiro Auditor Durante uma auditoria, o profissional de enfe
   [C] apurar a infração em processo instaurado e conduzido nos termos do Código de Processo Ético-Disciplinar vigente, aprovado pelo Conselho Federal de Enfermagem
   [D] suspender e cassar o profissional, que terá sua carteira retida no ato da notificação, em todas as categorias em que for inscrito, sendo devolvida após o cumprimento da pena e, no caso da cassação, após o processo de reabilitação 577 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: C
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [C] ('apurar a infração em processo instaurado e conduzido nos termos do Código de Processo Ético-Disciplinar vigente, aprovado pelo Conselho Federal de Enfermagem') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'aplicar advertência verbal ao infrator, de forma reservada, que será registrada em se...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'aplicar multa de pagamento de 1 (um) a 10 (dez) vezes o valor da anuidade da categori...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'apurar a infração em processo instaurado e conduzido nos termos do Código de Processo...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'suspender e cassar o profissional, que terá sua carteira retida no ato da notificação...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 5 [Código: EF0577] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Técnico de Enfermagem
+QUESTÃO 5 [Código: EF0569] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Técnico de Enfermagem
 Assunto: Auditoria e Gestão de Qualidade em Enfermagem
 Pública - MT - Enfermeiro Auditor Determinado profissional deve ter conhecimento técnico sobre o assunto a ser discutido, sobre os insumos utilizados, ter visão holística do processo assistencial, como qualidade de gestão clínica, qualidade de assistência por linha de cuidado e quântico-econômico-financeiro, tendo sempre em vista o bemestar do ser humano enquanto paciente/cliente. Tal conjunto de ações refere-se a atividades:
 
@@ -86,17 +82,16 @@ Pública - MT - Enfermeiro Auditor Determinado profissional deve ter conheciment
   [C] de membros da equipe de enfermagem
   [D] do enfermeiro como integrante da equipe multidisciplinar de auditoria 578 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('do enfermeiro como integrante da equipe multidisciplinar de auditoria 578 Ano: 2023') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'de gestores em saúde...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'privativas do(a) enfermeiro(a)...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'de membros da equipe de enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'do enfermeiro como integrante da equipe multidisciplinar de auditoria 578 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 6 [Código: EF0578] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 6 [Código: EF0570] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Enfermeiro
 Assunto: Auditoria e Gestão de Qualidade em Enfermagem
 Pública - MT - Enfermeiro Auditor Quanto aos métodos, conforme Marquis e Huston (2005), uma auditoria pode ser prospectiva, operacional ou retrospectiva. O tipo de auditoria que consiste na análise da relação entre os critérios estabelecidos e os dados encontrados na revisão dos registros após a saída do cliente denomina-se:
 
@@ -105,17 +100,16 @@ Pública - MT - Enfermeiro Auditor Quanto aos métodos, conforme Marquis e Husto
   [C] operacional
   [D] retrospectiva 579 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('retrospectiva 579 Ano: 2023') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'prospectiva...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'operacional...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'retrospectiva 579 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 7 [Código: EF0580] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 7 [Código: EF0572] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Enfermeiro
 Assunto: Auditoria e Gestão de Qualidade em Enfermagem
 Pública - MT - Enfermeiro Auditor O Sistema Nacional de Auditoria (SNA), instituído pelo art. 6º da Lei nº 8.689, de 27 de julho de 1993, e regulamentado pelo Decreto nº 1.651, de 28 de setembro de 1995, desdobra-se nos três níveis de gestão que compõem o SUS – Federal, Estadual e Municipal. De acordo com tal regulamentação, a Auditoria classifica-se em:
 
@@ -124,17 +118,16 @@ Pública - MT - Enfermeiro Auditor O Sistema Nacional de Auditoria (SNA), instit
   [C] especial e ordinária
   [D] especial e extraordinária
 
-✅ Gabarito: 
-💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.
+✅ Gabarito: A
+💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [A] ('regular e especial') expressa fielmente o preceito legislativo.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'regular e especial...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'regular e ordinária...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'especial e ordinária...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'especial e extraordinária...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 8 [Código: EF0581] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 8 [Código: EF0573] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Enfermeiro
 Assunto: Auditoria e Gestão de Qualidade em Enfermagem
 Pública - MT - Enfermeiro Auditor Como atividade privativa do(a) enfermeiro(a) auditor(a), destaca-se:
 
@@ -143,17 +136,16 @@ Pública - MT - Enfermeiro Auditor Como atividade privativa do(a) enfermeiro(a) 
   [C] acessar os contratos e adendos pertinentes à instituição a ser auditada, bem como o prontuário do paciente e toda documentação que se fizer necessária, no desempenho de suas atribuições
   [D] organizar, dirigir, planejar, coordenar, avaliar, prestar consultorias, atuar em todas as etapas do processo de auditorias e contra auditorias (recursos de glosas), além de emitir pareceres sobre os serviços de auditoria de enfermagem 582 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('organizar, dirigir, planejar, coordenar, avaliar, prestar consultorias, atuar em todas as etapas do processo de auditorias e contra auditorias (recursos de glosas), além de emitir pareceres sobre os serviços de auditoria de enfermagem 582 Ano: 2023') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'atuar no planejamento, na execução e na avaliação da proposta assistencial...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'atuar na elaboração de programas e atividades da educação permanente, visando à melho...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'acessar os contratos e adendos pertinentes à instituição a ser auditada, bem como o p...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'organizar, dirigir, planejar, coordenar, avaliar, prestar consultorias, atuar em toda...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 9 [Código: EF0826] - Prefeitura de Campo Grande - MS (SELECON 2019) - Enfermeiro
+QUESTÃO 9 [Código: EF0818] - Prefeitura de Campo Grande - MS (SELECON 2019) - Enfermeiro
 Assunto: Auditoria e Gestão de Qualidade em Enfermagem
 A qualidade do cuidado em saúde é composta por diversos atributos e/ou fundamentos oriundos da gestão da qualidade total. Quando o resultado do cuidado, que pode ser positivo ou negativo, foi obtido em uma situação real é definido como:
 
@@ -162,10 +154,9 @@ A qualidade do cuidado em saúde é composta por diversos atributos e/ou fundame
   [C] eficácia
   [D] equidade 827 Ano: 2019
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: A
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [A] ('efetividade') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'efetividade...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'equidade 827 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde.

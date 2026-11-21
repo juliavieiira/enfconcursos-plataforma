@@ -28,12 +28,11 @@ Em determinado município, foi realizado um levantamento que identificou 200 pes
   [C] prevalência, por expressar o total de casos existentes em uma população em determinado período
   [D] mortalidade específica, por relacionar o número de óbitos à população total exposta ao risco da doença
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: C
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [C] ('prevalência, por expressar o total de casos existentes em uma população em determinado período') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
    • Alternativa A: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'incidência, pois considera apenas os novos casos diagnosticados no período anali...'.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'letalidade, por representar a proporção de óbitos entre os casos existentes da doença...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'prevalência, por expressar o total de casos existentes em uma população em determinad...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'mortalidade específica, por relacionar o número de óbitos à população total exposta a...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
@@ -47,12 +46,11 @@ A tuberculose é uma doença infectocontagiosa de transmissão respiratória, co
   [C] interrupção da transmissão da tuberculose envolve a identificação precoce de casos, o tratamento adequado e medidas respiratórias, como ventilação dos ambientes
   [D] vacinação com BCG impede totalmente a infecção pelo Mycobacterium tuberculosis em todas as faixas etárias, sendo considerada suficiente como medida isolada de prevenção 74 Enfermagem > Saúde da Criança e do Adolescente , Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Exame Físico Banca: SELECON Órgão: EMGEPRON Prova: SELECON - 2026 - EMGEPRON - Técnico em Enfermagem
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: C
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [C] ('interrupção da transmissão da tuberculose envolve a identificação precoce de casos, o tratamento adequado e medidas respiratórias, como ventilação dos ambientes') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'principal medida preventiva da tuberculose consiste no uso rotineiro de antibióticos ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'transmissão da tuberculose ocorre principalmente por contato direto com objetos conta...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'interrupção da transmissão da tuberculose envolve a identificação precoce de casos, o...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'vacinação com BCG impede totalmente a infecção pelo Mycobacterium tuberculosis e...'.
 
 ------------------------------------------------------------
@@ -66,10 +64,9 @@ Na análise da situação de saúde de uma região, o enfermeiro utiliza indicad
   [C] coeficiente de mortalidade geral é o indicador mais sensível para avaliar o impacto de intervenções específicas, pois reflete diretamente a qualidade da assistência prestada a grupos populacionais delimitados
   [D] incidência expressa o número de casos novos de uma doença em população sob risco, em determinado período, permitindo estimar a velocidade de ocorrência do agravo e sendo especialmente útil para monitoramento de surtos, doenças transmissíveis e agravos emergentes em um território
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.
+✅ Gabarito: A
+💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [A] ('análise epidemiológica regional deve restringir-se aos dados municipais isolados, uma vez que indicadores agregados por região de saúde comprometem a definição de prioridades locais') aplica com precisão a fórmula e os critérios epidemiológicos.
 ❌ Distratores:
-   • Alternativa A: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'análise epidemiológica regional deve restringir-se aos dados municipais isolados...'.
    • Alternativa B: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'prevalência corresponde exclusivamente aos casos novos registrados em certo perí...'.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'coeficiente de mortalidade geral é o indicador mais sensível para avaliar o impacto d...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'incidência expressa o número de casos novos de uma doença em população sob risco, em ...' não atende às diretrizes oficiais do Ministério da Saúde.
@@ -85,12 +82,11 @@ MT - Enfermeiro Os estudos epidemiológicos observacionais são classificados de
   [C] caso-controle
   [D] ecológico 122 Ano: 2026
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.
+✅ Gabarito: C
+💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [C] ('caso-controle') aplica com precisão a fórmula e os critérios epidemiológicos.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'coorte prospectivo...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'transversal...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'caso-controle...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'ecológico 122 Ano: 2026...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
@@ -104,11 +100,10 @@ MT - Enfermeiro A vigilância epidemiológica das infecções relacionadas à as
   [C] padronizar o uso de antimicrobianos, eliminando a necessidade de culturas microbiológicas rotineiras
   [D] centralizar a coleta de dados em um único setor, minimizando a participação de equipes multidisciplinares 126 Ano: 2026
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: B
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('identificar precocemente surtos, avaliar a efetividade das medidas de controle e direcionar intervenções específicas') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'reduzir exclusivamente a taxa de infecções de sítio cirúrgico em procedimentos d...'.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'identificar precocemente surtos, avaliar a efetividade das medidas de controle e dire...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'padronizar o uso de antimicrobianos, eliminando a necessidade de culturas microbiológ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'centralizar a coleta de dados em um único setor, minimizando a participação de equipe...' não atende às diretrizes oficiais do Ministério da Saúde.
 
@@ -123,11 +118,10 @@ MT - Enfermeiro A relação entre os Determinantes Sociais da Saúde (DSS) e as 
   [C] restrita ao acesso a serviços de saúde, não afetando a incidência dos fatores de risco
   [D] mais forte nas áreas rurais, sendo insignificante nos centros urbanos 128 Ano: 2026
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: B
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('direta e expressiva, na qual grupos em situação de maior vulnerabilidade social apresentam maior risco e pior desfecho para as DANTs') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'de baixa influência, uma vez que as DANTs estão mais ligadas a escolhas individuais d...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'direta e expressiva, na qual grupos em situação de maior vulnerabilidade social apres...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'restrita ao acesso a serviços de saúde, não afetando a incidência dos fatores de risc...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'mais forte nas áreas rurais, sendo insignificante nos centros urbanos 128 Ano: 2026...' não atende às diretrizes oficiais do Ministério da Saúde.
 
@@ -142,10 +136,9 @@ Técnico em Enfermagem Uma unidade de saúde identificou aumento abrupto de caso
   [C] epidemia
   [D] pandemia 143 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.
+✅ Gabarito: A
+💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [A] ('surto') aplica com precisão a fórmula e os critérios epidemiológicos.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'pandemia 143 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde.
@@ -161,11 +154,10 @@ A transição epidemiológica está intrinsecamente ligada à transição demogr
   [C] a predominância de doenças materno-infantis como principal causa de internação hospitalar
   [D] a diminuição da carga de doenças relacionadas a fatores de risco comportamentais, como tabagismo e sedentarismo 162 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.
+✅ Gabarito: B
+💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [B] ('um aumento da prevalência de doenças crônicas degenerativas e da demanda por cuidados de longa duração') aplica com precisão a fórmula e os critérios epidemiológicos.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'uma redução drástica na demanda por serviços de saúde, devido à menor incidência de d...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'um aumento da prevalência de doenças crônicas degenerativas e da demanda por cuidados...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a predominância de doenças materno-infantis como principal causa de internação hospit...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'a diminuição da carga de doenças relacionadas a fatores de risco comportamentais, com...' não atende às diretrizes oficiais do Ministério da Saúde.
 
@@ -180,13 +172,12 @@ O conceito de Transição Epidemiológica descreve um fenômeno global de mudan�
   [C] as causas externas de mortalidade, como violência e acidentes, tornaram-se insignificantes no cenário geral
   [D] as doenças crônico-degenerativas passaram a ser a principal causa de óbitos, superando as doenças infecciosas e parasitárias 168 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.
+✅ Gabarito: D
+💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [D] ('as doenças crônico-degenerativas passaram a ser a principal causa de óbitos, superando as doenças infecciosas e parasitárias 168 Ano: 2025') aplica com precisão a fórmula e os critérios epidemiológicos.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'a mortalidade por doenças infecto-parasitárias aumentou, enquanto as doenças não tran...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'a expectativa de vida diminuiu drasticamente, impulsionada pelo aumento das causas ex...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'as causas externas de mortalidade, como violência e acidentes, tornaram-se insignific...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'as doenças crônico-degenerativas passaram a ser a principal causa de óbitos, superand...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
@@ -199,11 +190,10 @@ A Revolução Neolítica, marcada pelo desenvolvimento da agricultura e da domes
   [C] à diversificação da dieta, que fortaleceu o sistema imunológico e diminuiu a suscetibilidade a infecções
   [D] à menor exposição a novos patógenos, resultante da diminuição da interferência humana nos ecossistemas 169 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.
+✅ Gabarito: B
+💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [B] ('ao estabelecimento de ciclos completos de infecções e endemias, devido à estabilidade de hospedeiros') aplica com precisão a fórmula e os critérios epidemiológicos.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'à redução da transmissão de patógenos em virtude da melhoria das condições de higiene...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'ao estabelecimento de ciclos completos de infecções e endemias, devido à estabilidade...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'à diversificação da dieta, que fortaleceu o sistema imunológico e diminuiu a suscetib...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'à menor exposição a novos patógenos, resultante da diminuição da interferência humana...' não atende às diretrizes oficiais do Ministério da Saúde.
 
@@ -218,10 +208,9 @@ Na investigação epidemiológica de um surto de doença de Chagas aguda em uma 
   [C] transmissão congênita de mães chagásicas
   [D] transmissão por contato sexual com indivíduos infectados
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: A
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('transmissão oral por alimentos contaminados com formas infectantes do parasito') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'transmissão oral por alimentos contaminados com formas infectantes do parasito...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'transfusão sanguínea de doadores infectados...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'transmissão congênita de mães chagásicas...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'transmissão por contato sexual com indivíduos infectados...' não atende às diretrizes oficiais do Ministério da Saúde.
@@ -237,11 +226,10 @@ A análise observacional de dados de prontuários que demonstra uma associação
   [C] a única forma de uma associação entre fármaco e desfecho ser comprometida é pelo viés de aferição, relacionado a erros na medição da exposição ou do resultado
   [D] está sendo descrito um caso de modificação de efeito, no qual o novo fármaco tem um efeito biológico diferente em pacientes mais graves, não se tratando de um viés 207 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.
+✅ Gabarito: B
+💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [B] ('tem-se descrito o viés de confusão por indicação, um tipo específico de fator de confusão em que a gravidade da doença ou o prognóstico do paciente influencia a escolha terapêutica e, simultaneamente, o resultado em saúde') aplica com precisão a fórmula e os critérios epidemiológicos.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'tal cenário descreve um viés de seleção, no qual os grupos de tratamento são incompar...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'tem-se descrito o viés de confusão por indicação, um tipo específico de fator de conf...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a única forma de uma associação entre fármaco e desfecho ser comprometida é pelo viés...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'está sendo descrito um caso de modificação de efeito, no qual o novo fármaco tem um e...' não atende às diretrizes oficiais do Ministério da Saúde.
 
@@ -256,12 +244,11 @@ ANHH - Nível I - Grau A - Enfermeiro A hemovigilância é um componente essenci
   [C] as reações transfusionais febris não hemolíticas são comuns e, embora sejam menos graves, devem ser notificadas e investigadas para prevenir recorrências e melhorar a segurança transfusional
   [D] a hemovigilância é uma atribuição exclusiva do enfermeiro responsável pela transfusão, não havendo necessidade de envolver outros profissionais da equipe de saúde 254 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.
+✅ Gabarito: C
+💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [C] ('as reações transfusionais febris não hemolíticas são comuns e, embora sejam menos graves, devem ser notificadas e investigadas para prevenir recorrências e melhorar a segurança transfusional') aplica com precisão a fórmula e os critérios epidemiológicos.
 ❌ Distratores:
    • Alternativa A: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a notificação de eventos adversos transfusionais é obrigatória apenas para reaçõ...'.
    • Alternativa B: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a hemovigilância envolve a coleta e análise sistemática de dados relacionados a ...'.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'as reações transfusionais febris não hemolíticas são comuns e, embora sejam menos gra...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a hemovigilância é uma atribuição exclusiva do enfermeiro responsável pela trans...'.
 
 ------------------------------------------------------------
@@ -275,17 +262,16 @@ ANHH - Nível I - Grau A - Assistente Social A parte da hemovigilância que trat
   [C] calibração
   [D] validação
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: B
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('retrovigilância') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'sistema de qualidade...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'retrovigilância...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
 
 ------------------------------------------------------------
 
-QUESTÃO 16 [Código: EF0285] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 16 [Código: EF0284] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
 Assunto: Epidemiologia e Vigilância Epidemiológica
 Enfermagem Em uma unidade de saúde de uma cidade de médio porte, um enfermeiro está conduzindo um estudo epidemiológico sobre a ocorrência de doenças respiratórias em crianças menores de 5 anos. Durante um período de 12 meses, ele registra 120 casos de doenças respiratórias entre 1.000 crianças dessa faixa etária cadastradas na unidade de saúde. Com base nesse cenário, a medida epidemiológica mais adequada para descrever a proporção de crianças que apresentaram doenças respiratórias durante o ano é:
 
@@ -294,17 +280,16 @@ Enfermagem Em uma unidade de saúde de uma cidade de médio porte, um enfermeiro
   [C] prevalência, pois descreve a proporção de crianças que apresentaram doenças respiratórias em relação ao total de crianças da população durante o período de estudo
   [D] risco relativo, pois compara a ocorrência de doenças respiratórias em diferentes grupos de crianças com características diferentes, mas suscetíveis aos mesmos determinantes 286 Enfermagem > Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Fundamentos e Procedimentos de Enfermagem Banca: SELECON Órgão: Prefeitura de Sinop - MT Prova: SELECON - 2025 - Prefeitura de Sinop - MT - Técnico de
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
+✅ Gabarito: C
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [C] ('prevalência, pois descreve a proporção de crianças que apresentaram doenças respiratórias em relação ao total de crianças da população durante o período de estudo') representa a conduta científica e clinicamente recomendada.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'incidência, pois reflete o número de novos casos de doenças respiratórias entre as cr...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'taxa de mortalidade, pois indica o número de óbitos em crianças menores de 5 anos por...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'prevalência, pois descreve a proporção de crianças que apresentaram doenças respirató...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'risco relativo, pois compara a ocorrência de doenças respiratórias em diferentes grup...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 17 [Código: EF0294] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 17 [Código: EF0293] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
 Assunto: Epidemiologia e Vigilância Epidemiológica
 Enfermagem A notificação compulsória, no contexto da vigilância epidemiológica em saúde, é uma prática essencial para o controle de doenças e agravos. A respeito dela, pode-se afirmar que:
 
@@ -313,17 +298,16 @@ Enfermagem A notificação compulsória, no contexto da vigilância epidemiológ
   [C] o não cumprimento da notificação compulsória por parte dos profissionais de saúde é uma prática aceitável, desde que o caso não represente risco significativo para a saúde pública ou para a comunidade
   [D] é um instrumento legal que visa a identificar, monitorar e controlar doenças e agravos à saúde, sendo obrigatória para todos os profissionais de saúde, incluindo médicos, enfermeiros e outros membros da equipe de saúde
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.
+✅ Gabarito: D
+💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [D] ('é um instrumento legal que visa a identificar, monitorar e controlar doenças e agravos à saúde, sendo obrigatória para todos os profissionais de saúde, incluindo médicos, enfermeiros e outros membros da equipe de saúde') aplica com precisão a fórmula e os critérios epidemiológicos.
 ❌ Distratores:
    • Alternativa A: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'deve ser realizada apenas em casos de surtos ou epidemias, não sendo necessária ...'.
    • Alternativa B: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'é uma prática obrigatória apenas para doenças com alta taxa de mortalidade e sua...'.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'o não cumprimento da notificação compulsória por parte dos profissionais de saúde é u...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'é um instrumento legal que visa a identificar, monitorar e controlar doenças e agravo...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 18 [Código: EF0306] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
+QUESTÃO 18 [Código: EF0305] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
 Assunto: Epidemiologia e Vigilância Epidemiológica
 No que tange aos determinantes sociais de saúde, o seguinte fator deve ser priorizado pelo enfermeiro no planejamento de ações para promoção da saúde em uma comunidade em situação de vulnerabilidade social, com alta taxa de mortalidade infantil e de doenças crônicas:
 
@@ -332,17 +316,16 @@ No que tange aos determinantes sociais de saúde, o seguinte fator deve ser prio
   [C] oferecer tratamento medicamentoso gratuito para as doenças crônicas mais prevalentes
   [D] investir em programas de saneamento básico e condições de habitação adequadas 307 Ano: 2025 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Prefeitura de Sinop - MT Prova: SELECON - 2025 - Prefeitura de Sinop - MT - Enfermeiro
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.
+✅ Gabarito: D
+💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [D] ('investir em programas de saneamento básico e condições de habitação adequadas 307 Ano: 2025 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Prefeitura de Sinop - MT Prova: SELECON - 2025 - Prefeitura de Sinop - MT - Enfermeiro') aplica com precisão a fórmula e os critérios epidemiológicos.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'melhorar o acesso à saúde através da ampliação de unidades básicas de saúde...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'garantir educação em saúde sobre hábitos alimentares saudáveis e cuidados preventivos...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'oferecer tratamento medicamentoso gratuito para as doenças crônicas mais prevalentes...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'investir em programas de saneamento básico e condições de habitação adequadas 307 Ano...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 19 [Código: EF0327] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 19 [Código: EF0326] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Enfermeiro
 Assunto: Epidemiologia e Vigilância Epidemiológica
 Assinale o conceito epidemiológico que corresponde à medida de eventos existentes em uma população em um determinado período de tempo:
 
@@ -351,17 +334,16 @@ Assinale o conceito epidemiológico que corresponde à medida de eventos existen
   [C] causalidade
   [D] prevalência 328 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.
+✅ Gabarito: D
+💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [D] ('prevalência 328 Ano: 2024') aplica com precisão a fórmula e os critérios epidemiológicos.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'causalidade...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'prevalência 328 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 20 [Código: EF0341] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 20 [Código: EF0340] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
 Assunto: Epidemiologia e Vigilância Epidemiológica
 “Comportamento das doenças numa população exposta ao adoecimento, cujos índices permitem conhecer que doenças existem habitualmente na área, no período e na população estudada (prevalência), e quais os novos casos das doenças na mesma área, período e população (incidência)”. O excerto destacado diz respeito à noção de:
 
@@ -371,18 +353,17 @@ Assunto: Epidemiologia e Vigilância Epidemiológica
   [D] vigilância
   [E] morbimortalidade 342 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.
+✅ Gabarito: B
+💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [B] ('morbidade') aplica com precisão a fórmula e os critérios epidemiológicos.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'mortalidade...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa E: Incorreta perante os protocolos técnicos, pois 'morbimortalidade 342 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 21 [Código: EF0342] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 21 [Código: EF0341] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
 Assunto: Epidemiologia e Vigilância Epidemiológica
 O modelo assistencial capaz de reverter a lógica de atender somente as doenças, pois visa à articulação entre as ações preventivas e curativas, de caráter individual e de alcance coletivo, e ao reconhecimento das dimensões biológica, ambiental e social dos problemas de saúde é denominado:
 
@@ -392,10 +373,9 @@ O modelo assistencial capaz de reverter a lógica de atender somente as doenças
   [D] epidemiologia
   [E] saúde 343 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.
+✅ Gabarito: A
+💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [A] ('vigilância em saúde') aplica com precisão a fórmula e os critérios epidemiológicos.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'vigilância em saúde...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'saúde individual...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'saúde pública...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'epidemiologia...' não atende às diretrizes oficiais do Ministério da Saúde.
@@ -403,7 +383,7 @@ O modelo assistencial capaz de reverter a lógica de atender somente as doenças
 
 ------------------------------------------------------------
 
-QUESTÃO 22 [Código: EF0345] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 22 [Código: EF0344] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
 Assunto: Epidemiologia e Vigilância Epidemiológica
 “Sistema lançado em 2020 para receber notificações de Síndrome Gripal (SG) suspeita e confirmada de Covid-19 no Brasil. Trata-se de um sistema online com infraestrutura de alta performance, a fim de garantir agilidade no processo de notificação. Por ser online, possibilita que todos os níveis de gestão, profissionais e unidades de saúde tenham acesso em tempo real às notificações realizadas”. Esse sistema denominase:
 
@@ -413,18 +393,17 @@ Assunto: Epidemiologia e Vigilância Epidemiológica
   [D] SISPNCD
   [E] SIM 346 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.
+✅ Gabarito: C
+💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [C] ('e-SUS Notifica') aplica com precisão a fórmula e os critérios epidemiológicos.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'e-SUS Notifica...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa E: Incorreta perante os protocolos técnicos, pois 'SIM 346 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 23 [Código: EF0372] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 23 [Código: EF0369] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Epidemiologia e Vigilância Epidemiológica
 As doenças infecciosas novas, ou identificadas recentemente, que têm impacto no ser humano por sua gravidade e cuja incidência aumentou nas últimas décadas, ou tende a aumentar em um futuro próximo, são chamadas de:
 
@@ -434,18 +413,17 @@ As doenças infecciosas novas, ou identificadas recentemente, que têm impacto n
   [D] sistêmicas
   [E] urgentes 373 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: C
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [C] ('emergentes') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa E: Incorreta perante os protocolos técnicos, pois 'urgentes 373 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 24 [Código: EF0381] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 24 [Código: EF0378] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Epidemiologia e Vigilância Epidemiológica
 “O momento é de intensificar os esforços e as medidas de prevenção, por parte de todos, para reduzir a transmissão da doença. A principal medida é a eliminação dos criadouros do mosquito – 75% deles localizados dentro e no entorno dos domicílios. Daí a importância de receber os agentes de combate a endemias e agentes comunitários de saúde, que vão ajudar a encontrar e eliminar possíveis criadouros”. Tal excerto refere-se a:
 
@@ -455,18 +433,17 @@ Assunto: Epidemiologia e Vigilância Epidemiológica
   [D] leptospirose
   [E] leishmaniose 382 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.
+✅ Gabarito: B
+💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [B] ('dengue') aplica com precisão a fórmula e os critérios epidemiológicos.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'leptospirose...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa E: Incorreta perante os protocolos técnicos, pois 'leishmaniose 382 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 25 [Código: EF0383] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 25 [Código: EF0380] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Epidemiologia e Vigilância Epidemiológica
 Os sistemas de saúde têm a necessidade de estabelecer sistemas de vigilância com o objetivo de conhecer o processo de saúde-doença na população e, assim, planejar as ações. As etapas e atividades básicas do sistema de vigilância são:
 
@@ -476,10 +453,9 @@ Os sistemas de saúde têm a necessidade de estabelecer sistemas de vigilância 
   [D] coleta e análise de dados, divulgação dos resultados
   [E] análise de dados e divulgação dos resultados 384 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.
+✅ Gabarito: A
+💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [A] ('coleta e análise de dados, interpretação e divulgação da informação') aplica com precisão a fórmula e os critérios epidemiológicos.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'coleta e análise de dados, interpretação e divulgação da informação...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'coleta e interpretação dos dados, divulgação dos resultados...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'coleta e interpretação dos dados, divulgação da informação...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'coleta e análise de dados, divulgação dos resultados...' não atende às diretrizes oficiais do Ministério da Saúde.
@@ -487,7 +463,7 @@ Os sistemas de saúde têm a necessidade de estabelecer sistemas de vigilância 
 
 ------------------------------------------------------------
 
-QUESTÃO 26 [Código: EF0385] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 26 [Código: EF0382] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Epidemiologia e Vigilância Epidemiológica
 Com a aplicação da epidemiologia, utiliza-se um processo baseado na microlocalização dos problemas de saúde e utilização das informações referentes ao território-processo, que se denomina:
 
@@ -497,18 +473,17 @@ Com a aplicação da epidemiologia, utiliza-se um processo baseado na microlocal
   [D] territorialização
   [E] microlocalização 386 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.
+✅ Gabarito: D
+💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [D] ('territorialização') aplica com precisão a fórmula e os critérios epidemiológicos.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'normatização...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'integralização...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'territorialização...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa E: Incorreta perante os protocolos técnicos, pois 'microlocalização 386 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 27 [Código: EF0394] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 27 [Código: EF0390] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Epidemiologia e Vigilância Epidemiológica
 Entende-se a vigilância como a observação sistemática e contínua da frequência, da distribuição e dos determinantes dos eventos de saúde e suas tendências na população. Esse conceito tem dois componentes práticos, os quais são:
 
@@ -518,10 +493,9 @@ Entende-se a vigilância como a observação sistemática e contínua da frequê
   [D] coleta de dados e mensuração
   [E] coleta de dados e interpretação 395 Ano: 2024 Enfermagem > Biossegurança em Enfermagem , Higiene nos Procedimentos de Enfermagem , Fundamentos e Procedimentos de Enfermagem Banca: SELECON Órgão: SAD-MS Prova: SELECON - 2024 - SAD-MS - Enfermeiro
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.
+✅ Gabarito: A
+💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [A] ('mensuração e comparação') aplica com precisão a fórmula e os critérios epidemiológicos.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'mensuração e comparação...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'mensuração e interpretação...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'coleta de dados e comparação...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'coleta de dados e mensuração...' não atende às diretrizes oficiais do Ministério da Saúde.
@@ -529,7 +503,7 @@ Entende-se a vigilância como a observação sistemática e contínua da frequê
 
 ------------------------------------------------------------
 
-QUESTÃO 28 [Código: EF0402] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 28 [Código: EF0397] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Epidemiologia e Vigilância Epidemiológica
 O estudo da frequência e distribuição dos eventos de saúde e dos seus determinantes nas populações humanas e a aplicação deste estudo na prevenção e controle dos problemas de saúde,
 
@@ -539,18 +513,17 @@ O estudo da frequência e distribuição dos eventos de saúde e dos seus determ
   [D] epidemiologia
   [E] saúde integral
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.
+✅ Gabarito: D
+💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [D] ('epidemiologia') aplica com precisão a fórmula e os critérios epidemiológicos.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'prevalência...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'saúde pública...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'epidemiologia...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa E: Incorreta perante os protocolos técnicos, pois 'saúde integral...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 29 [Código: EF0403] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 29 [Código: EF0398] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Epidemiologia e Vigilância Epidemiológica
 Em 2020, foi lançado um sistema de notificação para receber notificações de Síndrome Gripal (SG) suspeita e confirmada de Covid-19 no Brasil. É online e possibilita que todos os níveis de gestão, profissionais e unidades de saúde tenham acesso em tempo real às notificações realizadas. Este sistema denomina-se:
 
@@ -560,18 +533,17 @@ Em 2020, foi lançado um sistema de notificação para receber notificações de
   [D] SINASC
   [E] e-SUS Notifica 404 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.
+✅ Gabarito: E
+💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [E] ('e-SUS Notifica 404 Ano: 2024') aplica com precisão a fórmula e os critérios epidemiológicos.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa E: Incorreta perante os protocolos técnicos, pois 'e-SUS Notifica 404 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 30 [Código: EF0407] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 30 [Código: EF0400] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Epidemiologia e Vigilância Epidemiológica
 O número de óbitos de menores de um ano de idade, por mil nascidos vivos, na população residente em determinado espaço geográfico, no ano/período considerado refere-se à taxa de:
 
@@ -581,18 +553,17 @@ O número de óbitos de menores de um ano de idade, por mil nascidos vivos, na p
   [D] mortalidade infantil
   [E] morbimortalidade infantil 408 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.
+✅ Gabarito: D
+💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [D] ('mortalidade infantil') aplica com precisão a fórmula e os critérios epidemiológicos.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'nasci-vivos...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'morbimortalidade...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'mortalidade infantil...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa E: Incorreta perante os protocolos técnicos, pois 'morbimortalidade infantil 408 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 31 [Código: EF0450] - Prefeitura de Água Boa - MT (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 31 [Código: EF0443] - Prefeitura de Água Boa - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Epidemiologia e Vigilância Epidemiológica
 Enfermagem A notificação compulsória deve ser realizada por meio do Sistema de Informação de Agravos de Notificação (Sinan), que é alimentado, principalmente, pela notificação e investigação de casos de doenças e agravos que constam da lista nacional de doenças de notificação compulsória, como por exemplo o/a:
 
@@ -601,17 +572,16 @@ Enfermagem A notificação compulsória deve ser realizada por meio do Sistema d
   [C] fibrose cística
   [D] acidente de trabalho
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.
+✅ Gabarito: D
+💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [D] ('acidente de trabalho') aplica com precisão a fórmula e os critérios epidemiológicos.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'hipertensão...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'diabetes tipo I...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'fibrose cística...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'acidente de trabalho...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 32 [Código: EF0451] - Prefeitura de Água Boa - MT (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 32 [Código: EF0444] - Prefeitura de Água Boa - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Epidemiologia e Vigilância Epidemiológica
 Enfermagem A manifestação clínica de um desequilíbrio no sistema parasito-hospedeiro-ambiente, causado pelo aumento da patogenicidade do parasita em relação aos mecanismos de defesa anti-infecciosa do hospedeiro, ou seja, pela quebra da relação harmoniosa entre as defesas do nosso corpo, o número e a virulência dos germes, propiciando a invasão deles nos órgãos do corpo, é denominada doença:
 
@@ -620,17 +590,16 @@ Enfermagem A manifestação clínica de um desequilíbrio no sistema parasito-ho
   [C] sistêmica
   [D] crônica 452 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Prefeitura de Água Boa - MT Prova: SELECON - 2024 - Prefeitura de Água Boa - MT - Técnico em
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: B
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('infecciosa') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'ocupacional...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'crônica 452 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constitu...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 33 [Código: EF0486] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 33 [Código: EF0479] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Epidemiologia e Vigilância Epidemiológica
 Enfermagem Os microrganismos, geneticamente modificados ou não, as culturas de células, os parasitas, as toxinas e os príons são considerados, de acordo com a Norma Regulamentadora 32, agentes:
 
@@ -639,17 +608,16 @@ Enfermagem Os microrganismos, geneticamente modificados ou não, as culturas de 
   [C] contaminantes
   [D] infectocontagiosos
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.
+✅ Gabarito: B
+💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [B] ('biológicos') aplica com precisão a fórmula e os critérios epidemiológicos.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'contaminantes...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'infectocontagiosos...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 34 [Código: EF0512] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 34 [Código: EF0505] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
 Assunto: Epidemiologia e Vigilância Epidemiológica
 Os sistemas de saúde viram-se na obrigação e necessidade de estabelecer sistemas de vigilância, com o objetivo de conhecer o processo de saúde-doença na população. As etapas e as atividades básicas do sistema de vigilância são:
 
@@ -658,17 +626,16 @@ Os sistemas de saúde viram-se na obrigação e necessidade de estabelecer siste
   [C] coleta e análise de dados, interpretação e divulgação da informação
   [D] pesquisa e interpretação das informações, divulgação dos resultados 513 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.
+✅ Gabarito: C
+💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [C] ('coleta e análise de dados, interpretação e divulgação da informação') aplica com precisão a fórmula e os critérios epidemiológicos.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'pesquisa e análise de dados, divulgação dos resultados...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'coleta e interpretação dos dados, divulgação da informação...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'coleta e análise de dados, interpretação e divulgação da informação...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'pesquisa e interpretação das informações, divulgação dos resultados 513 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 35 [Código: EF0525] - Prefeitura de Dourados - MS (SELECON 2023) - Enfermeiro
+QUESTÃO 35 [Código: EF0517] - Prefeitura de Dourados - MS (SELECON 2023) - Enfermeiro
 Assunto: Epidemiologia e Vigilância Epidemiológica , Doenças Infecciosas e parasitárias
 Estima-se que até 1,7 milhão de pessoas adoeçam anualmente por leishmanioses e, dessas, de 20 mil a 30 mil evoluem ao óbito. No Brasil, uma das formas mais frequentes de leishmanioses é a do tipo tegumentar. O período de incubação, ou seja, o tempo em que os sintomas começam a aparecer desde a infecção, em média, é de:
 
@@ -677,17 +644,16 @@ Estima-se que até 1,7 milhão de pessoas adoeçam anualmente por leishmanioses 
   [C] 4 a 5 meses
   [D] 5 a 6 meses 526 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: B
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('2 a 3 meses') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois '1 a 2 meses...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois '2 a 3 meses...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois '4 a 5 meses...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois '5 a 6 meses 526 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 36 [Código: EF0551] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 36 [Código: EF0543] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2023) - Enfermeiro
 Assunto: Epidemiologia e Vigilância Epidemiológica , Doenças Infecciosas e parasitárias
 MT - Enfermeiro 20H Em novembro de 2019, um surto de doença respiratória, causado pelo novo coronavírus (SARS-CoV-2), foi detectado na cidade de Wuhan, na China. O período médio de incubação da infecção por SARS-CoV-2 é estimado em:
 
@@ -696,17 +662,16 @@ MT - Enfermeiro 20H Em novembro de 2019, um surto de doença respiratória, caus
   [C] 15 a 30 dias, com intervalo que pode variar de 14 a 42 dias
   [D] 20 a 40 dias, com intervalo que pode variar de 15 a 45 dias 552 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: A
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('5 a 6 dias, com intervalo que pode variar de 0 a 14 dias') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois '5 a 6 dias, com intervalo que pode variar de 0 a 14 dias...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois '10 a 16 dias, com intervalo que pode variar de 7 a 21 dias...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois '15 a 30 dias, com intervalo que pode variar de 14 a 42 dias...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois '20 a 40 dias, com intervalo que pode variar de 15 a 45 dias 552 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 37 [Código: EF0589] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 37 [Código: EF0581] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
 Assunto: Epidemiologia e Vigilância Epidemiológica
 MT - Enfermeiro Intervencionista - SAMU Segundo a RDC 222/18, os agentes biológicos que provocam infecções no homem ou nos animais, cujo potencial de propagação na comunidade e de disseminação no meio ambiente é limitado, e para os quais existem medidas terapêuticas e profiláticas eficazes, são classificados como de risco:
 
@@ -715,17 +680,16 @@ MT - Enfermeiro Intervencionista - SAMU Segundo a RDC 222/18, os agentes biológ
   [C] 3
   [D] 4 590 Ano: 2023 Enfermagem > Saúde da Criança e do Adolescente , Doenças Infecciosas e parasitárias , Outras Doenças Infecciosas e Parasitárias Banca: SELECON Órgão: Prefeitura de Primavera do Leste - MT Prova: SELECON - 2023 - Prefeitura de Primavera do Leste -
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: B
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('2') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois '4 590 Ano: 2023 Enfermagem > Saúde da Criança e do Adolescente , Doenças Infecciosas ...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 38 [Código: EF0612] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 38 [Código: EF0604] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
 Assunto: Epidemiologia e Vigilância Epidemiológica , Doenças Infecciosas e parasitárias ,
 MT - Enfermeiro(a) Padrão Paciente Maria Clara, 65 anos, deu entrada na emergência com quadro de insuficiência respiratória do tipo hipoxêmica (SPO2: 82%). O enfermeiro instalou oxigenoterapia por meio de cânula nasal a 4 litros por minuto. Nesse caso, a fração inspirada de oxigênio (FIO2) era de aproximadamente:
 
@@ -734,17 +698,16 @@ MT - Enfermeiro(a) Padrão Paciente Maria Clara, 65 anos, deu entrada na emergê
   [C] 37%
   [D] 50% 613 Ano: 2023 Enfermagem > Epidemiologia e Vigilância Epidemiológica , Doenças Infecciosas e parasitárias , Outras Doenças Infecciosas e Parasitárias Banca: SELECON Órgão: Prefeitura de Primavera do Leste - MT Prova: SELECON - 2023 - Prefeitura de Primavera do Leste -
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: C
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [C] ('37%') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
-   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois '50% 613 Ano: 2023 Enfermagem > Epidemiologia e Vigilância Epidemiológica , Doenças In...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 39 [Código: EF0780] - Prefeitura de Boa Vista - RR (SELECON 2024) - Enfermeiro
+QUESTÃO 39 [Código: EF0772] - Prefeitura de Boa Vista - RR (SELECON 2024) - Enfermeiro
 Assunto: Epidemiologia e Vigilância Epidemiológica
 ESF O indicador que mensura a proporção de óbitos de pessoas que morreram com 50 anos ou mais de idade, em relação ao total de óbitos é denominado:
 
@@ -753,17 +716,16 @@ ESF O indicador que mensura a proporção de óbitos de pessoas que morreram com
   [C] Indicador de Swaroop e Uemura
   [D] Indicador de Clark e Breslow
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.
+✅ Gabarito: C
+💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [C] ('Indicador de Swaroop e Uemura') aplica com precisão a fórmula e os critérios epidemiológicos.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'Indicador de Avedis e Donabedian...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'Indicador de Norwood e Ludwigg...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Indicador de Swaroop e Uemura...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Indicador de Clark e Breslow...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 40 [Código: EF0807] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+QUESTÃO 40 [Código: EF0799] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
 Assunto: Epidemiologia e Vigilância Epidemiológica
 São duas doenças que exigem notificação compulsória semanal:
 
@@ -772,17 +734,16 @@ São duas doenças que exigem notificação compulsória semanal:
   [C] raiva humana e varicela
   [D] febre amarela e HIV 808 Ano: 2020
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.
+✅ Gabarito: A
+💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [A] ('esquistossomose e tuberculose') aplica com precisão a fórmula e os critérios epidemiológicos.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'esquistossomose e tuberculose...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'febre tifoide e hanseníase...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'raiva humana e varicela...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'febre amarela e HIV 808 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 41 [Código: EF0875] - Prefeitura de Boa Vista - RR (SELECON 2019) - Técnico de Enfermagem
+QUESTÃO 41 [Código: EF0867] - Prefeitura de Boa Vista - RR (SELECON 2019) - Técnico de Enfermagem
 Assunto: Epidemiologia e Vigilância Epidemiológica
 Técnico - Grupo Especial - Técnico de Enfermagem Segundo a Agência Nacional de Vigilância Sanitária (ANVISA), a interação medicamentosa é definida como uma resposta farmacológica ou clínica à administração de uma combinação de medicamentos, diferente dos efeitos de dois agentes administrados individualmente. Os tipos de interações medicamentosas são:
 
@@ -791,10 +752,9 @@ Técnico - Grupo Especial - Técnico de Enfermagem Segundo a Agência Nacional d
   [C] medicamento - exame clínico; medicamento - proteínas; medicamento - bebida alcoólica; medicamento - exames radiológicos
   [D] medicamento - cirurgia; medicamento - cafeína; medicamento - bebidas frias; medicamento - exames laboratoriais 876 Ano: 2019
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.
+✅ Gabarito: A
+💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [A] ('medicamento - medicamento; medicamento - alimento; medicamento - bebida alcoólica; medicamento - exames laboratoriais') aplica com precisão a fórmula e os critérios epidemiológicos.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'medicamento - medicamento; medicamento - alimento; medicamento - bebida alcoólica; me...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'medicamento - procedimento; medicamento - leguminosas; medicamento - bebida alcoólica...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'medicamento - exame clínico; medicamento - proteínas; medicamento - bebida alcoólica;...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'medicamento - cirurgia; medicamento - cafeína; medicamento - bebidas frias; medicamen...' não atende às diretrizes oficiais do Ministério da Saúde.

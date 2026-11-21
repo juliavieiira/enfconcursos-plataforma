@@ -28,11 +28,10 @@ MT - Enfermeiro - Secretaria de Saúde Os Centros de Referência para Imunobiol�
   [C] restrição do acesso aos CRIE a pacientes pediátricos, excluindo adultos e idosos do atendimento
   [D] incorporação de vacinas de rotina ao escopo dos CRIE, uniformizando a oferta em todo o território nacional
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: B
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [B] ('lista dos CRIE em funcionamento no país, com informações para profissionais de saúde e usuários') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'extinção da lista de imunobiológicos especiais, que passou a ser definida caso a caso...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'lista dos CRIE em funcionamento no país, com informações para profissionais de saúde ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'restrição do acesso aos CRIE a pacientes pediátricos, excluindo adultos e idosos do a...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'incorporação de vacinas de rotina ao escopo dos CRIE, uniformizando a oferta em todo ...' não atende às diretrizes oficiais do Ministério da Saúde.
 
@@ -47,13 +46,12 @@ MT - Enfermeiro - Secretaria de Saúde A interrupção da cadeia de transmissão
   [C] isolamento domiciliar dos indivíduos sintomáticos, como forma de contenção da transmissão
   [D] implementação de medidas de saneamento básico no território, como intervenção sobre os determinantes ambientais
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: D
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('implementação de medidas de saneamento básico no território, como intervenção sobre os determinantes ambientais') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'aplicação de inseticidas de ação residual em áreas de alto risco, como estratégia de ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'administração periódica de antiparasitários à população escolar, como medida de quimi...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'isolamento domiciliar dos indivíduos sintomáticos, como forma de contenção da transmi...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'implementação de medidas de saneamento básico no território, como intervenção sobre o...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
@@ -66,10 +64,9 @@ Enfermagem O Programa Nacional de Imunizações (PNI) completa mais de cinco dé
   [C] tríplice viral e varicela, mantendo o país livre da circulação endêmica do sarampo e da rubéola
   [D] influenza e covid-19, em razão das campanhas nacionais de vacinação realizadas no primeiro semestre 32 Enfermagem > Anatomia na Enfermagem , Fisiologia , Anatomia do Sistema Cardiovascular Fisiologia do Sistema Cardiovascular Banca: SELECON Órgão: Prefeitura de Araçás - BA Prova: SELECON - 2026 - Prefeitura de Araçás - BA - Técnico de
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: A
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [A] ('hepatite B e BCG, sinalizando recuperação parcial após anos de queda nas coberturas vacinais') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'hepatite B e BCG, sinalizando recuperação parcial após anos de queda nas coberturas v...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'pentavalente e pneumocócica 10-valente, com cobertura superior a 95% em todos os esta...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'tríplice viral e varicela, mantendo o país livre da circulação endêmica do sarampo e ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'influenza e covid-19, em razão das campanhas nacionais de vacinação realizadas no pri...' não atende às diretrizes oficiais do Ministério da Saúde.
@@ -85,12 +82,11 @@ No cotidiano dos serviços de saúde, a compreensão do processo saúde-doença 
   [C] ocorrência das doenças resulta da interação entre condições biológicas, ambientais, sociais e comportamentais, exigindo ações que ultrapassem o cuidado estritamente curativo
   [D] processo saúde-doença é determinado apenas pelas condições econômicas e ambientais da população, não havendo influência relevante de fatores individuais ou biológicos 77 Enfermagem > Dietas , Fundamentos e Procedimentos de Enfermagem , Assistência de Enfermagem no Processo Nutricional Banca: SELECON Órgão: EMGEPRON Prova: SELECON - 2026 - EMGEPRON - Técnico em Enfermagem
 
-✅ Gabarito: 
-💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.
+✅ Gabarito: C
+💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [C] ('ocorrência das doenças resulta da interação entre condições biológicas, ambientais, sociais e comportamentais, exigindo ações que ultrapassem o cuidado estritamente curativo') expressa fielmente o preceito legislativo.
 ❌ Distratores:
    • Alternativa A: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'doença é compreendida como resultado exclusivo de alterações orgânicas, devendo ...'.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'adoecimento é explicado a partir de causas únicas e específicas, sendo o controle da ...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'ocorrência das doenças resulta da interação entre condições biológicas, ambientais, s...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'processo saúde-doença é determinado apenas pelas condições econômicas e ambienta...'.
 
 ------------------------------------------------------------
@@ -104,10 +100,9 @@ Em uma atividade em território adscrito à Atenção Primária, o enfermeiro id
   [C] educação bancária
   [D] hospitalocêntrico
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+✅ Gabarito: A
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [A] ('educação em saúde participativa e emancipatória') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'educação em saúde participativa e emancipatória...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'biomédico tradicional...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'educação bancária...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'hospitalocêntrico...' não atende às diretrizes oficiais do Ministério da Saúde.
@@ -123,10 +118,9 @@ Em um hospital, o enfermeiro observa que pacientes expostos ao mesmo agente infe
   [C] a resposta clínica ao agente infeccioso é determinada apenas por fatores genéticos individuais
   [D] a gravidade do agravo é uniforme entre indivíduos expostos ao mesmo agente 103 Ano: 2026
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: A
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('tal processo resulta da interação entre fatores biológicos, ambientais e sociais, que influenciam a vulnerabilidade, a resistência e a resposta clínica do indivíduo') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'tal processo resulta da interação entre fatores biológicos, ambientais e sociais, que...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o desenvolvimento da doença depende exclusivamente da virulência do agente etiol...'.
    • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a resposta clínica ao agente infeccioso é determinada apenas por fatores genétic...'.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'a gravidade do agravo é uniforme entre indivíduos expostos ao mesmo agente 103 Ano: 2...' não atende às diretrizes oficiais do Ministério da Saúde.
@@ -142,10 +136,9 @@ MT - Técnico em Enfermagem Durante o atendimento em uma unidade básica de saú
   [C] orientar o usuário a aguardar a resolução espontânea dos sintomas, uma vez que a melhora clínica indica cura da infecção
   [D] restringir o atendimento até confirmação diagnóstica definitiva, evitando risco de transmissão ocupacional 110 Ano: 2026
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: A
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('comunicar a equipe de enfermagem, reforçar a necessidade de retomada do acompanhamento, orientar quanto às formas de transmissão e proceder à notificação compulsória conforme normatização vigente') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'comunicar a equipe de enfermagem, reforçar a necessidade de retomada do acompanhament...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'iniciar esquema vacinal completo para hepatite C e dispensar acompanhamento clínico, ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'orientar o usuário a aguardar a resolução espontânea dos sintomas, uma vez que a melh...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'restringir o atendimento até confirmação diagnóstica definitiva, evitando risco de tr...' não atende às diretrizes oficiais do Ministério da Saúde.
@@ -161,13 +154,12 @@ MT - Técnico em Enfermagem Um paciente adulto com tuberculose pulmonar sensíve
   [C] suspender temporariamente a medicação, aguardar nova baciloscopia de escarro e decidir a conduta apenas após resultado laboratorial
   [D] reiniciar o tratamento desde o início do esquema básico, com novo acompanhamento em TDO e registro da interrupção no sistema de informação 113 Ano: 2026
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: D
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('reiniciar o tratamento desde o início do esquema básico, com novo acompanhamento em TDO e registro da interrupção no sistema de informação 113 Ano: 2026') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'retomar o tratamento a partir da última dose registrada, mantendo o esquema e o tempo...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'reiniciar o tratamento desde o início, com novo esquema terapêutico e notificação com...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'suspender temporariamente a medicação, aguardar nova baciloscopia de escarro e d...'.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'reiniciar o tratamento desde o início do esquema básico, com novo acompanhamento em T...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
@@ -180,11 +172,10 @@ MT - Técnico em Enfermagem Durante o funcionamento de uma sala de vacinação, 
   [C] realizar a vacinação normalmente, desde que o refrigerador permaneça fechado durante a falta de energia
   [D] descartar os imunobiológicos caso a energia não seja restabelecida em um período de 120 minutos 114 Ano: 2026
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: B
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [B] ('manter o refrigerador fechado, monitorar a temperatura interna e comunicar a ocorrência ao responsável pela sala de vacinação') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'transferir imediatamente as vacinas para caixas térmicas, utilizando gelo reciclável,...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'manter o refrigerador fechado, monitorar a temperatura interna e comunicar a ocorrênc...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'realizar a vacinação normalmente, desde que o refrigerador permaneça fechado durante ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'descartar os imunobiológicos caso a energia não seja restabelecida em um período de 1...' não atende às diretrizes oficiais do Ministério da Saúde.
 
@@ -199,13 +190,12 @@ A Política Nacional de Atenção Básica (PNAB) de 2017, que revogou a PNAB de 
   [C] redução da carga horária mínima dos profissionais das equipes de Saúde da Família para 20 horas semanais, visando à otimização de recursos
   [D] adoção de diferentes arranjos de equipes, como a ESF e a EAP, com composições mínimas distintas e flexibilidade para adequação local 163 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.
+✅ Gabarito: D
+💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [D] ('adoção de diferentes arranjos de equipes, como a ESF e a EAP, com composições mínimas distintas e flexibilidade para adequação local 163 Ano: 2025') expressa fielmente o preceito legislativo.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'exclusão do Agente Comunitário de Saúde (ACS) da composição mínima das equipes de Saú...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'formação de equipes de Atenção Primária (EAP) sem a obrigatoriedade de médico e enfer...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'redução da carga horária mínima dos profissionais das equipes de Saúde da Família par...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'adoção de diferentes arranjos de equipes, como a ESF e a EAP, com composições mínimas...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
@@ -218,13 +208,12 @@ As Doenças e Agravos Não Transmissíveis (DANTs) representam um desafio signif
   [C] endêmica e de fácil erradicação
   [D] crônica e multifatorial 189 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.
+✅ Gabarito: D
+💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [D] ('crônica e multifatorial 189 Ano: 2025') expressa fielmente o preceito legislativo.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'infecciosa e de rápida disseminação...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'aguda e de origem bacteriana...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'endêmica e de fácil erradicação...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'crônica e multifatorial 189 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
@@ -237,10 +226,9 @@ A educação em saúde é uma ferramenta estratégica na Atenção Primária à 
   [C] a imposição de condutas e hábitos saudáveis, desconsiderando a autonomia do indivíduo
   [D] a delegação exclusiva da responsabilidade pela educação em saúde aos agentes comunitários de saúde 192 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.
+✅ Gabarito: A
+💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [A] ('o desenvolvimento de atividades participativas que estimulem a reflexão crítica e a construção coletiva do conhecimento') expressa fielmente o preceito legislativo.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'o desenvolvimento de atividades participativas que estimulem a reflexão crítica e a c...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'a transmissão unilateral de informações técnicas complexas, sem espaço para diálogo...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a imposição de condutas e hábitos saudáveis, desconsiderando a autonomia do indivíduo...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a delegação exclusiva da responsabilidade pela educação em saúde aos agentes com...'.
@@ -256,12 +244,11 @@ A atuação do enfermeiro na Atenção Primária à Saúde (APS) é fundamental 
   [C] a articulação entre os serviços de saúde, a gestão de casos e o acompanhamento dos usuários ao longo do tempo
   [D] a prescrição de medicamentos de uso contínuo para todas as condições crônicas sem avaliação médica 193 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.
+✅ Gabarito: C
+💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [C] ('a articulação entre os serviços de saúde, a gestão de casos e o acompanhamento dos usuários ao longo do tempo') expressa fielmente o preceito legislativo.
 ❌ Distratores:
    • Alternativa A: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a realização exclusiva de procedimentos de alta complexidade em unidades de pron...'.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'o encaminhamento de todos os casos para especialistas, sem intervenção prévia na unid...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a articulação entre os serviços de saúde, a gestão de casos e o acompanhamento dos us...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'a prescrição de medicamentos de uso contínuo para todas as condições crônicas sem ava...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
@@ -275,13 +262,12 @@ em Enfermagem Durante o plantão noturno, um técnico de enfermagem observa que 
   [C] registrar o ocorrido apenas no plantão seguinte, para evitar constrangimento à colega de equipe e ter tempo de certificar-se que não houve agravo ao paciente
   [D] tentar resolver o problema apenas entre os técnicos de enfermagem da equipe, sem envolver o enfermeiro, pois tratase de uma responsabilidade deles 195 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.
+✅ Gabarito: D
+💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [D] ('tentar resolver o problema apenas entre os técnicos de enfermagem da equipe, sem envolver o enfermeiro, pois tratase de uma responsabilidade deles 195 Ano: 2025') aplica com precisão a fórmula e os critérios epidemiológicos.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'atender ao pedido da colega, considerando que a falta de administração deste medicame...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'recusar-se a falsificar o registro e comunicar o fato ao enfermeiro responsável, gara...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'registrar o ocorrido apenas no plantão seguinte, para evitar constrangimento à c...'.
-   • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'tentar resolver o problema apenas entre os técnicos de enfermagem da equipe, sem...'.
 
 ------------------------------------------------------------
 
@@ -294,11 +280,10 @@ Enfermagem Durante uma roda de conversa educativa na unidade básica de saúde, 
   [C] não se deve falar de IST com menores de 18 anos sem autorização formal dos pais ou responsáveis
   [D] o técnico de enfermagem deve apenas registrar o relato e repassar ao enfermeiro, sem orientar o paciente
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
+✅ Gabarito: B
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [B] ('a escuta qualificada e o sigilo devem ser garantidos, orientando-o e encaminhando-o para avaliação com a equipe') representa a conduta científica e clinicamente recomendada.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'o técnico de enfermagem deve aguardar que o paciente traga um responsável para orient...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'a escuta qualificada e o sigilo devem ser garantidos, orientando-o e encaminhando-o p...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'não se deve falar de IST com menores de 18 anos sem autorização formal dos pais ou re...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o técnico de enfermagem deve apenas registrar o relato e repassar ao enfermeiro,...'.
 
@@ -313,12 +298,11 @@ Enfermagem Uma técnica de enfermagem em uma Unidade Básica de Saúde (UBS) ate
   [C] realizar notificação compulsória imediata, devendo ser comunicada em até 24 horas após a suspeita
   [D] aguardar, pois a notificação compulsória é de responsabilidade exclusiva do médico, não cabendo ao técnico de enfermagem qualquer ação
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.
+✅ Gabarito: C
+💡 Fundamentação: Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [C] ('realizar notificação compulsória imediata, devendo ser comunicada em até 24 horas após a suspeita') aplica com precisão a fórmula e os critérios epidemiológicos.
 ❌ Distratores:
    • Alternativa A: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'realizar a notificação compulsória apenas após confirmação laboratorial do caso...'.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'aguardar a evolução clínica para registrar no sistema de notificação, pois a suspeita...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'realizar notificação compulsória imediata, devendo ser comunicada em até 24 horas apó...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'aguardar, pois a notificação compulsória é de responsabilidade exclusiva do médi...'.
 
 ------------------------------------------------------------
@@ -332,11 +316,10 @@ Enfermagem A hanseníase é uma doença infectocontagiosa que afeta principalmen
   [C] o tratamento da hanseníase é feito apenas com corticoterapia para controlar as reações inflamatórias
   [D] a transmissão da hanseníase ocorre principalmente por contato com lesões cutâneas abertas e secreções purulentas 231 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: B
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [B] ('a forma multibacilar da hanseníase apresenta maior carga bacilar e risco aumentado de transmissão') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o diagnóstico é feito exclusivamente por exame laboratorial, sendo o exame clíni...'.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'a forma multibacilar da hanseníase apresenta maior carga bacilar e risco aumentado de...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o tratamento da hanseníase é feito apenas com corticoterapia para controlar as r...'.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'a transmissão da hanseníase ocorre principalmente por contato com lesões cutâneas abe...' não atende às diretrizes oficiais do Ministério da Saúde.
 
@@ -351,10 +334,9 @@ Quatro Marcos - MT - Técnico em Enfermagem A Política Nacional de Promoção a
   [C] a política promove o aleitamento materno exclusivo apenas para crianças com até três meses de vida, recomendando a introdução de outros alimentos a partir dessa idade
   [D] a política permite que o aleitamento materno exclusivo seja interrompido a partir do primeiro mês de vida, com a inclusão de sucos e chás
 
-✅ Gabarito: 
-💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
+✅ Gabarito: A
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [A] ('a política assegura que o aleitamento materno exclusivo seja recomendado até os 6 meses de vida da criança, com a introdução de alimentos complementares a partir dos 6 meses e o aleitamento materno continuado até os dois anos ou mais') representa a conduta científica e clinicamente recomendada.
 ❌ Distratores:
-   • Alternativa A: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a política assegura que o aleitamento materno exclusivo seja recomendado até os ...'.
    • Alternativa B: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a política não especifica o tempo de aleitamento materno exclusivo e orienta que...'.
    • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a política promove o aleitamento materno exclusivo apenas para crianças com até ...'.
    • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a política permite que o aleitamento materno exclusivo seja interrompido a parti...'.
@@ -370,11 +352,10 @@ Quatro Marcos - MT - Técnico em Enfermagem Segundo a Política Nacional de Aten
   [C] atuar no atendimento curativo e na administração de medicamentos, com foco apenas na recuperação do paciente
   [D] responsabilizar-se pela execução de atividades complexas, como prescrição médica e diagnóstico de enfermagem, com total autonomia 249 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.
+✅ Gabarito: B
+💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [B] ('integrar a equipe, realizando atividades como educação em saúde, orientação às famílias e apoio às ações de promoção e prevenção, sob supervisão do enfermeiro') expressa fielmente o preceito legislativo.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'coordenar as visitas domiciliares e elabora o plano de cuidado, atuando de forma inde...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'integrar a equipe, realizando atividades como educação em saúde, orientação às famíli...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'atuar no atendimento curativo e na administração de medicamentos, com foco apena...'.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'responsabilizar-se pela execução de atividades complexas, como prescrição médica e di...' não atende às diretrizes oficiais do Ministério da Saúde.
 
@@ -389,11 +370,10 @@ ANHH - Nível I - Grau A - Enfermeiro A organização dos serviços de enfermage
   [C] a enfermagem em atenção terciária não participa do gerenciamento das condições clínicas, atuando apenas na reabilitação
   [D] a organização dos serviços de enfermagem limita-se à execução de tarefas operacionais, sem envolvimento no planejamento estratégico 268 Ano: 2025
 
-✅ Gabarito: 
-💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.
+✅ Gabarito: B
+💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [B] ('os serviços de enfermagem em atenção primária buscam a promoção da saúde, prevenção de agravos e acompanhamento longitudinal') expressa fielmente o preceito legislativo.
 ❌ Distratores:
    • Alternativa A: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o cuidado primário concentra-se exclusivamente em intervenções curativas voltada...'.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'os serviços de enfermagem em atenção primária buscam a promoção da saúde, prevenção d...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a enfermagem em atenção terciária não participa do gerenciamento das condições c...'.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'a organização dos serviços de enfermagem limita-se à execução de tarefas operacionais...' não atende às diretrizes oficiais do Ministério da Saúde.
 
@@ -408,17 +388,16 @@ ANHH - Nível I - Grau A - Enfermeiro A resistência bacteriana aos antimicrobia
   [C] realização de culturas e testes de sensibilidade aos antibióticos antes do início da terapia
   [D] administração profilática de antibióticos em todos os pacientes internados
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: C
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [C] ('realização de culturas e testes de sensibilidade aos antibióticos antes do início da terapia') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'prescrição de antibióticos de amplo espectro em todas as infecções suspeitas...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'utilização de antibióticos de última geração em todas as infecções...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'realização de culturas e testes de sensibilidade aos antibióticos antes do início da ...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'administração profilática de antibióticos em todos os pacientes internados...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 23 [Código: EF0364] - COREN-RR (SELECON 2024) - Enfermeiro
+QUESTÃO 23 [Código: EF0361] - COREN-RR (SELECON 2024) - Enfermeiro
 Assunto: Saúde Pública
 Uma das atividades de profissionais de saúde ou responsáveis pelos estabelecimentos de saúde públicos ou privados é a notificação compulsória que é a comunicação obrigatória à autoridade de saúde sobre a ocorrência de suspeita ou confirmação de doença, agravo ou evento de saúde pública previsto em Lei, podendo ser imediata ou semanal. Uma patologia que deve ser notificada é a:
 
@@ -427,17 +406,16 @@ Uma das atividades de profissionais de saúde ou responsáveis pelos estabelecim
   [C] doença de cronh
   [D] doença de Creutzfeldt-Jakob 365 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.
+✅ Gabarito: D
+💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [D] ('doença de Creutzfeldt-Jakob 365 Ano: 2024') expressa fielmente o preceito legislativo.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'fibromialgia...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'fibrose cística...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'doença de cronh...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'doença de Creutzfeldt-Jakob 365 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 24 [Código: EF0366] - COREN-RR (SELECON 2024) - Enfermeiro
+QUESTÃO 24 [Código: EF0363] - COREN-RR (SELECON 2024) - Enfermeiro
 Assunto: Saúde Pública
 A definição “atividades da área da saúde coletiva que se destina, por meio das ações de vigilância epidemiológica e sanitária, à promoção e proteção da saúde de trabalhadores, assim como visa à recuperação e reabilitação da saúde” refere-se à:
 
@@ -446,17 +424,16 @@ A definição “atividades da área da saúde coletiva que se destina, por meio
   [C] saúde sanitária
   [D] saúde do trabalhador 367 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.
+✅ Gabarito: D
+💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [D] ('saúde do trabalhador 367 Ano: 2024') expressa fielmente o preceito legislativo.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'saúde coletiva...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'saúde pública...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'saúde sanitária...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'saúde do trabalhador 367 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 25 [Código: EF0455] - Prefeitura de Água Boa - MT (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 25 [Código: EF0448] - Prefeitura de Água Boa - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Saúde Pública
 Enfermagem A vigilância que visa conhecer, detectar ou prevenir qualquer mudança nos fatores determinantes e condicionantes do ambiente que interferem na saúde humana; recomendar e adotar medidas de prevenção e controle dos fatores de risco, relacionados às doenças e a outros agravos à saúde, prioritariamente, a vigilância da qualidade da água para consumo humano, ar e solo; e também prevenir desastres de origem natural ou provocados por substâncias químicas, por acidentes com produtos perigosos, por fatores físicos ou ainda no ambiente de trabalho, denomina-se:
 
@@ -465,17 +442,16 @@ Enfermagem A vigilância que visa conhecer, detectar ou prevenir qualquer mudan�
   [C] saúde ambiental
   [D] epidemiológica
 
-✅ Gabarito: 
-💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.
+✅ Gabarito: C
+💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [C] ('saúde ambiental') expressa fielmente o preceito legislativo.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'saúde do trabalhador...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'situação de saúde...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'saúde ambiental...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'epidemiológica...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 26 [Código: EF0492] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 26 [Código: EF0485] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Saúde Pública
 Enfermagem Os artigos de múltiplos uso em estabelecimentos de saúde podem se tornar veículos de agentes infecciosos, se não sofrerem processos de descontaminação após cada uso. Os locais onde esses artigos são processados e as pessoas que os manuseiam também podem tornar-se fontes de infecção para hospedeiros suscetíveis. Os artigos destinados ao contato com a pele não íntegra ou com mucosas íntegras são chamados de:
 
@@ -484,17 +460,16 @@ Enfermagem Os artigos de múltiplos uso em estabelecimentos de saúde podem se t
   [C] semicríticos
   [D] altamente críticos
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: C
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [C] ('semicríticos') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'não críticos...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'semicríticos...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'altamente críticos...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 27 [Código: EF0504] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 27 [Código: EF0497] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
 Assunto: Saúde Pública
 Os Indicadores de Saúde são medidas informativas representadas mediante proporções, índices, coeficientes ou taxas, que são utilizadas para descrever, analisar ou relacionar determinantes ao estado de saúde. Os fatores utilizados para a avaliar e classificar os referidos indicadores são:
 
@@ -503,17 +478,16 @@ Os Indicadores de Saúde são medidas informativas representadas mediante propor
   [C] confiabilidade, cobertura, aspectos éticos e administrativos
   [D] validade, confiabilidade, cobertura, aspectos éticos e administrativos 505 Ano: 2024
 
-✅ Gabarito: 
-💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.
+✅ Gabarito: D
+💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [D] ('validade, confiabilidade, cobertura, aspectos éticos e administrativos 505 Ano: 2024') expressa fielmente o preceito legislativo.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'validade, fator patológico, aspectos éticos, amplitude...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'confiabilidade, fator patológico, amplitude, aspectos éticos...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'confiabilidade, cobertura, aspectos éticos e administrativos...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'validade, confiabilidade, cobertura, aspectos éticos e administrativos 505 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 28 [Código: EF0535] - Prefeitura de Dourados - MS (SELECON 2024) - Enfermeiro
+QUESTÃO 28 [Código: EF0527] - Prefeitura de Dourados - MS (SELECON 2024) - Enfermeiro
 Assunto: Saúde Pública , Doenças Infecciosas e parasitárias
 O rastreamento das infecções sexualmente transmissíveis consiste na realização de testes diagnósticos em pessoas assintomáticas para estabelecer o diagnóstico precoce (prevenção secundária), com o objetivo de reduzir a morbimortalidade. Portanto, em casos de violência sexual, o atendimento para o rastreamento de HIV e Sífilis ocorrerá da seguinte forma:
 
@@ -522,17 +496,16 @@ O rastreamento das infecções sexualmente transmissíveis consiste na realizaç
   [C] de forma tardia; de 12 a 14 semanas e com 8 meses após exposição
   [D] logo de início; de 20 a 24 semanas e com 12 meses após a exposição
 
-✅ Gabarito: 
-💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+✅ Gabarito: A
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('logo de início; de 4 a 6 semanas e com 3 meses após a exposição') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'logo de início; de 4 a 6 semanas e com 3 meses após a exposição...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'de forma tardia; de 8 a 12 semanas e com 4 meses após a exposição...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'de forma tardia; de 12 a 14 semanas e com 8 meses após exposição...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'logo de início; de 20 a 24 semanas e com 12 meses após a exposição...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 29 [Código: EF0545] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2023) - Enfermeiro
+QUESTÃO 29 [Código: EF0537] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2023) - Enfermeiro
 Assunto: Saúde Pública , Imunização
 MT - Enfermeiro 20H O Programa Nacional de Imunização do Brasil é uma referência mundial acerca das prevenções de doença. Considera-se uma situação em que se recomenda adiar a vacinação para as vacinas virais vivas atenuadas orais ou injetáveis:
 
@@ -541,13 +514,12 @@ MT - Enfermeiro 20H O Programa Nacional de Imunização do Brasil é uma referê
   [C] tratamento com corticosteroides em dose imunossupressora (equivalente a Prednisona de 4 mg/kg/dia, para criança, ou de 40 mg/kg/dia para o adulto) por mais de duas semanas: adiar a vacinação por 60 dias após a suspensão do tratamento
   [D] tratamento com corticosteroides em dose imunossupressora (equivalente a Prednisona de 2 mg/kg/dia, para criança, ou de 20 mg/kg/dia para o adulto) por mais de duas semanas: adiar a vacinação por 30 dias após a suspensão do tratamento 546 Ano: 2023
 
-✅ Gabarito: 
-💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
+✅ Gabarito: D
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [D] ('tratamento com corticosteroides em dose imunossupressora (equivalente a Prednisona de 2 mg/kg/dia, para criança, ou de 20 mg/kg/dia para o adulto) por mais de duas semanas: adiar a vacinação por 30 dias após a suspensão do tratamento 546 Ano: 2023') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'tratamento com corticosteroides em dose imunossupressora (equivalente a Prednisona de...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'tratamento com corticosteroides em dose imunossupressora (equivalente a Prednisona de...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'tratamento com corticosteroides em dose imunossupressora (equivalente a Prednisona de...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'tratamento com corticosteroides em dose imunossupressora (equivalente a Prednisona de...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 

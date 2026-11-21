@@ -1,6 +1,7 @@
 [
   {
     "codigo_origem": "Q3884080",
+    "numero_original": 122,
     "banca": "SELECON",
     "orgao": "Prefeitura de Porto dos Gaúchos - MT",
     "ano": 2026,
@@ -27,10 +28,10 @@
         "texto": "a forma tuberculoide paucibacilar é pouco transmissível, enquanto a forma virchowiana multibacilar é a mais transmissível 123 Ano: 2026"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "D",
     "id": "EF0122",
     "numero_ordem": 122,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('a forma tuberculoide paucibacilar é pouco transmissível, enquanto a forma virchowiana multibacilar é a mais transmissível 123 Ano: 2026') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -43,16 +44,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'a forma dimorfa e a forma virchowiana são as mais transmissíveis devido à alta carga ...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'a forma tuberculoide paucibacilar é pouco transmissível, enquanto a forma virchowiana...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('a forma tuberculoide p..."
   },
   {
     "codigo_origem": "Q2481795",
+    "numero_original": 367,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -83,10 +81,10 @@
         "texto": "in vitro por meio da inoculação em ágar sangue de carneiro 368 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0367",
-    "numero_ordem": 367,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "C",
+    "id": "EF0364",
+    "numero_ordem": 364,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [C] ('in vivo por meio da inoculação em camundongos') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -97,10 +95,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'in vitro por meio da inoculação em ágar TCBS...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'in vivo por meio da inoculação em camundongos...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'in vitro por meio da inoculação em ágar Ogawa-Kudoh...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
@@ -109,6 +103,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'in vitro por meio da inoculação em ágar sangue de carneiro 368 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [C] ('in vivo por meio da in..."
   }
 ]

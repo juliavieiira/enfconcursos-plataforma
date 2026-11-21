@@ -1,6 +1,7 @@
 [
   {
     "codigo_origem": "Q4336847",
+    "numero_original": 34,
     "banca": "SELECON",
     "orgao": "Prefeitura de Araçás - BA",
     "ano": 2026,
@@ -27,10 +28,10 @@
         "texto": "é empregado periodicamente, sendo o parâmetro mais confiável para atestar a morte dos microrganismos mais resistentes"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "D",
     "id": "EF0034",
     "numero_ordem": 34,
-    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.",
+    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [D] ('é empregado periodicamente, sendo o parâmetro mais confiável para atestar a morte dos microrganismos mais resistentes') atende às exigências normativas de biossegurança perioperatória.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -43,16 +44,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'consiste em um dispositivo que muda de cor quando exposto ao calor, indicando que a e...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'é empregado periodicamente, sendo o parâmetro mais confiável para atestar a morte dos...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes bi..."
   },
   {
     "codigo_origem": "Q4336845",
+    "numero_original": 36,
     "banca": "SELECON",
     "orgao": "Prefeitura de Araçás - BA",
     "ano": 2026,
@@ -79,15 +77,11 @@
         "texto": "aplicar solução alcoólica a 70% diretamente sobre o material sujo e, após cinco minutos, realizar a fricção com gaze estéril"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "A",
     "id": "EF0036",
     "numero_ordem": 36,
-    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.",
+    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [A] ('imergir o material em água potável morna com detergente por, no mínimo, três minutos e, em seguida, realizar a fricção com escovas apropriadas') atende às exigências normativas de biossegurança perioperatória.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'imergir o material em água potável morna com detergente por, no mínimo, três minutos ...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'utilizar água fria e detergente enzimático, mantendo o material em imersão por 30 min...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -105,6 +99,7 @@
   },
   {
     "codigo_origem": "Q3884653",
+    "numero_original": 115,
     "banca": "SELECON",
     "orgao": "Prefeitura de Porto dos Gaúchos - MT",
     "ano": 2026,
@@ -131,18 +126,14 @@
         "texto": "materiais semicríticos, como sondas descartáveis e cânulas plásticas 116 Ano: 2026"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "B",
     "id": "EF0115",
     "numero_ordem": 115,
-    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.",
+    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [B] ('artigos críticos, como instrumentos cirúrgicos metálicos, pinças e tesouras') atende às exigências normativas de biossegurança perioperatória.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'materiais termossensíveis, como equipos de infusão e cateteres plásticos descartáveis...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'artigos críticos, como instrumentos cirúrgicos metálicos, pinças e tesouras...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -157,6 +148,7 @@
   },
   {
     "codigo_origem": "Q3810640",
+    "numero_original": 137,
     "banca": "SELECON",
     "orgao": "Prefeitura de Barra do Garças - MT",
     "ano": 2025,
@@ -183,15 +175,11 @@
         "texto": "esterilização química ou física obrigatória 138 Ano: 2025"
       }
     ],
-    "resposta_correta": "",
+    "resposta_correta": "A",
     "id": "EF0137",
     "numero_ordem": 137,
-    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.",
+    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [A] ('desinfecção de alto nível') atende às exigências normativas de biossegurança perioperatória.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'desinfecção de alto nível...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'apenas limpeza mecânica...'."
@@ -209,6 +197,7 @@
   },
   {
     "codigo_origem": "Q2472193",
+    "numero_original": 428,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -239,10 +228,10 @@
         "texto": "borrifar solução clorada na superfície, aguardar 10 minutos e enxaguar com água corrente 429 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0428",
-    "numero_ordem": 428,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "C",
+    "id": "EF0421",
+    "numero_ordem": 421,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [C] ('retirar o excesso de matéria orgânica com papel absorvente') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -253,10 +242,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'despejar álcool sobre o resíduo...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'retirar o excesso de matéria orgânica com papel absorvente...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'retirar o excesso de matéria orgânica com aspirador de pó ou enceradeira...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
@@ -265,10 +250,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'borrifar solução clorada na superfície, aguardar 10 minutos e enxaguar com água corre...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [C] ('retirar o excesso de m..."
   },
   {
     "codigo_origem": "Q2472183",
+    "numero_original": 437,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -299,15 +285,11 @@
         "texto": "concorrente 438 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0437",
-    "numero_ordem": 437,
-    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.",
+    "resposta_correta": "A",
+    "id": "EF0430",
+    "numero_ordem": 430,
+    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [A] ('terminal') atende às exigências normativas de biossegurança perioperatória.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
@@ -329,6 +311,7 @@
   },
   {
     "codigo_origem": "Q2472179",
+    "numero_original": 439,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -359,10 +342,10 @@
         "texto": "clorexidina alcóolica 440 Ano: 2024"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0439",
-    "numero_ordem": 439,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "D",
+    "id": "EF0432",
+    "numero_ordem": 432,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('solução clorada') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -377,18 +360,15 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'água e sabão...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'solução clorada...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "E",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'clorexidina alcóolica 440 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [D] ('solução clorada') fund..."
   },
   {
     "codigo_origem": "Q2472178",
+    "numero_original": 440,
     "banca": "SELECON",
     "orgao": "SAD-MS",
     "ano": 2024,
@@ -419,10 +399,10 @@
         "texto": "clorexidina degermante"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0440",
-    "numero_ordem": 440,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "C",
+    "id": "EF0433",
+    "numero_ordem": 433,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [C] ('álcool a 70%') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -433,10 +413,6 @@
         "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
-        "letra": "C",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'álcool a 70%...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
         "letra": "D",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'sabão antisséptico...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
@@ -445,10 +421,11 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois 'clorexidina degermante...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [C] ('álcool a 70%') fundame..."
   },
   {
     "codigo_origem": "Q2454927",
+    "numero_original": 487,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sapezal - MT",
     "ano": 2024,
@@ -475,15 +452,11 @@
         "texto": "reuso"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0487",
-    "numero_ordem": 487,
-    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.",
+    "resposta_correta": "A",
+    "id": "EF0480",
+    "numero_ordem": 480,
+    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [A] ('perfurocortantes') atende às exigências normativas de biossegurança perioperatória.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'perfurocortantes...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'contaminados...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -501,6 +474,7 @@
   },
   {
     "codigo_origem": "Q2454925",
+    "numero_original": 489,
     "banca": "SELECON",
     "orgao": "Prefeitura de Sapezal - MT",
     "ano": 2024,
@@ -527,10 +501,10 @@
         "texto": "previstas nas rotinas estabelecidas, sob orientação e supervisão do(a) Enfermeiro(a)"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0489",
-    "numero_ordem": 489,
-    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.",
+    "resposta_correta": "D",
+    "id": "EF0482",
+    "numero_ordem": 482,
+    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [D] ('previstas nas rotinas estabelecidas, sob orientação e supervisão do(a) Enfermeiro(a)') atende às exigências normativas de biossegurança perioperatória.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -543,16 +517,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'de apoio, sob orientação e supervisão do(a) Enfermeiro(a)...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'previstas nas rotinas estabelecidas, sob orientação e supervisão do(a) Enfermeiro(a)...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes bi..."
   },
   {
     "codigo_origem": "Q3674519",
+    "numero_original": 530,
     "banca": "SELECON",
     "orgao": "Prefeitura de Dourados - MS",
     "ano": 2023,
@@ -579,10 +550,10 @@
         "texto": "18º e 22º C 531 Ano: 2023"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0530",
-    "numero_ordem": 530,
-    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.",
+    "resposta_correta": "D",
+    "id": "EF0522",
+    "numero_ordem": 522,
+    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [D] ('18º e 22º C 531 Ano: 2023') atende às exigências normativas de biossegurança perioperatória.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -595,16 +566,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois '14º e 16º C...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois '18º e 22º C 531 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes bi..."
   },
   {
     "codigo_origem": "Q2024546",
+    "numero_original": 693,
     "banca": "SELECON",
     "orgao": "CLIN",
     "ano": 2022,
@@ -631,18 +599,14 @@
         "texto": "limpeza 694 Ano: 2022"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0693",
-    "numero_ordem": 693,
-    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.",
+    "resposta_correta": "B",
+    "id": "EF0685",
+    "numero_ordem": 685,
+    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [B] ('esterilização') atende às exigências normativas de biossegurança perioperatória.",
     "analise_distratores": [
       {
         "letra": "A",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'desinfecção de nível intermediário...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'esterilização...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
@@ -657,6 +621,7 @@
   },
   {
     "codigo_origem": "Q1320498",
+    "numero_original": 744,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2020,
@@ -683,10 +648,10 @@
         "texto": "processamento de produtos para a saúde não críticos, semicríticos e críticos de conformação complexa e não complexa"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0744",
-    "numero_ordem": 744,
-    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.",
+    "resposta_correta": "D",
+    "id": "EF0736",
+    "numero_ordem": 736,
+    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [D] ('processamento de produtos para a saúde não críticos, semicríticos e críticos de conformação complexa e não complexa') atende às exigências normativas de biossegurança perioperatória.",
     "analise_distratores": [
       {
         "letra": "A",
@@ -699,16 +664,13 @@
       {
         "letra": "C",
         "motivo": "Incorreta perante os protocolos técnicos, pois 'processamento de produtos para a saúde não críticos, semicríticos e críticos de confo...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'processamento de produtos para a saúde não críticos, semicríticos e críticos de confo...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
     "comentario": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes bi..."
   },
   {
     "codigo_origem": "Q1313718",
+    "numero_original": 781,
     "banca": "SELECON",
     "orgao": "Prefeitura de Boa Vista - RR",
     "ano": 2020,
@@ -735,15 +697,11 @@
         "texto": "1 vez ao dia, depois das atividades 782 Ano: 2020 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Prefeitura de Boa Vista - RR Prova: SELECON - 2020 - Prefeitura de Boa Vista - RR - Enfermeiro"
       }
     ],
-    "resposta_correta": "",
-    "id": "EF0781",
-    "numero_ordem": 781,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "resposta_correta": "A",
+    "id": "EF0773",
+    "numero_ordem": 773,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('1 vez ao dia, antes do início das atividades') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os protocolos técnicos, pois '1 vez ao dia, antes do início das atividades...' não atende às diretrizes oficiais do Ministério da Saúde."
-      },
       {
         "letra": "B",
         "motivo": "Incorreta perante os protocolos técnicos, pois '2 vezes ao dia, antes do início das atividades...' não atende às diretrizes oficiais do Ministério da Saúde."
@@ -757,58 +715,6 @@
         "motivo": "Incorreta perante os protocolos técnicos, pois '1 vez ao dia, depois das atividades 782 Ano: 2020 Enfermagem > Legislação em Saúde , ...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
-  },
-  {
-    "codigo_origem": "Q1242244",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Boa Vista - RR",
-    "ano": 2019,
-    "prova": "SELECON - 2019 - Prefeitura de Boa Vista - RR - Assistente",
-    "cargo": "Técnico de Enfermagem",
-    "materia": "Enfermagem",
-    "assunto": "Enfermagem em Central de Material Esterilizado",
-    "enunciado": "Técnico - Grupo Especial - Técnico de Enfermagem A desinfecção é o processo físico ou químico que elimina a maioria dos microrganismos patogênicos de objetos inanimados e superfície. Entretanto, a desinfecção que destrói todas as bactérias vegetativas, bacilo da tuberculose, fungos e vírus lipídicos e alguns não lipídicos, porém não elimina esporos, é considerada desinfecção de nível:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "alto"
-      },
-      {
-        "id": "B",
-        "texto": "baixo"
-      },
-      {
-        "id": "C",
-        "texto": "avançado"
-      },
-      {
-        "id": "D",
-        "texto": "intermediário"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0884",
-    "numero_ordem": 884,
-    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta perante os protocolos técnicos, pois 'intermediário...' não atende às diretrizes oficiais do Ministério da Saúde."
-      }
-    ],
-    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [A] ('1 vez ao dia, antes do..."
   }
 ]

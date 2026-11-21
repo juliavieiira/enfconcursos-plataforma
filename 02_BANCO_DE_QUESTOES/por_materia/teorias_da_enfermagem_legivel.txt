@@ -1,7 +1,7 @@
 === CADERNO DE QUESTÕES: TEORIAS DA ENFERMAGEM ===
 Total: 4 questões
 
-QUESTÃO 1 [Código: EF0732] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Enfermeiro
+QUESTÃO 1 [Código: EF0724] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Enfermeiro
 Assunto: Teorias da Enfermagem
 A enfermagem, na condição de ciência, assim como as outras áreas de conhecimento, possui um arcabouço teórico próprio que fundamenta o desenvolvimento da profissão no âmbito da assistência, do ensino e da pesquisa. No âmbito assistencial, emerge a necessidade da implementação da Sistematização da Assistência de Enfermagem (SAE). Para atender a essa demanda, desenvolveu-se uma teoria de enfermagem que se fundamenta na perspectiva do “homem unitário”, que evolui ao longo do processo de vida. Trata-se de uma perspectiva que tem, como meta, a promoção da saúde, a prevenção de doenças e a reabilitação dos pacientes com sequelas. Dito isso, assinale a opção em que se apresentam, respectivamente, o(a) autor(a) e o nome dado a essa teoria:
 
@@ -10,17 +10,16 @@ A enfermagem, na condição de ciência, assim como as outras áreas de conhecim
   [C] Lydia Hall; Teoria Centrada nos Problemas
   [D] Dorothea Orem; Teoria do Autocuidado 733 Ano: 2022
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: B
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [B] ('Marta Rogers; Ciência Humanística da Enfermagem') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'Imogene King; Teoria do Alcance de Objetivos...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'Marta Rogers; Ciência Humanística da Enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Lydia Hall; Teoria Centrada nos Problemas...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Dorothea Orem; Teoria do Autocuidado 733 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 2 [Código: EF0811] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+QUESTÃO 2 [Código: EF0803] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
 Assunto: Teorias da Enfermagem
 A teoria de enfermagem que possui como meta manter e promover a saúde, prevenção de doenças e tratar e reabilitar pacientes doentes incapazes, através da “ciência humanista da enfermagem” foi proposta por:
 
@@ -29,17 +28,16 @@ A teoria de enfermagem que possui como meta manter e promover a saúde, prevenç
   [C] Betty Neuman
   [D] Marta Rogers 812 Ano: 2020
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: D
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('Marta Rogers 812 Ano: 2020') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'Florence Nightingale...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa B: Incorreta perante os protocolos técnicos, pois 'Imogene King...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Betty Neuman...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Marta Rogers 812 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 3 [Código: EF0835] - Prefeitura de Campo Grande - MS (SELECON 2019) - Enfermeiro
+QUESTÃO 3 [Código: EF0827] - Prefeitura de Campo Grande - MS (SELECON 2019) - Enfermeiro
 Assunto: Teorias da Enfermagem
 A teoria de enfermagem intitulada de "Adaptação" (1979), que se baseia nos modelos adaptáveis fisiológico, psicológico, sociológico, dependência - independência, e por fim, analisa as demandas e ajuda o paciente a se adaptar é de autoria de:
 
@@ -48,23 +46,30 @@ A teoria de enfermagem intitulada de "Adaptação" (1979), que se baseia nos mod
   [C] lmogene King
   [D] Jean Watson 836 Ano: 2019
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: B
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [B] ('Callista Roy') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
    • Alternativa A: Incorreta perante os protocolos técnicos, pois 'Florence Nightingale...' não atende às diretrizes oficiais do Ministério da Saúde.
-   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'Callista Roy...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa C: Incorreta perante os protocolos técnicos, pois 'lmogene King...' não atende às diretrizes oficiais do Ministério da Saúde.
    • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Jean Watson 836 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 4 [Código: EF0852] - Prefeitura Municipal (SELECON 2019) - Enfermeiro
+QUESTÃO 4 [Código: EF0844] - Prefeitura Municipal (SELECON 2019) - Enfermeiro
 Assunto: Teorias da Enfermagem
 
 
+  [A] reconhecer os 21 problemas de enfermagem na pessoa, família e sociedade
+  [B] desenvolver as relações interpessoais entre o enfermeiro e o paciente
+  [C] promover o bem-estar total, diminuindo o estresse
+  [D] alcançar o autocuidado e a enfermagem humanística 853 Ano: 2019
 
-✅ Gabarito: 
-💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+✅ Gabarito: B
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [B] ('desenvolver as relações interpessoais entre o enfermeiro e o paciente') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'reconhecer os 21 problemas de enfermagem na pessoa, família e sociedade...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'promover o bem-estar total, diminuindo o estresse...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'alcançar o autocuidado e a enfermagem humanística 853 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
