@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
-import questoesData from './data/questoes.json';
 import { BANCAS_PRECONFIGURADAS, INSIGHTS_POR_BANCA, getInsightPorBanca } from './data/bancasInfo';
 import {
   Stethoscope,
@@ -30,7 +29,43 @@ import {
 
 export default function App() {
   const [activeTab, setActiveTab] = useState('questoes'); // 'questoes', 'padrao', 'simulados', 'materiais'
-  const [questoes, setQuestoes] = useState(questoesData);
+  const [questoes, setQuestoes] = useState([]);
+  const [carregandoDados, setCarregandoDados] = useState(true);
+
+  // Carregamento assíncrono e leve do acervo de questões
+  useEffect(() => {
+    let ativo = true;
+    fetch('./data/questoes.json')
+      .then(res => {
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        return res.json();
+      })
+      .then(data => {
+        if (ativo && Array.isArray(data)) {
+          setQuestoes(data);
+          setCarregandoDados(false);
+        }
+      })
+      .catch(err => {
+        console.warn('Tentando fallback /data/questoes.json...', err);
+        fetch('/data/questoes.json')
+          .then(r => {
+            if (!r.ok) throw new Error('HTTP ' + r.status);
+            return r.json();
+          })
+          .then(data => {
+            if (ativo && Array.isArray(data)) {
+              setQuestoes(data);
+              setCarregandoDados(false);
+            }
+          })
+          .catch(e => {
+            console.error('Falha ao carregar questoes:', e);
+            if (ativo) setCarregandoDados(false);
+          });
+      });
+    return () => { ativo = false; };
+  }, []);
 
   // Filtros
   const [buscaTexto, setBuscaTexto] = useState('');
@@ -439,13 +474,21 @@ export default function App() {
             </div>
 
             {/* Listagem de Questões */}
-            <div className="questoes-header" style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '1rem' }}>
-              <span style={{ fontWeight: 600, color: '#475569' }}>
-                Exibindo {questoesFiltradas.length} questões encontradas
-              </span>
-            </div>
+            {carregandoDados ? (
+              <div style={{ textAlign: 'center', padding: '3.5rem 2rem', background: '#ffffff', borderRadius: '1rem', border: '1px solid #e2e8f0', margin: '1.5rem 0' }}>
+                <div style={{ width: '40px', height: '40px', border: '3px solid #ccfbf1', borderTopColor: '#0d9488', borderRadius: '50%', animation: 'enfSpin 0.75s linear infinite', margin: '0 auto 1rem' }}></div>
+                <h3 style={{ fontSize: '1.15rem', fontWeight: 700, color: '#0f172a', marginBottom: '0.35rem' }}>Carregando 2.007 questões auditadas...</h3>
+                <p style={{ color: '#64748b', fontSize: '0.9rem', margin: 0 }}>Sincronizando acervo de Enfermagem e Língua Portuguesa SELECON</p>
+              </div>
+            ) : (
+              <>
+                <div className="questoes-header" style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '1rem' }}>
+                  <span style={{ fontWeight: 600, color: '#475569' }}>
+                    Exibindo {questoesFiltradas.length} questões encontradas
+                  </span>
+                </div>
 
-            {questoesFiltradas.slice(0, limiteExibicao).map((q, index) => {
+                {questoesFiltradas.slice(0, limiteExibicao).map((q, index) => {
               const resp = respostas[q.id];
               const confirmada = resp?.confirmada;
               const acertou = confirmada && resp.selecionada === q.resposta_correta;
@@ -574,6 +617,8 @@ export default function App() {
                   Carregar Mais 25 Questões ({questoesFiltradas.length - limiteExibicao} restantes)
                 </button>
               </div>
+            )}
+              </>
             )}
           </section>
         )}

@@ -954,3 +954,9 @@
     font-size: 0.8rem;
   }
 }
+
+@keyframes enfSpin {
+  to {
+    transform: rotate(360deg);
+  }
+}
