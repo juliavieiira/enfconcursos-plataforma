@@ -80,10 +80,10 @@ export default function App() {
 
   // Filtros
   const [buscaTexto, setBuscaTexto] = useState('');
-  const [filtroCargo, setFiltroCargo] = useState('Todos');
   const [filtroBanca, setFiltroBanca] = useState('Todas');
+  const [filtroCargo, setFiltroCargo] = useState('Todos');
   const [filtroMateria, setFiltroMateria] = useState('Todas');
-  const [filtroTipo, setFiltroTipo] = useState('Todos');
+  const [filtroAssunto, setFiltroAssunto] = useState('Todos');
 
   // Estado das respostas do usuário na aba questões
   const [respostas, setRespostas] = useState({}); // { [questionId]: { selecionada: 'A', confirmada: true } }
@@ -108,35 +108,73 @@ export default function App() {
   const taxaAcerto = totalRespondidas > 0 ? Math.round((totalAcertos / totalRespondidas) * 100) : 0;
 
   // Bancas e matérias únicas para os selects dos filtros
-  const bancasDisponiveis = ['Todas', ...new Set(questoes.map(q => q.banca))];
-  const materiasDisponiveis = ['Todas', ...new Set(questoes.map(q => q.materia))];
+  const bancasDisponiveis = ['Todas', ...new Set(questoes.map(q => q.banca).filter(Boolean))];
+  const materiasDisponiveis = ['Todas', 'Enfermagem', 'Língua Portuguesa'];
 
-  // Concursos e órgãos agrupados para o filtro "Qual o seu Concurso?"
-  const { prefeiturasDisponiveis, outrosOrgaosDisponiveis } = useMemo(() => {
-    const contagem = {};
-    questoes.forEach(q => {
-      const orgaoLimpo = q.orgao?.trim();
-      if (orgaoLimpo) {
-        contagem[orgaoLimpo] = (contagem[orgaoLimpo] || 0) + 1;
-      }
-    });
+  // Assuntos mapeados dinamicamente com base nas questões do acervo
+  const assuntosConfig = useMemo(() => {
+    const portDef = [
+      { nome: 'Interpretação e Compreensão de Textos', termo: 'interpretação' },
+      { nome: 'Sintaxe da Oração e do Período', termo: 'sintaxe' },
+      { nome: 'Morfologia - Tempos e Modos Verbais', termo: 'verbais' },
+      { nome: 'Morfologia - Classes Gramaticais', termo: 'classes gramaticais' },
+      { nome: 'Semântica e Significação das Palavras', termo: 'semântica' },
+      { nome: 'Pontuação e Emprego da Vírgula', termo: 'pontuação' },
+      { nome: 'Tipologia e Gêneros Textuais', termo: 'tipologia' },
+      { nome: 'Ortografia Oficial e Acentuação Gráfica', termo: 'ortografia' },
+      { nome: 'Morfologia - Pronomes e Colocação Pronominal', termo: 'pronomes' },
+      { nome: 'Coesão Textual e Referenciação', termo: 'coesão' },
+      { nome: 'Conjunções e Relações Lógico-Discursivas', termo: 'conjunções' },
+      { nome: 'Fonologia e Acentuação', termo: 'fonologia' },
+      { nome: 'Emprego do Sinal Indicativo de Crase', termo: 'crase' },
+    ];
 
-    const prefs = [];
-    const outros = [];
+    const enfDef = [
+      { nome: 'Fundamentos e Prática de Enfermagem', termo: 'fundamentos' },
+      { nome: 'Saúde da Mulher (Pré-Natal, Parto e Puerpério)', termo: 'saúde da mulher' },
+      { nome: 'Imunização e Calendário Vacinal', termo: 'imunização' },
+      { nome: 'Urgência, Emergência e PCR', termo: 'urgência e emergência' },
+      { nome: 'Legislação de Enfermagem e Lei do Exercício', termo: 'legislação de enfermagem' },
+      { nome: 'Código de Ética dos Profissionais de Enfermagem', termo: 'código de ética' },
+      { nome: 'Saúde Pública e SUS', termo: 'saúde pública' },
+      { nome: 'Atenção Básica e Saúde da Família', termo: 'atenção básica' },
+      { nome: 'Segurança do Paciente', termo: 'segurança do paciente' },
+      { nome: 'Biossegurança em Enfermagem', termo: 'biossegurança' },
+      { nome: 'Epidemiologia e Vigilância Epidemiológica', termo: 'epidemiologia' },
+      { nome: 'Doenças Infecciosas e Parasitárias', termo: 'doenças infecciosas' },
+      { nome: 'Doenças Crônicas Não Transmissíveis', termo: 'doenças crônicas' },
+      { nome: 'Farmacologia e Administração de Medicamentos', termo: 'medicamentos' },
+      { nome: 'Saúde da Criança e do Adolescente', termo: 'saúde da criança' },
+      { nome: 'Sinais Vitais e Cuidados de Enfermagem', termo: 'sinais vitais' },
+      { nome: 'Enfermagem em Central de Material Esterilizado (CME)', termo: 'central de material esterilizado' },
+      { nome: 'Enfermagem em Centro Cirúrgico', termo: 'centro cirúrgico' },
+      { nome: 'Enfermagem em UTI e Paciente Crítico', termo: 'uti' },
+      { nome: 'Assistência em Feridas e Curativos', termo: 'feridas e curativos' },
+      { nome: 'Processo de Enfermagem e Sistematização (SAE)', termo: 'processo de enfermagem' },
+      { nome: 'Saúde do Idoso', termo: 'saúde do idoso' },
+      { nome: 'Infecção Hospitalar e CCIH', termo: 'infecção hospitalar' },
+      { nome: 'Saúde Mental', termo: 'saúde mental' },
+    ];
 
-    Object.entries(contagem).forEach(([nome, total]) => {
-      if (nome.toLowerCase().includes('prefeitura')) {
-        prefs.push({ nome, total });
-      } else {
-        outros.push({ nome, total });
-      }
-    });
+    const portComContagem = portDef.map(item => ({
+      ...item,
+      total: questoes.filter(q => q.materia === 'Língua Portuguesa' && q.assunto?.toLowerCase().includes(item.termo)).length
+    }));
 
-    prefs.sort((a, b) => a.nome.localeCompare(b.nome, 'pt-BR'));
-    outros.sort((a, b) => a.nome.localeCompare(b.nome, 'pt-BR'));
+    const enfComContagem = enfDef.map(item => ({
+      ...item,
+      total: questoes.filter(q => q.materia === 'Enfermagem' && q.assunto?.toLowerCase().includes(item.termo)).length
+    }));
 
-    return { prefeiturasDisponiveis: prefs, outrosOrgaosDisponiveis: outros };
+    return { portugues: portComContagem, enfermagem: enfComContagem };
   }, [questoes]);
+
+  const nomeAssuntoAtivo = useMemo(() => {
+    if (filtroAssunto === 'Todos') return null;
+    const todos = [...assuntosConfig.portugues, ...assuntosConfig.enfermagem];
+    const enc = todos.find(a => a.termo === filtroAssunto);
+    return enc ? enc.nome : filtroAssunto;
+  }, [filtroAssunto, assuntosConfig]);
 
   // Aba Padrão da Banca / Raio-X
   const [padraoMateria, setPadraoMateria] = useState('Todas'); // 'Todas', 'Língua Portuguesa', 'Enfermagem'
@@ -282,19 +320,24 @@ export default function App() {
   // Filtragem
   const questoesFiltradas = questoes.filter(q => {
     const matchBusca =
+      !buscaTexto ||
       q.enunciado.toLowerCase().includes(buscaTexto.toLowerCase()) ||
       q.orgao.toLowerCase().includes(buscaTexto.toLowerCase()) ||
       q.assunto.toLowerCase().includes(buscaTexto.toLowerCase());
-    const matchCargo = filtroCargo === 'Todos' || q.cargo === filtroCargo;
-    const matchBanca = filtroBanca === 'Todas' || q.banca === filtroBanca;
-    const matchMateria = filtroMateria === 'Todas' || q.materia === filtroMateria;
-    const matchTipo =
-      filtroTipo === 'Todos' ||
-      (filtroTipo === 'Prefeituras' && q.orgao.toLowerCase().includes('prefeitura')) ||
-      (filtroTipo === 'Grandes' && !q.orgao.toLowerCase().includes('prefeitura')) ||
-      q.orgao === filtroTipo;
 
-    return matchBusca && matchCargo && matchBanca && matchMateria && matchTipo;
+    const matchBanca = filtroBanca === 'Todas' || q.banca === filtroBanca;
+
+    const matchCargo =
+      filtroCargo === 'Todos' ||
+      (q.materia === 'Enfermagem' ? q.cargo === filtroCargo : true);
+
+    const matchMateria = filtroMateria === 'Todas' || q.materia === filtroMateria;
+
+    const matchAssunto =
+      filtroAssunto === 'Todos' ||
+      q.assunto?.toLowerCase().includes(filtroAssunto.toLowerCase());
+
+    return matchBusca && matchBanca && matchCargo && matchMateria && matchAssunto;
   });
 
   // Navegação de questões no Modo Individual (1 por vez com pre-loading leve)
@@ -529,39 +572,27 @@ export default function App() {
               </div>
 
               <div className="filter-grid">
+                {/* 1. Banca Organizadora */}
                 <div className="filter-group">
-                  <label className="filter-label">Qual o seu Concurso?</label>
+                  <label className="filter-label">Banca Organizadora</label>
                   <select
                     className="filter-select"
-                    value={filtroTipo}
-                    onChange={e => { setFiltroTipo(e.target.value); setQuestaoIndex(0); }}
+                    value={filtroBanca}
+                    onChange={e => { setFiltroBanca(e.target.value); setQuestaoIndex(0); }}
                   >
-                    <option value="Todos">🎯 Todos os Concursos ({questoes.length > 0 ? questoes.length.toLocaleString('pt-BR') : '2.007'} questões)</option>
-                    <option value="Prefeituras">🏛️ Todas as Prefeituras Municipais (1.520 q.)</option>
-                    <option value="Grandes">🏥 Grandes Concursos & Federais (487 q.)</option>
-
-                    {prefeiturasDisponiveis.length > 0 && (
-                      <optgroup label="📍 Escolha sua Prefeitura">
-                        {prefeiturasDisponiveis.map(p => (
-                          <option key={p.nome} value={p.nome}>
-                            {p.nome} ({p.total} q.)
-                          </option>
-                        ))}
-                      </optgroup>
-                    )}
-
-                    {outrosOrgaosDisponiveis.length > 0 && (
-                      <optgroup label="🏛️ Câmaras, Conselhos e Federais">
-                        {outrosOrgaosDisponiveis.map(o => (
-                          <option key={o.nome} value={o.nome}>
-                            {o.nome} ({o.total} q.)
-                          </option>
-                        ))}
-                      </optgroup>
-                    )}
+                    <option value="Todas">Todas as Bancas ({questoes.length > 0 ? questoes.length.toLocaleString('pt-BR') : '2.007'} q.)</option>
+                    {bancasDisponiveis.filter(b => b !== 'Todas').map(b => {
+                      const count = questoes.filter(q => q.banca === b).length;
+                      return (
+                        <option key={b} value={b}>
+                          {b} ({count > 0 ? `${count} questões` : '2.007 questões'})
+                        </option>
+                      );
+                    })}
                   </select>
                 </div>
 
+                {/* 2. Cargo */}
                 <div className="filter-group">
                   <label className="filter-label">Cargo</label>
                   <select
@@ -571,33 +602,79 @@ export default function App() {
                   >
                     <option value="Todos">Todos os Cargos</option>
                     <option value="Técnico de Enfermagem">Técnico de Enfermagem</option>
-                    <option value="Enfermeiro">Enfermeiro (Nível Superior)</option>
+                    <option value="Enfermeiro">Enfermeiro</option>
                   </select>
                 </div>
 
+                {/* 3. Disciplina */}
                 <div className="filter-group">
-                  <label className="filter-label">Banca Examinadora</label>
-                  <select
-                    className="filter-select"
-                    value={filtroBanca}
-                    onChange={e => { setFiltroBanca(e.target.value); setQuestaoIndex(0); }}
-                  >
-                    {bancasDisponiveis.map(b => (
-                      <option key={b} value={b}>{b}</option>
-                    ))}
-                  </select>
-                </div>
-
-                <div className="filter-group">
-                  <label className="filter-label">Disciplina / Matéria</label>
+                  <label className="filter-label">Disciplina</label>
                   <select
                     className="filter-select"
                     value={filtroMateria}
-                    onChange={e => { setFiltroMateria(e.target.value); setQuestaoIndex(0); }}
+                    onChange={e => {
+                      setFiltroMateria(e.target.value);
+                      setFiltroAssunto('Todos');
+                      setQuestaoIndex(0);
+                    }}
                   >
-                    {materiasDisponiveis.map(m => (
-                      <option key={m} value={m}>{m}</option>
-                    ))}
+                    <option value="Todas">Todas as Disciplinas</option>
+                    <option value="Enfermagem">Enfermagem</option>
+                    <option value="Língua Portuguesa">Língua Portuguesa</option>
+                  </select>
+                </div>
+
+                {/* 4. Assunto */}
+                <div className="filter-group">
+                  <label className="filter-label">Assunto</label>
+                  <select
+                    className="filter-select"
+                    value={filtroAssunto}
+                    onChange={e => { setFiltroAssunto(e.target.value); setQuestaoIndex(0); }}
+                  >
+                    <option value="Todos">
+                      {filtroMateria === 'Língua Portuguesa'
+                        ? 'Todos os Assuntos de Língua Portuguesa'
+                        : filtroMateria === 'Enfermagem'
+                        ? 'Todos os Assuntos de Enfermagem'
+                        : 'Todos os Assuntos'}
+                    </option>
+
+                    {(filtroMateria === 'Todas' || filtroMateria === 'Língua Portuguesa') && (
+                      filtroMateria === 'Todas' ? (
+                        <optgroup label="📖 Língua Portuguesa">
+                          {assuntosConfig.portugues.map(a => (
+                            <option key={a.termo} value={a.termo}>
+                              {a.nome} ({a.total > 0 ? `${a.total} q.` : '0 q.'})
+                            </option>
+                          ))}
+                        </optgroup>
+                      ) : (
+                        assuntosConfig.portugues.map(a => (
+                          <option key={a.termo} value={a.termo}>
+                            {a.nome} ({a.total > 0 ? `${a.total} q.` : '0 q.'})
+                          </option>
+                        ))
+                      )
+                    )}
+
+                    {(filtroMateria === 'Todas' || filtroMateria === 'Enfermagem') && (
+                      filtroMateria === 'Todas' ? (
+                        <optgroup label="🩺 Enfermagem">
+                          {assuntosConfig.enfermagem.map(a => (
+                            <option key={a.termo} value={a.termo}>
+                              {a.nome} ({a.total > 0 ? `${a.total} q.` : '0 q.'})
+                            </option>
+                          ))}
+                        </optgroup>
+                      ) : (
+                        assuntosConfig.enfermagem.map(a => (
+                          <option key={a.termo} value={a.termo}>
+                            {a.nome} ({a.total > 0 ? `${a.total} q.` : '0 q.'})
+                          </option>
+                        ))
+                      )
+                    )}
                   </select>
                 </div>
               </div>
@@ -622,10 +699,10 @@ export default function App() {
                   className="btn-primary"
                   onClick={() => {
                     setBuscaTexto('');
-                    setFiltroCargo('Todos');
                     setFiltroBanca('Todas');
+                    setFiltroCargo('Todos');
                     setFiltroMateria('Todas');
-                    setFiltroTipo('Todos');
+                    setFiltroAssunto('Todos');
                     setQuestaoIndex(0);
                   }}
                 >
@@ -654,14 +731,57 @@ export default function App() {
                         );
                       })()
                     )}
-                    {filtroTipo !== 'Todos' && (
-                      <span className="active-concurso-badge" title="Filtro de Concurso ativo">
-                        <span>🎯 {filtroTipo === 'Prefeituras' ? 'Prefeituras Municipais' : filtroTipo === 'Grandes' ? 'Grandes Concursos' : filtroTipo}</span>
+
+                    {filtroBanca !== 'Todas' && (
+                      <span className="active-concurso-badge" title="Filtro de Banca ativo">
+                        <span>🏛️ Banca: {filtroBanca}</span>
                         <button
                           type="button"
-                          onClick={() => { setFiltroTipo('Todos'); setQuestaoIndex(0); }}
+                          onClick={() => { setFiltroBanca('Todas'); setQuestaoIndex(0); }}
                           className="btn-remove-concurso-filter"
-                          title="Remover filtro e ver todos os concursos"
+                          title="Remover filtro de banca"
+                        >
+                          ×
+                        </button>
+                      </span>
+                    )}
+
+                    {filtroCargo !== 'Todos' && (
+                      <span className="active-concurso-badge" title="Filtro de Cargo ativo">
+                        <span>💼 {filtroCargo}</span>
+                        <button
+                          type="button"
+                          onClick={() => { setFiltroCargo('Todos'); setQuestaoIndex(0); }}
+                          className="btn-remove-concurso-filter"
+                          title="Remover filtro de cargo"
+                        >
+                          ×
+                        </button>
+                      </span>
+                    )}
+
+                    {filtroMateria !== 'Todas' && (
+                      <span className="active-concurso-badge" title="Filtro de Disciplina ativo">
+                        <span>📚 {filtroMateria}</span>
+                        <button
+                          type="button"
+                          onClick={() => { setFiltroMateria('Todas'); setFiltroAssunto('Todos'); setQuestaoIndex(0); }}
+                          className="btn-remove-concurso-filter"
+                          title="Remover filtro de disciplina"
+                        >
+                          ×
+                        </button>
+                      </span>
+                    )}
+
+                    {filtroAssunto !== 'Todos' && (
+                      <span className="active-concurso-badge" title="Filtro de Assunto ativo">
+                        <span>🏷️ {nomeAssuntoAtivo}</span>
+                        <button
+                          type="button"
+                          onClick={() => { setFiltroAssunto('Todos'); setQuestaoIndex(0); }}
+                          className="btn-remove-concurso-filter"
+                          title="Remover filtro de assunto"
                         >
                           ×
                         </button>
