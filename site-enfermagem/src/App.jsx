@@ -111,70 +111,41 @@ export default function App() {
   const bancasDisponiveis = ['Todas', ...new Set(questoes.map(q => q.banca).filter(Boolean))];
   const materiasDisponiveis = ['Todas', 'Enfermagem', 'Língua Portuguesa'];
 
-  // Assuntos mapeados dinamicamente com base nas questões do acervo
+  // Assuntos extraídos fielmente do banco de questões (100% de cobertura)
   const assuntosConfig = useMemo(() => {
-    const portDef = [
-      { nome: 'Interpretação e Compreensão de Textos', termo: 'interpretação' },
-      { nome: 'Sintaxe da Oração e do Período', termo: 'sintaxe' },
-      { nome: 'Morfologia - Tempos e Modos Verbais', termo: 'verbais' },
-      { nome: 'Morfologia - Classes Gramaticais', termo: 'classes gramaticais' },
-      { nome: 'Semântica e Significação das Palavras', termo: 'semântica' },
-      { nome: 'Pontuação e Emprego da Vírgula', termo: 'pontuação' },
-      { nome: 'Tipologia e Gêneros Textuais', termo: 'tipologia' },
-      { nome: 'Ortografia Oficial e Acentuação Gráfica', termo: 'ortografia' },
-      { nome: 'Morfologia - Pronomes e Colocação Pronominal', termo: 'pronomes' },
-      { nome: 'Coesão Textual e Referenciação', termo: 'coesão' },
-      { nome: 'Conjunções e Relações Lógico-Discursivas', termo: 'conjunções' },
-      { nome: 'Fonologia e Acentuação', termo: 'fonologia' },
-      { nome: 'Emprego do Sinal Indicativo de Crase', termo: 'crase' },
-    ];
+    // 1. Assuntos de Língua Portuguesa extraídos diretamente do banco
+    const portMap = {};
+    questoes.forEach(q => {
+      if (q.materia === 'Língua Portuguesa' && q.assunto) {
+        const nome = q.assunto.trim();
+        portMap[nome] = (portMap[nome] || 0) + 1;
+      }
+    });
+    const portList = Object.entries(portMap)
+      .map(([nome, total]) => ({ nome, total, materia: 'Língua Portuguesa' }))
+      .sort((a, b) => a.nome.localeCompare(b.nome, 'pt-BR'));
 
-    const enfDef = [
-      { nome: 'Fundamentos e Prática de Enfermagem', termo: 'fundamentos' },
-      { nome: 'Saúde da Mulher (Pré-Natal, Parto e Puerpério)', termo: 'saúde da mulher' },
-      { nome: 'Imunização e Calendário Vacinal', termo: 'imunização' },
-      { nome: 'Urgência, Emergência e PCR', termo: 'urgência e emergência' },
-      { nome: 'Legislação de Enfermagem e Lei do Exercício', termo: 'legislação de enfermagem' },
-      { nome: 'Código de Ética dos Profissionais de Enfermagem', termo: 'código de ética' },
-      { nome: 'Saúde Pública e SUS', termo: 'saúde pública' },
-      { nome: 'Atenção Básica e Saúde da Família', termo: 'atenção básica' },
-      { nome: 'Segurança do Paciente', termo: 'segurança do paciente' },
-      { nome: 'Biossegurança em Enfermagem', termo: 'biossegurança' },
-      { nome: 'Epidemiologia e Vigilância Epidemiológica', termo: 'epidemiologia' },
-      { nome: 'Doenças Infecciosas e Parasitárias', termo: 'doenças infecciosas' },
-      { nome: 'Doenças Crônicas Não Transmissíveis', termo: 'doenças crônicas' },
-      { nome: 'Farmacologia e Administração de Medicamentos', termo: 'medicamentos' },
-      { nome: 'Saúde da Criança e do Adolescente', termo: 'saúde da criança' },
-      { nome: 'Sinais Vitais e Cuidados de Enfermagem', termo: 'sinais vitais' },
-      { nome: 'Enfermagem em Central de Material Esterilizado (CME)', termo: 'central de material esterilizado' },
-      { nome: 'Enfermagem em Centro Cirúrgico', termo: 'centro cirúrgico' },
-      { nome: 'Enfermagem em UTI e Paciente Crítico', termo: 'uti' },
-      { nome: 'Assistência em Feridas e Curativos', termo: 'feridas e curativos' },
-      { nome: 'Processo de Enfermagem e Sistematização (SAE)', termo: 'processo de enfermagem' },
-      { nome: 'Saúde do Idoso', termo: 'saúde do idoso' },
-      { nome: 'Infecção Hospitalar e CCIH', termo: 'infecção hospitalar' },
-      { nome: 'Saúde Mental', termo: 'saúde mental' },
-    ];
+    // 2. Assuntos de Enfermagem extraídos diretamente do banco
+    const enfMap = {};
+    questoes.forEach(q => {
+      if (q.materia === 'Enfermagem' && q.assunto) {
+        const partes = q.assunto.split(',').map(p => p.trim()).filter(Boolean);
+        partes.forEach(parte => {
+          if (parte.length > 2) {
+            enfMap[parte] = (enfMap[parte] || 0) + 1;
+          }
+        });
+      }
+    });
+    const enfList = Object.entries(enfMap)
+      .filter(([_, total]) => total >= 2)
+      .map(([nome, total]) => ({ nome, total, materia: 'Enfermagem' }))
+      .sort((a, b) => a.nome.localeCompare(b.nome, 'pt-BR'));
 
-    const portComContagem = portDef.map(item => ({
-      ...item,
-      total: questoes.filter(q => q.materia === 'Língua Portuguesa' && q.assunto?.toLowerCase().includes(item.termo)).length
-    }));
-
-    const enfComContagem = enfDef.map(item => ({
-      ...item,
-      total: questoes.filter(q => q.materia === 'Enfermagem' && q.assunto?.toLowerCase().includes(item.termo)).length
-    }));
-
-    return { portugues: portComContagem, enfermagem: enfComContagem };
+    return { portugues: portList, enfermagem: enfList };
   }, [questoes]);
 
-  const nomeAssuntoAtivo = useMemo(() => {
-    if (filtroAssunto === 'Todos') return null;
-    const todos = [...assuntosConfig.portugues, ...assuntosConfig.enfermagem];
-    const enc = todos.find(a => a.termo === filtroAssunto);
-    return enc ? enc.nome : filtroAssunto;
-  }, [filtroAssunto, assuntosConfig]);
+  const nomeAssuntoAtivo = filtroAssunto !== 'Todos' ? filtroAssunto : null;
 
   // Aba Padrão da Banca / Raio-X
   const [padraoMateria, setPadraoMateria] = useState('Todas'); // 'Todas', 'Língua Portuguesa', 'Enfermagem'
@@ -630,7 +601,22 @@ export default function App() {
                   <select
                     className="filter-select"
                     value={filtroAssunto}
-                    onChange={e => { setFiltroAssunto(e.target.value); setQuestaoIndex(0); }}
+                    onChange={e => {
+                      const novoAssunto = e.target.value;
+                      setFiltroAssunto(novoAssunto);
+                      setQuestaoIndex(0);
+
+                      // Ajusta automaticamente a Disciplina conforme o assunto escolhido se necessário
+                      if (novoAssunto !== 'Todos') {
+                        const isPort = assuntosConfig.portugues.some(a => a.nome === novoAssunto);
+                        const isEnf = assuntosConfig.enfermagem.some(a => a.nome === novoAssunto);
+                        if (isPort && filtroMateria !== 'Língua Portuguesa') {
+                          setFiltroMateria('Língua Portuguesa');
+                        } else if (isEnf && filtroMateria !== 'Enfermagem') {
+                          setFiltroMateria('Enfermagem');
+                        }
+                      }
+                    }}
                   >
                     <option value="Todos">
                       {filtroMateria === 'Língua Portuguesa'
@@ -644,14 +630,14 @@ export default function App() {
                       filtroMateria === 'Todas' ? (
                         <optgroup label="📖 Língua Portuguesa">
                           {assuntosConfig.portugues.map(a => (
-                            <option key={a.termo} value={a.termo}>
+                            <option key={a.nome} value={a.nome}>
                               {a.nome} ({a.total > 0 ? `${a.total} q.` : '0 q.'})
                             </option>
                           ))}
                         </optgroup>
                       ) : (
                         assuntosConfig.portugues.map(a => (
-                          <option key={a.termo} value={a.termo}>
+                          <option key={a.nome} value={a.nome}>
                             {a.nome} ({a.total > 0 ? `${a.total} q.` : '0 q.'})
                           </option>
                         ))
@@ -662,14 +648,14 @@ export default function App() {
                       filtroMateria === 'Todas' ? (
                         <optgroup label="🩺 Enfermagem">
                           {assuntosConfig.enfermagem.map(a => (
-                            <option key={a.termo} value={a.termo}>
+                            <option key={a.nome} value={a.nome}>
                               {a.nome} ({a.total > 0 ? `${a.total} q.` : '0 q.'})
                             </option>
                           ))}
                         </optgroup>
                       ) : (
                         assuntosConfig.enfermagem.map(a => (
-                          <option key={a.termo} value={a.termo}>
+                          <option key={a.nome} value={a.nome}>
                             {a.nome} ({a.total > 0 ? `${a.total} q.` : '0 q.'})
                           </option>
                         ))
@@ -711,6 +697,37 @@ export default function App() {
               </div>
             ) : (
               <>
+                {/* Banner de Caderno Temático quando um assunto é selecionado */}
+                {filtroAssunto !== 'Todos' && (
+                  <div className="assunto-banner animate-fade-in">
+                    <div className="assunto-banner-info">
+                      <Target size={22} color="#0d9488" />
+                      <div>
+                        <strong>Caderno Temático: {filtroAssunto}</strong>
+                        <p>{totalFiltradas} {totalFiltradas === 1 ? 'questão auditada pronta para resolução' : 'questões auditadas prontas para resolução'}</p>
+                      </div>
+                    </div>
+                    <div className="assunto-banner-actions">
+                      <button
+                        type="button"
+                        className={`btn-mode-pill ${modoVisualizacao === 'individual' ? 'active' : ''}`}
+                        onClick={() => setModoVisualizacao('individual')}
+                        title="Resolver 1 questão por vez com foco total"
+                      >
+                        <Focus size={14} /> 1 por Vez (Foco)
+                      </button>
+                      <button
+                        type="button"
+                        className={`btn-mode-pill ${modoVisualizacao === 'lista' ? 'active' : ''}`}
+                        onClick={() => setModoVisualizacao('lista')}
+                        title="Exibir todas as questões em lista contínua"
+                      >
+                        <LayoutList size={14} /> Todas em Lista ({totalFiltradas})
+                      </button>
+                    </div>
+                  </div>
+                )}
+
                 {/* Barra de Navegação e Modos */}
                 <div className="question-nav-header">
                   <div className="question-nav-counter">
@@ -1040,7 +1057,7 @@ export default function App() {
                 {/* MODO 2: LISTA CORRIDA (OPCIONAL) */}
                 {modoVisualizacao === 'lista' && (
                   <div className="list-mode-wrapper animate-fade-in">
-                    {questoesFiltradas.slice(0, limiteExibicao).map((q, index) => {
+                    {(filtroAssunto !== 'Todos' ? questoesFiltradas : questoesFiltradas.slice(0, limiteExibicao)).map((q, index) => {
                       const resp = respostas[q.id];
                       const confirmada = resp?.confirmada;
                       const acertou = confirmada && resp.selecionada === q.resposta_correta;
@@ -1159,7 +1176,7 @@ export default function App() {
                     })}
 
                     {/* Botão para carregar mais questões */}
-                    {limiteExibicao < questoesFiltradas.length && (
+                    {filtroAssunto === 'Todos' && limiteExibicao < questoesFiltradas.length && (
                       <div style={{ textAlign: 'center', margin: '2.5rem 0' }}>
                         <button
                           className="btn-primary"
