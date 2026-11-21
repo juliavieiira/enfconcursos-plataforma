@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
 import questoesData from './data/questoes.json';
-import { BANCAS_PRECONFIGURADAS, INSIGHTS_POR_BANCA } from './data/bancasInfo';
+import { BANCAS_PRECONFIGURADAS, INSIGHTS_POR_BANCA, getInsightPorBanca } from './data/bancasInfo';
 import {
   Stethoscope,
   BookOpen,
@@ -66,7 +66,8 @@ export default function App() {
   const materiasDisponiveis = ['Todas', ...new Set(questoes.map(q => q.materia))];
 
   // Aba Padrão da Banca / Raio-X
-  const [padraoCargo, setPadraoCargo] = useState('Todos'); // 'Todos', 'Técnico de Enfermagem', 'Enfermeiro'
+  const [padraoMateria, setPadraoMateria] = useState('Todas'); // 'Todas', 'Língua Portuguesa', 'Enfermagem'
+  const [padraoCargo, setPadraoCargo] = useState('Todos'); // 'Todos', etc.
   const [padraoBanca, setPadraoBanca] = useState('SELECON'); // 'Todas', 'SELECON', etc.
 
   // Bancas presentes no acervo de questões + bancas de referência preparadas para expansão
@@ -74,11 +75,40 @@ export default function App() {
   const todasBancasOpcoes = Array.from(new Set([...bancasNoAcervo, ...BANCAS_PRECONFIGURADAS]));
   const insightsPorBanca = INSIGHTS_POR_BANCA;
 
-  // Filtragem estrita da aba Padrão da Banca por Banca + Cargo
+  // Filtragem estrita da aba Padrão da Banca por Banca + Matéria + Cargo
   const questoesPadrao = questoes.filter(q => {
     const matchBanca = padraoBanca === 'Todas' || q.banca === padraoBanca;
-    const matchCargo = padraoCargo === 'Todos' || q.cargo === padraoCargo;
-    return matchBanca && matchCargo;
+    const matchMateria = padraoMateria === 'Todas' || q.materia === padraoMateria;
+    let matchCargo = true;
+    if (padraoCargo !== 'Todos') {
+      if (padraoCargo === 'Técnico de Enfermagem') {
+        matchCargo = q.cargo === 'Técnico de Enfermagem' || (q.cargo && q.cargo.toLowerCase().includes('técnico'));
+      } else if (padraoCargo === 'Enfermeiro') {
+        matchCargo = q.cargo === 'Enfermeiro' || (q.cargo && q.cargo.toLowerCase().includes('enfermeir'));
+      } else if (padraoCargo === 'Nível Superior') {
+        matchCargo = q.cargo === 'Enfermeiro' || (q.cargo && (
+          q.cargo.toLowerCase().includes('superior') ||
+          q.cargo.toLowerCase().includes('analista') ||
+          q.cargo.toLowerCase().includes('advogado') ||
+          q.cargo.toLowerCase().includes('contador') ||
+          q.cargo.toLowerCase().includes('professor') ||
+          q.cargo.toLowerCase().includes('assistente social') ||
+          q.cargo.toLowerCase().includes('médic')
+        ));
+      } else if (padraoCargo === 'Nível Médio / Técnico') {
+        matchCargo = q.cargo === 'Técnico de Enfermagem' || (q.cargo && (
+          q.cargo.toLowerCase().includes('médio') ||
+          q.cargo.toLowerCase().includes('técnico') ||
+          q.cargo.toLowerCase().includes('assistente') ||
+          q.cargo.toLowerCase().includes('agente') ||
+          q.cargo.toLowerCase().includes('fiscal') ||
+          q.cargo.toLowerCase().includes('guarda')
+        ));
+      } else {
+        matchCargo = q.cargo === padraoCargo;
+      }
+    }
+    return matchBanca && matchMateria && matchCargo;
   });
 
   const contagemTemas = {};
@@ -137,6 +167,9 @@ export default function App() {
 
   const irParaQuestoesPorTema = (tema) => {
     setBuscaTexto(tema === 'Demais Conteúdos' ? '' : tema);
+    if (padraoMateria !== 'Todas') {
+      setFiltroMateria(padraoMateria);
+    }
     if (padraoCargo !== 'Todos') {
       setFiltroCargo(padraoCargo);
     }
@@ -147,28 +180,28 @@ export default function App() {
     window.scrollTo({ top: 350, behavior: 'smooth' });
   };
 
-  // Insight ativo para a banca selecionada
-  const currentInsight = insightsPorBanca[padraoBanca] || {
-    nome: padraoBanca === 'Todas' ? 'Concursos de Prefeituras & SUS' : padraoBanca,
+  // Insight estratégico dinâmico por banca e disciplina
+  const currentInsight = getInsightPorBanca(padraoBanca, padraoMateria) || {
+    nome: padraoBanca === 'Todas' ? 'Concursos Públicos' : padraoBanca,
     foco1: {
       tag: 'Conteúdo Mais Cobrado',
-      title: top10[0] ? top10[0][0] : 'Fundamentos e Prática Diária',
-      text: `O tema com maior incidência nesta seleção é "${top10[0] ? top10[0][0] : 'Fundamentos'}", correspondendo a ${top10[0] && questoesPadrao.length > 0 ? ((top10[0][1] / questoesPadrao.length) * 100).toFixed(1) : 0}% das questões analisadas.`
+      title: top10[0] ? top10[0][0] : 'Conteúdo Principal',
+      text: `O tema com maior incidência nesta seleção é "${top10[0] ? top10[0][0] : 'Conteúdo Principal'}", correspondendo a ${top10[0] && questoesPadrao.length > 0 ? ((top10[0][1] / questoesPadrao.length) * 100).toFixed(1) : 0}% das questões analisadas.`
     },
     ponto: {
       tag: 'Ponto Garantido',
-      title: 'Legislação e Ética Profissional',
-      text: 'Questões sobre a Lei do Exercício Profissional (Lei 7.498/86) e o Código de Ética (Resolução COFEN 564/2017) são cobradas em praticamente 100% das provas de enfermagem.'
+      title: padraoMateria === 'Língua Portuguesa' ? 'Sintaxe e Pontuação' : 'Legislação e Ética Profissional',
+      text: padraoMateria === 'Língua Portuguesa' ? 'Sintaxe e pontuação são cobradas em praticamente todas as provas da banca.' : 'Questões de Legislação e Código de Ética caem em praticamente 100% dos concursos.'
     },
     perfil: {
       tag: 'Estratégia de Prova',
       title: 'Foco Orientado por Cargo',
-      text: 'Candidatos a Técnico devem gabaritar Administração de Medicamentos e Biossegurança. Já candidatos a Enfermeiro precisam dominar Epidemiologia, Vigilância e SAE.'
+      text: 'Ajuste seu cronograma priorizando os temas de maior incidência estatística no gráfico.'
     },
     sus: {
-      tag: 'Saúde Pública',
-      title: 'Legislação do SUS & PNI',
-      text: 'A Lei Orgânica da Saúde (8.080/90) e o Calendário Nacional de Imunização do Ministério da Saúde são os pilares essenciais para concursos municipais.'
+      tag: 'Critério da Banca',
+      title: 'Norma Culta e Padrão da Banca',
+      text: 'A banca mantém fidelidade às gramáticas de referência e protocolos oficiais.'
     }
   };
 
@@ -805,13 +838,13 @@ export default function App() {
                 <span>Inteligência Estatística de Concursos</span>
               </div>
               <h2 style={{ fontSize: '2rem', fontWeight: 800, color: '#0f172a', marginBottom: '0.75rem' }}>
-                Qual o Padrão da Banca <span style={{ color: '#0d9488' }}>{padraoBanca === 'Todas' ? 'em Concursos de Enfermagem' : padraoBanca}</span>?
+                Qual o Padrão da Banca <span style={{ color: '#0d9488' }}>{padraoBanca === 'Todas' ? 'em Concursos Públicos' : padraoBanca}</span>{padraoMateria !== 'Todas' ? ` (${padraoMateria})` : ''}?
               </h2>
               <p style={{ color: '#64748b', fontSize: '1rem', lineHeight: '1.6' }}>
-                Auditoria estatística em tempo real baseada em <strong>{questoesPadrao.length} questões auditadas</strong>. Selecione a banca examinadora e o cargo desejado para descobrir a probabilidade de cada tema cair na sua prova, ordenados do 1º ao último colocado.
+                Auditoria estatística em tempo real baseada em <strong>{questoesPadrao.length} questões auditadas</strong>. Selecione a banca examinadora, a disciplina e o cargo desejado para descobrir a probabilidade de cada tema cair na sua prova, ordenados do 1º ao último colocado.
               </p>
 
-              {/* Card de Filtros: Banca Examinadora + Cargo */}
+              {/* Card de Filtros: Banca Examinadora + Disciplina + Cargo */}
               <div className="padrao-filters-card">
                 {/* Linha 1: Seleção de Bancas */}
                 <div className="padrao-filter-row">
@@ -852,12 +885,61 @@ export default function App() {
                   </div>
                 </div>
 
-                {/* Linha 2: Seleção de Cargo / Nível */}
+                {/* Linha 2: Seleção de Disciplina / Matéria */}
+                <div className="padrao-filter-row">
+                  <div className="padrao-filter-header">
+                    <span className="padrao-filter-title">
+                      <BookOpen size={16} color="#0d9488" />
+                      2. Disciplina / Matéria:
+                    </span>
+                  </div>
+
+                  <div className="padrao-pills-row">
+                    <button
+                      className={`btn-padrao-pill ${padraoMateria === 'Todas' ? 'active' : ''}`}
+                      onClick={() => {
+                        setPadraoMateria('Todas');
+                        setPadraoCargo('Todos');
+                      }}
+                    >
+                      Todas as Matérias
+                      <span className="pill-badge">
+                        {questoes.filter(q => padraoBanca === 'Todas' || q.banca === padraoBanca).length} q.
+                      </span>
+                    </button>
+                    <button
+                      className={`btn-padrao-pill ${padraoMateria === 'Língua Portuguesa' ? 'active' : ''}`}
+                      onClick={() => {
+                        setPadraoMateria('Língua Portuguesa');
+                        setPadraoCargo('Todos');
+                      }}
+                    >
+                      Língua Portuguesa
+                      <span className="pill-badge">
+                        {questoes.filter(q => (padraoBanca === 'Todas' || q.banca === padraoBanca) && q.materia === 'Língua Portuguesa').length} q.
+                      </span>
+                    </button>
+                    <button
+                      className={`btn-padrao-pill ${padraoMateria === 'Enfermagem' ? 'active' : ''}`}
+                      onClick={() => {
+                        setPadraoMateria('Enfermagem');
+                        setPadraoCargo('Todos');
+                      }}
+                    >
+                      Enfermagem
+                      <span className="pill-badge">
+                        {questoes.filter(q => (padraoBanca === 'Todas' || q.banca === padraoBanca) && q.materia === 'Enfermagem').length} q.
+                      </span>
+                    </button>
+                  </div>
+                </div>
+
+                {/* Linha 3: Seleção de Cargo / Nível */}
                 <div className="padrao-filter-row">
                   <div className="padrao-filter-header">
                     <span className="padrao-filter-title">
                       <Layers size={16} color="#0d9488" />
-                      2. Nível de Escolaridade / Cargo:
+                      3. Nível de Escolaridade / Cargo:
                     </span>
                   </div>
 
@@ -866,20 +948,67 @@ export default function App() {
                       className={`btn-padrao-pill ${padraoCargo === 'Todos' ? 'active' : ''}`}
                       onClick={() => setPadraoCargo('Todos')}
                     >
-                      Todos os Cargos ({questoes.filter(q => padraoBanca === 'Todas' || q.banca === padraoBanca).length})
+                      Todos os Cargos ({questoes.filter(q => (padraoBanca === 'Todas' || q.banca === padraoBanca) && (padraoMateria === 'Todas' || q.materia === padraoMateria)).length})
                     </button>
-                    <button
-                      className={`btn-padrao-pill ${padraoCargo === 'Técnico de Enfermagem' ? 'active' : ''}`}
-                      onClick={() => setPadraoCargo('Técnico de Enfermagem')}
-                    >
-                      Técnico de Enfermagem ({questoes.filter(q => (padraoBanca === 'Todas' || q.banca === padraoBanca) && q.cargo === 'Técnico de Enfermagem').length})
-                    </button>
-                    <button
-                      className={`btn-padrao-pill ${padraoCargo === 'Enfermeiro' ? 'active' : ''}`}
-                      onClick={() => setPadraoCargo('Enfermeiro')}
-                    >
-                      Enfermeiro Superior ({questoes.filter(q => (padraoBanca === 'Todas' || q.banca === padraoBanca) && q.cargo === 'Enfermeiro').length})
-                    </button>
+
+                    {padraoMateria === 'Língua Portuguesa' ? (
+                      <>
+                        <button
+                          className={`btn-padrao-pill ${padraoCargo === 'Nível Médio / Técnico' ? 'active' : ''}`}
+                          onClick={() => setPadraoCargo('Nível Médio / Técnico')}
+                        >
+                          Nível Médio / Técnico
+                        </button>
+                        <button
+                          className={`btn-padrao-pill ${padraoCargo === 'Nível Superior' ? 'active' : ''}`}
+                          onClick={() => setPadraoCargo('Nível Superior')}
+                        >
+                          Nível Superior
+                        </button>
+                      </>
+                    ) : padraoMateria === 'Enfermagem' ? (
+                      <>
+                        <button
+                          className={`btn-padrao-pill ${padraoCargo === 'Técnico de Enfermagem' ? 'active' : ''}`}
+                          onClick={() => setPadraoCargo('Técnico de Enfermagem')}
+                        >
+                          Técnico de Enfermagem ({questoes.filter(q => (padraoBanca === 'Todas' || q.banca === padraoBanca) && q.cargo === 'Técnico de Enfermagem').length})
+                        </button>
+                        <button
+                          className={`btn-padrao-pill ${padraoCargo === 'Enfermeiro' ? 'active' : ''}`}
+                          onClick={() => setPadraoCargo('Enfermeiro')}
+                        >
+                          Enfermeiro Superior ({questoes.filter(q => (padraoBanca === 'Todas' || q.banca === padraoBanca) && q.cargo === 'Enfermeiro').length})
+                        </button>
+                      </>
+                    ) : (
+                      <>
+                        <button
+                          className={`btn-padrao-pill ${padraoCargo === 'Técnico de Enfermagem' ? 'active' : ''}`}
+                          onClick={() => setPadraoCargo('Técnico de Enfermagem')}
+                        >
+                          Técnico de Enfermagem
+                        </button>
+                        <button
+                          className={`btn-padrao-pill ${padraoCargo === 'Enfermeiro' ? 'active' : ''}`}
+                          onClick={() => setPadraoCargo('Enfermeiro')}
+                        >
+                          Enfermeiro Superior
+                        </button>
+                        <button
+                          className={`btn-padrao-pill ${padraoCargo === 'Nível Médio / Técnico' ? 'active' : ''}`}
+                          onClick={() => setPadraoCargo('Nível Médio / Técnico')}
+                        >
+                          Nível Médio Geral
+                        </button>
+                        <button
+                          className={`btn-padrao-pill ${padraoCargo === 'Nível Superior' ? 'active' : ''}`}
+                          onClick={() => setPadraoCargo('Nível Superior')}
+                        >
+                          Nível Superior Geral
+                        </button>
+                      </>
+                    )}
                   </div>
                 </div>
               </div>
@@ -895,17 +1024,18 @@ export default function App() {
                   A banca <strong>{padraoBanca}</strong> está pré-configurada e pronta para receber questões!
                 </h3>
                 <p style={{ color: '#64748b', maxWidth: '580px', margin: '0 auto 1.5rem', fontSize: '0.92rem', lineHeight: '1.6' }}>
-                  Atualmente o acervo conta com <strong>{questoes.length} questões auditadas da banca SELECON</strong>. Assim que você fizer upload dos cadernos de provas em PDF da <strong>{padraoBanca}</strong> na pasta <code>/01_PDFS_DE_REFERENCIA/prefeituras/</code>, o gráfico de pizza e o ranking ordenado de conteúdo serão calculados instantaneamente aqui!
+                  Atualmente o acervo conta com <strong>{questoes.length} questões auditadas da banca SELECON</strong> (sendo 1.135 de Língua Portuguesa e 872 de Enfermagem). Assim que você fizer upload dos cadernos de provas em PDF da <strong>{padraoBanca}</strong> na pasta <code>/01_PDFS_DE_REFERENCIA/prefeituras/</code>, o gráfico de pizza e o ranking ordenado de conteúdo serão calculados instantaneamente aqui!
                 </p>
                 <div style={{ display: 'flex', gap: '0.75rem', justifyContent: 'center', flexWrap: 'wrap' }}>
                   <button
                     className="btn-primary"
                     onClick={() => {
                       setPadraoBanca('SELECON');
+                      setPadraoMateria('Todas');
                       setPadraoCargo('Todos');
                     }}
                   >
-                    Ver Raio-X da SELECON (872 Questões Prontas)
+                    Ver Raio-X da SELECON ({questoes.length} Questões Prontas)
                   </button>
                   <button
                     className="btn-padrao-pill"

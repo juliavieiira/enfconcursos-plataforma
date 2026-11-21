@@ -1,0 +1,707 @@
+======================================================================
+CADERNO DE QUESTÕES: TIPOLOGIA E GÊNEROS TEXTUAIS
+BANCA: SELECON | DISCIPLINA: LÍNGUA PORTUGUESA
+TOTAL DE QUESTÕES AUDITADAS: 35
+======================================================================
+
+[LP0015] QID: Q4397561 | Ano: 2026 | Órgão: Prefeitura de Sapezal - MT
+Prova: SELECON - 2026 - Prefeitura de Sapezal - MT - Professor -
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Tipologia Textual ,)
+
+ENUNCIADO:
+Considerando sua fi nalidade comunicativa predominante, a notícia caracteriza-se pelo emprego da função referencial da linguagem, pois se organiza de modo a:
+
+ALTERNATIVAS:
+  (A) explorar artisticamente a forma da mensagem
+  (B) verificar o funcionamento do canal de comunicação
+  (C) transmitir informações sobre um acontecimento de interesse público
+  (D) persuadir diretamente o leitor a participar dos protestos contra a IA https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 6/8 21/11/2026, 11:06 16 Questões de Provas - Questões de Concursos | Qconcursos.com
+
+GABARITO OFICIAL: [C]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [C] ('transmitir informações sobre um acontecimento de interesse público') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP0033] QID: Q4394411 | Ano: 2026 | Órgão: Prefeitura de Sapezal - MT
+Prova: SELECON - 2026 - Prefeitura de Sapezal - MT - Motorista de
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Noções Gerais de Compreensão e Interpretação de Texto , Gêneros Textuais)
+
+ENUNCIADO:
+A campanha é dirigida principalmente a:
+
+ALTERNATIVAS:
+  (A) jovens de 15 anos
+  (B) crianças em idade escolar
+  (C) menores de 15 anos de idade
+  (D) pessoas de todas as faixas etárias
+
+GABARITO OFICIAL: [C]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [C] ('menores de 15 anos de idade') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP0035] QID: Q4369746 | Ano: 2026 | Órgão: Prefeitura de Lucas do Rio Verde - MT
+Prova: SELECON - 2026 - Prefeitura de Lucas do Rio Verde -
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Tipologia Textual , Noções Gerais de Compreensão e Interpretação de Texto)
+
+ENUNCIADO:
+MT - Professor de Língua Portuguesa - Secretaria de Educação Leia o texto a seguir. Nova IA adapta correção de redação às neurodivergências dos estudantes Ferramenta identifica os erros mais comuns cometidos por quatro condições específicas: transtorno do espectro autista, transtorno do déficit de atenção com hiperatividade, dislexia e disgrafia Uma inteligência artificial (IA) educacional foi desenvolvida para corrigir redações de estudantes neurodivergentes adaptando suas dificuldades às notas. A ferramenta identifica os erros mais comuns cometidos por quatro condições específicas — transtorno do espectro autista (TEA), transtorno do déficit de atenção com hiperatividade (TDAH), dislexia e disgrafia — e não os considera para a pontuação final dos alunos. A nova função foi implementada na Red1000, uma plataforma de correção de texto automática do grupo Cogna. Atualmente, há 2,3 mil estudantes com neurodivergências cadastrados. Isso corresponde a 5% do total de alunos que utilizam a plataforma. Em meia década, o número de diagnosticados com Transtorno do Espectro Autista (TEA) nas escolas quadruplicou, passando de 294.394, em 2021, para 1.298.637 no ano passado. Os dados do Censo Escolar 2025, promovido pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), indicam a primeira vez em que os matriculados com TEA superaram aqueles com deficiência intelectual, respondendo por mais da metade do total de alunos da chamada educação especial. Neste novo cenário, diferentes ferramentas educacionais têm sido criadas ou adaptadas para atender esses estudantes. Algumas escolas que utilizam a plataforma, segundo a Red1000, chegam a ter registrados com alguma neurodivergência mais de 20% dos estudantes. No Distrito Federal, um colégio privado que utiliza a ferramenta chegou a ter 26% dos alunos apenas com uma das quatro condições (TEA, TDAH, dislexia e disgrafia) que têm adaptações na IA de correção de redações. De acordo com Carolina Siequeroli, gerente sênior de produto e fundadora da Red1000, os alunos atípicos acabavam se desestimulando em usar a plataforma por conta das baixas notas geradas pela correção padronizada. Com a nova função, a IA identifica os tipos de problemas causados pela neurodivergência, mas não desconta a pontuação. — O aluno não utilizava a plataforma e deixava de treinar a redação. A ferramenta possibilitou que cada vez mais os alunos praticassem para fazer o Enem mais preparado — conta Siequeroli. De acordo com os desenvolvedores, as escolas precisam cadastrar os alunos apontando suas neurodivergências para ativar a correção adaptada. Para isso, ela não exige laudo ou qualquer tipo de comprovação. — Respeitamos a autonomia das instituições de ensino nesse processo: cabe à escola definir quando uma redação deve ser avaliada considerando necessidades educacionais específicas. Assim, mesmo que o estudante não tenha um diagnóstico formal, se a escola entender que esse tipo de avaliação é o mais adequado ao seu contexto pedagógico, ela pode solicitar essa configuração na plataforma, sem necessidade de apresentar um documento ou laudo — diz Siequeroli. Em alguns casos, ela pode até identificar padrões de escritas compatíveis com características frequentemente observadas em estudantes neurodivergentes. No entanto, isso não permite inferir qualquer diagnóstico — o que também não é a finalidade da tecnologia, de acordo com os idealizadores. Cada uma das quatro neurodivergências possuem adaptações específicas para os alunos na plataforma. Os que estão no transtorno do espectro autista, por exemplo, têm sinalizados no máximo 15 desvios de ortografia, gramática, sintaxe ou vocabulário. Caso passe disso, apenas os mais relevantes são apresentados. Para esse grupo, também há maior tolerância para organização textual não convencional, repetição de palavras, textos em blocos únicos, fuga ao tema ou tangenciamento. Já as adaptações para estudantes com TDAH procuram “reduzir o impacto de dificuldades relacionadas à atenção sustentada, revisão textual e organização da escrita, sem comprometer a avaliação do conteúdo desenvolvido”, segundo o documento Red1000 com as adaptações programadas. https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examinin… 7/13 21/11/2026, 11:07 Questões de Provas - Questões de Concursos - Página 2 | Qconcursos.com Na prática, isso significa que erros ortográficos possuem peso reduzido, pequenas distrações não geram penalizações desproporcionais e erros isolados recebem tratamento mais leve do que erros recorrentes. Além disso, transições abruptas; pequenas falhas de sequência lógica; e organização menos fluida, recebem penalizações leves quando o conteúdo principal está preservado. Já transtornos específicos de aprendizagem, como dislexia e disgrafia, possuem adaptações como menores punições gramaticais; marcações deixam de ser penalizadoras e passam a funcionar apenas como sinalização pedagógica; e erros repetitivos deixam de ser punidos diversas vezes. Em vez disso, quando um mesmo padrão ocorre repetidamente, ele é explicado apenas uma vez ao estudante. Outra adaptação aos alunos neurodivergentes é a forma como seus erros são explicados. Para eles, os comentários enfatizam mais estratégias de revisão, evolução da escrita e aspectos positivos do texto do que os erros. Os textos também passam a ter linguagem mais objetiva e orientações concretas. Na avaliação de Jucélia Linhares, coordenadora do Laboratório de Ensino e Pesquisa em Tecnologia Assistiva (Lepta) da Universidade Federal do Mato Grosso do Sul (UFMS), a IA pode ser uma ferramenta efetiva de inclusão ao identificar padrões de escrita relacionados às neurodivergências e oferecer feedback imediato e personalizado, promovendo autonomia e reduzindo a exposição do aluno. — Mas, para que seja efetiva, é fundamental que seja usada como ferramenta de apoio ao professor, e não como substituta, com formação docente adequada para a interpretação dos relatórios — afirmou a especialista. De acordo com ela, a adaptação da correção, não punindo desvios da redação que são característicos das neurodivergências, permite uma avaliação mais justa. Segundo Linhares, a ferramenta não configura “facilitação”, mas sim uma adaptação razoável ao desconsiderar na correção aspectos que são manifestações diretas da neurodivergência. — Ela passa a medir o conhecimento e o potencial do aluno, e não o sintoma. Isso valoriza o aprendizado, aumenta a autoestima e a motivação do estudante, evitando a desmotivação causada por notas baixas recorrentes que não refletem sua capacidade intelectual. Mas também é essencial que a plataforma e a escola utilizem um “modo simulado Enem”, sem as compensações, para que o aluno treine e desenvolva estratégias de revisão e adaptação para a prova. O objetivo da IA deve ser ainda preparar o aluno para a realidade da avaliação externa. Fonte: https://oglobo.globo.com/brasil/educacao/noticia/2026/08/03/nova-ia-adap-ta-correcao-de-redacao-asneurodivergencias-dos-estudantes.ghtml. Acesso em 30/08/2026. Texto adaptado. Embora o texto apresente informações objetivas sobre o funcionamento da nova ferramenta e descreva diferentes adaptações realizadas pela IA, sua organização global incorpora também a exposição de posicionamentos e justificativas acerca da pertinência dessas adaptações. Considerando essa característica, predomina no texto a combinação entre os modos de organização:
+
+ALTERNATIVAS:
+  (A) narrativo e injuntivo
+  (B) descritivo e narrativo
+  (C) argumentativo e injuntivo
+  (D) expositivo e argumentativo
+
+GABARITO OFICIAL: [D]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [D] ('expositivo e argumentativo') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP0051] QID: Q4341763 | Ano: 2026 | Órgão: Prefeitura de Lucas do Rio Verde - MT
+Prova: SELECON - 2026 - Prefeitura de Lucas do Rio Verde -
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Tipologia Textual , Noções Gerais de Compreensão e Interpretação de Texto)
+
+ENUNCIADO:
+MT - Técnico Administrativo Educacional - Área Monitoria e Área Secretaria - Secretaria de Educação Considerando o conjunto das informações apresentadas, o objetivo principal do texto é:
+
+ALTERNATIVAS:
+  (A) informar sobre a estimativa recente da população brasileira e sua distribuição pelo território nacional
+  (B) explicar as razões históricas que determinaram a concentração populacional em determinadas regiões brasileiras
+  (C) defender a adoção de políticas públicas destinadas a conter o crescimento das cidades mais populosas do país
+  (D) comparar os resultados das estimativas do IBGE com levantamentos realizados por outros institutos demográficos
+
+GABARITO OFICIAL: [A]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [A] ('informar sobre a estimativa recente da população brasileira e sua distribuição pelo território nacional') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP0066] QID: Q4340090 | Ano: 2026 | Órgão: Prefeitura de Lucas do Rio Verde - MT
+Prova: SELECON - 2026 - Prefeitura de Lucas do Rio Verde -
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Noções Gerais de Compreensão e Interpretação de Texto , Gêneros Textuais)
+
+ENUNCIADO:
+A ideia principal da narrativa consiste na:
+
+ALTERNATIVAS:
+  (A) descrição da rotina de Miguel durante uma manhã chuvosa
+  (B) tentativa de Helena de consertar uma antiga fechadura doméstica
+  (C) descoberta de lembranças familiares guardadas em um antigo baú
+  (D) mudança dos irmãos para uma casa localizada em região desconhecida https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 2/9 21/11/2026, 11:08 Questões de Provas - Questões de Concursos - Página 4 | Qconcursos.com
+
+GABARITO OFICIAL: [C]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [C] ('descoberta de lembranças familiares guardadas em um antigo baú') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP0072] QID: Q4334824 | Ano: 2026 | Órgão: Prefeitura de Araçás - BA
+Prova: SELECON - 2026 - Prefeitura de Araçás - BA - Professor de Língua
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Tipologia Textual)
+
+ENUNCIADO:
+Leia o texto a seguir e responda à questão. Texto II Como escrita à mão beneficia o cérebro e ganha nova chance em escolas A partir de 2024, crianças do primeiro ao sexto ano de escolas públicas da Califórnia (EUA) estão novamente tendo de aprender a escrever em letra cursiva. Essa escrita à mão havia saído do currículo californiano em 2010, mas agora está de volta — movimento semelhante ao que ocorre em mais de 20 Estados americanos, em diferentes graus. A escrita cursiva — em que se escreve em uma letra parecida à itálica, sem necessariamente tirar o lápis do caderno — chegou a ser vista como uma técnica moribunda nos EUA. Agora, a decisão na Califórnia reacende debates educacionais e científicos a respeito do valor da escrita à mão, bem como dos benefícios ao cérebro e das implicações globais se essa técnica acabar caindo no esquecimento. A neurocientista Claudia Aguirre, que mora na Califórnia, diz que "mais e mais pesquisas sustentam a ideia de que escrever letras em cursivo, especialmente em comparação com digitar, ativa caminhos neurais específicos que facilitam e otimizam o aprendizado e o desenvolvimento da linguagem". Karin James, professora de Ciências Cerebrais e Psicológicas na Universidade de Indiana (EUA), aplica suas pesquisas em crianças de 4 a 6 anos. Ela identificou que aprender as letras por meio da escrita à mão ativa redes do cérebro que não são ativadas pela digitação num teclado. Isso inclui áreas cerebrais que têm papel crucial no desenvolvimento da leitura. Outra pesquisa, de autoria de Virginia Berninger (Universidade de Washington), também mostrou que a escrita cursiva, os materiais impressos e a digitação usam funções cerebrais relacionadas, porém diferentes. Além disso, no caso da digitação em teclado, os movimentos do dedo são os mesmos para qualquer tecla de letra. Como consequência, se apenas aprenderem a digitar, as crianças perderão a chance de desenvolver habilidades obtidas ao compreenderem e dominarem a capacidade de escrever. Um pequeno estudo italiano aponta que o ensino da cursiva a alunos de primeiro ano pode melhorar as habilidades de leitura. A despeito disso, o ensino da letra cursiva para crianças pequenas vinha se tornando mais raro. Em vários países, essa técnica não é mais obrigatória. Nos EUA, embora o ensino da cursiva esteja voltando à luz, ele não é padronizado — o que traz desafios aos professores. "Mais de 20 Estados acrescentaram a suas diretrizes educacionais a exigência da escrita cursiva entre o 3° e o 5° anos", explica Kathleen S. Wright, fundadora e diretora-executiva do Colaborativo de Escrita à Mão, organização que ensina boas práticas nessa área. "Mas essa exigência não é imposta nem recebe financiamento, então o ensino da escrita à mão não é endereçado de forma consistente." Dessa forma, professores californianos terão agora de descobrir como integrar a cursiva a suas aulas. Mesmo assim, a iniciativa do Estado é vista como benéfica, num momento pós-pandemia em que se buscam formas de ensinar habilidades que reduzam a dependência das telas entre crianças. "Temos visto cada vez mais pais reclamando que seus filhos estão tendo dificuldades na escola, que não foram ensinados a escrever porque usam principalmente computadores e outros aparelhos", diz Kelsey Voltz-Poremba, professora-assistente de terapia ocupacional da Universidade de Pittsburgh (EUA). A escrita cursiva ainda é amplamente ensinada na Europa Ocidental, em particular em países como Reino Unido, Espanha, Itália, Portugal e França. [...] O Canadá tentou descartar a escrita cursiva, mas voltou a ensiná-la em 2023. O Ministério de Educação da província de Ontário restabeleceu a exigência da escrita cursiva e agora está virando uma espécie de laboratório para outras regiões que tentam entender quais as melhores práticas para esse ensino, quanto tempo devem durar as aulas e com qual frequência essa técnica deve ser ensinada. https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 5/9 21/11/2026, 11:08 Questões de Provas - Questões de Concursos - Página 4 | Qconcursos.com Em meio a tantas diferenças globais, as pesquisas ressaltam que não há lado negativo em aprender letra cursiva. E embora a ligação entre escrever à mão e melhorar a leitura não sejam necessariamente causais, alguns educadores temem que o abandono da letra cursiva pode piorar o desempenho de alunos em sua capacidade de ler textos. Além disso, o mero ato de escrever ajuda a memória e o aprendizado de palavras. "É importante achar um equilíbrio para garantir que os alunos tenham habilidades que sejam obtidas sem o uso da tecnologia", opina a especialista Voltz-Poremba. Fonte: https://www.bbc.com/portuguese/articles/c88n5klj0peo. Texto adaptado. Excerto. Acesso em 03/06/2026 O Texto II articula diferentes modos de organização do discurso ao longo de sua estrutura. Quanto ao tipo textual predominante e à forma como os demais tipos se subordinam a ele, o texto caracteriza-se por ser predominantemente:
+
+ALTERNATIVAS:
+  (A) narrativo, pois relata cronologicamente a trajetória de declínio e retomada da escrita cursiva em diferentes países, organizando os fatos em sequência temporal
+  (B) descritivo, pois se dedica a caracterizar detalhadamente as propriedades neurológicas da escrita cursiva e os contextos educacionais em que ela é ou não adotada
+  (C) expositivo-argumentativo, pois apresenta dados, pesquisas e vozes especializadas subordinados a uma tese implícita favorável ao retorno da cursiva, que organiza e direciona a seleção e a disposição dessas informações ao longo do texto
+  (D) injuntivo, pois, ao apresentar os benefícios da escrita cursiva e as experiências bem-sucedidas de Ontário e da Califórnia, orienta implicitamente professores e gestores a adotarem a prática em seus currículos, por meio de sugestões e comandos 73
+
+GABARITO OFICIAL: [C]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [C] ('expositivo-argumentativo, pois apresenta dados, pesquisas e vozes especializadas subordinados a uma tese implícita favorável ao retorno da cursiva, que organiza e direciona a seleção e a disposição dessas informações ao longo do texto') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP0091] QID: Q4324792 | Ano: 2026 | Órgão: Prefeitura de Araçás - BA
+Prova: SELECON - 2026 - Prefeitura de Araçás - BA - Assistente
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Tipologia Textual ,)
+
+ENUNCIADO:
+Considerando as características globais do texto, predomina o modo de organização:
+
+ALTERNATIVAS:
+  (A) expositivo
+  (B) descritivo
+  (C) narrativo
+  (D) injuntivo https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 4/8 21/11/2026, 11:09 92 Questões de Provas - Questões de Concursos - Página 5 | Qconcursos.com
+
+GABARITO OFICIAL: [A]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [A] ('expositivo') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP0100] QID: Q4322633 | Ano: 2026 | Órgão: Prefeitura de Araçás - BA
+Prova: SELECON - 2026 - Prefeitura de Araçás - BA - Auditor Tributário -
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Tipologia Textual)
+
+ENUNCIADO:
+O texto combina diferentes modos discursivos ao longo de sua estrutura. Essa combinação organiza-se da seguinte maneira:
+
+ALTERNATIVAS:
+  (A) o modo descritivo predomina no texto inteiro, uma vez que o autor está focado em caracterizar os hábitos alimentares da população americana sem emitir juízo de valor
+  (B) o modo injuntivo organiza a abertura do texto, prescrevendo comportamentos alimentares; o expositivo desenvolve os dados científicos; o narrativo conclui com recomendações dos especialistas
+  (C) o modo expositivo apresenta dados e pesquisas; o argumentativo estrutura a tese de que o excesso proteico pode ser prejudicial; o descritivo aparece pontualmente ao caracterizar alimentos e fontes de proteína
+  (D) o modo narrativo é dominante, pois o texto relata cronologicamente a evolução do consumo de proteína nos Estados Unidos desde 2022, organizando os fatos em sequência temporal linear, sem sobressaltos ou interrupções
+
+GABARITO OFICIAL: [C]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [C] ('o modo expositivo apresenta dados e pesquisas; o argumentativo estrutura a tese de que o excesso proteico pode ser prejudicial; o descritivo aparece pontualmente ao caracterizar alimentos e fontes de proteína') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP0120] QID: Q4250880 | Ano: 2026 | Órgão: Prefeitura de Conquista D'Oeste - MT
+Prova: SELECON - 2026 - Prefeitura de Conquista D'Oeste -
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Tipologia Textual)
+
+ENUNCIADO:
+A organização das informações permite concluir que o texto estabelece uma relação predominante entre:
+
+ALTERNATIVAS:
+  (A) constatação científi ca e explicação de suas possíveis causas
+  (B) opinião fundamentada cientifi camente e contestação
+  (C) problema e solução baseada em pesquisa científi ca
+  (D) hipótese e comprovação defi nitiva
+
+GABARITO OFICIAL: [A]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [A] ('constatação científi ca e explicação de suas possíveis causas') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP0128] QID: Q4250112 | Ano: 2026 | Órgão: Prefeitura de Conquista D'Oeste - MT
+Prova: SELECON - 2026 - Prefeitura de Conquista D'Oeste - MT
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Tipologia Textual ,)
+
+ENUNCIADO:
+- Motorista/Operador de Máquinas No texto, o narrador é observador, pois ele:
+
+ALTERNATIVAS:
+  (A) relata acontecimentos vividos por ele e pelos jogadores brasileiros durante as Copas do Mundo
+  (B) apresenta informações e avaliações sobre os fatos sem se incluir como participante deles
+  (C) participa indiretamente dos acontecimentos narrados
+  (D) limita-se à reprodução de falas https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 3/8 21/11/2026, 11:09 129 Ano: 2026 Questões de Provas - Questões de Concursos - Página 7 | Qconcursos.com
+
+GABARITO OFICIAL: [B]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [B] ('apresenta informações e avaliações sobre os fatos sem se incluir como participante deles') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP0152] QID: Q4160108 | Ano: 2026 | Órgão: SAAE de Nova Mutum - MT
+Prova: SELECON - 2026 - SAAE de Nova Mutum - MT - Motorista de
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Tipologia Textual , Variação Linguística)
+
+ENUNCIADO:
+O texto do infográfi co usa linguagem predominantemente:
+
+ALTERNATIVAS:
+  (A) literária, com metáforas complexas
+  (B) jurídica, com vocabulário normativo
+  (C) formal e técnica, com termos científicos
+  (D) informal e acessível, próxima ao cotidiano do leitor 153 Ano: 2026
+
+GABARITO OFICIAL: [D]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [D] ('informal e acessível, próxima ao cotidiano do leitor 153 Ano: 2026') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP0166] QID: Q3963047 | Ano: 2026 | Órgão: EMGEPRON
+Prova: SELECON - 2026 - EMGEPRON - Advogado ...
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Gêneros Textuais)
+
+ENUNCIADO:
+O texto anterior apresenta características do gênero:
+
+ALTERNATIVAS:
+  (A) crônica
+  (B) editorial
+  (C) artigo de opinião
+  (D) notícia jornalística https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 2/9 21/11/2026, 11:10 167 Ano: 2026 Questões de Provas - Questões de Concursos - Página 9 | Qconcursos.com
+
+GABARITO OFICIAL: [D]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [D] ('notícia jornalística https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 2/9 21/11/2026, 11:10 167 Ano: 2026 Questões de Provas - Questões de Concursos - Página 9 | Qconcursos.com') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP0504] QID: Q3289905 | Ano: 2025 | Órgão: Prefeitura de São José dos Quatro Marcos - MT
+Prova: SELECON - 2025 - Prefeitura de São José dos
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Gêneros Textuais)
+
+ENUNCIADO:
+Quatro Marcos - MT - Agente Administrativo Considerando as suas características discursivas, a linguagem empregada e o suporte onde foi publicado, infere-se que o texto anterior foi produzido tendo em vista um determinado público, que são os:
+
+ALTERNATIVAS:
+  (A) professores de Biologia
+  (B) leitores de um modo geral interessados em Ciência
+  (C) pesquisadores brasileiros que trabalham com vacinas
+  (D) cientistas, especialmente da especialidade da Oncologia https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examinin… 2/10 21/11/2026, 11:15 505 Ano: 2025 Questões de Provas - Questões de Concursos - Página 26 | Qconcursos.com
+
+GABARITO OFICIAL: [B]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [B] ('leitores de um modo geral interessados em Ciência') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP0544] QID: Q3260875 | Ano: 2025 | Órgão: HEMOMINAS
+Prova: SELECON - 2025 - HEMOMINAS - Analista de Hematologia e Hemoterapia -
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Tipologia Textual)
+
+ENUNCIADO:
+O objetivo principal do texto é:
+
+ALTERNATIVAS:
+  (A) elogiar os doadores de sangue, que salvam vidas
+  (B) criticar as pessoas que não se solidarizam com a importância da doação de sangue
+  (C) informar os leitores quanto aos estoques do Hemorio, que estarão provavelmente em baixa
+  (D) divulgar as condições e os contatos para doação de sangue em todos os institutos de hematologia do Brasil https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 2/9 21/11/2026, 11:16 545 Ano: 2025 Questões de Provas - Questões de Concursos - Página 28 | Qconcursos.com
+
+GABARITO OFICIAL: [C]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [C] ('informar os leitores quanto aos estoques do Hemorio, que estarão provavelmente em baixa') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP0574] QID: Q3199049 | Ano: 2025 | Órgão: Prefeitura de Sinop - MT
+Prova: SELECON - 2025 - Prefeitura de Sinop - MT - Técnico Administrativo
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Tipologia Textual)
+
+ENUNCIADO:
+Com relação ao modo de organização do discurso, o texto é predominantemente:
+
+ALTERNATIVAS:
+  (A) injuntivo
+  (B) narrativo
+  (C) expositivo
+  (D) argumentativo 575 Ano:
+
+GABARITO OFICIAL: [C]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [C] ('expositivo') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP0621] QID: Q3196490 | Ano: 2025 | Órgão: Prefeitura de Sinop - MT
+Prova: SELECON - 2025 - Prefeitura de Sinop - MT - Procurador
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Tipologia Textual)
+
+ENUNCIADO:
+Leia o texto a seguir: Homem é flagrado andando de 'jet ski' na Ponte Rio-Niterói e vídeo viraliza nas redes sociais Registro mostra veículo aquático adaptado para o asfalto com peças de motocicleta Um vídeo em que um homem anda em uma moto modificada com carcaça de jet ski pela Ponte Rio-Niterói viralizou nas redes sociais no último domingo. O meio de transporte, usado na água, foi adaptado com rodas e um chassi de moto para conseguir andar no asfalto. O registro mostra que o piloto não usa equipamentos de segurança de condução de uma moto. Ele anda de bermuda e chinelo, além de usar um capacete não recomendado. O condutor do veículo adaptado se identifica nas redes sociais como Lobão. Além do registro na Ponte, ele também compartilhou o momento em que trafegou pela Linha Vermelha e Amarela. O fato inusitado chamou a atenção dos internautas, que repercutiram o vídeo. "Veículo híbrido, já vai dar aquele mergulho no mar", escreveu um. "RJ está valendo tudo!!!", publicou outro. Criticado nas redes sociais, o homem rebateu afirmando que a moto está emplacada e regularizada. "A pessoa tem que estar com a alma podre para se incomodar com um moto jet passando na rua. As pessoas olham e acham graça, aí tem uns que pedem até prisão. Onde passa chama atenção, quem está estressado, arranca um sorriso da pessoa", justifica o condutor. Procurada, por meio de nota a Ecoponte descreveu que o veículo cruzou sentido Rio de Janeiro acoplado em um carro de passeio, e que "na altura da descida do Vão Central, o veículo parou, soltou o equipamento e ele seguiu viagem pela via". A reportagem tentou contato com a Polícia Rodoviária Federal para mais detalhes sobre o caso, mas ainda não obteve respostas. O espaço segue em aberto. Em nota, a Polícia Rodoviária Federal, responsável pela fiscalização da rodovia, confirmou que o homem passou pelo pórtico 11 da Ponte Rio-Niterói no último domingo, por volta das 15:40. "Em pesquisa no sistema, foi verificado que na verdade se tratava de uma motocicleta Suzuki AN125, com adulteração não autorizada do veículo. Foi verificado também que um automóvel estava ajudando a levar a moto aquática em uma carreta, e ambos foram identificados em imagens para futuras autuações que serão geradas em detrimento das imagens analisadas", afirmou a PRF. Questionado pelo GLOBO, o Detran-RJ afirmou que, de acordo com as normas vigentes, qualquer veículo que passe por alterações em suas características originais precisa ser submetido à avaliação e aprovação pelos órgãos técnicos competentes. Fonte: https://oglobo.globo.com/rio/noticia/2025/01/07/homem-e-flagrado-andando- de-jet-ski-na-ponte-rio-niteroi-e-videoviraliza-nas-redes-sociais.ghtml. Acesso em 07/01/2024 “Ele anda de bermuda e chinelo, além de usar um capacete não recomendado. O condutor do veículo adaptado se identifica nas redes sociais como Lobão” (2º parágrafo). O texto é essencialmente expositivo, pois se trata de uma notícia. Contudo, em alguns momentos, como ocorre no trecho destacado do 2º parágrafo, é possível verificar o uso de outro modo de organização do discurso, que é o:
+
+ALTERNATIVAS:
+  (A) injuntivo
+  (B) narrativo
+  (C) descritivo
+  (D) argumentativo https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examinin… 1/13 21/11/2026, 11:17 622 Ano: 2025 Questões de Provas - Questões de Concursos - Página 32 | Qconcursos.com
+
+GABARITO OFICIAL: [C]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [C] ('descritivo') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP0629] QID: Q3174179 | Ano: 2025 | Órgão: SENAPPEN
+Prova: SELECON - 2025 - SENAPPEN - Analista em Tecnologia da Informação ...
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Gêneros Textuais)
+
+ENUNCIADO:
+O texto anterior é um exemplar típico do gênero:
+
+ALTERNATIVAS:
+  (A) notícia
+  (B) crônica
+  (C) editorial
+  (D) resenha https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examinin… 4/13 21/11/2026, 11:17 630 Ano: 2025 Questões de Provas - Questões de Concursos - Página 32 | Qconcursos.com
+
+GABARITO OFICIAL: [A]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [A] ('notícia') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP0729] QID: Q3120988 | Ano: 2024 | Órgão: Câmara de Rio Brilhante - MS
+Prova: SELECON - 2024 - Câmara de Rio Brilhante - MS - Técnico
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Tipologia Textual)
+
+ENUNCIADO:
+Quanto aos modos de organização discursiva, o texto é predominantemente:
+
+ALTERNATIVAS:
+  (A) injuntivo
+  (B) narrativo
+  (C) descritivo
+  (D) expositivo
+  (E) argumentativo 730 Ano:
+
+GABARITO OFICIAL: [D]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [D] ('expositivo') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP0760] QID: Q3111384 | Ano: 2024 | Órgão: Prefeitura de Campo Novo do Parecis - MT
+Prova: SELECON - 2024 - Prefeitura de Campo Novo do
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Tipologia Textual)
+
+ENUNCIADO:
+Parecis - MT - Agente Educacional Infantil - Edital nº 4 O texto apresentado é predominantemente:
+
+ALTERNATIVAS:
+  (A) injuntivo
+  (B) narrativo
+  (C) expositivo
+  (D) argumentativo
+
+GABARITO OFICIAL: [C]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [C] ('expositivo') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP0770] QID: Q3110034 | Ano: 2024 | Órgão: Prefeitura de Campo Novo do Parecis - MT
+Prova: SELECON - 2024 - Prefeitura de Campo Novo do
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Gêneros Textuais)
+
+ENUNCIADO:
+Com relação aos gêneros do discurso, o texto pode ser classificado como um exemplo de:
+
+ALTERNATIVAS:
+  (A) notícia
+  (B) editorial
+  (C) entrevista
+  (D) artigo de opinião 771 Ano:
+
+GABARITO OFICIAL: [A]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [A] ('notícia') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP0807] QID: Q3103216 | Ano: 2024 | Órgão: Prefeitura de Lucas do Rio Verde - MT
+Prova: SELECON - 2024 - Prefeitura de Lucas do Rio Verde -
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Tipologia Textual)
+
+ENUNCIADO:
+O texto anterior é predominantemente:
+
+ALTERNATIVAS:
+  (A) injuntivo
+  (B) narrativo
+  (C) descritivo
+  (D) expositivo 808 Ano:
+
+GABARITO OFICIAL: [D]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [D] ('expositivo 808 Ano:') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP0835] QID: Q3096823 | Ano: 2024 | Órgão: Câmara de Itabi - SE
+Prova: SELECON - 2024 - Câmara de Itabi - SE - Técnico Legislativo
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Tipologia Textual)
+
+ENUNCIADO:
+Com relação ao modo de organização discursiva, o texto é predominantemente:
+
+ALTERNATIVAS:
+  (A) injuntivo
+  (B) narrativo
+  (C) expositivo
+  (D) argumentativo 836 Ano:
+
+GABARITO OFICIAL: [C]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [C] ('expositivo') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP0879] QID: Q2579848 | Ano: 2024 | Órgão: Prefeitura de São Gonçalo - RJ
+Prova: SELECON - 2024 - Prefeitura de São Gonçalo - RJ - Professor
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Tipologia Textual)
+
+ENUNCIADO:
+O texto anterior apresenta ou explica um assunto, com o intuito de informar o leitor. Do ponto de vista da organização do discurso, esse texto caracteriza-se como predominantemente:
+
+ALTERNATIVAS:
+  (A) narrativo
+  (B) descritivo
+  (C) expositivo
+  (D) argumentativo 880 Ano:
+
+GABARITO OFICIAL: [C]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [C] ('expositivo') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP0880] QID: Q2579847 | Ano: 2024 | Órgão: Prefeitura de São Gonçalo - RJ
+Prova: SELECON - 2024 - Prefeitura de São Gonçalo - RJ - Professor
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Tipologia Textual)
+
+ENUNCIADO:
+O texto anterior apresenta um fato inusitado, bastante raro, publicado em veículo jornalístico. A linguagem é objetiva e acessível. Esse texto enquadra-se como um exemplo de:
+
+ALTERNATIVAS:
+  (A) notícia
+  (B) editorial
+  (C) anúncio
+  (D) crônica https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 7/8 21/11/2026, 11:20 Questões de Provas - Questões de Concursos - Página 44 | Qconcursos.com
+
+GABARITO OFICIAL: [A]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [A] ('notícia') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP0896] QID: Q2525723 | Ano: 2024 | Órgão: Prefeitura de Várzea Grande - MT
+Prova: SELECON - 2024 - Prefeitura de Várzea Grande - MT -
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Tipologia Textual)
+
+ENUNCIADO:
+O texto tem caráter informativo, voltando-se para a veiculação de informações ao grande público. Considerando-se esses traços, quanto ao modo de organização do discurso, o texto é predominantemente:
+
+ALTERNATIVAS:
+  (A) injuntivo
+  (B) narrativo
+  (C) expositivo
+  (D) argumentativo 897 Ano:
+
+GABARITO OFICIAL: [C]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [C] ('expositivo') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP0908] QID: Q2495823 | Ano: 2024 | Órgão: Prefeitura de Campo Novo do Parecis - MT
+Prova: SELECON - 2024 - Prefeitura de Campo Novo do
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Tipologia Textual)
+
+ENUNCIADO:
+O texto tem o compromisso de apresentar os benefícios do colágeno para o ser humano e, para isso, elege uma linguagem mais objetiva. Por esse motivo, do ponto de vista do seu modo de organização discursiva, o texto anterior pode ser considerado:
+
+ALTERNATIVAS:
+  (A) injuntivo
+  (B) narrativo
+  (C) descritivo
+  (D) expositivo 909 Ano:
+
+GABARITO OFICIAL: [D]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [D] ('expositivo 909 Ano:') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP0948] QID: Q2484484 | Ano: 2024 | Órgão: Prefeitura de São Gonçalo - RJ
+Prova: SELECON - 2024 - Prefeitura de São Gonçalo - RJ - Inspetor de
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Tipologia Textual)
+
+ENUNCIADO:
+O texto anterior visa à defesa de um ponto de vista, a partir de uma perspectiva sobre um determinado tema. Dessa forma, o texto é predominantemente:
+
+ALTERNATIVAS:
+  (A) narrativo
+  (B) descritivo
+  (C) expositivo
+  (D) argumentativo https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 3/8 21/11/2026, 11:21 949 Ano: 2024 Questões de Provas - Questões de Concursos - Página 48 | Qconcursos.com
+
+GABARITO OFICIAL: [D]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [D] ('argumentativo https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 3/8 21/11/2026, 11:21 949 Ano: 2024 Questões de Provas - Questões de Concursos - Página 48 | Qconcursos.com') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP0962] QID: Q2480059 | Ano: 2024 | Órgão: Prefeitura de Água Boa - MT
+Prova: SELECON - 2024 - Prefeitura de Água Boa - MT - Professor -
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Gêneros Textuais)
+
+ENUNCIADO:
+Com relação aos gêneros do discurso, o texto I caracterizase como um/uma
+
+ALTERNATIVAS:
+  (A) editorial
+  (B) crônica
+  (C) resenha
+  (D) artigo de opinião 963 Ano:
+
+GABARITO OFICIAL: [D]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [D] ('artigo de opinião 963 Ano:') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP0996] QID: Q2472245 | Ano: 2024 | Órgão: CRO-MT
+Prova: SELECON - 2024 - CRO-MT - Assistente Administrativo - TI ...
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Gêneros Textuais)
+
+ENUNCIADO:
+O texto anterior é uma notícia, cujo objetivo é informar um fato aos leitores de modo claro e objetivo. Nesse gênero, predomina um modo específico de organização do discurso, que é o:
+
+ALTERNATIVAS:
+  (A) injuntivo
+  (B) expositivo
+  (C) dissertativo
+  (D) argumentativo
+
+GABARITO OFICIAL: [B]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [B] ('expositivo') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP1038] QID: Q2469351 | Ano: 2024 | Órgão: Câmara de Rondonópolis - MT
+Prova: SELECON - 2024 - Câmara de Rondonópolis - MT - Analista
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Tipologia Textual)
+
+ENUNCIADO:
+Legislativo - Redação e Revisão Legislativa O texto apresenta diversos conselhos para o leitor. Por exemplo, lê-se: “Encare os inúmeros textos cotidianos como parte integrante e determinante do trabalho” e “Experimente investir um minuto a mais antes de começar uma mensagem e antes de apertar o botão enviar”. Esses trechos são representativos do tipo de texto:
+
+ALTERNATIVAS:
+  (A) injuntivo
+  (B) narrativo
+  (C) descritivo
+  (D) argumentativo 1039 Ano:
+
+GABARITO OFICIAL: [A]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [A] ('injuntivo') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP1052] QID: Q2468930 | Ano: 2024 | Órgão: Câmara de Rondonópolis - MT
+Prova: SELECON - 2024 - Câmara de Rondonópolis - MT -
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Tipologia Textual)
+
+ENUNCIADO:
+O texto anterior tem o objetivo de informar o leitor acerca de um determinado assunto. Para isso, mobiliza dados e os organiza de modo claro. Portanto, o texto é predominantemente:
+
+ALTERNATIVAS:
+  (A) narrativo
+  (B) descritivo
+  (C) expositivo
+  (D) argumentativo 1053 Ano:
+
+GABARITO OFICIAL: [C]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [C] ('expositivo') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP1070] QID: Q2466640 | Ano: 2024 | Órgão: Prefeitura de Água Boa - MT
+Prova: SELECON - 2024 - Prefeitura de Água Boa - MT - Apoio
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Tipologia Textual)
+
+ENUNCIADO:
+Do ponto de vista da organização discursiva, a reportagem anterior é predominantemente:
+
+ALTERNATIVAS:
+  (A) injuntiva
+  (B) narrativa
+  (C) expositiva
+  (D) argumentativa 1071 Ano:
+
+GABARITO OFICIAL: [C]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [C] ('expositiva') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP1074] QID: Q2466385 | Ano: 2024 | Órgão: Prefeitura de Água Boa - MT
+Prova: SELECON - 2024 - Prefeitura de Água Boa - MT - Atendente
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Tipologia Textual , Noções Gerais de Compreensão e Interpretação de Texto)
+
+ENUNCIADO:
+“A prefeitura de Ubatuba, no litoral norte de São Paulo, emitiu um decreto na sexta-feira, 8, determinando situação de emergência após a cidade ser afetada por fortes chuvas nos últimos dias” (1º parágrafo). Os textos costumam apresentar ideias principais e secundárias. O trecho destacado é considerado:
+
+ALTERNATIVAS:
+  (A) principal, pois sintetiza o tema mais central da notícia
+  (B) secundário, pois sintetiza o tema menos central da notícia
+  (C) principal, pois todas as demais informações poderiam ser eliminadas
+  (D) secundário, pois todas as demais informações poderiam ser eliminadas
+
+GABARITO OFICIAL: [A]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [A] ('principal, pois sintetiza o tema mais central da notícia') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP1112] QID: Q2353254 | Ano: 2024 | Órgão: Prefeitura de Sapezal - MT
+Prova: SELECON - 2024 - Prefeitura de Sapezal - MT - Assistente Social
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Gêneros Textuais)
+
+ENUNCIADO:
+... O texto apresentado é um gênero jornalístico que tem como objetivo informar um fato recente. Esse texto, portanto, classifica-se como um exemplo de:
+
+ALTERNATIVAS:
+  (A) notícia
+  (B) crônica
+  (C) editorial
+  (D) anúncio 1113 Ano:
+
+GABARITO OFICIAL: [A]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [A] ('notícia') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+
+[LP1126] QID: Q2347874 | Ano: 2024 | Órgão: Prefeitura de Sapezal - MT
+Prova: SELECON - 2024 - Prefeitura de Sapezal - MT - Fiscal de Obras e
+Assunto: Tipologia e Gêneros Textuais (Interpretação de Textos , Tipologia Textual)
+
+ENUNCIADO:
+O texto anterior apresenta um assunto por meio de explicações e dados coletados pela imprensa. Trata-se de uma notícia, com texto informativo, elaborado em linguagem clara e objetiva. Diante dessas características, afirma-se que o texto é predominantemente:
+
+ALTERNATIVAS:
+  (A) injuntivo
+  (B) narrativo
+  (C) expositivo
+  (D) argumentativo
+
+GABARITO OFICIAL: [C]
+
+FUNDAMENTAÇÃO GRAMATICAL:
+Conforme a teoria dos gêneros e tipos textuais (Bakhtin / Marcuschi), as sequências discursivas (narrativas, descritivas, dissertativo-argumentativas, injuntivas ou expositivas) estruturam-se conforme o propósito comunicativo e o contexto de circulação social. A alternativa [C] ('expositivo') define corretamente a tipologia e a funcionalidade textual em foco.
+
+----------------------------------------------------------------------
+

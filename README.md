@@ -10,11 +10,13 @@
 O **EnfConcursos** foi desenvolvido com padrão profissional de código, arquitetura escalável e rigor científico para apoiar candidatos aos cargos de **Técnico de Enfermagem** e **Enfermeiro (Nível Superior)**.
 
 ### Métricas Atuais do Acervo:
-* **872 Questões Reais da Banca SELECON** extraídas diretamente de 45 cadernos oficiais de concursos municipais.
-* **Códigos Proprietários:** Indexadas sob a nomenclatura padronizada de 6 dígitos: **`EF0001` a `EF0872`**.
-* **100% Comentadas:** Fundamentação legal e científica baseada no **COFEN**, **Ministério da Saúde**, **Lei 8.080/90 (SUS)**, **PNI** e **NR-32**.
-* **Análise de Distratores:** Explicação detalhada de por que as alternativas erradas estão incorretas, eliminando respostas genéricas.
-* **Auditoria Rigorosa:** Questões anuladas pelas bancas ou desatualizadas por mudanças na legislação (ex: Resolução COFEN 311/2007 revogada pela 564/2017) foram auditadas e excluídas do acervo ativo.
+* **2.007 Questões Reais Auditadas da Banca SELECON** (1.135 de Língua Portuguesa e 872 de Enfermagem).
+* **Códigos Proprietários:** Indexadas sob a nomenclatura padronizada de 6 dígitos:
+  * **`EF0001` a `EF0872`** (Enfermagem)
+  * **`LP0001` a `LP1135`** (Língua Portuguesa)
+* **100% Comentadas:** Fundamentação legal e científica baseada no **COFEN**, **Ministério da Saúde**, **SUS**, e fundamentação gramatical normativa baseada em **Domingos Paschoal Cegalla**, **Evanildo Bechara** e **Celso Cunha**.
+* **Análise Cirúrgica de Distratores:** Explicação detalhada de por que cada alternativa errada está incorreta, eliminando respostas genéricas.
+* **Auditoria Rigorosa:** Questões anuladas pelas bancas ou desatualizadas foram auditadas e eliminadas do acervo ativo.
 
 ---
 

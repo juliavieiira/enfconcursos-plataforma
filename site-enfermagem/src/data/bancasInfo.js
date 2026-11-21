@@ -1,6 +1,6 @@
 /**
  * Base de Conhecimento Estratégica por Banca Examinadora
- * Insights táticos de provas de enfermagem para prefeituras e saúde.
+ * Insights táticos de provas de enfermagem e língua portuguesa para concursos e prefeituras.
  */
 
 export const BANCAS_PRECONFIGURADAS = [
@@ -17,25 +17,71 @@ export const BANCAS_PRECONFIGURADAS = [
 export const INSIGHTS_POR_BANCA = {
   SELECON: {
     nome: 'SELECON',
-    foco1: {
-      tag: 'Foco nº 1 da Banca',
-      title: 'Fundamentos e Prática Diária',
-      text: 'A SELECON adora cobrar procedimentos de enfermagem fundamentais: parâmetros de sinais vitais (pressão, temperatura, FC), técnicas de sondagem vesical e nasogástrica, cuidados com curativos e tipos de exsudato.'
+    Enfermagem: {
+      foco1: {
+        tag: 'Foco nº 1 da Banca',
+        title: 'Fundamentos e Prática Diária',
+        text: 'A SELECON adora cobrar procedimentos de enfermagem fundamentais: parâmetros de sinais vitais (pressão, temperatura, FC), técnicas de sondagem vesical e nasogástrica, cuidados com curativos e tipos de exsudato.'
+      },
+      ponto: {
+        tag: 'Ponto Garantido',
+        title: 'Legislação e Código de Ética',
+        text: 'Questões recorrentes sobre as competências privativas do Enfermeiro vs atribuições do Técnico (Lei 7.498/86) e penalidades do novo Código de Ética (Resolução COFEN 564/2017): direitos, deveres e proibições.'
+      },
+      perfil: {
+        tag: 'Técnico vs Enfermeiro',
+        title: 'Diferença de Perfil nos Cargos',
+        text: 'Para Técnico, há forte cobrança em Cálculo de Medicamentos (gotejamento/diluição) e Biossegurança (NR-32/EPI). Já para Enfermeiro, predominam Vigilância Epidemiológica, Gestão em Saúde e SAE/NANDA.'
+      },
+      sus: {
+        tag: 'Prefeituras & SUS',
+        title: 'Saúde Pública e Imunização',
+        text: 'Cobrança maciça de Rede de Frio e Calendário Nacional de Vacinação (PNI), além dos princípios doutrinários e organizativos da Lei Orgânica da Saúde (Lei 8.080/90).'
+      }
     },
-    ponto: {
-      tag: 'Ponto Garantido',
-      title: 'Legislação e Código de Ética',
-      text: 'Questões recorrentes sobre as competências privativas do Enfermeiro vs atribuições do Técnico (Lei 7.498/86) e penalidades do novo Código de Ética (Resolução COFEN 564/2017): direitos, deveres e proibições.'
+    'Língua Portuguesa': {
+      foco1: {
+        tag: 'Foco Absoluto (41,4%)',
+        title: 'Interpretação e Intencionalidade Discursiva',
+        text: 'Mais de 41% das questões da SELECON exigem apreensão da tese central, inferências contextuais, intencionalidade comunicativa do autor e relação entre parágrafos de notícias e crônicas contemporâneas.'
+      },
+      ponto: {
+        tag: 'Ponto Crítico de Sintaxe (17,9%)',
+        title: 'Termos da Oração & Período Composto',
+        text: 'Cobrança expressiva de identificação do sujeito gramatical, complementos verbais (objeto direto vs indireto), aposto explicativo e classificação de orações coordenadas e subordinadas substantivas/adverbiais.'
+      },
+      perfil: {
+        tag: 'Morfologia & Verbos (16,5%)',
+        title: 'Flexão Verbal e Classes Gramaticais',
+        text: 'A banca adora exigir a correlação entre pretérito perfeito e imperfeito do indicativo, modo subjuntivo (hipótese), além de distinção morfológica entre adjetivo, substantivo, advérbio e papel anafórico de pronomes.'
+      },
+      sus: {
+        tag: 'Norma Culta (8,0%)',
+        title: 'Pontuação & Conectivos Lógicos',
+        text: 'Questões certeiras sobre o emprego da vírgula (isolamento de adjuntos adverbiais deslocados, orações coordenadas) e valor semântico das conjunções subordinadas (causais, concessivas, consecutivas).'
+      }
     },
-    perfil: {
-      tag: 'Técnico vs Enfermeiro',
-      title: 'Diferença de Perfil nos Cargos',
-      text: 'Para Técnico, há forte cobrança em Cálculo de Medicamentos (gotejamento/diluição) e Biossegurança (NR-32/EPI). Já para Enfermeiro, predominam Vigilância Epidemiológica, Gestão em Saúde e SAE/NANDA.'
-    },
-    sus: {
-      tag: 'Prefeituras & SUS',
-      title: 'Saúde Pública e Imunização',
-      text: 'Cobrança maciça de Rede de Frio e Calendário Nacional de Vacinação (PNI), além dos princípios doutrinários e organizativos da Lei Orgânica da Saúde (Lei 8.080/90).'
+    Todas: {
+      foco1: {
+        tag: 'Distribuição Global',
+        title: 'Interpretação e Fundamentos Práticos',
+        text: 'Em provas municipais da SELECON, a combinação de Interpretação Textual sólida e domínio prático de Fundamentos Assistenciais responde por mais de 50% dos pontos da prova objetiva.'
+      },
+      ponto: {
+        tag: 'Pontos Certeiros',
+        title: 'Sintaxe Normativa e Legislação do SUS',
+        text: 'Sintaxe (termos da oração e pontuação) em Português e Legislação do SUS (Leis 8.080 e 8.142) em Saúde são temas de repetição obrigatória em todos os editais da banca.'
+      },
+      perfil: {
+        tag: 'Estratégia Geral',
+        title: 'Gestão de Tempo na Resolução',
+        text: 'Os textos de Português costumam ser de tamanho médio a longo; resolver primeiro as questões gramaticais diretas e de cálculo poupa energia para os blocos interpretativos.'
+      },
+      sus: {
+        tag: 'Padrão da Banca',
+        title: 'Consistência das Respostas Oficiais',
+        text: 'A SELECON mantém fidelidade estrita à norma culta tradicional (Cegalla/Bechara) e às diretrizes consolidadas do Ministério da Saúde.'
+      }
     }
   },
   VUNESP: {
@@ -131,3 +177,32 @@ export const INSIGHTS_POR_BANCA = {
     }
   }
 };
+
+/**
+ * Retorna os insights da banca ajustados dinamicamente para a matéria selecionada.
+ */
+export function getInsightPorBanca(bancaNome, materiaNome = 'Todas') {
+  const b = INSIGHTS_POR_BANCA[bancaNome];
+  if (!b) return null;
+
+  // Se a banca tiver subseções por matéria (como SELECON)
+  if (b[materiaNome]) {
+    return {
+      nome: `${b.nome} (${materiaNome})`,
+      ...b[materiaNome]
+    };
+  }
+
+  // Fallback para 'Enfermagem' ou objeto direto
+  if (b.Enfermagem && materiaNome === 'Enfermagem') {
+    return { nome: `${b.nome} (Enfermagem)`, ...b.Enfermagem };
+  }
+  if (b['Língua Portuguesa'] && materiaNome === 'Língua Portuguesa') {
+    return { nome: `${b.nome} (Língua Portuguesa)`, ...b['Língua Portuguesa'] };
+  }
+  if (b.Todas) {
+    return { nome: b.nome, ...b.Todas };
+  }
+
+  return b;
+}

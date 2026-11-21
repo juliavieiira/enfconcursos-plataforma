@@ -1,0 +1,152 @@
+[
+  {
+    "codigo_origem": "Q3109055",
+    "numero_original": 772,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sapezal - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Motorista de",
+    "cargo": "Motorista de",
+    "materia": "Língua Portuguesa",
+    "assunto": "Concordância Verbal e Nominal",
+    "assunto_detalhado": "Sintaxe , Concordância verbal, Concordância nominal",
+    "enunciado": "Transporte Escolar - Edital nº 2 Leia o texto a seguir: Fonte: https://www.noroesteonline.com/primeiro-caso-de-sarampo-e-registrado-em-ijui-em-2019/. Acesso em 30/10/2024 “A doença viral atinge qualquer idade”. No plural, essa frase estaria corretamente redigida da seguinte forma:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "“As doenças virais atingem qualquer idades”"
+      },
+      {
+        "id": "B",
+        "texto": "“As doenças virais atingem quaisquer idades”"
+      },
+      {
+        "id": "C",
+        "texto": "“As doenças virales atingem qualquer idades”"
+      },
+      {
+        "id": "D",
+        "texto": "“As doenças virales atingem quaisquer idades” 773 Ano:"
+      }
+    ],
+    "resposta_correta": "B",
+    "id": "LP0747",
+    "numero_ordem": 747,
+    "fundamentacao_correta": "De acordo com as regras de concordância verbal e nominal da gramática normativa, o verbo harmoniza-se em número e pessoa com o núcleo do sujeito gramatical, e os determinantes nominais flexionam-se em gênero e número com o substantivo regente. A alternativa [B] ('“As doenças virais atingem quaisquer idades”') cumpre estritamente as prescrições de concordância da norma culta.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta, pois '“As doenças virais atingem qualquer idades”' apresenta desacordo de flexão de gênero/número com o termo núcleo regente."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta, pois '“As doenças virales atingem qualquer idades”' apresenta desacordo de flexão de gênero/número com o termo núcleo regente."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta, pois '“As doenças virales atingem quaisquer idades” 773 Ano:' apresenta desacordo de flexão de gênero/número com o termo núcleo regente."
+      }
+    ],
+    "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [B]** — *“As doenças virais atingem quaisquer idades”*\n\n#### Fundamentação Gramatical:\nDe acordo com as regras de concordância verbal e nominal da gramática normativa, o verbo harmoniza-se em número e pessoa com o núcleo do sujeito gramatical, e os determinantes nominais flexionam-se em gênero e número com o substantivo regente. A alternativa [B] ('“As doenças virais atingem quaisquer idades”') cumpre estritamente as prescrições de concordância da norma culta.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois '“As doenças virais atingem qualquer idades”' apresenta desacordo de flexão de gênero/número com o termo núcleo regente.\n- **Alternativa [C]:** Incorreta, pois '“As doenças virales atingem qualquer idades”' apresenta desacordo de flexão de gênero/número com o termo núcleo regente.\n- **Alternativa [D]:** Incorreta, pois '“As doenças virales atingem quaisquer idades” 773 Ano:' apresenta desacordo de flexão de gênero/número com o termo núcleo regente.\n"
+  },
+  {
+    "codigo_origem": "Q3093824",
+    "numero_original": 842,
+    "banca": "SELECON",
+    "orgao": "Câmara de Itabi - SE",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Câmara de Itabi - SE - Controlador Interno",
+    "cargo": "Controlador Interno",
+    "materia": "Língua Portuguesa",
+    "assunto": "Concordância Verbal e Nominal",
+    "assunto_detalhado": "Sintaxe , Concordância verbal, Concordância nominal",
+    "enunciado": "“Essa onda vem se deslocando em alta velocidade e, junto com a tecnologia, irá nos carregar para um futuro mais justo, inclusivo e sustentável” (5º parágrafo). Nesse trecho, o verbo destacado estabelece concordância com o(s) termo(s):",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "“essa onda”"
+      },
+      {
+        "id": "B",
+        "texto": "“alta velocidade”"
+      },
+      {
+        "id": "C",
+        "texto": "“essa onda” e “a tecnologia”"
+      },
+      {
+        "id": "D",
+        "texto": "alta velocidade” e “a tecnologia” 843 Português > Sintaxe , Termos integrantes da oração: Objeto direto, Objeto indireto, Complemento nominal, Agente da Passiva Banca: SELECON Órgão: Câmara de Itabi - SE Prova: SELECON - 2024 - Câmara de Itabi - SE - Controlador Interno"
+      }
+    ],
+    "resposta_correta": "A",
+    "id": "LP0817",
+    "numero_ordem": 817,
+    "fundamentacao_correta": "De acordo com as regras de concordância verbal e nominal da gramática normativa, o verbo harmoniza-se em número e pessoa com o núcleo do sujeito gramatical, e os determinantes nominais flexionam-se em gênero e número com o substantivo regente. A alternativa [A] ('“essa onda”') cumpre estritamente as prescrições de concordância da norma culta.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta, pois '“alta velocidade”' apresenta desacordo de flexão de gênero/número com o termo núcleo regente."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta, pois '“essa onda” e “a tecnologia”' apresenta desacordo de flexão de gênero/número com o termo núcleo regente."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta, pois 'alta velocidade” e “a tecnologia” 843 Português > Sinta...' apresenta desacordo de flexão de gênero/número com o termo núcleo regente."
+      }
+    ],
+    "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [A]** — *“essa onda”*\n\n#### Fundamentação Gramatical:\nDe acordo com as regras de concordância verbal e nominal da gramática normativa, o verbo harmoniza-se em número e pessoa com o núcleo do sujeito gramatical, e os determinantes nominais flexionam-se em gênero e número com o substantivo regente. A alternativa [A] ('“essa onda”') cumpre estritamente as prescrições de concordância da norma culta.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [B]:** Incorreta, pois '“alta velocidade”' apresenta desacordo de flexão de gênero/número com o termo núcleo regente.\n- **Alternativa [C]:** Incorreta, pois '“essa onda” e “a tecnologia”' apresenta desacordo de flexão de gênero/número com o termo núcleo regente.\n- **Alternativa [D]:** Incorreta, pois 'alta velocidade” e “a tecnologia” 843 Português > Sinta...' apresenta desacordo de flexão de gênero/número com o termo núcleo regente.\n"
+  },
+  {
+    "codigo_origem": "Q2353193",
+    "numero_original": 1117,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sapezal - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Motorista de",
+    "cargo": "Motorista de",
+    "materia": "Língua Portuguesa",
+    "assunto": "Concordância Verbal e Nominal",
+    "assunto_detalhado": "Sintaxe , Concordância verbal, Concordância nominal",
+    "enunciado": "Transporte Escolar “O encontro em São Vicente e Granadinas é promovido pela Comunidade dos Estados Latino-Americanos e Caribenhos (CELAC) e pela Comunidade do Caribe (CARICOM)” (2º parágrafo). Se a palavra em destaque estivesse no plural, a frase completa, segundo a norma-padrão da língua portuguesa, seria:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "“Os encontros em São Vicente e Granadinas é promovido pela Comunidade dos Estados Latino-Americanos e Caribenhos (CELAC) e pela Comunidade do Caribe (CARICOM)”."
+      },
+      {
+        "id": "B",
+        "texto": "“Os encontros em São Vicente e Granadinas são promovidos pela Comunidade dos Estados Latino-Americanos e Caribenhos (CELAC) e pela Comunidade do Caribe (CARICOM)”."
+      },
+      {
+        "id": "C",
+        "texto": "“Os encontros em São Vicente e Granadinas são promovido pela Comunidade dos Estados Latino-Americanos e Caribenhos (CELAC) e pela Comunidade do Caribe (CARICOM)”."
+      },
+      {
+        "id": "D",
+        "texto": "“Os encontros em São Vicente e Granadinas é promovidos pela Comunidade dos Estados Latino-Americanos e Caribenhos (CELAC) e pela Comunidade do Caribe (CARICOM)”. https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 7/8 21/11/2026, 11:23 1118 Ano: 2024 Questões de Provas - Questões de Concursos - Página 56 | Qconcursos.com"
+      }
+    ],
+    "resposta_correta": "B",
+    "id": "LP1087",
+    "numero_ordem": 1087,
+    "fundamentacao_correta": "De acordo com as regras de concordância verbal e nominal da gramática normativa, o verbo harmoniza-se em número e pessoa com o núcleo do sujeito gramatical, e os determinantes nominais flexionam-se em gênero e número com o substantivo regente. A alternativa [B] ('“Os encontros em São Vicente e Granadinas são promovidos pela Comunidade dos Estados Latino-Americanos e Caribenhos (CELAC) e pela Comunidade do Caribe (CARICOM)”.') cumpre estritamente as prescrições de concordância da norma culta.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta, pois '“Os encontros em São Vicente e Granadinas é promovido p...' apresenta desacordo de flexão de gênero/número com o termo núcleo regente."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta, pois '“Os encontros em São Vicente e Granadinas são promovido...' apresenta desacordo de flexão de gênero/número com o termo núcleo regente."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta, pois '“Os encontros em São Vicente e Granadinas é promovidos ...' apresenta desacordo de flexão de gênero/número com o termo núcleo regente."
+      }
+    ],
+    "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [B]** — *“Os encontros em São Vicente e Granadinas são promovidos pela Comunidade dos Estados Latino-Americanos e Caribenhos (CELAC) e pela Comunidade do Caribe (CARICOM)”.*\n\n#### Fundamentação Gramatical:\nDe acordo com as regras de concordância verbal e nominal da gramática normativa, o verbo harmoniza-se em número e pessoa com o núcleo do sujeito gramatical, e os determinantes nominais flexionam-se em gênero e número com o substantivo regente. A alternativa [B] ('“Os encontros em São Vicente e Granadinas são promovidos pela Comunidade dos Estados Latino-Americanos e Caribenhos (CELAC) e pela Comunidade do Caribe (CARICOM)”.') cumpre estritamente as prescrições de concordância da norma culta.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois '“Os encontros em São Vicente e Granadinas é promovido p...' apresenta desacordo de flexão de gênero/número com o termo núcleo regente.\n- **Alternativa [C]:** Incorreta, pois '“Os encontros em São Vicente e Granadinas são promovido...' apresenta desacordo de flexão de gênero/número com o termo núcleo regente.\n- **Alternativa [D]:** Incorreta, pois '“Os encontros em São Vicente e Granadinas é promovidos ...' apresenta desacordo de flexão de gênero/número com o termo núcleo regente.\n"
+  }
+]

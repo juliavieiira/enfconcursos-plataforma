@@ -1,0 +1,1202 @@
+[
+  {
+    "codigo_origem": "Q4432454",
+    "numero_original": 2,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Nova Mutum - MT - Agente",
+    "cargo": "Agente",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "assunto_detalhado": "Interpretação de Textos , Coesão e coerência , Noções Gerais de Compreensão e Interpretação de Texto",
+    "enunciado": "A expressão “Esses profissionais” (7º parágrafo) retoma os:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "especialistas de Harvard citados anteriormente"
+      },
+      {
+        "id": "B",
+        "texto": "autores dos estudos sobre treinamento de força"
+      },
+      {
+        "id": "C",
+        "texto": "adultos mais velhos mencionados anteriormente"
+      },
+      {
+        "id": "D",
+        "texto": "integrantes da OMS que estabeleceram os minutos semanais https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 1/8 21/11/2026, 11:06 3 Questões de Provas - Questões de Concursos | Qconcursos.com"
+      }
+    ],
+    "resposta_correta": "A",
+    "id": "LP0002",
+    "numero_ordem": 2,
+    "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [A] ('especialistas de Harvard citados anteriormente') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta, pois a assertiva 'autores dos estudos sobre treinamento de força' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta, pois a assertiva 'adultos mais velhos mencionados anteriormente' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta, pois a assertiva 'integrantes da OMS que estabeleceram os minutos se...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      }
+    ],
+    "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [A]** — *especialistas de Harvard citados anteriormente*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [A] ('especialistas de Harvard citados anteriormente') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [B]:** Incorreta, pois a assertiva 'autores dos estudos sobre treinamento de força' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'adultos mais velhos mencionados anteriormente' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'integrantes da OMS que estabeleceram os minutos se...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"
+  },
+  {
+    "codigo_origem": "Q4400007",
+    "numero_original": 14,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Bugres - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Barra do Bugres - MT -",
+    "cargo": "Geral",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "assunto_detalhado": "Interpretação de Textos , Coesão e coerência , Noções Gerais de Compreensão e Interpretação de Texto",
+    "enunciado": "No primeiro parágrafo, a expressão “uma sequência de notícias” ganha sentido mais preciso quando se considera que o texto:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "reúne informações antigas sobre a formação do Deep Purple"
+      },
+      {
+        "id": "B",
+        "texto": "compara a atuação de diferentes músicos do cenário do rock"
+      },
+      {
+        "id": "C",
+        "texto": "apresenta opiniões divergentes sobre a trajetória musical da banda"
+      },
+      {
+        "id": "D",
+        "texto": "articula diferentes acontecimentos recentes relacionados ao Deep Purple 15"
+      }
+    ],
+    "resposta_correta": "D",
+    "id": "LP0014",
+    "numero_ordem": 14,
+    "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [D] ('articula diferentes acontecimentos recentes relacionados ao Deep Purple 15') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta, pois a assertiva 'reúne informações antigas sobre a formação do Deep...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta, pois a assertiva 'compara a atuação de diferentes músicos do cenário...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta, pois a assertiva 'apresenta opiniões divergentes sobre a trajetória ...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      }
+    ],
+    "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [D]** — *articula diferentes acontecimentos recentes relacionados ao Deep Purple 15*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [D] ('articula diferentes acontecimentos recentes relacionados ao Deep Purple 15') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'reúne informações antigas sobre a formação do Deep...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [B]:** Incorreta, pois a assertiva 'compara a atuação de diferentes músicos do cenário...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'apresenta opiniões divergentes sobre a trajetória ...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"
+  },
+  {
+    "codigo_origem": "Q4394438",
+    "numero_original": 26,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sapezal - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Sapezal - MT - Secretário Escolar",
+    "cargo": "Secretário Escolar",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "assunto_detalhado": "Interpretação de Textos , Coesão e coerência , Noções Gerais de Compreensão e Interpretação de Texto",
+    "enunciado": "... Em relação ao desenvolvimento do texto, o título “Anvisa atualiza regras sanitárias para aeroportos e aviões”:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "restringe o assunto às aeronaves comerciais"
+      },
+      {
+        "id": "B",
+        "texto": "antecipa a revogação de todos os controles anteriores"
+      },
+      {
+        "id": "C",
+        "texto": "sintetiza o foco da atualização normativa apresentada no texto"
+      },
+      {
+        "id": "D",
+        "texto": "destaca uma punição aplicada aos aeroportos de maior movimento https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examinin… 3/13 21/11/2026, 11:07 27 Questões de Provas - Questões de Concursos - Página 2 | Qconcursos.com"
+      }
+    ],
+    "resposta_correta": "C",
+    "id": "LP0026",
+    "numero_ordem": 26,
+    "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [C] ('sintetiza o foco da atualização normativa apresentada no texto') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta, pois a assertiva 'restringe o assunto às aeronaves comerciais' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta, pois a assertiva 'antecipa a revogação de todos os controles anterio...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta, pois a assertiva 'destaca uma punição aplicada aos aeroportos de mai...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      }
+    ],
+    "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [C]** — *sintetiza o foco da atualização normativa apresentada no texto*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [C] ('sintetiza o foco da atualização normativa apresentada no texto') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'restringe o assunto às aeronaves comerciais' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [B]:** Incorreta, pois a assertiva 'antecipa a revogação de todos os controles anterio...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'destaca uma punição aplicada aos aeroportos de mai...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"
+  },
+  {
+    "codigo_origem": "Q4342868",
+    "numero_original": 41,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Lucas do Rio Verde - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Lucas do Rio Verde -",
+    "cargo": "Geral",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "assunto_detalhado": "Interpretação de Textos , Coesão e coerência , Noções Gerais de Compreensão e Interpretação de Texto",
+    "enunciado": "Leia o texto a seguir. Nepal pede ação global contra aquecimento do clima após tragédia no Himalaia País quer apoio internacional para enfrentar incertezas climáticas e ampliar a resposta aos desastres O ministro nepalês dos Negócios Estrangeiros, Shisir Khanal, pediu neste sábado um esforço global para enfrentar as alterações climáticas. Segundo ele, o Nepal é uma das principais vítimas do aquecimento global, embora contribua com menos de 0,01% das emissões de gases de efeito estufa. A manifestação ocorre após o colapso de uma geleira no Himalaia, na última quarta-feira, que desencadeou uma enxurrada devastadora na fronteira entre o Nepal e o Tibete. O desastre deixou pelo menos 683 mortos e mais de 3 mil desaparecidos, ampliando a pressão sobre as autoridades locais e sobre a comunidade internacional. Shisir Khanal informou que o Nepal pretende analisar o ocorrido em um mecanismo conjunto com investigadores chineses. Ele disse ainda que as conversas para criar um sistema de alerta em áreas mais vulneráveis já estavam em andamento antes da tragédia desta semana. O correspondente ambiental da BBC, Navin Singh Khadka, avalia que, nos próximos dias, será possível entender melhor o peso das alterações climáticas no colapso da geleira. Estudos recentes apontam para um degelo acelerado no Himalaia, e um levantamento divulgado em março indica que as taxas de derretimento na região dobraram desde 2000. Fonte: https://www.jb.com.br/mundo/2026/08/1060747-nepal-pede-esforco-globalapos-colapso-de-geleira-no-himalaia.html. Acesso em 01/09/2026. Excerto. A ideia central desenvolvida no primeiro parágrafo permite concluir que a reivindicação do ministro nepalês se fundamenta na relação entre:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "baixa emissão de gases e elevada vulnerabilidade climática"
+      },
+      {
+        "id": "B",
+        "texto": "limitada cooperação externa e acelerado crescimento industrial"
+      },
+      {
+        "id": "C",
+        "texto": "grande emissão histórica de gases e reduzida exposição territorial"
+      },
+      {
+        "id": "D",
+        "texto": "elevada responsabilidade ambiental e insuficiente capacidade científica https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 1/9 21/11/2026, 11:08 42 Questões de Provas - Questões de Concursos - Página 3 | Qconcursos.com"
+      }
+    ],
+    "resposta_correta": "A",
+    "id": "LP0041",
+    "numero_ordem": 41,
+    "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [A] ('baixa emissão de gases e elevada vulnerabilidade climática') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta, pois a assertiva 'limitada cooperação externa e acelerado cresciment...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta, pois a assertiva 'grande emissão histórica de gases e reduzida expos...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta, pois a assertiva 'elevada responsabilidade ambiental e insuficiente ...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      }
+    ],
+    "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [A]** — *baixa emissão de gases e elevada vulnerabilidade climática*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [A] ('baixa emissão de gases e elevada vulnerabilidade climática') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [B]:** Incorreta, pois a assertiva 'limitada cooperação externa e acelerado cresciment...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'grande emissão histórica de gases e reduzida expos...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'elevada responsabilidade ambiental e insuficiente ...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"
+  },
+  {
+    "codigo_origem": "Q4341767",
+    "numero_original": 47,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Lucas do Rio Verde - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Lucas do Rio Verde -",
+    "cargo": "Geral",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "assunto_detalhado": "Interpretação de Textos , Coesão e coerência , Noções Gerais de Compreensão e Interpretação de Texto",
+    "enunciado": "MT - Técnico Administrativo Educacional - Área Monitoria e Área Secretaria - Secretaria de Educação A referência aos estados menos populosos, após a apresentação de São Paulo, Minas Gerais e Rio de Janeiro, produz no texto o efeito de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "explicar as causas responsáveis pelo crescimento demográfico nacional"
+      },
+      {
+        "id": "B",
+        "texto": "demonstrar que os estados brasileiros possuem populações equivalentes"
+      },
+      {
+        "id": "C",
+        "texto": "substituir os dados anteriores por informações consideradas mais relevantes"
+      },
+      {
+        "id": "D",
+        "texto": "ampliar a comparação entre diferentes extremos da distribuição populacional 48"
+      }
+    ],
+    "resposta_correta": "D",
+    "id": "LP0047",
+    "numero_ordem": 47,
+    "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [D] ('ampliar a comparação entre diferentes extremos da distribuição populacional 48') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta, pois a assertiva 'explicar as causas responsáveis pelo crescimento d...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta, pois a assertiva 'demonstrar que os estados brasileiros possuem popu...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta, pois a assertiva 'substituir os dados anteriores por informações con...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      }
+    ],
+    "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [D]** — *ampliar a comparação entre diferentes extremos da distribuição populacional 48*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [D] ('ampliar a comparação entre diferentes extremos da distribuição populacional 48') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'explicar as causas responsáveis pelo crescimento d...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [B]:** Incorreta, pois a assertiva 'demonstrar que os estados brasileiros possuem popu...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'substituir os dados anteriores por informações con...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"
+  },
+  {
+    "codigo_origem": "Q4341765",
+    "numero_original": 49,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Lucas do Rio Verde - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Lucas do Rio Verde -",
+    "cargo": "Geral",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "assunto_detalhado": "Interpretação de Textos , Coesão e coerência , Noções Gerais de Compreensão e Interpretação de Texto",
+    "enunciado": "MT - Técnico Administrativo Educacional - Área Monitoria e Área Secretaria - Secretaria de Educação A sequência das informações apresentadas nos dois primeiros parágrafos permite concluir que o texto:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "anuncia o dado principal e, em seguida, interpreta sua evolução recente"
+      },
+      {
+        "id": "B",
+        "texto": "descreve dados históricos e, ao final, abandona a análise da situação atual"
+      },
+      {
+        "id": "C",
+        "texto": "apresenta hipóteses iniciais e, depois, comprova integralmente suas previsões"
+      },
+      {
+        "id": "D",
+        "texto": "compara estudos distintos e, posteriormente, questiona seus resultados principais"
+      }
+    ],
+    "resposta_correta": "A",
+    "id": "LP0049",
+    "numero_ordem": 49,
+    "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [A] ('anuncia o dado principal e, em seguida, interpreta sua evolução recente') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta, pois a assertiva 'descreve dados históricos e, ao final, abandona a ...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta, pois a assertiva 'apresenta hipóteses iniciais e, depois, comprova i...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta, pois a assertiva 'compara estudos distintos e, posteriormente, quest...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      }
+    ],
+    "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [A]** — *anuncia o dado principal e, em seguida, interpreta sua evolução recente*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [A] ('anuncia o dado principal e, em seguida, interpreta sua evolução recente') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [B]:** Incorreta, pois a assertiva 'descreve dados históricos e, ao final, abandona a ...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'apresenta hipóteses iniciais e, depois, comprova i...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'compara estudos distintos e, posteriormente, quest...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"
+  },
+  {
+    "codigo_origem": "Q4340093",
+    "numero_original": 63,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Lucas do Rio Verde - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Lucas do Rio Verde -",
+    "cargo": "Geral",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "assunto_detalhado": "Interpretação de Textos , Coesão e coerência , Noções Gerais de Compreensão e Interpretação de Texto",
+    "enunciado": "De acordo com a organização cronológica dos acontecimentos, antes de Miguel subir ao sótão:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "os irmãos já haviam aberto juntos o baú antigo"
+      },
+      {
+        "id": "B",
+        "texto": "Helena já havia encontrado a chave no livro do avô"
+      },
+      {
+        "id": "C",
+        "texto": "Miguel já havia lido a mensagem escrita no caderno"
+      },
+      {
+        "id": "D",
+        "texto": "Helena já havia descoberto as fotografias e as cartas"
+      }
+    ],
+    "resposta_correta": "B",
+    "id": "LP0063",
+    "numero_ordem": 63,
+    "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('Helena já havia encontrado a chave no livro do avô') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta, pois a assertiva 'os irmãos já haviam aberto juntos o baú antigo' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta, pois a assertiva 'Miguel já havia lido a mensagem escrita no caderno' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta, pois a assertiva 'Helena já havia descoberto as fotografias e as car...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      }
+    ],
+    "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [B]** — *Helena já havia encontrado a chave no livro do avô*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('Helena já havia encontrado a chave no livro do avô') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'os irmãos já haviam aberto juntos o baú antigo' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'Miguel já havia lido a mensagem escrita no caderno' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'Helena já havia descoberto as fotografias e as car...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"
+  },
+  {
+    "codigo_origem": "Q4340089",
+    "numero_original": 67,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Lucas do Rio Verde - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Lucas do Rio Verde -",
+    "cargo": "Geral",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "assunto_detalhado": "Interpretação de Textos , Coesão e coerência , Noções Gerais de Compreensão e Interpretação de Texto",
+    "enunciado": "“Dentro do baú, porém, não havia joias nem objetos valiosos” (4º parágrafo). Nesse trecho, a palavra em destaque introduz uma ideia de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "oposição ao que se esperava encontrar"
+      },
+      {
+        "id": "B",
+        "texto": "explicação para a origem dos objetos encontrados"
+      },
+      {
+        "id": "C",
+        "texto": "conclusão acerca da descoberta realizada pelos irmãos"
+      },
+      {
+        "id": "D",
+        "texto": "consequência imediata da abertura da fechadura do baú 68"
+      }
+    ],
+    "resposta_correta": "A",
+    "id": "LP0067",
+    "numero_ordem": 67,
+    "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [A] ('oposição ao que se esperava encontrar') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta, pois a assertiva 'explicação para a origem dos objetos encontrados' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta, pois a assertiva 'conclusão acerca da descoberta realizada pelos irm...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta, pois a assertiva 'consequência imediata da abertura da fechadura do ...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      }
+    ],
+    "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [A]** — *oposição ao que se esperava encontrar*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [A] ('oposição ao que se esperava encontrar') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [B]:** Incorreta, pois a assertiva 'explicação para a origem dos objetos encontrados' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'conclusão acerca da descoberta realizada pelos irm...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'consequência imediata da abertura da fechadura do ...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"
+  },
+  {
+    "codigo_origem": "Q4324793",
+    "numero_original": 90,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Araçás - BA",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Araçás - BA - Assistente",
+    "cargo": "Assistente",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "assunto_detalhado": "Interpretação de Textos , Coesão e coerência , Noções Gerais de Compreensão e Interpretação de Texto",
+    "enunciado": "“Caso haja algum valor, é preciso acessar o sistema e verificar quanto há para receber” (7º parágrafo). Nesse trecho, o conectivo em destaque estabelece sentido de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "adição"
+      },
+      {
+        "id": "B",
+        "texto": "condição"
+      },
+      {
+        "id": "C",
+        "texto": "comparação"
+      },
+      {
+        "id": "D",
+        "texto": "exemplificação 91"
+      }
+    ],
+    "resposta_correta": "B",
+    "id": "LP0090",
+    "numero_ordem": 90,
+    "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('condição') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta, pois a assertiva 'adição' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta, pois a assertiva 'comparação' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta, pois a assertiva 'exemplificação 91' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      }
+    ],
+    "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [B]** — *condição*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('condição') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'adição' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'comparação' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'exemplificação 91' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"
+  },
+  {
+    "codigo_origem": "Q4324790",
+    "numero_original": 93,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Araçás - BA",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Araçás - BA - Assistente",
+    "cargo": "Assistente",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "assunto_detalhado": "Interpretação de Textos , Coesão e coerência , Noções Gerais de Compreensão e Interpretação de Texto",
+    "enunciado": "A partir das informações do texto, conclui-se que a transferência de parte dos recursos do SVR para o FGO:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "impediu o resgate dos valores pelos titulares"
+      },
+      {
+        "id": "B",
+        "texto": "extinguiu o direito de reivindicação dos recursos"
+      },
+      {
+        "id": "C",
+        "texto": "alterou o destino dos recursos, mas preservou a possibilidade de contestação"
+      },
+      {
+        "id": "D",
+        "texto": "tornou definitiva a incorporação dos recursos ao fundo público independentemente da manifestação dos titulares"
+      }
+    ],
+    "resposta_correta": "C",
+    "id": "LP0093",
+    "numero_ordem": 93,
+    "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [C] ('alterou o destino dos recursos, mas preservou a possibilidade de contestação') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta, pois a assertiva 'impediu o resgate dos valores pelos titulares' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta, pois a assertiva 'extinguiu o direito de reivindicação dos recursos' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta, pois a assertiva 'tornou definitiva a incorporação dos recursos ao f...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      }
+    ],
+    "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [C]** — *alterou o destino dos recursos, mas preservou a possibilidade de contestação*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [C] ('alterou o destino dos recursos, mas preservou a possibilidade de contestação') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'impediu o resgate dos valores pelos titulares' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [B]:** Incorreta, pois a assertiva 'extinguiu o direito de reivindicação dos recursos' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'tornou definitiva a incorporação dos recursos ao f...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"
+  },
+  {
+    "codigo_origem": "Q4322632",
+    "numero_original": 101,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Araçás - BA",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Araçás - BA - Auditor Tributário -",
+    "cargo": "Geral",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "assunto_detalhado": "Interpretação de Textos , Coesão e coerência , Noções Gerais de Compreensão e Interpretação de Texto",
+    "enunciado": "Leia o texto a seguir. Excesso de proteína pode trazer riscos à saúde, alertam especialistas Sophie Egan Se você andou pelos corredores de alimentos embalados de um supermercado recentemente, ou deu uma olhada nas atuais diretrizes alimentares dos Estados Unidos, pode ter ficado com a impressão de que, quando se trata de proteína, quanto mais, melhor. Cereais embalados, pipoca, mistura para panqueca e bebidas de café estão sendo enriquecidos com o nutriente. E a nova pirâmide alimentar invertida, que o governo Trump divulgou em janeiro, destaca a proteína de forma proeminente, com bife, frango e queijo no topo. Pesquisas sugerem que a maioria dos adultos americanos está consumindo muito mais proteína do que o necessário para uma boa saúde. Uma pesquisa de 2025 com 3.000 adultos americanos mostrou que 71% estavam tentando comer mais proteína. O percentual era de 59% em 2022. A proteína é um nutriente essencial. Mas [...] não é necessariamente melhor, diz Bettina Mittendorfer, professora de nutrição e fisiologia do exercício na Faculdade de Medicina da Universidade de Missouri. E em alguns casos, comer muito mais do que os especialistas em nutrição recomendam pode trazer alguns riscos. Não existe uma regra rígida sobre quanta proteína é demais, dizem os especialistas, e muitas pessoas podem exceder as quantidades recomendadas sem problemas. Mas problemas potenciais podem surgir quando as pessoas consomem muito mais do que cerca de 1,2 g de proteína por quilograma de peso corporal por dia, diz Mittendorfer. Doenças cardíacas e diabetes tipo 2 A maioria da proteína que os americanos consomem vem de carne e outros produtos de origem animal. Em um estudo publicado em 2021, pesquisadores do Departamento de Agricultura descobriram que alimentos de origem animal (incluindo carne bovina, frango e carnes curadas) representavam quase 70% do consumo de proteína das pessoas. Pesquisas sugerem que aqueles que consomem maiores quantidades de carne vermelha e processada tendem a ter riscos mais elevados de doenças cardíacas e diabetes tipo 2, diz Donald Hensrud, professor associado de nutrição e medicina preventiva na Faculdade de Medicina da Mayo Clinic. Em uma grande análise publicada em 2023, por exemplo, pesquisadores descobriram que comer 100g extras de carne vermelha (equivalente a cerca de uma costeleta de porco fina e desossada) por dia aumentava o risco de doenças cardíacas em 11% — e cada 50g adicionais de carne vermelha processada (equivalente a cerca de uma salsicha padrão) por dia aumentava em 26%. Outro estudo, também publicado em 2023, descobriu que entre os quase 217 mil participantes (majoritariamente mulheres), aqueles que consumiam mais carne vermelha tinham um risco 40% maior de desenvolver diabetes tipo 2 do que aqueles que consumiam menos, e que aqueles que consumiam mais carne vermelha processada tinham um risco 51% maior. Carnes vermelhas e processadas tendem a conter altos níveis de gorduras saturadas, que podem elevar os níveis sanguíneos de colesterol LDL (ou \"ruim\") e aumentar o risco de infarto e AVC. Esses alimentos também podem aumentar a inflamação e a resistência à insulina, diz Hensrud, o que também poderia elevar os riscos de doenças cardíacas e diabetes tipo 2. Fonte: https://www1.folha.uol.com.br/equilibrioesaude/2026/06/excessode-proteina-pode-trazer-riscos-a-saude-alertam-especialistas.shtml. Adaptado. Acesso em 03/06/2026 A tese central defendida no texto é a de que:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "o consumo de proteína deve ser eliminado da dieta de pessoas com risco cardiovascular"
+      },
+      {
+        "id": "B",
+        "texto": "a proteína é um nutriente essencial, mas seu consumo excessivo, especialmente de fontes animais, pode representar riscos à saúde"
+      },
+      {
+        "id": "C",
+        "texto": "as políticas alimentares do governo estadunidense contradizem frontalmente todas as pesquisas científicas sobre proteína disponíveis atualmente https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examinin… 2/10 21/11/2026, 11:09"
+      },
+      {
+        "id": "D",
+        "texto": "Questões de Provas - Questões de Concursos - Página 6 | Qconcursos.com pesquisas recentes comprovam que qualquer quantidade de proteína acima da recomendação diária causa doenças cardíacas e diabetes tipo 2 102 Ano:"
+      }
+    ],
+    "resposta_correta": "B",
+    "id": "LP0101",
+    "numero_ordem": 101,
+    "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('a proteína é um nutriente essencial, mas seu consumo excessivo, especialmente de fontes animais, pode representar riscos à saúde') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta, pois a assertiva 'o consumo de proteína deve ser eliminado da dieta ...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta, pois a assertiva 'as políticas alimentares do governo estadunidense ...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta, pois a assertiva 'Questões de Provas - Questões de Concursos - Págin...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      }
+    ],
+    "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [B]** — *a proteína é um nutriente essencial, mas seu consumo excessivo, especialmente de fontes animais, pode representar riscos à saúde*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('a proteína é um nutriente essencial, mas seu consumo excessivo, especialmente de fontes animais, pode representar riscos à saúde') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'o consumo de proteína deve ser eliminado da dieta ...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'as políticas alimentares do governo estadunidense ...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'Questões de Provas - Questões de Concursos - Págin...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"
+  },
+  {
+    "codigo_origem": "Q4251002",
+    "numero_original": 111,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Conquista D'Oeste - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Conquista D'Oeste -",
+    "cargo": "Geral",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "assunto_detalhado": "Interpretação de Textos , Coesão e coerência , Noções Gerais de Compreensão e Interpretação de Texto",
+    "enunciado": "No trecho \"Ninguém enxerga ninguém. Só o aparelhinho\" (7º parágrafo), o termo em destaque retoma:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "os óculos de realidade virtual descritos implicitamente no parágrafo anterior"
+      },
+      {
+        "id": "B",
+        "texto": "qualquer dispositivo eletrônico portátil, incluindo tablets e câmeras fotográficas"
+      },
+      {
+        "id": "C",
+        "texto": "o celular, referido ao longo do texto como extensão do comportamento conectado"
+      },
+      {
+        "id": "D",
+        "texto": "o iPad, mencionado no 3º parágrafo, como símbolo do entretenimento digital infantil 112 Ano:"
+      }
+    ],
+    "resposta_correta": "C",
+    "id": "LP0111",
+    "numero_ordem": 111,
+    "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [C] ('o celular, referido ao longo do texto como extensão do comportamento conectado') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta, pois a assertiva 'os óculos de realidade virtual descritos implicita...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta, pois a assertiva 'qualquer dispositivo eletrônico portátil, incluind...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta, pois a assertiva 'o iPad, mencionado no 3º parágrafo, como símbolo d...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      }
+    ],
+    "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [C]** — *o celular, referido ao longo do texto como extensão do comportamento conectado*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [C] ('o celular, referido ao longo do texto como extensão do comportamento conectado') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'os óculos de realidade virtual descritos implicita...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [B]:** Incorreta, pois a assertiva 'qualquer dispositivo eletrônico portátil, incluind...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'o iPad, mencionado no 3º parágrafo, como símbolo d...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"
+  },
+  {
+    "codigo_origem": "Q4250881",
+    "numero_original": 119,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Conquista D'Oeste - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Conquista D'Oeste -",
+    "cargo": "Geral",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "assunto_detalhado": "Interpretação de Textos , Coesão e coerência , Noções Gerais de Compreensão e Interpretação de Texto",
+    "enunciado": "No trecho “porque eles podem chegar ao oceano profundo por diferentes caminhos” (5º parágrafo), o pronome destacado retoma os:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "pesquisadores brasileiros e estrangeiros"
+      },
+      {
+        "id": "B",
+        "texto": "materiais poluentes encontrados"
+      },
+      {
+        "id": "C",
+        "texto": "rios e os oceanos do planeta"
+      },
+      {
+        "id": "D",
+        "texto": "peixes do mar profundo 120 Ano:"
+      }
+    ],
+    "resposta_correta": "B",
+    "id": "LP0119",
+    "numero_ordem": 119,
+    "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('materiais poluentes encontrados') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta, pois a assertiva 'pesquisadores brasileiros e estrangeiros' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta, pois a assertiva 'rios e os oceanos do planeta' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta, pois a assertiva 'peixes do mar profundo 120 Ano:' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      }
+    ],
+    "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [B]** — *materiais poluentes encontrados*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('materiais poluentes encontrados') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'pesquisadores brasileiros e estrangeiros' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'rios e os oceanos do planeta' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'peixes do mar profundo 120 Ano:' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"
+  },
+  {
+    "codigo_origem": "Q4220096",
+    "numero_original": 137,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Araçás - BA",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Araçás - BA - Bombeiro Civil",
+    "cargo": "Bombeiro Civil",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "assunto_detalhado": "Interpretação de Textos , Coesão e coerência , Noções Gerais de Compreensão e Interpretação de Texto",
+    "enunciado": "Em \"[...] gerando uma distração que é eficaz a curto prazo e, justamente por isso, se repete\" (5º parágrafo), a expressão destacada introduz ideia de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "consequência"
+      },
+      {
+        "id": "B",
+        "texto": "finalidade"
+      },
+      {
+        "id": "C",
+        "texto": "condição"
+      },
+      {
+        "id": "D",
+        "texto": "adição https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 7/8 21/11/2026, 11:09 138 Ano: 2026 Questões de Provas - Questões de Concursos - Página 7 | Qconcursos.com"
+      }
+    ],
+    "resposta_correta": "A",
+    "id": "LP0137",
+    "numero_ordem": 137,
+    "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [A] ('consequência') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta, pois a assertiva 'finalidade' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta, pois a assertiva 'condição' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta, pois a assertiva 'adição https://www.qconcursos.com/questoes-de-conc...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      }
+    ],
+    "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [A]** — *consequência*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [A] ('consequência') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [B]:** Incorreta, pois a assertiva 'finalidade' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'condição' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'adição https://www.qconcursos.com/questoes-de-conc...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"
+  },
+  {
+    "codigo_origem": "Q4220095",
+    "numero_original": 138,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Araçás - BA",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Araçás - BA - Bombeiro Civil",
+    "cargo": "Bombeiro Civil",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "assunto_detalhado": "Interpretação de Textos , Coesão e coerência , Noções Gerais de Compreensão e Interpretação de Texto",
+    "enunciado": "A coerência do texto decorre, principalmente, da:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "repetição lexical"
+      },
+      {
+        "id": "B",
+        "texto": "enumeração cronológica"
+      },
+      {
+        "id": "C",
+        "texto": "progressão lógica das explicações"
+      },
+      {
+        "id": "D",
+        "texto": "predominância de sequências narrativas 139 Ano: 2026"
+      }
+    ],
+    "resposta_correta": "C",
+    "id": "LP0138",
+    "numero_ordem": 138,
+    "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [C] ('progressão lógica das explicações') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta, pois a assertiva 'repetição lexical' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta, pois a assertiva 'enumeração cronológica' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta, pois a assertiva 'predominância de sequências narrativas 139 Ano: 20...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      }
+    ],
+    "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [C]** — *progressão lógica das explicações*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [C] ('progressão lógica das explicações') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'repetição lexical' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [B]:** Incorreta, pois a assertiva 'enumeração cronológica' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'predominância de sequências narrativas 139 Ano: 20...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"
+  },
+  {
+    "codigo_origem": "Q3828968",
+    "numero_original": 203,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Lucas do Rio Verde - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Lucas do Rio Verde -",
+    "cargo": "Geral",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "assunto_detalhado": "Interpretação de Textos",
+    "enunciado": "MT - Técnico Administrativo Educacional - Área Monitoria “O PL 3.444/2023 define como influenciador toda pessoa física ou jurídica que, de forma remunerada, utiliza sua reputação online para promover produtos, marcas ou causas em plataformas digitais. A medida busca coibir abusos e práticas enganosas [...]”. No texto, o termo em destaque retoma:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "a denúncia de Felca"
+      },
+      {
+        "id": "B",
+        "texto": "o próprio projeto de lei"
+      },
+      {
+        "id": "C",
+        "texto": "o papel do influenciador mirim"
+      },
+      {
+        "id": "D",
+        "texto": "a exigência de autorização judicial"
+      }
+    ],
+    "resposta_correta": "B",
+    "id": "LP0203",
+    "numero_ordem": 203,
+    "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('o próprio projeto de lei') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta, pois a assertiva 'a denúncia de Felca' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta, pois a assertiva 'o papel do influenciador mirim' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta, pois a assertiva 'a exigência de autorização judicial' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      }
+    ],
+    "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [B]** — *o próprio projeto de lei*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('o próprio projeto de lei') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'a denúncia de Felca' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'o papel do influenciador mirim' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'a exigência de autorização judicial' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"
+  },
+  {
+    "codigo_origem": "Q3807298",
+    "numero_original": 292,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Garças - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
+    "cargo": "Geral",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "assunto_detalhado": "Interpretação de Textos",
+    "enunciado": "Professor Lingua Portuguesa - 5º ano O desfecho do texto, retomando a gargalhada da filha, configura:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "uma reafirmação trágica da ruína civilizacional"
+      },
+      {
+        "id": "B",
+        "texto": "um retorno ao pessimismo inicial, sem possibilidade de superação"
+      },
+      {
+        "id": "C",
+        "texto": "um movimento circular argumentativo que anula a reflexão proposta"
+      },
+      {
+        "id": "D",
+        "texto": "uma reintrodução da esperança, a partir da esfera íntima e afetiva 293 Ano:"
+      }
+    ],
+    "resposta_correta": "D",
+    "id": "LP0292",
+    "numero_ordem": 292,
+    "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [D] ('uma reintrodução da esperança, a partir da esfera íntima e afetiva 293 Ano:') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta, pois a assertiva 'uma reafirmação trágica da ruína civilizacional' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta, pois a assertiva 'um retorno ao pessimismo inicial, sem possibilidad...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta, pois a assertiva 'um movimento circular argumentativo que anula a re...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      }
+    ],
+    "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [D]** — *uma reintrodução da esperança, a partir da esfera íntima e afetiva 293 Ano:*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [D] ('uma reintrodução da esperança, a partir da esfera íntima e afetiva 293 Ano:') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'uma reafirmação trágica da ruína civilizacional' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [B]:** Incorreta, pois a assertiva 'um retorno ao pessimismo inicial, sem possibilidad...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'um movimento circular argumentativo que anula a re...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"
+  },
+  {
+    "codigo_origem": "Q3285965",
+    "numero_original": 524,
+    "banca": "SELECON",
+    "orgao": "CEFET-RJ",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - CEFET-RJ - Cursos Integrados (Produção Cultural/Automação",
+    "cargo": "Cursos Integrados (Produção Cultural/Automação",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "assunto_detalhado": "Interpretação de Textos , Coesão e coerência",
+    "enunciado": "Industrial) TEXTO II porto alegre, 2016 quando você viu na tv aquelas pessoas em fila na chuva à noite numa estrada na fronteira de um país que não as deseja e quando você viu as bombas caírem sobre cidades distantes com aquelas casas e ruas tão sujas e tão diferentes e quando você viu a polícia na praça do país estrangeiro partir pra cima de manifestantes com bombas de gás lacrimogêneo não pensou duas vezes nem trocou o canal e foi pegar comida na geladeira não reparou o que vinha que era só uma questão de tempo não interpretou como sinal a notícia não precisou estocar mantimentos agora a colher cai da boca e o barulho de bomba é ali fora e a polícia pra cima dos teus afetos munida de espadas, sobre cavalos FREITAS, Angélica. In: 50 poemas de revolta. São Paulo: Companhia das Letras, 2017, p. 13-14. Em relação ao conjunto de estrofes anteriores, o verso \"agora a colher cai da boca\" (v. 21) marca uma quebra de expectativa e provoca o seguinte efeito de sentido:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "comparação entre a passividade do eu lírico e a aflição do interlocutor"
+      },
+      {
+        "id": "B",
+        "texto": "concordância entre as atitudes otimistas e os pensamentos negativos"
+      },
+      {
+        "id": "C",
+        "texto": "contraste entre a indiferença no passado e o espanto no presente"
+      },
+      {
+        "id": "D",
+        "texto": "contradição entre os desejos cultivados e a frustração enfrentada https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examinin… 4/11 21/11/2026, 11:16 525 Questões de Provas - Questões de Concursos - Página 27 | Qconcursos.com"
+      }
+    ],
+    "resposta_correta": "C",
+    "id": "LP0524",
+    "numero_ordem": 524,
+    "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [C] ('contraste entre a indiferença no passado e o espanto no presente') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta, pois a assertiva 'comparação entre a passividade do eu lírico e a af...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta, pois a assertiva 'concordância entre as atitudes otimistas e os pens...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta, pois a assertiva 'contradição entre os desejos cultivados e a frustr...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      }
+    ],
+    "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [C]** — *contraste entre a indiferença no passado e o espanto no presente*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [C] ('contraste entre a indiferença no passado e o espanto no presente') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'comparação entre a passividade do eu lírico e a af...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [B]:** Incorreta, pois a assertiva 'concordância entre as atitudes otimistas e os pens...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'contradição entre os desejos cultivados e a frustr...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"
+  },
+  {
+    "codigo_origem": "Q3199009",
+    "numero_original": 583,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sinop - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Nível Fundamental (201",
+    "cargo": "Nível Fundamental (201",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "assunto_detalhado": "Interpretação de Textos , Coesão e coerência",
+    "enunciado": "e 202) “Quando percebi que se tratava de um loteamento, e a mulher queria me vender uma “parcela”, me coloquei na defensiva; disse que no momento suspendi meus negócios imobiliários, e até estava pensando em vender meus imensos territórios no Brasil” (2º parágrafo). O verbo em destaque tem como referente:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "a mulher"
+      },
+      {
+        "id": "B",
+        "texto": "o homem"
+      },
+      {
+        "id": "C",
+        "texto": "o terreno no Chile"
+      },
+      {
+        "id": "D",
+        "texto": "a especulação imobiliária"
+      }
+    ],
+    "resposta_correta": "B",
+    "id": "LP0583",
+    "numero_ordem": 583,
+    "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('o homem') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta, pois a assertiva 'a mulher' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta, pois a assertiva 'o terreno no Chile' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta, pois a assertiva 'a especulação imobiliária' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      }
+    ],
+    "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [B]** — *o homem*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('o homem') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'a mulher' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'o terreno no Chile' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'a especulação imobiliária' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"
+  },
+  {
+    "codigo_origem": "Q3197343",
+    "numero_original": 595,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sinop - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Nível Fundamental",
+    "cargo": "Nível Fundamental",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "assunto_detalhado": "Interpretação de Textos , Coesão e coerência",
+    "enunciado": "Incompleto (101 a 106) “Esse cara trabalha com ela”. A palavra destacada, na tirinha, faz referência:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "à barata"
+      },
+      {
+        "id": "B",
+        "texto": "à professora Mel"
+      },
+      {
+        "id": "C",
+        "texto": "à flor que a barata segura"
+      },
+      {
+        "id": "D",
+        "texto": "à casa onde mora a professora Mel 596 Ano:"
+      }
+    ],
+    "resposta_correta": "B",
+    "id": "LP0595",
+    "numero_ordem": 595,
+    "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('à professora Mel') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta, pois a assertiva 'à barata' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta, pois a assertiva 'à flor que a barata segura' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta, pois a assertiva 'à casa onde mora a professora Mel 596 Ano:' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      }
+    ],
+    "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [B]** — *à professora Mel*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('à professora Mel') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'à barata' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'à flor que a barata segura' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'à casa onde mora a professora Mel 596 Ano:' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"
+  },
+  {
+    "codigo_origem": "Q3398150",
+    "numero_original": 700,
+    "banca": "SELECON",
+    "orgao": "CRC-SE",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - CRC-SE - Advogado ...",
+    "cargo": "Advogado",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "assunto_detalhado": "Interpretação de Textos , Coesão e coerência",
+    "enunciado": "Em “Era o que sentia a estudante de cinema Hadassa Maciel, 22, que decidiu eliminar quem não a influenciava de forma positiva por causa de sua ansiedade” (3ª parágrafo), o referente do pronome destacado é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Vanessa Gebrim"
+      },
+      {
+        "id": "B",
+        "texto": "Hadassa Maciel"
+      },
+      {
+        "id": "C",
+        "texto": "forma positiva"
+      },
+      {
+        "id": "D",
+        "texto": "ansiedade"
+      }
+    ],
+    "resposta_correta": "B",
+    "id": "LP0700",
+    "numero_ordem": 700,
+    "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('Hadassa Maciel') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta, pois a assertiva 'Vanessa Gebrim' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta, pois a assertiva 'forma positiva' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta, pois a assertiva 'ansiedade' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      }
+    ],
+    "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [B]** — *Hadassa Maciel*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('Hadassa Maciel') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'Vanessa Gebrim' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'forma positiva' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'ansiedade' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"
+  },
+  {
+    "codigo_origem": "Q3096883",
+    "numero_original": 826,
+    "banca": "SELECON",
+    "orgao": "Câmara de Itabi - SE",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Câmara de Itabi - SE - Serviços Gerais",
+    "cargo": "Serviços Gerais",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "assunto_detalhado": "Interpretação de Textos , Coesão e coerência",
+    "enunciado": "No texto, lê-se: “Esta carga excede as minhas forças, e o remédio é repartirmos o peso irmãmente, seis arrobas para cada um”. Em seguida, segundo o texto, o burro tropica e vai ao chão. Podemos dizer que entre o excesso de peso (indicado na fala do burro) e a queda do animal, há uma relação de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "fato e opinião"
+      },
+      {
+        "id": "B",
+        "texto": "causa e efeito"
+      },
+      {
+        "id": "C",
+        "texto": "fato e finalidade"
+      },
+      {
+        "id": "D",
+        "texto": "causa e conclusão"
+      }
+    ],
+    "resposta_correta": "B",
+    "id": "LP0826",
+    "numero_ordem": 826,
+    "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('causa e efeito') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta, pois a assertiva 'fato e opinião' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta, pois a assertiva 'fato e finalidade' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta, pois a assertiva 'causa e conclusão' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      }
+    ],
+    "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [B]** — *causa e efeito*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('causa e efeito') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'fato e opinião' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'fato e finalidade' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'causa e conclusão' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"
+  },
+  {
+    "codigo_origem": "Q2466647",
+    "numero_original": 1065,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Água Boa - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Água Boa - MT - Apoio",
+    "cargo": "Apoio",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "assunto_detalhado": "Interpretação de Textos , Coesão e coerência",
+    "enunciado": "Leia o texto a seguir: Mulheres pretas ou pardas gastam mais tempo em tarefas domésticas, participam menos do mercado de trabalho e são mais afetadas pela pobreza No Brasil, as mulheres pretas ou pardas são mais afetadas pelas desigualdades na educação, no mercado de trabalho, na renda e na representatividade política do que as brancas. Elas dedicam mais tempo aos afazeres domésticos e cuidados de pessoas, têm menor taxa de participação no mercado de trabalho e menor percentual entre as ocupantes de cargos políticos. Além disso, as pretas ou pardas representam a maior parte das vítimas de homicídios contra mulheres praticados fora do domicílio e têm maior percentual de pessoas em situação de pobreza. Os dados fazem parte do estudo Estatísticas do gênero, divulgado pelo IBGE hoje (8), no Dia Internacional da Mulher. A publicação traz informações que permitem uma análise interseccional das desigualdades relacionadas aos temas empoderamento econômico, educação, saúde e serviços relacionados, vida pública e tomada de decisão e direitos humanos das mulheres e das meninas. “Sempre que possível, além do sexo, trazemos desagregação por cor ou raça e unidades da federação, buscando destacar outras características que, combinadas, podem gerar condições de vida específicas para mulheres, gerando desigualdades escalonadas”, diz Barbara Cobo, coordenadora-geral do estudo. Em 2022, as mulheres dedicaram quase o dobro de tempo que os homens aos cuidados de pessoas e/ou afazeres domésticos. Essas tarefas consumiram 21,3 horas semanais delas contra 11,7 horas deles. O recorte por cor ou raça também possibilita verificar essa diferença entre mulheres. As mulheres pretas ou pardas gastavam 1,6 hora a mais por semana nessas tarefas do que as brancas. Já entre os homens não houve distinção significativa nesse recorte. Além disso, a diferença entre mulheres brancas e pretas ou pardas aumentou desde 2016, início da série histórica desse indicador. A distância é maior entre as mulheres quando se observam os dados por classe de rendimento. Eram 7,3 horas a mais de dedicação aos trabalhos domésticos entre as 20% com menores rendimentos do que as que estavam nos 20% com maiores rendimentos. Também nesse indicador não houve diferença significativa entre os homens. Esse dado é particularmente importante porque está relacionado à inserção das mulheres no mercado de trabalho. Ainda que sejam mais da metade das pessoas em idade de trabalhar, a taxa de participação delas na força de trabalho foi de 53,3%, enquanto a dos homens era de 73,2%, o que representa uma diferença de 19,9 pontos percentuais (p.p.). “Há uma relação dessa diferença com o fato de as mulheres se dedicarem mais às tarefas de cuidados e afazeres domésticos. Isso impede que elas participem mais do mercado de trabalho”, explica André Simões, analista do estudo. Fonte: https://www.jb.com.br/brasil/mulher/2024/03/1049042-mulheres-pretas-oupardas-gastam-mais-tempo-em-tarefasdomesticas-participam-menos-do-mercadode-trabalho-e-sao-mais-afetadas-pela-pobreza.html. Acesso em 09/03/2024. Excerto. “Há uma relação dessa diferença com o fato de as mulheres se dedicarem mais às tarefas de cuidados e afazeres domésticos” (5º parágrafo). Se o termo destacado fosse substituído por “relações”, uma possível reescrita desse período, à luz da norma-padrão, seria:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Hão relações dessa diferença com o fato de as mulheres se dedicarem mais às tarefas de cuidados e afazeres domésticos."
+      },
+      {
+        "id": "B",
+        "texto": "Têm relações dessa diferença com o fato de as mulheres se dedicarem mais às tarefas de cuidados e afazeres domésticos"
+      },
+      {
+        "id": "C",
+        "texto": "Tem relações dessa diferença com o fato de as mulheres se dedicarem mais às tarefas de cuidados e afazeres domésticos."
+      },
+      {
+        "id": "D",
+        "texto": "Existem relações dessa diferença com o fato de as mulheres se dedicarem mais às tarefas de cuidados e afazeres domésticos. https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 3/9 21/11/2026, 11:23 1066 Ano: 2024 Questões de Provas - Questões de Concursos - Página 54 | Qconcursos.com"
+      }
+    ],
+    "resposta_correta": "D",
+    "id": "LP1065",
+    "numero_ordem": 1065,
+    "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [D] ('Existem relações dessa diferença com o fato de as mulheres se dedicarem mais às tarefas de cuidados e afazeres domésticos. https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 3/9 21/11/2026, 11:23 1066 Ano: 2024 Questões de Provas - Questões de Concursos - Página 54 | Qconcursos.com') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta, pois a assertiva 'Hão relações dessa diferença com o fato de as mulh...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta, pois a assertiva 'Têm relações dessa diferença com o fato de as mulh...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta, pois a assertiva 'Tem relações dessa diferença com o fato de as mulh...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      }
+    ],
+    "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [D]** — *Existem relações dessa diferença com o fato de as mulheres se dedicarem mais às tarefas de cuidados e afazeres domésticos. https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 3/9 21/11/2026, 11:23 1066 Ano: 2024 Questões de Provas - Questões de Concursos - Página 54 | Qconcursos.com*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [D] ('Existem relações dessa diferença com o fato de as mulheres se dedicarem mais às tarefas de cuidados e afazeres domésticos. https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 3/9 21/11/2026, 11:23 1066 Ano: 2024 Questões de Provas - Questões de Concursos - Página 54 | Qconcursos.com') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'Hão relações dessa diferença com o fato de as mulh...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [B]:** Incorreta, pois a assertiva 'Têm relações dessa diferença com o fato de as mulh...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'Tem relações dessa diferença com o fato de as mulh...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"
+  },
+  {
+    "codigo_origem": "Q2451009",
+    "numero_original": 1099,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sapezal - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Procurador",
+    "cargo": "Procurador",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "assunto_detalhado": "Interpretação de Textos , Coesão e coerência",
+    "enunciado": "... Em “A empresa disse ainda que a concessionária não usou o equipamento e solicitou outro tipo, ‘que está em mobilização com previsão de chegada para a próxima semana’” (3º parágrafo), a expressão destacada faz referência ao termo:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Aeroporto Internacional Tom Jobim"
+      },
+      {
+        "id": "B",
+        "texto": "RIOGaleão"
+      },
+      {
+        "id": "C",
+        "texto": "Pier Sul"
+      },
+      {
+        "id": "D",
+        "texto": "Light https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 7/8 21/11/2026, 11:23 1100 Ano: 2024 Questões de Provas - Questões de Concursos - Página 55 | Qconcursos.com"
+      }
+    ],
+    "resposta_correta": "D",
+    "id": "LP1099",
+    "numero_ordem": 1099,
+    "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [D] ('Light https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 7/8 21/11/2026, 11:23 1100 Ano: 2024 Questões de Provas - Questões de Concursos - Página 55 | Qconcursos.com') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta, pois a assertiva 'Aeroporto Internacional Tom Jobim' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta, pois a assertiva 'RIOGaleão' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta, pois a assertiva 'Pier Sul' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."
+      }
+    ],
+    "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [D]** — *Light https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 7/8 21/11/2026, 11:23 1100 Ano: 2024 Questões de Provas - Questões de Concursos - Página 55 | Qconcursos.com*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [D] ('Light https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 7/8 21/11/2026, 11:23 1100 Ano: 2024 Questões de Provas - Questões de Concursos - Página 55 | Qconcursos.com') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'Aeroporto Internacional Tom Jobim' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [B]:** Incorreta, pois a assertiva 'RIOGaleão' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'Pier Sul' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"
+  }
+]
