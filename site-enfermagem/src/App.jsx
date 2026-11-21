@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
 import questoesData from './data/questoes.json';
+import { BANCAS_PRECONFIGURADAS, INSIGHTS_POR_BANCA } from './data/bancasInfo';
 import {
   Stethoscope,
   BookOpen,
@@ -58,136 +59,8 @@ export default function App() {
 
   // Bancas presentes no acervo de questões + bancas de referência preparadas para expansão
   const bancasNoAcervo = [...new Set(questoes.map(q => q.banca).filter(Boolean))];
-  const bancasPreConfiguradas = [
-    'SELECON',
-    'VUNESP',
-    'IBAM',
-    'Instituto AOCP',
-    'FGV',
-    'Consulpam',
-    'Legalle Concursos',
-    'Avança SP'
-  ];
-  const todasBancasOpcoes = Array.from(new Set([...bancasNoAcervo, ...bancasPreConfiguradas]));
-
-  // Base de Conhecimento Estratégica por Banca
-  const insightsPorBanca = {
-    SELECON: {
-      nome: 'SELECON',
-      foco1: {
-        tag: 'Foco nº 1 da Banca',
-        title: 'Fundamentos e Prática Diária',
-        text: 'A SELECON adora cobrar procedimentos de enfermagem fundamentais: parâmetros de sinais vitais (pressão, temperatura, FC), técnicas de sondagem vesical e nasogástrica, cuidados com curativos e tipos de exsudato.'
-      },
-      ponto: {
-        tag: 'Ponto Garantido',
-        title: 'Legislação e Código de Ética',
-        text: 'Questões recorrentes sobre as competências privativas do Enfermeiro vs atribuições do Técnico (Lei 7.498/86) e penalidades do novo Código de Ética (Resolução COFEN 564/2017): direitos, deveres e proibições.'
-      },
-      perfil: {
-        tag: 'Técnico vs Enfermeiro',
-        title: 'Diferença de Perfil nos Cargos',
-        text: 'Para Técnico, há forte cobrança em Cálculo de Medicamentos (gotejamento/diluição) e Biossegurança (NR-32/EPI). Já para Enfermeiro, predominam Vigilância Epidemiológica, Gestão em Saúde e SAE/NANDA.'
-      },
-      sus: {
-        tag: 'Prefeituras & SUS',
-        title: 'Saúde Pública e Imunização',
-        text: 'Cobrança maciça de Rede de Frio e Calendário Nacional de Vacinação (PNI), além dos princípios doutrinários e organizativos da Lei Orgânica da Saúde (Lei 8.080/90).'
-      }
-    },
-    VUNESP: {
-      nome: 'VUNESP',
-      foco1: {
-        tag: 'Foco nº 1 da Banca',
-        title: 'Casos Clínicos & Interpretação Prática',
-        text: 'A VUNESP prioriza situações clínicas reais de pronto atendimento e enfermarias, exigindo raciocínio sobre a conduta imediata da equipe de enfermagem.'
-      },
-      ponto: {
-        tag: 'Ponto Garantido',
-        title: 'Farmacologia & Cálculos de Medicamentos',
-        text: 'Questões rigorosas com diluição de antibióticos, cálculo de microgotas/minuto e cuidados na administração de heparina e eletrólitos concentrados.'
-      },
-      perfil: {
-        tag: 'Técnico vs Enfermeiro',
-        title: 'Divisão de Atribuições nos Plantões',
-        text: 'Para Técnicos: preparo de leito, passagem de plantão, punção venosa periférica. Para Enfermeiros: dimensionamento de pessoal, auditoria e consulta de enfermagem.'
-      },
-      sus: {
-        tag: 'Prefeituras & SUS',
-        title: 'Programas de Saúde da Mulher e da Criança',
-        text: 'Cobrança intensa das rotinas do Ministério da Saúde para o pré-natal de baixo risco, teste do pezinho e triagens neonatais.'
-      }
-    },
-    IBAM: {
-      nome: 'IBAM',
-      foco1: {
-        tag: 'Foco nº 1 da Banca',
-        title: 'Atenção Primária & Saúde Coletiva',
-        text: 'Banca tradicional de prefeituras que privilegia o trabalho da ESF, visitas domiciliares, acolhimento com classificação de risco e vacinação básica.'
-      },
-      ponto: {
-        tag: 'Ponto Garantido',
-        title: 'Legislação do SUS (8.080 e 8.142)',
-        text: 'Questões conceituais sobre descentralização, universalidade, participação da comunidade e transferências de recursos fundo a fundo.'
-      },
-      perfil: {
-        tag: 'Técnico vs Enfermeiro',
-        title: 'Atuação na Unidade Básica de Saúde',
-        text: 'Foco do Técnico na sala de curativos, sala de vacina e esterilização; foco do Enfermeiro no planejamento local e imunização de grupos prioritários.'
-      },
-      sus: {
-        tag: 'Prefeituras & SUS',
-        title: 'Vigilância Sanitária e Epidemiológica',
-        text: 'Ações de controle de vetores (dengue/zika), notificação de agravos e busca ativa de sintomáticos respiratórios para tuberculose.'
-      }
-    },
-    'Instituto AOCP': {
-      nome: 'Instituto AOCP',
-      foco1: {
-        tag: 'Foco nº 1 da Banca',
-        title: 'Urgência, Emergência e Suporte de Vida',
-        text: 'Diretrizes atualizadas da AHA para PCR em adultos e pediatria, uso do DEA e abordagem sistematizada no trauma pré-hospitalar.'
-      },
-      ponto: {
-        tag: 'Ponto Garantido',
-        title: 'Biossegurança & NR-32',
-        text: 'Regras de segregação de resíduos de saúde (RDC 222), precauções padrão e específicas (contato, gotículas, aerossóis) e acidentes com perfurocortantes.'
-      },
-      perfil: {
-        tag: 'Técnico vs Enfermeiro',
-        title: 'Ambiente Hospitalar & Centro Cirúrgico',
-        text: 'Técnico: instrumentação cirúrgica básica, CME e monitorização. Enfermeiro: SAE perioperatória, visita pré-operatória e gestão de riscos.'
-      },
-      sus: {
-        tag: 'Prefeituras & SUS',
-        title: 'Redes de Atenção à Saúde (RAS)',
-        text: 'Integração entre UBS, SAMU 192, UPAs 24h e hospitais de retaguarda, conforme decretos e portarias de consolidação do SUS.'
-      }
-    },
-    FGV: {
-      nome: 'FGV',
-      foco1: {
-        tag: 'Foco nº 1 da Banca',
-        title: 'Raciocínio Clínico Aprofundado',
-        text: 'Questões longas que exigem priorização de intervenções diante de pacientes com múltiplas comorbidades e choque de informações no enunciado.'
-      },
-      ponto: {
-        tag: 'Ponto Garantido',
-        title: 'Resoluções Normativas do COFEN',
-        text: 'Pareceres técnicos sobre procedimentos complexos: punção de acesso venoso profundo por enfermeiro, passagem de PICC e classificação de risco Manchester.'
-      },
-      perfil: {
-        tag: 'Técnico vs Enfermeiro',
-        title: 'Tomada de Decisão & Liderança',
-        text: 'Técnico: cumprimento rigoroso de prescrições e checagem dupla. Enfermeiro: diagnósticos da NANDA-I e indicadores de qualidade assistencial.'
-      },
-      sus: {
-        tag: 'Prefeituras & SUS',
-        title: 'Políticas Públicas & Epidemiologia Crítica',
-        text: 'Análise de coeficientes de mortalidade materna/infantil, transição demográfica e determinantes sociais da saúde.'
-      }
-    }
-  };
+  const todasBancasOpcoes = Array.from(new Set([...bancasNoAcervo, ...BANCAS_PRECONFIGURADAS]));
+  const insightsPorBanca = INSIGHTS_POR_BANCA;
 
   // Filtragem estrita da aba Padrão da Banca por Banca + Cargo
   const questoesPadrao = questoes.filter(q => {
@@ -877,21 +750,21 @@ export default function App() {
 
               <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '1rem', margin: '1.5rem 0' }}>
                 <div style={{ border: '1px solid #e2e8f0', borderRadius: '10px', padding: '1.25rem', background: '#f8fafc' }}>
-                  <h4 style={{ color: '#0f172a', marginBottom: '0.5rem' }}>📁 /materiais_pdf/prefeituras/</h4>
+                  <h4 style={{ color: '#0f172a', marginBottom: '0.5rem' }}>📁 /01_PDFS_DE_REFERENCIA/prefeituras/</h4>
                   <p style={{ fontSize: '0.85rem', color: '#64748b' }}>
-                    Destinado a cadernos de provas de municípios (IBAM, VUNESP, Consulpam, Legalle, Avança SP).
+                    Destinado a cadernos de provas de municípios (SELECON, IBAM, VUNESP, Consulpam, Legalle, Avança SP).
                   </p>
                 </div>
 
                 <div style={{ border: '1px solid #e2e8f0', borderRadius: '10px', padding: '1.25rem', background: '#f8fafc' }}>
-                  <h4 style={{ color: '#0f172a', marginBottom: '0.5rem' }}>📁 /materiais_pdf/concursos_federais_estaduais/</h4>
+                  <h4 style={{ color: '#0f172a', marginBottom: '0.5rem' }}>📁 /01_PDFS_DE_REFERENCIA/concursos_maiores/</h4>
                   <p style={{ fontSize: '0.85rem', color: '#64748b' }}>
                     Destinado a provas da EBSERH, Ministério da Saúde, Fiocruz, Secretarias de Estado de Saúde.
                   </p>
                 </div>
 
                 <div style={{ border: '1px solid #e2e8f0', borderRadius: '10px', padding: '1.25rem', background: '#f8fafc' }}>
-                  <h4 style={{ color: '#0f172a', marginBottom: '0.5rem' }}>📁 /materiais_pdf/simulados_prontos/</h4>
+                  <h4 style={{ color: '#0f172a', marginBottom: '0.5rem' }}>📁 /01_PDFS_DE_REFERENCIA/cadernos_simulados/</h4>
                   <p style={{ fontSize: '0.85rem', color: '#64748b' }}>
                     Listas temáticas (ex: 100 Questões de SUS, 50 Cálculos de Medicamentos para Concurso).
                   </p>

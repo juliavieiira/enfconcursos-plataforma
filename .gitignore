@@ -1,6 +1,30 @@
+# Node & Web Build
 node_modules/
-site-enfermagem/node_modules/
-site-enfermagem/dist/
-.gemini/
+*/node_modules/
+dist/
+*/dist/
+.vite/
+
+# Python
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+
+# Logs & OS
 *.log
 .DS_Store
+Thumbs.db
+
+# Cloud & Cache
+.gemini/
+.cache/
+.npm/
+upload/
+
+# Nested clones/submodules
+juliavieiira/
