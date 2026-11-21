@@ -582,34 +582,111 @@
   margin: 0 auto 2.25rem;
 }
 
-.padrao-cargo-nav {
-  display: flex;
-  justify-content: center;
-  gap: 0.5rem;
-  margin-top: 1.5rem;
-  flex-wrap: wrap;
-}
-
-.btn-cargo-tab {
-  padding: 0.6rem 1.25rem;
-  border-radius: var(--radius-full);
-  font-size: 0.88rem;
-  font-weight: 700;
+.padrao-filters-card {
   background: #ffffff;
   border: 1px solid var(--border);
-  color: var(--text-muted);
+  border-radius: var(--radius-lg);
+  padding: 1.5rem;
+  margin: 1.75rem auto 0;
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  text-align: left;
 }
 
-.btn-cargo-tab:hover {
+.padrao-filter-row {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.padrao-filter-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #475569;
+}
+
+.padrao-filter-title {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+}
+
+.padrao-pills-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.btn-padrao-pill {
+  padding: 0.5rem 0.95rem;
+  border-radius: var(--radius-full);
+  font-size: 0.85rem;
+  font-weight: 600;
+  background: #f8fafc;
+  border: 1px solid var(--border);
+  color: #334155;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  transition: all 0.2s ease;
+}
+
+.btn-padrao-pill:hover {
   border-color: var(--primary);
   color: var(--primary);
+  background: #f0fdfa;
 }
 
-.btn-cargo-tab.active {
+.btn-padrao-pill.active {
   background: var(--primary);
   border-color: var(--primary);
   color: #ffffff;
+  font-weight: 700;
   box-shadow: 0 4px 6px -1px rgba(13, 148, 136, 0.25);
+}
+
+.btn-padrao-pill .pill-badge {
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 0.15rem 0.45rem;
+  border-radius: 10px;
+  background: #e2e8f0;
+  color: #475569;
+}
+
+.btn-padrao-pill.active .pill-badge {
+  background: rgba(255, 255, 255, 0.25);
+  color: #ffffff;
+}
+
+.padrao-empty-state {
+  background: #f8fafc;
+  border: 1px dashed #cbd5e1;
+  border-radius: var(--radius-lg);
+  padding: 3rem 2rem;
+  text-align: center;
+  margin-bottom: 2.5rem;
+}
+
+.padrao-empty-icon {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: #e0f2fe;
+  color: #0284c7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 1rem;
 }
 
 .padrao-grid {

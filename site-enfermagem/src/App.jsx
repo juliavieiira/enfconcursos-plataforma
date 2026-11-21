@@ -22,7 +22,9 @@ import {
   PieChart,
   BarChart3,
   Lightbulb,
-  Target
+  Target,
+  Building2,
+  Layers
 } from 'lucide-react';
 
 export default function App() {
@@ -52,23 +54,147 @@ export default function App() {
 
   // Aba Padrão da Banca / Raio-X
   const [padraoCargo, setPadraoCargo] = useState('Todos'); // 'Todos', 'Técnico de Enfermagem', 'Enfermeiro'
+  const [padraoBanca, setPadraoBanca] = useState('SELECON'); // 'Todas', 'SELECON', etc.
 
-  // Estatísticas gerais
-  const totalRespondidas = Object.keys(respostas).length;
-  const totalAcertos = Object.entries(respostas).filter(([id, r]) => {
-    const q = questoes.find(item => item.id === id);
-    return q && r.selecionada === q.resposta_correta;
-  }).length;
-  const taxaAcerto = totalRespondidas > 0 ? Math.round((totalAcertos / totalRespondidas) * 100) : 0;
+  // Bancas presentes no acervo de questões + bancas de referência preparadas para expansão
+  const bancasNoAcervo = [...new Set(questoes.map(q => q.banca).filter(Boolean))];
+  const bancasPreConfiguradas = [
+    'SELECON',
+    'VUNESP',
+    'IBAM',
+    'Instituto AOCP',
+    'FGV',
+    'Consulpam',
+    'Legalle Concursos',
+    'Avança SP'
+  ];
+  const todasBancasOpcoes = Array.from(new Set([...bancasNoAcervo, ...bancasPreConfiguradas]));
 
-  // Bancas e matérias únicas para os selects
-  const bancasDisponiveis = ['Todas', ...new Set(questoes.map(q => q.banca))];
-  const materiasDisponiveis = ['Todas', ...new Set(questoes.map(q => q.materia))];
+  // Base de Conhecimento Estratégica por Banca
+  const insightsPorBanca = {
+    SELECON: {
+      nome: 'SELECON',
+      foco1: {
+        tag: 'Foco nº 1 da Banca',
+        title: 'Fundamentos e Prática Diária',
+        text: 'A SELECON adora cobrar procedimentos de enfermagem fundamentais: parâmetros de sinais vitais (pressão, temperatura, FC), técnicas de sondagem vesical e nasogástrica, cuidados com curativos e tipos de exsudato.'
+      },
+      ponto: {
+        tag: 'Ponto Garantido',
+        title: 'Legislação e Código de Ética',
+        text: 'Questões recorrentes sobre as competências privativas do Enfermeiro vs atribuições do Técnico (Lei 7.498/86) e penalidades do novo Código de Ética (Resolução COFEN 564/2017): direitos, deveres e proibições.'
+      },
+      perfil: {
+        tag: 'Técnico vs Enfermeiro',
+        title: 'Diferença de Perfil nos Cargos',
+        text: 'Para Técnico, há forte cobrança em Cálculo de Medicamentos (gotejamento/diluição) e Biossegurança (NR-32/EPI). Já para Enfermeiro, predominam Vigilância Epidemiológica, Gestão em Saúde e SAE/NANDA.'
+      },
+      sus: {
+        tag: 'Prefeituras & SUS',
+        title: 'Saúde Pública e Imunização',
+        text: 'Cobrança maciça de Rede de Frio e Calendário Nacional de Vacinação (PNI), além dos princípios doutrinários e organizativos da Lei Orgânica da Saúde (Lei 8.080/90).'
+      }
+    },
+    VUNESP: {
+      nome: 'VUNESP',
+      foco1: {
+        tag: 'Foco nº 1 da Banca',
+        title: 'Casos Clínicos & Interpretação Prática',
+        text: 'A VUNESP prioriza situações clínicas reais de pronto atendimento e enfermarias, exigindo raciocínio sobre a conduta imediata da equipe de enfermagem.'
+      },
+      ponto: {
+        tag: 'Ponto Garantido',
+        title: 'Farmacologia & Cálculos de Medicamentos',
+        text: 'Questões rigorosas com diluição de antibióticos, cálculo de microgotas/minuto e cuidados na administração de heparina e eletrólitos concentrados.'
+      },
+      perfil: {
+        tag: 'Técnico vs Enfermeiro',
+        title: 'Divisão de Atribuições nos Plantões',
+        text: 'Para Técnicos: preparo de leito, passagem de plantão, punção venosa periférica. Para Enfermeiros: dimensionamento de pessoal, auditoria e consulta de enfermagem.'
+      },
+      sus: {
+        tag: 'Prefeituras & SUS',
+        title: 'Programas de Saúde da Mulher e da Criança',
+        text: 'Cobrança intensa das rotinas do Ministério da Saúde para o pré-natal de baixo risco, teste do pezinho e triagens neonatais.'
+      }
+    },
+    IBAM: {
+      nome: 'IBAM',
+      foco1: {
+        tag: 'Foco nº 1 da Banca',
+        title: 'Atenção Primária & Saúde Coletiva',
+        text: 'Banca tradicional de prefeituras que privilegia o trabalho da ESF, visitas domiciliares, acolhimento com classificação de risco e vacinação básica.'
+      },
+      ponto: {
+        tag: 'Ponto Garantido',
+        title: 'Legislação do SUS (8.080 e 8.142)',
+        text: 'Questões conceituais sobre descentralização, universalidade, participação da comunidade e transferências de recursos fundo a fundo.'
+      },
+      perfil: {
+        tag: 'Técnico vs Enfermeiro',
+        title: 'Atuação na Unidade Básica de Saúde',
+        text: 'Foco do Técnico na sala de curativos, sala de vacina e esterilização; foco do Enfermeiro no planejamento local e imunização de grupos prioritários.'
+      },
+      sus: {
+        tag: 'Prefeituras & SUS',
+        title: 'Vigilância Sanitária e Epidemiológica',
+        text: 'Ações de controle de vetores (dengue/zika), notificação de agravos e busca ativa de sintomáticos respiratórios para tuberculose.'
+      }
+    },
+    'Instituto AOCP': {
+      nome: 'Instituto AOCP',
+      foco1: {
+        tag: 'Foco nº 1 da Banca',
+        title: 'Urgência, Emergência e Suporte de Vida',
+        text: 'Diretrizes atualizadas da AHA para PCR em adultos e pediatria, uso do DEA e abordagem sistematizada no trauma pré-hospitalar.'
+      },
+      ponto: {
+        tag: 'Ponto Garantido',
+        title: 'Biossegurança & NR-32',
+        text: 'Regras de segregação de resíduos de saúde (RDC 222), precauções padrão e específicas (contato, gotículas, aerossóis) e acidentes com perfurocortantes.'
+      },
+      perfil: {
+        tag: 'Técnico vs Enfermeiro',
+        title: 'Ambiente Hospitalar & Centro Cirúrgico',
+        text: 'Técnico: instrumentação cirúrgica básica, CME e monitorização. Enfermeiro: SAE perioperatória, visita pré-operatória e gestão de riscos.'
+      },
+      sus: {
+        tag: 'Prefeituras & SUS',
+        title: 'Redes de Atenção à Saúde (RAS)',
+        text: 'Integração entre UBS, SAMU 192, UPAs 24h e hospitais de retaguarda, conforme decretos e portarias de consolidação do SUS.'
+      }
+    },
+    FGV: {
+      nome: 'FGV',
+      foco1: {
+        tag: 'Foco nº 1 da Banca',
+        title: 'Raciocínio Clínico Aprofundado',
+        text: 'Questões longas que exigem priorização de intervenções diante de pacientes com múltiplas comorbidades e choque de informações no enunciado.'
+      },
+      ponto: {
+        tag: 'Ponto Garantido',
+        title: 'Resoluções Normativas do COFEN',
+        text: 'Pareceres técnicos sobre procedimentos complexos: punção de acesso venoso profundo por enfermeiro, passagem de PICC e classificação de risco Manchester.'
+      },
+      perfil: {
+        tag: 'Técnico vs Enfermeiro',
+        title: 'Tomada de Decisão & Liderança',
+        text: 'Técnico: cumprimento rigoroso de prescrições e checagem dupla. Enfermeiro: diagnósticos da NANDA-I e indicadores de qualidade assistencial.'
+      },
+      sus: {
+        tag: 'Prefeituras & SUS',
+        title: 'Políticas Públicas & Epidemiologia Crítica',
+        text: 'Análise de coeficientes de mortalidade materna/infantil, transição demográfica e determinantes sociais da saúde.'
+      }
+    }
+  };
 
-  // Processamento estatístico para a aba "Padrão da Banca"
-  const questoesPadrao = padraoCargo === 'Todos'
-    ? questoes
-    : questoes.filter(q => q.cargo === padraoCargo);
+  // Filtragem estrita da aba Padrão da Banca por Banca + Cargo
+  const questoesPadrao = questoes.filter(q => {
+    const matchBanca = padraoBanca === 'Todas' || q.banca === padraoBanca;
+    const matchCargo = padraoCargo === 'Todos' || q.cargo === padraoCargo;
+    return matchBanca && matchCargo;
+  });
 
   const contagemTemas = {};
   questoesPadrao.forEach(q => {
@@ -100,25 +226,25 @@ export default function App() {
     ...top10.map(([nome, count], idx) => ({
       nome,
       count,
-      percent: ((count / questoesPadrao.length) * 100).toFixed(1),
+      percent: questoesPadrao.length > 0 ? ((count / questoesPadrao.length) * 100).toFixed(1) : '0.0',
       cor: palette[idx % palette.length]
     })),
     ...(outrosTotal > 0 ? [{
       nome: 'Demais Conteúdos',
       count: outrosTotal,
-      percent: ((outrosTotal / questoesPadrao.length) * 100).toFixed(1),
+      percent: questoesPadrao.length > 0 ? ((outrosTotal / questoesPadrao.length) * 100).toFixed(1) : '0.0',
       cor: palette[10]
     }] : [])
   ];
 
   let acumulador = 0;
-  const gradientStops = itensGrafico.map((item, index) => {
+  const gradientStops = itensGrafico.length > 0 ? itensGrafico.map((item, index) => {
     const inicio = acumulador;
-    const itemPct = (item.count / questoesPadrao.length) * 100;
+    const itemPct = questoesPadrao.length > 0 ? (item.count / questoesPadrao.length) * 100 : 0;
     acumulador += itemPct;
     const fim = index === itensGrafico.length - 1 ? 100 : acumulador;
     return `${item.cor} ${inicio.toFixed(2)}% ${fim.toFixed(2)}%`;
-  }).join(', ');
+  }).join(', ') : '#0d9488 0% 100%';
 
   const donutStyle = {
     background: `conic-gradient(${gradientStops})`
@@ -129,8 +255,36 @@ export default function App() {
     if (padraoCargo !== 'Todos') {
       setFiltroCargo(padraoCargo);
     }
+    if (padraoBanca !== 'Todas') {
+      setFiltroBanca(padraoBanca);
+    }
     setActiveTab('questoes');
     window.scrollTo({ top: 350, behavior: 'smooth' });
+  };
+
+  // Insight ativo para a banca selecionada
+  const currentInsight = insightsPorBanca[padraoBanca] || {
+    nome: padraoBanca === 'Todas' ? 'Concursos de Prefeituras & SUS' : padraoBanca,
+    foco1: {
+      tag: 'Conteúdo Mais Cobrado',
+      title: top10[0] ? top10[0][0] : 'Fundamentos e Prática Diária',
+      text: `O tema com maior incidência nesta seleção é "${top10[0] ? top10[0][0] : 'Fundamentos'}", correspondendo a ${top10[0] && questoesPadrao.length > 0 ? ((top10[0][1] / questoesPadrao.length) * 100).toFixed(1) : 0}% das questões analisadas.`
+    },
+    ponto: {
+      tag: 'Ponto Garantido',
+      title: 'Legislação e Ética Profissional',
+      text: 'Questões sobre a Lei do Exercício Profissional (Lei 7.498/86) e o Código de Ética (Resolução COFEN 564/2017) são cobradas em praticamente 100% das provas de enfermagem.'
+    },
+    perfil: {
+      tag: 'Estratégia de Prova',
+      title: 'Foco Orientado por Cargo',
+      text: 'Candidatos a Técnico devem gabaritar Administração de Medicamentos e Biossegurança. Já candidatos a Enfermeiro precisam dominar Epidemiologia, Vigilância e SAE.'
+    },
+    sus: {
+      tag: 'Saúde Pública',
+      title: 'Legislação do SUS & PNI',
+      text: 'A Lei Orgânica da Saúde (8.080/90) e o Calendário Nacional de Imunização do Ministério da Saúde são os pilares essenciais para concursos municipais.'
+    }
   };
 
   // Filtragem
@@ -757,7 +911,7 @@ export default function App() {
           </section>
         )}
 
-        {/* ABA: PADRÃO DA BANCA (RAIO-X SELECON) */}
+        {/* ABA: PADRÃO DA BANCA (RAIO-X MULTI-BANCAS) */}
         {activeTab === 'padrao' && (
           <section className="animate-fade-in">
             <div className="padrao-hero">
@@ -766,184 +920,269 @@ export default function App() {
                 <span>Inteligência Estatística de Concursos</span>
               </div>
               <h2 style={{ fontSize: '2rem', fontWeight: 800, color: '#0f172a', marginBottom: '0.75rem' }}>
-                Qual o Padrão da <span style={{ color: '#0d9488' }}>Banca SELECON</span>?
+                Qual o Padrão da Banca <span style={{ color: '#0d9488' }}>{padraoBanca === 'Todas' ? 'em Concursos de Enfermagem' : padraoBanca}</span>?
               </h2>
               <p style={{ color: '#64748b', fontSize: '1rem', lineHeight: '1.6' }}>
-                Auditoria estatística realizada diretamente nas <strong>{questoes.length} questões reais</strong> dos cadernos oficiais da banca. Descubra os temas com maior probabilidade de cair na sua prova ordenados do maior para o menor.
+                Auditoria estatística em tempo real baseada em <strong>{questoesPadrao.length} questões auditadas</strong>. Selecione a banca examinadora e o cargo desejado para descobrir a probabilidade de cada tema cair na sua prova, ordenados do 1º ao último colocado.
               </p>
 
-              {/* Seletor de Cargo */}
-              <div className="padrao-cargo-nav">
-                <button
-                  className={`btn-cargo-tab ${padraoCargo === 'Todos' ? 'active' : ''}`}
-                  onClick={() => setPadraoCargo('Todos')}
-                >
-                  Todos os Concursos ({questoes.length})
-                </button>
-                <button
-                  className={`btn-cargo-tab ${padraoCargo === 'Técnico de Enfermagem' ? 'active' : ''}`}
-                  onClick={() => setPadraoCargo('Técnico de Enfermagem')}
-                >
-                  Técnico de Enfermagem (343)
-                </button>
-                <button
-                  className={`btn-cargo-tab ${padraoCargo === 'Enfermeiro' ? 'active' : ''}`}
-                  onClick={() => setPadraoCargo('Enfermeiro')}
-                >
-                  Enfermeiro Superior (529)
-                </button>
+              {/* Card de Filtros: Banca Examinadora + Cargo */}
+              <div className="padrao-filters-card">
+                {/* Linha 1: Seleção de Bancas */}
+                <div className="padrao-filter-row">
+                  <div className="padrao-filter-header">
+                    <span className="padrao-filter-title">
+                      <Building2 size={16} color="#0d9488" />
+                      1. Escolha a Banca Examinadora para Analisar:
+                    </span>
+                    <span style={{ fontSize: '0.78rem', color: '#64748b', textTransform: 'none', fontWeight: 500 }}>
+                      {todasBancasOpcoes.length} bancas integradas ao sistema
+                    </span>
+                  </div>
+
+                  <div className="padrao-pills-row">
+                    <button
+                      className={`btn-padrao-pill ${padraoBanca === 'Todas' ? 'active' : ''}`}
+                      onClick={() => setPadraoBanca('Todas')}
+                    >
+                      Todas as Bancas
+                      <span className="pill-badge">{questoes.length} q.</span>
+                    </button>
+
+                    {todasBancasOpcoes.map(banca => {
+                      const countBanca = questoes.filter(q => q.banca === banca).length;
+                      return (
+                        <button
+                          key={banca}
+                          className={`btn-padrao-pill ${padraoBanca === banca ? 'active' : ''}`}
+                          onClick={() => setPadraoBanca(banca)}
+                        >
+                          {banca}
+                          <span className="pill-badge">
+                            {countBanca > 0 ? `${countBanca} q.` : 'Em Breve'}
+                          </span>
+                        </button>
+                      );
+                    })}
+                  </div>
+                </div>
+
+                {/* Linha 2: Seleção de Cargo / Nível */}
+                <div className="padrao-filter-row">
+                  <div className="padrao-filter-header">
+                    <span className="padrao-filter-title">
+                      <Layers size={16} color="#0d9488" />
+                      2. Nível de Escolaridade / Cargo:
+                    </span>
+                  </div>
+
+                  <div className="padrao-pills-row">
+                    <button
+                      className={`btn-padrao-pill ${padraoCargo === 'Todos' ? 'active' : ''}`}
+                      onClick={() => setPadraoCargo('Todos')}
+                    >
+                      Todos os Cargos ({questoes.filter(q => padraoBanca === 'Todas' || q.banca === padraoBanca).length})
+                    </button>
+                    <button
+                      className={`btn-padrao-pill ${padraoCargo === 'Técnico de Enfermagem' ? 'active' : ''}`}
+                      onClick={() => setPadraoCargo('Técnico de Enfermagem')}
+                    >
+                      Técnico de Enfermagem ({questoes.filter(q => (padraoBanca === 'Todas' || q.banca === padraoBanca) && q.cargo === 'Técnico de Enfermagem').length})
+                    </button>
+                    <button
+                      className={`btn-padrao-pill ${padraoCargo === 'Enfermeiro' ? 'active' : ''}`}
+                      onClick={() => setPadraoCargo('Enfermeiro')}
+                    >
+                      Enfermeiro Superior ({questoes.filter(q => (padraoBanca === 'Todas' || q.banca === padraoBanca) && q.cargo === 'Enfermeiro').length})
+                    </button>
+                  </div>
+                </div>
               </div>
             </div>
 
-            {/* Grid Principal: Gráfico Donut/Pizza + Ranking Horizontal */}
-            <div className="padrao-grid">
-              {/* Card 1: Gráfico de Pizza / Donut */}
-              <div className="padrao-card">
-                <h3 className="padrao-card-title">
-                  <PieChart size={20} color="#0d9488" />
-                  Distribuição Percentual dos Temas
+            {/* Caso a banca selecionada ainda não tenha questões importadas */}
+            {questoesPadrao.length === 0 ? (
+              <div className="padrao-empty-state animate-fade-in">
+                <div className="padrao-empty-icon">
+                  <Building2 size={28} />
+                </div>
+                <h3 style={{ fontSize: '1.25rem', color: '#0f172a', marginBottom: '0.5rem' }}>
+                  A banca <strong>{padraoBanca}</strong> está pré-configurada e pronta para receber questões!
                 </h3>
-                <p className="padrao-card-desc">
-                  Proporção de cada assunto no universo de {questoesPadrao.length} questões analisadas ({padraoCargo === 'Todos' ? 'Geral' : padraoCargo}).
+                <p style={{ color: '#64748b', maxWidth: '580px', margin: '0 auto 1.5rem', fontSize: '0.92rem', lineHeight: '1.6' }}>
+                  Atualmente o acervo conta com <strong>{questoes.length} questões auditadas da banca SELECON</strong>. Assim que você fizer upload dos cadernos de provas em PDF da <strong>{padraoBanca}</strong> na pasta <code>/01_PDFS_DE_REFERENCIA/prefeituras/</code>, o gráfico de pizza e o ranking ordenado de conteúdo serão calculados instantaneamente aqui!
                 </p>
+                <div style={{ display: 'flex', gap: '0.75rem', justifyContent: 'center', flexWrap: 'wrap' }}>
+                  <button
+                    className="btn-primary"
+                    onClick={() => {
+                      setPadraoBanca('SELECON');
+                      setPadraoCargo('Todos');
+                    }}
+                  >
+                    Ver Raio-X da SELECON (872 Questões Prontas)
+                  </button>
+                  <button
+                    className="btn-padrao-pill"
+                    onClick={() => setActiveTab('materiais')}
+                  >
+                    Ver Instruções de Envio de PDFs
+                  </button>
+                </div>
+              </div>
+            ) : (
+              <>
+                {/* Grid Principal: Gráfico Donut/Pizza + Ranking Horizontal */}
+                <div className="padrao-grid">
+                  {/* Card 1: Gráfico de Pizza / Donut */}
+                  <div className="padrao-card">
+                    <h3 className="padrao-card-title">
+                      <PieChart size={20} color="#0d9488" />
+                      Distribuição Percentual: {padraoBanca === 'Todas' ? 'Todas as Bancas' : padraoBanca}
+                    </h3>
+                    <p className="padrao-card-desc">
+                      Proporção de cada assunto no universo de {questoesPadrao.length} questões analisadas ({padraoCargo === 'Todos' ? 'Todos os Cargos' : padraoCargo}).
+                    </p>
 
-                <div className="donut-container">
-                  <div className="donut-chart-box">
-                    <div className="donut-circle" style={donutStyle}></div>
-                    <div className="donut-inner-hole">
-                      <span className="donut-inner-num">{questoesPadrao.length}</span>
-                      <span className="donut-inner-label">Questões</span>
+                    <div className="donut-container">
+                      <div className="donut-chart-box">
+                        <div className="donut-circle" style={donutStyle}></div>
+                        <div className="donut-inner-hole">
+                          <span className="donut-inner-num">{questoesPadrao.length}</span>
+                          <span className="donut-inner-label">Questões</span>
+                        </div>
+                      </div>
+
+                      <div className="donut-legend">
+                        {itensGrafico.map(item => (
+                          <div key={item.nome} className="legend-item" title={`${item.nome}: ${item.count} questões (${item.percent}%)`}>
+                            <span className="legend-color" style={{ backgroundColor: item.cor }}></span>
+                            <span style={{ overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', flex: 1 }}>
+                              {item.nome}
+                            </span>
+                            <strong style={{ fontSize: '0.78rem', color: '#0f172a' }}>{item.percent}%</strong>
+                          </div>
+                        ))}
+                      </div>
                     </div>
                   </div>
 
-                  <div className="donut-legend">
-                    {itensGrafico.map(item => (
-                      <div key={item.nome} className="legend-item" title={`${item.nome}: ${item.count} questões (${item.percent}%)`}>
-                        <span className="legend-color" style={{ backgroundColor: item.cor }}></span>
-                        <span style={{ overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', flex: 1 }}>
-                          {item.nome}
-                        </span>
-                        <strong style={{ fontSize: '0.78rem', color: '#0f172a' }}>{item.percent}%</strong>
-                      </div>
-                    ))}
-                  </div>
-                </div>
-              </div>
+                  {/* Card 2: Ranking do Maior para o Menor */}
+                  <div className="padrao-card">
+                    <h3 className="padrao-card-title">
+                      <BarChart3 size={20} color="#0d9488" />
+                      Ranking: Do Mais Cobrado ao Menos Cobrado
+                    </h3>
+                    <p className="padrao-card-desc">
+                      Clique em "Resolver" para abrir diretamente as questões do tema correspondente no banco.
+                    </p>
 
-              {/* Card 2: Ranking do Maior para o Menor */}
-              <div className="padrao-card">
-                <h3 className="padrao-card-title">
-                  <BarChart3 size={20} color="#0d9488" />
-                  Ranking: Do Mais Cobrado ao Menos Cobrado
-                </h3>
-                <p className="padrao-card-desc">
-                  Clique em "Resolver" para abrir diretamente as questões do tema correspondente no banco.
-                </p>
+                    <div className="ranking-list">
+                      {itensGrafico.map((item, index) => {
+                        const isTop1 = index === 0;
+                        return (
+                          <div key={item.nome} className="ranking-item">
+                            <div className="ranking-label-row">
+                              <span className="ranking-name">
+                                <span
+                                  className="ranking-pos"
+                                  style={isTop1 ? { background: '#fef3c7', color: '#b45309', border: '1px solid #fde68a' } : {}}
+                                >
+                                  {index + 1}º
+                                </span>
+                                <span style={{ maxWidth: '280px', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
+                                  {item.nome}
+                                </span>
+                              </span>
 
-                <div className="ranking-list">
-                  {itensGrafico.map((item, index) => {
-                    const isTop1 = index === 0;
-                    return (
-                      <div key={item.nome} className="ranking-item">
-                        <div className="ranking-label-row">
-                          <span className="ranking-name">
-                            <span
-                              className="ranking-pos"
-                              style={isTop1 ? { background: '#fef3c7', color: '#b45309', border: '1px solid #fde68a' } : {}}
-                            >
-                              {index + 1}º
-                            </span>
-                            <span style={{ maxWidth: '280px', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
-                              {item.nome}
-                            </span>
-                          </span>
+                              <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
+                                <span className="ranking-metrics">
+                                  {item.count} q. ({item.percent}%)
+                                </span>
+                                <button
+                                  className="btn-topic-action"
+                                  onClick={() => irParaQuestoesPorTema(item.nome)}
+                                  title={`Filtrar questões sobre ${item.nome} na banca ${padraoBanca}`}
+                                >
+                                  Resolver
+                                  <ChevronRight size={13} />
+                                </button>
+                              </div>
+                            </div>
 
-                          <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
-                            <span className="ranking-metrics">
-                              {item.count} q. ({item.percent}%)
-                            </span>
-                            <button
-                              className="btn-topic-action"
-                              onClick={() => irParaQuestoesPorTema(item.nome)}
-                              title={`Filtrar questões sobre ${item.nome}`}
-                            >
-                              Resolver
-                              <ChevronRight size={13} />
-                            </button>
+                            <div className="ranking-bar-track">
+                              <div
+                                className="ranking-bar-fill"
+                                style={{
+                                  width: `${Math.max(Number(item.percent) * 3.5, 4)}%`,
+                                  maxWidth: '100%',
+                                  backgroundColor: item.cor
+                                }}
+                              ></div>
+                            </div>
                           </div>
-                        </div>
+                        );
+                      })}
+                    </div>
+                  </div>
+                </div>
 
-                        <div className="ranking-bar-track">
-                          <div
-                            className="ranking-bar-fill"
-                            style={{
-                              width: `${Math.max(Number(item.percent) * 3.5, 4)}%`,
-                              maxWidth: '100%',
-                              backgroundColor: item.cor
-                            }}
-                          ></div>
-                        </div>
+                {/* Seção de Insights Estratégicos Inteligentes */}
+                <div className="padrao-card" style={{ marginTop: '2rem' }}>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '0.4rem' }}>
+                    <Lightbulb size={22} color="#0d9488" />
+                    <h3 style={{ fontSize: '1.25rem', color: '#0f172a' }}>
+                      Raio-X Inteligente & Dicas de Ouro ({currentInsight.nome})
+                    </h3>
+                  </div>
+                  <p style={{ color: '#64748b', fontSize: '0.9rem', marginBottom: '1.25rem' }}>
+                    Insights táticos extraídos a partir do padrão de repetição de enunciados e pegadinhas da banca:
+                  </p>
+
+                  <div className="insights-grid" style={{ marginTop: 0 }}>
+                    <div className="insight-card">
+                      <div className="insight-tag">
+                        <Target size={14} /> {currentInsight.foco1.tag}
                       </div>
-                    );
-                  })}
-                </div>
-              </div>
-            </div>
+                      <h4 className="insight-title">{currentInsight.foco1.title}</h4>
+                      <p className="insight-text">
+                        {currentInsight.foco1.text}
+                      </p>
+                    </div>
 
-            {/* Seção de Insights Estratégicos Inteligentes */}
-            <div className="padrao-card" style={{ marginTop: '2rem' }}>
-              <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '0.4rem' }}>
-                <Lightbulb size={22} color="#0d9488" />
-                <h3 style={{ fontSize: '1.25rem', color: '#0f172a' }}>
-                  Raio-X Inteligente & Dicas de Ouro da Banca SELECON
-                </h3>
-              </div>
-              <p style={{ color: '#64748b', fontSize: '0.9rem', marginBottom: '1.25rem' }}>
-                Insights táticos extraídos a partir do padrão de repetição de enunciados e pegadinhas da banca:
-              </p>
+                    <div className="insight-card">
+                      <div className="insight-tag">
+                        <Sparkles size={14} /> {currentInsight.ponto.tag}
+                      </div>
+                      <h4 className="insight-title">{currentInsight.ponto.title}</h4>
+                      <p className="insight-text">
+                        {currentInsight.ponto.text}
+                      </p>
+                    </div>
 
-              <div className="insights-grid" style={{ marginTop: 0 }}>
-                <div className="insight-card">
-                  <div className="insight-tag">
-                    <Target size={14} /> Foco nº 1 da Banca
+                    <div className="insight-card">
+                      <div className="insight-tag">
+                        <Zap size={14} /> {currentInsight.perfil.tag}
+                      </div>
+                      <h4 className="insight-title">{currentInsight.perfil.title}</h4>
+                      <p className="insight-text">
+                        {currentInsight.perfil.text}
+                      </p>
+                    </div>
+
+                    <div className="insight-card">
+                      <div className="insight-tag">
+                        <Award size={14} /> {currentInsight.sus.tag}
+                      </div>
+                      <h4 className="insight-title">{currentInsight.sus.title}</h4>
+                      <p className="insight-text">
+                        {currentInsight.sus.text}
+                      </p>
+                    </div>
                   </div>
-                  <h4 className="insight-title">Fundamentos e Prática Diária</h4>
-                  <p className="insight-text">
-                    A SELECON adora cobrar procedimentos de enfermagem fundamentais: parâmetros de <strong>sinais vitais</strong> (pressão, temperatura, FC), técnicas de <strong>sondagem vesical e nasogástrica</strong>, cuidados com <strong>curativos</strong> e tipos de exsudato.
-                  </p>
                 </div>
-
-                <div className="insight-card">
-                  <div className="insight-tag">
-                    <Sparkles size={14} /> Ponto Garantido
-                  </div>
-                  <h4 className="insight-title">Legislação e Código de Ética</h4>
-                  <p className="insight-text">
-                    Questões recorrentes sobre as competências privativas do Enfermeiro vs atribuições do Técnico (<strong>Lei 7.498/86</strong>) e penalidades do novo <strong>Código de Ética (Resolução COFEN 564/2017)</strong>: direitos, deveres e proibições.
-                  </p>
-                </div>
-
-                <div className="insight-card">
-                  <div className="insight-tag">
-                    <Zap size={14} /> Técnico vs Enfermeiro
-                  </div>
-                  <h4 className="insight-title">Diferença de Perfil nos Cargos</h4>
-                  <p className="insight-text">
-                    Para <strong>Técnico</strong>, há forte cobrança em <em>Cálculo de Medicamentos (gotejamento/diluição)</em> e <em>Biossegurança (NR-32/EPI)</em>. Já para <strong>Enfermeiro</strong>, predominam <em>Vigilância Epidemiológica</em>, <em>Gestão em Saúde</em> e <em>SAE/NANDA</em>.
-                  </p>
-                </div>
-
-                <div className="insight-card">
-                  <div className="insight-tag">
-                    <Award size={14} /> Prefeituras & SUS
-                  </div>
-                  <h4 className="insight-title">Saúde Pública e Imunização</h4>
-                  <p className="insight-text">
-                    Cobrança maciça de <strong>Rede de Frio e Calendário Nacional de Vacinação (PNI)</strong>, além dos princípios doutrinários e organizativos da <strong>Lei Orgânica da Saúde (Lei 8.080/90)</strong>.
-                  </p>
-                </div>
-              </div>
-            </div>
+              </>
+            )}
           </section>
         )}
 
