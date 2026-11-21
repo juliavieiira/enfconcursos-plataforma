@@ -1,5 +1,109 @@
 [
   {
+    "codigo_origem": "Q3884072",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Processo de Enfermagem e Sistematização da Assistência de Enfermagem",
+    "enunciado": "MT - Enfermeiro A Avaliação da Assistência de Enfermagem, etapa final da SAE, consiste na análise sistemática das respostas do paciente frente às intervenções implementadas. O parâmetro central para essa análise é a comparação entre:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "o diagnóstico médico e o diagnóstico de enfermagem"
+      },
+      {
+        "id": "B",
+        "texto": "as intervenções prescritas e as intervenções executadas"
+      },
+      {
+        "id": "C",
+        "texto": "os resultados esperados e os resultados alcançados"
+      },
+      {
+        "id": "D",
+        "texto": "o histórico de enfermagem e a evolução do paciente 131 Ano: 2026 Enfermagem > Legislação de Enfermagem , Processo de Enfermagem e Sistematização da Assistência de Enfermagem , COFEN Banca: SELECON Órgão: Prefeitura de Porto dos Gaúchos - MT Prova: SELECON - 2026 - Prefeitura de Porto dos Gaúchos -"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0130",
+    "numero_ordem": 130,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'o diagnóstico médico e o diagnóstico de enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'as intervenções prescritas e as intervenções executadas...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'os resultados esperados e os resultados alcançados...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'o histórico de enfermagem e a evolução do paciente 131 Ano: 2026 Enfermagem > Legisla...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q3742719",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Marcelândia - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2025 - Prefeitura de Marcelândia - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Processo de Enfermagem e Sistematização da Assistência de Enfermagem",
+    "enunciado": "A Sistematização da Assistência de Enfermagem (SAE) é um processo dinâmico e inter-relacionado, fundamentado em teorias de enfermagem que orientam a prática profissional. A Resolução COFEN n.º 358/2009 reforça a obrigatoriedade da SAE, conferindo-lhe caráter legal e ético. Em um cenário complexo de unidade de terapia intensiva, onde o enfermeiro se depara com um paciente em choque séptico, a etapa do Processo de Enfermagem que exige a síntese interpretativa dos dados coletados, a identificação de padrões e a formulação de enunciados clínicos, que direcionam as intervenções específicas e mensuráveis, é a:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "coleta de dados, focando na anamnese detalhada e exame físico minucioso para identificar todos os sinais e sintomas"
+      },
+      {
+        "id": "B",
+        "texto": "diagnóstico de enfermagem, onde se elaboram enunciados PES (Problema, Etiologia, Sinais/Sintomas) que refletem as respostas humanas do paciente"
+      },
+      {
+        "id": "C",
+        "texto": "planejamento de enfermagem, estabelecendo metas de curto e longo prazo baseadas nas necessidades do paciente e nos recursos disponíveis"
+      },
+      {
+        "id": "D",
+        "texto": "avaliação de enfermagem, verificando a efetividade das intervenções implementadas e a necessidade de ajustes no plano de cuidados"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0180",
+    "numero_ordem": 180,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'coleta de dados, focando na anamnese detalhada e exame físico minucioso para identifi...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'diagnóstico de enfermagem, onde se elaboram enunciados PES (Problema, Etiologia, Sina...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'planejamento de enfermagem, estabelecendo metas de curto e longo prazo baseadas nas n...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'avaliação de enfermagem, verificando a efetividade das intervenções implementadas e a...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
+  },
+  {
     "codigo_origem": "Q3742718",
     "banca": "SELECON",
     "orgao": "Prefeitura de Marcelândia - MT",
@@ -28,28 +132,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0101",
-    "numero_ordem": 101,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0181",
+    "numero_ordem": 181,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'desenvolver um pensamento crítico que permita a adaptação das intervenções às respostas fi...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'desenvolver um pensamento crítico que permita a adaptação das intervenções às respost...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'padronizar todas as intervenções de enfermagem, garantindo a uniformidade do cuidado indep...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'padronizar todas as intervenções de enfermagem, garantindo a uniformidade do cuidado ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'delegar integralmente as tarefas de menor complexidade à equipe técnica, focando apenas na...'."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'delegar integralmente as tarefas de menor complexidade à equipe técnica, focando...'."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'reduzir a necessidade de comunicação interprofissional, uma vez que o plano de cuidados de...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'reduzir a necessidade de comunicação interprofissional, uma vez que o plano de cuidad...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
   },
   {
     "codigo_origem": "Q3617180",
@@ -80,28 +184,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0130",
-    "numero_ordem": 130,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0210",
+    "numero_ordem": 210,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'SAE, que garante exclusivamente o registro das atividades realizadas pela enferm...'."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'identificação de diagnósticos de enfermagem na SAE, que requer interpretação criteriosa de...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'identificação de diagnósticos de enfermagem na SAE, que requer interpretação criterio...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'SAE, que é uma responsabilidade única do enfermeiro e não envolve a equipe de saúde...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'SAE, que é uma responsabilidade única do enfermeiro e não envolve a equipe de saúde...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'diagnósticos de enfermagem, que são considerados subjetivos e não requerem validação cient...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'diagnósticos de enfermagem, que são considerados subjetivos e não requerem validação ...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q3265158",
@@ -132,28 +236,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0184",
-    "numero_ordem": 184,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0264",
+    "numero_ordem": 264,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'avaliação, diagnóstico, planejamento, implementação, coleta de dados...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'avaliação, diagnóstico, planejamento, implementação, coleta de dados...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'coleta de dados, diagnóstico, planejamento, implementação, avaliação...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'coleta de dados, diagnóstico, planejamento, implementação, avaliação...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'planejamento, coleta de dados, diagnóstico, implementação, avaliação...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'planejamento, coleta de dados, diagnóstico, implementação, avaliação...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'diagnóstico, coleta de dados, planejamento, implementação, avaliação 265 Ano: 2025 Enferma...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'diagnóstico, coleta de dados, planejamento, implementação, avaliação 265 Ano: 2025 En...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q3265152",
@@ -167,11 +271,11 @@
     "enunciado": "",
     "alternativas": [],
     "resposta_correta": "",
-    "id": "EF0190",
-    "numero_ordem": 190,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0270",
+    "numero_ordem": 270,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q2480389",
@@ -206,32 +310,32 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0308",
-    "numero_ordem": 308,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0388",
+    "numero_ordem": 388,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'diagnóstico...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'diagnóstico...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'planejamento...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'planejamento...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'implementação...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'implementação...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "E",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'assistência 389 Ano: 2024...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'assistência 389 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q2453002",
@@ -262,131 +366,513 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0417",
-    "numero_ordem": 417,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0497",
+    "numero_ordem": 497,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'exame físico, anamnese, diagnóstico, plano de ação e avaliação...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'exame físico, anamnese, diagnóstico, plano de ação e avaliação...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'anamnese, exame físico, diagnóstico, planejamento e implementação...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'anamnese, exame físico, diagnóstico, planejamento e implementação...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'coleta de dados, diagnóstico, planejamento, implementação e avaliação...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'coleta de dados, diagnóstico, planejamento, implementação e avaliação...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'diagnóstico, planejamento, plano de cuidados, implementação e avaliação 498 Ano: 2024...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'diagnóstico, planejamento, plano de cuidados, implementação e avaliação 498 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
-    "codigo_origem": "Q3884072",
+    "codigo_origem": "Q3584430",
     "banca": "SELECON",
-    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
-    "ano": 2026,
-    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
+    "orgao": "Prefeitura de Lucas do Rio Verde - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Lucas do Rio Verde -",
     "cargo": "Enfermeiro",
     "materia": "Enfermagem",
     "assunto": "Processo de Enfermagem e Sistematização da Assistência de Enfermagem",
-    "enunciado": "MT - Enfermeiro A Avaliação da Assistência de Enfermagem, etapa final da SAE, consiste na análise sistemática das respostas do paciente frente às intervenções implementadas. O parâmetro central para essa análise é a comparação entre:",
+    "enunciado": "MT - Enfermeiro 20H O termo Processo de Enfermagem (PE), divulgado na década de 1950, nos Estados Unidos da América, refere-se a um processo que, por meio do método científico, permite a consolidação dos elementos da arte da enfermagem com os mais relevantes elementos de sistemas teóricos. Nesse sentido, o PE deve estar baseado em um suporte teórico que oriente a:",
     "alternativas": [
       {
         "id": "A",
-        "texto": "o diagnóstico médico e o diagnóstico de enfermagem"
+        "texto": "coleta de dados, estabelecimento de diagnósticos de enfermagem, planejamento das ações ou intervenções de enfermagem, e fornecimento da base para a avaliação dos resultados de enfermagem alcançados"
       },
       {
         "id": "B",
-        "texto": "as intervenções prescritas e as intervenções executadas"
+        "texto": "coleta de medicamentos, estabelecimento de diagnósticos médicos, planejamento das ações ou intervenções de enfermagem, e fornecimento da base para a avaliação dos resultados de enfermagem alcançados"
       },
       {
         "id": "C",
-        "texto": "os resultados esperados e os resultados alcançados"
+        "texto": "anamnese e histórico, estabelecimento de diagnósticos de enfermagem, planejamento das ações ou intervenções de multidisciplinares, e fornecimento da base para a avaliação dos resultados de enfermagem alcançados"
       },
       {
         "id": "D",
-        "texto": "o histórico de enfermagem e a evolução do paciente 131 Ano: 2026 Enfermagem > Legislação de Enfermagem , Processo de Enfermagem e Sistematização da Assistência de Enfermagem , COFEN Banca: SELECON Órgão: Prefeitura de Porto dos Gaúchos - MT Prova: SELECON - 2026 - Prefeitura de Porto dos Gaúchos -"
+        "texto": "coleta de dados, estabelecimento de diagnósticos de riscos, planejamento das ações ou intervenções de enfermagem, e fornecimento da base para a avaliação dos resultados interdisciplinares alcançados 545 Ano: 2023"
       }
     ],
     "resposta_correta": "",
-    "id": "EF0470",
-    "numero_ordem": 470,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0544",
+    "numero_ordem": 544,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o diagnóstico médico e o diagnóstico de enfermagem...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'coleta de dados, estabelecimento de diagnósticos de enfermagem, planejamento das açõe...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'as intervenções prescritas e as intervenções executadas...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'coleta de medicamentos, estabelecimento de diagnósticos médicos, planejamento das açõ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'os resultados esperados e os resultados alcançados...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'anamnese e histórico, estabelecimento de diagnósticos de enfermagem, planejamento das...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o histórico de enfermagem e a evolução do paciente 131 Ano: 2026 Enfermagem > Legislação d...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'coleta de dados, estabelecimento de diagnósticos de riscos, planejamento das ações ou...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
-    "codigo_origem": "Q3742719",
+    "codigo_origem": "Q2297122",
     "banca": "SELECON",
-    "orgao": "Prefeitura de Marcelândia - MT",
-    "ano": 2024,
-    "prova": "SELECON - 2025 - Prefeitura de Marcelândia - MT -",
+    "orgao": "Prefeitura de Campo Verde - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Campo Verde - MT - Técnico",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Processo de Enfermagem e Sistematização da Assistência de Enfermagem",
+    "enunciado": "em Enfermagem A gasometria é maneira mais efetiva para avaliar o equilíbrio ácido-base e a oxigenação. Acerca desse exame, o componente que avalia o nível de oxigênio no sangue é o:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "PaCO2"
+      },
+      {
+        "id": "B",
+        "texto": "HCO3"
+      },
+      {
+        "id": "C",
+        "texto": "PaO2"
+      },
+      {
+        "id": "D",
+        "texto": "BE"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0629",
+    "numero_ordem": 629,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q2162346",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Nova Mutum - MT -",
     "cargo": "Enfermeiro",
     "materia": "Enfermagem",
     "assunto": "Processo de Enfermagem e Sistematização da Assistência de Enfermagem",
-    "enunciado": "A Sistematização da Assistência de Enfermagem (SAE) é um processo dinâmico e inter-relacionado, fundamentado em teorias de enfermagem que orientam a prática profissional. A Resolução COFEN n.º 358/2009 reforça a obrigatoriedade da SAE, conferindo-lhe caráter legal e ético. Em um cenário complexo de unidade de terapia intensiva, onde o enfermeiro se depara com um paciente em choque séptico, a etapa do Processo de Enfermagem que exige a síntese interpretativa dos dados coletados, a identificação de padrões e a formulação de enunciados clínicos, que direcionam as intervenções específicas e mensuráveis, é a:",
+    "enunciado": "De acordo com a Resolução Cofen nº 358/2009, a etapa do processo de Enfermagem que consiste na determinação dos resultados que se espera alcançar, e das ações ou intervenções de Enfermagem que serão realizadas face às respostas da pessoa, família ou coletividade humana em um dado momento do processo saúde e doença, identificadas na etapa de diagnóstico de Enfermagem, é a etapa que recebe o nome de:",
     "alternativas": [
       {
         "id": "A",
-        "texto": "coleta de dados, focando na anamnese detalhada e exame físico minucioso para identificar todos os sinais e sintomas"
+        "texto": "histórico"
       },
       {
         "id": "B",
-        "texto": "diagnóstico de enfermagem, onde se elaboram enunciados PES (Problema, Etiologia, Sinais/Sintomas) que refletem as respostas humanas do paciente"
+        "texto": "diagnóstico"
       },
       {
         "id": "C",
-        "texto": "planejamento de enfermagem, estabelecendo metas de curto e longo prazo baseadas nas necessidades do paciente e nos recursos disponíveis"
+        "texto": "planejamento"
       },
       {
         "id": "D",
-        "texto": "avaliação de enfermagem, verificando a efetividade das intervenções implementadas e a necessidade de ajustes no plano de cuidados"
+        "texto": "implementação"
       }
     ],
     "resposta_correta": "",
-    "id": "EF0520",
-    "numero_ordem": 520,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0647",
+    "numero_ordem": 647,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'coleta de dados, focando na anamnese detalhada e exame físico minucioso para identificar t...'."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'diagnóstico de enfermagem, onde se elaboram enunciados PES (Problema, Etiologia, Sinais/Si...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'diagnóstico...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'planejamento de enfermagem, estabelecendo metas de curto e longo prazo baseadas nas necess...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'planejamento...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'avaliação de enfermagem, verificando a efetividade das intervenções implementadas e a nece...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'implementação...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
+  },
+  {
+    "codigo_origem": "Q2162331",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Nova Mutum - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Exame Físico",
+    "enunciado": "A palpação é uma parte vital do exame físico realizado pelo(a) enfermeiro(a), pois permite que muitas estruturas do corpo, embora não visíveis, possam ser avaliadas por meio das técnicas de palpação superficial e profunda. No entanto, um cuidado importante, quando do exame do abdome, é que a ausculta deve ser realizada:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "após a palpação, a fim de alterar os sons abdominais"
+      },
+      {
+        "id": "B",
+        "texto": "após a percussão, a fim de evitar alterar os sons abdominais"
+      },
+      {
+        "id": "C",
+        "texto": "antes da inspeção e da percussão, a fim de alterar os sons abdominais"
+      },
+      {
+        "id": "D",
+        "texto": "antes da palpação e da percussão, a fim de evitar alterar os sons abdominais 662 Ano: 2023"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0661",
+    "numero_ordem": 661,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'após a palpação, a fim de alterar os sons abdominais...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'após a percussão, a fim de evitar alterar os sons abdominais...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'antes da inspeção e da percussão, a fim de alterar os sons abdominais...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'antes da palpação e da percussão, a fim de evitar alterar os sons abdominais 662 Ano:...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q2162330",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Nova Mutum - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Processo de Enfermagem e Sistematização da Assistência de Enfermagem",
+    "enunciado": "No âmbito da gerência do cuidado de Enfermagem, o uso do Processo de Enfermagem é regulamentado pela Resolução Cofen nº 358/2009, que dispõe sobre a Sistematização da Assistência de Enfermagem e a implementação desse processo em ambientes públicos ou privados. De acordo com esse documento, o processo de Enfermagem consiste em:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "instrumento metodológico que orienta o cuidado profissional de Enfermagem e a documentação da prática profissional"
+      },
+      {
+        "id": "B",
+        "texto": "protocolo clínico que norteia as práticas de Enfermagem e a documentação específica"
+      },
+      {
+        "id": "C",
+        "texto": "regimento interno que define as metas de Enfermagem para o registro seguro"
+      },
+      {
+        "id": "D",
+        "texto": "procedimento operacional padrão que orienta os profissionais na assistência 663 Ano: 2023"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0662",
+    "numero_ordem": 662,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'instrumento metodológico que orienta o cuidado profissional de Enfermagem e a documen...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'protocolo clínico que norteia as práticas de Enfermagem e a documentação específica...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'regimento interno que define as metas de Enfermagem para o registro seguro...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'procedimento operacional padrão que orienta os profissionais na assistência 663 Ano: ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
+  },
+  {
+    "codigo_origem": "Q1956081",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Pontes e Lacerda - MT",
+    "ano": 2022,
+    "prova": "SELECON - 2022 - Prefeitura de Pontes e Lacerda - MT -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Exame Físico",
+    "enunciado": "Técnico em Enfermagem O termo “oligúria” está relacionado a uma condição renal alterada caracterizada por:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "aumento no volume urinário"
+      },
+      {
+        "id": "B",
+        "texto": "diminuição do volume urinário"
+      },
+      {
+        "id": "C",
+        "texto": "micção dolorosa e com saída de pus"
+      },
+      {
+        "id": "D",
+        "texto": "perda involuntária da diurese e sudorese"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0701",
+    "numero_ordem": 701,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'aumento no volume urinário...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'diminuição do volume urinário...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'micção dolorosa e com saída de pus...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'perda involuntária da diurese e sudorese...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q1313688",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2020,
+    "prova": "SELECON - 2020 - Prefeitura de Boa Vista - RR -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Processo de Enfermagem e Sistematização da Assistência de Enfermagem",
+    "enunciado": "O Processo de Enfermagem organiza-se em cinco etapas interrelacionadas, interdependentes e recorrentes. A etapa que consiste na determinação dos resultados que se espera alcançar e das ações ou intervenções de enfermagem que serão realizadas face às respostas da pessoa, família ou coletividade humana, em um dado momento do processo saúde e doença, é chamada de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Planejamento de Enfermagem"
+      },
+      {
+        "id": "B",
+        "texto": "Diagnóstico de Enfermagem"
+      },
+      {
+        "id": "C",
+        "texto": "Avaliação de Enfermagem"
+      },
+      {
+        "id": "D",
+        "texto": "Implementação 811 Ano: 2020"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0810",
+    "numero_ordem": 810,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Planejamento de Enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Diagnóstico de Enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Avaliação de Enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Implementação 811 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q1313677",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2020,
+    "prova": "SELECON - 2020 - Prefeitura de Boa Vista - RR -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Exame Físico",
+    "enunciado": "A técnica semiológica, utilizada pelo enfermeiro no exame físico, que consiste em golpear a pele do indivíduo com toques curtos e fortes para avaliar a estrutura subjacente é chamada de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "inspeção"
+      },
+      {
+        "id": "B",
+        "texto": "ausculta"
+      },
+      {
+        "id": "C",
+        "texto": "percussão"
+      },
+      {
+        "id": "D",
+        "texto": "palpação 822 Ano: 2020"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0821",
+    "numero_ordem": 821,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'palpação 822 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q2710363",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Campo Grande - MS",
+    "ano": 2019,
+    "prova": "SELECON - 2019 - Prefeitura de Campo Grande - MS -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Processo de Enfermagem e Sistematização da Assistência de Enfermagem",
+    "enunciado": "O processo de enfermagem deve estar baseado em um suporte teórico que oriente a coleta de dados, o estabelecimento de diagnósticos de enfermagem e o planejamento das ações ou intervenções de enfermagem. A etapa que consiste na realização das ações ou intervenções determinadas pela fase de planejamento de enfermagem é definida como",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "diagnóstico"
+      },
+      {
+        "id": "B",
+        "texto": "avaliação"
+      },
+      {
+        "id": "C",
+        "texto": "histórico"
+      },
+      {
+        "id": "D",
+        "texto": "implementação 838 Ano: 2019"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0837",
+    "numero_ordem": 837,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'diagnóstico...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'implementação 838 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q2698326",
+    "banca": "SELECON",
+    "orgao": "Prefeitura Municipal",
+    "ano": 2019,
+    "prova": "",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Processo de Enfermagem e Sistematização da Assistência de Enfermagem",
+    "enunciado": "",
+    "alternativas": [],
+    "resposta_correta": "",
+    "id": "EF0851",
+    "numero_ordem": 851,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   }
 ]

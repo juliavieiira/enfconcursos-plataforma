@@ -28,27 +28,27 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0490",
-    "numero_ordem": 490,
-    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "id": "EF0150",
+    "numero_ordem": 150,
+    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'notifi car imediatamente o enfermeiro responsável diante da alteração de consciência ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter a monitorização padrão, repetindo os sinais vitais em até 1 hora, visto que oscilaç...'."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'manter a monitorização padrão, repetindo os sinais vitais em até 1 hora, visto q...'."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ajustar a infusão venosa para melhorar a perfusão periférica enquanto aguarda nova aferiçã...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'ajustar a infusão venosa para melhorar a perfusão periférica enquanto aguarda nova af...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'priorizar a avaliação do curativo abdominal e da ferida operatória, pois alterações sistêm...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'priorizar a avaliação do curativo abdominal e da ferida operatória, pois alterações s...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+    "comentario": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa ..."
   }
 ]

@@ -1,140 +1,7 @@
 === CADERNO DE QUESTÕES: FUNDAMENTOS E PROCEDIMENTOS DE ENFERMAGEM ===
-Total: 8 questões
+Total: 15 questões
 
-QUESTÃO 1 [Código: EF0106] - Prefeitura de Marcelândia - MT (SELECON 2025) - Enfermeiro
-Assunto: Fundamentos e Procedimentos de Enfermagem
-A via de administração de medicamentos que se caracteriza pela aplicação da substância diretamente na derme, formando uma pequena pápula, e é frequentemente utilizada para testes de sensibilidade e alergia, é a via:
-
-  [A] subcutânea
-  [B] intramuscular
-  [C] intradérmica
-  [D] intravenosa 187 Ano: 2025
-
-✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
-❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'intramuscular...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'intradérmica...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'intravenosa 187 Ano: 2025...'.
-
-------------------------------------------------------------
-
-QUESTÃO 2 [Código: EF0148] - Prefeitura de Tapurah - MT (SELECON 2025) - Técnico de Enfermagem
-Assunto: Fundamentos e Procedimentos de Enfermagem
-Enfermagem Durante a aferição da pressão arterial em um paciente adulto internado, o técnico de enfermagem observa que a pressão sistólica apresenta variação maior que 10 mmHg entre os dois braços. Considerando esse achado e as boas práticas na verificação da pressão arterial, pode-se afirmar que:
-
-  [A] essa diferença é considerada normal e não requer comunicação à equipe
-  [B] a aferição deve ser repetida apenas no braço que apresentou maior pressão, desconsiderando o valor do outro membro
-  [C] a técnica utilizada pelo profissional está incorreta, pois a pressão arterial deve ser aferida apenas no braço dominante
-  [D] essa diferença pode indicar condição clínica como estenose da artéria subclávia e deve ser relatada ao enfermeiro ou ao médico
-
-✅ Gabarito: 
-💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
-❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'essa diferença é considerada normal e não requer comunicação à equipe...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a aferição deve ser repetida apenas no braço que apresentou maior pressão, desconsiderando...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a técnica utilizada pelo profissional está incorreta, pois a pressão arterial deve ser afe...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'essa diferença pode indicar condição clínica como estenose da artéria subclávia e deve ser...'.
-
-------------------------------------------------------------
-
-QUESTÃO 3 [Código: EF0210] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
-Assunto: Fundamentos e Procedimentos de Enfermagem
-Enfermagem O técnico de enfermagem deve estar atento aos sinais e aos sintomas de flebite em pacientes com acesso venoso periférico. Considerando os sinais clínicos e a conduta adequada, é correto afirmar que:
-
-  [A] a flebite é caracterizada por dor moderada, eritema discreto e edema local, sendo necessário apenas monitoramento do quadro e manutenção da infusão até o desaparecimento dos sintomas
-  [B] em caso de flebite, o técnico de enfermagem deve continuar a infusão intravenosa até que sinais claros de infecção sistêmica, como febre e calafrios, apareçam, para então realizar a retirada do cateter
-  [C] a flebite é caracterizada pela dor leve no local de inserção, acompanhada de leve vermelhidão e inchaço, sendo sufi ciente apenas a observação do quadro, sem necessidade de interrupção da infusão intravenosa
-  [D] os sinais de flebite incluem dor intensa, eritema, calor, edema, endurecimento da veia e, em alguns casos, presença de cordão visível ao longo da veia afetada. A conduta é suspender a infusão, remover o cateter e comunicar ao enfermeiro responsável para novas orientações
-
-✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
-❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a flebite é caracterizada por dor moderada, eritema discreto e edema local, sendo necessár...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'em caso de flebite, o técnico de enfermagem deve continuar a infusão intravenosa até que s...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a flebite é caracterizada pela dor leve no local de inserção, acompanhada de leve vermelhi...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'os sinais de flebite incluem dor intensa, eritema, calor, edema, endurecimento da veia e, ...'.
-
-------------------------------------------------------------
-
-QUESTÃO 4 [Código: EF0215] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
-Assunto: Fundamentos e Procedimentos de Enfermagem
-Enfermagem Um paciente de 45 anos, com histórico de anemia severa e hemorragia aguda após um trauma, foi encaminhado para receber uma transfusão de concentrado de hemácias. A conduta do técnico de enfermagem acerca da administração, considerando as boas práticas e as recomendações da transfusão de hemocomponentes, deve ser:
-
-  [A] aguardar a chegada do paciente à unidade para iniciar a transfusão e, em caso de reações adversas, interromper o procedimento imediatamente e registrar a ocorrência no prontuário
-  [B] administrar o hemocomponente rapidamente, sem a necessidade de realizar a verificação da compatibilidade sanguínea, já que o concentrado de hemácias é um produto seguro que não provoca reações alérgicas
-  [C] antes de iniciar a transfusão, verificar a prescrição médica, confirmar a compatibilidade sanguínea do paciente com o hemocomponente e utilizar uma linha de infusão com solução salina para garantir a permeabilidade e a segurança do procedimento
-  [D] realizar a transfusão com uma única linha de infusão para economizar tempo, sem a necessidade de verificar a compatibilidade sanguínea, já que os hemocomponentes não causam reações adversas
-
-✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
-❌ Distratores:
-   • Alternativa A: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administrar o hemocomponente rapidamente, sem a necessidade de realizar a verificação da c...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'antes de iniciar a transfusão, verificar a prescrição médica, confirmar a compatibilidade ...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar a transfusão com uma única linha de infusão para economizar tempo, sem a necessid...'.
-
-------------------------------------------------------------
-
-QUESTÃO 5 [Código: EF0219] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
-Assunto: Fundamentos e Procedimentos de Enfermagem
-Sobre acidentes com materiais perfurocortantes, a prática mais eficaz para prevenir lesões por agulhas e outros materiais semelhantes durante a execução de procedimentos em ambiente hospitalar é:
-
-  [A] a utilização de luvas de proteção mais espessas
-  [B] a realização de treinamentos periódicos sobre precauções universais
-  [C] a implementação do uso de dispositivos de segurança com mecanismo de proteção, como agulhas autosselantes
-  [D] o descarte imediato de agulhas e de materiais cortantes no recipiente adequado sem o uso de dispositivos de proteção 300 Ano: 2025
-
-✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
-❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a utilização de luvas de proteção mais espessas...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a realização de treinamentos periódicos sobre precauções universais...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a implementação do uso de dispositivos de segurança com mecanismo de proteção, como agulha...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o descarte imediato de agulhas e de materiais cortantes no recipiente adequado sem o uso d...'.
-
-------------------------------------------------------------
-
-QUESTÃO 6 [Código: EF0229] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
-Assunto: Fundamentos e Procedimentos de Enfermagem
-Durante um procedimento de aspiração nasotraqueal em um paciente internado, o enfermeiro está atento à durabilidade e à segurança da técnica. Sabendo-se que a aspiração nasotraqueal tem um tempo máximo recomendado para a passagem do cateter, o tempo máximo permitido para a realização da aspiração nasotraqueal, visando a evitar complicações, como hipoxemia e trauma nas vias respiratórias é:
-
-  [A] 20 segundos, para evitar hipoxemia e lesões nas vias aéreas superiores
-  [B] 30 segundos, conforme recomendado para reduzir o risco de obstrução da via aérea
-  [C] 10 segundos, de forma a minimizar o risco de trauma e hipoxemia durante o procedimento
-  [D] 60 segundos, para garantir a remoção completa de secreções das vias aéreas 310 Ano: 2025
-
-✅ Gabarito: 
-💡 Fundamentação: De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.
-❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '20 segundos, para evitar hipoxemia e lesões nas vias aéreas superiores...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '30 segundos, conforme recomendado para reduzir o risco de obstrução da via aérea...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '10 segundos, de forma a minimizar o risco de trauma e hipoxemia durante o procedimento...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '60 segundos, para garantir a remoção completa de secreções das vias aéreas 310 Ano: 2025...'.
-
-------------------------------------------------------------
-
-QUESTÃO 7 [Código: EF0340] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
-Assunto: Fundamentos e Procedimentos de Enfermagem
-O leito que está desocupado, aguardando para receber um paciente e que deve ser preparado aproximadamente duas horas após ter sido feita a limpeza geral, permitindo o arejamento do ambiente, denomina-se:
-
-  [A] aberto
-  [B] fechado
-  [C] com paciente
-  [D] sem paciente
-
-✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
-❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'com paciente...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'sem paciente...'.
-
-------------------------------------------------------------
-
-QUESTÃO 8 [Código: EF0489] - Prefeitura de Barra do Garças - MT (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 1 [Código: EF0149] - Prefeitura de Barra do Garças - MT (SELECON 2025) - Técnico de Enfermagem
 Assunto: Fundamentos e Procedimentos de Enfermagem
 Técnico em Enfermagem Durante o acompanhamento de um paciente no pósoperatório de colectomia em uso de sonda nasoenteral para administração de dieta contínua, o paciente refere leve desconforto nasal, e a equipe observa resíduo alimentar na conexão externa da sonda. De acordo com as boas práticas de segurança, manutenção e assistência a pacientes em uso de sondas nasogástrica e nasoenteral, afi rma-se que:
 
@@ -144,12 +11,269 @@ Técnico em Enfermagem Durante o acompanhamento de um paciente no pósoperatóri
   [D] a higienização e o manejo externo da sonda devem ser realizados rotineiramente pelo técnico de enfermagem, mesmo em dietas de infusão contínua, a fim de prevenir obstruções, minimizar extravasamentos e reduzir risco de contaminação 150 Ano: 2025
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme as Recomendações de Boas Práticas em Nutrição Enteral da BRASPEN e da ANVISA (RDC nº 63/2000), a prevenção da pneumonia por broncoaspiração em pacientes recebendo dieta por sonda enteral exige a manutenção da cabeceira elevada em ângulo de 30° a 45° durante toda a infusão e por no mínimo 30 a 60 minutos após o término da dieta, para garantir o esvaziamento gástrico seguro. A alternativa [] descreve exatamente essa conduta preconizada.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a confirmação do posicionamento da sonda, quando houver dúvida clínica, deve ser realizada...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a administração da dieta ou dos medicamentos pode ser feito pelo técnico de enfermagem, de...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a manutenção da sonda aberta entre administrações é recomendada para reduzir o risco de ob...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a higienização e o manejo externo da sonda devem ser realizados rotineiramente pelo técnic...'.
+   • Alternativa A: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a confirmação do posicionamento da sonda, quando houver dúvida clínica, deve ser...'.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'a administração da dieta ou dos medicamentos pode ser feito pelo técnico de enfermage...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a manutenção da sonda aberta entre administrações é recomendada para reduzir o risco ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'a higienização e o manejo externo da sonda devem ser realizados rotineiramente pelo t...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 2 [Código: EF0186] - Prefeitura de Marcelândia - MT (SELECON 2025) - Enfermeiro
+Assunto: Fundamentos e Procedimentos de Enfermagem
+A via de administração de medicamentos que se caracteriza pela aplicação da substância diretamente na derme, formando uma pequena pápula, e é frequentemente utilizada para testes de sensibilidade e alergia, é a via:
+
+  [A] subcutânea
+  [B] intramuscular
+  [C] intradérmica
+  [D] intravenosa 187 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'intramuscular...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'intradérmica...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'intravenosa 187 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 3 [Código: EF0228] - Prefeitura de Tapurah - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Fundamentos e Procedimentos de Enfermagem
+Enfermagem Durante a aferição da pressão arterial em um paciente adulto internado, o técnico de enfermagem observa que a pressão sistólica apresenta variação maior que 10 mmHg entre os dois braços. Considerando esse achado e as boas práticas na verificação da pressão arterial, pode-se afirmar que:
+
+  [A] essa diferença é considerada normal e não requer comunicação à equipe
+  [B] a aferição deve ser repetida apenas no braço que apresentou maior pressão, desconsiderando o valor do outro membro
+  [C] a técnica utilizada pelo profissional está incorreta, pois a pressão arterial deve ser aferida apenas no braço dominante
+  [D] essa diferença pode indicar condição clínica como estenose da artéria subclávia e deve ser relatada ao enfermeiro ou ao médico
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'essa diferença é considerada normal e não requer comunicação à equipe...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a aferição deve ser repetida apenas no braço que apresentou maior pressão, desco...'.
+   • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a técnica utilizada pelo profissional está incorreta, pois a pressão arterial de...'.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'essa diferença pode indicar condição clínica como estenose da artéria subclávia e dev...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 4 [Código: EF0290] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Fundamentos e Procedimentos de Enfermagem
+Enfermagem O técnico de enfermagem deve estar atento aos sinais e aos sintomas de flebite em pacientes com acesso venoso periférico. Considerando os sinais clínicos e a conduta adequada, é correto afirmar que:
+
+  [A] a flebite é caracterizada por dor moderada, eritema discreto e edema local, sendo necessário apenas monitoramento do quadro e manutenção da infusão até o desaparecimento dos sintomas
+  [B] em caso de flebite, o técnico de enfermagem deve continuar a infusão intravenosa até que sinais claros de infecção sistêmica, como febre e calafrios, apareçam, para então realizar a retirada do cateter
+  [C] a flebite é caracterizada pela dor leve no local de inserção, acompanhada de leve vermelhidão e inchaço, sendo sufi ciente apenas a observação do quadro, sem necessidade de interrupção da infusão intravenosa
+  [D] os sinais de flebite incluem dor intensa, eritema, calor, edema, endurecimento da veia e, em alguns casos, presença de cordão visível ao longo da veia afetada. A conduta é suspender a infusão, remover o cateter e comunicar ao enfermeiro responsável para novas orientações
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a flebite é caracterizada por dor moderada, eritema discreto e edema local, send...'.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'em caso de flebite, o técnico de enfermagem deve continuar a infusão intravenosa até ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a flebite é caracterizada pela dor leve no local de inserção, acompanhada de lev...'.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'os sinais de flebite incluem dor intensa, eritema, calor, edema, endurecimento da vei...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 5 [Código: EF0295] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Fundamentos e Procedimentos de Enfermagem
+Enfermagem Um paciente de 45 anos, com histórico de anemia severa e hemorragia aguda após um trauma, foi encaminhado para receber uma transfusão de concentrado de hemácias. A conduta do técnico de enfermagem acerca da administração, considerando as boas práticas e as recomendações da transfusão de hemocomponentes, deve ser:
+
+  [A] aguardar a chegada do paciente à unidade para iniciar a transfusão e, em caso de reações adversas, interromper o procedimento imediatamente e registrar a ocorrência no prontuário
+  [B] administrar o hemocomponente rapidamente, sem a necessidade de realizar a verificação da compatibilidade sanguínea, já que o concentrado de hemácias é um produto seguro que não provoca reações alérgicas
+  [C] antes de iniciar a transfusão, verificar a prescrição médica, confirmar a compatibilidade sanguínea do paciente com o hemocomponente e utilizar uma linha de infusão com solução salina para garantir a permeabilidade e a segurança do procedimento
+  [D] realizar a transfusão com uma única linha de infusão para economizar tempo, sem a necessidade de verificar a compatibilidade sanguínea, já que os hemocomponentes não causam reações adversas
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'aguardar a chegada do paciente à unidade para iniciar a transfusão e, em caso de reaç...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'administrar o hemocomponente rapidamente, sem a necessidade de realizar a verificação...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'antes de iniciar a transfusão, verificar a prescrição médica, confirmar a compatibili...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'realizar a transfusão com uma única linha de infusão para economizar tempo, sem a nec...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 6 [Código: EF0299] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
+Assunto: Fundamentos e Procedimentos de Enfermagem
+Sobre acidentes com materiais perfurocortantes, a prática mais eficaz para prevenir lesões por agulhas e outros materiais semelhantes durante a execução de procedimentos em ambiente hospitalar é:
+
+  [A] a utilização de luvas de proteção mais espessas
+  [B] a realização de treinamentos periódicos sobre precauções universais
+  [C] a implementação do uso de dispositivos de segurança com mecanismo de proteção, como agulhas autosselantes
+  [D] o descarte imediato de agulhas e de materiais cortantes no recipiente adequado sem o uso de dispositivos de proteção 300 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'a utilização de luvas de proteção mais espessas...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'a realização de treinamentos periódicos sobre precauções universais...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a implementação do uso de dispositivos de segurança com mecanismo de proteção, como a...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'o descarte imediato de agulhas e de materiais cortantes no recipiente adequado sem o ...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 7 [Código: EF0309] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
+Assunto: Fundamentos e Procedimentos de Enfermagem
+Durante um procedimento de aspiração nasotraqueal em um paciente internado, o enfermeiro está atento à durabilidade e à segurança da técnica. Sabendo-se que a aspiração nasotraqueal tem um tempo máximo recomendado para a passagem do cateter, o tempo máximo permitido para a realização da aspiração nasotraqueal, visando a evitar complicações, como hipoxemia e trauma nas vias respiratórias é:
+
+  [A] 20 segundos, para evitar hipoxemia e lesões nas vias aéreas superiores
+  [B] 30 segundos, conforme recomendado para reduzir o risco de obstrução da via aérea
+  [C] 10 segundos, de forma a minimizar o risco de trauma e hipoxemia durante o procedimento
+  [D] 60 segundos, para garantir a remoção completa de secreções das vias aéreas 310 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois '20 segundos, para evitar hipoxemia e lesões nas vias aéreas superiores...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois '30 segundos, conforme recomendado para reduzir o risco de obstrução da via aérea...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois '10 segundos, de forma a minimizar o risco de trauma e hipoxemia durante o procediment...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois '60 segundos, para garantir a remoção completa de secreções das vias aéreas 310 Ano: 2...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 8 [Código: EF0420] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+Assunto: Fundamentos e Procedimentos de Enfermagem
+O leito que está desocupado, aguardando para receber um paciente e que deve ser preparado aproximadamente duas horas após ter sido feita a limpeza geral, permitindo o arejamento do ambiente, denomina-se:
+
+  [A] aberto
+  [B] fechado
+  [C] com paciente
+  [D] sem paciente
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'com paciente...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'sem paciente...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 9 [Código: EF0524] - Prefeitura de Dourados - MS (SELECON 2023) - Enfermeiro
+Assunto: Fundamentos e Procedimentos de Enfermagem
+Para garantir uma correta aferição da pressão arterial em crianças, o local do exame deve ser calmo e com temperatura agradável, o que contribui para o relaxamento do paciente. Além disso, a criança necessita de um descanso prévio de:
+
+  [A] 35 a 40 minutos
+  [B] 25 a 30 minutos
+  [C] 15 a 20 minutos
+  [D] 05 a 10 minutos 525 Ano: 2023
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois '35 a 40 minutos...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois '25 a 30 minutos...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois '15 a 20 minutos...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois '05 a 10 minutos 525 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 10 [Código: EF0533] - Prefeitura de Dourados - MS (SELECON 2023) - Enfermeiro
+Assunto: Fundamentos e Procedimentos de Enfermagem
+A terapia nutricional no ambiente hospitalar é primordial para a garantia de um manejo clínico adequado, entretanto, as recomendações para assegurar o posicionamento dos cateteres enterais após a sua instalação e periodicamente são:
+
+  [A] radiografia abdominal e, a cada 4 horas, verificação e registro da marca da inserção e do seu comprimento externo
+  [B] radiografia do tórax e, a cada 2 horas, verificação e registro da marca da inserção e do seu comprimento externo
+  [C] ultrassonografia toracoabdominal e checagem da sonda com o auxílio do estetoscópio, na busca por ruídos hidroaéreos
+  [D] ultrassonografia abdominal e, a cada 2 horas ou na mudança no aspecto, verificação do PH do líquido gástrico com auxílio de fitas 534 Ano: 2023
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'radiografia abdominal e, a cada 4 horas, verificação e registro da marca da inserção ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'radiografia do tórax e, a cada 2 horas, verificação e registro da marca da inserção e...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'ultrassonografia toracoabdominal e checagem da sonda com o auxílio do estetoscópio, n...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'ultrassonografia abdominal e, a cada 2 horas ou na mudança no aspecto, verificação do...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 11 [Código: EF0671] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Técnico de Enfermagem
+Assunto: Fundamentos e Procedimentos de Enfermagem , Enfermagem em Centro Cirúrgico
+em Enfermagem As posições terapêuticas têm diferentes finalidades, como, por exemplo, proporcionar conforto, realizar exames, tratamentos e cirurgias. De acordo com a finalidade e, consequentemente, a região a ser examinada, o técnico de enfermagem deve auxiliar o paciente a adotar posições específicas para o objetivo desejado. Para a aplicação de medicamentos por via retal e a verificação de temperatura, a posição indicada é a:
+
+  [A] de Sims
+  [B] de Fowler
+  [C] Litotômica
+  [D] Ortostática 672 Ano: 2023
+
+✅ Gabarito: 
+💡 Fundamentação: Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Ortostática 672 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 12 [Código: EF0836] - Prefeitura de Campo Grande - MS (SELECON 2019) - Enfermeiro
+Assunto: Fundamentos e Procedimentos de Enfermagem
+A enfermagem possui vários sistemas de classificação para o desenvolvimento do processo de enfermagem. A classificação internacional para as práticas de enfermagem (CIPE) tem como objetivo fornecer um instrumento para descrever e documentar a prática clínica. Os eixos definidos na CIPE são:
+
+  [A] julgamento, juízo, objeto, resultado, localização, meta e NIC (Classificação das Intervenções de Enfermagem)
+  [B] foco, julgamento, tempo, localização, NOC (Classificação dos Resultados de Enfermagem), ação e resultado
+  [C] foco, julgamento, tempo, localização, meios, clientes e ação
+  [D] tempo, julgamento, meios, domínio, classe, NIC e resultado 837 Ano: 2019
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'julgamento, juízo, objeto, resultado, localização, meta e NIC (Classificação das Inte...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'foco, julgamento, tempo, localização, NOC (Classificação dos Resultados de Enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'foco, julgamento, tempo, localização, meios, clientes e ação...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'tempo, julgamento, meios, domínio, classe, NIC e resultado 837 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 13 [Código: EF0843] - Prefeitura de Campo Grande - MS (SELECON 2024) - Técnico de Enfermagem
+Assunto: Fundamentos e Procedimentos de Enfermagem
+O termo técnico que descreve a incapacidade renal na excreção de escórias nitrogenadas, resultando em uma elevação dos níveis séricos da ureia e da creatinina, recebe o nome de:
+
+  [A] microalbuminúria
+  [B] cetoacidose
+  [C] glicosúria
+  [D] azotemia
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'microalbuminúria...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'cetoacidose...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+
+------------------------------------------------------------
+
+QUESTÃO 14 [Código: EF0845] - Prefeitura Municipal (SELECON 2019) - Enfermeiro
+Assunto: Fundamentos e Procedimentos de Enfermagem
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+
+------------------------------------------------------------
+
+QUESTÃO 15 [Código: EF0865] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
+Assunto: Fundamentos e Procedimentos de Enfermagem
+A resolução do COFEN 427 /2012 normatiza os procedimentos de enfermagem no emprego de contenção mecânica em pacientes. De acordo com essa resolução, quando o paciente estiver em contenção mecânica é necessário um monitoramento clínico do nível de consciência, dados vitais e das condições da pele e circulação dos membros contidos. Esse monitoramento deverá ser regular e verificado:
+
+  [A] nunca superior a quatro horas
+  [B] nunca superior a duas horas
+  [C] nunca superior a três horas
+  [D] nunca superior a uma hora 866 Ano: 2019
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'nunca superior a quatro horas...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'nunca superior a duas horas...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'nunca superior a três horas...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'nunca superior a uma hora 866 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 

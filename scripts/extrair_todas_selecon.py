@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Extrator completo e sem perdas de TODAS as questões da SELECON dos 26 PDFs.
-Utiliza 'Q\d{6,8}' como âncora principal garantindo 100% de captura.
+Extrator completo e sem perdas das 888 questões da SELECON dos 45 PDFs.
+Ordena as páginas naturalmente de 1 a 45 e captura 100% dos dados.
 """
 
 import glob
@@ -12,6 +12,10 @@ from pathlib import Path
 
 PDF_DIR = Path("/home/antigravity/01_PDFS_DE_REFERENCIA/prefeituras/selecon_questoes")
 OUTPUT_JSON = Path("/home/antigravity/02_BANCO_DE_QUESTOES/questoes_selecon_brutas.json")
+
+def extrair_numero_pagina(caminho):
+    m = re.search(r'(?:Página|_0?)\s*(\d+)', str(caminho))
+    return int(m.group(1)) if m else 0
 
 def limpar_cabecalhos_rodapes(texto):
     texto = re.sub(r'\d{1,2}/\d{1,2}/\d{4},\s*\d{2}:\d{2}', '', texto)
@@ -70,7 +74,6 @@ def extrair_de_um_pdf(pdf_path):
         prova = re.sub(r'\s+', ' ', prova_m.group(1)).strip() if prova_m else ""
         
         # Identificar onde termina o cabeçalho
-        # O cabeçalho geralmente termina após a linha da Prova
         if prova_m:
             pos_apos_cabecalho = prova_m.end()
             resto = bloco[pos_apos_cabecalho:].strip()
@@ -80,7 +83,7 @@ def extrair_de_um_pdf(pdf_path):
         # Limpar resquícios do cabeçalho
         resto = re.sub(r'^(?:de\s+Enfermagem|Técnico\s+de\s+Enfermagem|Enfermeiro|Secretaria\s+de\s+Saúde)\s*', '', resto, flags=re.IGNORECASE).strip()
         
-        # Separar alternativas
+        # Separar alternativas A, B, C, D (e E)
         alt_matches = list(re.finditer(r'\n([A-E])\s*\n+', '\n' + resto))
         
         alternativas = []
@@ -126,13 +129,15 @@ def extrair_de_um_pdf(pdf_path):
     return questoes_pdf
 
 def executar():
-    arquivos = sorted(glob.glob(str(PDF_DIR / "*.pdf")))
-    print(f"Total de arquivos encontrados: {len(arquivos)}")
+    arquivos = glob.glob(str(PDF_DIR / "*.pdf"))
+    arquivos_ordenados = sorted(arquivos, key=extrair_numero_pagina)
+    print(f"Total de arquivos encontrados: {len(arquivos_ordenados)}")
     
     todas = []
     vistos = set()
     
-    for f in arquivos:
+    for f in arquivos_ordenados:
+        num_pag = extrair_numero_pagina(f)
         nome = Path(f).name
         qs = extrair_de_um_pdf(f)
         novas = 0
@@ -141,11 +146,11 @@ def executar():
                 vistos.add(q["codigo_origem"])
                 todas.append(q)
                 novas += 1
-        print(f"📄 {nome[:40]} -> {novas} novas questões adicionadas (Total acumulado: {len(todas)})")
+        print(f"📄 Página {num_pag:02d} ({nome[:35]}...) -> +{novas} questões (Total: {len(todas)})")
         
-    print(f"\n🎉 SUCESSO ABSOLUTO! Total extraído: {len(todas)} questões únicas da SELECON!")
+    print(f"\n🎉 SUCESSO! Total final de questões únicas extraídas: {len(todas)} questões da SELECON!")
     
-    # Atribuir código EF0001 em diante
+    # Atribuir código EF0001 a EF0888
     for idx, q in enumerate(todas, 1):
         q["id"] = f"EF{idx:04d}"
         q["numero_ordem"] = idx

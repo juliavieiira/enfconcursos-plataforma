@@ -30,26 +30,78 @@
     "resposta_correta": "",
     "id": "EF0072",
     "numero_ordem": 72,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'falta ou dificuldade de ação da insulina impede a utilização adequada da glicose pelas cél...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'falta ou dificuldade de ação da insulina impede a utilização adequada da glicose pela...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'diabetes ocorre quando o organismo deixa de produzir glucagon, hormônio responsável por re...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'diabetes ocorre quando o organismo deixa de produzir glucagon, hormônio responsável p...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'hiperglicemia no diabetes resulta exclusivamente do consumo excessivo de açúcar ...'."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'elevação da glicose sanguínea independe da ação hormonal e ocorre apenas por alterações re...'."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'elevação da glicose sanguínea independe da ação hormonal e ocorre apenas por alt...'."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
+  },
+  {
+    "codigo_origem": "Q3884082",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Diabetes Mellitus , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "MT - Enfermeiro O diabetes mellitus tipo 2 é uma doença metabólica crônica caracterizada por resistência à insulina e deficiência relativa na sua secreção. Em relação ao seu diagnóstico laboratorial, um critério atualmente válido, segundo a Sociedade Brasileira de Diabetes, é a:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "glicemia de jejum ≥ 110 mg/dL em uma única dosagem"
+      },
+      {
+        "id": "B",
+        "texto": "hemoglobina glicada (HbA1c) ≥ 6,0% em duas ocasiões distintas"
+      },
+      {
+        "id": "C",
+        "texto": "glicemia casual (a qualquer hora do dia) ≥ 180 mg/dL associada a sintomas clássicos"
+      },
+      {
+        "id": "D",
+        "texto": "glicemia de jejum ≥ 126 mg/dL confirmada em repetição em outro dia"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0120",
+    "numero_ordem": 120,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'glicemia de jejum ≥ 110 mg/dL em uma única dosagem...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'hemoglobina glicada (HbA1c) ≥ 6,0% em duas ocasiões distintas...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'glicemia casual (a qualquer hora do dia) ≥ 180 mg/dL associada a sintomas clássicos...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'glicemia de jejum ≥ 126 mg/dL confirmada em repetição em outro dia...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   },
   {
     "codigo_origem": "Q3265168",
@@ -80,28 +132,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0177",
-    "numero_ordem": 177,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0257",
+    "numero_ordem": 257,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a monitorização da glicemia capilar deve ser realizada apenas uma vez ao dia, preferencial...'."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a monitorização da glicemia capilar deve ser realizada apenas uma vez ao dia, pr...'."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a orientação para o autocuidado inclui instruções sobre a administração correta de insulin...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a orientação para o autocuidado inclui instruções sobre a administração correta de in...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a administração de insulina pode ser realizada em qualquer local do corpo, desde que a rot...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a administração de insulina pode ser realizada em qualquer local do corpo, desde que ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a educação em saúde para pacientes diabéticos deve focar exclusivamente no contr...'."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   },
   {
     "codigo_origem": "Q3197487",
@@ -132,28 +184,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0218",
-    "numero_ordem": 218,
-    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
+    "id": "EF0298",
+    "numero_ordem": 298,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+        "motivo": "Abaixar a cabeceira logo após a dieta favorece a regurgitação gástrica com alto risco de broncoaspiração."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o enfermeiro deve centrar a orientação na importância da insulina como primeira linha de t...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'o enfermeiro deve centrar a orientação na importância da insulina como primeira linha...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o enfermeiro deve orientar que a diabetes mellitus tipo 2 é uma condição reversível com mo...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'o enfermeiro deve orientar que a diabetes mellitus tipo 2 é uma condição reversível c...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o enfermeiro deve enfatizar a importância da adesão ao tratamento medicamentoso prescrito,...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'o enfermeiro deve enfatizar a importância da adesão ao tratamento medicamentoso presc...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   },
   {
     "codigo_origem": "Q2528685",
@@ -188,83 +240,257 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0263",
-    "numero_ordem": 263,
-    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "id": "EF0343",
+    "numero_ordem": 343,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'hipoglicemia...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'hipoglicemia...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'coma diabético...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'coma diabético...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'coma hipoglicêmico...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'coma hipoglicêmico...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'cetoacidose diabética...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'cetoacidose diabética...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "E",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'descompensação diabética...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'descompensação diabética...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   },
   {
-    "codigo_origem": "Q3884082",
+    "codigo_origem": "Q1956086",
     "banca": "SELECON",
-    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
-    "ano": 2024,
-    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
-    "cargo": "Enfermeiro",
+    "orgao": "Prefeitura de Pontes e Lacerda - MT",
+    "ano": 2022,
+    "prova": "SELECON - 2022 - Prefeitura de Pontes e Lacerda - MT -",
+    "cargo": "Técnico de Enfermagem",
     "materia": "Enfermagem",
-    "assunto": "Diabetes Mellitus , Doenças Crônicas Não Transmissíveis",
-    "enunciado": "MT - Enfermeiro O diabetes mellitus tipo 2 é uma doença metabólica crônica caracterizada por resistência à insulina e deficiência relativa na sua secreção. Em relação ao seu diagnóstico laboratorial, um critério atualmente válido, segundo a Sociedade Brasileira de Diabetes, é a:",
+    "assunto": "Diabetes Mellitus , Farmacologia na Enfermagem , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "Técnico em Enfermagem Segundo o Ministério da Saúde (2010), o pico de ação da insulina regular após a administração é de:",
     "alternativas": [
       {
         "id": "A",
-        "texto": "glicemia de jejum ≥ 110 mg/dL em uma única dosagem"
+        "texto": "30 minutos a 60 minutos"
       },
       {
         "id": "B",
-        "texto": "hemoglobina glicada (HbA1c) ≥ 6,0% em duas ocasiões distintas"
+        "texto": "12 horas a 18 horas"
       },
       {
         "id": "C",
-        "texto": "glicemia casual (a qualquer hora do dia) ≥ 180 mg/dL associada a sintomas clássicos"
+        "texto": "2 horas a 3 horas"
       },
       {
         "id": "D",
-        "texto": "glicemia de jejum ≥ 126 mg/dL confirmada em repetição em outro dia"
+        "texto": "4 horas a 10 horas 697 Enfermagem > HIV/AIDS , Tuberculose , Hanseníase Doenças Infecciosas e parasitárias , Outras Doenças Infecciosas e Parasitárias Banca: SELECON Órgão: Prefeitura de Pontes e Lacerda - MT Prova: SELECON - 2022 - Prefeitura de Pontes e Lacerda - MT -"
       }
     ],
     "resposta_correta": "",
-    "id": "EF0460",
-    "numero_ordem": 460,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0696",
+    "numero_ordem": 696,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'glicemia de jejum ≥ 110 mg/dL em uma única dosagem...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '30 minutos a 60 minutos...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'hemoglobina glicada (HbA1c) ≥ 6,0% em duas ocasiões distintas...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '12 horas a 18 horas...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'glicemia casual (a qualquer hora do dia) ≥ 180 mg/dL associada a sintomas clássicos...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '2 horas a 3 horas...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'glicemia de jejum ≥ 126 mg/dL confirmada em repetição em outro dia...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '4 horas a 10 horas 697 Enfermagem > HIV/AIDS , Tuberculose , Hanseníase Doenças Infec...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
+  },
+  {
+    "codigo_origem": "Q1953170",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Pontes e Lacerda - MT",
+    "ano": 2022,
+    "prova": "SELECON - 2022 - Prefeitura de Pontes e Lacerda - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Diabetes Mellitus , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "DiabetesMellitus (DM)éumasíndromemetabólicadeorigem múltipla, decorrente da falta de insulina e/ou da incapacidade de a insulina exercer adequadamente seus efeitos no organismo. Assinale a opção em que se apresenta o tipo de diabetes que acomete cerca de 5 a 10% dos pacientes, decorrente de um defeito do sistema imunológico, cujos anticorpos atacam as células que produzem insulina no pâncreas:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Tipo"
+      },
+      {
+        "id": "B",
+        "texto": "Tipo"
+      },
+      {
+        "id": "C",
+        "texto": "LADA"
+      },
+      {
+        "id": "D",
+        "texto": "Insipidus"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0717",
+    "numero_ordem": 717,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      }
+    ],
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
+  },
+  {
+    "codigo_origem": "Q1313708",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2020,
+    "prova": "SELECON - 2020 - Prefeitura de Boa Vista - RR - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Diabetes Mellitus , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "Intensivista Pediátrico A cetoacidose diabética (CAD) é uma complicação causada pela deficiência de insulina por insuficiência das células pancreáticas, associada aos mecanismos contrarreguladores, como estresse, sepse e hormônios. São manifestações clínicas desse quadro:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "hálito cetônico, respiração de Kussmaul, náusea, vômito e dor abdominal"
+      },
+      {
+        "id": "B",
+        "texto": "poliúria, respiração de Biot, náusea, tonteira, palpitações e disfagia"
+      },
+      {
+        "id": "C",
+        "texto": "polidpsia, respiração atáxica, náusea, prurido, cefaleia e exantema"
+      },
+      {
+        "id": "D",
+        "texto": "polifagia, náusea, poliúrua, febre, calafrios e edema severo. 792 Ano: 2020"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0791",
+    "numero_ordem": 791,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'hálito cetônico, respiração de Kussmaul, náusea, vômito e dor abdominal...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'poliúria, respiração de Biot, náusea, tonteira, palpitações e disfagia...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'polidpsia, respiração atáxica, náusea, prurido, cefaleia e exantema...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'polifagia, náusea, poliúrua, febre, calafrios e edema severo. 792 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
+  },
+  {
+    "codigo_origem": "Q2698335",
+    "banca": "SELECON",
+    "orgao": "Prefeitura Municipal",
+    "ano": 2019,
+    "prova": "",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Diabetes Mellitus , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "",
+    "alternativas": [],
+    "resposta_correta": "",
+    "id": "EF0848",
+    "numero_ordem": 848,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "analise_distratores": [],
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
+  },
+  {
+    "codigo_origem": "Q1242249",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2019,
+    "prova": "SELECON - 2019 - Prefeitura de Boa Vista - RR - Assistente",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Diabetes Mellitus , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "Técnico - Grupo Especial - Técnico de Enfermagem O tipo de Diabetes mellitus em que ocorre a destruição das células beta pancreáticas, que acomete as crianças e jovens sem excesso de peso, de início abrupto, com rápida evolução para cetoacidose é conhecido como:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "tipo"
+      },
+      {
+        "id": "B",
+        "texto": "tipo"
+      },
+      {
+        "id": "C",
+        "texto": "tipo"
+      },
+      {
+        "id": "D",
+        "texto": "tipo 4 880 Ano: 2019"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0879",
+    "numero_ordem": 879,
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'tipo 4 880 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A altern..."
   }
 ]

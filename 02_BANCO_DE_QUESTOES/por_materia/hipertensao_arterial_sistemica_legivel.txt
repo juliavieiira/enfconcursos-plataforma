@@ -1,7 +1,45 @@
 === CADERNO DE QUESTÕES: HIPERTENSÃO ARTERIAL SISTÊMICA ===
-Total: 6 questões
+Total: 8 questões
 
-QUESTÃO 1 [Código: EF0258] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 1 [Código: EF0123] - Prefeitura de Porto dos Gaúchos - MT (SELECON 2026) - Enfermeiro
+Assunto: Hipertensão Arterial Sistêmica , Doenças Crônicas Não Transmissíveis
+MT - Enfermeiro No manejo do paciente hipertenso na Atenção Básica, a consulta de enfermagem deve incluir ações específicas de educação em saúde. Uma orientação fundamental que o enfermeiro deve fornecer, alinhada ao estímulo de hábitos de vida saudáveis, é:
+
+  [A] recomendar o uso contínuo de anti-infl amatórios não esteroidais para dores articulares
+  [B] orientar sobre a importância da restrição severa de líquidos para menos de 500ml/dia para controle da pressão arterial
+  [C] incentivar a redução do consumo de sódio, evidenciando os alimentos industrializados como principais fontes
+  [D] prescrever um plano de exercícios físicos de alta intensidade, independentemente da avaliação de risco cardiovascular 124 Ano: 2026
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'recomendar o uso contínuo de anti-infl amatórios não esteroidais para dores articular...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'orientar sobre a importância da restrição severa de líquidos para menos de 500ml/dia ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'incentivar a redução do consumo de sódio, evidenciando os alimentos industrializados ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'prescrever um plano de exercícios físicos de alta intensidade, independentemente da a...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 2 [Código: EF0129] - Prefeitura de Porto dos Gaúchos - MT (SELECON 2026) - Enfermeiro
+Assunto: Hipertensão Arterial Sistêmica , Doenças Crônicas Não Transmissíveis
+MT - Enfermeiro A hipertensão arterial sistêmica (HAS) é um dos principais fatores de risco modificáveis para doenças cardiovasculares e sua classificação é baseada em valores de pressão arterial. Segundo as Diretrizes Brasileiras de Hipertensão Arterial, a classificação "Hipertensão Estágio 1" é definida quando os valores pressóricos, medidos em consultório, são pressão sistólica:
+
+  [A] entre 130-139 mmHg e/ou diastólica entre 85-89 mmHg
+  [B] entre 120-129 mmHg e diastólica < 80 mmHg
+  [C] ≥ 180 mmHg e/ou diastólica ≥ 110 mmHg
+  [D] entre 140-159 mmHg e/ou diastólica entre 90-99 mmHg 130 Ano: 2026
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'entre 130-139 mmHg e/ou diastólica entre 85-89 mmHg...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'entre 120-129 mmHg e diastólica < 80 mmHg...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois '≥ 180 mmHg e/ou diastólica ≥ 110 mmHg...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'entre 140-159 mmHg e/ou diastólica entre 90-99 mmHg 130 Ano: 2026...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 3 [Código: EF0338] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
 Assunto: Hipertensão Arterial Sistêmica , Doenças Crônicas Não Transmissíveis
 Para a confirmação de um caso de hipertensão, faz-se necessário realizar três verificações consecutivas, em dias alternados. Os valores das pressões sistólica e diastólica determinam a gravidade da doença. A hipertensão arterial moderada encontrase em:
 
@@ -12,17 +50,17 @@ Para a confirmação de um caso de hipertensão, faz-se necessário realizar tr�
   [E] 200 x 130 mmHg 339 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '120 x 80 mmHg...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '130 x 90 mmHg...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '160 x 100 mmHg...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '180 x 120 mmHg...'.
-   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '200 x 130 mmHg 339 Ano: 2024...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois '120 x 80 mmHg...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois '130 x 90 mmHg...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois '160 x 100 mmHg...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois '180 x 120 mmHg...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa E: Incorreta perante os protocolos técnicos, pois '200 x 130 mmHg 339 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 2 [Código: EF0388] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 4 [Código: EF0468] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
 Assunto: Hipertensão Arterial Sistêmica , Doenças Crônicas Não Transmissíveis
 Administrativo - Saúde/40h Um paciente de 55 anos, com histórico familiar de HAS e tabagismo, é avaliado e encaminhado a um enfermeiro na unidade de Estratégia Saúde da Família. Ao realizar a anamnese durante a consulta de enfermagem, o profissional identifica que o paciente apresenta pressão arterial elevada em todas as medições, com valores consistentemente acima de 140/90 mmHg. O exame físico não revela alterações significativas, e o paciente nega outros sintomas além de cefaleia ocasional. Diante do quadro clínico, a classificação da HAS do paciente e o manejo mais adequado para o controle da pressão arterial são, respectivamente:
 
@@ -32,16 +70,16 @@ Administrativo - Saúde/40h Um paciente de 55 anos, com histórico familiar de H
   [D] HAS grau 1 com comorbidades, com monoterapia medicamentosa 469 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'HAS grau 2 com comorbidades, com terapia medicamentosa combinada...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'HAS grau 1 sem comorbidades, com monoterapia medicamentosa...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'HAS grau 2 sem comorbidades, com monoterapia medicamentosa...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'HAS grau 1 com comorbidades, com monoterapia medicamentosa 469 Ano: 2024...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'HAS grau 2 com comorbidades, com terapia medicamentosa combinada...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'HAS grau 1 sem comorbidades, com monoterapia medicamentosa...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'HAS grau 2 sem comorbidades, com monoterapia medicamentosa...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'HAS grau 1 com comorbidades, com monoterapia medicamentosa 469 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 3 [Código: EF0397] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 5 [Código: EF0477] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Hipertensão Arterial Sistêmica , Doenças Crônicas Não Transmissíveis
 Enfermagem A Hipertensão Arterial Sistêmica (HAS) é um problema grave de saúde pública no Brasil e no mundo. Ela é um dos mais importantes fatores de risco para o desenvolvimento de outras doenças graves, tais como:
 
@@ -51,16 +89,16 @@ Enfermagem A Hipertensão Arterial Sistêmica (HAS) é um problema grave de saú
   [D] obesidade
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'insuficiência respiratória...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'doença renal crônica...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'distúrbios mentais...'.
-   • Alternativa D: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'insuficiência respiratória...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'doença renal crônica...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'distúrbios mentais...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
 
 ------------------------------------------------------------
 
-QUESTÃO 4 [Código: EF0411] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 6 [Código: EF0491] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Hipertensão Arterial Sistêmica , Doenças Crônicas Não Transmissíveis
 Enfermagem A Hipertensão Arterial Sistêmica é a mais frequente das doenças cardiovasculares. É também o principal fator de risco para as complicações mais comuns, como acidente vascular cerebral e infarto agudo do miocárdio, além da doença renal crônica terminal. O método que permite o registro indireto e intermitente da pressão arterial durante 24 horas denomina-se:
 
@@ -70,50 +108,50 @@ Enfermagem A Hipertensão Arterial Sistêmica é a mais frequente das doenças c
   [D] Monitorização da Pressão Arterial em Situações do Cotidiano
 
 ✅ Gabarito: 
-💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Avaliação Ambulatorial da Pressão Arterial...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Monitorização Ambulatorial da Pressão Arterial...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Avaliação da Pressão Arterial em Situações do Cotidiano...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Monitorização da Pressão Arterial em Situações do Cotidiano...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'Avaliação Ambulatorial da Pressão Arterial...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'Monitorização Ambulatorial da Pressão Arterial...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Avaliação da Pressão Arterial em Situações do Cotidiano...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Monitorização da Pressão Arterial em Situações do Cotidiano...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 5 [Código: EF0463] - Prefeitura de Porto dos Gaúchos - MT (SELECON 2026) - Enfermeiro
-Assunto: Hipertensão Arterial Sistêmica , Doenças Crônicas Não Transmissíveis
-MT - Enfermeiro No manejo do paciente hipertenso na Atenção Básica, a consulta de enfermagem deve incluir ações específicas de educação em saúde. Uma orientação fundamental que o enfermeiro deve fornecer, alinhada ao estímulo de hábitos de vida saudáveis, é:
+QUESTÃO 7 [Código: EF0718] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Enfermeiro
+Assunto: Hipertensão Arterial Sistêmica , Farmacologia na Enfermagem , Doenças Crônicas Não Transmissíveis
+Os inibidores da enzima conversora de angiotensina (IECA) são medicamentos amplamente utilizados no tratamento da hipertensão arterial sistêmica. São efeitos colaterais:
 
-  [A] recomendar o uso contínuo de anti-infl amatórios não esteroidais para dores articulares
-  [B] orientar sobre a importância da restrição severa de líquidos para menos de 500ml/dia para controle da pressão arterial
-  [C] incentivar a redução do consumo de sódio, evidenciando os alimentos industrializados como principais fontes
-  [D] prescrever um plano de exercícios físicos de alta intensidade, independentemente da avaliação de risco cardiovascular 124 Ano: 2026
+  [A] tosse produtiva, euforia e angioedema generalizado
+  [B] agioedema, modificação do paladar e hipercalemia
+  [C] palpitações, hipocalemia e confusão mental
+  [D] tontura, sede e euforia 719 Ano: 2022
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'recomendar o uso contínuo de anti-infl amatórios não esteroidais para dores articulares...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'orientar sobre a importância da restrição severa de líquidos para menos de 500ml/dia para ...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'incentivar a redução do consumo de sódio, evidenciando os alimentos industrializados como ...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'prescrever um plano de exercícios físicos de alta intensidade, independentemente da avalia...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'tosse produtiva, euforia e angioedema generalizado...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'agioedema, modificação do paladar e hipercalemia...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'palpitações, hipocalemia e confusão mental...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'tontura, sede e euforia 719 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 6 [Código: EF0469] - Prefeitura de Porto dos Gaúchos - MT (SELECON 2026) - Enfermeiro
+QUESTÃO 8 [Código: EF0773] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
 Assunto: Hipertensão Arterial Sistêmica , Doenças Crônicas Não Transmissíveis
-MT - Enfermeiro A hipertensão arterial sistêmica (HAS) é um dos principais fatores de risco modificáveis para doenças cardiovasculares e sua classificação é baseada em valores de pressão arterial. Segundo as Diretrizes Brasileiras de Hipertensão Arterial, a classificação "Hipertensão Estágio 1" é definida quando os valores pressóricos, medidos em consultório, são pressão sistólica:
+ESF O cuidado ao indivíduo portador hipertensão arterial sistêmica (HAS) é realizado no âmbito da baixa, média e alta complexidade do SUS. São fatores de risco não modificáveis para HAS:
 
-  [A] entre 130-139 mmHg e/ou diastólica entre 85-89 mmHg
-  [B] entre 120-129 mmHg e diastólica < 80 mmHg
-  [C] ≥ 180 mmHg e/ou diastólica ≥ 110 mmHg
-  [D] entre 140-159 mmHg e/ou diastólica entre 90-99 mmHg 130 Ano: 2026
+  [A] dade, sexo e etnia
+  [B] sedentarismo, sexo e fatores socioeconômicos
+  [C] ingestão de sal, ingestão de álcool e obesidade
+  [D] e x c e s s o d e p e s o , e t n i a e f a t o r e s socioeconômicos 774 Ano: 2020
 
 ✅ Gabarito: 
-💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'entre 130-139 mmHg e/ou diastólica entre 85-89 mmHg...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'entre 120-129 mmHg e diastólica < 80 mmHg...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '≥ 180 mmHg e/ou diastólica ≥ 110 mmHg...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'entre 140-159 mmHg e/ou diastólica entre 90-99 mmHg 130 Ano: 2026...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'dade, sexo e etnia...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'sedentarismo, sexo e fatores socioeconômicos...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'ingestão de sal, ingestão de álcool e obesidade...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'e x c e s s o d e p e s o , e t n i a e f a t o r e s socioeconômicos 774 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 

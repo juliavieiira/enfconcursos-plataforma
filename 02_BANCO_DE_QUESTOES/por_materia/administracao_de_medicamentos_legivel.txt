@@ -1,5 +1,5 @@
 === CADERNO DE QUESTÕES: ADMINISTRAÇÃO DE MEDICAMENTOS ===
-Total: 28 questões
+Total: 33 questões
 
 QUESTÃO 1 [Código: EF0007] - Prefeitura de Nova Mutum - MT (SELECON 2026) - Técnico de Enfermagem
 Assunto: Administração de medicamentos , Cálculo de Solução e Medicamentos
@@ -11,11 +11,11 @@ Uma prescrição determina a administração intravenosa de 600 mg de um medicam
   [D] 4 mL e 50 gotas/minuto
 
 ✅ Gabarito: C
-💡 Fundamentação: Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [C] representa a prescrição e técnica exata: '3 mL e 50 gotas/minuto'.
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [C] ('3 mL e 50 gotas/minuto') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '2 mL e 40 gotas/minuto...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '3 mL e 40 gotas/minuto...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '4 mL e 50 gotas/minuto...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois '2 mL e 40 gotas/minuto...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois '3 mL e 40 gotas/minuto...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois '4 mL e 50 gotas/minuto...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
@@ -29,11 +29,11 @@ Ao conferir uma prescrição medicamentosa, o técnico de enfermagem identifica 
   [D] comunicação formal de uma possível inconsistência à equipe de Enfermagem, que depende da confirmação prévia do prescritor, mesmo quando a divergência é identificada antes da administração do medicamento
 
 ✅ Gabarito: C
-💡 Fundamentação: De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [C] ('responsabilidade de prevenir danos ao paciente, que exige reconhecer situações que comprometam a segurança da assistência e buscar esclarecimentos antes da administração') assegura a integridade tecidual e a continuidade segura da terapêutica.
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [C] ('responsabilidade de prevenir danos ao paciente, que exige reconhecer situações que comprometam a segurança da assistência e buscar esclarecimentos antes da administração') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'comunicação da divergência, que transfere ao enfermeiro a responsabilidade pela administra...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'identificação da inconsistência, que permite modificar a dose prescrita, desde que a alter...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'comunicação formal de uma possível inconsistência à equipe de Enfermagem, que depende da c...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'comunicação da divergência, que transfere ao enfermeiro a responsabilidade pela admin...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'identificação da inconsistência, que permite modificar a dose prescrita, desde que a ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'comunicação formal de uma possível inconsistência à equipe de Enfermagem, que depende...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
@@ -47,12 +47,12 @@ Enfermagem A sífilis é uma infecção sexualmente transmissível causada pela 
   [D] doxiciclina 100 mg, duas vezes ao dia, por 14 dias, como tratamento de primeira linha para todos os estágios da sífilis
 
 ✅ Gabarito: 
-💡 Fundamentação: Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'penicilina G benzatina 2.400.000 UI, administrada em dose única intramuscular, dividida em...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'azitromicina 1g em dose única oral para pacientes alérgicos à penicilina, com eficácia equ...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'penicilina G procaína 600.000 UI por via intramuscular, diariamente, por 10 dias consecuti...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'doxiciclina 100 mg, duas vezes ao dia, por 14 dias, como tratamento de primeira linha para...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'penicilina G benzatina 2.400.000 UI, administrada em dose única intramuscular, dividi...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'azitromicina 1g em dose única oral para pacientes alérgicos à penicilina, com eficáci...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'penicilina G procaína 600.000 UI por via intramuscular, diariamente, por 10 dias cons...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'doxiciclina 100 mg, duas vezes ao dia, por 14 dias, como tratamento de primeira linha...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
@@ -66,12 +66,12 @@ Enfermagem A venoclise periférica é um procedimento invasivo que requer técni
   [D] priorizar a veia cefálica do antebraço, utilizando cateter 24 G para reduzir o trauma, e fixar com fita adesiva micropore sem cobrir o local de inserção
 
 ✅ Gabarito: 
-💡 Fundamentação: De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'escolher veia de maior calibre no antebraço ou na fossa antecubital, utilizar cateter 20 G...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar veia jugular externa como acesso periférico para soluções irritantes, pois a cali...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'selecionar veia do dorso da mão por ser de fácil acesso, utilizar cateter 22 G e estabiliz...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'priorizar a veia cefálica do antebraço, utilizando cateter 24 G para reduzir o trauma, e f...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'escolher veia de maior calibre no antebraço ou na fossa antecubital, utilizar cateter...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'utilizar veia jugular externa como acesso periférico para soluções irritantes, pois a...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'selecionar veia do dorso da mão por ser de fácil acesso, utilizar cateter 22 G e esta...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'priorizar a veia cefálica do antebraço, utilizando cateter 24 G para reduzir o trauma...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
@@ -85,12 +85,12 @@ Técnico em Enfermagem - SMS A administração concomitante de medicamentos por 
   [D] interação farmacocinética por alteração da distribuição
 
 ✅ Gabarito: 
-💡 Fundamentação: Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'sinergismo farmacológico...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'antagonismo farmacológico...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'incompatibilidade medicamentosa...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'interação farmacocinética por alteração da distribuição...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'sinergismo farmacológico...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'antagonismo farmacológico...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'incompatibilidade medicamentosa...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'interação farmacocinética por alteração da distribuição...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
@@ -104,12 +104,12 @@ Técnico em Enfermagem - SMS No início do turno, o técnico de enfermagem confe
   [D] mantida no horário prescrito, com registro posterior da via utilizada no procedimento 58 Enfermagem > Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Diagnósticos de Enfermagem - NIC-NOC/CIPE/NANDA Banca: SELECON Órgão: Prefeitura de Barra do Garças - MT Prova: SELECON - 2026 - Prefeitura de Barra do Garças - MT -
 
 ✅ Gabarito: 
-💡 Fundamentação: De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'adiada até o esclarecimento da informação...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizada pela via relatada como habitual pelo paciente...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'executada pela mesma via utilizada na administração anterior...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'mantida no horário prescrito, com registro posterior da via utilizada no procedimento 58 E...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'adiada até o esclarecimento da informação...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'realizada pela via relatada como habitual pelo paciente...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'executada pela mesma via utilizada na administração anterior...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'mantida no horário prescrito, com registro posterior da via utilizada no procedimento...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
@@ -123,16 +123,92 @@ Durante o plantão em uma unidade de internação clínica, o técnico de enferm
   [D] apresentou falha relacionada ao processo de supervisão do cuidado, uma vez que a orientação e o acompanhamento do enfermeiro responsável pelo setor não foram suficientes para prevenir o evento ocorrido 85 Enfermagem > Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Gestão de Processos e Equipes de Trabalho , Administração em Enfermagem Banca: SELECON Órgão: EMGEPRON Prova: SELECON - 2026 - EMGEPRON - Técnico em Enfermagem
 
 ✅ Gabarito: 
-💡 Fundamentação: De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'atendeu integralmente às boas práticas do cuidado, pois cumpriu com todos os critérios ess...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizou a administração de forma correta, priorizando a rotina assistencial da unidade, l...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'atendeu parcialmente às recomendações de segurança, por não contemplar todos os critérios ...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'apresentou falha relacionada ao processo de supervisão do cuidado, uma vez que a orientaçã...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'atendeu integralmente às boas práticas do cuidado, pois cumpriu com todos os critério...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'realizou a administração de forma correta, priorizando a rotina assistencial da unida...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'atendeu parcialmente às recomendações de segurança, por não contemplar todos os crité...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'apresentou falha relacionada ao processo de supervisão do cuidado, uma vez que a orie...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 8 [Código: EF0105] - Prefeitura de Marcelândia - MT (SELECON 2025) - Enfermeiro
+QUESTÃO 8 [Código: EF0116] - Prefeitura de Porto dos Gaúchos - MT (SELECON 2026) - Técnico de Enfermagem
+Assunto: Administração de medicamentos
+MT - Técnico em Enfermagem Na prática da administração de medicamentos, a escolha da via de administração deve considerar características como vascularização do local, volume a ser administrado e velocidade de absorção. Nesse contexto, a via intramuscular é indicada, principalmente, quando se deseja:
+
+  [A] absorção lenta e gradual, ideal para medicações mais espessas
+  [B] início de ação imediato, comparável ao obtido pela via endovenosa
+  [C] absorção mais rápida que a via subcutânea, em razão da maior vascularização da área
+  [D] administração de grandes volumes, independentemente do risco de dor ou lesão tecidual devido à extensão 117 Ano: 2026
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'absorção lenta e gradual, ideal para medicações mais espessas...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'início de ação imediato, comparável ao obtido pela via endovenosa...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'absorção mais rápida que a via subcutânea, em razão da maior vascularização da área...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'administração de grandes volumes, independentemente do risco de dor ou lesão tecidual...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 9 [Código: EF0126] - Prefeitura de Porto dos Gaúchos - MT (SELECON 2026) - Enfermeiro
+Assunto: Administração de medicamentos , Cálculo de Solução e Medicamentos
+MT - Enfermeiro Um paciente pediátrico com peso de 12 kg deve receber uma medicação na dose de 15 mg/kg/dia, dividida em 3 doses iguais. A solução oral disponível tem concentração de 100 mg/5 mL. O volume, em mL, que deve ser administrado em cada uma das três doses é:
+
+  [A] 1,5 mL
+  [B] 9,0 mL
+  [C] 27,0 mL
+  [D] 3,0 mL 127 Ano: 2026
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois '3,0 mL 127 Ano: 2026...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 10 [Código: EF0134] - Prefeitura de Barra do Garças - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Administração de medicamentos , Cálculo de Solução e Medicamentos
+Técnico em Enfermagem Um paciente adulto em hipoglicemia grave necessita de Glicose 50% (G50%), mas o protocolo institucional determina que soluções hipertônicas devem ser diluídas antes da administração intravenosa, a fim de reduzir flebite e complicações metabólicas. O médico prescreve 20 mL de G50%, devendo a solução final ser preparada em concentração de 10%. A conduta do técnico de enfermagem para preparar essa diluição corretamente é:
+
+  [A] adicionar 30 mL de diluente aos 20 mL de G50%, reduzindo a concentração final para a concentração de 10%
+  [B] adicionar 80 mL de diluente aos 20 mL de G50%, obtendo um total de 100 mL em concentração de 10%
+  [C] misturar igualmente 20 mL de G50% e 20 mL de diluente, resultando em G25% adequada ao protocolo
+  [D] diluir G50% apenas com 10 mL de solução fisiológica, pois a diluição mínima já reduz risco de flebite 135 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'adicionar 30 mL de diluente aos 20 mL de G50%, reduzindo a concentração final para a ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'adicionar 80 mL de diluente aos 20 mL de G50%, obtendo um total de 100 mL em concentr...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'misturar igualmente 20 mL de G50% e 20 mL de diluente, resultando em G25% adequada ao...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'diluir G50% apenas com 10 mL de solução fisiológica, pois a diluição mínima já r...'.
+
+------------------------------------------------------------
+
+QUESTÃO 11 [Código: EF0147] - Prefeitura de Barra do Garças - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Administração de medicamentos
+Técnico em Enfermagem Durante a administração de um medicamento prescrito, o técnico de enfermagem deve seguir os princípios de segurança recomendados pelas diretrizes atuais sobre os “certos” da administração medicamentosa. Acerca dessas recomendações, observa-se que:
+
+  [A] o "paciente certo" pode ser confi rmado apenas pela identifi cação verbal, desde que ele esteja lúcido e orientado no momento da administração
+  [B] o "registro certo" refere-se apenas ao horário da administração, não incluindo lote, dose ou via utilizados, pois estes tratam-se de outros “certos”
+  [C] a “orientação certa” implica garantir que o paciente receba informações pertinentes sobre o medicamento, como finalidade, forma correta de uso e possíveis efeitos esperados, contribuindo para maior segurança e adesão
+  [D] a “resposta certa” diz respeito exclusivamente ao registro de reações adversas imediatas, não abrangendo a monitorização clínica posterior ou a avaliação de eficácia terapêutica, limitando-se apenas ao relato pontual de eventos observados no momento da administração 148 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+❌ Distratores:
+   • Alternativa A: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o "paciente certo" pode ser confi rmado apenas pela identifi cação verbal, desde...'.
+   • Alternativa B: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o "registro certo" refere-se apenas ao horário da administração, não incluindo l...'.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a “orientação certa” implica garantir que o paciente receba informações pertinentes s...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a “resposta certa” diz respeito exclusivamente ao registro de reações adversas i...'.
+
+------------------------------------------------------------
+
+QUESTÃO 12 [Código: EF0185] - Prefeitura de Marcelândia - MT (SELECON 2025) - Enfermeiro
 Assunto: Administração de medicamentos , Segurança do Paciente
 A segurança do paciente na administração de medicamentos é um pilar da prática de enfermagem, sendo guiada pelos "nove certos". A verificação do "certo horário" refere-se à importância de:
 
@@ -142,16 +218,16 @@ A segurança do paciente na administração de medicamentos é um pilar da prát
   [D] priorizar a administração de medicamentos orais antes dos injetáveis 186 Ano: 2025
 
 ✅ Gabarito: 
-💡 Fundamentação: De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administrar o medicamento no momento exato da prescrição, sem qualquer tolerância...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'respeitar os intervalos de tempo entre as doses para manter a concentração terapêutica do ...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administrar todos os medicamentos do paciente em um único horário para otimizar o tempo...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'priorizar a administração de medicamentos orais antes dos injetáveis 186 Ano: 2025...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'administrar o medicamento no momento exato da prescrição, sem qualquer tolerância...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'respeitar os intervalos de tempo entre as doses para manter a concentração terapêutic...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'administrar todos os medicamentos do paciente em um único horário para otimizar o tem...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'priorizar a administração de medicamentos orais antes dos injetáveis 186 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 9 [Código: EF0119] - Prefeitura de Nova Mutum - MT (SELECON 2025) - Enfermeiro
+QUESTÃO 13 [Código: EF0199] - Prefeitura de Nova Mutum - MT (SELECON 2025) - Enfermeiro
 Assunto: Administração de medicamentos , Farmacologia na Enfermagem
 Em uma emergência, a necessidade de uma ação medicamentosa rápida e completa é primordial. Para isso, o profissional de saúde escolhe uma via de administração que permite que o fármaco seja introduzido diretamente na corrente sanguínea, evitando as barreiras de absorção do trato gastrointestinal e o metabolismo de primeira passagem no fígado. Dessa forma, a totalidade da dose administrada fica imediatamente disponível para atuar nos tecidos-alvo. Essa característica confere à via de administração intravenosa uma propriedade farmacocinética fundamental, definida como:
 
@@ -161,16 +237,16 @@ Em uma emergência, a necessidade de uma ação medicamentosa rápida e completa
   [D] a principal via para efeitos locais e tópicos 200 Ano: 2025
 
 ✅ Gabarito: 
-💡 Fundamentação: Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a mais alta latência para o início da ação...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'biodisponibilidade de 100%...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'necessidade de metabolização para ativação...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a principal via para efeitos locais e tópicos 200 Ano: 2025...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'a mais alta latência para o início da ação...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'biodisponibilidade de 100%...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'necessidade de metabolização para ativação...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'a principal via para efeitos locais e tópicos 200 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 10 [Código: EF0122] - Prefeitura de Nova Mutum - MT (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 14 [Código: EF0202] - Prefeitura de Nova Mutum - MT (SELECON 2025) - Técnico de Enfermagem
 Assunto: Administração de medicamentos , Segurança do Paciente
 Ao preparar a medicação para o Sr. João da Silva, internado na clínica médica, o técnico de enfermagem realiza a conferência da prescrição médica, verifi cando o nome do paciente, o medicamento (Captopril 25mg), a dose, a via de administração (oral) e o horário. Antes de entregar o comprimido ao paciente, ele confi rma o nome completo e a data de nascimento do Sr. João, explicando o propósito do medicamento. Esse conjunto de ações sistemáticas é essencial para a segurança do paciente e constitui uma prática fundamental na rotina da equipe de enfermagem, que consiste na(o):
 
@@ -180,16 +256,16 @@ Ao preparar a medicação para o Sr. João da Silva, internado na clínica médi
   [D] realização do balanço hídrico do paciente 203 Ano: 2025
 
 ✅ Gabarito: 
-💡 Fundamentação: De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'verifi cação dos sinais vitais do paciente...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aplicação dos "certos" da administração de medicamentos...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'registro da evolução de enfermagem no prontuário...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realização do balanço hídrico do paciente 203 Ano: 2025...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'verifi cação dos sinais vitais do paciente...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'aplicação dos "certos" da administração de medicamentos...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'registro da evolução de enfermagem no prontuário...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'realização do balanço hídrico do paciente 203 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 11 [Código: EF0128] - Prefeitura de Tapurah - MT (SELECON 2025) - Enfermeiro
+QUESTÃO 15 [Código: EF0208] - Prefeitura de Tapurah - MT (SELECON 2025) - Enfermeiro
 Assunto: Administração de medicamentos , Farmacologia na Enfermagem
 Ao se comparar o Fármaco A (meia-vida de 4 horas) com o Fármaco B (meia-vida de 48 horas) para o tratamento de uma condição crônica, ambos com índice terapêutico estreito, a principal implicação clínica derivada da diferença em suas meiasvidas de eliminação é que o Fármaco B:
 
@@ -199,16 +275,16 @@ Ao se comparar o Fármaco A (meia-vida de 4 horas) com o Fármaco B (meia-vida d
   [D] atinge o pico de concentração plasmática mais rapidamente que o Fármaco A, necessitando de monitoramento intensivo apenas nas primeiras horas de tratamento 209 Ano: 2025
 
 ✅ Gabarito: 
-💡 Fundamentação: Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'exige administrações mais frequentes para manter a concentração plasmática dentro da janel...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'é rapidamente eliminado do organismo, minimizando a duração de eventuais efeitos adversos ...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'apresenta maior risco de acúmulo e toxicidade em caso de ajuste inadequado da dose e levar...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'atinge o pico de concentração plasmática mais rapidamente que o Fármaco A, necessitando de...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'exige administrações mais frequentes para manter a concentração plasmática dentro da ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'é rapidamente eliminado do organismo, minimizando a duração de eventuais efeitos adve...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'apresenta maior risco de acúmulo e toxicidade em caso de ajuste inadequado da dose e ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'atinge o pico de concentração plasmática mais rapidamente que o Fármaco A, neces...'.
 
 ------------------------------------------------------------
 
-QUESTÃO 12 [Código: EF0142] - Prefeitura de Tapurah - MT (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 16 [Código: EF0222] - Prefeitura de Tapurah - MT (SELECON 2025) - Técnico de Enfermagem
 Assunto: Administração de medicamentos
 Enfermagem Durante a administração de uma medicação por via intramuscular (IM) em um paciente adulto, o técnico de enfermagem, seguindo técnica asséptica e prescrição, deve escolher preferencialmente a região que garanta maior volume, boa absorção e menor risco de complicações. Tal região corresponde ao:
 
@@ -218,16 +294,16 @@ Enfermagem Durante a administração de uma medicação por via intramuscular (I
   [D] vasto lateral da coxa
 
 ✅ Gabarito: 
-💡 Fundamentação: Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ventroglúteo...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'bíceps braquial...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vasto lateral da coxa...'.
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'ventroglúteo...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'bíceps braquial...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'vasto lateral da coxa...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 13 [Código: EF0154] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 17 [Código: EF0234] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2025) - Técnico de Enfermagem
 Assunto: Administração de medicamentos
 MT - Técnico em Enfermagem APH Um enfermeiro esta orientando um estudante de enfermagem sobre a administração de insulina NPH e Regular prescritas para um paciente diabético antes do café da manha. A prescrição é de 10 unidades de Insulina Regular e 22 unidades de Insulina NPH, ambas por via subcutânea. O estudante questiona sobre a possibilidade de misturar as duas insulinas na mesma seringa. A orientação correta do enfermeiro, baseada nos princípios de farmacotécnica e segurança na administração de medicamentos, deve ser:
 
@@ -237,16 +313,16 @@ MT - Técnico em Enfermagem APH Um enfermeiro esta orientando um estudante de en
   [D] "A mistura é possível, mas apenas se a administração for imediata e o volume total não exceder 1 mL. A ordem de aspiração não interfere na eficácia, desde que não se contamine os frascos". 235 Ano: 2025
 
 ✅ Gabarito: 
-💡 Fundamentação: Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '"Não é recomendado misturar diferentes tipos de insulina na mesma seringa devido ao risco ...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '"Sim, você pode misturar as duas, aspirando primeiro a Insulina NPH (de aspecto leitoso) e...'.
-   • Alternativa C: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
-   • Alternativa D: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois '"Não é recomendado misturar diferentes tipos de insulina na mesma seringa devido ao r...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois '"Sim, você pode misturar as duas, aspirando primeiro a Insulina NPH (de aspecto leito...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois '"Sim, é possível mistura-las. Você deve aspirar primeiro a Insulina Regular (límpida)...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que '"A mistura é possível, mas apenas se a administração for imediata e o volume tot...'.
 
 ------------------------------------------------------------
 
-QUESTÃO 14 [Código: EF0155] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 18 [Código: EF0235] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2025) - Técnico de Enfermagem
 Assunto: Administração de medicamentos
 MT - Técnico em Enfermagem APH Um técnico de enfermagem é designado para administrar 10 mg de Morfina por via subcutânea a um paciente com dor intensa, conforme prescrição médica. Ao preparar a medicação, ele observa que a ampola disponível é de Morfina 10 mg/mL. Após aspirar o conteúdo da ampola, ele percebe que há uma pequena bolha de ar na seringa. Considerando os princípios fundamentais para a administração segura de medicamentos, a ação correta do técnico de enfermagem antes de administrar a medicação é:
 
@@ -256,16 +332,16 @@ MT - Técnico em Enfermagem APH Um técnico de enfermagem é designado para admi
   [D] aumentar ligeiramente a dose aspirada para compensar o volume da bolha de ar, garantindo que o paciente receba os 10 mg 236 Ano: 2025
 
 ✅ Gabarito: 
-💡 Fundamentação: Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'expelir cuidadosamente a bolha de ar da seringa, garantindo que a dose correta de 1 mL (10...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administrar a medicação com a bolha de ar, pois em via subcutânea pequenas bolhas não repr...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'desprezar toda a medicação e preparar uma nova dose, pois a presença de qualquer bolha de ...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aumentar ligeiramente a dose aspirada para compensar o volume da bolha de ar, garantindo q...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'expelir cuidadosamente a bolha de ar da seringa, garantindo que a dose correta de 1 m...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'administrar a medicação com a bolha de ar, pois em via subcutânea pequenas bolhas não...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'desprezar toda a medicação e preparar uma nova dose, pois a presença de qualquer bolh...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'aumentar ligeiramente a dose aspirada para compensar o volume da bolha de ar, garanti...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 15 [Código: EF0164] - Prefeitura de São José dos Quatro Marcos - MT (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 19 [Código: EF0244] - Prefeitura de São José dos Quatro Marcos - MT (SELECON 2025) - Técnico de Enfermagem
 Assunto: Administração de medicamentos , Medicação Subcutânea , Medicação Intramuscular
 Quatro Marcos - MT - Técnico em Enfermagem Considerando as vacinas contra hepatite B, contra tríplice viral e contra a febre amarela, a via de administração, respectivamente, é:
 
@@ -275,16 +351,16 @@ Quatro Marcos - MT - Técnico em Enfermagem Considerando as vacinas contra hepat
   [D] hepatite B (via subcutânea), tríplice viral (via oral), febre amarela (via intramuscular) 245 Ano: 2025
 
 ✅ Gabarito: 
-💡 Fundamentação: Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'hepatite B (via oral), tríplice viral (via subcutânea), febre amarela (via intramuscular)...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'hepatite B (via intramuscular), tríplice viral (via intramuscular), febre amarela (via sub...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'hepatite B (via intradérmica), tríplice viral (via intramuscular), febre amarela (via intr...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'hepatite B (via subcutânea), tríplice viral (via oral), febre amarela (via intramuscular) ...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'hepatite B (via oral), tríplice viral (via subcutânea), febre amarela (via intramuscu...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'hepatite B (via intramuscular), tríplice viral (via intramuscular), febre amarela (vi...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'hepatite B (via intradérmica), tríplice viral (via intramuscular), febre amarela (via...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'hepatite B (via subcutânea), tríplice viral (via oral), febre amarela (via intramuscu...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 16 [Código: EF0195] - HEMOMINAS (SELECON 2025) - Enfermeiro
+QUESTÃO 20 [Código: EF0275] - HEMOMINAS (SELECON 2025) - Enfermeiro
 Assunto: Administração de medicamentos , Medicação Endovenosa
 ANHH - Nível I - Grau A - Biomédico/Biólogo/Farmacêutico/Bioquímico - 40 Horas No processo de coleta de sangue total em serviços de hemoterapia, são utilizadas bolsas em sistema fechado contendo anticoagulantes. O sangue coletado, armazenado e manipulado adequadamente em bolsa contendo o anticoagulante CPDA 1, composto por ácido cítrico, citrato de sódio, fosfato de sódio, dextrose e adenina terá sua validade a partir da data da coleta de:
 
@@ -294,16 +370,16 @@ ANHH - Nível I - Grau A - Biomédico/Biólogo/Farmacêutico/Bioquímico - 40 Ho
   [D] 60 dias
 
 ✅ Gabarito: 
-💡 Fundamentação: Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa D: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
 
 ------------------------------------------------------------
 
-QUESTÃO 17 [Código: EF0234] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
+QUESTÃO 21 [Código: EF0314] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
 Assunto: Administração de medicamentos , Medicação Intramuscular
 Durante a aplicação de uma medicação intramuscular em um paciente adulto, o enfermeiro decide utilizar a técnica Z para minimizar os riscos de extravasamento e complicações associadas à injeção. Após a inserção da agulha no músculo, o enfermeiro realiza a manobra específica para garantir a correta aplicação. Com base nas etapas dessa técnica e as suas indicações, a alternativa que a descreve corretamente é:
 
@@ -313,16 +389,16 @@ Durante a aplicação de uma medicação intramuscular em um paciente adulto, o 
   [D] o enfermeiro deve usar a técnica Z apenas em situações de infecções graves, inserindo a agulha de forma oblíqua e administrando a medicação lentamente, sem realizar qualquer tipo de tração na pele 315 Ano: 2025
 
 ✅ Gabarito: 
-💡 Fundamentação: Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'após inserir a agulha em um ângulo de 90 graus, o enfermeiro puxa a pele para formar um "Z...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a técnica Z exige a inserção da agulha em um ângulo de 45 graus, após o que o enfermeiro r...'.
-   • Alternativa C: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o enfermeiro deve usar a técnica Z apenas em situações de infecções graves, inserindo a ag...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'após inserir a agulha em um ângulo de 90 graus, o enfermeiro puxa a pele para formar ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'a técnica Z exige a inserção da agulha em um ângulo de 45 graus, após o que o enferme...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'na técnica Z, a agulha deve ser inserida em um ângulo de 30 graus, e a tração da pele...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o enfermeiro deve usar a técnica Z apenas em situações de infecções graves, inse...'.
 
 ------------------------------------------------------------
 
-QUESTÃO 18 [Código: EF0238] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
+QUESTÃO 22 [Código: EF0318] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
 Assunto: Administração de medicamentos
 Uma ação combinada de dois ou mais medicamentos que produzem um efeito biológico, cujo resultado pode ser a soma dos efeitos de cada composto ou um efeito total superior a essa soma, podendo resultar em um determinado medicamento aumentar a ação de outro, é um fenômeno conhecido como:
 
@@ -332,16 +408,16 @@ Uma ação combinada de dois ou mais medicamentos que produzem um efeito biológ
   [D] cooperativismo 319 Ano: 2025
 
 ✅ Gabarito: 
-💡 Fundamentação: Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'antagonismo...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'cooperativismo 319 Ano: 2025...'.
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'antagonismo...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'cooperativismo 319 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 19 [Código: EF0243] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 23 [Código: EF0323] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Administração de medicamentos , Diabetes Mellitus , Doenças Crônicas Não Transmissíveis
 Um paciente está em tratamento com metformina para diabetes tipo 2 e foi prescrito o uso de um antibiótico da classe dos macrolídeos. Para a segurança do paciente em relação à interação medicamentosa, o técnico de enfermagem deve considerar:
 
@@ -351,16 +427,16 @@ Um paciente está em tratamento com metformina para diabetes tipo 2 e foi prescr
   [D] o uso concomitante pode aumentar o risco de hipoglicemia, exigindo monitoramento cuidadoso dos níveis de glicose 324 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a metformina pode aumentar a eficácia do antibiótico, tornando o tratamento mais eficaz...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a metformina pode diminuir a eficácia do antibiótico, tornando-o menos eficaz no tratament...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'não há interação significativa entre metformina e macrolideos, portanto, não é necessário ...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o uso concomitante pode aumentar o risco de hipoglicemia, exigindo monitoramento cuidadoso...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'a metformina pode aumentar a eficácia do antibiótico, tornando o tratamento mais efic...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'a metformina pode diminuir a eficácia do antibiótico, tornando-o menos eficaz no trat...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'não há interação significativa entre metformina e macrolideos, portanto, não é necess...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'o uso concomitante pode aumentar o risco de hipoglicemia, exigindo monitoramento cuid...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 20 [Código: EF0255] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 24 [Código: EF0335] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
 Assunto: Administração de medicamentos , Cálculo de Solução e Medicamentos
 Estão prescritos para um paciente 150mg de amicacina e no hospital existem apenas ampolas contendo 500mg/2 ml. A dose a ser aplicada é de:
 
@@ -371,17 +447,17 @@ Estão prescritos para um paciente 150mg de amicacina e no hospital existem apen
   [E] 0,6 ml 336 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa D: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '0,6 ml 336 Ano: 2024...'.
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa E: Incorreta perante os protocolos técnicos, pois '0,6 ml 336 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 21 [Código: EF0341] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 25 [Código: EF0421] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
 Assunto: Administração de medicamentos
 O método amplamente indicado no tratamento de problemas respiratórios agudos e crônicos de diversas origens, incluindo asma, bronquites, sinusites, infecções e inflamações em geral, também atuante na administração de medicamentos broncodilatadores e na umidificação das vias aéreas, é a:
 
@@ -391,16 +467,16 @@ O método amplamente indicado no tratamento de problemas respiratórios agudos e
   [D] broncodilação 422 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'nebulização...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'fluidificação...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vaporização...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'broncodilação 422 Ano: 2024...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'nebulização...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'fluidificação...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'vaporização...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'broncodilação 422 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 22 [Código: EF0378] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 26 [Código: EF0458] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
 Assunto: Administração de medicamentos , Medicação Intramuscular
 Administrativo - 40H Uma das técnicas mais utilizadas pela enfermagem é a administração de medicamentos via intramuscular. Sua absorção é mais rápida e acontece através da via:
 
@@ -410,16 +486,16 @@ Administrativo - 40H Uma das técnicas mais utilizadas pela enfermagem é a admi
   [D] sublingual 459 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'sublingual 459 Ano: 2024...'.
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'sublingual 459 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 23 [Código: EF0392] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 27 [Código: EF0472] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
 Assunto: Administração de medicamentos
 Administrativo - Saúde/40h Durante a administração de medicamentos, o enfermeiro deve seguir procedimentos rigorosos para garantir a segurança do paciente. Uma das etapas essenciais é a verificação dos cinco certos, que são:
 
@@ -429,16 +505,16 @@ Administrativo - Saúde/40h Durante a administração de medicamentos, o enferme
   [D] certo paciente, certo medicamento, certo diagnóstico, certo local, certo profissional
 
 ✅ Gabarito: 
-💡 Fundamentação: Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'certo paciente, certo medicamento, certo horário, certo local, certo registro...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'certo paciente, certo medicamento, certo horário, certo local, certo profissional...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'certo paciente, certo medicamento, certo horário, certo método, certo profissional...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'certo paciente, certo medicamento, certo diagnóstico, certo local, certo profissional...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'certo paciente, certo medicamento, certo horário, certo local, certo registro...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'certo paciente, certo medicamento, certo horário, certo local, certo profissional...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'certo paciente, certo medicamento, certo horário, certo método, certo profissional...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'certo paciente, certo medicamento, certo diagnóstico, certo local, certo profissional...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 24 [Código: EF0400] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 28 [Código: EF0480] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Administração de medicamentos , Cálculo de Solução e Medicamentos
 Enfermagem A terapia medicamentosa tornou-se uma das formas mais comuns de intervenção no cuidado ao paciente, utilizada ao longo dos anos na cura de doenças. Para seu uso adequado, as dosagens devem ser aplicadas adequadamente. Com base nesta afirmativa, em 1 ml de uma determinada medicação encontram-se:
 
@@ -448,88 +524,107 @@ Enfermagem A terapia medicamentosa tornou-se uma das formas mais comuns de inter
   [D] 40 gotas
 
 ✅ Gabarito: 
-💡 Fundamentação: Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa D: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
 
 ------------------------------------------------------------
 
-QUESTÃO 25 [Código: EF0456] - Prefeitura de Porto dos Gaúchos - MT (SELECON 2026) - Técnico de Enfermagem
-Assunto: Administração de medicamentos
-MT - Técnico em Enfermagem Na prática da administração de medicamentos, a escolha da via de administração deve considerar características como vascularização do local, volume a ser administrado e velocidade de absorção. Nesse contexto, a via intramuscular é indicada, principalmente, quando se deseja:
+QUESTÃO 29 [Código: EF0667] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Técnico de Enfermagem
+Assunto: Administração de medicamentos , Medicação Oral , Medicação Endovenosa
+em Enfermagem O medicamento colocado debaixo da língua, que possibilita a absorção mais rápida que a via oral e não pode ser mastigado ou engolido, é o medicamento administrado via:
 
-  [A] absorção lenta e gradual, ideal para medicações mais espessas
-  [B] início de ação imediato, comparável ao obtido pela via endovenosa
-  [C] absorção mais rápida que a via subcutânea, em razão da maior vascularização da área
-  [D] administração de grandes volumes, independentemente do risco de dor ou lesão tecidual devido à extensão 117 Ano: 2026
+  [A] endovenosa
+  [B] parenteral
+  [C] sublingual
+  [D] ocular
 
 ✅ Gabarito: 
-💡 Fundamentação: Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'absorção lenta e gradual, ideal para medicações mais espessas...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'início de ação imediato, comparável ao obtido pela via endovenosa...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'absorção mais rápida que a via subcutânea, em razão da maior vascularização da área...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administração de grandes volumes, independentemente do risco de dor ou lesão tecidual devi...'.
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
 
 ------------------------------------------------------------
 
-QUESTÃO 26 [Código: EF0466] - Prefeitura de Porto dos Gaúchos - MT (SELECON 2026) - Enfermeiro
+QUESTÃO 30 [Código: EF0687] - CLIN (SELECON 2022) - Enfermeiro
+Assunto: Administração de medicamentos , Enfermagem em Oncologia , Medicação Subcutânea
+A hipodermóclise é uma via de acesso subcutâneo, amplamente utilizada na oncologia e no atendimento domiciliar, para administração de alguns medicamentos e hidratação. O volume diário recomendado em 24 horas é de:
+
+  [A] 2.000 ml, sendo 1.000 ml por sítio de punção
+  [B] 4.000 ml, sendo 2.000 ml por sítio de punção
+  [C] 6.000 ml, sendo 3.000 ml por sítio de punção
+  [D] 8.000 ml, sendo 4.000 ml por sítio de punção 688 Ano: 2022
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois '2.000 ml, sendo 1.000 ml por sítio de punção...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois '4.000 ml, sendo 2.000 ml por sítio de punção...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois '6.000 ml, sendo 3.000 ml por sítio de punção...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois '8.000 ml, sendo 4.000 ml por sítio de punção 688 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 31 [Código: EF0721] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Enfermeiro
+Assunto: Administração de medicamentos , Medicação Intramuscular
+A aplicação de injeções intramusculares no músculo glúteo médio é considerada uma das técnicas mais seguras, especialmente em crianças acima de sete meses. Assinale a alternativa que apresenta o nome dessa técnica:
+
+  [A] Zaloga
+  [B] Seldinger
+  [C] Hochstetter
+  [D] Mann-Whitney 722 Ano: 2022
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Hochstetter...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Mann-Whitney 722 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 32 [Código: EF0788] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
 Assunto: Administração de medicamentos , Cálculo de Solução e Medicamentos
-MT - Enfermeiro Um paciente pediátrico com peso de 12 kg deve receber uma medicação na dose de 15 mg/kg/dia, dividida em 3 doses iguais. A solução oral disponível tem concentração de 100 mg/5 mL. O volume, em mL, que deve ser administrado em cada uma das três doses é:
+Intensivista Pediátrico Uma criança internada na unidade pediátrica apresenta a prescrição médica de metronidazol 125mg EV a cada 8 horas. Porém, na unidade, há disponível o medicamento metronidazol 0,5% com 100 ml de solução injetável. Para execução da prescrição médica com este último medicamento, serão necessários:
 
-  [A] 1,5 mL
-  [B] 9,0 mL
-  [C] 27,0 mL
-  [D] 3,0 mL 127 Ano: 2026
+  [A] 75 ml
+  [B] 25 ml
+  [C] 50ml
+  [D] 10 ml 789 Ano: 2020
 
 ✅ Gabarito: 
-💡 Fundamentação: Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '3,0 mL 127 Ano: 2026...'.
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois '10 ml 789 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 27 [Código: EF0474] - Prefeitura de Barra do Garças - MT (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 33 [Código: EF0876] - Prefeitura de Boa Vista - RR (SELECON 2024) - Técnico de Enfermagem
 Assunto: Administração de medicamentos , Cálculo de Solução e Medicamentos
-Técnico em Enfermagem Um paciente adulto em hipoglicemia grave necessita de Glicose 50% (G50%), mas o protocolo institucional determina que soluções hipertônicas devem ser diluídas antes da administração intravenosa, a fim de reduzir flebite e complicações metabólicas. O médico prescreve 20 mL de G50%, devendo a solução final ser preparada em concentração de 10%. A conduta do técnico de enfermagem para preparar essa diluição corretamente é:
+Técnico - Grupo Especial - Técnico de Enfermagem Foi prescrito para a paciente J.G.G.M , 68 anos de idade, a administração de 1000mL de soro fisiológico a 0,9% para ser infundido em 12h. Para essa infusão, é necessária a seguinte quantidade de gotas por minuto:
 
-  [A] adicionar 30 mL de diluente aos 20 mL de G50%, reduzindo a concentração final para a concentração de 10%
-  [B] adicionar 80 mL de diluente aos 20 mL de G50%, obtendo um total de 100 mL em concentração de 10%
-  [C] misturar igualmente 20 mL de G50% e 20 mL de diluente, resultando em G25% adequada ao protocolo
-  [D] diluir G50% apenas com 10 mL de solução fisiológica, pois a diluição mínima já reduz risco de flebite 135 Ano: 2025
-
-✅ Gabarito: 
-💡 Fundamentação: Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.
-❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'adicionar 30 mL de diluente aos 20 mL de G50%, reduzindo a concentração final para a conce...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'adicionar 80 mL de diluente aos 20 mL de G50%, obtendo um total de 100 mL em concentração ...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'misturar igualmente 20 mL de G50% e 20 mL de diluente, resultando em G25% adequada ao prot...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'diluir G50% apenas com 10 mL de solução fisiológica, pois a diluição mínima já reduz risco...'.
-
-------------------------------------------------------------
-
-QUESTÃO 28 [Código: EF0487] - Prefeitura de Barra do Garças - MT (SELECON 2025) - Técnico de Enfermagem
-Assunto: Administração de medicamentos
-Técnico em Enfermagem Durante a administração de um medicamento prescrito, o técnico de enfermagem deve seguir os princípios de segurança recomendados pelas diretrizes atuais sobre os “certos” da administração medicamentosa. Acerca dessas recomendações, observa-se que:
-
-  [A] o "paciente certo" pode ser confi rmado apenas pela identifi cação verbal, desde que ele esteja lúcido e orientado no momento da administração
-  [B] o "registro certo" refere-se apenas ao horário da administração, não incluindo lote, dose ou via utilizados, pois estes tratam-se de outros “certos”
-  [C] a “orientação certa” implica garantir que o paciente receba informações pertinentes sobre o medicamento, como finalidade, forma correta de uso e possíveis efeitos esperados, contribuindo para maior segurança e adesão
-  [D] a “resposta certa” diz respeito exclusivamente ao registro de reações adversas imediatas, não abrangendo a monitorização clínica posterior ou a avaliação de eficácia terapêutica, limitando-se apenas ao relato pontual de eventos observados no momento da administração 148 Ano: 2025
+  [A] 20 gotas/min
+  [B] 28 gotas/min
+  [C] 42 gotas/min
+  [D] 83 gotas/min
 
 ✅ Gabarito: 
-💡 Fundamentação: Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o "paciente certo" pode ser confi rmado apenas pela identifi cação verbal, desde que ele e...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o "registro certo" refere-se apenas ao horário da administração, não incluindo lote, dose ...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a “orientação certa” implica garantir que o paciente receba informações pertinentes sobre ...'.
-   • Alternativa D: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois '20 gotas/min...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois '28 gotas/min...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois '42 gotas/min...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois '83 gotas/min...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 

@@ -1,0 +1,106 @@
+[
+  {
+    "codigo_origem": "Q2325278",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Primavera do Leste - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2023 - Prefeitura de Primavera do Leste -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Infecções Sexualmente Transmissíveis (IST) , Saúde da Mulher",
+    "enunciado": "MT - Enfermeiro Intervencionista - SAMU A infecção pelo HIV tem um acometimento sistêmico, por isso, é necessário estar atento a sinais clínicos. Nesse sentido, o exame físico deve incluir:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "medida da circunferência abdominal, peso, altura, cálculo do índice de massa corpórea e aferição da pressão arterial"
+      },
+      {
+        "id": "B",
+        "texto": "aferição da glicemia capilar, peso, altura, cálculo do índice de massa corpórea e medida da circunferência abdominal"
+      },
+      {
+        "id": "C",
+        "texto": "ausculta pulmonar, altura, medida da circunferência abdominal, aferição da glicemia capilar e temperatura"
+      },
+      {
+        "id": "D",
+        "texto": "peso, altura, cálculo do índice de massa corpórea, medida da circunferência abdominal e respiração"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0600",
+    "numero_ordem": 600,
+    "fundamentacao_correta": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'medida da circunferência abdominal, peso, altura, cálculo do índice de massa corpórea...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'aferição da glicemia capilar, peso, altura, cálculo do índice de massa corpórea e med...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'ausculta pulmonar, altura, medida da circunferência abdominal, aferição da glicemia c...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'peso, altura, cálculo do índice de massa corpórea, medida da circunferência abdominal...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos pad..."
+  },
+  {
+    "codigo_origem": "Q1320540",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2024,
+    "prova": "SELECON - 2020 - Prefeitura de Boa Vista - RR - Técnico em",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Infecções Sexualmente Transmissíveis (IST) , Saúde da Mulher",
+    "enunciado": "Segurança do Trabalho Doença sexualmente transmissível causada pela bactéria Treponema pallidum, muito disseminada entre pessoas jovens, cujo primeiro sinal é uma ferida discreta que pode surgir no pênis, vulva, vagina, colo do útero, ânus ou boca. A ferida não provoca dor e desaparece mesmo sem tratamento, o que sugere cura. Entretanto, a bactéria continua presente no sangue e a doença evoluindo. Essa doença é denominada:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "sífilis"
+      },
+      {
+        "id": "B",
+        "texto": "gonorreia"
+      },
+      {
+        "id": "C",
+        "texto": "cancro mole"
+      },
+      {
+        "id": "D",
+        "texto": "Síndrome da Imunodeficiência (AIDS)"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0737",
+    "numero_ordem": 737,
+    "fundamentacao_correta": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'cancro mole...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Síndrome da Imunodeficiência (AIDS)...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos pad..."
+  }
+]

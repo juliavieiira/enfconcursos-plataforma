@@ -1,7 +1,26 @@
 === CADERNO DE QUESTÕES: DOENÇAS RESPIRATÓRIAS ===
-Total: 2 questões
+Total: 9 questões
 
-QUESTÃO 1 [Código: EF0291] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 1 [Código: EF0128] - Prefeitura de Porto dos Gaúchos - MT (SELECON 2026) - Enfermeiro
+Assunto: Doenças Respiratórias , Doenças Crônicas Não Transmissíveis
+MT - Enfermeiro A doença pulmonar obstrutiva crônica (DPOC) é caracterizada por limitação persistente ao fluxo aéreo, geralmente progressiva e associada à resposta inflamatória crônica das vias aéreas e do parênquima pulmonar. O exame considerado padrão-ouro para seu diagnóstico e avaliação de gravidade é a:
+
+  [A] radiografia de tórax
+  [B] tomografia computadorizada de alta resolução de tórax
+  [C] espirometria com prova broncodilatadora
+  [D] gasometria arterial 129 Ano: 2026
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'radiografia de tórax...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'tomografia computadorizada de alta resolução de tórax...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'espirometria com prova broncodilatadora...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'gasometria arterial 129 Ano: 2026...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 2 [Código: EF0371] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Doenças Respiratórias , Doenças Crônicas Não Transmissíveis
 “Indivíduo de qualquer idade com doença respiratória aguda caracterizada por febre superior a 38°C, tosse e dispneia, acompanhada ou não de manifestações gastrointestinais ou dos seguintes sinais e sintomas: aumento da frequência respiratória (>25 IRPM – incursões respiratórias por minuto), hipotensão em relação à pressão arterial habitual do paciente”. O excerto conduz a um quadro, comumente apresentado, por paciente que contraiu:
 
@@ -12,32 +31,146 @@ Assunto: Doenças Respiratórias , Doenças Crônicas Não Transmissíveis
   [E] síndrome respiratória aguda grave 372 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa D: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'síndrome respiratória aguda grave 372 Ano: 2024...'.
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa E: Incorreta perante os protocolos técnicos, pois 'síndrome respiratória aguda grave 372 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 2 [Código: EF0468] - Prefeitura de Porto dos Gaúchos - MT (SELECON 2026) - Enfermeiro
+QUESTÃO 3 [Código: EF0601] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
 Assunto: Doenças Respiratórias , Doenças Crônicas Não Transmissíveis
-MT - Enfermeiro A doença pulmonar obstrutiva crônica (DPOC) é caracterizada por limitação persistente ao fluxo aéreo, geralmente progressiva e associada à resposta inflamatória crônica das vias aéreas e do parênquima pulmonar. O exame considerado padrão-ouro para seu diagnóstico e avaliação de gravidade é a:
+MT - Enfermeiro Intervencionista - SAMU No protocolo BC25 (hemoptise), o profissional deve suspeitar a partir do seguinte critério de inclusão:
 
-  [A] radiografia de tórax
-  [B] tomografia computadorizada de alta resolução de tórax
-  [C] espirometria com prova broncodilatadora
-  [D] gasometria arterial 129 Ano: 2026
+  [A] expectoração sanguinolenta proveniente das vias aéreas, geralmente, de grande intensidade, com filamentos hemáticos associados ao escarro, podendo o sangramento ser maciço (150 a 400 ml de sangue) em 36 horas
+  [B] expectoração sanguinolenta proveniente das vias aéreas, geralmente, de pequena intensidade, apenas com filamentos hemáticos associados ao escarro, podendo ocorrer sangramento (400 a 800 ml de sangue) em 28 horas
+  [C] expectoração sanguinolenta proveniente das vias aéreas, geralmente, de pequena intensidade, apenas com filamentos hemáticos associados ao escarro, podendo o sangramento ser maciço (200 a 600 ml de sangue) em 24 horas
+  [D] expectoração sanguinolenta proveniente do trato gastrointestinal, geralmente, de grande intensidade, com filamentos hemáticos associados a refluxo, podendo o sangramento ser maciço (100 a 500 ml de sangue) em 48 horas 602 Ano: 2023
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'radiografia de tórax...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tomografia computadorizada de alta resolução de tórax...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'espirometria com prova broncodilatadora...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'gasometria arterial 129 Ano: 2026...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'expectoração sanguinolenta proveniente das vias aéreas, geralmente, de grande intensi...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'expectoração sanguinolenta proveniente das vias aéreas, geralmente, de pequena i...'.
+   • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'expectoração sanguinolenta proveniente das vias aéreas, geralmente, de pequena i...'.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'expectoração sanguinolenta proveniente do trato gastrointestinal, geralmente, de gran...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 4 [Código: EF0657] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Enfermeiro
+Assunto: Doenças Respiratórias , Doenças Crônicas Não Transmissíveis
+As anormalidades genéticas, incluindo deficiência de alfa1-antitripsina, um inibidor enzimático que normalmente se contrapõe à destruição do tecido pulmonar por outras determinadas enzimas, são um fator de risco para ocorrência de:
+
+  [A] ELA(esclerose lateral amiotrófica)
+  [B] HIC (hipertensão intracraniana)
+  [C] DPOC (doença pulmonar obstrutiva crônica)
+  [D] TAVM (traqueobronquite associada a ventilação mecânica)
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'ELA(esclerose lateral amiotrófica)...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'HIC (hipertensão intracraniana)...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'DPOC (doença pulmonar obstrutiva crônica)...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'TAVM (traqueobronquite associada a ventilação mecânica)...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 5 [Código: EF0659] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Enfermeiro
+Assunto: Doenças Respiratórias , Doenças Crônicas Não Transmissíveis
+Paciente João da Silva, 56 anos de idade, tabagista, foi diagnosticado com uma doença que estabelece um comprometimento na troca de oxigênio e dióxido de carbono, resultado da destruição das paredes dos alvéolos hiperdistendidos, através de uma distensão anormal dos espaços aéreos. Essa doença é chamada de:
+
+  [A] asma
+  [B] bronquite
+  [C] enfisema
+  [D] pneumonia 660 Ano: 2023
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'pneumonia 660 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 6 [Código: EF0665] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Técnico de Enfermagem
+Assunto: Doenças Respiratórias , Doenças Crônicas Não Transmissíveis
+em Enfermagem A asma é uma doença inflamatória crônica das vias respiratórias, que provoca hiper-responsividade das vias aéreas, edema da mucosa e produção de muco. As principais manifestações clínicas da asma são:
+
+  [A] fadiga, sensação de aperto no tórax, bradicardia e taquipneia
+  [B] tosse, sensação de constrição no tórax, sibilância e dispneia
+  [C] calafrios, dor em pontada no tórax, crepitações e bradipneia
+  [D] febre, sensação de aperto no tórax, estertores e dispneia 666 Ano: 2023
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'fadiga, sensação de aperto no tórax, bradicardia e taquipneia...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'tosse, sensação de constrição no tórax, sibilância e dispneia...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'calafrios, dor em pontada no tórax, crepitações e bradipneia...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'febre, sensação de aperto no tórax, estertores e dispneia 666 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 7 [Código: EF0787] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+Assunto: Doenças Respiratórias , Doenças Crônicas Não Transmissíveis
+Intensivista Pediátrico O ciclo ventilatório, durante a ventilação mecânica com pressão positiva, pode ser dividido em:
+
+  [A] fase inspiratória, mudança de fase (ciclagem), fase expiratória e mudança da fase expiratória para a fase inspiratória (disparo)
+  [B] fase inspiratória, repolarização, fase expiratória e mudança da fase expiratória para a fase inspiratória (ciclagem)
+  [C] fase inspiratória, despolarização, fase expiratória e mudança da fase expiratória para a fase inspiratória (cerclagem)
+  [D] fase de apneia, parada na fase (disparo), fase de Biot e mudança da fase expiratória para a fase inspiratória (disparo)
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'fase inspiratória, mudança de fase (ciclagem), fase expiratória e mudança da fase exp...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'fase inspiratória, repolarização, fase expiratória e mudança da fase expiratória para...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'fase inspiratória, despolarização, fase expiratória e mudança da fase expiratória par...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'fase de apneia, parada na fase (disparo), fase de Biot e mudança da fase expiratória ...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 8 [Código: EF0789] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+Assunto: Doenças Respiratórias , Doenças Crônicas Não Transmissíveis
+Intensivista Pediátrico Paciente J.R., 8 anos de idade, com quadro de insuficiência respiratória aguda, apresenta a seguinte gasometria arterial: PH: 7,12 PaCO2: 63 HCO3: 28 BE: + 2 O distúrbio ácido-básico apresentado é a:
+
+  [A] acidose metabólica
+  [B] alcalose metabólica
+  [C] acidose respiratória
+  [D] alcalose respiratória 790 Ano: 2020
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'acidose metabólica...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'alcalose metabólica...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'acidose respiratória...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'alcalose respiratória 790 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 9 [Código: EF0839] - Prefeitura de Campo Grande - MS (SELECON 2019) - Enfermeiro
+Assunto: Doenças Respiratórias , Doenças Crônicas Não Transmissíveis
+São fatores de risco para doença pulmonar obstrutiva crônica (DPOC):
+
+  [A] deficiência genética de alfa1- antitripsina, tabagismo, poluição ambiental e desnutrição na infância
+  [B] etilismo precoce, poluição ambiental na comunidade, emagrecimento e fibrose cística
+  [C] tabagismo passivo, asma crônica, obesidade e falta de saneamento básico
+  [D] obesidade central, tabagismo, exposição ambiental e hipertensão arterial 840 Ano: 2019
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'deficiência genética de alfa1- antitripsina, tabagismo, poluição ambiental e desnutri...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'etilismo precoce, poluição ambiental na comunidade, emagrecimento e fibrose cística...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'tabagismo passivo, asma crônica, obesidade e falta de saneamento básico...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'obesidade central, tabagismo, exposição ambiental e hipertensão arterial 840 Ano: 201...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 

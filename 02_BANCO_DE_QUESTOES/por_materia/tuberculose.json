@@ -30,26 +30,26 @@
     "resposta_correta": "",
     "id": "EF0059",
     "numero_ordem": 59,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vacinação em massa da população com BCG, administrada em dose única anual...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'vacinação em massa da população com BCG, administrada em dose única anual...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manutenção de ambientes bem ventilados e com incidência de luz solar direta...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'manutenção de ambientes bem ventilados e com incidência de luz solar direta...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'desinfecção de superfícies e objetos compartilhados com soluções à base de cloro...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'desinfecção de superfícies e objetos compartilhados com soluções à base de cloro...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'isolamento respiratório do paciente por período mínimo de 60 dias após o início do tratame...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'isolamento respiratório do paciente por período mínimo de 60 dias após o início do tr...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
   },
   {
     "codigo_origem": "Q2496160",
@@ -80,27 +80,443 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0281",
-    "numero_ordem": 281,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0361",
+    "numero_ordem": 361,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '02 anos, 11 meses e 29 dias...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '02 anos, 11 meses e 29 dias...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '04 anos, 11 meses e 29 dias...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '04 anos, 11 meses e 29 dias...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '05 anos, 11 meses e 29 dias...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '05 anos, 11 meses e 29 dias...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '06 anos, 11 meses e 29 dias 362 Ano: 2024...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '06 anos, 11 meses e 29 dias 362 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativ..."
+  },
+  {
+    "codigo_origem": "Q2310576",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Primavera do Leste - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Primavera do Leste -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Tuberculose , Doenças Infecciosas e parasitárias",
+    "enunciado": "MT - Enfermeiro(a) Padrão A tuberculose (TB) foi conhecida no século XIX como peste branca e afetou milhares de pessoas em todo o mundo. A TB pode ser causada por qualquer uma das sete espécies que integram o complexo Mycobacterium tuberculosis. São elas:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "M. cruzi, M. bovis, M. africanum, M. canetti, M. microti, M. pinnipedi e M. leprae"
+      },
+      {
+        "id": "B",
+        "texto": "M. tuberculosis, M. bovis, M. africanum, M. canetti, M. microti, M. pinnipedi e M. caprae"
+      },
+      {
+        "id": "C",
+        "texto": "M. leprae, M. bovis, M. africanum, M. canetti, M. microti, M. pinnipedi e M. baumanii"
+      },
+      {
+        "id": "D",
+        "texto": "M. pertusis, M. bovis, M. africanum, M. canetti, M. microti, M. pinnipedi e M. pmeumonie"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0621",
+    "numero_ordem": 621,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'M. cruzi, M. bovis, M. africanum, M. canetti, M. microti, M. pinnipedi e M. leprae...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'M. tuberculosis, M. bovis, M. africanum, M. canetti, M. microti, M. pinnipedi e M. ca...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'M. leprae, M. bovis, M. africanum, M. canetti, M. microti, M. pinnipedi e M. baumanii...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'M. pertusis, M. bovis, M. africanum, M. canetti, M. microti, M. pinnipedi e M. pmeumo...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+  },
+  {
+    "codigo_origem": "Q2162344",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Nova Mutum - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Tuberculose , Doenças Infecciosas e parasitárias",
+    "enunciado": "A prova tuberculínica (PT) é um teste diagnóstico de infecção latente da tuberculose (ILTB), que se baseia em uma reação de hipersensibilidade cutânea após a aplicação do PPD por via intradérmica. Os indivíduos infectados pelo bacilo de Koch (BK) podem ter sua capacidade de reação à PT diminuída com o tempo, devido à perda da resposta dos linfócitos T de memória. Esse fato levaria algumas pessoas à resposta negativa da PT, mesmo que infectadas pelo Mycobacterium tuberculosis. Tal efeito é chamado de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "alfa"
+      },
+      {
+        "id": "B",
+        "texto": "beta"
+      },
+      {
+        "id": "C",
+        "texto": "butter"
+      },
+      {
+        "id": "D",
+        "texto": "booster 650 Ano: 2023"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0649",
+    "numero_ordem": 649,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'booster 650 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+  },
+  {
+    "codigo_origem": "Q2162343",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2023 - Prefeitura de Nova Mutum - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Tuberculose , Doenças Infecciosas e parasitárias",
+    "enunciado": "Segundo a OMS, a tuberculose (TB) é um grave problema de saúde pública, pois se trata de uma doença que pode acometer uma série de órgãos e/ou sistemas. A apresentação da TB na forma pulmonar, além de ser mais frequente e relevante, especialmente a bacilífera, é responsável pela manutenção da cadeia de transmissão da doença na comunidade. Portanto, a busca ativa de sintomático respiratório é considerada uma:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "importante estratégia para o controle da doença, na medida em que permite a detecção precoce das formas pulmonares"
+      },
+      {
+        "id": "B",
+        "texto": "estratégia frágil para o controle da doença, pois não permite a identificação precoce das formas pulmonares"
+      },
+      {
+        "id": "C",
+        "texto": "importante estratégia, mas permite identificar apenas os casos abacilíferos e extrapulmonares"
+      },
+      {
+        "id": "D",
+        "texto": "diretriz que deve ser aplicada somente nos países onde os casos são, na maioria, extrapulmonares Enfermagem > Legislação de Enfermagem ,"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0650",
+    "numero_ordem": 650,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'importante estratégia para o controle da doença, na medida em que permite a detecção ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'estratégia frágil para o controle da doença, pois não permite a identificação precoce...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'importante estratégia, mas permite identificar apenas os casos abacilíferos e ex...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'diretriz que deve ser aplicada somente nos países onde os casos são, na maioria, extr...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+  },
+  {
+    "codigo_origem": "Q1956084",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Pontes e Lacerda - MT",
+    "ano": 2022,
+    "prova": "SELECON - 2022 - Prefeitura de Pontes e Lacerda - MT -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Tuberculose , Doenças Infecciosas e parasitárias",
+    "enunciado": "Técnico em Enfermagem Quando um paciente com tuberculose apresenta uma resistência a dois ou mais fármacos antituberculose, exceto à associação rifampicina e isoniazida, tal quadro é chamado de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "falência medicamentosa"
+      },
+      {
+        "id": "B",
+        "texto": "monorresistência"
+      },
+      {
+        "id": "C",
+        "texto": "polirresistência"
+      },
+      {
+        "id": "D",
+        "texto": "abandono 699 Ano: 2022"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0698",
+    "numero_ordem": 698,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'falência medicamentosa...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'monorresistência...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'polirresistência...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'abandono 699 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+  },
+  {
+    "codigo_origem": "Q1956083",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Pontes e Lacerda - MT",
+    "ano": 2022,
+    "prova": "SELECON - 2022 - Prefeitura de Pontes e Lacerda - MT -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Tuberculose , Doenças Infecciosas e parasitárias",
+    "enunciado": "Técnico em Enfermagem Atuberculose é uma doença transmitida de pessoa a pessoa, principalmente através do ar. A fala, o espirro e, principalmente, a tosse de um doente de tuberculose pulmonar bacilífera lançam no ar gotículas de tamanhos variados, contendo, no seu interior, o bacilo. Por esse motivo, a baciloscopia de escarro deve ser realizada em, no mínimo:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "três amostras – duas por ocasião da primeira consulta e outra, independentemente do resultado da primeira, na manhã do dia seguinte, preferencialmente ao despertar"
+      },
+      {
+        "id": "B",
+        "texto": "duas amostras – uma por ocasião da primeira consulta e outra, independentemente do resultado da primeira, na manhã do dia seguinte, preferencialmente ao despertar"
+      },
+      {
+        "id": "C",
+        "texto": "duas amostras – uma por ocasião da primeira consulta e outra, caso a primeira positiva, na manhã do sétimo dia, preferencialmente ao despertar"
+      },
+      {
+        "id": "D",
+        "texto": "uma amostra por ocasião da primeira consulta 700 Ano: 2022"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0699",
+    "numero_ordem": 699,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'três amostras – duas por ocasião da primeira consulta e outra, independentemente do r...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'duas amostras – uma por ocasião da primeira consulta e outra, independentemente do re...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'duas amostras – uma por ocasião da primeira consulta e outra, caso a primeira positiv...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'uma amostra por ocasião da primeira consulta 700 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+  },
+  {
+    "codigo_origem": "Q1314494",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2024,
+    "prova": "SELECON - 2020 - Prefeitura de Boa Vista - RR - Analista",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Tuberculose , Doenças Infecciosas e parasitárias",
+    "enunciado": "Especialista em Epidemiologista e Vigilância em Saúde O sistema informatizado, desenvolvido para receber as notificações, acompanhamento e encerramento dos casos de tuberculose drogarresistente e micobacterioses não tuberculosas, é conhecido como:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "VISALEGIS"
+      },
+      {
+        "id": "B",
+        "texto": "SINAN"
+      },
+      {
+        "id": "C",
+        "texto": "SITE-TB"
+      },
+      {
+        "id": "D",
+        "texto": "SIM"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0763",
+    "numero_ordem": 763,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      }
+    ],
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+  },
+  {
+    "codigo_origem": "Q1313683",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2020,
+    "prova": "SELECON - 2020 - Prefeitura de Boa Vista - RR -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Tuberculose , Doenças Infecciosas e parasitárias",
+    "enunciado": "A tuberculose continua sendo um grave p r o b l e m a d e s a ú d e p ú b l i c a , e x i g i n d o o desenvolvimento de estratégias para detecção precoce e tratamento. Sobre o diagnóstico de Tuberculose nas crianças menores de 10 anos, é correto afirmar que:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "o diagnóstico é de fácil manuseio uma vez que a criança consegue expectorar facilmente e a forma pulmonar não difere do adulto"
+      },
+      {
+        "id": "B",
+        "texto": "o exame de escarro em geral somente é possível a partir dos 5 ou 6 anos de idade e a forma pulmonar difere do adulto, pois costuma ser abacilífera"
+      },
+      {
+        "id": "C",
+        "texto": "o diagnóstico é de difícil manuseio, uma vez que a criança consegue expectorar facilmente e a forma pulmonar não difere do adulto"
+      },
+      {
+        "id": "D",
+        "texto": "o exame de escarro em geral somente é possível a partir dos 5 ou 6 anos de idade e a forma pulmonar costuma ser bacilífera 816 Ano: 2020"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0815",
+    "numero_ordem": 815,
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'o diagnóstico é de fácil manuseio uma vez que a criança consegue expectorar facilment...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'o exame de escarro em geral somente é possível a partir dos 5 ou 6 anos de idade e a ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'o diagnóstico é de difícil manuseio, uma vez que a criança consegue expectorar facilm...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'o exame de escarro em geral somente é possível a partir dos 5 ou 6 anos de idade e a ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A altern..."
+  },
+  {
+    "codigo_origem": "Q2710366",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Campo Grande - MS",
+    "ano": 2019,
+    "prova": "SELECON - 2019 - Prefeitura de Campo Grande - MS -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Tuberculose , Doenças Infecciosas e parasitárias",
+    "enunciado": "É imprescindível o conhecimento do enfermeiro sobre protocolo de diagnóstico e tratamento de tuberculose na assistência primária em saúde. Sobre o manejo do protocolo, é correto afirmar que:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "a ausência de tosse por seis meses e a ausência de febre com aumento de peso repentino são consideradas como um caso suspeito"
+      },
+      {
+        "id": "B",
+        "texto": "o tratamento é diretamente observado para tuberculose, pois não visa o fortalecimento da adesão ao tratamento"
+      },
+      {
+        "id": "C",
+        "texto": "a tuberculose é causada pelo patógeno Streptococcus pneumoniae e a sua incidência é mais comum na população indígena"
+      },
+      {
+        "id": "D",
+        "texto": "a tuberculose pulmonar na criança com menos de 1 O anos de idade difere do adulto, pois costuma ser abacilífera 835 Ano: 2019"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0834",
+    "numero_ordem": 834,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a ausência de tosse por seis meses e a ausência de febre com aumento de peso repentin...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'o tratamento é diretamente observado para tuberculose, pois não visa o fortalecimento...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a tuberculose é causada pelo patógeno Streptococcus pneumoniae e a sua incidência é m...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a tuberculose pulmonar na criança com menos de 1 O anos de idade difere do adulto, po...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
   }
 ]

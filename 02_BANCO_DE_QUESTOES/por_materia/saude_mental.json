@@ -30,26 +30,26 @@
     "resposta_correta": "",
     "id": "EF0066",
     "numero_ordem": 66,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'priorizar a internação psiquiátrica como principal forma de cuidado diante de qualquer man...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'priorizar a internação psiquiátrica como principal forma de cuidado diante de qualque...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'reforçar práticas de cuidado humanizado, valorizando o vínculo, a escuta qualificada e a c...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'reforçar práticas de cuidado humanizado, valorizando o vínculo, a escuta qualificada ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'restringir o contato do paciente com a equipe multiprofissional para evitar dependência em...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'restringir o contato do paciente com a equipe multiprofissional para evitar dependênc...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'direcionar o cuidado exclusivamente para o controle medicamentoso, uma vez que o...'."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
   },
   {
     "codigo_origem": "Q3974345",
@@ -82,26 +82,78 @@
     "resposta_correta": "",
     "id": "EF0092",
     "numero_ordem": 92,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'cuidado deve ser territorial, comunitário e articulado à Rede de Atenção Psicossocial (RAP...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'cuidado deve ser territorial, comunitário e articulado à Rede de Atenção Psicossocial...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'CAPS substitui integralmente todos os demais pontos de atenção, sem necessidade de integra...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'CAPS substitui integralmente todos os demais pontos de atenção, sem necessidade de in...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'modelo prioriza a internação hospitalar prolongada como principal estratégia, restringindo...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'modelo prioriza a internação hospitalar prolongada como principal estratégia, restrin...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Atenção Primária não atua na identificação, acompanhamento ou articulação do cuidado em sa...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Atenção Primária não atua na identificação, acompanhamento ou articulação do cuidado ...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q3884078",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Saúde Mental",
+    "enunciado": "MT - Enfermeiro Ao utilizar a Escala de Avaliação das Síndromes Positiva e Negativa (PANSS) para um paciente com esquizofrenia, o enfermeiro, atuante em psiquiatria, sabe que:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "a escala é utilizada exclusivamente para avaliação de sintomas negativos em transtornos depressivos"
+      },
+      {
+        "id": "B",
+        "texto": "a aplicação deve ser realizada por qualquer membro da equipe multidisciplinar, independentemente de treinamento"
+      },
+      {
+        "id": "C",
+        "texto": "a pontuação mínima na PANSS é 0, indicando ausência total de psicopatologia"
+      },
+      {
+        "id": "D",
+        "texto": "os itens da subescala psicopatológica geral avaliam sintomas como ansiedade, culpa e tensão 125 Ano: 2026"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0124",
+    "numero_ordem": 124,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a escala é utilizada exclusivamente para avaliação de sintomas negativos em tran...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a aplicação deve ser realizada por qualquer membro da equipe multidisciplinar, indepe...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a pontuação mínima na PANSS é 0, indicando ausência total de psicopatologia...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'os itens da subescala psicopatológica geral avaliam sintomas como ansiedade, culpa e ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q3197470",
@@ -132,28 +184,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0235",
-    "numero_ordem": 235,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0315",
+    "numero_ordem": 315,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'priorizar o estabelecimento de um vínculo terapêutico rápido e forçar a comunicação com o ...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'priorizar o estabelecimento de um vínculo terapêutico rápido e forçar a comunicação c...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'adotar uma abordagem de contenção física imediata, sem considerar as preferências do ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'avaliar o grau de risco e atuar de forma calmante e empática, buscando reduzir a ansiedade...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'avaliar o grau de risco e atuar de forma calmante e empática, buscando reduzir a ansi...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'agir de forma autoritária e determinar as intervenções terapêuticas necessárias sem consul...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'agir de forma autoritária e determinar as intervenções terapêuticas necessárias sem c...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q2528678",
@@ -188,32 +240,32 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0268",
-    "numero_ordem": 268,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0348",
+    "numero_ordem": 348,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "E",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'biológica 349 Ano: 2024...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'biológica 349 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q2453004",
@@ -244,79 +296,235 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0415",
-    "numero_ordem": 415,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0495",
+    "numero_ordem": 495,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'acolhimento...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'acolhimento...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'diagnóstico...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'diagnóstico...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'anamnese 496 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Co...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'anamnese 496 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SU...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
-    "codigo_origem": "Q3884078",
+    "codigo_origem": "Q3674526",
     "banca": "SELECON",
-    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
-    "ano": 2026,
-    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
+    "orgao": "Prefeitura de Dourados - MS",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Dourados - MS -",
     "cargo": "Enfermeiro",
     "materia": "Enfermagem",
-    "assunto": "Saúde Mental",
-    "enunciado": "MT - Enfermeiro Ao utilizar a Escala de Avaliação das Síndromes Positiva e Negativa (PANSS) para um paciente com esquizofrenia, o enfermeiro, atuante em psiquiatria, sabe que:",
+    "assunto": "Saúde Mental , Saúde do Idoso",
+    "enunciado": "Demência é uma síndrome clínica caracterizada por déficits cognitivos múltiplos, adquiridos e persistentes, capazes de interferir de maneira substancial nas atividades de vida diária do paciente. A doença de Alzheimer (De a demência com corpos de Lewy (DCL) são as principais demências neurodegenerativas. Os principais sintomas da DCL são:",
     "alternativas": [
       {
         "id": "A",
-        "texto": "a escala é utilizada exclusivamente para avaliação de sintomas negativos em transtornos depressivos"
+        "texto": "flutuação da função cognitiva, memória afetada, alucinações visuais e disfunção autonômica"
       },
       {
         "id": "B",
-        "texto": "a aplicação deve ser realizada por qualquer membro da equipe multidisciplinar, independentemente de treinamento"
+        "texto": "oscilações na cognição, bexiga neurogênica, memória preservada e disfunção autonômica"
       },
       {
         "id": "C",
-        "texto": "a pontuação mínima na PANSS é 0, indicando ausência total de psicopatologia"
+        "texto": "rigidez, tremores em membros superiores, salivação excessiva e incontinência urinária"
       },
       {
         "id": "D",
-        "texto": "os itens da subescala psicopatológica geral avaliam sintomas como ansiedade, culpa e tensão 125 Ano: 2026"
+        "texto": "perda da memória, diplopia, incontinência fecal e disfunção autonômica 524 Ano: 2023"
       }
     ],
     "resposta_correta": "",
-    "id": "EF0464",
-    "numero_ordem": 464,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0523",
+    "numero_ordem": 523,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'flutuação da função cognitiva, memória afetada, alucinações visuais e disfunção auton...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a aplicação deve ser realizada por qualquer membro da equipe multidisciplinar, independent...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'oscilações na cognição, bexiga neurogênica, memória preservada e disfunção autonômica...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a pontuação mínima na PANSS é 0, indicando ausência total de psicopatologia...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'rigidez, tremores em membros superiores, salivação excessiva e incontinência urinária...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'os itens da subescala psicopatológica geral avaliam sintomas como ansiedade, culpa e tensã...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'perda da memória, diplopia, incontinência fecal e disfunção autonômica 524 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q3584432",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Lucas do Rio Verde - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Lucas do Rio Verde -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Saúde Mental",
+    "enunciado": "MT - Enfermeiro 20H Segundo o Ministério da Saúde, a Rede de Atenção Psicossocial (RAPS) corresponde a um conjunto articulado de ações integradas na atenção à saúde, com objetivo de realizar o acolhimento dos indivíduos com necessidades decorrentes do uso de álcool, drogas e sofrimento psíquico, no âmbito do Sistema Único de Saúde (SUS). Portanto, essa rede é formada pelos seguintes pontos de atenção:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "CAPS, Atenção Básica, Urgência e Emergência, SRT e Unidades de Acolhimento"
+      },
+      {
+        "id": "B",
+        "texto": "CAPS, Atenção Domiciliar, Urgência e Emergência, SRT e Unidades de Especializadas"
+      },
+      {
+        "id": "C",
+        "texto": "Hospital Dia, Atenção Indígena Básica, Urgência e Emergência, SRT e Unidades de Acolhimento"
+      },
+      {
+        "id": "D",
+        "texto": "Hospital de Urgência e Emergência, Hospitais Psiquiátricos com leitos de isolamento, SRT e Unidades de Acolhimento 543 Ano: 2023"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0542",
+    "numero_ordem": 542,
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'CAPS, Atenção Básica, Urgência e Emergência, SRT e Unidades de Acolhimento...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'CAPS, Atenção Domiciliar, Urgência e Emergência, SRT e Unidades de Especializadas...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Hospital Dia, Atenção Indígena Básica, Urgência e Emergência, SRT e Unidades de Acolh...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Hospital de Urgência e Emergência, Hospitais Psiquiátricos com leitos de isolamento, ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Partici..."
+  },
+  {
+    "codigo_origem": "Q2297111",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Campo Verde - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2023 - Prefeitura de Campo Verde - MT - Técnico",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Saúde Mental",
+    "enunciado": "em Enfermagem De acordo com a norma técnica para atuação da equipe de enfermagem em saúde mental e psiquiatria, o processo terapêutico fundamentado no relacionamento interpessoal, como ferramenta do cuidado, entre o profissional e o usuário, no contexto individual ou em grupo é chamado de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Apoio Matricial"
+      },
+      {
+        "id": "B",
+        "texto": "Ambiente Terapêutico"
+      },
+      {
+        "id": "C",
+        "texto": "Relacionamento Terapêutico"
+      },
+      {
+        "id": "D",
+        "texto": "Centro de Atenção Psicossocial (CAPS)"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0640",
+    "numero_ordem": 640,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Apoio Matricial...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Ambiente Terapêutico...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Relacionamento Terapêutico...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Centro de Atenção Psicossocial (CAPS)...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q1313721",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2020,
+    "prova": "SELECON - 2020 - Prefeitura de Boa Vista - RR - Enfermeiro",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Saúde Mental",
+    "enunciado": "ESF De acordo com o Caderno de Atenção Básica de Saúde Mental, os Núcleos de Apoio à Saúde da Família (Nasfs) foram criados com o objetivo de ampliar a abrangência e o escopo das ações da Atenção Básica, bem como sua resolutividade. Dessa forma, os Nasfs são constituídos por equipes compostas de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "enfermeiros, médicos e outras áreas de conhecimento, que devem atuar de maneira integrada e apoiando os profissionais das equipes de Saúde da Família, das equipes de Atenção Básica para populações específicas e Academia da Saúde, compartilhando as práticas e saberes em saúde nos territórios sob a responsabilidade destas equipes, atuando diretamente no apoio técnico às equipes das unidades nas quais o Nasf não está vinculado"
+      },
+      {
+        "id": "B",
+        "texto": "profissionais de diferentes áreas de educação, que devem atuar de maneira integrada e apoiando os profissionais das equipes de Saúde da Família, das equipes de Atenção Básica para populações específicas e Academia da Saúde, compartilhando as práticas e saberes em saúde nos territórios sob a responsabilidade destas equipes, atuando diretamente no apoio técnico às equipes da(s) unidade(s) na(s) qual(is) o Nasf não está vinculado"
+      },
+      {
+        "id": "C",
+        "texto": "profissionais da área de saúde, que devem atuar de maneira individualizada e apoiando os profissionais das equipes de Saúde da Família, das equipes de Atenção Básica para populações e s p e c í fi c a s e A c a d e m i a d a S a ú d e , compartilhando as práticas em saúde nos territórios sob a responsabilidade destas equipes, atuando diretamente no apoio matricial às equipes das unidades nas quais o Nasf está vinculado"
+      },
+      {
+        "id": "D",
+        "texto": "p r o fi s s i o n a i s d e d i f e r e n t e s á r e a s d e conhecimento, que devem atuar de maneira integrada e apoiando os profissionais das equipes de Saúde da Família, das equipes de Atenção Básica para populações específicas (consultórios na rua, equipes ribeirinhas e fluviais etc.) e Academia da Saúde, compartilhando as práticas e saberes em saúde nos territórios sob a responsabilidade destas equipes, atuando diretamente no apoio matricial às equipes da(s) unidade(s) na(s) qual(is) o Nasf está vinculado 779 Ano: 2020"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0778",
+    "numero_ordem": 778,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'enfermeiros, médicos e outras áreas de conhecimento, que devem atuar de maneira integ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'profissionais de diferentes áreas de educação, que devem atuar de maneira integrada e...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'profissionais da área de saúde, que devem atuar de maneira individualizada e apoiando...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'p r o fi s s i o n a i s d e d i f e r e n t e s á r e a s d e conhecimento, que deve...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   }
 ]

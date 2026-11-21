@@ -1,7 +1,7 @@
 === CADERNO DE QUESTÕES: BIOÉTICA ===
 Total: 3 questões
 
-QUESTÃO 1 [Código: EF0125] - Prefeitura de Nova Mutum - MT (SELECON 2025) - Enfermeiro
+QUESTÃO 1 [Código: EF0205] - Prefeitura de Nova Mutum - MT (SELECON 2025) - Enfermeiro
 Assunto: Bioética
 O direito do paciente de tomar decisões sobre seu próprio corpo e tratamento, após receber todas as informações necessárias, é respeitado pelo princípio da:
 
@@ -11,16 +11,16 @@ O direito do paciente de tomar decisões sobre seu próprio corpo e tratamento, 
   [D] confidencialidade 206 Ano: 2025
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme preconiza o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017) e a Lei do Exercício Profissional (Lei nº 7.498/1986 regulamentada pelo Decreto nº 94.406/1987), o exercício da enfermagem é pautado por direitos, deveres e proibições rigorosas para garantir a segurança do paciente e a autonomia técnica do profissional. A alternativa [] traz com rigor técnico a conduta ética correta: ''.
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'beneficência...'.
-   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'confidencialidade 206 Ano: 2025...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'beneficência...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'confidencialidade 206 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 2 [Código: EF0178] - HEMOMINAS (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 2 [Código: EF0258] - HEMOMINAS (SELECON 2025) - Técnico de Enfermagem
 Assunto: Bioética
 ANHH - Nível I - Grau A - Enfermeiro No uso do prontuário eletrônico e práticas de documentação digital em enfermagem, algumas normas devem ser seguidas para garantir a segurança da informação e a proteção do paciente. Sobre a utilização de documentação digital, é possível afirmar que:
 
@@ -30,16 +30,16 @@ ANHH - Nível I - Grau A - Enfermeiro No uso do prontuário eletrônico e práti
   [D] em situações de urgência, é permitido que o técnico de enfermagem realize registros no prontuário eletrônico utilizando o login e a senha de um enfermeiro, desde que justificado 259 Ano: 2025
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme preconiza o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017) e a Lei do Exercício Profissional (Lei nº 7.498/1986 regulamentada pelo Decreto nº 94.406/1987), o exercício da enfermagem é pautado por direitos, deveres e proibições rigorosas para garantir a segurança do paciente e a autonomia técnica do profissional. A alternativa [] traz com rigor técnico a conduta ética correta: ''.
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o prontuário eletrônico elimina a necessidade de assinatura do profissional de enfermagem,...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o uso do prontuário eletrônico está isento de normas éticas ou legais que regulam o regist...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o profissional de enfermagem é responsável por manter a confidencialidade das informações ...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'em situações de urgência, é permitido que o técnico de enfermagem realize registros no pro...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'o prontuário eletrônico elimina a necessidade de assinatura do profissional de enferm...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'o uso do prontuário eletrônico está isento de normas éticas ou legais que regulam o r...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'o profissional de enfermagem é responsável por manter a confidencialidade das informa...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'em situações de urgência, é permitido que o técnico de enfermagem realize registros n...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 3 [Código: EF0254] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 3 [Código: EF0334] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
 Assunto: Bioética
 O profissional de enfermagem exerce suas atividades com competência para a promoção do ser humano na sua integralidade, de acordo com os princípios da ética e da bioética. Como uma das responsabilidades e deveres dos profissionais, destaca-se:
 
@@ -50,13 +50,13 @@ O profissional de enfermagem exerce suas atividades com competência para a prom
   [E] promover e ser conivente com a injúria, calúnia e difamação de membro da equipe de enfermagem, equipe de saúde e de trabalhadores de outras áreas, de organizações da categoria ou instituições.
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme preconiza o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017) e a Lei do Exercício Profissional (Lei nº 7.498/1986 regulamentada pelo Decreto nº 94.406/1987), o exercício da enfermagem é pautado por direitos, deveres e proibições rigorosas para garantir a segurança do paciente e a autonomia técnica do profissional. A alternativa [] traz com rigor técnico a conduta ética correta: ''.
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'exercer a profissão com justiça, compromisso, equidade, resolutividade, dignidade, competê...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'apoiar as iniciativas que visem ao aprimoramento profissional e à defesa dos direitos e in...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'exercer a enfermagem com liberdade, autonomia e ser tratado segundo os pressupostos e prin...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'praticar e/ou ser conivente com crime, contravenção penal ou qualquer outro ato, que infri...'.
-   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'promover e ser conivente com a injúria, calúnia e difamação de membro da equipe de enferma...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'exercer a profissão com justiça, compromisso, equidade, resolutividade, dignidade, co...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'apoiar as iniciativas que visem ao aprimoramento profissional e à defesa dos direitos...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'exercer a enfermagem com liberdade, autonomia e ser tratado segundo os pressupostos e...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'praticar e/ou ser conivente com crime, contravenção penal ou qualquer outro ato, que ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa E: Incorreta perante os protocolos técnicos, pois 'promover e ser conivente com a injúria, calúnia e difamação de membro da equipe de en...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 

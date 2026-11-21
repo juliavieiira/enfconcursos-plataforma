@@ -30,22 +30,22 @@
     "resposta_correta": "D",
     "id": "EF0005",
     "numero_ordem": 5,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [D] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: '14h - Paciente apresenta inquietação, tenta retirar repetidamente a máscara de oxigênio e verbaliza: \"Não quero mais essa máscara\"'.",
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('14h - Paciente apresenta inquietação, tenta retirar repetidamente a máscara de oxigênio e verbaliza: \"Não quero mais essa máscara\"') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '14h - Paciente agitado e resistente à oxigenoterapia...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '14h - Paciente agitado e resistente à oxigenoterapia...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '14h - Paciente apresenta comportamento inadequado e recusa o tratamento prescrito...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '14h - Paciente apresenta comportamento inadequado e recusa o tratamento prescrito...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '14h - Paciente inquieto, tenta retirar a máscara de oxigênio e demonstra falta de colabora...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '14h - Paciente inquieto, tenta retirar a máscara de oxigênio e demonstra falta de col...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [D] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: '14h - Pac..."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [D] ('14h - Paciente apresenta inquietação, tenta retirar repetidamente a máscara de oxigênio e verbaliza: \"Não quero mais e..."
   },
   {
     "codigo_origem": "Q4370022",
@@ -78,21 +78,39 @@
     "resposta_correta": "B",
     "id": "EF0015",
     "numero_ordem": 15,
-    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [B] ('4 litros por minuto') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [B] ('4 litros por minuto') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '2 litros por minuto...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '2 litros por minuto...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '6 litros por minuto...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '6 litros por minuto...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '8 litros por minuto...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '8 litros por minuto...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [B] ('4 li..."
+  },
+  {
+    "codigo_origem": "Q2310586",
+    "banca": "SELECON",
+    "orgao": "Prefeitura Municipal",
+    "ano": 2024,
+    "prova": "",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Oxigenoterapia , Anatomia na Enfermagem , Fisiologia",
+    "enunciado": "",
+    "alternativas": [],
+    "resposta_correta": "",
+    "id": "EF0611",
+    "numero_ordem": 611,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   }
 ]

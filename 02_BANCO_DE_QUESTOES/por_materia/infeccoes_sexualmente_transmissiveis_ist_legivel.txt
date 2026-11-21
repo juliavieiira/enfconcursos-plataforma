@@ -1,0 +1,41 @@
+=== CADERNO DE QUESTÕES: INFECÇÕES SEXUALMENTE TRANSMISSÍVEIS (IST) ===
+Total: 2 questões
+
+QUESTÃO 1 [Código: EF0600] - Prefeitura de Primavera do Leste - MT (SELECON 2024) - Enfermeiro
+Assunto: Infecções Sexualmente Transmissíveis (IST) , Saúde da Mulher
+MT - Enfermeiro Intervencionista - SAMU A infecção pelo HIV tem um acometimento sistêmico, por isso, é necessário estar atento a sinais clínicos. Nesse sentido, o exame físico deve incluir:
+
+  [A] medida da circunferência abdominal, peso, altura, cálculo do índice de massa corpórea e aferição da pressão arterial
+  [B] aferição da glicemia capilar, peso, altura, cálculo do índice de massa corpórea e medida da circunferência abdominal
+  [C] ausculta pulmonar, altura, medida da circunferência abdominal, aferição da glicemia capilar e temperatura
+  [D] peso, altura, cálculo do índice de massa corpórea, medida da circunferência abdominal e respiração
+
+✅ Gabarito: 
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'medida da circunferência abdominal, peso, altura, cálculo do índice de massa corpórea...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'aferição da glicemia capilar, peso, altura, cálculo do índice de massa corpórea e med...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'ausculta pulmonar, altura, medida da circunferência abdominal, aferição da glicemia c...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'peso, altura, cálculo do índice de massa corpórea, medida da circunferência abdominal...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 2 [Código: EF0737] - Prefeitura de Boa Vista - RR (SELECON 2024) - Técnico de Enfermagem
+Assunto: Infecções Sexualmente Transmissíveis (IST) , Saúde da Mulher
+Segurança do Trabalho Doença sexualmente transmissível causada pela bactéria Treponema pallidum, muito disseminada entre pessoas jovens, cujo primeiro sinal é uma ferida discreta que pode surgir no pênis, vulva, vagina, colo do útero, ânus ou boca. A ferida não provoca dor e desaparece mesmo sem tratamento, o que sugere cura. Entretanto, a bactéria continua presente no sangue e a doença evoluindo. Essa doença é denominada:
+
+  [A] sífilis
+  [B] gonorreia
+  [C] cancro mole
+  [D] Síndrome da Imunodeficiência (AIDS)
+
+✅ Gabarito: 
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'cancro mole...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Síndrome da Imunodeficiência (AIDS)...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+

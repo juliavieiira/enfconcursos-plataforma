@@ -30,22 +30,22 @@
     "resposta_correta": "B",
     "id": "EF0013",
     "numero_ordem": 13,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [B] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: 'monitorar a evolução dos sintomas ao longo do tempo e avaliar a resposta às intervenções implementadas'.",
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [B] ('monitorar a evolução dos sintomas ao longo do tempo e avaliar a resposta às intervenções implementadas') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'estabelecer o prognóstico de sobrevida do paciente com base na intensidade dos sintomas re...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'estabelecer o prognóstico de sobrevida do paciente com base na intensidade dos sintom...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'dispensar a avaliação clínica detalhada, uma vez que a escala contempla todas as dimensões...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'dispensar a avaliação clínica detalhada, uma vez que a escala contempla todas as dime...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'padronizar a prescrição de analgésicos opioides, independentemente da causa subjacente da ...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'padronizar a prescrição de analgésicos opioides, independentemente da causa subjacent...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [B] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: 'monitorar..."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [B] ('monitorar a evolução dos sintomas ao longo do tempo e avaliar a resposta às intervenções implementadas') responde corr..."
   },
   {
     "codigo_origem": "Q4370023",
@@ -78,22 +78,22 @@
     "resposta_correta": "C",
     "id": "EF0014",
     "numero_ordem": 14,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [C] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: 'de forma articulada entre os diferentes pontos de atenção, com participação da Atenção Primária à Saúde como coordenadora do cuidado'.",
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [C] ('de forma articulada entre os diferentes pontos de atenção, com participação da Atenção Primária à Saúde como coordenadora do cuidado') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'exclusivamente em unidades de alta complexidade, como hospitais de referência em...'."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'prioritariamente em serviços de atenção domiciliar, com ênfase no ambiente familiar e na r...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'prioritariamente em serviços de atenção domiciliar, com ênfase no ambiente familiar e...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'por equipes exclusivamente médicas, dada a complexidade das decisões terapêutica...'."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [C] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: 'de forma ..."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [C] ('de forma articulada entre os diferentes pontos de atenção, com participação da Atenção Primária à Saúde como coordenad..."
   },
   {
     "codigo_origem": "Q4317369",
@@ -126,130 +126,26 @@
     "resposta_correta": "",
     "id": "EF0050",
     "numero_ordem": 50,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'deve ser iniciado sempre que o paciente relatar dispneia...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'deve ser iniciado sempre que o paciente relatar dispneia...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'constitui medida obrigatória diante de qualquer desconforto respiratório persistente...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'constitui medida obrigatória diante de qualquer desconforto respiratório persistente...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'pode ser indicado na presença de hipoxemia, não sendo recomendado de forma rotineira apena...'."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'pode ser indicado na presença de hipoxemia, não sendo recomendado de forma rotin...'."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'deve ser mantido continuamente em pacientes com doença avançada, independentemente da satu...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'deve ser mantido continuamente em pacientes com doença avançada, independentemente da...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
-  },
-  {
-    "codigo_origem": "Q3184822",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Nova Mutum - MT",
-    "ano": 2024,
-    "prova": "SELECON - 2024 - Prefeitura de Nova Mutum - MT - Técnica",
-    "cargo": "Enfermeiro",
-    "materia": "Enfermagem",
-    "assunto": "Cuidados Paliativos na Enfermagem",
-    "enunciado": "No que tange a assistência em enfermagem ao paciente em cuidados paliativos, a avaliação da dor é um quesito primordial e podem ser utilizados diversos instrumentos. Segundo a Escala comportamental de dor, em casos nos quais o paciente está inconsciente, sob sedação e em ventilação mecânica, avalia-se os seguintes itens:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "expressão facial, membros superiores e adaptação à ventilação mecânica"
-      },
-      {
-        "id": "B",
-        "texto": "tônus muscular, adaptação à ventilação mecânica e aspecto da pele"
-      },
-      {
-        "id": "C",
-        "texto": "membros superiores, aspecto da pele e frequência cardíaca"
-      },
-      {
-        "id": "D",
-        "texto": "expressão facial, tensão cervical e emissão de sons 325 Ano: 2024"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0244",
-    "numero_ordem": 244,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'expressão facial, membros superiores e adaptação à ventilação mecânica...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tônus muscular, adaptação à ventilação mecânica e aspecto da pele...'."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'membros superiores, aspecto da pele e frequência cardíaca...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'expressão facial, tensão cervical e emissão de sons 325 Ano: 2024...'."
-      }
-    ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
-  },
-  {
-    "codigo_origem": "Q3674529",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Dourados - MS",
-    "ano": 2024,
-    "prova": "SELECON - 2023 - Prefeitura de Dourados - MS -",
-    "cargo": "Enfermeiro",
-    "materia": "Enfermagem",
-    "assunto": "Cuidados Paliativos na Enfermagem , Enfermagem em Oncologia",
-    "enunciado": "A escala de performance status conhecida como Karnofsky foi desenvolvida para pacientes oncológicos com o objetivo de documentar o declínio clínico e de avaliar a capacidade dos pacientes em realizar determinadas atividades básicas. A maioria dos pacientes com uma escala Karnofsky inferior a 70% tem indicação precoce de assistência de cuidado:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "eletivo"
-      },
-      {
-        "id": "B",
-        "texto": "urgente"
-      },
-      {
-        "id": "C",
-        "texto": "paliativo"
-      },
-      {
-        "id": "D",
-        "texto": "emergencial"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0440",
-    "numero_ordem": 440,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'emergencial...'."
-      }
-    ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q3802702",
@@ -280,27 +176,287 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0504",
-    "numero_ordem": 504,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0164",
+    "numero_ordem": 164,
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'instruir o cuidador a se dedicar integralmente ao paciente, evitando qualquer atividade de...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'instruir o cuidador a se dedicar integralmente ao paciente, evitando qualquer ativida...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'oferecer ao cuidador uma lista de tarefas diárias detalhadas, para que ele possa seguir um...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'oferecer ao cuidador uma lista de tarefas diárias detalhadas, para que ele possa segu...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'avaliar regularmente a saúde física e mental do cuidador, identificar fontes de apoio soci...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'avaliar regularmente a saúde física e mental do cuidador, identificar fontes de apoio...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'sugerir que o cuidador se isole socialmente para evitar o contágio de doenças e ...'."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Partici..."
+  },
+  {
+    "codigo_origem": "Q3184822",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Nova Mutum - MT - Técnica",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Cuidados Paliativos na Enfermagem",
+    "enunciado": "No que tange a assistência em enfermagem ao paciente em cuidados paliativos, a avaliação da dor é um quesito primordial e podem ser utilizados diversos instrumentos. Segundo a Escala comportamental de dor, em casos nos quais o paciente está inconsciente, sob sedação e em ventilação mecânica, avalia-se os seguintes itens:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "expressão facial, membros superiores e adaptação à ventilação mecânica"
+      },
+      {
+        "id": "B",
+        "texto": "tônus muscular, adaptação à ventilação mecânica e aspecto da pele"
+      },
+      {
+        "id": "C",
+        "texto": "membros superiores, aspecto da pele e frequência cardíaca"
+      },
+      {
+        "id": "D",
+        "texto": "expressão facial, tensão cervical e emissão de sons 325 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0324",
+    "numero_ordem": 324,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'expressão facial, membros superiores e adaptação à ventilação mecânica...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'tônus muscular, adaptação à ventilação mecânica e aspecto da pele...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'membros superiores, aspecto da pele e frequência cardíaca...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'expressão facial, tensão cervical e emissão de sons 325 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q3674529",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Dourados - MS",
+    "ano": 2024,
+    "prova": "SELECON - 2023 - Prefeitura de Dourados - MS -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Cuidados Paliativos na Enfermagem , Enfermagem em Oncologia",
+    "enunciado": "A escala de performance status conhecida como Karnofsky foi desenvolvida para pacientes oncológicos com o objetivo de documentar o declínio clínico e de avaliar a capacidade dos pacientes em realizar determinadas atividades básicas. A maioria dos pacientes com uma escala Karnofsky inferior a 70% tem indicação precoce de assistência de cuidado:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "eletivo"
+      },
+      {
+        "id": "B",
+        "texto": "urgente"
+      },
+      {
+        "id": "C",
+        "texto": "paliativo"
+      },
+      {
+        "id": "D",
+        "texto": "emergencial"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0520",
+    "numero_ordem": 520,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'emergencial...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q2297110",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Campo Verde - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Campo Verde - MT - Técnico",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Cuidados Paliativos na Enfermagem",
+    "enunciado": "em Enfermagem Os cuidados paliativos são executados por uma equipe multidisciplinar, sendo o técnico de enfermagem o profissional mais próximo do paciente e da família. Portanto, esse profissional deve desenvolver uma comunicação efetiva, por meio de uma escuta:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "ativa e qualificada, possibilitando a identificação das necessidades dos membros envolvidos, com redução de conflitos e do esgotamento das relações"
+      },
+      {
+        "id": "B",
+        "texto": "ativa e não técnica, possibilitando a identificação das necessidades somente do paciente e redução de conflitos e do esgotamento das relações"
+      },
+      {
+        "id": "C",
+        "texto": "proativa e estritamente técnica, diagnosticando os problemas de saúde e mantendo o sigilo profissional"
+      },
+      {
+        "id": "D",
+        "texto": "proativa e respeitosa, limitando algumas informações técnicas devido ao quadro de saúde do paciente e reduzindo o sigilo profissional"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0641",
+    "numero_ordem": 641,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'ativa e qualificada, possibilitando a identificação das necessidades dos membros envo...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'ativa e não técnica, possibilitando a identificação das necessidades somente do pacie...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'proativa e estritamente técnica, diagnosticando os problemas de saúde e mantendo o si...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'proativa e respeitosa, limitando algumas informações técnicas devido ao quadro de saú...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q2297078",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Campo Verde - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Campo Verde - MT - Técnico",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Cuidados Paliativos na Enfermagem",
+    "enunciado": "em Higiene Dental Promover qualidade de vida e bem-estar de pacientes em fase terminal visa a uma proposta de assistência integral que busca o alívio da dor e de sintomas, além de suporte psicossocial e espiritual. A temática de extrema importância engloba rede multidisciplinar de cuidados dispensados ao paciente e a seus familiares, quando a doença não responde mais ao tratamento curativo. O nome dado para esse pacote de medidas é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "morte assistida"
+      },
+      {
+        "id": "B",
+        "texto": "cuidados paliativos"
+      },
+      {
+        "id": "C",
+        "texto": "promoção de saúde"
+      },
+      {
+        "id": "D",
+        "texto": "tratamento e remissão da doença 643 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Prefeitura de Campo Verde - MT Prova: SELECON - 2023 - Prefeitura de Campo Verde - MT - Técnico"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0642",
+    "numero_ordem": 642,
+    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'morte assistida...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'cuidados paliativos...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'promoção de saúde...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'tratamento e remissão da doença 643 Enfermagem > Legislação em Saúde , Sistema Único ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa ..."
+  },
+  {
+    "codigo_origem": "Q1956068",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Pontes e Lacerda - MT",
+    "ano": 2022,
+    "prova": "SELECON - 2022 - Prefeitura de Pontes e Lacerda - MT -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Cuidados Paliativos na Enfermagem",
+    "enunciado": "Técnico em Enfermagem Segundo a definição da Organização Mundial de Saúde (OMS), revisada em 2017, o cuidado paliativo é uma abordagem que consiste em melhorar a qualidade de vida:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "das crianças que enfrentam problemas associados a doenças que ameaçam a vida, além de prevenir e aliviar o sofrimento através da identificação tardia, avaliação correta e tratamento da dor e dos problemas físicos e psicossociais, excluindo os espirituais"
+      },
+      {
+        "id": "B",
+        "texto": "dos pacientes adultos e crianças que enfrentam problemas associados a doenças que ameaçam a vida; além disso, previne e alivia o sofrimento através da identificação tardia, avaliação correta e tratamento da dor e de outros problemas físicos"
+      },
+      {
+        "id": "C",
+        "texto": "dos pacientes adultos que enfrentam problemas associados a doenças que ameaçam a vida, além de aliviar o sofrimento através da identificação precoce, avaliação correta e tratamento da dor e de outros problemas físicos e psicossociais, excluindo os espirituais"
+      },
+      {
+        "id": "D",
+        "texto": "de pacientes (adultos e crianças) e suas famílias que enfrentam problemas associados a doenças que ameaçam a vida; além disso, previne e alivia o sofrimento através da identificação precoce, avaliação correta e tratamento da dor e de outros problemas físicos, psicossociais ou espirituais 715 Ano: 2022"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0714",
+    "numero_ordem": 714,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'das crianças que enfrentam problemas associados a doenças que ameaçam a vida, além de...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'dos pacientes adultos e crianças que enfrentam problemas associados a doenças que ame...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'dos pacientes adultos que enfrentam problemas associados a doenças que ameaçam a vida...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'de pacientes (adultos e crianças) e suas famílias que enfrentam problemas associados ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   }
 ]

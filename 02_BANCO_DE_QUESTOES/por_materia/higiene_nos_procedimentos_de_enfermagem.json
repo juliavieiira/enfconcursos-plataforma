@@ -1,5 +1,57 @@
 [
   {
+    "codigo_origem": "Q3810637",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Garças - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Higiene nos Procedimentos de Enfermagem , Fundamentos e Procedimentos de Enfermagem",
+    "enunciado": "Técnico em Enfermagem Durante o banho no leito, uma prática essencial para minimizar o risco de contaminação cruzada e preservar a segurança do paciente é seguir a sequência correta de higiene. De acordo com os princípios de limpeza, a conduta adequada consiste em:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "realizar a limpeza sempre no sentido céfalo-caudal, começando pela face"
+      },
+      {
+        "id": "B",
+        "texto": "executar a higiene perineal somente após a limpeza das demais regiões corporais"
+      },
+      {
+        "id": "C",
+        "texto": "lavar primeiro as áreas de maior carga microbiana, para reduzir o tempo total do procedimento"
+      },
+      {
+        "id": "D",
+        "texto": "iniciar o banho pelas extremidades inferiores, independentemente do grau de sujidade"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0140",
+    "numero_ordem": 140,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'realizar a limpeza sempre no sentido céfalo-caudal, começando pela face...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'executar a higiene perineal somente após a limpeza das demais regiões corporais...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'lavar primeiro as áreas de maior carga microbiana, para reduzir o tempo total do proc...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'iniciar o banho pelas extremidades inferiores, independentemente do grau de sujidade...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
     "codigo_origem": "Q2528692",
     "banca": "SELECON",
     "orgao": "SAD-MS",
@@ -32,83 +84,135 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0256",
-    "numero_ordem": 256,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0336",
+    "numero_ordem": 336,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "E",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'chuveiro 337 Ano: 2024...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'chuveiro 337 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
-    "codigo_origem": "Q3810637",
+    "codigo_origem": "Q2325287",
     "banca": "SELECON",
-    "orgao": "Prefeitura de Barra do Garças - MT",
-    "ano": 2024,
-    "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
-    "cargo": "Técnico de Enfermagem",
+    "orgao": "Prefeitura de Primavera do Leste - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Primavera do Leste -",
+    "cargo": "Enfermeiro",
     "materia": "Enfermagem",
     "assunto": "Higiene nos Procedimentos de Enfermagem , Fundamentos e Procedimentos de Enfermagem",
-    "enunciado": "Técnico em Enfermagem Durante o banho no leito, uma prática essencial para minimizar o risco de contaminação cruzada e preservar a segurança do paciente é seguir a sequência correta de higiene. De acordo com os princípios de limpeza, a conduta adequada consiste em:",
+    "enunciado": "MT - Enfermeiro Intervencionista - SAMU De acordo com protocolo PE36, que descreve a limpeza e a de 20 minutos desinfecção de equipamentos da ambulância, o laringoscópio e as lâminas para intubação devem seguir a seguinte rotina:",
     "alternativas": [
       {
         "id": "A",
-        "texto": "realizar a limpeza sempre no sentido céfalo-caudal, começando pela face"
+        "texto": "retirar as pilhas do cabo; retirar as lâmpadas das lâminas; friccionar com pano umedecido em água e sabão e retirar o excesso antes de secar, e friccionar com pano umedecido em álcool 70%"
       },
       {
         "id": "B",
-        "texto": "executar a higiene perineal somente após a limpeza das demais regiões corporais"
+        "texto": "manter as pilhas do cabo; manter as lâmpadas das lâminas; friccionar com pano umedecido em água e sabão e retirar o excesso antes de secar, e friccionar com pano umedecido em álcool 70%"
       },
       {
         "id": "C",
-        "texto": "lavar primeiro as áreas de maior carga microbiana, para reduzir o tempo total do procedimento"
+        "texto": "retirar as pilhas do cabo; retirar as lâmpadas das lâminas; friccionar com pano umedecido em água morna e sabão e retirar o excesso antes de secar, e friccionar com pano umedecido em óxido de etileno"
       },
       {
         "id": "D",
-        "texto": "iniciar o banho pelas extremidades inferiores, independentemente do grau de sujidade"
+        "texto": "retirar as pilhas do cabo; manter as lâmpadas das lâminas; friccionar com pano umedecido em água e sabão e retirar o excesso antes de secar, e friccionar com pano umedecido com clorexidina aquosa 0,12% 592 Ano: 2023"
       }
     ],
     "resposta_correta": "",
-    "id": "EF0480",
-    "numero_ordem": 480,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0591",
+    "numero_ordem": 591,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar a limpeza sempre no sentido céfalo-caudal, começando pela face...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'retirar as pilhas do cabo; retirar as lâmpadas das lâminas; friccionar com pano umede...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'executar a higiene perineal somente após a limpeza das demais regiões corporais...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'manter as pilhas do cabo; manter as lâmpadas das lâminas; friccionar com pano umedeci...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'lavar primeiro as áreas de maior carga microbiana, para reduzir o tempo total do procedime...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'retirar as pilhas do cabo; retirar as lâmpadas das lâminas; friccionar com pano umede...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'iniciar o banho pelas extremidades inferiores, independentemente do grau de sujidade...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'retirar as pilhas do cabo; manter as lâmpadas das lâminas; friccionar com pano umedec...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+  },
+  {
+    "codigo_origem": "Q2160734",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Nova Mutum - MT - Técnico",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Higiene nos Procedimentos de Enfermagem , Fundamentos e Procedimentos de Enfermagem",
+    "enunciado": "em Enfermagem O banho no leito é um cuidado extremamente importante executado pelo técnico de enfermagem, cujos principais objetivos são proporcionar conforto, limpeza corporal e estimulação da circulação; além disso, é uma estratégia complementar de inspeção do paciente. Para realizar esse cuidado, é importante iniciar com a limpeza:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "do tronco (ensaboar o tórax e as axilas, começando pelo lado mais distante, abrangendo o abdome e a genitália) e, na sequência, enxaguar e secar."
+      },
+      {
+        "id": "B",
+        "texto": "das pernas (ensaboar as pernas, começando pelo lado mais distante, abrangendo a raiz da coxa, a panturrilha e os pés) e, na sequência, enxaguar e secar."
+      },
+      {
+        "id": "C",
+        "texto": "do rosto (ensaboar o rosto, começando pelo lado mais distante, abrangendo toda a face, as orelhas, o pescoço e a nuca) e, na sequência, enxaguar e secar"
+      },
+      {
+        "id": "D",
+        "texto": "dos braços (ensaboar os braços, começando pelo membro mais distante, abrangendo todo braço, antebraço, punho e dedos) e, na sequência, enxaguar e secar. 674 Ano: 2023 Enfermagem > Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Sinais vitais , Fundamentos e Procedimentos de Enfermagem Exame Físico Banca: SELECON Órgão: Prefeitura de Nova Mutum - MT Prova: SELECON - 2023 - Prefeitura de Nova Mutum - MT - Técnico"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0673",
+    "numero_ordem": 673,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'do tronco (ensaboar o tórax e as axilas, começando pelo lado mais distante, abrangend...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'das pernas (ensaboar as pernas, começando pelo lado mais distante, abrangendo a raiz ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'do rosto (ensaboar o rosto, começando pelo lado mais distante, abrangendo toda a face...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'dos braços (ensaboar os braços, começando pelo membro mais distante, abrangendo todo ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   }
 ]

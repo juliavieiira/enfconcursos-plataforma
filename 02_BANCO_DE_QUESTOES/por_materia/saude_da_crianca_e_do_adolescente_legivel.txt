@@ -1,5 +1,5 @@
 === CADERNO DE QUESTÕES: SAÚDE DA CRIANÇA E DO ADOLESCENTE ===
-Total: 18 questões
+Total: 24 questões
 
 QUESTÃO 1 [Código: EF0087] - EMGEPRON (SELECON 2026) - Enfermeiro
 Assunto: Saúde da Criança e do Adolescente , História da Enfermagem
@@ -11,16 +11,73 @@ No que se refere às recomendações atuais sobre aleitamento materno, é corret
   [D] amamentação deve ser rigidamente realizada a cada três horas, não podendo prolongar além disso devido ao risco de hipoglicemia
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'introdução de fórmulas infantis está indicada como complemento alimentar habitual a partir...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aleitamento materno exclusivo deve ser mantido até os seis meses de vida, sendo necessária...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aleitamento materno exclusivo até os seis meses de vida dispensa a oferta de água, chás ou...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'amamentação deve ser rigidamente realizada a cada três horas, não podendo prolongar além d...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'introdução de fórmulas infantis está indicada como complemento alimentar habitual a p...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'aleitamento materno exclusivo deve ser mantido até os seis meses de vida, sendo ...'.
+   • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'aleitamento materno exclusivo até os seis meses de vida dispensa a oferta de águ...'.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'amamentação deve ser rigidamente realizada a cada três horas, não podendo prolongar a...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 2 [Código: EF0137] - Prefeitura de Tapurah - MT (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 2 [Código: EF0104] - EMGEPRON (SELECON 2026) - Enfermeiro
+Assunto: Saúde da Criança e do Adolescente , Atenção Básica e Saúde da Família
+No acompanhamento de puericultura na Atenção Primária à Saúde, o enfermeiro orienta a família sobre suplementação de vitamina D conforme as diretrizes nacionais vigentes para prevenção da deficiência na infância. Nesse caso, é correto recomendar que:
+
+  [A] lactentes em aleitamento materno exclusivo não necessitam de suplementação de vitamina D quando há exposição solar diária regular e crescimento adequado
+  [B] a suplementação de vitamina D deve ser iniciada a partir do sexto mês de vida, período em que ocorre maior risco de deficiência nutricional e introdução alimentar
+  [C] a suplementação de vitamina D é recomendada desde o nascimento, na dose preconizada de 400 UI/dia para lactentes, independentemente do tipo de aleitamento, cabendo ao enfermeiro orientar a administração correta e reforçar a adesão
+  [D] lactentes alimentados com fórmulas infantis estão automaticamente dispensados da suplementação de vitamina D, independentemente do volume ingerido, da concentração presente na fórmula ou de avaliação individual pela equipe de saúde 105 Ano: 2026
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
+❌ Distratores:
+   • Alternativa A: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'lactentes em aleitamento materno exclusivo não necessitam de suplementação de vi...'.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'a suplementação de vitamina D deve ser iniciada a partir do sexto mês de vida, períod...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a suplementação de vitamina D é recomendada desde o nascimento, na dose preconizada d...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'lactentes alimentados com fórmulas infantis estão automaticamente dispensados da supl...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 3 [Código: EF0110] - Prefeitura de Porto dos Gaúchos - MT (SELECON 2026) - Técnico de Enfermagem
+Assunto: Saúde da Criança e do Adolescente , Cuidados de Enfermagem
+MT - Técnico em Enfermagem Na sala de parto, durante os cuidados imediatos a um recém-nascido de 37 semanas e 4 dias, filho de mãe diabética gestacional, a conduta adequada do técnico de enfermagem, segundo as boas práticas do cuidado, é:
+
+  [A] realizar o primeiro banho logo após o nascimento para evitar infecções e manter o bebê ativo
+  [B] manter o recém-nascido aquecido e estimular o contato pele a pele na primeira hora
+  [C] administrar glicose oral de rotina para prevenir a hipoglicemia neonatal
+  [D] aspirar vias aéreas superiores para evitar recusa na amamentação 111 Ano: 2026
+
+✅ Gabarito: 
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'realizar o primeiro banho logo após o nascimento para evitar infecções e manter o beb...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'manter o recém-nascido aquecido e estimular o contato pele a pele na primeira hora...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'administrar glicose oral de rotina para prevenir a hipoglicemia neonatal...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'aspirar vias aéreas superiores para evitar recusa na amamentação 111 Ano: 2026...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 4 [Código: EF0148] - Prefeitura de Barra do Garças - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Saúde da Criança e do Adolescente
+Técnico em Enfermagem No acompanhamento ambulatorial de uma criança com diarreia aguda sem sinais de desidratação, o técnico de enfermagem participa das ações educativas e do suporte à hidratação oral. Segundo as recomendações do Ministério da Saúde para o manejo da diarreia na infância, a conduta correta é:
+
+  [A] oferecer solução de reidratação oral somente após cada episódio diarreico, evitando seu uso entre as evacuações
+  [B] reforçar com o responsável que a criança deve receber maior oferta de líquidos, incluindo SRO em pequenas quantidades e intervalos frequentes
+  [C] recomendar redução da ingesta hídrica para evitar sobrecarga intestinal durante os episódios de diarreia, limitando a oferta de líquidos apenas aos horários das refeições, de modo a diminuir o estímulo ao trânsito intestinal
+  [D] orientar suspensão temporária da alimentação habitual até cessarem completamente as evacuações líquidas, evitando oferecer qualquer alimento sólido nesse período, uma vez que o trato gastrointestinal precisa de repouso para recuperação 149 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'oferecer solução de reidratação oral somente após cada episódio diarreico, evitando s...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'reforçar com o responsável que a criança deve receber maior oferta de líquidos, inclu...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'recomendar redução da ingesta hídrica para evitar sobrecarga intestinal durante ...'.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'orientar suspensão temporária da alimentação habitual até cessarem completamente as e...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 5 [Código: EF0217] - Prefeitura de Tapurah - MT (SELECON 2025) - Técnico de Enfermagem
 Assunto: Saúde da Criança e do Adolescente , Atenção Básica e Saúde da Família
 Enfermagem Durante o atendimento de rotina na Unidade Básica de Saúde (UBS), o técnico de enfermagem realiza a triagem de um recém-nascido de 6 dias, trazido pela mãe que relata que o bebê está mamando no peito, mas que "parece sempre com fome" e tem feito pouca urina. Ao observar a fralda, nota que está seca e a mãe relata que o bebê urina uma ou duas vezes por dia. O bebê está ictérico até a parte inferior do abdome, com fontanela normotensa, pele fina e sem lesões aparentes. Diante dessa situação, o técnico de enfermagem deve:
 
@@ -30,16 +87,16 @@ Enfermagem Durante o atendimento de rotina na Unidade Básica de Saúde (UBS), o
   [D] reforçar para a mãe que a icterícia é normal e que o bebê provavelmente está apenas chorando por cólica
 
 ✅ Gabarito: 
-💡 Fundamentação: Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aconselhar que a mãe ofereça chá de camomila entre as mamadas para acalmar o bebê...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'registrar os achados, reforçar o aleitamento e orientar retorno apenas no próximo agendame...'.
-   • Alternativa C: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'reforçar para a mãe que a icterícia é normal e que o bebê provavelmente está apenas choran...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'aconselhar que a mãe ofereça chá de camomila entre as mamadas para acalmar o bebê...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'registrar os achados, reforçar o aleitamento e orientar retorno apenas no próxim...'.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'realizar registro dos achados e comunicar imediatamente à equipe de enfermagem para a...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'reforçar para a mãe que a icterícia é normal e que o bebê provavelmente está ape...'.
 
 ------------------------------------------------------------
 
-QUESTÃO 3 [Código: EF0209] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 6 [Código: EF0289] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
 Assunto: Saúde da Criança e do Adolescente , Fundamentos e Procedimentos de Enfermagem
 Enfermagem Durante um atendimento, foi solicitada a aferição da pressão arterial (PA) para verificar o estado hemodinâmico de um paciente de 5 anos. Após a verificação, a PA obtida foi de 115/75 mmHg. De acordo com os parâmetros de referência para a pressão arterial em crianças e a conduta de enfermagem, é correto afirmar que:
 
@@ -49,16 +106,16 @@ Enfermagem Durante um atendimento, foi solicitada a aferição da pressão arter
   [D] a PA de 115/75 mmHg está ligeiramente elevada para uma criança de 5 anos e a equipe de enfermagem deve iniciar uma investigação detalhada sobre possíveis fatores contribuintes, como dieta e atividade física, antes de realizar novas avaliações ou intervenções
 
 ✅ Gabarito: 
-💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a PA está dentro dos limites normais para a faixa etária da criança, portanto, o profissio...'.
-   • Alternativa B: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a PA está dentro da faixa normal para crianças dessa idade, mas o técnico deve repetir a m...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a PA de 115/75 mmHg está ligeiramente elevada para uma criança de 5 anos e a equipe de enf...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'a PA está dentro dos limites normais para a faixa etária da criança, portanto, o prof...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'a PA está elevada para a faixa etária da criança, indicando hipertensão e o profissio...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a PA está dentro da faixa normal para crianças dessa idade, mas o técnico deve repeti...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'a PA de 115/75 mmHg está ligeiramente elevada para uma criança de 5 anos e a equipe d...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 4 [Código: EF0212] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 7 [Código: EF0292] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
 Assunto: Saúde da Criança e do Adolescente , Aleitamento Materno
 Enfermagem O leite humano é um alimento funcional e é considerado padrão ouro de alimentação infantil. Em relação à sua composição, é correto afirmar que:
 
@@ -68,16 +125,16 @@ Enfermagem O leite humano é um alimento funcional e é considerado padrão ouro
   [D] é predominantemente influenciada pela dieta materna, sendo que a quantidade de componentes bioativos, como os anticorpos, se mantém constante, independentemente das condições de saúde da mãe ou do ambiente
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'é composto por uma mistura dinâmica de lipídios, proteínas, carboidratos, vitaminas e mine...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'possui uma concentração predominante de carboidratos, especialmente lactose, e é praticame...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'é constante ao longo da amamentação, com a quantidade de proteínas, lipídios e carboidrato...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'é predominantemente influenciada pela dieta materna, sendo que a quantidade de componentes...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'é composto por uma mistura dinâmica de lipídios, proteínas, carboidratos, vitaminas e...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'possui uma concentração predominante de carboidratos, especialmente lactose, e é prat...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'é constante ao longo da amamentação, com a quantidade de proteínas, lipídios e carboi...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'é predominantemente influenciada pela dieta materna, sendo que a quantidade de compon...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 5 [Código: EF0225] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
+QUESTÃO 8 [Código: EF0305] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
 Assunto: Saúde da Criança e do Adolescente , Aleitamento Materno
 Um bebê de 5 meses está sendo alimentado com leite materno, além de receber vitaminas e água. Considerando as classificações de aleitamento, a alternativa abaixo que descreve corretamente a forma de aleitamento deste bebê é:
 
@@ -87,16 +144,16 @@ Um bebê de 5 meses está sendo alimentado com leite materno, além de receber v
   [D] aleitamento artificial, porque o bebê recebe, além do leite materno, suplementos como vitaminas e água, o que caracteriza o uso de outros alimentos 306 Ano: 2025
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aleitamento exclusivo, pois o bebê recebe apenas leite materno e não outros alimentos comp...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aleitamento predominante, pois o bebê recebe leite materno, mas também recebe alimentos e ...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aleitamento misto, pois o bebê recebe leite materno juntamente com vitaminas e água, que s...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aleitamento artificial, porque o bebê recebe, além do leite materno, suplementos como vita...'.
+   • Alternativa A: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'aleitamento exclusivo, pois o bebê recebe apenas leite materno e não outros alim...'.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'aleitamento predominante, pois o bebê recebe leite materno, mas também recebe aliment...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'aleitamento misto, pois o bebê recebe leite materno juntamente com vitaminas e água, ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'aleitamento artificial, porque o bebê recebe, além do leite materno, suplementos como...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 6 [Código: EF0237] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
+QUESTÃO 9 [Código: EF0317] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
 Assunto: Saúde da Criança e do Adolescente , Doenças Respiratórias , Doenças Crônicas Não Transmissíveis
 Uma criança de 11 meses é trazida ao hospital com quadro clínico caracterizado por episódios de tosse intensa e paroxística, seguidos de dificuldade respiratória, cianose e um característico "galo" inspiratório. A mãe relata que os sintomas começaram de forma branda, com coriza e febre baixa, mas pioraram progressivamente, com episódios de tosse cada vez mais frequentes, especialmente à noite. Diante da suspeita de coqueluche, a abordagem terapêutica inicial mais adequada, considerando os aspectos críticos da gestão e controle da doença, é:
 
@@ -106,16 +163,16 @@ Uma criança de 11 meses é trazida ao hospital com quadro clínico caracterizad
   [D] administrar anti-inflamatórios não esteroides, iniciar tratamento com antitussígenos e prescrever exames laboratoriais para confirmar a infecção 318 Ano: 2025
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'iniciar isolamento respiratório rigoroso, prescrever antibióticos específicos, monitorar s...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar antibioticoterapia intravenosa, administrar corticosteróides para controle da inf...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'isolar o paciente para prevenir a transmissão, iniciar antibióticos para erradicação da Bo...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administrar anti-inflamatórios não esteroides, iniciar tratamento com antitussígenos e pre...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'iniciar isolamento respiratório rigoroso, prescrever antibióticos específicos, monito...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'realizar antibioticoterapia intravenosa, administrar corticosteróides para controle d...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'isolar o paciente para prevenir a transmissão, iniciar antibióticos para erradicação ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'administrar anti-inflamatórios não esteroides, iniciar tratamento com antitussígenos ...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 7 [Código: EF0248] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 10 [Código: EF0328] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Enfermeiro
 Assunto: Saúde da Criança e do Adolescente , Assistência de Enfermagem ao Recém-Nascido
 A triagem neonatal corresponde ao rastreamento de patologias significativas na saúde da população de 0 a 28 dias de vida. A detecção precoce da fibrose cística é obtida através do seguinte exame:
 
@@ -125,16 +182,16 @@ A triagem neonatal corresponde ao rastreamento de patologias significativas na s
   [D] teste da linguinha 329 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'teste do pezinho...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'teste da orelhinha...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'teste do olhinho...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'teste da linguinha 329 Ano: 2024...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'teste do pezinho...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'teste da orelhinha...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'teste do olhinho...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'teste da linguinha 329 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 8 [Código: EF0290] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 11 [Código: EF0370] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Saúde da Criança e do Adolescente
 Segundo o Ministério da Saúde, são considerados adolescentes os indivíduos na faixa etária de 10 a 19 anos incompletos. Existem recomendações específicas sobre o direito à saúde dos adolescentes, com destaque para a preservação de sua autonomia e do sigilo. O acolhimento a essas pessoas é um direito, mesmo sem a presença dos pais ou responsáveis. Tais premissas estão resguardadas, prioritariamente, no:
 
@@ -145,17 +202,17 @@ Segundo o Ministério da Saúde, são considerados adolescentes os indivíduos n
   [E] Programa Saúde do Jovem e do Adolescente do Ministério da Saúde
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Programa Saúde do Adolescente...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Estatuto da Criança e do Adolescente...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Cuidando da saúde do Adolescente do Ministério da Saúde...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Código de Ética de todas as categorias profissionais de saúde...'.
-   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Programa Saúde do Jovem e do Adolescente do Ministério da Saúde...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'Programa Saúde do Adolescente...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'Estatuto da Criança e do Adolescente...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Cuidando da saúde do Adolescente do Ministério da Saúde...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Código de Ética de todas as categorias profissionais de saúde...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa E: Incorreta perante os protocolos técnicos, pois 'Programa Saúde do Jovem e do Adolescente do Ministério da Saúde...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 9 [Código: EF0293] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 12 [Código: EF0373] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Saúde da Criança e do Adolescente , Assistência de Enfermagem ao Recém-Nascido
 Uma prática clínica sistematizada do cuidado neonatal foi criada para qualificar a atenção ao recém-nascido nas maternidades, reforçando a perspectiva do cuidado em rede e a integração das estratégias do Ministério da Saúde. Ela promove a qualificação do cuidado na unidade neonatal e a organização da rede assistencial percorrida pela gestante e pelo recém-nascido. Essa prática denomina-se:
 
@@ -166,17 +223,17 @@ Uma prática clínica sistematizada do cuidado neonatal foi criada para qualific
   [E] Política Materno Infantil 374 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Método Canguru....'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Rede Materno Infantil...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Estratégia QualiNEO...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Política de Aleitamento Materno...'.
-   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Política Materno Infantil 374 Ano: 2024...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'Método Canguru....' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'Rede Materno Infantil...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Estratégia QualiNEO...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Política de Aleitamento Materno...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa E: Incorreta perante os protocolos técnicos, pois 'Política Materno Infantil 374 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 10 [Código: EF0310] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 13 [Código: EF0390] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Saúde da Criança e do Adolescente , Aleitamento Materno
 O Ministério da Saúde recomenda a amamentação exclusiva até os 6 meses de idade e, a amamentação com introdução alimentar até:
 
@@ -187,17 +244,17 @@ O Ministério da Saúde recomenda a amamentação exclusiva até os 6 meses de i
   [E] 3 anos e meio 391 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '2 anos e meio...'.
-   • Alternativa D: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '3 anos e meio 391 Ano: 2024...'.
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois '2 anos e meio...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa E: Incorreta perante os protocolos técnicos, pois '3 anos e meio 391 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 11 [Código: EF0311] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 14 [Código: EF0391] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Saúde da Criança e do Adolescente , Assistência de Enfermagem ao Recém-Nascido
 O Sistema de Informações sobre Nascidos Vivos (SINASC) foi implantado com o objetivo de coletar dados sobre os nascimentos ocorridos em todo o território nacional e fornecer informações sobre natalidade para todos os níveis do Sistema de Saúde. O documento preenchido pelos profissionais de saúde, ou parteiras tradicionais responsáveis pela assistência ao parto ou ao recémnascido, e recolhido, regularmente, pelas Secretarias Municipais de Saúde denomina-se:
 
@@ -208,17 +265,17 @@ O Sistema de Informações sobre Nascidos Vivos (SINASC) foi implantado com o ob
   [E] certidão hospitalar 392 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'declaração de nascidos vivos...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'certidão de nascido vivo...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'declaração de nascidos...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'certidão de nascimento...'.
-   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'certidão hospitalar 392 Ano: 2024...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'declaração de nascidos vivos...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'certidão de nascido vivo...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'declaração de nascidos...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'certidão de nascimento...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa E: Incorreta perante os protocolos técnicos, pois 'certidão hospitalar 392 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 12 [Código: EF0312] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 15 [Código: EF0392] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Saúde da Criança e do Adolescente , Assistência de Enfermagem ao Recém-Nascido
 O índice de Apgar no quinto minuto após o nascimento, entre 7 e 10, é considerado normal. O Apgar no quinto minuto, que se relaciona a um maior risco de mortalidade e leve aumento de risco para paralisia cerebral, fica entre:
 
@@ -229,17 +286,17 @@ O índice de Apgar no quinto minuto após o nascimento, entre 7 e 10, é conside
   [E] 0e2 393 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa D: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '0e2 393 Ano: 2024...'.
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa E: Incorreta perante os protocolos técnicos, pois '0e2 393 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 13 [Código: EF0329] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 16 [Código: EF0409] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
 Assunto: Saúde da Criança e do Adolescente , Assistência de Enfermagem ao Recém-Nascido
 O distúrbio metabólico mais frequente em neonatologia, em sua forma prolongada ou recorrente, pode resultar em consequências neurológicas. Os sinais e sintomas podem variar de graves (letargia, insuficiência respiratória, apneia, parada cardíaca e outros) a mais leves, como choro anormal, agitação, tremores, irritabilidade e palidez. Esse excerto refere-se ao seguinte distúrbio:
 
@@ -249,16 +306,16 @@ O distúrbio metabólico mais frequente em neonatologia, em sua forma prolongada
   [D] acidemia isovalérica 410 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'hipoglicemia...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'hiperglicemia...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'doença de Wilson...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'acidemia isovalérica 410 Ano: 2024...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'hipoglicemia...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'hiperglicemia...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'doença de Wilson...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'acidemia isovalérica 410 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 14 [Código: EF0338] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 17 [Código: EF0418] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
 Assunto: Saúde da Criança e do Adolescente , Aleitamento Materno
 Nos primeiros seis meses de vida, o bebê deve ser amamentado com o leite materno exclusivamente, e a oferta de água, chás e outros leites é desnecessária, mesmo em locais secos e quentes. Nesse sentido, o líquido materno que é suficiente para nutrir e hidratar recém-nascidos saudáveis nos primeiros dois ou três dias de vida e, com isso, não é necessário oferecer qualquer outro líquido, é o:
 
@@ -268,16 +325,16 @@ Nos primeiros seis meses de vida, o bebê deve ser amamentado com o leite matern
   [D] colostro 419 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'leite industrializado...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'leite materno...'.
-   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'colostro 419 Ano: 2024...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'leite industrializado...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'leite materno...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'colostro 419 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 15 [Código: EF0422] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 18 [Código: EF0502] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
 Assunto: Saúde da Criança e do Adolescente
 Com o objetivo de promover e proteger a saúde da criança e o aleitamento materno, o Ministério da Saúde instituiu a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC), visando à redução da morbimortalidade e promovendo um ambiente facilitador à vida com condições dignas de existência e pleno desenvolvimento. A política abrange os cuidados com a criança, com especial atenção à primeira infância e às populações de maior vulnerabilidade, na seguinte faixa etária:
 
@@ -287,69 +344,126 @@ Com o objetivo de promover e proteger a saúde da criança e o aleitamento mater
   [D] do nascimento aos 12 anos de idade 503 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'da gestação aos 9 anos de idade...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'da gestação aos 12 anos de idade...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'do nascimento aos 9 anos de idade...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'do nascimento aos 12 anos de idade 503 Ano: 2024...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'da gestação aos 9 anos de idade...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'da gestação aos 12 anos de idade...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'do nascimento aos 9 anos de idade...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'do nascimento aos 12 anos de idade 503 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 16 [Código: EF0444] - EMGEPRON (SELECON 2026) - Enfermeiro
-Assunto: Saúde da Criança e do Adolescente , Atenção Básica e Saúde da Família
-No acompanhamento de puericultura na Atenção Primária à Saúde, o enfermeiro orienta a família sobre suplementação de vitamina D conforme as diretrizes nacionais vigentes para prevenção da deficiência na infância. Nesse caso, é correto recomendar que:
+QUESTÃO 19 [Código: EF0584] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
+Assunto: Saúde da Criança e do Adolescente , Enfermagem em Oncologia
+MT - Enfermeiro Intervencionista - SAMU Os linfomas estão entre os três grupos de neoplasias mais frequentes na faixa etária pediátrica. Apresentam-se, normalmente, por aumento ganglionar denominado adenomegalia. Além disso, o paciente apresenta os sintomas B que são:
 
-  [A] lactentes em aleitamento materno exclusivo não necessitam de suplementação de vitamina D quando há exposição solar diária regular e crescimento adequado
-  [B] a suplementação de vitamina D deve ser iniciada a partir do sexto mês de vida, período em que ocorre maior risco de deficiência nutricional e introdução alimentar
-  [C] a suplementação de vitamina D é recomendada desde o nascimento, na dose preconizada de 400 UI/dia para lactentes, independentemente do tipo de aleitamento, cabendo ao enfermeiro orientar a administração correta e reforçar a adesão
-  [D] lactentes alimentados com fórmulas infantis estão automaticamente dispensados da suplementação de vitamina D, independentemente do volume ingerido, da concentração presente na fórmula ou de avaliação individual pela equipe de saúde 105 Ano: 2026
+  [A] alterações em duas ou mais séries do hemograma, hepatoesplenomegalia e febre sem causa determinada
+  [B] sorologias negativas, ganho de peso repentino e sudorese noturna
+  [C] plaquetopenia, sorologias negativas, febre e perda de peso abrupta
+  [D] febre sem causa determinada, perda de peso e sudorese noturna
 
 ✅ Gabarito: 
-💡 Fundamentação: Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'lactentes em aleitamento materno exclusivo não necessitam de suplementação de vitamina D q...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a suplementação de vitamina D deve ser iniciada a partir do sexto mês de vida, período em ...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a suplementação de vitamina D é recomendada desde o nascimento, na dose preconizada de 400...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'lactentes alimentados com fórmulas infantis estão automaticamente dispensados da suplement...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'alterações em duas ou mais séries do hemograma, hepatoesplenomegalia e febre sem caus...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'sorologias negativas, ganho de peso repentino e sudorese noturna...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'plaquetopenia, sorologias negativas, febre e perda de peso abrupta...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'febre sem causa determinada, perda de peso e sudorese noturna...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 17 [Código: EF0450] - Prefeitura de Porto dos Gaúchos - MT (SELECON 2026) - Técnico de Enfermagem
-Assunto: Saúde da Criança e do Adolescente , Cuidados de Enfermagem
-MT - Técnico em Enfermagem Na sala de parto, durante os cuidados imediatos a um recém-nascido de 37 semanas e 4 dias, filho de mãe diabética gestacional, a conduta adequada do técnico de enfermagem, segundo as boas práticas do cuidado, é:
-
-  [A] realizar o primeiro banho logo após o nascimento para evitar infecções e manter o bebê ativo
-  [B] manter o recém-nascido aquecido e estimular o contato pele a pele na primeira hora
-  [C] administrar glicose oral de rotina para prevenir a hipoglicemia neonatal
-  [D] aspirar vias aéreas superiores para evitar recusa na amamentação 111 Ano: 2026
-
-✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
-❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar o primeiro banho logo após o nascimento para evitar infecções e manter o bebê ati...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter o recém-nascido aquecido e estimular o contato pele a pele na primeira hora...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administrar glicose oral de rotina para prevenir a hipoglicemia neonatal...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aspirar vias aéreas superiores para evitar recusa na amamentação 111 Ano: 2026...'.
-
-------------------------------------------------------------
-
-QUESTÃO 18 [Código: EF0488] - Prefeitura de Barra do Garças - MT (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 20 [Código: EF0695] - Prefeitura de Pontes e Lacerda - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Saúde da Criança e do Adolescente
-Técnico em Enfermagem No acompanhamento ambulatorial de uma criança com diarreia aguda sem sinais de desidratação, o técnico de enfermagem participa das ações educativas e do suporte à hidratação oral. Segundo as recomendações do Ministério da Saúde para o manejo da diarreia na infância, a conduta correta é:
+Técnico em Enfermagem De acordo com a Sociedade Brasileira de Pediatria, a criança deve se alimentar com o leite materno até o 6º mês de vida. No entanto, a partir do 6º mês ao 7º mês, recomenda-se que se introduza na alimentação:
 
-  [A] oferecer solução de reidratação oral somente após cada episódio diarreico, evitando seu uso entre as evacuações
-  [B] reforçar com o responsável que a criança deve receber maior oferta de líquidos, incluindo SRO em pequenas quantidades e intervalos frequentes
-  [C] recomendar redução da ingesta hídrica para evitar sobrecarga intestinal durante os episódios de diarreia, limitando a oferta de líquidos apenas aos horários das refeições, de modo a diminuir o estímulo ao trânsito intestinal
-  [D] orientar suspensão temporária da alimentação habitual até cessarem completamente as evacuações líquidas, evitando oferecer qualquer alimento sólido nesse período, uma vez que o trato gastrointestinal precisa de repouso para recuperação 149 Ano: 2025
+  [A] bebidas adocicadas, papa de frutas, verduras e ovo quente
+  [B] bebidas lácteas, papas diversas, carne e manteiga
+  [C] papa de fruta, papa salgada, peixes e ovo cru
+  [D] papa de fruta, papa salgada, ovo e carne
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'oferecer solução de reidratação oral somente após cada episódio diarreico, evitando seu us...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'reforçar com o responsável que a criança deve receber maior oferta de líquidos, incluindo ...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'recomendar redução da ingesta hídrica para evitar sobrecarga intestinal durante os episódi...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'orientar suspensão temporária da alimentação habitual até cessarem completamente as evacua...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'bebidas adocicadas, papa de frutas, verduras e ovo quente...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'bebidas lácteas, papas diversas, carne e manteiga...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'papa de fruta, papa salgada, peixes e ovo cru...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'papa de fruta, papa salgada, ovo e carne...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 21 [Código: EF0772] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+Assunto: Saúde da Criança e do Adolescente , Aleitamento Materno
+ESF Alguns problemas enfrentados pelas nutrizes durante o aleitamento materno, se não forem precocemente identificados e tratados, podem ser importantes causas de interrupção da amamentação. No ingurgitamento mamário, há três componentes básicos. São eles:
+
+  [A] congestão/aumento da vascularização da mama, retenção de leite nos alvéolos e edema decorrente da congestão com obstrução da drenagem do sistema linfático
+  [B] congestão/aumento da vascularização da mama, extravazamento de leite nos alvéolos e edema decorrente da congestão com obstrução da drenagem do sistema circulatório
+  [C] congestão/aumento da vascularização da mama, retenção de leite nos alvéolos e mastite decorrente da congestão com obstrução da drenagem do sistema circulatório
+  [D] congestão/diminuição da vascularização da mama, retenção de leite nos alvéolos e edema decorrente da congestão com obstrução da drenagem do sistema linfático 773 Ano: 2020
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'congestão/aumento da vascularização da mama, retenção de leite nos alvéolos e edema d...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'congestão/aumento da vascularização da mama, extravazamento de leite nos alvéolos e e...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'congestão/aumento da vascularização da mama, retenção de leite nos alvéolos e mastite...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'congestão/diminuição da vascularização da mama, retenção de leite nos alvéolos e edem...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 22 [Código: EF0774] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+Assunto: Saúde da Criança e do Adolescente , Aleitamento Materno
+ESF Sabemos que o trauma mamilar, traduzido por eritema, edema, fissuras, bolhas, “marcas” brancas, amarelas ou escuras, hematomas ou equimoses, é uma importante causa de desmame e, por isso, a sua prevenção é muito importante, o que pode ser conseguido com as seguintes medidas:
+
+  [A] suspender a amamentação estimulando o ingurgitamento e utilizar os protetores rígidos de mamilo
+  [B] suspender a amamentação e uso de protetores (intermediários) de mamilo, pois eles, podem ser a causa do trauma mamilar
+  [C] proceder à amamentação com técnica adequada (posicionamento e pega adequados) e ordenha manual da aréola antes da mamada se ela estiver ingurgitada
+  [D] proceder à amamentação com técnica adequada e aplicação de produtos que retiram a gordura natural do mamilo como sabões, álcool ou qualquer produto secante 775 Ano: 2020
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'suspender a amamentação estimulando o ingurgitamento e utilizar os protetores rígidos...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'suspender a amamentação e uso de protetores (intermediários) de mamilo, pois eles, po...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'proceder à amamentação com técnica adequada (posicionamento e pega adequados) e orden...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'proceder à amamentação com técnica adequada e aplicação de produtos que retiram a gor...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 23 [Código: EF0776] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+Assunto: Saúde da Criança e do Adolescente , Aleitamento Materno
+ESF O Brasil inseriu o tema do aleitamento materno como uma agenda prioritária. Assim, tem investido em ações de saúde pública para garantir uma melhor assistência às mães e bebês, inclusive na regulamentação de leis que promovem e protegem o aleitamento materno contra o marketing abusivo de produtos que interferem na amamentação. Sobre a amamentação, é correto afirmar que
+
+  [A] diminui o desempenho em testes de inteligência das crianças que receberam aleitamento materno exclusivo
+  [B] protege a criança contra diabetes tipo 2, diminuindo 37% o risco de apresentar a doença
+  [C] diminui em 70% a chance do desenvolvimento de câncer de mama feminino
+  [D] aumenta os custos com tratamentos nos sistemas de saúde 777 Ano: 2020
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
+❌ Distratores:
+   • Alternativa A: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'diminui o desempenho em testes de inteligência das crianças que receberam aleita...'.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'protege a criança contra diabetes tipo 2, diminuindo 37% o risco de apresentar a doen...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'diminui em 70% a chance do desenvolvimento de câncer de mama feminino...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'aumenta os custos com tratamentos nos sistemas de saúde 777 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 24 [Código: EF0869] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
+Assunto: Saúde da Criança e do Adolescente , Aleitamento Materno
+É muito importante conhecer e utilizar as definições de aleitamento materno adotadas pela Organização Mundial da Saúde (OMS). Sendo assim, o aleitamento materno complementado é definido:
+
+  [A] quando a criança recebe somente leite, direto da mama ou ordenhado, ou leite humano de outra fonte, sem outros líquidos ou sólidos, com exceção de gotas ou xaropes contendo vitaminas, sais de reidratação oral, suplementos minerais ou medicamentos
+  [B] quando a criança recebe, além do leite materno, qualquer alimento sólido ou semissólido com a finalidade de complementá-lo, e não de substituí-lo; nessa categoria a criança pode receber, além do leite materno, outro tipo de leite, mas este não é considerado alimento complementar
+  [C] quando a criança recebe leite materno (direto da mama ou ordenhado), independentemente de receber ou não outros alimentos
+  [D] quando a criança recebe, além do leite materno, água ou bebidas à base de água (água adocicada, chás, infusões), sucos de frutas e fluidos rituais 870 Ano: 2019
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'quando a criança recebe somente leite, direto da mama ou ordenhado, ou leite humano d...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'quando a criança recebe, além do leite materno, qualquer alimento sólido ou semissóli...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'quando a criança recebe leite materno (direto da mama ou ordenhado), independentement...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'quando a criança recebe, além do leite materno, água ou bebidas à base de água (água ...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 

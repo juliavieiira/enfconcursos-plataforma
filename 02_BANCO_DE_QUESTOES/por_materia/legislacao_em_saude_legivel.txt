@@ -1,7 +1,7 @@
 === CADERNO DE QUESTÕES: LEGISLAÇÃO EM SAÚDE ===
-Total: 11 questões
+Total: 28 questões
 
-QUESTÃO 1 [Código: EF0266] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 1 [Código: EF0346] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
 Assunto: Legislação em Saúde
 A Portaria n⁰ 399/2006, do Ministério da Saúde, estabelece o Pacto pela Saúde, o qual se desdobra em componentes tais como:
 
@@ -12,17 +12,17 @@ A Portaria n⁰ 399/2006, do Ministério da Saúde, estabelece o Pacto pela Saú
   [E] Pacto pela saúde, em defesa do SUS e de gestão 347 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: SAD-MS Prova: SELECON - 2024 - SAD-MS - Técnico de Enfermagem
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Pacto pela saúde pública e de gestão...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Pacto pela vida e em defesa do SUS...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Pacto pela vida, em defesa do SUS e de gestão...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Pacto pela saúde pública e em defesa do SUS...'.
-   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Pacto pela saúde, em defesa do SUS e de gestão 347 Enfermagem > Legislação em Saúde , Sist...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'Pacto pela saúde pública e de gestão...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'Pacto pela vida e em defesa do SUS...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Pacto pela vida, em defesa do SUS e de gestão...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Pacto pela saúde pública e em defesa do SUS...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa E: Incorreta perante os protocolos técnicos, pois 'Pacto pela saúde, em defesa do SUS e de gestão 347 Enfermagem > Legislação em Saúde ,...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 2 [Código: EF0285] - COREN-RR (SELECON 2024) - Enfermeiro
+QUESTÃO 2 [Código: EF0365] - COREN-RR (SELECON 2024) - Enfermeiro
 Assunto: Legislação em Saúde
 Para efeito da Resolução n.⁰ 222/2018, a definição “guarda do resíduo contendo produto químico ou rejeito radioativo na área de trabalho, em condições definidas pela legislação e normas aplicáveis a essa atividade” refere-se a:
 
@@ -32,16 +32,16 @@ Para efeito da Resolução n.⁰ 222/2018, a definição “guarda do resíduo c
   [D] armazenamento interno 366 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'abrigo externo...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'abrigo temporário...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'acondicionamento...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'armazenamento interno 366 Ano: 2024...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'abrigo externo...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'abrigo temporário...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'acondicionamento...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'armazenamento interno 366 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 3 [Código: EF0296] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 3 [Código: EF0376] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Legislação em Saúde
 A modalidade da prestação remota de serviços relacionados a todas as profissões da área da saúde, regulamentadas pelos órgãos competentes do Poder Executivo Federal, obedecendo aos princípios estabelecidos na Lei N.º 8080/90, como prestação de serviços de saúde à distância, por meio da utilização das tecnologias da informação e da comunicação, denomina-se:
 
@@ -52,17 +52,17 @@ A modalidade da prestação remota de serviços relacionados a todas as profiss�
   [E] consulta on line 377 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'teleconsulta...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'teleconferência...'.
-   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'consulta on line 377 Ano: 2024...'.
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'teleconsulta...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'teleconferência...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa E: Incorreta perante os protocolos técnicos, pois 'consulta on line 377 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 4 [Código: EF0302] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 4 [Código: EF0382] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Legislação em Saúde
 Em consultas, exames e procedimentos realizados em unidades de saúde públicas ou privadas, toda mulher tem o direito de estar acompanhada por pessoa de maior de idade, durante todo o período do atendimento. Tal direito foi garantido pelo instrumento legal de nº:
 
@@ -73,37 +73,37 @@ Em consultas, exames e procedimentos realizados em unidades de saúde públicas 
   [E] 14.737/2023 383 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '12.401/2011...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '12.427/2023...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '14.466/2023...'.
-   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '14.737/2023 383 Ano: 2024...'.
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois '12.401/2011...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois '12.427/2023...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois '14.466/2023...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa E: Incorreta perante os protocolos técnicos, pois '14.737/2023 383 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 5 [Código: EF0317] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 5 [Código: EF0397] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Legislação em Saúde ,
 
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
 
 ------------------------------------------------------------
 
-QUESTÃO 6 [Código: EF0318] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 6 [Código: EF0398] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Legislação em Saúde ,
 
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
 
 ------------------------------------------------------------
 
-QUESTÃO 7 [Código: EF0320] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 7 [Código: EF0400] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Legislação em Saúde
 A deficiência é compreendida como resultado da interação entre impedimentos, que são condições presentes nas funções e estruturas do corpo, e barreiras que podem ser urbanísticas, arquitetônicas, nos transportes, nas comunicações e na informação. Assim, a deficiência é compreendia pela experiência de obstrução do gozo pleno e efetivo na sociedade em igualdade de condições. Um importante marco legal para as pessoas com deficiência e a sociedade brasileira como um todo é a Lei Brasileira de Inclusão, cujo n.º é:
 
@@ -111,14 +111,14 @@ A deficiência é compreendida como resultado da interação entre impedimentos,
   [C] D E
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
 
 ------------------------------------------------------------
 
-QUESTÃO 8 [Código: EF0336] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 8 [Código: EF0416] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
 Assunto: Legislação em Saúde
 A legislação que tem por finalidade primordial promover e consolidar o pleno exercício, por parte do poder público municipal e do Distrito Federal, da função de gestor da atenção à saúde dos seus munícipes (Artigo 30, incisos V e VII, e Artigo 32, Parágrafo 1º, da Constituição Federal), com a consequente redefinição das responsabilidades dos Estados, do Distrito Federal e da União, avançando na consolidação dos princípios do SUS, é a:
 
@@ -128,16 +128,16 @@ A legislação que tem por finalidade primordial promover e consolidar o pleno e
   [D] NOB/SUS/96 417 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Lei n.º 8080/90...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Lei n.º 8142/90...'.
-   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'NOB/SUS/96 417 Ano: 2024...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'Lei n.º 8080/90...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'Lei n.º 8142/90...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'NOB/SUS/96 417 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 9 [Código: EF0354] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 9 [Código: EF0434] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Legislação em Saúde
 De acordo com a Lei N°1.102, de 10 de outubro de 1990, a reintegração do servidor público consiste em:
 
@@ -148,17 +148,17 @@ De acordo com a Lei N°1.102, de 10 de outubro de 1990, a reintegração do serv
   [E] adequação do funcionário que adquiriu necessidades especiais devido a agravos de saúde, como acidentes e doenças 435 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'migração do funcionário para outro departamento...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'afastamento do funcionário por improbidade administrativa...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ascensão do funcionário no cargo no qual o mesmo adquiriu capacitação posterior...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'reinvestidura do funcionário no cargo anteriormente ocupado, com ressarcimento de todos os...'.
-   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'adequação do funcionário que adquiriu necessidades especiais devido a agravos de saúde, co...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'migração do funcionário para outro departamento...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'afastamento do funcionário por improbidade administrativa...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'ascensão do funcionário no cargo no qual o mesmo adquiriu capacitação posterior...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'reinvestidura do funcionário no cargo anteriormente ocupado, com ressarcimento de tod...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa E: Incorreta perante os protocolos técnicos, pois 'adequação do funcionário que adquiriu necessidades especiais devido a agravos de saúd...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 10 [Código: EF0404] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 10 [Código: EF0484] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Legislação em Saúde
 Enfermagem A observação sistemática e contínua da frequência, da distribuição e dos determinantes dos eventos de saúde e de suas tendências na população denomina-se:
 
@@ -168,16 +168,16 @@ Enfermagem A observação sistemática e contínua da frequência, da distribui�
   [D] perfil 485 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Prefeitura de Sapezal - MT Prova: SELECON - 2024 - Prefeitura de Sapezal - MT - Técnico em
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'acompanhamento...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'estatística...'.
-   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'perfil 485 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição F...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'acompanhamento...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'estatística...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'perfil 485 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constitui...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 11 [Código: EF0420] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 11 [Código: EF0500] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
 Assunto: Legislação em Saúde , Lei do SUS - Lei nº 8.142 de 1990
 A Lei 8.142/90 dispõe sobre a participação da comunidade na gestão do Sistema Único de Saúde (SUS) e sobre as transferências intergovernamentais de recursos financeiros na área da saúde e dá outras providências. O Sistema Único de Saúde (SUS) contará, em cada esfera de governo, sem prejuízo das funções do Poder Legislativo, com as seguintes instâncias colegiadas:
 
@@ -187,12 +187,299 @@ A Lei 8.142/90 dispõe sobre a participação da comunidade na gestão do Sistem
   [D] Conselho Nacional e Conselhos Municipais de Saúde
 
 ✅ Gabarito: 
-💡 Fundamentação: Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Conselhos e Conferência de Saúde...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Conferência e Conselho Estadual de Saúde...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Conferência e Conselho Municipal de Saúde...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Conselho Nacional e Conselhos Municipais de Saúde...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'Conselhos e Conferência de Saúde...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'Conferência e Conselho Estadual de Saúde...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Conferência e Conselho Municipal de Saúde...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Conselho Nacional e Conselhos Municipais de Saúde...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 12 [Código: EF0579] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2024) - Enfermeiro
+Assunto: Legislação em Saúde
+Pública - MT - Enfermeiro Auditor Os Conselhos de Saúde têm caráte rpermanente e deliberativo; são órgãos colegiados compostos por representantes do governo, prestadores de serviço, profissionais de saúde e usuários. Além disso, atuam na formulação de estratégias e no controle da execução da política de saúde na instância correspondente, inclusive nos aspectos econômicos e financeiros, cujas decisões serão homologadas pelo chefe do poder legalmente constituído em cada esfera do governo, nos seguintes âmbitos de atuação:
+
+  [A] nacional, distrital ou municipal
+  [B] nacional, estadual ou municipal
+  [C] primário, secundário ou terciário
+  [D] promoção, prevenção ou assistência
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'nacional, distrital ou municipal...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'nacional, estadual ou municipal...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'primário, secundário ou terciário...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'promoção, prevenção ou assistência...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 13 [Código: EF0604] - Prefeitura de Primavera do Leste - MT Provas: SELECON - 2023 - Prefeitura de Primavera do Leste - (SELECON 2023) - Enfermeiro
+Assunto: Legislação em Saúde ,
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+
+------------------------------------------------------------
+
+QUESTÃO 14 [Código: EF0608] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
+Assunto: Legislação em Saúde
+MT - Enfermeiro(a) Padrão De acordo com a portaria GM/MS nº 217 de 1º de março de 2023, a doença de Creutzfeldt-Jakob (DCJ), segundo o fluxo estabelecido para o município e para o estado, possui uma periodicidade para notificação compulsória de forma:
+
+  [A] semestral
+  [B] trimestral
+  [C] semanal
+  [D] imediata
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+
+------------------------------------------------------------
+
+QUESTÃO 15 [Código: EF0623] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
+Assunto: Legislação em Saúde
+MT - Enfermeiro(a) Padrão De acordo com a RDC nº 15 de 2012, que estabelece os requisitos de boas práticas para o funcionamento dos serviços que realizam o processamento de produtos para a saúde, o processo físico ou químico que destrói microrganismos patogênicos na forma vegetativa, microbactérias, a maioria dos vírus e dos fungos, de objetos inanimados e superfícies, é chamada de desinfecção de nível:
+
+  [A] alto
+  [B] baixo
+  [C] muito alto
+  [D] intermediário 624 Ano: 2023 Enfermagem > Anatomia na Enfermagem , Fisiologia , Anatomia do Sistema Respiratório Fisiologia do Sistema Respiratório Banca: SELECON Órgão: Prefeitura de Primavera do Leste - MT Prova: SELECON - 2023 - Prefeitura de Primavera do Leste -
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'intermediário 624 Ano: 2023 Enfermagem > Anatomia na Enfermagem , Fisiologia , Anatom...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 16 [Código: EF0644] - Prefeitura de Campo Verde - MT (SELECON 2023) - Técnico de Enfermagem
+Assunto: Legislação em Saúde
+em Higiene Dental A Norma Operacional Básica (NOB/SUS/96) tem por finalidade principal promover e consolidar o pleno exercício, por parte do poder público municipal e do Distrito Federal, da função de gestor da atenção à saúde dos seus munícipes, com a consequente redefinição das responsabilidades dos Estados, do Distrito Federal e da União, avançando nas consolidações dos princípios do SUS. Ao tratar de campos de atenção à saúde, o campo da assistência visa realizar:
+
+  [A] a gestão do SUS, em âmbito nacional
+  [B] o desenvolvimento de recursos humanos
+  [C] a modernização dos sistemas estaduais compondo o SUS-nacional
+  [D] as atividades dirigidas às pessoas, que são prestadas nos âmbitos ambulatorial, hospitalar e domiciliar 645 Ano: 2023
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'a gestão do SUS, em âmbito nacional...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'o desenvolvimento de recursos humanos...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a modernização dos sistemas estaduais compondo o SUS-nacional...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'as atividades dirigidas às pessoas, que são prestadas nos âmbitos ambulatorial, hospi...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 17 [Código: EF0686] - Câmara de Campo Grande - MS (SELECON 2022) - Enfermeiro
+Assunto: Legislação em Saúde , Lei do SUS - Lei nº 8.142 de 1990
+Assistente Social A Lei nº 8.142/1990 dispõe sobre a participação da comunidade na gestão do Sistema Único de Saúde. O Conselho de Saúde é um órgão colegiado composto por representantes do governo, prestadores de serviço profissionais de saúde e usuários cujo caráter é:
+
+  [A] deliberativo e temporário
+  [B] permanente e deliberativo
+  [C] temporário e consultivo
+  [D] consultivo e permanente 687 Ano: 2022
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'deliberativo e temporário...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'permanente e deliberativo...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'temporário e consultivo...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'consultivo e permanente 687 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 18 [Código: EF0742] - Prefeitura de Boa Vista - RR (SELECON 2020) - Técnico de Enfermagem
+Assunto: Legislação em Saúde , Lei do SUS - Lei nº 8.142 de 1990
+Enfermagem De acordo com a Lei nº 8.142/90, que dispõe sobre a participação da comunidade na gestão do Sistema Único de Saúde (SUS) e sobre as transferências intergovernamentais de recursos financeiros na área da saúde, as conferências de saúde deverão:
+
+  [A] reunir- se a cada quatro anos com a representação dos vários segmentos sociais, para avaliar a situação de saúde e propor as diretrizes para a formulação da política de saúde nos níveis correspondentes, convocada pelo Poder Executivo ou, extraordinariamente, por esta ou pelo Conselho de Saúde
+  [B] reunir-se a cada dois anos com a representação dos vários segmentos sociais, para avaliar a situação de saúde e propor as diretrizes para a formulação da política de saúde nos níveis correspondentes, convocada pelo Poder Legislativo ou, extraordinariamente, por esta ou pelo Conselho de Saúde
+  [C] reunir- se a cada quatro anos com a representação de alguns segmentos sociais, para avaliar a situação de saúde e propor as diretrizes para a formulação da política de saúde nos níveis correspondentes, convocada pelo Poder Legislativo ou, extraordinariamente, por esta ou pelo Conselho de Saúde
+  [D] reunir-se a cada três anos com a representação dos vários segmentos sociais, para avaliar a situação de saúde e propor as diretrizes para a formulação da política de saúde nos níveis correspondentes, convocada pelo Poder Executivo ou, extraordinariamente, por esta ou pelo Conselho de Saúde
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'reunir- se a cada quatro anos com a representação dos vários segmentos sociais, para ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'reunir-se a cada dois anos com a representação dos vários segmentos sociais, para ava...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'reunir- se a cada quatro anos com a representação de alguns segmentos sociais, para a...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'reunir-se a cada três anos com a representação dos vários segmentos sociais, para ava...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 19 [Código: EF0756] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+Assunto: Legislação em Saúde , Humanização
+Psiquiatra A Política Nacional de Humanização do SUS, também conhecida como HumanizaSUS, existe desde 2003 e tem como objetivo garantir a qualidade das práticas de atenção e gestão em saúde pública no Brasil, incentivando trocas solidárias entre gestores, trabalhadores e usuários no cotidiano. Ela deve estar inserida em todas as políticas e programas do SUS. São diretrizes desta política:
+
+  [A] regionalização, hierarquização e acolhimento
+  [B] descentralização e clínica ampliada e compartilhada
+  [C] gestão participativa, cogestão e ambiência
+  [D] regionalização, hierarquização e valorização do trabalho e trabalhador 757 Ano: 2020
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'regionalização, hierarquização e acolhimento...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'descentralização e clínica ampliada e compartilhada...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'gestão participativa, cogestão e ambiência...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'regionalização, hierarquização e valorização do trabalho e trabalhador 757 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 20 [Código: EF0758] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+Assunto: Legislação em Saúde ,
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+
+------------------------------------------------------------
+
+QUESTÃO 21 [Código: EF0764] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+Assunto: Legislação em Saúde , Humanização
+Ocupacional Sobre as diretrizes da Política Nacional de Humanização do SUS, o conceito que norteia a criação de espaços saudáveis, acolhedores e confortáveis, respeitando a privacidade, proporcionando mudanças no processo de trabalho é:
+
+  [A] ambiência
+  [B] acolhimento
+  [C] valorização do trabalhador
+  [D] clínica ampliada
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'acolhimento...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'valorização do trabalhador...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'clínica ampliada...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 22 [Código: EF0765] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+Assunto: Legislação em Saúde , Humanização
+Ocupacional A Política Nacional de Humanização do SUS busca pôr em prática os princípios do SUS no cotidiano dos serviços de saúde, estimulando a comunicação entre:
+
+  [A] trabalhadores e usuários
+  [B] gestores, trabalhadores e usuários
+  [C] gestores, trabalhadores e empresa
+  [D] gestores, usuários e empresa 766 Ano: 2020
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'trabalhadores e usuários...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'gestores, trabalhadores e usuários...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'gestores, trabalhadores e empresa...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'gestores, usuários e empresa 766 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 23 [Código: EF0768] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+Assunto: Legislação em Saúde , Lei do SUS - Lei nº 8.142 de 1990
+ESF A Lei nº 8.142 de 1990 dispõe sobre a participação da comunidade na gestão do Sistema Único de Saúde (SUS) e sobre as transferências intergovernamentais de recursos financeiros na área da saúde e dá outras providências. Segundo essa lei, recursos do Fundo Nacional de Saúde (FNS) serão alocados como:
+
+  [A] despesas de custeio do Ministério da Educação, seus órgãos e entidades, da administração direta; investimentos previstos em lei orçamentária, de iniciativa do Poder Executivo e aprovados pelo Senado Federal; investimentos previstos no Plano Quinquenal do Ministério da Saúde e cobertura das ações e serviços de saúde a serem implementados pelos Municípios, Estados e Distrito Federal
+  [B] órgãos e entidades, da administração direta; investimentos previstos em lei orçamentária, de iniciativa do Poder Executivo e aprovados pelo Senado Federal; investimentos previstos no Plano Quinquenal do Ministério da Saúde e cobertura das ações e serviços de saúde a serem implementados pelos Municípios, Estados e Distrito Federal
+  [C] despesas de custeio do Ministério da Saúde, seus órgãos e entidades, da administração direta e indireta; investimentos previstos em lei orçamentária, de iniciativa do Poder Judiciário e a p r o v a d o s p e l o C o n s e l h o d e Sa ú d e ; investimentos previstos no Plano Quinquenal do Ministério da Saúde e cobertura das ações e serviços de saúde a serem implementados pelos Municípios, Estados e Distrito Federal
+  [D] despesas de custeio e de capital do Ministério da Sa ú d e , s e u s ó r g ã o s e e n t i d a d e s , d a administração direta e indireta; investimentos previstos em lei orçamentária, de iniciativa do Poder Legislativo e aprovados pelo Congresso Nacional; investimentos previstos no Plano Quinquenal do Ministério da Saúde e cobertura das ações e serviços de saúde a serem implementados pelos Municípios, Estados e Distrito Federal 769 Ano: 2020
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'despesas de custeio do Ministério da Educação, seus órgãos e entidades, da administra...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'órgãos e entidades, da administração direta; investimentos previstos em lei orçamentá...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'despesas de custeio do Ministério da Saúde, seus órgãos e entidades, da administração...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'despesas de custeio e de capital do Ministério da Sa ú d e , s e u s ó r g ã o s e e ...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 24 [Código: EF0782] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+Assunto: Legislação em Saúde ,
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+
+------------------------------------------------------------
+
+QUESTÃO 25 [Código: EF0793] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+Assunto: Legislação em Saúde , Humanização
+Intensivista Pediátrico São propósitos da política nacional de humanização da atenção e gestão do SUS:
+
+  [A] contagiar os trabalhadores, gestores e usuários do SUS com os princípios e as diretrizes da humanização; fortalecer iniciativas de humanização existentes e desenvolver tecnologias relacionais e de compartilhamento das práticas de gestão e de atenção
+  [B] contagiar os trabalhadores, gestores e usuários do SUS com os princípios e as diretrizes da saúde suplementar; não fortalecer iniciativas de humanização existentes e desenvolver tecnologias relacionais e de compartilhamento das práticas de gestão e de atenção
+  [C] c o n t a g i a r o s p a c i e n t e s e x c l u i n d o o s trabalhadores, gestores do SUS com os princípios e as diretrizes da saúde privada; não fortalecer iniciativas de humanização existentes e desenvolver tecnologias relacionais e de compartilhamento das práticas de gestão e de atenção
+  [D] contagiar os pacientes, familiares, gestores do SUS com os princípios e as diretrizes da educação básica; não fortalecer iniciativas de capacitação existentes e desenvolver tecnologias relacionais e de compartilhamento das práticas de gestão e de atenção 794 Ano: 2020
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'contagiar os trabalhadores, gestores e usuários do SUS com os princípios e as diretri...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'contagiar os trabalhadores, gestores e usuários do SUS com os princípios e as diretri...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'c o n t a g i a r o s p a c i e n t e s e x c l u i n d o o s trabalhadores, gestores...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'contagiar os pacientes, familiares, gestores do SUS com os princípios e as diretrizes...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 26 [Código: EF0804] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+Assunto: Legislação em Saúde , Humanização
+Intensivista Pediátrico O Humaniza SUS, como também é conhecida a Política Nacional de Humanização, aposta na inclusão de trabalhadores, usuários e gestores na produção e gestão do cuidado e dos processos de trabalho. A diretriz que implica criação de espaços saudáveis, acolhedores e confortáveis, que respeitem a privacidade, propiciem mudanças no processo de trabalho e sejam lugares de encontro entre as pessoas é chamada de:
+
+  [A] defesa dos direitos dos usuários
+  [B] valorização do trabalhador
+  [C] clínica ampliada
+  [D] ambiência 805 Ano: 2020 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Prefeitura de Boa Vista - RR Prova: SELECON - 2020 - Prefeitura de Boa Vista - RR - Enfermeiro
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'defesa dos direitos dos usuários...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'valorização do trabalhador...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'clínica ampliada...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'ambiência 805 Ano: 2020 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - S...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 27 [Código: EF0805] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+Assunto: Legislação em Saúde ,
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+
+------------------------------------------------------------
+
+QUESTÃO 28 [Código: EF0887] - Prefeitura de Boa Vista - RR (SELECON 2019) - Técnico de Enfermagem
+Assunto: Legislação em Saúde
+Técnico - Grupo Especial - Técnico de Enfermagem A Resolução de Diretoria Colegiada (RDC) nº 63, de 25 de novembro de 2011, possui como objetivo o estabelecimento de boas práticas para funcionamento de serviços de saúde, fundamentados na qualificação, na humanização da atenção e gestão, e na redução e controle de riscos aos usuários e meio ambiente. Sobre o prontuário do paciente, é correto afirmar que:
+
+  [A] O serviço de saúde deve assegurar a guarda dos prontuários no que se refere à confidencialidade e integridade
+  [B] O serviço de saúde não deve garantir que o prontuário contenha registros relativos à identificação e a todos os procedimentos prestados ao paciente
+  [C] A responsabilidade pelo registro em prontuário não cabe aos profissionais de saúde que prestam o atendimento
+  [D] Aguarda do prontuário é de responsabilidade do paciente e/ou de sua família devendo obedecer às normas vigentes 888 Ano: 2019 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Empresa Cuiabana de Saúde Pública - MT Prova: SELECON - 2019 - Empresa Cuiabana de Saúde
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'O serviço de saúde deve assegurar a guarda dos prontuários no que se refere à confide...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'O serviço de saúde não deve garantir que o prontuário contenha registros relativos à ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'A responsabilidade pelo registro em prontuário não cabe aos profissionais de saúde qu...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Aguarda do prontuário é de responsabilidade do paciente e/ou de sua família devendo o...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 

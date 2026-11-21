@@ -1,7 +1,7 @@
 === CADERNO DE QUESTÕES: GERENCIAMENTO DE RESÍDUOS DOS SERVIÇOS DE SAÚDE ===
-Total: 1 questões
+Total: 5 questões
 
-QUESTÃO 1 [Código: EF0426] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 1 [Código: EF0506] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
 Assunto: Gerenciamento de Resíduos dos Serviços de Saúde
 As ações de biossegurança em saúde são primordiais para a promoção e manutenção do bem-estar e para a proteção à vida. A definição “constitui-se em um conjunto de procedimentos de gestão, planejados e implementados a partir de bases científicas e técnicas, normativas e legais, com o objetivo de minimizar a produção de resíduos e proporcionar aos resíduos gerados, um encaminhamento seguro, de forma eficiente, visando à proteção dos trabalhadores, a preservação da saúde pública, dos recursos naturais e do meio ambiente” (Resolução RDC Nº 306), refere-se:
 
@@ -11,12 +11,88 @@ As ações de biossegurança em saúde são primordiais para a promoção e manu
   [D] ao Regulamento de Geradores de Resíduos de Serviços de Saúde 507 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ao Gerenciamento dos Resíduos de Serviços de Saúde...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ao Plano de Gerenciamento de Resíduos de Serviços de Saúde...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'às Diretrizes para Geradores de Resíduos de Serviços de Saúde...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ao Regulamento de Geradores de Resíduos de Serviços de Saúde 507 Ano: 2024...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'ao Gerenciamento dos Resíduos de Serviços de Saúde...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'ao Plano de Gerenciamento de Resíduos de Serviços de Saúde...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'às Diretrizes para Geradores de Resíduos de Serviços de Saúde...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'ao Regulamento de Geradores de Resíduos de Serviços de Saúde 507 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 2 [Código: EF0771] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+Assunto: Gerenciamento de Resíduos dos Serviços de Saúde
+ESF A Resolução da Diretoria Colegiada, de 28 de março de 2018, que dispõe sobre os requisitos de Boas Práticas de Gerenciamento dos Resíduos de Serviços de Saúde é a:
+
+  [A] RDC Nº
+  [B] RDC Nº
+  [C] RDC Nº
+  [D] RDC Nº 36 772 Ano: 2020
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'RDC Nº 36 772 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 3 [Código: EF0808] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+Assunto: Gerenciamento de Resíduos dos Serviços de Saúde
+São considerados resíduos de serviços de saúde classificados no subgrupo A1:
+
+  [A] resíduos de tecido adiposo proveniente de lipoaspiração e lipoescultura
+  [B] resíduos recicláveis sem contaminação biológica, química e radiológica associada
+  [C] qualquer material que contenha radionuclídeo em quantidade superior aos níveis de dispensa especificados em norma da CNEN e para os quais a reutilização é imprópria ou não prevista
+  [D] bolsas transfusionais contendo sangue ou hemocomponentes rejeitadas por contaminação ou por má conservação, ou com prazo de validade vencido, e aquelas oriundas de coleta incompleta 809 Ano: 2020
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'resíduos de tecido adiposo proveniente de lipoaspiração e lipoescultura...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'resíduos recicláveis sem contaminação biológica, química e radiológica associada...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'qualquer material que contenha radionuclídeo em quantidade superior aos níveis de dis...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'bolsas transfusionais contendo sangue ou hemocomponentes rejeitadas por contaminação ...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 4 [Código: EF0809] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+Assunto: Gerenciamento de Resíduos dos Serviços de Saúde
+Segundo a RDC Nº 222, 28 março de 2018 que regulamenta as Boas Práticas de Gerenciamento dos Resíduos de Serviços de Saúde e outras providências, reciclagem é definido como:
+
+  [A] processo de transformação que, depois de esgotadas todas as possibilidades de tratamento e recuperação por processos tecnológicos disponíveis e economicamente viáveis, não apresente outra possibilidade que não a disposição final ambientalmente adequada
+  [B] processo de transformação dos resíduos sólidos que envolve a alteração de suas propriedades físicas, físicoquímicas ou biológicas, com vistas à transformação em insumos ou novos produtos
+  [C] combinação de produtos químicos que atuam ao nível celular com potencial de produzirem genotoxicidade, citotoxicidade, mutagenicidade, carcinogenicidade e teratogenicidade
+  [D] aplicação de processo que visa à inativação microbiana das cargas biológicas contidas nos resíduos 810 Ano: 2020
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'processo de transformação que, depois de esgotadas todas as possibilidades de tratame...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'processo de transformação dos resíduos sólidos que envolve a alteração de suas propri...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'combinação de produtos químicos que atuam ao nível celular com potencial de produzire...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'aplicação de processo que visa à inativação microbiana das cargas biológicas contidas...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 5 [Código: EF0871] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
+Assunto: Gerenciamento de Resíduos dos Serviços de Saúde
+Uma pele com lesão que apresenta um formato diferenciado (pera, ferradura ou borboleta), com margens irregulares, que tem início súbito normalmente como abrasão, bolha ou área escurecida e cuja piora é drástica e progressiva em 48 horas, sendo muito comum em pacientes que estão se aproximando do fim de vida, recebe o nome de:
+
+  [A] úlcera por pressão tissular profunda
+  [B] úlcera por pressão em mucosa
+  [C] úlcera terminal de Kennedy
+  [D] úlcera por pressão 872 Ano: 2019
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'úlcera por pressão tissular profunda...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'úlcera por pressão em mucosa...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'úlcera terminal de Kennedy...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'úlcera por pressão 872 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 

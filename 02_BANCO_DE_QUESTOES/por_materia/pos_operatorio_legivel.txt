@@ -1,7 +1,7 @@
 === CADERNO DE QUESTÕES: PÓS-OPERATÓRIO ===
 Total: 1 questões
 
-QUESTÃO 1 [Código: EF0490] - Prefeitura de Barra do Garças - MT (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 1 [Código: EF0150] - Prefeitura de Barra do Garças - MT (SELECON 2025) - Técnico de Enfermagem
 Assunto: Pós-Operatório
 Técnico em Enfermagem Uma paciente de 52 anos, submetida à colecistectomia videolaparoscópica eletiva, é encaminhada à sala de recuperação pósanestésica (SRPA) apresentando leve sonolência, acesso venoso periférico pérvio, sonda vesical de demora e curativos limpos e secos no abdome. Após 20 minutos de observação, o técnico de enfermagem percebe que a paciente passa a responder lentamente aos comandos, apresenta saturação oscilando entre 90 e 92%, bem como extremidades frias e discreta taquicardia. Considerando as atribuições da equipe de enfermagem e as recomendações para o pós- operatório imediato em pacientes sob monitorização contínua, o técnico de enfermagem deve:
 
@@ -11,12 +11,12 @@ Técnico em Enfermagem Uma paciente de 52 anos, submetida à colecistectomia vid
   [D] priorizar a avaliação do curativo abdominal e da ferida operatória, pois alterações sistêmicas leves costumam estar relacionadas à dor ou ao jejum prolongado, devendo a equipe aprofundar a inspeção local antes de qualquer escalonamento 151 Ano: 2025
 
 ✅ Gabarito: 
-💡 Fundamentação: De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.
+💡 Fundamentação: Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.
 ❌ Distratores:
-   • Alternativa A: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter a monitorização padrão, repetindo os sinais vitais em até 1 hora, visto que oscilaç...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ajustar a infusão venosa para melhorar a perfusão periférica enquanto aguarda nova aferiçã...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'priorizar a avaliação do curativo abdominal e da ferida operatória, pois alterações sistêm...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'notifi car imediatamente o enfermeiro responsável diante da alteração de consciência ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'manter a monitorização padrão, repetindo os sinais vitais em até 1 hora, visto q...'.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'ajustar a infusão venosa para melhorar a perfusão periférica enquanto aguarda nova af...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'priorizar a avaliação do curativo abdominal e da ferida operatória, pois alterações s...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 

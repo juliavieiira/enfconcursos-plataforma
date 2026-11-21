@@ -30,26 +30,26 @@
     "resposta_correta": "",
     "id": "EF0083",
     "numero_ordem": 83,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'infração ética grave, por configurar registro de informação inverídica no prontuário do pa...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'infração ética grave, por configurar registro de informação inverídica no prontuário ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'conduta inadequada do ponto de vista administrativo, passível apenas de advertência verbal...'."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'conduta inadequada do ponto de vista administrativo, passível apenas de advertên...'."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'falha técnica sem repercussão ética, uma vez que o registro foi realizado com a intenção d...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'falha técnica sem repercussão ética, uma vez que o registro foi realizado com a inten...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'irregularidade atribuível exclusivamente à ausência do medicamento na unidade, n...'."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
   },
   {
     "codigo_origem": "Q3265157",
@@ -63,11 +63,11 @@
     "enunciado": "",
     "alternativas": [],
     "resposta_correta": "",
-    "id": "EF0185",
-    "numero_ordem": 185,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0265",
+    "numero_ordem": 265,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q2472190",
@@ -102,31 +102,135 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0351",
-    "numero_ordem": 351,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0431",
+    "numero_ordem": 431,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'dar bons conselhos...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'dar bons conselhos...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'oferecer ajuda prática...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'oferecer ajuda prática...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "E",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'perguntar como está sendo o dia da pessoa 432 Ano: 2024...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'perguntar como está sendo o dia da pessoa 432 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q2341562",
+    "banca": "SELECON",
+    "orgao": "Empresa Cuiabana de Saúde Pública - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Empresa Cuiabana de Saúde",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Gestão de Processos e Equipes de Trabalho , Administração em Enfermagem",
+    "enunciado": "Pública - MT - Enfermeiro Assistencial As atividades do/a enfermeiro/a, como integrante da equipe de saúde, são de natureza privativa desse profissional e têm base na regulamentação do exercício profissional. Um exemplo dessas atividades privativas é a:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "participação no planejamento, na execução e na avaliação da programação de saúde"
+      },
+      {
+        "id": "B",
+        "texto": "prescrição de medicamentos previamente estabelecidos em programas de saúde pública"
+      },
+      {
+        "id": "C",
+        "texto": "prestação de assistência de enfermagem à gestante, à parturiente, à puérpera e ao recém-nascido"
+      },
+      {
+        "id": "D",
+        "texto": "realização de cuidados de enfermagem de maior complexidade técnica e que exijam conhecimentos científicos adequados e capacidade de tomar decisões imediatas 573 Ano: 2023"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0572",
+    "numero_ordem": 572,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'participação no planejamento, na execução e na avaliação da programação de saúde...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'prescrição de medicamentos previamente estabelecidos em programas de saúde pública...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'prestação de assistência de enfermagem à gestante, à parturiente, à puérpera e ao rec...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'realização de cuidados de enfermagem de maior complexidade técnica e que exijam conhe...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q1242247",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2019,
+    "prova": "SELECON - 2019 - Prefeitura de Boa Vista - RR - Assistente",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Gestão de Processos e Equipes de Trabalho , Administração em Enfermagem",
+    "enunciado": "Técnico - Grupo Especial - Técnico de Enfermagem Segundo o Ministério da Saúde, a troca do equipo como parte integrante do sistema de infusão é uma medida para prevenção de infecção relacionada à assistência a saúde. A troca do equipo que está sendo utilizada para infusões intermitentes é a cada:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "96 horas"
+      },
+      {
+        "id": "B",
+        "texto": "24 horas"
+      },
+      {
+        "id": "C",
+        "texto": "36 horas"
+      },
+      {
+        "id": "D",
+        "texto": "12 horas 882 Ano: 2019"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0881",
+    "numero_ordem": 881,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '12 horas 882 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
   }
 ]

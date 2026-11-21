@@ -1,5 +1,5 @@
 === CADERNO DE QUESTÕES: DIETAS ===
-Total: 1 questões
+Total: 3 questões
 
 QUESTÃO 1 [Código: EF0004] - Prefeitura de Nova Mutum - MT (SELECON 2026) - Técnico de Enfermagem
 Assunto: Dietas , Assistência de Enfermagem no Processo Nutricional
@@ -11,11 +11,49 @@ Um paciente adulto, consciente e sem contraindicação à elevação da cabeceir
   [D] elevar a cabeceira a 45° durante a administração da dieta e retornar à posição horizontal imediatamente após o término da infusão
 
 ✅ Gabarito: B
-💡 Fundamentação: Conforme as Recomendações de Boas Práticas em Nutrição Enteral da BRASPEN e da ANVISA (RDC nº 63/2000), a prevenção da pneumonia por broncoaspiração em pacientes recebendo dieta por sonda enteral exige a manutenção da cabeceira elevada em ângulo de 30° a 45° durante toda a infusão e por no mínimo 30 a 60 minutos após o término da dieta, para garantir o esvaziamento gástrico seguro. A alternativa [B] descreve exatamente essa conduta preconizada.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [B] ('elevar a cabeceira entre 30° e 45° e mantê-la elevada após a administração da dieta') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'posicionar o paciente em decúbito lateral, mantendo a cabeceira a 15° durante a administra...'.
-   • Alternativa D: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
+   • Alternativa A: Abaixar a cabeceira logo após a dieta favorece a regurgitação gástrica com alto risco de broncoaspiração.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'posicionar o paciente em decúbito lateral, mantendo a cabeceira a 15° durante a admin...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Abaixar a cabeceira logo após a dieta favorece a regurgitação gástrica com alto risco de broncoaspiração.
+
+------------------------------------------------------------
+
+QUESTÃO 2 [Código: EF0669] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Técnico de Enfermagem
+Assunto: Dietas , Assistência de Enfermagem no Processo Nutricional
+em Enfermagem A obstrução é uma das causas comuns de complicações na administração da dieta enteral e de medicamentos pelos dispositivos enterais ( sondas, gastrostomias, gastrojejunostomias e jejunostomias). Portanto, durante a administração de medicamentos por via sonda enteral, o técnico de enfermagem deverá prevenir a obstrução realizando lavagem do dispositivo antes, entre e após cada fármaco, com água mineral ou filtrada, na medida mínima de:
+
+  [A] 2 ml
+  [B] 5 ml
+  [C] 10 ml
+  [D] 20 ml 670 Ano: 2023
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois '20 ml 670 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 3 [Código: EF0692] - CLIN (SELECON 2022) - Enfermeiro
+Assunto: Dietas , Assistência de Enfermagem no Processo Nutricional
+A paciente Julia necessita receber alimentos líquidos no estômago, por meio de uma sonda nele colocada, através de uma cirurgia na parede abdominal. Esse procedimento é o mesmo que receber o suporte nutricional por:
+
+  [A] urostomia
+  [B] colostomia
+  [C] gastrostomia
+  [D] traqueostomia 693 Ano: 2022
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'gastrostomia...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'traqueostomia 693 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 

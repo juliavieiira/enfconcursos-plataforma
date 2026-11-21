@@ -30,22 +30,22 @@
     "resposta_correta": "C",
     "id": "EF0003",
     "numero_ordem": 3,
-    "fundamentacao_correta": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [C] ('associação entre taquicardia, taquipneia e alterações da perfusão periférica, que sugere comprometimento circulatório, mesmo sem hipotensão acentuada') é a correta.",
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [C] ('associação entre taquicardia, taquipneia e alterações da perfusão periférica, que sugere comprometimento circulatório, mesmo sem hipotensão acentuada') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'redução da pressão arterial, que caracteriza hipotensão grave...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'redução da pressão arterial, que caracteriza hipotensão grave...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'elevação da frequência respiratória, que indica comprometimento respiratório iso...'."
       },
       {
         "letra": "D",
-        "motivo": "Ignora a taquicardia e a vasoconstrição periférica como sinais de alarme de choque compensado, retardando a intervenção precoce."
+        "motivo": "Subestima sinais precoces de choque compensado (taquicardia e vasoconstrição), atrasando intervenções vitais."
       }
     ],
-    "comentario": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para ..."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [C]..."
   },
   {
     "codigo_origem": "Q4317379",
@@ -78,26 +78,26 @@
     "resposta_correta": "",
     "id": "EF0041",
     "numero_ordem": 41,
-    "fundamentacao_correta": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.",
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'deve aguardar recuperação espontânea da deglutição...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'deve aguardar recuperação espontânea da deglutição...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'pode ser realizada por via oral com pequeno volume de solução açucarada...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'pode ser realizada por via oral com pequeno volume de solução açucarada...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'pode ser realizada com alimento sólido de absorção lenta, desde que o paciente permaneça c...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'pode ser realizada com alimento sólido de absorção lenta, desde que o paciente perman...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'deve utilizar uma via alternativa segura, pois a consciência preservada não torna a via or...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'deve utilizar uma via alternativa segura, pois a consciência preservada não torna a v...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para ..."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
   },
   {
     "codigo_origem": "Q4317374",
@@ -130,26 +130,26 @@
     "resposta_correta": "",
     "id": "EF0045",
     "numero_ordem": 45,
-    "fundamentacao_correta": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.",
+    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'retenção urinária...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'retenção urinária...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'depressão respiratória...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'depressão respiratória...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'infecção do sítio cirúrgico...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'infecção do sítio cirúrgico...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'alteração da cicatrização da ferida operatória...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'alteração da cicatrização da ferida operatória...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para ..."
+    "comentario": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes bi..."
   },
   {
     "codigo_origem": "Q4317366",
@@ -182,26 +182,26 @@
     "resposta_correta": "",
     "id": "EF0053",
     "numero_ordem": 53,
-    "fundamentacao_correta": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.",
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'repetir a aferição dos sinais vitais...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'repetir a aferição dos sinais vitais...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter os cuidados programados e observar a evolução...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'manter os cuidados programados e observar a evolução...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'intensificar o controle do balanço hídrico e aguardar nova dosagem de potássio...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'intensificar o controle do balanço hídrico e aguardar nova dosagem de potássio...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'comunicar imediatamente os achados e manter o paciente sob monitorização cardíaca...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para ..."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
   },
   {
     "codigo_origem": "Q3981919",
@@ -234,26 +234,78 @@
     "resposta_correta": "",
     "id": "EF0078",
     "numero_ordem": 78,
-    "fundamentacao_correta": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.",
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'comunicar imediatamente o enfermeiro responsável, posicionar o paciente em decúbito d...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter o paciente em repouso no leito, registrar os sinais vitais e aguardar avaliação méd...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'manter o paciente em repouso no leito, registrar os sinais vitais e aguardar avaliaçã...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'oferecer líquidos por via oral para correção da hipotensão, orientar mudança postural lent...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'oferecer líquidos por via oral para correção da hipotensão, orientar mudança postural...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'repetir a aferição dos sinais vitais após 20 minutos para confi rmação dos valores, evitan...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'repetir a aferição dos sinais vitais após 20 minutos para confi rmação dos valores, e...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para ..."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+  },
+  {
+    "codigo_origem": "Q3802712",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Garças - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Urgência e emergência , Farmacologia na Enfermagem",
+    "enunciado": "O uso de adrenalina 1:10.000 em parada cardiorrespiratória (PCR) tem como objetivo primário:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "reverter arritmias ventriculares"
+      },
+      {
+        "id": "B",
+        "texto": "estabilizar a pressão arterial sistêmica"
+      },
+      {
+        "id": "C",
+        "texto": "promover vasoconstrição periférica"
+      },
+      {
+        "id": "D",
+        "texto": "estimular o débito cardíaco residual 159 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0158",
+    "numero_ordem": 158,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'reverter arritmias ventriculares...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'estabilizar a pressão arterial sistêmica...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'promover vasoconstrição periférica...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'estimular o débito cardíaco residual 159 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   },
   {
     "codigo_origem": "Q3489354",
@@ -284,28 +336,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0153",
-    "numero_ordem": 153,
-    "fundamentacao_correta": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.",
+    "id": "EF0233",
+    "numero_ordem": 233,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administrar Adenosina 6 mg IV em bolus rápido, seguida de flush de solução salina, e prepa...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'administrar Adenosina 6 mg IV em bolus rápido, seguida de flush de solução salina, e ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'realizar cardioversão elétrica sincronizada imediata, iniciando com 50 a 100 Joules (...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administrar Amiodarona 150 mg 1V infundida em 10 minutos, seguida de infusão de manutenção...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'administrar Amiodarona 150 mg 1V infundida em 10 minutos, seguida de infusão de manut...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tentar manobras vagais (Valsalva ou massagem do seio carotídeo) enquanto se prepara acesso...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'tentar manobras vagais (Valsalva ou massagem do seio carotídeo) enquanto se prepara a...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para ..."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
   },
   {
     "codigo_origem": "Q3489350",
@@ -336,28 +388,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0156",
-    "numero_ordem": 156,
-    "fundamentacao_correta": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.",
+    "id": "EF0236",
+    "numero_ordem": 236,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'continuar as compressões torácicas enquanto um segundo socorrista liga o DEA, aplica as pá...'."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'continuar as compressões torácicas enquanto um segundo socorrista liga o DEA, ap...'."
       },
       {
         "letra": "B",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'interromper imediatamente a RCP, ligar o DEA, aplicar as pás e aguardar a análise e o...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ligar o DEA e aplicar as pás sobre a roupa da vitima para economizar tempo, seguindo as in...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'ligar o DEA e aplicar as pás sobre a roupa da vitima para economizar tempo, seguindo ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'aplicar as pás do DEA e administrar um choque imediatamente, sem aguardar a análise d...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para ..."
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   },
   {
     "codigo_origem": "Q3489348",
@@ -388,28 +440,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0157",
-    "numero_ordem": 157,
-    "fundamentacao_correta": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.",
+    "id": "EF0237",
+    "numero_ordem": 237,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'iniciar imediatamente 30 compressões torácicas, seguidas de duas ventilações, e somen...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'tentar acordar a vitima com tapas no rosto e, se não houver resposta, procurar imedia...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'verificar o pulso carotídeo por 15 segundos e, se ausente, iniciar ventilações de resgate ...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'verificar o pulso carotídeo por 15 segundos e, se ausente, iniciar ventilações de res...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'reconhecer a PCR, acionar imediatamente o serviço médico de emergência (ou pedir para...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para ..."
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   },
   {
     "codigo_origem": "Q3489347",
@@ -440,28 +492,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0158",
-    "numero_ordem": 158,
-    "fundamentacao_correta": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.",
+    "id": "EF0238",
+    "numero_ordem": 238,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'iniciar com duas ventilações de resgate, seguidas por 30 compressões torácicas a uma profu...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'iniciar com duas ventilações de resgate, seguidas por 30 compressões torácicas a uma ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar 15 compressões torácicas com uma frequência de 80 a 100 por minuto, alternadas co...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'realizar 15 compressões torácicas com uma frequência de 80 a 100 por minuto, alternad...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'iniciar imediatamente com compressões torácicas contínuas, a uma frequência de 100 a ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aplicar compressões torácicas na metade inferior do esterno, com uma frequência de 120 a 1...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'aplicar compressões torácicas na metade inferior do esterno, com uma frequência de 12...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para ..."
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   },
   {
     "codigo_origem": "Q3287490",
@@ -492,28 +544,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0167",
-    "numero_ordem": 167,
-    "fundamentacao_correta": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.",
+    "id": "EF0247",
+    "numero_ordem": 247,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'perda de até 750 ml de sangue...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'perda de até 750 ml de sangue...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'perda de mais que 2000 ml de sangue...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'perda de mais que 2000 ml de sangue...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'perda de 1500 ml a 2000 ml de sangue...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'perda de 1500 ml a 2000 ml de sangue...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'perda de 750 ml a 1500 ml de sangue 248 Ano: 2025...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'perda de 750 ml a 1500 ml de sangue 248 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para ..."
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   },
   {
     "codigo_origem": "Q3265174",
@@ -544,28 +596,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0172",
-    "numero_ordem": 172,
-    "fundamentacao_correta": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.",
+    "id": "EF0252",
+    "numero_ordem": 252,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'na suspeita de reação alérgica leve, como urticária, a transfusão deve ser imediatame...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a sobrecarga circulatória associada à transfusão (TACO) é uma reação rara e geralmente não...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a sobrecarga circulatória associada à transfusão (TACO) é uma reação rara e geralment...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a transfusão de hemocomponentes em pacientes com histórico de anafilaxia deve ser realizad...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a transfusão de hemocomponentes em pacientes com histórico de anafilaxia deve ser rea...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a reação hemolítica aguda é caracterizada por sintomas como febre, calafrios, dor lom...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para ..."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
   },
   {
     "codigo_origem": "Q3197483",
@@ -596,28 +648,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0222",
-    "numero_ordem": 222,
-    "fundamentacao_correta": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.",
+    "id": "EF0302",
+    "numero_ordem": 302,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'coletar amostras para exames laboratoriais e administrar antiácidos para controle da dor t...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'coletar amostras para exames laboratoriais e administrar antiácidos para controle da ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar a monitorização contínua da pressão arterial, temperatura e ECG, administrar anal...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'realizar a monitorização contínua da pressão arterial, temperatura e ECG, administrar...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'iniciar imediatamente a monitorização dos sinais vitais, coletar amostras para exames...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'coletar amostras para exames laboratoriais imediatamente, administrar analgésicos opi...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para ..."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
   },
   {
     "codigo_origem": "Q3197473",
@@ -648,28 +700,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0232",
-    "numero_ordem": 232,
-    "fundamentacao_correta": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.",
+    "id": "EF0312",
+    "numero_ordem": 312,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'o paciente apresenta sinais compatíveis com choque hipovolêmico, devido à perda de vo...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o paciente está em choque distributivo, causado por uma vasodilatação excessiva, logo, a c...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'o paciente está em choque distributivo, causado por uma vasodilatação excessiva, logo...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'com os sinais apresentados, o paciente está em choque cardiogênico devido à falha do ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o paciente está em choque obstrutivo, causado por uma obstrução no fluxo sanguíneo, logo, ...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'o paciente está em choque obstrutivo, causado por uma obstrução no fluxo sanguíneo, l...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para ..."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
   },
   {
     "codigo_origem": "Q2480393",
@@ -704,32 +756,32 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0304",
-    "numero_ordem": 304,
-    "fundamentacao_correta": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.",
+    "id": "EF0384",
+    "numero_ordem": 384,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Pré-Hospitalar Fixo e Móvel, Hospitalar, Pós-Hospitalar...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Pré-Hospitalar Fixo e Móvel, Hospitalar, Pós-Hospitalar...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Pré-Hospitalar Fixo e Móvel, Regional e Nacional...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Pré-Hospitalar Fixo e Móvel, Regional e Nacional...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'SAMU, Pré-Hospitalar fixo, Estadual e Nacional...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'SAMU, Pré-Hospitalar fixo, Estadual e Nacional...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Municipal, Estadual, Regional e Nacional...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Municipal, Estadual, Regional e Nacional...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "E",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Estadual, Regional e Nacional 385 Ano: 2024...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Estadual, Regional e Nacional 385 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para ..."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
   },
   {
     "codigo_origem": "Q2480388",
@@ -764,32 +816,32 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0309",
-    "numero_ordem": 309,
-    "fundamentacao_correta": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.",
+    "id": "EF0389",
+    "numero_ordem": 389,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'equidade e integralidade...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'equidade e integralidade...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'equidade, acesso e integralidade...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'equidade, acesso e integralidade...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'equidade, acesso e universalidade...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'equidade, acesso e universalidade...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'universalidade, acesso e integralidade...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'universalidade, acesso e integralidade...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "E",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'universalidade, equidade e integralidade...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'universalidade, equidade e integralidade...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para ..."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
   },
   {
     "codigo_origem": "Q2472187",
@@ -824,32 +876,32 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0353",
-    "numero_ordem": 353,
-    "fundamentacao_correta": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.",
+    "id": "EF0433",
+    "numero_ordem": 433,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'temperatura cervical, saturação, pulso e pressão arterial...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'temperatura cervical, saturação, pulso e pressão arterial...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'temperatura axilar, curva pressórica e balanço hídrico...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'temperatura axilar, curva pressórica e balanço hídrico...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'temperatura axilar, pulso, respiração e pressão arterial...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'temperatura axilar, pulso, respiração e pressão arterial...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'temperatura axilar, pulso, respiração e balanço hídrico...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'temperatura axilar, pulso, respiração e balanço hídrico...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "E",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'temperatura cervical, saturação, respiração e balanço hídrico 434 Ano: 2024...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'temperatura cervical, saturação, respiração e balanço hídrico 434 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para ..."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
   },
   {
     "codigo_origem": "Q2467331",
@@ -880,28 +932,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0391",
-    "numero_ordem": 391,
-    "fundamentacao_correta": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.",
+    "id": "EF0471",
+    "numero_ordem": 471,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administrar a medicação prescrita pelo médico, sem realizar nova avaliação do paciente...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'administrar a medicação prescrita pelo médico, sem realizar nova avaliação do pacient...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'solicitar ao paciente que aguarde sua vez, pois há outros pacientes a serem atendidos...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'solicitar ao paciente que aguarde sua vez, pois há outros pacientes a serem atendidos...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tranquilizar o paciente e aguardar a chegada do médico para iniciar as medidas necessárias...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'tranquilizar o paciente e aguardar a chegada do médico para iniciar as medidas necess...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'implementar medidas imediatas de conforto e segurança para o paciente, como elevá-lo ...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para ..."
+    "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
   },
   {
     "codigo_origem": "Q2454936",
@@ -932,28 +984,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0398",
-    "numero_ordem": 398,
-    "fundamentacao_correta": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.",
+    "id": "EF0478",
+    "numero_ordem": 478,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'insuficiência cardíaca...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'insuficiência cardíaca...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'insuficiência respiratória...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'insuficiência respiratória...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'emergência hipertensiva...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'emergência hipertensiva...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para ..."
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   },
   {
     "codigo_origem": "Q2454932",
@@ -984,28 +1036,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0402",
-    "numero_ordem": 402,
-    "fundamentacao_correta": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.",
+    "id": "EF0482",
+    "numero_ordem": 482,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'risco imediato...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'risco imediato...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'risco potencial...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'risco potencial...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para ..."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
   },
   {
     "codigo_origem": "Q2452986",
@@ -1036,79 +1088,1431 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0433",
-    "numero_ordem": 433,
-    "fundamentacao_correta": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.",
+    "id": "EF0513",
+    "numero_ordem": 513,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Pré-Hospitalar Fixo e Móvel, Hospitalar, Pós-Hospitalar...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Pré-Hospitalar Fixo e Móvel, Hospitalar, Pós-Hospitalar...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Pré-Hospitalar Fixo e Móvel, Regional e Nacional...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Pré-Hospitalar Fixo e Móvel, Regional e Nacional...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'SAMU, Pré-Hospitalar fixo, Estadual e Nacional...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'SAMU, Pré-Hospitalar fixo, Estadual e Nacional...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Municipal, Estadual, Regional e Nacional 514 Ano: 2023...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Municipal, Estadual, Regional e Nacional 514 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para ..."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
   },
   {
-    "codigo_origem": "Q3802712",
+    "codigo_origem": "Q3674518",
     "banca": "SELECON",
-    "orgao": "Prefeitura de Barra do Garças - MT",
-    "ano": 2025,
-    "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
+    "orgao": "Prefeitura de Dourados - MS",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Dourados - MS -",
     "cargo": "Enfermeiro",
     "materia": "Enfermagem",
-    "assunto": "Urgência e emergência , Farmacologia na Enfermagem",
-    "enunciado": "O uso de adrenalina 1:10.000 em parada cardiorrespiratória (PCR) tem como objetivo primário:",
+    "assunto": "Urgência e emergência",
+    "enunciado": "Durante o atendimento de ressuscitação cardiopulmonar (RCP) após a instalação de uma via área avançada, intubação endotraqueal ou via aérea extraglótica avançada, a recomendação é administrar 1 ventilação a cada:",
     "alternativas": [
       {
         "id": "A",
-        "texto": "reverter arritmias ventriculares"
+        "texto": "8 segundos"
       },
       {
         "id": "B",
-        "texto": "estabilizar a pressão arterial sistêmica"
+        "texto": "6 segundos"
       },
       {
         "id": "C",
-        "texto": "promover vasoconstrição periférica"
+        "texto": "4 segundos"
       },
       {
         "id": "D",
-        "texto": "estimular o débito cardíaco residual 159 Ano: 2025"
+        "texto": "2 segundos 532 Ano: 2023"
       }
     ],
     "resposta_correta": "",
-    "id": "EF0498",
-    "numero_ordem": 498,
-    "fundamentacao_correta": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.",
+    "id": "EF0531",
+    "numero_ordem": 531,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'reverter arritmias ventriculares...'."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'estabilizar a pressão arterial sistêmica...'."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'promover vasoconstrição periférica...'."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'estimular o débito cardíaco residual 159 Ano: 2025...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '2 segundos 532 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para ..."
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
+  },
+  {
+    "codigo_origem": "Q3674517",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Dourados - MS",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Dourados - MS -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Urgência e emergência , Enfermagem em UTI",
+    "enunciado": "Os métodos mais convencionais de administração de oxigênio dependem de máscaras faciais ou cânulas e dispositivos nasais. O uso desses métodos é limitado por algumas desvantagens, que incluem a necessidade de um fluxo de oxigênio superior a 15L/minuto no caso de hipoxemia grave. Entretanto, como vantagem, o oxigenoterapia nasal de alto fluxo pode fornecer oxigênio aquecido e umidificado com uma fração inspirada de oxigênio (FiO2) controlada e fluxo médio máximo de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "20L/minuto"
+      },
+      {
+        "id": "B",
+        "texto": "40L/minuto"
+      },
+      {
+        "id": "C",
+        "texto": "60L/minuto"
+      },
+      {
+        "id": "D",
+        "texto": "80L/minuto 533 Ano: 2023"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0532",
+    "numero_ordem": 532,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '80L/minuto 533 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
+  },
+  {
+    "codigo_origem": "Q3584428",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Lucas do Rio Verde - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Lucas do Rio Verde -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Urgência e emergência",
+    "enunciado": "MT - Enfermeiro 20H De acordo com o protocolo de obstrução de vias aéreas por corpos estranhos de Emergências Clínicas do SAMU, na abordagem específica no paciente responsivo, com obstrução leve, devem ser considerados os seguintes protocolos:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "realizar manobras de desobstrução (método em garra); acalmar o paciente; incentivar tosse vigorosa; instalar suporte de O2 do tipo Venturi e manter monitoramento constante"
+      },
+      {
+        "id": "B",
+        "texto": "realizar manobras de desobstrução (método em garra); acalmar o paciente; incentivar tosse vigorosa; instalar suporte de O2, se necessário, e manter monitoramento constante"
+      },
+      {
+        "id": "C",
+        "texto": "não realizar manobras de desobstrução (não interferir); acalmar o paciente; incentivar tosse vigorosa; instalar suporte de O2, se necessário, e manter monitoramento constante"
+      },
+      {
+        "id": "D",
+        "texto": "não realizar manobras de desobstrução (não interferir); acordar o paciente; não incentivar tosse vigorosa; instalar suporte de O2, se necessário, e manter monitoramento constante 547 Ano: 2023"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0546",
+    "numero_ordem": 546,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'realizar manobras de desobstrução (método em garra); acalmar o paciente; incentivar t...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'realizar manobras de desobstrução (método em garra); acalmar o paciente; incentivar t...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'não realizar manobras de desobstrução (não interferir); acalmar o paciente; incentiva...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'não realizar manobras de desobstrução (não interferir); acordar o paciente; não incen...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+  },
+  {
+    "codigo_origem": "Q3584427",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Lucas do Rio Verde - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Lucas do Rio Verde -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Urgência e emergência",
+    "enunciado": "MT - Enfermeiro 20H PacienteArnaldo de 55 anos, na sala vermelha de emergência com quadro de SARA, instável hemodinamicamente, depende de amina vasoativa, em uso de ventilação mecânica através de tubo traqueal e os seguintes parâmetros: Modalidade: PCV; FIO2: 90%; PEEP: 12 cmH2O; Frequência respiratória: 20 IRPM; Pressão controlada acima da PEEP: 20, e com uma gasometria arterial apresentando os seguintes valores: PH: 7.16; PO2: 84 mmHg; PCO2: 63 mmHg e HCO3: 14 mmol/L. Nesse contexto clínico, o paciente apresenta uma:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "acidose mista e SARA grave, pois a relação PaO2/FIO2 é"
+      },
+      {
+        "id": "B",
+        "texto": "alcalose respiratória e SARA grave, pois a relação PaO2/ FIO2 é"
+      },
+      {
+        "id": "C",
+        "texto": "acidose respiratória e SARA moderada, pois a relação PaO2/FIO2 é de"
+      },
+      {
+        "id": "D",
+        "texto": "alcalose metabólica e SARA moderada, pois a relação PaO2/FIO2 é de 105 548 Ano: 2023"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0547",
+    "numero_ordem": 547,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'acidose mista e SARA grave, pois a relação PaO2/FIO2 é...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'alcalose respiratória e SARA grave, pois a relação PaO2/ FIO2 é...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'acidose respiratória e SARA moderada, pois a relação PaO2/FIO2 é de...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'alcalose metabólica e SARA moderada, pois a relação PaO2/FIO2 é de 105 548 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+  },
+  {
+    "codigo_origem": "Q2342275",
+    "banca": "SELECON",
+    "orgao": "Empresa Cuiabana de Saúde Pública - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Empresa Cuiabana de Saúde",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Urgência e emergência , Choques",
+    "enunciado": "Pública - MT - Técnico de Imobilização Ortopédica - Gesseiro Aline da Silva foi convidada para compor um time multiprofissional, para montar uma sala de imobilização de uma clínica de ortopedia da sua cidade. Ela ficou encarregada de listar os materiais ortopédicos utilizados no enfaixamento compressivo, sendo eles:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "metálica, algodão do tipo hidrófilo e atadura de crepe"
+      },
+      {
+        "id": "B",
+        "texto": "algodão ortopédico, atadura gessada e malha tubular"
+      },
+      {
+        "id": "C",
+        "texto": "malha tubular, fita crepe e atadura gessada estéril"
+      },
+      {
+        "id": "D",
+        "texto": "esparadrapo, malha impermeável e atadura"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0558",
+    "numero_ordem": 558,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'metálica, algodão do tipo hidrófilo e atadura de crepe...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'algodão ortopédico, atadura gessada e malha tubular...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'malha tubular, fita crepe e atadura gessada estéril...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'esparadrapo, malha impermeável e atadura...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+  },
+  {
+    "codigo_origem": "Q2342274",
+    "banca": "SELECON",
+    "orgao": "Empresa Cuiabana de Saúde Pública - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Empresa Cuiabana de Saúde",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Urgência e emergência , Primeiros Socorros",
+    "enunciado": "Pública - MT - Técnico de Imobilização Ortopédica - Gesseiro Pedro da Silva, 24 anos, sofreu um acidente automobilístico que ocasionou uma fratura no tálus, diagnosticada como do tipo I Hawkins. O tratamento indicado foi uma imobilização gessada suropodálica durante oito a dez semanas. O técnico de imobilização deve se atentar para o local indicado, abrindo uma janela para os membros ficarem livres na região:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "dos metatarsos"
+      },
+      {
+        "id": "B",
+        "texto": "das falanges"
+      },
+      {
+        "id": "C",
+        "texto": "do olécrano"
+      },
+      {
+        "id": "D",
+        "texto": "do calcâneo 560 Ano: 2023"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0559",
+    "numero_ordem": 559,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'dos metatarsos...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'das falanges...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'do olécrano...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'do calcâneo 560 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+  },
+  {
+    "codigo_origem": "Q2342272",
+    "banca": "SELECON",
+    "orgao": "Empresa Cuiabana de Saúde Pública - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Empresa Cuiabana de Saúde",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Urgência e emergência , Primeiros Socorros",
+    "enunciado": "Pública - MT - Técnico de Imobilização Ortopédica - Gesseiro João da Silva, técnico de imobilização, realizou a aplicação da atadura gessada do tipo braquio palmar na paciente Joana, devido a uma fratura proximal do antebraço. Sendo assim, dentre as orientações, o técnico deve pedir ao paciente para:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "não mexer o membro nas próximas três horas, não molhar o gesso e manter os dedos das mãos sem mexer"
+      },
+      {
+        "id": "B",
+        "texto": "não mexer o membro nas próximas duas horas, podendo molhar o gesso e coçar o braço com auxílio de uma pinça estéril"
+      },
+      {
+        "id": "C",
+        "texto": "mexer o membro nas próximas duas horas, podendo molhar o gesso e mexer bastante os dedos das mãos para ajudar na circulação"
+      },
+      {
+        "id": "D",
+        "texto": "não mexer o membro nas próximas duas horas, não molhar o gesso e mexer bastante os dedos das mãos para ajudar na circulação 562 Ano: 2023"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0561",
+    "numero_ordem": 561,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'não mexer o membro nas próximas três horas, não molhar o gesso e manter os dedos das ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'não mexer o membro nas próximas duas horas, podendo molhar o gesso e coçar o braço co...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'mexer o membro nas próximas duas horas, podendo molhar o gesso e mexer bastante os de...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'não mexer o membro nas próximas duas horas, não molhar o gesso e mexer bastante os de...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+  },
+  {
+    "codigo_origem": "Q2341564",
+    "banca": "SELECON",
+    "orgao": "Empresa Cuiabana de Saúde Pública - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Empresa Cuiabana de Saúde",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Urgência e emergência , Gestão de Processos e Equipes de Trabalho , Administração em Enfermagem",
+    "enunciado": "Pública - MT - Enfermeiro Assistencial A Política Nacional de Atenção às Urgências, composta pelos sistemas de atenção às urgências estaduais, regionais e municipais, deve ser organizada de forma que permita atender aos princípios de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "universalidade, equidade e integralidade"
+      },
+      {
+        "id": "B",
+        "texto": "universalidade, acesso e integralidade"
+      },
+      {
+        "id": "C",
+        "texto": "equidade, acesso e universalidade"
+      },
+      {
+        "id": "D",
+        "texto": "equidade, acesso e integralidade 571 Ano: 2023"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0570",
+    "numero_ordem": 570,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'universalidade, equidade e integralidade...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'universalidade, acesso e integralidade...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'equidade, acesso e universalidade...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'equidade, acesso e integralidade 571 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+  },
+  {
+    "codigo_origem": "Q2325293",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Primavera do Leste - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Primavera do Leste -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Urgência e emergência , Suporte Ventilatório",
+    "enunciado": "MT - Enfermeiro Intervencionista - SAMU Segundo o protocolo AP12 (operação básica de ventilador mecânico para transporte), descrito no manual de suporte avançado SAMU, a PEEP (pressão positiva ao final da expiração) deve ter a seguinte programação inicial:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "4 a 8 cmH2O em caso de redução da complacência pulmonar (síndrome do desconforto respiratório agudo), mas podese utilizar valores até 25cmH2O caso o paciente possua condições de monitoramento de curvas de pressão"
+      },
+      {
+        "id": "B",
+        "texto": "3 a 5 cmH2O em caso de redução da complacência pulmonar (síndrome do desconforto respiratório agudo), mas podese utilizar valores até 20cmH2O caso o paciente possua condições de monitoramento de curvas de pressão"
+      },
+      {
+        "id": "C",
+        "texto": "8 a 10 cmH2O em caso de redução da complacência pulmonar (síndrome do desconforto respiratório agudo), mas pode-se utilizar valores até 28 cmH2O caso o paciente possua condições de monitoramento de curvas de pressão"
+      },
+      {
+        "id": "D",
+        "texto": "5 a 8 cmH2O em caso de redução da complacência pulmonar (síndrome do desconforto respiratório agudo), mas podese utilizar valores até 30cmH2O caso o paciente possua condições de monitoramento de curvas de fluxo"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0585",
+    "numero_ordem": 585,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '4 a 8 cmH2O em caso de redução da complacência pulmonar (síndrome do desconforto resp...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '3 a 5 cmH2O em caso de redução da complacência pulmonar (síndrome do desconforto resp...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '8 a 10 cmH2O em caso de redução da complacência pulmonar (síndrome do desconforto res...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '5 a 8 cmH2O em caso de redução da complacência pulmonar (síndrome do desconforto resp...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+  },
+  {
+    "codigo_origem": "Q2325280",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Primavera do Leste - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Primavera do Leste -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Urgência e emergência , Farmacologia na Enfermagem , Choques",
+    "enunciado": "MT - Enfermeiro Intervencionista - SAMU A noradrenalina (NA) é um neurotransmissor do sistema nervoso simpático e precursor da adrenalina, uma droga amplamente utilizada no choque séptico, cuja finalidade é elevar a pressão arterial e aumentar a oferta de oxigênio. Portanto, possui atividade tanto no receptor alfa como no (a):",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "dopaminérgico"
+      },
+      {
+        "id": "B",
+        "texto": "V1 adrenérgico"
+      },
+      {
+        "id": "C",
+        "texto": "beta 1 adrenérgico"
+      },
+      {
+        "id": "D",
+        "texto": "GABA ácido gama-aminobutírico 599 Ano: 2023"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0598",
+    "numero_ordem": 598,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'dopaminérgico...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'V1 adrenérgico...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'beta 1 adrenérgico...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'GABA ácido gama-aminobutírico 599 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+  },
+  {
+    "codigo_origem": "Q2325275",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Primavera do Leste - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2023 - Prefeitura de Primavera do Leste -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Urgência e emergência , Suporte Ventilatório",
+    "enunciado": "MT - Enfermeiro Intervencionista - SAMU Segundo protocolo da SAMU, no suporte básico de vida, a avaliação primária do paciente é importante para nortear os próximos passos. Sendo assim, quando o enfermeiro avalia a responsividade do paciente, a expansão torácica e o pulso, quando abre via aérea com manobras manuais (hiperextensão da cabeça e elevação do queixo) e quando inicia suporte ventilatório, está seguindo o seguinte protocolo:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "BC5"
+      },
+      {
+        "id": "B",
+        "texto": "BC4"
+      },
+      {
+        "id": "C",
+        "texto": "BC3"
+      },
+      {
+        "id": "D",
+        "texto": "BC2 604 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Prefeitura de Primavera do Leste - MT Provas: SELECON - 2023 - Prefeitura de Primavera do Leste -"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0603",
+    "numero_ordem": 603,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'BC2 604 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+  },
+  {
+    "codigo_origem": "Q2162341",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Nova Mutum - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Urgência e emergência , Exames Laboratoriais",
+    "enunciado": "Paciente Júlio da Costa, 43 anos de idade, tabagista, etilista, deu entrada na emergência com quadro de insuficiência respiratória aguda, sendo instalado cateter nasal e coletada uma gasometria arterial. Os valores obtidos neste exame foram: pH: 7,15 PO2: 78 PCO2: 57 HCO3: 12 De acordo com os valores supracitados, o paciente apresenta o quadro de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "acidose mista"
+      },
+      {
+        "id": "B",
+        "texto": "acidose respiratória"
+      },
+      {
+        "id": "C",
+        "texto": "acidose metabólica"
+      },
+      {
+        "id": "D",
+        "texto": "alcalose metabólica 653 Ano: 2023"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0652",
+    "numero_ordem": 652,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'acidose mista...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'acidose respiratória...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'acidose metabólica...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'alcalose metabólica 653 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+  },
+  {
+    "codigo_origem": "Q2162335",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Nova Mutum - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Urgência e emergência",
+    "enunciado": "O pneumotórax é uma emergência clínica, sendo definida quando a pleura parietal ou visceral é rompida e o espaço pleural é exposto à pressão atmosférica positiva. Segundo Brunner (2016), os tipos de pneumotórax são:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "simples, fechado e completo"
+      },
+      {
+        "id": "B",
+        "texto": "simples, traumático e hipertensivo"
+      },
+      {
+        "id": "C",
+        "texto": "complexo, atraumático e visceral"
+      },
+      {
+        "id": "D",
+        "texto": "complexo, hipertensivo e contuso"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0658",
+    "numero_ordem": 658,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'simples, fechado e completo...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'simples, traumático e hipertensivo...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'complexo, atraumático e visceral...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'complexo, hipertensivo e contuso...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+  },
+  {
+    "codigo_origem": "Q2160730",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Nova Mutum - MT - Técnico",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Urgência e emergência , Suporte Ventilatório , Enfermagem em UTI",
+    "enunciado": "em Enfermagem A presença do tubo endotraqueal em pacientes sob ventilação mecânica (VM) contribui para o desenvolvimento de pneumonia associada ao dispositivo. No entanto, a utilização da cânula orotraqueal, com um sistema de aspiração de secreção subglótica contínua ou intermitente, é recomendada para pacientes que permanecerão sob VM em horas acima de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "06 ou"
+      },
+      {
+        "id": "B",
+        "texto": "12 ou"
+      },
+      {
+        "id": "C",
+        "texto": "24 ou"
+      },
+      {
+        "id": "D",
+        "texto": "48 ou 72"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0677",
+    "numero_ordem": 677,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      }
+    ],
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+  },
+  {
+    "codigo_origem": "Q2408174",
+    "banca": "SELECON",
+    "orgao": "Câmara de São Gonçalo - RJ",
+    "ano": 2022,
+    "prova": "SELECON - 2022 - Câmara de São Gonçalo - RJ - Agente de",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Urgência e emergência , Parada Cardiorespiratória (PCR)",
+    "enunciado": "Segurança Legislativo São causas associadas potencialmente reversíveis de parada cardiorrespiratória:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "hipotermia, hipóxia e tamponamento cardíaco"
+      },
+      {
+        "id": "B",
+        "texto": "hipertermia, prurido e tensão no tórax"
+      },
+      {
+        "id": "C",
+        "texto": "alcalose, hipotermia e síncope"
+      },
+      {
+        "id": "D",
+        "texto": "toxinas, tabagismo e etilismo 686 Ano: 2022"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0685",
+    "numero_ordem": 685,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'hipotermia, hipóxia e tamponamento cardíaco...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'hipertermia, prurido e tensão no tórax...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'alcalose, hipotermia e síncope...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'toxinas, tabagismo e etilismo 686 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
+  },
+  {
+    "codigo_origem": "Q1956082",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Pontes e Lacerda - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2022 - Prefeitura de Pontes e Lacerda - MT -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Urgência e emergência , Hipertensão Arterial Sistêmica , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "Técnico em Enfermagem Um medicamento extremamente importante e muito utilizado nas emergências hipertensivas é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "diltiazem"
+      },
+      {
+        "id": "B",
+        "texto": "milrinona"
+      },
+      {
+        "id": "C",
+        "texto": "noradrenalina"
+      },
+      {
+        "id": "D",
+        "texto": "nitroprussiato de sódio"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0700",
+    "numero_ordem": 700,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'noradrenalina...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'nitroprussiato de sódio...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
+  },
+  {
+    "codigo_origem": "Q1956072",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Pontes e Lacerda - MT",
+    "ano": 2022,
+    "prova": "SELECON - 2022 - Prefeitura de Pontes e Lacerda - MT -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Urgência e emergência , Infecção Hospitalar , Suporte Ventilatório",
+    "enunciado": "Técnico em Enfermagem A pneumonia relacionada à assistência em saúde é principalmente de origem aspirativa. A principal fonte são as secreções das vias aéreas superiores, seguida pela inoculação exógena de material contaminado ou pelo refluxo do trato gastrintestinal. É uma medida de prevenção de pneumonia associada à ventilação mecânica:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "higiene oral com gaze embebida de clorexidina alcoólica, a 0,12%, durante 1 minuto, inclusive na superfície interna do tubo orotraqueal"
+      },
+      {
+        "id": "B",
+        "texto": "higiene oral com gaze embebida de clorexidina aquosa, a 0,12%, durante 1 minuto, inclusive na superfície externa do tubo orotraqueal"
+      },
+      {
+        "id": "C",
+        "texto": "cabeceira elevada a 15º graus e troca do sistema fechado de aspiração a cada 72 horas"
+      },
+      {
+        "id": "D",
+        "texto": "cabeceira elevada a 30º graus e troca do sistema fechado de aspiração a cada 120 horas 711 Ano: 2022"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0710",
+    "numero_ordem": 710,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'higiene oral com gaze embebida de clorexidina alcoólica, a 0,12%, durante 1 minuto, i...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'higiene oral com gaze embebida de clorexidina aquosa, a 0,12%, durante 1 minuto, incl...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'cabeceira elevada a 15º graus e troca do sistema fechado de aspiração a cada 72 horas...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'cabeceira elevada a 30º graus e troca do sistema fechado de aspiração a cada 120 hora...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+  },
+  {
+    "codigo_origem": "Q1953162",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Pontes e Lacerda - MT",
+    "ano": 2022,
+    "prova": "SELECON - 2022 - Prefeitura de Pontes e Lacerda - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Urgência e emergência , Doenças Respiratórias , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "A doença pulmonar obstrutiva crônica (DPOC) é uma patologia respiratória prevenível e tratável, caracterizada pela presença de obstrução crônica do fluxo aéreo, que não é totalmente reversível. São fatores de risco da doença:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "tabagismo ativo, poluição ambiental e deficiência de vitamina B12"
+      },
+      {
+        "id": "B",
+        "texto": "etilismo, poluição ambiental e deficiência de Alfa-1 antiquimotripsina"
+      },
+      {
+        "id": "C",
+        "texto": "tabagismo passivo, poluição ambiental e excesso de Alfa-1 antiquimotripsina"
+      },
+      {
+        "id": "D",
+        "texto": "tabagismo (ativo e passivo), poluição ambiental e deficiência de Alfa-1 antiquimotripsina 726 Ano: 2022"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0725",
+    "numero_ordem": 725,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'tabagismo ativo, poluição ambiental e deficiência de vitamina B12...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'etilismo, poluição ambiental e deficiência de Alfa-1 antiquimotripsina...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'tabagismo passivo, poluição ambiental e excesso de Alfa-1 antiquimotripsina...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'tabagismo (ativo e passivo), poluição ambiental e deficiência de Alfa-1 antiquimotrip...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+  },
+  {
+    "codigo_origem": "Q1953158",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Pontes e Lacerda - MT",
+    "ano": 2022,
+    "prova": "SELECON - 2022 - Prefeitura de Pontes e Lacerda - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Urgência e emergência",
+    "enunciado": "São possíveis causas de uma acidose metabólica:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "diarreia, uso de diurético poupador de potássio e fistula entérica"
+      },
+      {
+        "id": "B",
+        "texto": "asma, embolia pulmonar e gravidez"
+      },
+      {
+        "id": "C",
+        "texto": "diuréticos, hipercalcemia e HAS"
+      },
+      {
+        "id": "D",
+        "texto": "medo, ansiedade e sepse 730 Ano: 2022"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0729",
+    "numero_ordem": 729,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'diarreia, uso de diurético poupador de potássio e fistula entérica...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'asma, embolia pulmonar e gravidez...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'diuréticos, hipercalcemia e HAS...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'medo, ansiedade e sepse 730 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+  },
+  {
+    "codigo_origem": "Q1953157",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Pontes e Lacerda - MT",
+    "ano": 2022,
+    "prova": "SELECON - 2022 - Prefeitura de Pontes e Lacerda - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Urgência e emergência",
+    "enunciado": "Um paciente de 60 anos, do sexo masculino, diabético, hipertenso e portador de enfisema pulmonar deu entrada na emergência com quadro de insuficiência respiratória grave. Apresentava a seguinte gasometria arterial pH: 7,16; PCO2: 68 mmHg; HCO3 (-): 30 mmol/L e PO2: 62 mmHg. Esses valores são referência para o seguinte distúrbio:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "alcalose metabólica"
+      },
+      {
+        "id": "B",
+        "texto": "alcalose respiratória"
+      },
+      {
+        "id": "C",
+        "texto": "acidose metabólica"
+      },
+      {
+        "id": "D",
+        "texto": "acidose respiratória 731 Ano: 2022"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0730",
+    "numero_ordem": 730,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'alcalose metabólica...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'alcalose respiratória...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'acidose metabólica...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'acidose respiratória 731 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
+  },
+  {
+    "codigo_origem": "Q1320556",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2020,
+    "prova": "SELECON - 2020 - Prefeitura de Boa Vista - RR - Condutor de",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Urgência e emergência , Primeiros Socorros",
+    "enunciado": "Unidade Móvel de Saúde Na prestação da atividade de socorrista, ao exercer atribuições de primeiros socorros, na maioria das vezes, é necessário realizar uma inspeção do tórax em casos de acidentes de trânsito, precisandose verificar, nesta região corporal, a existência de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "convulsões da epiderme"
+      },
+      {
+        "id": "B",
+        "texto": "contusões no couro cabeludo"
+      },
+      {
+        "id": "C",
+        "texto": "ruptura de ligamento cruzado anterior, posterior ou medial"
+      },
+      {
+        "id": "D",
+        "texto": "anormalidades ou sinais de fraturas 736 Ano: 2020"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0735",
+    "numero_ordem": 735,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'convulsões da epiderme...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'contusões no couro cabeludo...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'ruptura de ligamento cruzado anterior, posterior ou medial...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'anormalidades ou sinais de fraturas 736 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+  },
+  {
+    "codigo_origem": "Q1320555",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2020,
+    "prova": "SELECON - 2020 - Prefeitura de Boa Vista - RR - Condutor de",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Urgência e emergência , Primeiros Socorros",
+    "enunciado": "Unidade Móvel de Saúde As atividades de primeiros socorros terão por objetivo socorrer vítimas de acidentes ou de mal súbito que, diante de uma eventualidade, não estejam em condições de cuidar de sua própria saúde. O conhecimento dos órgãos imprescindíveis para a manutenção básica da vida é indispensável para um bom atendimento. Para um melhor atendimento, NÃO é necessário seguir a seguinte regra:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Verificar pontos cruciais de conhecimento do estado da vítima que está necessitando de atendimento, como pulso, respiração e temperatura corporal."
+      },
+      {
+        "id": "B",
+        "texto": "Esquecer a serenidade, com isso irá garantir um melhor atendimento emergencial em primeiros socorros."
+      },
+      {
+        "id": "C",
+        "texto": "Respeitar suas próprias l imitações de conhecimento e técnicas de atendimento, bem como capacidade física."
+      },
+      {
+        "id": "D",
+        "texto": "Perguntar à vítima apenas o essencial, pois falar pode prejudicar a situação do paciente. 737 Ano: 2020"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0736",
+    "numero_ordem": 736,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Verificar pontos cruciais de conhecimento do estado da vítima que está necessitando d...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Esquecer a serenidade, com isso irá garantir um melhor atendimento emergencial em pri...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Respeitar suas próprias l imitações de conhecimento e técnicas de atendimento, bem co...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'Perguntar à vítima apenas o essencial, pois falar pode prejudicar a situação do ...'."
+      }
+    ],
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+  },
+  {
+    "codigo_origem": "Q1320488",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2020,
+    "prova": "SELECON - 2020 - Prefeitura de Boa Vista - RR - Técnico de",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Urgência e emergência , Suporte Ventilatório",
+    "enunciado": "Enfermagem No atendimento de emergência, a relação de compressão torácica e ventilação, até a colocação de uma via aérea avançada pelo médico, são de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "25 compressões e 10 ventilações"
+      },
+      {
+        "id": "B",
+        "texto": "30 compressões e 4 ventilações"
+      },
+      {
+        "id": "C",
+        "texto": "15 compressões e 2 ventilações"
+      },
+      {
+        "id": "D",
+        "texto": "30 compressões e 2 ventilações"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0752",
+    "numero_ordem": 752,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '25 compressões e 10 ventilações...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '30 compressões e 4 ventilações...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '15 compressões e 2 ventilações...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '30 compressões e 2 ventilações...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+  },
+  {
+    "codigo_origem": "Q1313729",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2020,
+    "prova": "SELECON - 2020 - Prefeitura de Boa Vista - RR - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Urgência e emergência , Parada Cardiorespiratória (PCR)",
+    "enunciado": "ESF De acordo com as atualizações de 2018 da American Heart Association (AHA), para garantir a qualidade da ressucitação cardiopulmonar (RCP) no adulto, deve-se seguir as seguintes recomendações:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Evite ventilação excessiva e minimize as interrupções nas compressões."
+      },
+      {
+        "id": "B",
+        "texto": "Forneça ventilação abundante e comprima tórax com força de pelo menos 8 cm."
+      },
+      {
+        "id": "C",
+        "texto": "Administre 3 ventilações a cada 10 segundos com compressão torácica contínua."
+      },
+      {
+        "id": "D",
+        "texto": "Instale o marcapasso transcutâneo e realize intubação endotraqueal com 50% de FIO2. 771 Ano: 2020"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0770",
+    "numero_ordem": 770,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Evite ventilação excessiva e minimize as interrupções nas compressões....' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Forneça ventilação abundante e comprima tórax com força de pelo menos 8 cm....' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Administre 3 ventilações a cada 10 segundos com compressão torácica contínua....' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Instale o marcapasso transcutâneo e realize intubação endotraqueal com 50% de FIO2. 7...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
+  },
+  {
+    "codigo_origem": "Q1313709",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2020,
+    "prova": "SELECON - 2020 - Prefeitura de Boa Vista - RR - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Urgência e emergência",
+    "enunciado": "Intensivista Pediátrico N o a t e n d i m e n t o d e e m e r g ê n c i a , é imprescindível uma assistência com segurança e livre de danos. Sendo assim, a manobra de elevação da mandíbula cujo procedimento consiste na utilização das duas mãos do profissional, posicionando os dedos médios e indicadores no ângulo da mandíbula, projetando-a para frente, enquanto os polegares deprimem o lábio inferior, abrindo a boca e permitindo a pesquisa de corpos estranhos, secreções ou ainda sangramento é chamada manobra de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Kerr"
+      },
+      {
+        "id": "B",
+        "texto": "Valsalva"
+      },
+      {
+        "id": "C",
+        "texto": "Chin - Lift"
+      },
+      {
+        "id": "D",
+        "texto": "Jaw - Thrust 791 Ano: 2020"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0790",
+    "numero_ordem": 790,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Chin - Lift...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Jaw - Thrust 791 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+  },
+  {
+    "codigo_origem": "Q1313702",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2020,
+    "prova": "SELECON - 2020 - Prefeitura de Boa Vista - RR - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Urgência e emergência , Parada Cardiorespiratória (PCR)",
+    "enunciado": "Intensivista Pediátrico Segundo as recomendações de 2018 da American Heart Association (AHA) para ressuscitação cardiopulmonar (RCP) em pediatria, a dose intravenosa do fármaco amiodarona no tratamento medicamentoso deverá ser:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "b o l u s d e 5 m g / k g d u r a n t e a p a r a d a cardiorrespiratória (PCR) e pode ser repetida até duas vezes para fibrilação ventricular e taquicardia ventricular sem pulso refratária"
+      },
+      {
+        "id": "B",
+        "texto": "b o l u s d e 3 m g / k g d u r a n t e a p a r a d a cardiorrespiratória (PCR) e pode ser repetida até quatro vezes para fibrilação ventricular e taquicardia ventricular sem pulso refratária"
+      },
+      {
+        "id": "C",
+        "texto": "b o l u s d e 6 m g / k g d u r a n t e a p a r a d a cardiorrespiratória (PCR) e pode ser repetida até duas vezes para fibrilação ventricular e taquicardia ventricular sem pulso refratária"
+      },
+      {
+        "id": "D",
+        "texto": "b o l u s d e 5 m g / k g d u r a n t e a p a r a d a cardiorrespiratória (PCR) e pode ser repetida até três vezes para fibrilação ventricular e taquicardia ventricular sem pulso refratária 798 Ano: 2020"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0797",
+    "numero_ordem": 797,
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'b o l u s d e 5 m g / k g d u r a n t e a p a r a d a cardiorrespiratória (PCR) e pod...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'b o l u s d e 3 m g / k g d u r a n t e a p a r a d a cardiorrespiratória (PCR) e pod...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'b o l u s d e 6 m g / k g d u r a n t e a p a r a d a cardiorrespiratória (PCR) e pod...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'b o l u s d e 5 m g / k g d u r a n t e a p a r a d a cardiorrespiratória (PCR) e pod...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A altern..."
+  },
+  {
+    "codigo_origem": "Q1313701",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2020,
+    "prova": "SELECON - 2020 - Prefeitura de Boa Vista - RR - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Urgência e emergência , Parada Cardiorespiratória (PCR)",
+    "enunciado": "Intensivista Pediátrico A concentração de potássio sérico < 3,5 mEq/L, considerada um desequilíbrio eletrolítico mais encontrado na prática clínica, ocorrendo, inclusive, em cerca de 50% de pacientes sobreviventes da ressuscitação cardiopulmonar (RCP) após fibrilação ventricular, é chamada de",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "hipomagnesemia"
+      },
+      {
+        "id": "B",
+        "texto": "hipocalcemia"
+      },
+      {
+        "id": "C",
+        "texto": "hiponatremia"
+      },
+      {
+        "id": "D",
+        "texto": "hipocalemia 799 Ano: 2020 Enfermagem > Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Diagnósticos de Enfermagem - NIC-NOC/CIPE/NANDA Banca: SELECON Órgão: Prefeitura de Boa Vista - RR Prova: SELECON - 2020 - Prefeitura de Boa Vista - RR - Enfermeiro"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0798",
+    "numero_ordem": 798,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'hipomagnesemia...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'hipocalcemia...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'hiponatremia...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'hipocalemia 799 Ano: 2020 Enfermagem > Processo de Enfermagem e Sistematização da Ass...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   }
 ]

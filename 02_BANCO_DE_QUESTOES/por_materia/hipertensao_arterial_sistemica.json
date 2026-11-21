@@ -1,5 +1,109 @@
 [
   {
+    "codigo_origem": "Q3884079",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Hipertensão Arterial Sistêmica , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "MT - Enfermeiro No manejo do paciente hipertenso na Atenção Básica, a consulta de enfermagem deve incluir ações específicas de educação em saúde. Uma orientação fundamental que o enfermeiro deve fornecer, alinhada ao estímulo de hábitos de vida saudáveis, é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "recomendar o uso contínuo de anti-infl amatórios não esteroidais para dores articulares"
+      },
+      {
+        "id": "B",
+        "texto": "orientar sobre a importância da restrição severa de líquidos para menos de 500ml/dia para controle da pressão arterial"
+      },
+      {
+        "id": "C",
+        "texto": "incentivar a redução do consumo de sódio, evidenciando os alimentos industrializados como principais fontes"
+      },
+      {
+        "id": "D",
+        "texto": "prescrever um plano de exercícios físicos de alta intensidade, independentemente da avaliação de risco cardiovascular 124 Ano: 2026"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0123",
+    "numero_ordem": 123,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'recomendar o uso contínuo de anti-infl amatórios não esteroidais para dores articular...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'orientar sobre a importância da restrição severa de líquidos para menos de 500ml/dia ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'incentivar a redução do consumo de sódio, evidenciando os alimentos industrializados ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'prescrever um plano de exercícios físicos de alta intensidade, independentemente da a...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
+  },
+  {
+    "codigo_origem": "Q3884073",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Hipertensão Arterial Sistêmica , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "MT - Enfermeiro A hipertensão arterial sistêmica (HAS) é um dos principais fatores de risco modificáveis para doenças cardiovasculares e sua classificação é baseada em valores de pressão arterial. Segundo as Diretrizes Brasileiras de Hipertensão Arterial, a classificação \"Hipertensão Estágio 1\" é definida quando os valores pressóricos, medidos em consultório, são pressão sistólica:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "entre 130-139 mmHg e/ou diastólica entre 85-89 mmHg"
+      },
+      {
+        "id": "B",
+        "texto": "entre 120-129 mmHg e diastólica < 80 mmHg"
+      },
+      {
+        "id": "C",
+        "texto": "≥ 180 mmHg e/ou diastólica ≥ 110 mmHg"
+      },
+      {
+        "id": "D",
+        "texto": "entre 140-159 mmHg e/ou diastólica entre 90-99 mmHg 130 Ano: 2026"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0129",
+    "numero_ordem": 129,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'entre 130-139 mmHg e/ou diastólica entre 85-89 mmHg...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'entre 120-129 mmHg e diastólica < 80 mmHg...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '≥ 180 mmHg e/ou diastólica ≥ 110 mmHg...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'entre 140-159 mmHg e/ou diastólica entre 90-99 mmHg 130 Ano: 2026...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
+  },
+  {
     "codigo_origem": "Q2528690",
     "banca": "SELECON",
     "orgao": "SAD-MS",
@@ -32,32 +136,32 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0258",
-    "numero_ordem": 258,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0338",
+    "numero_ordem": 338,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '120 x 80 mmHg...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '120 x 80 mmHg...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '130 x 90 mmHg...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '130 x 90 mmHg...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '160 x 100 mmHg...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '160 x 100 mmHg...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '180 x 120 mmHg...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '180 x 120 mmHg...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "E",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '200 x 130 mmHg 339 Ano: 2024...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '200 x 130 mmHg 339 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   },
   {
     "codigo_origem": "Q2467334",
@@ -88,28 +192,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0388",
-    "numero_ordem": 388,
-    "fundamentacao_correta": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.",
+    "id": "EF0468",
+    "numero_ordem": 468,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'HAS grau 2 com comorbidades, com terapia medicamentosa combinada...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'HAS grau 2 com comorbidades, com terapia medicamentosa combinada...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'HAS grau 1 sem comorbidades, com monoterapia medicamentosa...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'HAS grau 1 sem comorbidades, com monoterapia medicamentosa...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'HAS grau 2 sem comorbidades, com monoterapia medicamentosa...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'HAS grau 2 sem comorbidades, com monoterapia medicamentosa...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'HAS grau 1 com comorbidades, com monoterapia medicamentosa 469 Ano: 2024...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'HAS grau 1 com comorbidades, com monoterapia medicamentosa 469 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para ..."
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   },
   {
     "codigo_origem": "Q2454937",
@@ -140,28 +244,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0397",
-    "numero_ordem": 397,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0477",
+    "numero_ordem": 477,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'insuficiência respiratória...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'insuficiência respiratória...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'doença renal crônica...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'doença renal crônica...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'distúrbios mentais...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'distúrbios mentais...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   },
   {
     "codigo_origem": "Q2454923",
@@ -192,131 +296,131 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0411",
-    "numero_ordem": 411,
-    "fundamentacao_correta": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.",
+    "id": "EF0491",
+    "numero_ordem": 491,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Avaliação Ambulatorial da Pressão Arterial...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Avaliação Ambulatorial da Pressão Arterial...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Monitorização Ambulatorial da Pressão Arterial...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Monitorização Ambulatorial da Pressão Arterial...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Avaliação da Pressão Arterial em Situações do Cotidiano...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Avaliação da Pressão Arterial em Situações do Cotidiano...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Monitorização da Pressão Arterial em Situações do Cotidiano...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Monitorização da Pressão Arterial em Situações do Cotidiano...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para ..."
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   },
   {
-    "codigo_origem": "Q3884079",
+    "codigo_origem": "Q1953169",
     "banca": "SELECON",
-    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
-    "ano": 2026,
-    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
+    "orgao": "Prefeitura de Pontes e Lacerda - MT",
+    "ano": 2022,
+    "prova": "SELECON - 2022 - Prefeitura de Pontes e Lacerda - MT -",
     "cargo": "Enfermeiro",
     "materia": "Enfermagem",
-    "assunto": "Hipertensão Arterial Sistêmica , Doenças Crônicas Não Transmissíveis",
-    "enunciado": "MT - Enfermeiro No manejo do paciente hipertenso na Atenção Básica, a consulta de enfermagem deve incluir ações específicas de educação em saúde. Uma orientação fundamental que o enfermeiro deve fornecer, alinhada ao estímulo de hábitos de vida saudáveis, é:",
+    "assunto": "Hipertensão Arterial Sistêmica , Farmacologia na Enfermagem , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "Os inibidores da enzima conversora de angiotensina (IECA) são medicamentos amplamente utilizados no tratamento da hipertensão arterial sistêmica. São efeitos colaterais:",
     "alternativas": [
       {
         "id": "A",
-        "texto": "recomendar o uso contínuo de anti-infl amatórios não esteroidais para dores articulares"
+        "texto": "tosse produtiva, euforia e angioedema generalizado"
       },
       {
         "id": "B",
-        "texto": "orientar sobre a importância da restrição severa de líquidos para menos de 500ml/dia para controle da pressão arterial"
+        "texto": "agioedema, modificação do paladar e hipercalemia"
       },
       {
         "id": "C",
-        "texto": "incentivar a redução do consumo de sódio, evidenciando os alimentos industrializados como principais fontes"
+        "texto": "palpitações, hipocalemia e confusão mental"
       },
       {
         "id": "D",
-        "texto": "prescrever um plano de exercícios físicos de alta intensidade, independentemente da avaliação de risco cardiovascular 124 Ano: 2026"
+        "texto": "tontura, sede e euforia 719 Ano: 2022"
       }
     ],
     "resposta_correta": "",
-    "id": "EF0463",
-    "numero_ordem": 463,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0718",
+    "numero_ordem": 718,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'recomendar o uso contínuo de anti-infl amatórios não esteroidais para dores articulares...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'tosse produtiva, euforia e angioedema generalizado...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'orientar sobre a importância da restrição severa de líquidos para menos de 500ml/dia para ...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'agioedema, modificação do paladar e hipercalemia...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'incentivar a redução do consumo de sódio, evidenciando os alimentos industrializados como ...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'palpitações, hipocalemia e confusão mental...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'prescrever um plano de exercícios físicos de alta intensidade, independentemente da avalia...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'tontura, sede e euforia 719 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   },
   {
-    "codigo_origem": "Q3884073",
+    "codigo_origem": "Q1313726",
     "banca": "SELECON",
-    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
-    "ano": 2026,
-    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2020,
+    "prova": "SELECON - 2020 - Prefeitura de Boa Vista - RR - Enfermeiro",
     "cargo": "Enfermeiro",
     "materia": "Enfermagem",
     "assunto": "Hipertensão Arterial Sistêmica , Doenças Crônicas Não Transmissíveis",
-    "enunciado": "MT - Enfermeiro A hipertensão arterial sistêmica (HAS) é um dos principais fatores de risco modificáveis para doenças cardiovasculares e sua classificação é baseada em valores de pressão arterial. Segundo as Diretrizes Brasileiras de Hipertensão Arterial, a classificação \"Hipertensão Estágio 1\" é definida quando os valores pressóricos, medidos em consultório, são pressão sistólica:",
+    "enunciado": "ESF O cuidado ao indivíduo portador hipertensão arterial sistêmica (HAS) é realizado no âmbito da baixa, média e alta complexidade do SUS. São fatores de risco não modificáveis para HAS:",
     "alternativas": [
       {
         "id": "A",
-        "texto": "entre 130-139 mmHg e/ou diastólica entre 85-89 mmHg"
+        "texto": "dade, sexo e etnia"
       },
       {
         "id": "B",
-        "texto": "entre 120-129 mmHg e diastólica < 80 mmHg"
+        "texto": "sedentarismo, sexo e fatores socioeconômicos"
       },
       {
         "id": "C",
-        "texto": "≥ 180 mmHg e/ou diastólica ≥ 110 mmHg"
+        "texto": "ingestão de sal, ingestão de álcool e obesidade"
       },
       {
         "id": "D",
-        "texto": "entre 140-159 mmHg e/ou diastólica entre 90-99 mmHg 130 Ano: 2026"
+        "texto": "e x c e s s o d e p e s o , e t n i a e f a t o r e s socioeconômicos 774 Ano: 2020"
       }
     ],
     "resposta_correta": "",
-    "id": "EF0469",
-    "numero_ordem": 469,
-    "fundamentacao_correta": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.",
+    "id": "EF0773",
+    "numero_ordem": 773,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'entre 130-139 mmHg e/ou diastólica entre 85-89 mmHg...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'dade, sexo e etnia...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'entre 120-129 mmHg e diastólica < 80 mmHg...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'sedentarismo, sexo e fatores socioeconômicos...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '≥ 180 mmHg e/ou diastólica ≥ 110 mmHg...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'ingestão de sal, ingestão de álcool e obesidade...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'entre 140-159 mmHg e/ou diastólica entre 90-99 mmHg 130 Ano: 2026...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'e x c e s s o d e p e s o , e t n i a e f a t o r e s socioeconômicos 774 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para ..."
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   }
 ]

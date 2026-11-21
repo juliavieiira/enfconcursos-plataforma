@@ -30,22 +30,22 @@
     "resposta_correta": "D",
     "id": "EF0019",
     "numero_ordem": 19,
-    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [D] ('assegurar que a identificação do paciente ocorra em pelo menos dois identificadores, como nome completo e data de nascimento, antes de qualquer intervenção assistencial') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('assegurar que a identificação do paciente ocorra em pelo menos dois identificadores, como nome completo e data de nascimento, antes de qualquer intervenção assistencial') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'garantir que todos os pacientes sejam identificados por meio de pulseira com nome completo...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'garantir que todos os pacientes sejam identificados por meio de pulseira com nome com...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'padronizar a identificação do paciente com o número do prontuário, único identificador con...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'padronizar a identificação do paciente com o número do prontuário, único identificado...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'restringir a identificação do paciente a situações de administração de medicamentos e tran...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'restringir a identificação do paciente a situações de administração de medicamentos e...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [D] ('assegurar que a identificação do paciente ocorra em pelo menos dois identificadores, como nome completo e data de nascimento, ant..."
   },
   {
     "codigo_origem": "Q4317377",
@@ -78,26 +78,26 @@
     "resposta_correta": "",
     "id": "EF0043",
     "numero_ordem": 43,
-    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'oferta fracionada de água para verificar tolerância...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'oferta fracionada de água para verificar tolerância...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manutenção da restrição de ingestão por via oral...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'manutenção da restrição de ingestão por via oral...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administração de medicamentos orais com pequeno volume de líquido...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'administração de medicamentos orais com pequeno volume de líquido...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'oferta de alimentos de consistência pastosa, por apresentarem menor risco de aspiração 44 ...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'oferta de alimentos de consistência pastosa, por apresentarem menor risco de aspiraçã...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+    "comentario": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Partici..."
   },
   {
     "codigo_origem": "Q3974343",
@@ -130,26 +130,78 @@
     "resposta_correta": "",
     "id": "EF0093",
     "numero_ordem": 93,
-    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'organizar diretrizes gerais para melhoria da assistência hospitalar no país...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'organizar diretrizes gerais para melhoria da assistência hospitalar no país...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'implantar ações voltadas à melhoria da qualidade assistencial nos serviços de saúde...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'implantar ações voltadas à melhoria da qualidade assistencial nos serviços de saúde...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'desenvolver estratégias institucionais de gestão de risco e implementar protocolos básicos...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'desenvolver estratégias institucionais de gestão de risco e implementar protocolos bá...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'contribuir para a qualificação do cuidado em saúde em todos os estabelecimentos do territó...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'contribuir para a qualificação do cuidado em saúde em todos os estabelecimentos do te...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q3974326",
+    "banca": "SELECON",
+    "orgao": "EMGEPRON",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - EMGEPRON - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Segurança do Paciente",
+    "enunciado": "Em um serviço hospitalar que adota protocolo estruturado de classificação de risco, um paciente de 62 anos, diabético e hipertenso, procura atendimento referindo mal-estar súbito há uma hora, associado à epigastralgia em queimação, náuseas e sudorese discreta. Nega dor torácica típica. Encontra-se consciente, PA 138×86 mmHg, FC 96 bpm, FR 20 irpm e SpO2 95% em ar ambiente. Pele levemente fria. Considerando os princípios da classificação de risco, a segurança do paciente e a apresentação clínica das síndromes coronarianas, pode-se afirmar que a:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "ausência de dor torácica típica e de instabilidade hemodinâmica permite classificação intermediária, com reavaliação clínica periódica conforme fluxo assistencial da unidade"
+      },
+      {
+        "id": "B",
+        "texto": "estabilidade dos sinais vitais afasta, no primeiro momento, suspeita de condição tempo-dependente, podendo o paciente aguardar avaliação médica conforme disponibilidade"
+      },
+      {
+        "id": "C",
+        "texto": "presença de fatores de risco cardiovascular associada a sintomas atípicos impõe classificação como condição potencialmente tempo-dependente, com prioridade elevada para avaliação imediata"
+      },
+      {
+        "id": "D",
+        "texto": "definição da prioridade assistencial deve fundamentar-se principalmente nos parâmetros hemodinâmicos objetivos aferidos na triagem, sendo os sintomas inespecíficos considerados apenas como complementares na estratificação inicial de risco 107 Ano: 2026"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0106",
+    "numero_ordem": 106,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'ausência de dor torácica típica e de instabilidade hemodinâmica permite classificação...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'estabilidade dos sinais vitais afasta, no primeiro momento, suspeita de condição temp...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'presença de fatores de risco cardiovascular associada a sintomas atípicos impõe class...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'definição da prioridade assistencial deve fundamentar-se principalmente nos parâ...'."
+      }
+    ],
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   },
   {
     "codigo_origem": "Q3199755",
@@ -180,28 +232,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0200",
-    "numero_ordem": 200,
-    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "id": "EF0280",
+    "numero_ordem": 280,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'administrar oxigênio imediatamente, monitorando a frequência cardíaca e respiratória,...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'reavaliar a saturação de oxigênio, monitorar os sinais vitais e proporcionar conforto resp...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'reavaliar a saturação de oxigênio, monitorar os sinais vitais e proporcionar conforto...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'solicitar o médico para uma nova avaliação, já que a aspiração traqueal pode causar compli...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'solicitar o médico para uma nova avaliação, já que a aspiração traqueal pode causar c...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'continuar a aspiração de secreções até que o paciente apresente melhora completa na respir...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'continuar a aspiração de secreções até que o paciente apresente melhora completa na r...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q3199748",
@@ -232,28 +284,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0207",
-    "numero_ordem": 207,
-    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "id": "EF0287",
+    "numero_ordem": 287,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a implementação de uma rotina de identificação verbal do paciente antes de procedimentos i...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a implementação de uma rotina de identificação verbal do paciente antes de procedimen...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a priorização de protocolos de comunicação e a utilização de sistemas de verificação de me...'."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a priorização de protocolos de comunicação e a utilização de sistemas de verific...'."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a monitorização constante da segurança do paciente deve ser realizada somente após a ocorr...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a monitorização constante da segurança do paciente deve ser realizada somente após a ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a padronização de procedimentos e o uso de checklists de segurança, incluindo a verificaçã...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a padronização de procedimentos e o uso de checklists de segurança, incluindo a verif...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q2480399",
@@ -288,32 +340,32 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0298",
-    "numero_ordem": 298,
-    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "id": "EF0378",
+    "numero_ordem": 378,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'humana, sistêmica, externa, relacionada ao paciente...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'humana, sistêmica, externa, relacionada ao paciente...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'individual, sistêmica, interna, relacionada ao paciente...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'individual, sistêmica, interna, relacionada ao paciente...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'individual, coletiva, interna, externa...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'individual, coletiva, interna, externa...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'humana, sistêmica, externa, interna...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'humana, sistêmica, externa, interna...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "E",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'sistêmica, externa, interna 379 Ano: 2024...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'sistêmica, externa, interna 379 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q2452994",
@@ -344,28 +396,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0425",
-    "numero_ordem": 425,
-    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "id": "EF0505",
+    "numero_ordem": 505,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'individuais, coletivos, internos, externos...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'individuais, coletivos, internos, externos...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'humanos, sistêmicos, externos, internos...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'humanos, sistêmicos, externos, internos...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'humanos, sistêmicos, externos, relacionados ao paciente...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'humanos, sistêmicos, externos, relacionados ao paciente...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'individuais, sistêmicos, internos, relacionados ao paciente 506 Ano: 2024...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'individuais, sistêmicos, internos, relacionados ao paciente 506 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q2452988",
@@ -396,79 +448,651 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0431",
-    "numero_ordem": 431,
-    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "id": "EF0511",
+    "numero_ordem": 511,
+    "fundamentacao_correta": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Lei 8.142/1990...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Lei 8.142/1990...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Lei 12.401/2011...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Lei 12.401/2011...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Lei 12.466/2011...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Lei 12.466/2011...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Lei 14.737/2023 512 Ano: 2024...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Lei 14.737/2023 512 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+    "comentario": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos pad..."
   },
   {
-    "codigo_origem": "Q3974326",
+    "codigo_origem": "Q3584426",
     "banca": "SELECON",
-    "orgao": "EMGEPRON",
-    "ano": 2026,
-    "prova": "SELECON - 2026 - EMGEPRON - Enfermeiro",
+    "orgao": "Prefeitura de Lucas do Rio Verde - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Lucas do Rio Verde -",
     "cargo": "Enfermeiro",
     "materia": "Enfermagem",
     "assunto": "Segurança do Paciente",
-    "enunciado": "Em um serviço hospitalar que adota protocolo estruturado de classificação de risco, um paciente de 62 anos, diabético e hipertenso, procura atendimento referindo mal-estar súbito há uma hora, associado à epigastralgia em queimação, náuseas e sudorese discreta. Nega dor torácica típica. Encontra-se consciente, PA 138×86 mmHg, FC 96 bpm, FR 20 irpm e SpO2 95% em ar ambiente. Pele levemente fria. Considerando os princípios da classificação de risco, a segurança do paciente e a apresentação clínica das síndromes coronarianas, pode-se afirmar que a:",
+    "enunciado": "MT - Enfermeiro 20H No contexto da Segurança do Paciente, o incidente que resulta em um dano ou em uma perda de função temporária, requer intervenção adicional (cirurgia de médio ou pequeno porte, tratamento clínico específico devido ao incidente), aumento de tempo de internação, entretanto sem a necessidade de intervenção para suporte ou manutenção da vida, é chamado de incidente com dano:",
     "alternativas": [
       {
         "id": "A",
-        "texto": "ausência de dor torácica típica e de instabilidade hemodinâmica permite classificação intermediária, com reavaliação clínica periódica conforme fluxo assistencial da unidade"
+        "texto": "catastrófico"
       },
       {
         "id": "B",
-        "texto": "estabilidade dos sinais vitais afasta, no primeiro momento, suspeita de condição tempo-dependente, podendo o paciente aguardar avaliação médica conforme disponibilidade"
+        "texto": "moderado"
       },
       {
         "id": "C",
-        "texto": "presença de fatores de risco cardiovascular associada a sintomas atípicos impõe classificação como condição potencialmente tempo-dependente, com prioridade elevada para avaliação imediata"
+        "texto": "óbito"
       },
       {
         "id": "D",
-        "texto": "definição da prioridade assistencial deve fundamentar-se principalmente nos parâmetros hemodinâmicos objetivos aferidos na triagem, sendo os sintomas inespecíficos considerados apenas como complementares na estratificação inicial de risco 107 Ano: 2026"
+        "texto": "leve 549 Ano: 2023"
       }
     ],
     "resposta_correta": "",
-    "id": "EF0446",
-    "numero_ordem": 446,
-    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "id": "EF0548",
+    "numero_ordem": 548,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ausência de dor torácica típica e de instabilidade hemodinâmica permite classificação inte...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'catastrófico...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'estabilidade dos sinais vitais afasta, no primeiro momento, suspeita de condição tempo-dep...'."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "C",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'definição da prioridade assistencial deve fundamentar-se principalmente nos parâmetros hem...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'leve 549 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q2297113",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Campo Verde - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Campo Verde - MT - Técnico",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Segurança do Paciente",
+    "enunciado": "em Enfermagem Quando um paciente está com a cabeceira do leito elevada até o ângulo de 45 graus ou mais, ou ainda em posição semissentada, denomina-se essa posição de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Trendelenburg"
+      },
+      {
+        "id": "B",
+        "texto": "Semi-Fowler"
+      },
+      {
+        "id": "C",
+        "texto": "Fowler"
+      },
+      {
+        "id": "D",
+        "texto": "Sims 639 Ano: 2023"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0638",
+    "numero_ordem": 638,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Trendelenburg...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Semi-Fowler...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Sims 639 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q2162338",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2023 - Prefeitura de Nova Mutum - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Segurança do Paciente",
+    "enunciado": "Segundo a legislação vigente, o Núcleo de Segurança do Paciente (NSP) é a instância do serviço de saúde criada para promover e apoiar a implementação de ações voltadas à segurança do paciente e a melhoria da qualidade nos serviços de saúde. Portanto, o NSP deve ser estruturado nos serviços de saúde:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "públicos, privados, filantrópicos, civis ou militares, excluindo aqueles que exercem ações de ensino e pesquisa"
+      },
+      {
+        "id": "B",
+        "texto": "públicos, privados, filantrópicos, civis ou militares, incluindo aqueles que exercem ações de ensino e pesquisa"
+      },
+      {
+        "id": "C",
+        "texto": "públicos, privados, filantrópicos, civis, excluindo os militares e aqueles que exercem ações de ensino e pesquisa"
+      },
+      {
+        "id": "D",
+        "texto": "públicos, privados, civis ou militares, excluindo os filantrópicos e incluindo aqueles que exercem ações de ensino e pesquisa"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0655",
+    "numero_ordem": 655,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'públicos, privados, filantrópicos, civis ou militares, excluindo aqueles que exercem ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'públicos, privados, filantrópicos, civis ou militares, incluindo aqueles que exercem ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'públicos, privados, filantrópicos, civis, excluindo os militares e aqueles que exerce...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'públicos, privados, civis ou militares, excluindo os filantrópicos e incluindo aquele...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
+  },
+  {
+    "codigo_origem": "Q2160741",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Nova Mutum - MT - Técnico",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Segurança do Paciente",
+    "enunciado": "em Enfermagem Atualmente, existem inúmeras escalas de avaliação para identificar o risco de lesão por pressão nos pacientes hospitalizados. A escala de Braden avalia o risco do paciente a partir da verificação de seis domínios, sendo um desses domínios:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "o sexo"
+      },
+      {
+        "id": "B",
+        "texto": "a idade"
+      },
+      {
+        "id": "C",
+        "texto": "a hidratação venosa"
+      },
+      {
+        "id": "D",
+        "texto": "a percepção sensorial 667 Ano: 2023"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0666",
+    "numero_ordem": 666,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a hidratação venosa...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a percepção sensorial 667 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q1956074",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Pontes e Lacerda - MT",
+    "ano": 2022,
+    "prova": "SELECON - 2022 - Prefeitura de Pontes e Lacerda - MT -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Segurança do Paciente",
+    "enunciado": "Técnico em Enfermagem O protocolo de identificação consiste em garantir a correta identificação do paciente a fim de reduzir a ocorrência de incidentes. Esse processo deve assegurar que o cuidado seja prestado à pessoa para a qual se destina. Para assegurar que todos os pacientes sejam corretamente identificados, é necessário usar pelo menos:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "dois identificadores em uma pulseira branca padronizada pela instituição"
+      },
+      {
+        "id": "B",
+        "texto": "três identificadores em uma pulseira amarela padronizada pela instituição"
+      },
+      {
+        "id": "C",
+        "texto": "um identificador em uma pulseira vermelha padronizada pela instituição"
+      },
+      {
+        "id": "D",
+        "texto": "quatro identificadores em uma pulseira branca padronizada pela instituição 709 Ano: 2022"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0708",
+    "numero_ordem": 708,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'dois identificadores em uma pulseira branca padronizada pela instituição...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'três identificadores em uma pulseira amarela padronizada pela instituição...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'um identificador em uma pulseira vermelha padronizada pela instituição...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'quatro identificadores em uma pulseira branca padronizada pela instituição 709 Ano: 2...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q1313730",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2020,
+    "prova": "SELECON - 2020 - Prefeitura de Boa Vista - RR - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Segurança do Paciente",
+    "enunciado": "ESF A atenção domiciliar (AD) é uma estratégia de atenção à saúde, oferecida no domicílio do paciente e caracterizada por um conjunto de ações de promoção à saúde, prevenção e tratamento de doenças e reabilitação, com garantia da continuidade do cuidado disponível no Sistema Único de Saúde (SUS). Sobre a atenção domiciliar, NÃO se pode afirmar que:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "proporciona ao paciente um cuidado ligado diretamente aos aspectos referentes à estrutura familiar, à infraestrutura do domicílio e à estrutura oferecida pelos serviços para esse tipo de assistência"
+      },
+      {
+        "id": "B",
+        "texto": "evita-se hospitalizações desnecessárias e diminui o risco de infecções"
+      },
+      {
+        "id": "C",
+        "texto": "aumenta a superlotação de serviços de urgência e emergência"
+      },
+      {
+        "id": "D",
+        "texto": "melhora a gestão dos leitos hospitalares e o uso dos recursos 770 Ano: 2020"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0769",
+    "numero_ordem": 769,
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'proporciona ao paciente um cuidado ligado diretamente aos aspectos referentes à estru...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'evita-se hospitalizações desnecessárias e diminui o risco de infecções...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'aumenta a superlotação de serviços de urgência e emergência...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'melhora a gestão dos leitos hospitalares e o uso dos recursos 770 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Partici..."
+  },
+  {
+    "codigo_origem": "Q2710375",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Campo Grande - MS",
+    "ano": 2019,
+    "prova": "SELECON - 2019 - Prefeitura de Campo Grande - MS -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Segurança do Paciente",
+    "enunciado": "O protocolo de cirurgia segura possui como finalidade implementar as medidas para reduzir a ocorrência de incidentes ou eventos adversos no paciente cirúrgico, contribuindo para melhoria da qualidade da assistência cirúrgica prestada pela equipe multi profissional. A lista de verificação existente no protocolo é dividida nas seguintes três fases:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "antes da indução anestésica, antes da incisão cirúrgica e antes do paciente sair da sala de cirurgia"
+      },
+      {
+        "id": "B",
+        "texto": "antes da indução anestésica, após a incisão cirúrgica e antes do paciente sair da sala de cirurgia"
+      },
+      {
+        "id": "C",
+        "texto": "após a indução anestésica, antes da incisão cirúrgica e antes do paciente sair da sala de cirurgia"
+      },
+      {
+        "id": "D",
+        "texto": "antes da indução anestésica, antes da incisão cirúrgica e após o paciente sair da sala de cirurgia 826 Ano: 2019"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0825",
+    "numero_ordem": 825,
+    "fundamentacao_correta": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'antes da indução anestésica, antes da incisão cirúrgica e antes do paciente sair da s...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'antes da indução anestésica, após a incisão cirúrgica e antes do paciente sair da sal...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'após a indução anestésica, antes da incisão cirúrgica e antes do paciente sair da sal...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'antes da indução anestésica, antes da incisão cirúrgica e após o paciente sair da sal...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes bi..."
+  },
+  {
+    "codigo_origem": "Q2710372",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Campo Grande - MS",
+    "ano": 2019,
+    "prova": "SELECON - 2019 - Prefeitura de Campo Grande - MS -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Segurança do Paciente",
+    "enunciado": "A segurança do paciente consiste na redução ao mínimo aceitável do risco de dano desnecessário ao cuidado em saúde. Um incidente que atingiu o paciente e resultou em dano a ele é chamado de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "circunstância de risco"
+      },
+      {
+        "id": "B",
+        "texto": "incidente sem dano"
+      },
+      {
+        "id": "C",
+        "texto": "incidente com dano"
+      },
+      {
+        "id": "D",
+        "texto": "quase falha 829 Ano: 2019"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0828",
+    "numero_ordem": 828,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'circunstância de risco...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'incidente sem dano...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'incidente com dano...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'quase falha 829 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q2710370",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Campo Grande - MS",
+    "ano": 2019,
+    "prova": "SELECON - 2019 - Prefeitura de Campo Grande - MS -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Segurança do Paciente",
+    "enunciado": "Considerando a relevância e magnitude que os Eventos Adversos (EA) têm em nosso país, no ano de 2013, através da portaria número 529, foi instituído o PNSP - Programa Nacional de Segurança do Paciente. Constituem-se objetivos específicos do PNSP:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "produzir, sistematizar e difundir conhecimentos sobre segurança do paciente; promover e apoiar a implementação de iniciativas voltadas à segurança do paciente em diferentes áreas da atenção, organização e gestão de serviços de saúde por meio da implantação da gestão de risco e de Núcleos de Segurança do Paciente nos estabelecimentos de saúde; não envolver os pacientes e familiares nas ações de segurança do paciente e não ampliar o acesso da sociedade às informações relativas à segurança do paciente"
+      },
+      {
+        "id": "B",
+        "texto": "promover e apoiar a implementação de iniciativas voltadas à segurança do paciente em diferentes áreas da atenção, organização e gestão de serviços de saúde por meio da implantação da gestão de risco e de Núcleos de Segurança do Paciente nos estabelecimentos de saúde; envolver os pacientes e familiares nas ações de segurança do paciente e ampliar o acesso da sociedade às informações relativas à segurança do paciente"
+      },
+      {
+        "id": "C",
+        "texto": "produzir, sistematizar e não difundir conhecimentos sobre segurança do paciente; promover e apoiar a implementação de iniciativas voltadas à segurança do paciente em diferentes áreas da atenção, organização e gestão de serviços de saúde por meio da implantação da gestão de risco e de Núcleos de Segurança do Paciente nos estabelecimentos de saúde; não envolver os pacientes e familiares nas ações de segurança do paciente e ampliar o acesso da sociedade às informações relativas à segurança do paciente"
+      },
+      {
+        "id": "D",
+        "texto": "promover e apoiar a implementação de iniciativas voltadas à segurança do paciente em diferentes áreas da atenção, organização e gestão de serviços de saúde por meio da implantação da gestão de risco e de Núcleos de Segurança do Paciente nos estabelecimentos de saúde; envolver os pacientes e familiares nas ações de segurança do paciente e não fomentar a inclusão do tema segurança do paciente no ensino técnico e de graduação e pós-graduação na área da saúde 831 Ano: 2019"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0830",
+    "numero_ordem": 830,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'produzir, sistematizar e difundir conhecimentos sobre segurança do paciente; promover...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'promover e apoiar a implementação de iniciativas voltadas à segurança do paciente em ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'produzir, sistematizar e não difundir conhecimentos sobre segurança do paciente; prom...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'promover e apoiar a implementação de iniciativas voltadas à segurança do paciente em ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q2692378",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Campo Grande - MS",
+    "ano": 2019,
+    "prova": "SELECON - 2019 - Prefeitura de Campo Grande - MS -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Segurança do Paciente",
+    "enunciado": "A segurança do paciente consiste na redução ao mínimo aceitável do risco de dano desnecessário ao cuidado em saúde. Pode-se afirmar que um incidente que atingiu o paciente, porém não resultou em um dano, é chamado de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "circunstância de risco"
+      },
+      {
+        "id": "B",
+        "texto": "incidente sem dano"
+      },
+      {
+        "id": "C",
+        "texto": "incidente com dano"
+      },
+      {
+        "id": "D",
+        "texto": "quase falha 859 Ano: 2019"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0858",
+    "numero_ordem": 858,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'circunstância de risco...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'incidente sem dano...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'incidente com dano...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'quase falha 859 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q1242255",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2019,
+    "prova": "SELECON - 2019 - Prefeitura de Boa Vista - RR - Assistente",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Segurança do Paciente",
+    "enunciado": "Técnico - Grupo Especial - Técnico de Enfermagem Segundo a RDC nº 36, de 25 de julho de 2013, que instituiu as ações para a segurança do paciente nos serviços de saúde, os eventos adversos que evoluírem para óbito devem ser notificados, a partir do ocorrido, em um prazo máximo de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "15º dia útil do mês subsequente"
+      },
+      {
+        "id": "B",
+        "texto": "24 horas subsequentes"
+      },
+      {
+        "id": "C",
+        "texto": "96 horas"
+      },
+      {
+        "id": "D",
+        "texto": "72 horas 874 Ano: 2019"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0873",
+    "numero_ordem": 873,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '15º dia útil do mês subsequente...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '24 horas subsequentes...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '72 horas 874 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q1242254",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2019,
+    "prova": "SELECON - 2019 - Prefeitura de Boa Vista - RR - Assistente",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Segurança do Paciente",
+    "enunciado": "Técnico - Grupo Especial - Técnico de Enfermagem Segundo a Classificação Internacional de Segurança do Paciente da OMS, o comprometimento da estrutura ou função do corpo e/ou qualquer efeito dele oriundo, incluindo-se doenças, lesão, sofrimento, morte, incapacidade ou disfunção, podendo, assim, ser físico, social ou psicológico é a definição de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "circunstância de risco"
+      },
+      {
+        "id": "B",
+        "texto": "incidente"
+      },
+      {
+        "id": "C",
+        "texto": "dano"
+      },
+      {
+        "id": "D",
+        "texto": "risco 875 Ano: 2019"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0874",
+    "numero_ordem": 874,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'circunstância de risco...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'risco 875 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   }
 ]

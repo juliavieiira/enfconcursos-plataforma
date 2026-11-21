@@ -30,26 +30,26 @@
     "resposta_correta": "",
     "id": "EF0046",
     "numero_ordem": 46,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'delirium hipoativo...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'delirium hipoativo...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'síndrome demencial inicia...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'síndrome demencial inicia...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'transtorno depressivo de instalação aguda...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'transtorno depressivo de instalação aguda...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'declínio cognitivo esperado em decorrência do envelhecimento...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'declínio cognitivo esperado em decorrência do envelhecimento...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
   },
   {
     "codigo_origem": "Q3981932",
@@ -82,182 +82,26 @@
     "resposta_correta": "",
     "id": "EF0065",
     "numero_ordem": 65,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realização de intervenções invasivas contínuas com foco exclusivo na reversão do quadro cl...'."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'realização de intervenções invasivas contínuas com foco exclusivo na reversão do...'."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'promoção de medidas de conforto, alívio do sofrimento e respeito à dignidade e às necessid...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'promoção de medidas de conforto, alívio do sofrimento e respeito à dignidade e às nec...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'suspensão dos cuidados assistenciais, mantendo apenas acompanhamento médico periódico...'."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'suspensão dos cuidados assistenciais, mantendo apenas acompanhamento médico peri...'."
       },
       {
         "letra": "D",
-        "motivo": "Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'direcionamento do cuidado exclusivamente para o controle farmacológico dos sinto...'."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
-  },
-  {
-    "codigo_origem": "Q3199757",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Sinop - MT",
-    "ano": 2025,
-    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Técnico de",
-    "cargo": "Técnico de Enfermagem",
-    "materia": "Enfermagem",
-    "assunto": "Saúde do Idoso",
-    "enunciado": "Enfermagem Em um paciente idoso com quadro clínico de desidratação leve, o enfermeiro opta por realizar hipodermóclise para reposição de líquidos. Após o procedimento, o paciente apresenta melhora no turgor da pele e na frequência urinária. A principal indicação dessa técnica no contexto clínico do paciente é:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "pacientes com choque séptico, pois permite uma reposição rápida e eficaz de líquidos"
-      },
-      {
-        "id": "B",
-        "texto": "casos de desidratação leve a moderada e oferece menor risco de complicações relacionadas à infusão intravenosa, sendo bem tolerada em pacientes idosos"
-      },
-      {
-        "id": "C",
-        "texto": "pacientes com insuficiência renal aguda, pois promove uma infusão lenta de líquidos sem sobrecarregar os rins"
-      },
-      {
-        "id": "D",
-        "texto": "exclusivamente em pacientes com insuficiência cardíaca congestiva para reduzir a sobrecarga hídrica e evitar edema pulmonar"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0198",
-    "numero_ordem": 198,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'pacientes com choque séptico, pois permite uma reposição rápida e eficaz de líquidos...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'casos de desidratação leve a moderada e oferece menor risco de complicações relacionadas à...'."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'pacientes com insuficiência renal aguda, pois promove uma infusão lenta de líquidos sem so...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente."
-      }
-    ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
-  },
-  {
-    "codigo_origem": "Q3199738",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Sinop - MT",
-    "ano": 2025,
-    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Técnico de",
-    "cargo": "Técnico de Enfermagem",
-    "materia": "Enfermagem",
-    "assunto": "Saúde do Idoso",
-    "enunciado": "Enfermagem A osteoporose é uma condição comum em idosos, caracterizada pela perda de densidade óssea, aumentando o risco de fraturas. No contexto clínico, é essencial que os profissionais de enfermagem adotem condutas adequadas para o manejo dos pacientes com essa condição. Sobre a osteoporose em idosos, é correto afirmar:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "é frequentemente assintomática, sendo descoberta apenas após uma fratura e as condutas de enfermagem devem ser restritas à administração de medicamentos prescritos e monitoramento de sinais vitais"
-      },
-      {
-        "id": "B",
-        "texto": "a avaliação de risco para osteoporose em idosos deve ser feita apenas por meio de exames laboratoriais, sem necessidade de avaliação clínica detalhada, sendo assim, o enfermeiro deve evitar intervenções, uma vez que o tratamento medicamentoso é a principal abordagem terapêutica"
-      },
-      {
-        "id": "C",
-        "texto": "é mais prevalente em homens idosos, devido à diminuição gradual dos níveis de testosterona, sendo as fraturas mais comuns nos membros superiores e cabe ao enfermeiro orientar sobre a medicação, sem necessidade de cuidados específicos quanto à mobilidade do paciente"
-      },
-      {
-        "id": "D",
-        "texto": "os principais fatores de risco para osteoporose em idosos incluem a imobilização prolongada, deficiências nutricionais de cálcio e de vitamina D, além da redução da atividade física. Cabe aos profissionais de enfermagem oferecer orientações sobre a importância de uma alimentação balanceada e de atividades físicas regulares"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0217",
-    "numero_ordem": 217,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'é frequentemente assintomática, sendo descoberta apenas após uma fratura e as condutas de ...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a avaliação de risco para osteoporose em idosos deve ser feita apenas por meio de exames l...'."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'é mais prevalente em homens idosos, devido à diminuição gradual dos níveis de testosterona...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'os principais fatores de risco para osteoporose em idosos incluem a imobilização prolongad...'."
-      }
-    ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
-  },
-  {
-    "codigo_origem": "Q2467337",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Água Boa - MT",
-    "ano": 2024,
-    "prova": "SELECON - 2024 - Prefeitura de Água Boa - MT - Agente",
-    "cargo": "Enfermeiro",
-    "materia": "Enfermagem",
-    "assunto": "Saúde do Idoso",
-    "enunciado": "Administrativo - Saúde/40h Em uma Unidade de Saúde da Família (USF), uma enfermeira acompanha há anos uma paciente idosa com histórico de diabetes mellitus tipo 2 e hipertensão arterial. A paciente, apesar das orientações frequentes da enfermeira sobre a importância da adesão ao tratamento medicamentoso e das mudanças no estilo de vida, apresenta níveis glicêmicos e pressões arteriais descontrolados, com risco de complicações graves. A equipe de enfermagem discute a possibilidade de notificar o Conselho Tutelar sobre a situação, considerando a negligência da paciente em relação à própria saúde. A enfermeira deve atuar dentro do arcabouço ético para esse caso da seguinte forma:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "notificar imediatamente o Conselho Tutelar, pois a paciente demonstra negligência com a própria saúde e coloca em risco sua vida"
-      },
-      {
-        "id": "B",
-        "texto": "convidar a família da paciente para uma reunião na USF, a fim de discutir o caso e buscar soluções conjuntas para a adesão ao tratamento"
-      },
-      {
-        "id": "C",
-        "texto": "encaminhar a paciente para um psicólogo ou assistente social, considerando que a falta de adesão ao tratamento pode ter causas psicológicas ou sociais"
-      },
-      {
-        "id": "D",
-        "texto": "realizar uma nova consulta individual com a paciente para discutir abertamente os riscos do não tratamento e tentar convencê-la da importância de aderir às orientações 466 Ano: 2024"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0385",
-    "numero_ordem": 385,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'convidar a família da paciente para uma reunião na USF, a fim de discutir o caso e buscar ...'."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'encaminhar a paciente para um psicólogo ou assistente social, considerando que a falta de ...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar uma nova consulta individual com a paciente para discutir abertamente os riscos d...'."
-      }
-    ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q3743099",
@@ -288,28 +132,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0509",
-    "numero_ordem": 509,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0169",
+    "numero_ordem": 169,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'oferecer alimentos sólidos para fortalecer os músculos da deglutição...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'oferecer alimentos sólidos para fortalecer os músculos da deglutição...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'estimular o idoso a ingerir líquidos rapidamente para facilitar a passagem do alimento...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'estimular o idoso a ingerir líquidos rapidamente para facilitar a passagem do aliment...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'fornecer alimentos em consistência pastosa, em pequenas porções, mantendo postura ereta du...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'fornecer alimentos em consistência pastosa, em pequenas porções, mantendo postura ere...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administrar o medicamento antiparkinsoniano junto às refeições, sem respeitar os intervalo...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'administrar o medicamento antiparkinsoniano junto às refeições, sem respeitar os inte...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
   },
   {
     "codigo_origem": "Q3743098",
@@ -340,28 +184,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0510",
-    "numero_ordem": 510,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0170",
+    "numero_ordem": 170,
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'reforçar a dependência do idoso e limitar sua participação nas decisões familiares...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'reforçar a dependência do idoso e limitar sua participação nas decisões familiares...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'criar condições de exclusão social e de desvalorização das experiências do idoso...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'criar condições de exclusão social e de desvalorização das experiências do idoso...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'reconhecer o envelhecimento como fase de fragilidade e incapacidade inevitável...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'reconhecer o envelhecimento como fase de fragilidade e incapacidade inevitável...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'fortalecer laços afetivos, evitando o isolamento e estimulando a convivência saudável 171 ...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'fortalecer laços afetivos, evitando o isolamento e estimulando a convivência saudável...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Partici..."
   },
   {
     "codigo_origem": "Q3743097",
@@ -392,28 +236,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0511",
-    "numero_ordem": 511,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0171",
+    "numero_ordem": 171,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'parar o paciente e orientá-lo verbalmente e com demonstração a se aproximar da cadeira, vi...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'parar o paciente e orientá-lo verbalmente e com demonstração a se aproximar da cadeir...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'elogiar a iniciativa do paciente em tentar sentar-se sozinho, mesmo que a técnica esteja i...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'elogiar a iniciativa do paciente em tentar sentar-se sozinho, mesmo que a técnica est...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'permitir que o paciente complete a ação para que ele perceba o risco de queda e aprenda co...'."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'permitir que o paciente complete a ação para que ele perceba o risco de queda e ...'."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'retirar o andador assim que o paciente se aproxima da cadeira, pois o dispositivo não deve...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'retirar o andador assim que o paciente se aproxima da cadeira, pois o dispositivo não...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q3743096",
@@ -444,28 +288,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0512",
-    "numero_ordem": 512,
-    "fundamentacao_correta": "Conforme as Recomendações de Boas Práticas em Nutrição Enteral da BRASPEN e da ANVISA (RDC nº 63/2000), a prevenção da pneumonia por broncoaspiração em pacientes recebendo dieta por sonda enteral exige a manutenção da cabeceira elevada em ângulo de 30° a 45° durante toda a infusão e por no mínimo 30 a 60 minutos após o término da dieta, para garantir o esvaziamento gástrico seguro. A alternativa [] descreve exatamente essa conduta preconizada.",
+    "id": "EF0172",
+    "numero_ordem": 172,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'posicionar a cadeira de rodas travada no lado esquerdo do paciente, o lado comprometido, p...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'posicionar a cadeira de rodas travada no lado esquerdo do paciente, o lado comprometi...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter a bolsa coletora de urina sobre o colo do paciente durante toda a transferência par...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'manter a bolsa coletora de urina sobre o colo do paciente durante toda a transferênci...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'posicionar a cadeira de rodas travada a um ângulo de 45 graus em relação ao leito, do lado...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'posicionar a cadeira de rodas travada a um ângulo de 45 graus em relação ao leito, do...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar a transferência sozinho, levantando o paciente pelo tronco e axilas, mesmo que el...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'realizar a transferência sozinho, levantando o paciente pelo tronco e axilas, mesmo q...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme as Recomendações de Boas Práticas em Nutrição Enteral da BRASPEN e da ANVISA (RDC nº 63/2000), a prevenção da pneumonia por broncoaspiração em pacientes recebendo dieta por sonda enteral exige a manutenção da cabeceira elevada em ângulo de 3..."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q3743095",
@@ -496,28 +340,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0513",
-    "numero_ordem": 513,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0173",
+    "numero_ordem": 173,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter o idoso por longos períodos com fralda descartável para evitar trocas frequentes...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'manter o idoso por longos períodos com fralda descartável para evitar trocas frequent...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'incentivar a ingestão hídrica controlada e realizar trocas regulares de fralda, mantendo a...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'incentivar a ingestão hídrica controlada e realizar trocas regulares de fralda, mante...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'reduzir drasticamente o consumo de líquidos para minimizar episódios de incontinência...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'reduzir drasticamente o consumo de líquidos para minimizar episódios de incontinência...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar sabões perfumados e lenços umedecidos com álcool para eliminar completamente a um...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'utilizar sabões perfumados e lenços umedecidos com álcool para eliminar completamente...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q3743094",
@@ -548,28 +392,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0514",
-    "numero_ordem": 514,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0174",
+    "numero_ordem": 174,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'impedir fisicamente a saída do idoso, utilizando-se de força se necessário...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'impedir fisicamente a saída do idoso, utilizando-se de força se necessário...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'corrigir o idoso com firmeza, lembrando-o repetidamente de onde está e do perigo de sair...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'corrigir o idoso com firmeza, lembrando-o repetidamente de onde está e do perigo de s...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'falar com tom calmo, mudar o foco da atenção e conduzir o idoso a uma atividade familiar e...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'falar com tom calmo, mudar o foco da atenção e conduzir o idoso a uma atividade famil...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'isolar o idoso em um cômodo seguro até que o episódio de confusão passe por completo...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'isolar o idoso em um cômodo seguro até que o episódio de confusão passe por completo...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q3743089",
@@ -600,28 +444,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0515",
-    "numero_ordem": 515,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0175",
+    "numero_ordem": 175,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter o ambiente escuro para que o idoso descanse mais...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'manter o ambiente escuro para que o idoso descanse mais...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'remover tapetes soltos, garantir boa iluminação e organizar o mobiliário para facilitar a ...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'remover tapetes soltos, garantir boa iluminação e organizar o mobiliário para facilit...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'deixar objetos no chão para estimular a atenção do idoso...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'deixar objetos no chão para estimular a atenção do idoso...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'instalar escadas em todos os cômodos para exercitar o idoso 176 Ano: 2025...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'instalar escadas em todos os cômodos para exercitar o idoso 176 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q3743088",
@@ -652,28 +496,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0516",
-    "numero_ordem": 516,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0176",
+    "numero_ordem": 176,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter o idoso na mesma posição por longos períodos para não perturbá-lo durante o sono...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'manter o idoso na mesma posição por longos períodos para não perturbá-lo durante o so...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar lençóis ásperos e com dobras para estimular a circulação sanguínea na pele...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'utilizar lençóis ásperos e com dobras para estimular a circulação sanguínea na pele...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'deixar o quarto com pouca ventilação e janelas fechadas para evitar correntes de ar, mesmo...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'deixar o quarto com pouca ventilação e janelas fechadas para evitar correntes de ar, ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar mudanças de decúbito (mudança de posição) a cada duas ou três horas, verificar a ...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'realizar mudanças de decúbito (mudança de posição) a cada duas ou três horas, verific...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q3743087",
@@ -704,28 +548,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0517",
-    "numero_ordem": 517,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0177",
+    "numero_ordem": 177,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar água muito quente para garantir a desinfecção da pele...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'utilizar água muito quente para garantir a desinfecção da pele...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'deixar o idoso sozinho no banheiro para preservar sua privacidade, mesmo com risco de qued...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'deixar o idoso sozinho no banheiro para preservar sua privacidade, mesmo com risco de...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'preparar o ambiente com antecedência, verificando a temperatura da água, garantindo a segu...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'preparar o ambiente com antecedência, verificando a temperatura da água, garantindo a...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar o banho de forma rápida e apressada, sem se preocupar com a preferência do idoso ...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'realizar o banho de forma rápida e apressada, sem se preocupar com a preferência do i...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q3743086",
@@ -756,28 +600,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0518",
-    "numero_ordem": 518,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0178",
+    "numero_ordem": 178,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'adaptar a consistência dos alimentos, oferecer pequenas porções e comunicar a observação à...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'adaptar a consistência dos alimentos, oferecer pequenas porções e comunicar a observa...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'forçar o idoso a comer mais rápido para evitar que a refeição esfrie...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'forçar o idoso a comer mais rápido para evitar que a refeição esfrie...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'oferecer alimentos líquidos exclusivamente, sem consultar a equipe de saúde...'."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ignorar a situação, pois é um processo natural do envelhecimento 179 Ano: 2025...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'ignorar a situação, pois é um processo natural do envelhecimento 179 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q3743085",
@@ -808,27 +652,183 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0519",
-    "numero_ordem": 519,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0179",
+    "numero_ordem": 179,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar procedimentos médicos complexos e diagnósticos...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'realizar procedimentos médicos complexos e diagnósticos...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administrar medicamentos sem prescrição médica...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'administrar medicamentos sem prescrição médica...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'oferecer suporte nas atividades diárias, higiene e alimentação, promovendo bem-estar...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'oferecer suporte nas atividades diárias, higiene e alimentação, promovendo bem-estar...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'substituir completamente a família nas decisões sobre o tratamento 180 Ano: 2025...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'substituir completamente a família nas decisões sobre o tratamento 180 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q3199757",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sinop - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Técnico de",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Saúde do Idoso",
+    "enunciado": "Enfermagem Em um paciente idoso com quadro clínico de desidratação leve, o enfermeiro opta por realizar hipodermóclise para reposição de líquidos. Após o procedimento, o paciente apresenta melhora no turgor da pele e na frequência urinária. A principal indicação dessa técnica no contexto clínico do paciente é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "pacientes com choque séptico, pois permite uma reposição rápida e eficaz de líquidos"
+      },
+      {
+        "id": "B",
+        "texto": "casos de desidratação leve a moderada e oferece menor risco de complicações relacionadas à infusão intravenosa, sendo bem tolerada em pacientes idosos"
+      },
+      {
+        "id": "C",
+        "texto": "pacientes com insuficiência renal aguda, pois promove uma infusão lenta de líquidos sem sobrecarregar os rins"
+      },
+      {
+        "id": "D",
+        "texto": "exclusivamente em pacientes com insuficiência cardíaca congestiva para reduzir a sobrecarga hídrica e evitar edema pulmonar"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0278",
+    "numero_ordem": 278,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'pacientes com choque séptico, pois permite uma reposição rápida e eficaz de líquidos...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'casos de desidratação leve a moderada e oferece menor risco de complicações relaciona...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'pacientes com insuficiência renal aguda, pois promove uma infusão lenta de líquidos s...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'exclusivamente em pacientes com insuficiência cardíaca congestiva para reduzir a...'."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q3199738",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sinop - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Técnico de",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Saúde do Idoso",
+    "enunciado": "Enfermagem A osteoporose é uma condição comum em idosos, caracterizada pela perda de densidade óssea, aumentando o risco de fraturas. No contexto clínico, é essencial que os profissionais de enfermagem adotem condutas adequadas para o manejo dos pacientes com essa condição. Sobre a osteoporose em idosos, é correto afirmar:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "é frequentemente assintomática, sendo descoberta apenas após uma fratura e as condutas de enfermagem devem ser restritas à administração de medicamentos prescritos e monitoramento de sinais vitais"
+      },
+      {
+        "id": "B",
+        "texto": "a avaliação de risco para osteoporose em idosos deve ser feita apenas por meio de exames laboratoriais, sem necessidade de avaliação clínica detalhada, sendo assim, o enfermeiro deve evitar intervenções, uma vez que o tratamento medicamentoso é a principal abordagem terapêutica"
+      },
+      {
+        "id": "C",
+        "texto": "é mais prevalente em homens idosos, devido à diminuição gradual dos níveis de testosterona, sendo as fraturas mais comuns nos membros superiores e cabe ao enfermeiro orientar sobre a medicação, sem necessidade de cuidados específicos quanto à mobilidade do paciente"
+      },
+      {
+        "id": "D",
+        "texto": "os principais fatores de risco para osteoporose em idosos incluem a imobilização prolongada, deficiências nutricionais de cálcio e de vitamina D, além da redução da atividade física. Cabe aos profissionais de enfermagem oferecer orientações sobre a importância de uma alimentação balanceada e de atividades físicas regulares"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0297",
+    "numero_ordem": 297,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'é frequentemente assintomática, sendo descoberta apenas após uma fratura e as co...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a avaliação de risco para osteoporose em idosos deve ser feita apenas por meio d...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'é mais prevalente em homens idosos, devido à diminuição gradual dos níveis de testost...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'os principais fatores de risco para osteoporose em idosos incluem a imobilização prol...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q2467337",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Água Boa - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Água Boa - MT - Agente",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Saúde do Idoso",
+    "enunciado": "Administrativo - Saúde/40h Em uma Unidade de Saúde da Família (USF), uma enfermeira acompanha há anos uma paciente idosa com histórico de diabetes mellitus tipo 2 e hipertensão arterial. A paciente, apesar das orientações frequentes da enfermeira sobre a importância da adesão ao tratamento medicamentoso e das mudanças no estilo de vida, apresenta níveis glicêmicos e pressões arteriais descontrolados, com risco de complicações graves. A equipe de enfermagem discute a possibilidade de notificar o Conselho Tutelar sobre a situação, considerando a negligência da paciente em relação à própria saúde. A enfermeira deve atuar dentro do arcabouço ético para esse caso da seguinte forma:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "notificar imediatamente o Conselho Tutelar, pois a paciente demonstra negligência com a própria saúde e coloca em risco sua vida"
+      },
+      {
+        "id": "B",
+        "texto": "convidar a família da paciente para uma reunião na USF, a fim de discutir o caso e buscar soluções conjuntas para a adesão ao tratamento"
+      },
+      {
+        "id": "C",
+        "texto": "encaminhar a paciente para um psicólogo ou assistente social, considerando que a falta de adesão ao tratamento pode ter causas psicológicas ou sociais"
+      },
+      {
+        "id": "D",
+        "texto": "realizar uma nova consulta individual com a paciente para discutir abertamente os riscos do não tratamento e tentar convencê-la da importância de aderir às orientações 466 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0465",
+    "numero_ordem": 465,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'notificar imediatamente o Conselho Tutelar, pois a paciente demonstra negligência com...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'convidar a família da paciente para uma reunião na USF, a fim de discutir o caso e bu...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'encaminhar a paciente para um psicólogo ou assistente social, considerando que a falt...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'realizar uma nova consulta individual com a paciente para discutir abertamente os ris...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   }
 ]

@@ -30,26 +30,26 @@
     "resposta_correta": "",
     "id": "EF0095",
     "numero_ordem": 95,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'dengue sem sinais de alarme, com indicação de acompanhamento ambulatorial e hidratação ora...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'dengue sem sinais de alarme, com indicação de acompanhamento ambulatorial e hidrataçã...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'dengue grave, caracterizada exclusivamente pela presença de choque instalado ou ...'."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'dengue com sinais de alarme, demandando monitoramento clínico rigoroso, reavaliação labora...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'dengue com sinais de alarme, demandando monitoramento clínico rigoroso, reavaliação l...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'quadro viral febril em fase de defervescência, com trombocitopenia esperada e sintomas gas...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'quadro viral febril em fase de defervescência, com trombocitopenia esperada e sintoma...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
   },
   {
     "codigo_origem": "Q3742309",
@@ -80,28 +80,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0113",
-    "numero_ordem": 113,
-    "fundamentacao_correta": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.",
+    "id": "EF0193",
+    "numero_ordem": 193,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'comprometimento primário da contratilidade miocárdica, ocasionando acúmulo de sangue no te...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'comprometimento primário da contratilidade miocárdica, ocasionando acúmulo de sangue ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vasodilatação sistêmica mediada por liberação de endotoxinas bacterianas, resultando em re...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'vasodilatação sistêmica mediada por liberação de endotoxinas bacterianas, resultando ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'diminuição do volume circulante efetivo, levando à redução do retorno venoso e consequente...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'diminuição do volume circulante efetivo, levando à redução do retorno venoso e conseq...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aumento súbito da resistência vascular periférica, associado à lesão medular e perda do tô...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'aumento súbito da resistência vascular periférica, associado à lesão medular e perda ...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para ..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
   },
   {
     "codigo_origem": "Q3617172",
@@ -132,28 +132,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0135",
-    "numero_ordem": 135,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0215",
+    "numero_ordem": 215,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'alto poder citotóxico do bacilo, culminando em morte celular aguda...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'alto poder citotóxico do bacilo, culminando em morte celular aguda...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ausência de resposta imune por parte do hospedeiro, favorecendo manifestações fulminantes...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'ausência de resposta imune por parte do hospedeiro, favorecendo manifestações fulmina...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'predominância de transmissão vertical com baixa infectividade comunitária...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'predominância de transmissão vertical com baixa infectividade comunitária...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'poder do Mycobacterium leprae de sobreviver e multiplicar-se lentamente nos tecidos perifé...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'poder do Mycobacterium leprae de sobreviver e multiplicar-se lentamente nos tecidos p...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
   },
   {
     "codigo_origem": "Q2480400",
@@ -188,32 +188,32 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0297",
-    "numero_ordem": 297,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0377",
+    "numero_ordem": 377,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '15 a 120 dias...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '15 a 120 dias...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '30 a 120 dias...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '30 a 120 dias...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '15 a 180 dias...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '15 a 180 dias...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '30 a 180 dias...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '30 a 180 dias...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "E",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '15 a 90 dias 378 Ano: 2024...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '15 a 90 dias 378 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
   },
   {
     "codigo_origem": "Q2477216",
@@ -244,28 +244,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0332",
-    "numero_ordem": 332,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0412",
+    "numero_ordem": 412,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vírus S respiratório...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'vírus S respiratório...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vírus sancial respiratório...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'vírus sancial respiratório...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vírus sincicial respiratório...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'vírus sincicial respiratório...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vírus sentinela respiratório 413 Ano: 2024...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'vírus sentinela respiratório 413 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
   },
   {
     "codigo_origem": "Q2477214",
@@ -296,28 +296,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0334",
-    "numero_ordem": 334,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0414",
+    "numero_ordem": 414,
+    "fundamentacao_correta": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'toxoplasmose...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'toxoplasmose...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'sífilis 415 Ano: 2024...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'sífilis 415 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos pad..."
   },
   {
     "codigo_origem": "Q2477205",
@@ -348,28 +348,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0343",
-    "numero_ordem": 343,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0423",
+    "numero_ordem": 423,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'poliomielite...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'poliomielite...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativ..."
   },
   {
     "codigo_origem": "Q2467333",
@@ -400,28 +400,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0389",
-    "numero_ordem": 389,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0469",
+    "numero_ordem": 469,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ascaridíase...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'ascaridíase...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'leptospirose 470 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'leptospirose 470 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde ...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
   },
   {
     "codigo_origem": "Q2454933",
@@ -452,28 +452,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0401",
-    "numero_ordem": 401,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0481",
+    "numero_ordem": 481,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'sangramento e náuseas...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'sangramento e náuseas...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'perda de peso e náuseas...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'perda de peso e náuseas...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'falta de ar e perda de apetite...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'falta de ar e perda de apetite...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'sangramento e perda de peso...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'sangramento e perda de peso...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
   },
   {
     "codigo_origem": "Q2453000",
@@ -504,28 +504,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0419",
-    "numero_ordem": 419,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0499",
+    "numero_ordem": 499,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '15 a 120 dias...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '15 a 120 dias...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '15 a 180 dias...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '15 a 180 dias...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '30 a 120 dias...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '30 a 120 dias...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '30 a 180 dias...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '30 a 180 dias...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
   },
   {
     "codigo_origem": "Q3674535",
@@ -548,20 +548,20 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0434",
-    "numero_ordem": 434,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0514",
+    "numero_ordem": 514,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'D AG, CG, UG e JG J X, P G , W Y e J U WR, CG, VG e LG MG , N G , O G e P G 515 Ano: 2023...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'D AG, CG, UG e JG J X, P G , W Y e J U WR, CG, VG e LG MG , N G , O G e P G 515 Ano: ...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
   },
   {
     "codigo_origem": "Q3674530",
@@ -592,27 +592,513 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0439",
-    "numero_ordem": 439,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0519",
+    "numero_ordem": 519,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'síndrome da angústia respiratória aguda (SARA)...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'síndrome da angústia respiratória aguda (SARA)...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'insuficiência cardíaca congestiva global (ICC)...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'insuficiência cardíaca congestiva global (ICC)...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'trombocitopenia induzida por heparina (HIT)...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'trombocitopenia induzida por heparina (HIT)...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'doença pulmonar obstrutiva crônica (DPOC) 520 Ano: 2023...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'doença pulmonar obstrutiva crônica (DPOC) 520 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+  },
+  {
+    "codigo_origem": "Q3674523",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Dourados - MS",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Dourados - MS -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Doenças Infecciosas e parasitárias",
+    "enunciado": "A dengue é a arbovirose urbana mais prevalente nas Américas, principalmente no Brasil. Além da febre, pode apresentar outros sinais de alarme, dentre os quais podem-se citar:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "febre alta > 38°C, manchas vermelhas no corpo e queda acentuada do hematócrito"
+      },
+      {
+        "id": "B",
+        "texto": "dor abdominal leve, convulsões e esplenomegalia maior que 4 cm abaixo do rebordo costal"
+      },
+      {
+        "id": "C",
+        "texto": "dor no corpo e articulações, epigastralgia com queimação e queda progressiva dos leucócitos"
+      },
+      {
+        "id": "D",
+        "texto": "hepatomegalia maior que 2cm abaixo do rebordo costal, sangramento de mucosa e aumento progressivo do hematócrito 527 Ano: 2023"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0526",
+    "numero_ordem": 526,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'febre alta > 38°C, manchas vermelhas no corpo e queda acentuada do hematócrito...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'dor abdominal leve, convulsões e esplenomegalia maior que 4 cm abaixo do rebordo cost...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'dor no corpo e articulações, epigastralgia com queimação e queda progressiva dos leuc...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'hepatomegalia maior que 2cm abaixo do rebordo costal, sangramento de mucosa e aumento...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+  },
+  {
+    "codigo_origem": "Q3674515",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Dourados - MS",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Dourados - MS -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Doenças Infecciosas e parasitárias",
+    "enunciado": "A infecção pelo vírus Zika pode ocasionar um espectro clínico que varia de manifestação assintomática, passando por um quadro clínico com manifestações brandas e autolimitadas, e pode se manifestar com complicações neurológicas e doença congênita. Portanto, além da microcefalia congênita, pode ocorrer uma série de manifestações, incluindo desproporção craniofacial e outras como:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "herpes zoster, hepatite, convulsões e disartrias"
+      },
+      {
+        "id": "B",
+        "texto": "espasticidade, convulsões, irritabilidade e disfunção do tronco encefálico"
+      },
+      {
+        "id": "C",
+        "texto": "poliomielite, demência de Pick, irritabilidade e disfunção miocárdica"
+      },
+      {
+        "id": "D",
+        "texto": "neurotoxidade, paralisia da musculatura, atresia esofagiana e ânus imperfurado 535 Ano: 2023"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0534",
+    "numero_ordem": 534,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'herpes zoster, hepatite, convulsões e disartrias...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'espasticidade, convulsões, irritabilidade e disfunção do tronco encefálico...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'poliomielite, demência de Pick, irritabilidade e disfunção miocárdica...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'neurotoxidade, paralisia da musculatura, atresia esofagiana e ânus imperfurado 535 An...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+  },
+  {
+    "codigo_origem": "Q3584425",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Lucas do Rio Verde - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Lucas do Rio Verde -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Doenças Infecciosas e parasitárias",
+    "enunciado": "MT - Enfermeiro 20H A infecção pelo vírus da dengue causa uma doença de amplo espectro clínico. Na criança, o início da doença pode passar despercebido e o quadro grave poderá ser identificado como:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "a segunda manifestação clínica, pois o agravamento, em geral, é rápido, diferente do que ocorre nos adolescentes, que é lento, em que os sinais de choque séptico são mais facilmente detectados"
+      },
+      {
+        "id": "B",
+        "texto": "a primeira manifestação clínica, pois o agravamento, em geral, é súbito, diferente do que ocorre no idoso, que é gradual, em que os sinais de choque são mais facilmente detectados"
+      },
+      {
+        "id": "C",
+        "texto": "a primeira manifestação clínica, pois o agravamento, em geral, é súbito, diferente do que ocorre no adulto, que é gradual, em que os sinais de alarme são mais facilmente detectados"
+      },
+      {
+        "id": "D",
+        "texto": "a segunda manifestação clínica, pois o agravamento, em geral, é lento, diferente do que ocorre no adulto, que é súbito, em que os sinais de alarme são mais facilmente detectados 550 Ano: 2023"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0549",
+    "numero_ordem": 549,
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a segunda manifestação clínica, pois o agravamento, em geral, é rápido, diferente do ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a primeira manifestação clínica, pois o agravamento, em geral, é súbito, diferente do...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a primeira manifestação clínica, pois o agravamento, em geral, é súbito, diferente do...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a segunda manifestação clínica, pois o agravamento, em geral, é lento, diferente do q...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A altern..."
+  },
+  {
+    "codigo_origem": "Q3584424",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Lucas do Rio Verde - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Lucas do Rio Verde -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Doenças Infecciosas e parasitárias",
+    "enunciado": "MT - Enfermeiro 20H A Chikungunya é uma arbovirose causada pelo vírus CHIKV, da família Togaviridae e do gênero Alphavirus. A fase aguda ou febril da doença é caracterizada, principalmente, por:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "febre que, normalmente, desaparece, podendo haver persistência ou agravamento da artralgia, incluindo poliartrite distal, exacerbação da dor articular nas regiões previamente acometidas na primeira fase e tenossinovite hipertrófica subaguda em mãos"
+      },
+      {
+        "id": "B",
+        "texto": "febre contínua, artralgia, incluindo poliartrite distal, exacerbação da dor articular nas regiões previamente acometidas na primeira fase, dores nas costas (presentes em mais de 50% dos casos), rash cutâneo e tenossinovite hipertrófica subaguda em mãos"
+      },
+      {
+        "id": "C",
+        "texto": "astenia, recorrência do prurido generalizado, exantema maculopapular, surgimento de lesões purpúricas, vesiculares e bolhosas e, ainda, alguns pacientes podem desenvolver doença vascular periférica, fadiga e sintomas depressivos"
+      },
+      {
+        "id": "D",
+        "texto": "febre de início súbito e surgimento de intensa poliartralgia, geralmente acompanhada de dores nas costas, rash cutâneo (presente em mais de 50% dos casos), cefaleia e fadiga, com duração média de sete dias 551 Ano: 2023"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0550",
+    "numero_ordem": 550,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'febre que, normalmente, desaparece, podendo haver persistência ou agravamento da artr...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'febre contínua, artralgia, incluindo poliartrite distal, exacerbação da dor articular...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'astenia, recorrência do prurido generalizado, exantema maculopapular, surgimento de l...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'febre de início súbito e surgimento de intensa poliartralgia, geralmente acompanhada ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+  },
+  {
+    "codigo_origem": "Q2342289",
+    "banca": "SELECON",
+    "orgao": "Empresa Cuiabana de Saúde Pública - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Empresa Cuiabana de Saúde",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Doenças Infecciosas e parasitárias",
+    "enunciado": "Pública - MT - Técnico em Enfermagem A sífilis é uma infecção bacteriana sistêmica, crônica, curável e exclusiva do ser humano. Quando não tratada, evolui para estágios de gravidade variada, podendo acometer diversos órgãos e sistemas do corpo. Além disso, a sífilis é dividida em estágios, que orientam o seu tratamento e monitoramento e recebem o nome de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "recente (latente recente e secundária), com até quatro anos de evolução; e tardia (terciária), com mais de cinco anos de evolução"
+      },
+      {
+        "id": "B",
+        "texto": "recente (primária e secundária), com até três anos de evolução; e tardia (latente tardia e terciária), com mais de quatro anos de evolução"
+      },
+      {
+        "id": "C",
+        "texto": "recente (primária, secundária e terciária), com até dois anos de evolução; e tardia (latente recente e tardia), com mais de dois anos de evolução"
+      },
+      {
+        "id": "D",
+        "texto": "recente (primária, secundária e latente recente), com até um ano de evolução; e tardia (latente tardia e terciária), com mais de um ano de evolução"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0556",
+    "numero_ordem": 556,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'recente (latente recente e secundária), com até quatro anos de evolução; e tardia (te...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'recente (primária e secundária), com até três anos de evolução; e tardia (latente tar...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'recente (primária, secundária e terciária), com até dois anos de evolução; e tardia (...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'recente (primária, secundária e latente recente), com até um ano de evolução; e tardi...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+  },
+  {
+    "codigo_origem": "Q2310581",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Primavera do Leste - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Primavera do Leste -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Doenças Infecciosas e parasitárias",
+    "enunciado": "MT - Enfermeiro(a) Padrão A leptospirose é um grave problema de saúde pública no Brasil e uma zoonose de importância mundial, causada por leptospiras patogênicas, transmitidas pelo contato com urina de animais infectados ou com água e lama contaminadas pela bactéria. O período de incubação da doença varia de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "1 a 30 dias, sendo mais frequente entre 5 e 14 dias"
+      },
+      {
+        "id": "B",
+        "texto": "7 a 40 dias, sendo mais frequente entre 7 e 14 dias"
+      },
+      {
+        "id": "C",
+        "texto": "10 a 45 dias, sendo mais frequente entre 12 e 20 dias"
+      },
+      {
+        "id": "D",
+        "texto": "14 a 60 dias, sendo mais frequente entre 16 e 24 dias 617 Ano: 2023"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0616",
+    "numero_ordem": 616,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '1 a 30 dias, sendo mais frequente entre 5 e 14 dias...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '7 a 40 dias, sendo mais frequente entre 7 e 14 dias...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '10 a 45 dias, sendo mais frequente entre 12 e 20 dias...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '14 a 60 dias, sendo mais frequente entre 16 e 24 dias 617 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+  },
+  {
+    "codigo_origem": "Q1313680",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2020,
+    "prova": "SELECON - 2020 - Prefeitura de Boa Vista - RR -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Doenças Infecciosas e parasitárias , Chikungunya",
+    "enunciado": "A febre chikungunya possui as seguintes fases: aguda, subaguda e crônica. Os sinais e sintomas observados na fase crônica são:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "febre de início súbito (> 39,5º), eczema e náusea"
+      },
+      {
+        "id": "B",
+        "texto": "mialgia, edema e febre de inicio súbito (> 37,5º)"
+      },
+      {
+        "id": "C",
+        "texto": "cefaleia, eczema e tenosinovite com edema grave"
+      },
+      {
+        "id": "D",
+        "texto": "dor articular, dor musculoesquelética e dor neuropática 819 Ano: 2020"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0818",
+    "numero_ordem": 818,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'febre de início súbito (> 39,5º), eczema e náusea...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'mialgia, edema e febre de inicio súbito (> 37,5º)...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'cefaleia, eczema e tenosinovite com edema grave...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'dor articular, dor musculoesquelética e dor neuropática 819 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+  },
+  {
+    "codigo_origem": "Q2710376",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Campo Grande - MS",
+    "ano": 2019,
+    "prova": "SELECON - 2019 - Prefeitura de Campo Grande - MS -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Doenças Infecciosas e parasitárias",
+    "enunciado": "As infecções primárias de corrente sanguínea (IPCS) começam pela corrente sanguínea devido à entrada de patógenos no sistema vascular por meio de dispositivos e sistemas de infusão. Estima-se que mais de 50% estejam associadas a algum dispositivo intravascular As medidas recomendadas para prevenção de IPCS relacionadas a cateter venoso central são:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "dispensa da necessidade de precaução de barreira máxima com uso de gorro, máscara, avental, campos longos e luvas estéreis e higiene das mãos rigorosa"
+      },
+      {
+        "id": "B",
+        "texto": "higiene das mãos e precaução de barreira máxima com uso de gorro, máscara, avental, campos longos e luvas estéreis"
+      },
+      {
+        "id": "C",
+        "texto": "revisão diária da permanência do cateter e, preferencialmente, o profissional médico deverá puncionar a veia femoral"
+      },
+      {
+        "id": "D",
+        "texto": "higiene das mãos e precaução de barreira máxima com uso de gorro, máscara, avental, campos longos e luvas de procedimento 825 Ano: 2019"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0824",
+    "numero_ordem": 824,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'dispensa da necessidade de precaução de barreira máxima com uso de gorro, máscara, av...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'higiene das mãos e precaução de barreira máxima com uso de gorro, máscara, avental, c...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'revisão diária da permanência do cateter e, preferencialmente, o profissional médico ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'higiene das mãos e precaução de barreira máxima com uso de gorro, máscara, avental, c...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+  },
+  {
+    "codigo_origem": "Q2698329",
+    "banca": "SELECON",
+    "orgao": "Prefeitura Municipal",
+    "ano": 2019,
+    "prova": "",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Doenças Infecciosas e parasitárias",
+    "enunciado": "",
+    "alternativas": [],
+    "resposta_correta": "",
+    "id": "EF0849",
+    "numero_ordem": 849,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "analise_distratores": [],
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+  },
+  {
+    "codigo_origem": "Q1242250",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2019,
+    "prova": "SELECON - 2019 - Prefeitura de Boa Vista - RR - Assistente",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Doenças Infecciosas e parasitárias , Outras Doenças Infecciosas e Parasitárias",
+    "enunciado": "Técnico - Grupo Especial - Técnico de Enfermagem A raiva humana é uma zoonose viral que se caracteriza como uma encefalite progressiva aguda letal. Sobre o agente etiológico, é correto afirmar que pertence:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "à família Rhabdoviridae e ao gênero Lyssavirus"
+      },
+      {
+        "id": "B",
+        "texto": "à família Flaviviridae e ao gênero Flavivirus"
+      },
+      {
+        "id": "C",
+        "texto": "à família Togaviridae e ao gênero Alphavirus"
+      },
+      {
+        "id": "D",
+        "texto": "à família Clostridiaceae e ao gênero Clostridium"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0878",
+    "numero_ordem": 878,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'à família Rhabdoviridae e ao gênero Lyssavirus...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'à família Flaviviridae e ao gênero Flavivirus...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'à família Togaviridae e ao gênero Alphavirus...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'à família Clostridiaceae e ao gênero Clostridium...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
   }
 ]

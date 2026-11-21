@@ -30,234 +30,26 @@
     "resposta_correta": "",
     "id": "EF0023",
     "numero_ordem": 23,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '60 a 80 mmHg, com manobras de até 5 segundos por tentativa...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '60 a 80 mmHg, com manobras de até 5 segundos por tentativa...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '80 a 120 mmHg, com manobras de 10 a 15 segundos por tentativa...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '80 a 120 mmHg, com manobras de 10 a 15 segundos por tentativa...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '120 a 150 mmHg, com manobras de até 20 segundos por tentativa...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '120 a 150 mmHg, com manobras de até 20 segundos por tentativa...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '150 a 200 mmHg, com manobras de até 30 segundos por tentativa...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '150 a 200 mmHg, com manobras de até 30 segundos por tentativa...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
-  },
-  {
-    "codigo_origem": "Q3199739",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Sinop - MT",
-    "ano": 2025,
-    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Técnico de",
-    "cargo": "Técnico de Enfermagem",
-    "materia": "Enfermagem",
-    "assunto": "Enfermagem em UTI",
-    "enunciado": "Enfermagem Em uma Unidade de Terapia Intensiva (UTI), um técnico de enfermagem se depara com a necessidade de administrar medicamentos prescritos, incluindo infusão intravenosa de medicamentos vasoativos. O técnico sabe que, para garantir a segurança do paciente, deve atuar dentro dos limites estabelecidos pela legislação de enfermagem. Considerando a legislação vigente sobre as atribuições do técnico de enfermagem, suas responsabilidades e limitações em relação à administração de medicamentos e procedimentos invasivos, é correto afirmar que o técnico de enfermagem:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "pode administrar medicamentos, incluindo medicamentos vasoativos intravenosos, com base na prescrição médica, sem necessidade de supervisão do enfermeiro, desde que o procedimento seja considerado urgente"
-      },
-      {
-        "id": "B",
-        "texto": "pode administrar medicamentos, incluindo infusão intravenosa, de acordo com a prescrição médica, mas sempre deve estar sob a supervisão direta do enfermeiro, especialmente para procedimentos complexos, como a infusão de medicamentos vasoativos"
-      },
-      {
-        "id": "C",
-        "texto": "pode prescrever medicamentos para o paciente, conforme sua avaliação clínica, e administrar qualquer tipo de medicamento, incluindo infusão intravenosa, sem a necessidade de supervisão do enfermeiro"
-      },
-      {
-        "id": "D",
-        "texto": "não pode administrar medicamentos, nem realizar nenhum procedimento invasivo, sendo sua atuação restrita apenas a cuidados de higiene e alimentação do paciente, conforme a legislação de enfermagem"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0216",
-    "numero_ordem": 216,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'pode administrar medicamentos, incluindo medicamentos vasoativos intravenosos, com base na...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'pode administrar medicamentos, incluindo infusão intravenosa, de acordo com a prescrição m...'."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'pode prescrever medicamentos para o paciente, conforme sua avaliação clínica, e administra...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'não pode administrar medicamentos, nem realizar nenhum procedimento invasivo, sendo sua at...'."
-      }
-    ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
-  },
-  {
-    "codigo_origem": "Q3197474",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Sinop - MT",
-    "ano": 2025,
-    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Enfermeiro",
-    "cargo": "Enfermeiro",
-    "materia": "Enfermagem",
-    "assunto": "Enfermagem em UTI",
-    "enunciado": "Um recém-nascido de 32 semanas de gestação é internado na Unidade de Terapia Intensiva Neonatal com quadro de distensão abdominal, dificuldade respiratória e sinais de instabilidade hemodinâmica após a introdução precoce da alimentação enteral. Ao exame físico, observa-se aumento do perímetro abdominal, presença de sangue nas fezes e sinais de irritabilidade. O médico suspeita de enterocolite necrosante (ECN) e solicita exames complementares. Como enfermeiro responsável pelo atendimento, a conduta mais apropriada diante deste quadro é:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "continuar com a alimentação enteral conforme prescrição médica, monitorar os sinais vitais, e, caso o quadro piore, iniciar antibióticos de amplo espectro, aguardando a avaliação médica para decidir pela necessidade de intervenção cirúrgica"
-      },
-      {
-        "id": "B",
-        "texto": "imediatamente iniciar a administração de líquidos por via intravenosa, manter o suporte ventilatório conforme necessário, interromper a alimentação enteral e monitorar sinais de septicemia. Além disso, deve ser preparado para encaminhar o recém-nascido para uma cirurgia de emergência caso a ECN seja confirmada"
-      },
-      {
-        "id": "C",
-        "texto": "suspender imediatamente a alimentação enteral, manter hidratação intravenosa, realizar vigilância rigorosa dos sinais vitais, especialmente da pressão arterial e temperatura, além de monitorar a função renal e sinais de septicemia, em conjunto com a equipe médica"
-      },
-      {
-        "id": "D",
-        "texto": "administrar a alimentação enteral com volumes reduzidos, manter hidratação intravenosa, e realizar controle rigoroso da temperatura, já que a ECN é uma condição benigna e com resolução espontânea na maioria dos casos 312 Ano: 2025"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0231",
-    "numero_ordem": 231,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'continuar com a alimentação enteral conforme prescrição médica, monitorar os sinais vitais...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
-      },
-      {
-        "letra": "C",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administrar a alimentação enteral com volumes reduzidos, manter hidratação intravenosa, e ...'."
-      }
-    ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
-  },
-  {
-    "codigo_origem": "Q2467336",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Água Boa - MT",
-    "ano": 2024,
-    "prova": "SELECON - 2024 - Prefeitura de Água Boa - MT - Agente",
-    "cargo": "Enfermeiro",
-    "materia": "Enfermagem",
-    "assunto": "Enfermagem em UTI",
-    "enunciado": "Administrativo - Saúde/40h Em uma Unidade de Terapia Intensiva (UTI), uma enfermeira se depara com a seguinte situação: um paciente em estado terminal, com respiração assistida e sem chances de recuperação, apresenta sofrimento intenso e agonia. A família do paciente solicita à equipe a sedação paliativa para aliviar o sofrimento do ente querido. Nessa situação, a atitude mais ética e profissional da enfermeira é:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "acolher a solicitação da família com empatia, discutir o caso com a equipe médica e multiprofissional, e buscar a melhor solução para aliviar o sofrimento do paciente, considerando os princípios éticos da enfermagem e os aspectos legais da sedação paliativa"
-      },
-      {
-        "id": "B",
-        "texto": "atender ao pedido da família sem questionar, iniciando a sedação paliativa sem a devida avaliação médica e consentimento formal do paciente"
-      },
-      {
-        "id": "C",
-        "texto": "informar à família que a sedação paliativa só pode ser realizada mediante autorização judicial, mesmo em casos de sofrimento extremo"
-      },
-      {
-        "id": "D",
-        "texto": "negar o pedido da família, alegando que a sedação paliativa é eutanásia e fere os princípios da bioética 467 Ano: 2024"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0386",
-    "numero_ordem": 386,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'acolher a solicitação da família com empatia, discutir o caso com a equipe médica e multip...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'atender ao pedido da família sem questionar, iniciando a sedação paliativa sem a devida av...'."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'informar à família que a sedação paliativa só pode ser realizada mediante autorização judi...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'negar o pedido da família, alegando que a sedação paliativa é eutanásia e fere os princípi...'."
-      }
-    ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
-  },
-  {
-    "codigo_origem": "Q3674531",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Dourados - MS",
-    "ano": 2023,
-    "prova": "SELECON - 2023 - Prefeitura de Dourados - MS -",
-    "cargo": "Enfermeiro",
-    "materia": "Enfermagem",
-    "assunto": "Enfermagem em UTI",
-    "enunciado": "A incidência de lesão por pressão (LPP) nos pacientes críticos, internados na Unidade de Terapia Intensiva (UTI), depende das características e das condições clínicas. Ao longo dos anos, escalas como Norton, Waterlow e Braden foram criadas para auxiliar o enfermeiro na identificação do risco de LPP, contudo, uma escala adequada para a avaliação nos pacientes críticos é a:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "Norton"
-      },
-      {
-        "id": "B",
-        "texto": "Braden"
-      },
-      {
-        "id": "C",
-        "texto": "Evaruci"
-      },
-      {
-        "id": "D",
-        "texto": "CAM - ICU 519 Ano: 2023"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0438",
-    "numero_ordem": 438,
-    "fundamentacao_correta": "Conforme os princípios da Epidemiologia e Vigilância em Saúde (Ministério da Saúde), a Incidência Acumulada expressa o risco de novos casos da doença em uma população inicialmente livre do agravo durante determinado período. O cálculo é: Número de Casos Novos dividido pela População Sob Risco (indivíduos suscetíveis no início do período, excluindo-se quem já tinha o diagnóstico). Portanto, a alternativa [] expressa com exatidão a metodologia epidemiológica correta.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'CAM - ICU 519 Ano: 2023...'."
-      }
-    ],
-    "comentario": "Conforme os princípios da Epidemiologia e Vigilância em Saúde (Ministério da Saúde), a Incidência Acumulada expressa o risco de novos casos da doença em uma população inicialmente livre do agravo durante determinado período. O cálculo é: Número de Ca..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
   },
   {
     "codigo_origem": "Q3802713",
@@ -288,27 +80,755 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0497",
-    "numero_ordem": 497,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0157",
+    "numero_ordem": 157,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'pressão intravesical maior que 20 mmHg...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'pressão intravesical maior que 20 mmHg...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'acidose metabólica refratária...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'acidose metabólica refratária...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'oligúria persistente...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'oligúria persistente...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'pico pressórico inspiratório elevado 158 Ano: 2025...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'pico pressórico inspiratório elevado 158 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q3199739",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sinop - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Técnico de",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em UTI",
+    "enunciado": "Enfermagem Em uma Unidade de Terapia Intensiva (UTI), um técnico de enfermagem se depara com a necessidade de administrar medicamentos prescritos, incluindo infusão intravenosa de medicamentos vasoativos. O técnico sabe que, para garantir a segurança do paciente, deve atuar dentro dos limites estabelecidos pela legislação de enfermagem. Considerando a legislação vigente sobre as atribuições do técnico de enfermagem, suas responsabilidades e limitações em relação à administração de medicamentos e procedimentos invasivos, é correto afirmar que o técnico de enfermagem:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "pode administrar medicamentos, incluindo medicamentos vasoativos intravenosos, com base na prescrição médica, sem necessidade de supervisão do enfermeiro, desde que o procedimento seja considerado urgente"
+      },
+      {
+        "id": "B",
+        "texto": "pode administrar medicamentos, incluindo infusão intravenosa, de acordo com a prescrição médica, mas sempre deve estar sob a supervisão direta do enfermeiro, especialmente para procedimentos complexos, como a infusão de medicamentos vasoativos"
+      },
+      {
+        "id": "C",
+        "texto": "pode prescrever medicamentos para o paciente, conforme sua avaliação clínica, e administrar qualquer tipo de medicamento, incluindo infusão intravenosa, sem a necessidade de supervisão do enfermeiro"
+      },
+      {
+        "id": "D",
+        "texto": "não pode administrar medicamentos, nem realizar nenhum procedimento invasivo, sendo sua atuação restrita apenas a cuidados de higiene e alimentação do paciente, conforme a legislação de enfermagem"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0296",
+    "numero_ordem": 296,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'pode administrar medicamentos, incluindo medicamentos vasoativos intravenosos, com ba...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'pode administrar medicamentos, incluindo infusão intravenosa, de acordo com a prescri...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'pode prescrever medicamentos para o paciente, conforme sua avaliação clínica, e admin...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'não pode administrar medicamentos, nem realizar nenhum procedimento invasivo, se...'."
+      }
+    ],
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
+  },
+  {
+    "codigo_origem": "Q3197474",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sinop - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em UTI",
+    "enunciado": "Um recém-nascido de 32 semanas de gestação é internado na Unidade de Terapia Intensiva Neonatal com quadro de distensão abdominal, dificuldade respiratória e sinais de instabilidade hemodinâmica após a introdução precoce da alimentação enteral. Ao exame físico, observa-se aumento do perímetro abdominal, presença de sangue nas fezes e sinais de irritabilidade. O médico suspeita de enterocolite necrosante (ECN) e solicita exames complementares. Como enfermeiro responsável pelo atendimento, a conduta mais apropriada diante deste quadro é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "continuar com a alimentação enteral conforme prescrição médica, monitorar os sinais vitais, e, caso o quadro piore, iniciar antibióticos de amplo espectro, aguardando a avaliação médica para decidir pela necessidade de intervenção cirúrgica"
+      },
+      {
+        "id": "B",
+        "texto": "imediatamente iniciar a administração de líquidos por via intravenosa, manter o suporte ventilatório conforme necessário, interromper a alimentação enteral e monitorar sinais de septicemia. Além disso, deve ser preparado para encaminhar o recém-nascido para uma cirurgia de emergência caso a ECN seja confirmada"
+      },
+      {
+        "id": "C",
+        "texto": "suspender imediatamente a alimentação enteral, manter hidratação intravenosa, realizar vigilância rigorosa dos sinais vitais, especialmente da pressão arterial e temperatura, além de monitorar a função renal e sinais de septicemia, em conjunto com a equipe médica"
+      },
+      {
+        "id": "D",
+        "texto": "administrar a alimentação enteral com volumes reduzidos, manter hidratação intravenosa, e realizar controle rigoroso da temperatura, já que a ECN é uma condição benigna e com resolução espontânea na maioria dos casos 312 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0311",
+    "numero_ordem": 311,
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'continuar com a alimentação enteral conforme prescrição médica, monitorar os sinais v...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'imediatamente iniciar a administração de líquidos por via intravenosa, manter o supor...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'suspender imediatamente a alimentação enteral, manter hidratação intravenosa, realiza...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'administrar a alimentação enteral com volumes reduzidos, manter hidratação intravenos...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Partici..."
+  },
+  {
+    "codigo_origem": "Q2467336",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Água Boa - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Água Boa - MT - Agente",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em UTI",
+    "enunciado": "Administrativo - Saúde/40h Em uma Unidade de Terapia Intensiva (UTI), uma enfermeira se depara com a seguinte situação: um paciente em estado terminal, com respiração assistida e sem chances de recuperação, apresenta sofrimento intenso e agonia. A família do paciente solicita à equipe a sedação paliativa para aliviar o sofrimento do ente querido. Nessa situação, a atitude mais ética e profissional da enfermeira é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "acolher a solicitação da família com empatia, discutir o caso com a equipe médica e multiprofissional, e buscar a melhor solução para aliviar o sofrimento do paciente, considerando os princípios éticos da enfermagem e os aspectos legais da sedação paliativa"
+      },
+      {
+        "id": "B",
+        "texto": "atender ao pedido da família sem questionar, iniciando a sedação paliativa sem a devida avaliação médica e consentimento formal do paciente"
+      },
+      {
+        "id": "C",
+        "texto": "informar à família que a sedação paliativa só pode ser realizada mediante autorização judicial, mesmo em casos de sofrimento extremo"
+      },
+      {
+        "id": "D",
+        "texto": "negar o pedido da família, alegando que a sedação paliativa é eutanásia e fere os princípios da bioética 467 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0466",
+    "numero_ordem": 466,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'acolher a solicitação da família com empatia, discutir o caso com a equipe médica e m...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'atender ao pedido da família sem questionar, iniciando a sedação paliativa sem a devi...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'informar à família que a sedação paliativa só pode ser realizada mediante autorização...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'negar o pedido da família, alegando que a sedação paliativa é eutanásia e fere os pri...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
+  },
+  {
+    "codigo_origem": "Q3674531",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Dourados - MS",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Dourados - MS -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em UTI",
+    "enunciado": "A incidência de lesão por pressão (LPP) nos pacientes críticos, internados na Unidade de Terapia Intensiva (UTI), depende das características e das condições clínicas. Ao longo dos anos, escalas como Norton, Waterlow e Braden foram criadas para auxiliar o enfermeiro na identificação do risco de LPP, contudo, uma escala adequada para a avaliação nos pacientes críticos é a:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Norton"
+      },
+      {
+        "id": "B",
+        "texto": "Braden"
+      },
+      {
+        "id": "C",
+        "texto": "Evaruci"
+      },
+      {
+        "id": "D",
+        "texto": "CAM - ICU 519 Ano: 2023"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0518",
+    "numero_ordem": 518,
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'CAM - ICU 519 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+  },
+  {
+    "codigo_origem": "Q2162340",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Nova Mutum - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em UTI",
+    "enunciado": "Os pacientes considerados neurocríticos podem ter alteração da pressão intracraniana (PIC), que é a pressão exercida dentro do crânio, determinada pelos seguintes elementos: líquido cefalorraquidiano (LCR), sangue e parênquima cerebral, sendo, no adulto, seu valor fisiológico inferior a 15 mmHg. Para se obter a pressão de perfusão cerebral (PPC), a fórmula indicada para o cálculo é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "PPC= FSC + PIC"
+      },
+      {
+        "id": "B",
+        "texto": "PPC= FSC – PIC"
+      },
+      {
+        "id": "C",
+        "texto": "PPC= PAM + PIC"
+      },
+      {
+        "id": "D",
+        "texto": "PPC= PAM – PIC 654 Ano: 2023"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0653",
+    "numero_ordem": 653,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'PPC= FSC + PIC...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'PPC= FSC – PIC...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'PPC= PAM + PIC...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'PPC= PAM – PIC 654 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q2160739",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Nova Mutum - MT - Técnico",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em UTI",
+    "enunciado": "em Enfermagem O pneumotórax consiste na coleção de ar no espaço pleural, sendo necessário o médico inserir o dreno torácico, que é posicionado no segundo ou terceiro espaço intercostal, cujo objetivo é a drenagem de ar ou líquido do espaço pleural para ajudar a restaurar a pressão negativa. Nesse caso, o sistema de drenagem, com relação ao nível da água no recipiente, deve estar abaixo de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "2,5 cm"
+      },
+      {
+        "id": "B",
+        "texto": "3,5 cm"
+      },
+      {
+        "id": "C",
+        "texto": "4,0 cm"
+      },
+      {
+        "id": "D",
+        "texto": "6,5 cm"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0668",
+    "numero_ordem": 668,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q1953156",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Pontes e Lacerda - MT",
+    "ano": 2022,
+    "prova": "SELECON - 2022 - Prefeitura de Pontes e Lacerda - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em UTI",
+    "enunciado": "A doutrina de Monro-Kellie explica o equilíbrio dinâmico do conteúdo craniano. Trata-se de uma abordagem, segundo a qual, devido ao espaço limitado para ocorrer expansão intracraniana, o aumento de qualquer um dos componentes do crânio modifica o volume dos outros e resulta na elevação da PIC. Essa elevação pode reduzir o fluxo sanguíneo cerebral e resultar em isquemia e morte celular. A fórmula que traduz a pressão de perfusão cerebral (PPC) possui as seguintes variáveis:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Fluxo sanguíneo cerebral e Pressão intra-abdominal"
+      },
+      {
+        "id": "B",
+        "texto": "Pressão arterial sistólica e Pressão intracerebral"
+      },
+      {
+        "id": "C",
+        "texto": "Pressão arterial média e Pressão intracraniana"
+      },
+      {
+        "id": "D",
+        "texto": "Débito cardíaco e Pressão venosa central 732 Ano: 2022"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0731",
+    "numero_ordem": 731,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Fluxo sanguíneo cerebral e Pressão intra-abdominal...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Pressão arterial sistólica e Pressão intracerebral...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Pressão arterial média e Pressão intracraniana...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Débito cardíaco e Pressão venosa central 732 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q1320504",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2020,
+    "prova": "SELECON - 2020 - Prefeitura de Boa Vista - RR - Técnico de",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em UTI",
+    "enunciado": "Enfermagem Ainfecção que é constatada ou em incubação na admissão, não relacionada à internação hospitalar anterior é chamada de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "comunitária"
+      },
+      {
+        "id": "B",
+        "texto": "nosocomial"
+      },
+      {
+        "id": "C",
+        "texto": "hospitalar"
+      },
+      {
+        "id": "D",
+        "texto": "pandemia"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0738",
+    "numero_ordem": 738,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'comunitária...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      }
+    ],
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+  },
+  {
+    "codigo_origem": "Q1313707",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2020,
+    "prova": "SELECON - 2020 - Prefeitura de Boa Vista - RR - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em UTI",
+    "enunciado": "Intensivista Pediátrico Durante a assistência de enfermagem na terapia intensiva pediátrica, é fundamental que o enfermeiro conheça os modos de ventilação mecânica. A modalidade ventilatória que consiste em uma ventilação mecânica espontânea, ou seja, é disparado e ciclado pelo próprio paciente, em que o ventilador mecânico assiste à ventilação através da manutenção de uma pressão positiva prédeterminada durante a inspiração até que o fluxo inspiratório do paciente reduza-se a um nível crítico, é chamada de ventilação:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "com pressão negativa contínua nas vias aéreas"
+      },
+      {
+        "id": "B",
+        "texto": "mandatória contínua com volume controlado"
+      },
+      {
+        "id": "C",
+        "texto": "mandatória contínua com pressão controlada"
+      },
+      {
+        "id": "D",
+        "texto": "com pressão de suporte 793 Ano: 2020"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0792",
+    "numero_ordem": 792,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'com pressão negativa contínua nas vias aéreas...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'mandatória contínua com volume controlado...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'mandatória contínua com pressão controlada...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'com pressão de suporte 793 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q1313705",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2020,
+    "prova": "SELECON - 2020 - Prefeitura de Boa Vista - RR - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em UTI",
+    "enunciado": "Intensivista Pediátrico A pressão venosa central (PVC) é uma medida amplamente utilizada na terapia intensiva. Entretanto, para a avaliação da volemia e da função cardíaca de pacientes graves, deverá ser associada a outros parâmetros clínicos e hemodinâmicos. Sobre as características das ondas de PVC no monitor, é correto afirmar que a onda:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Y significa o enchimento do átrio esquerdo"
+      },
+      {
+        "id": "B",
+        "texto": "E significa o esvaziamento dos ventrículos"
+      },
+      {
+        "id": "C",
+        "texto": "U significa contração atrial sinusal direito"
+      },
+      {
+        "id": "D",
+        "texto": "V significa o enchimento do átrio direito 795 Ano: 2020"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0794",
+    "numero_ordem": 794,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Y significa o enchimento do átrio esquerdo...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'E significa o esvaziamento dos ventrículos...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'U significa contração atrial sinusal direito...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'V significa o enchimento do átrio direito 795 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
+  },
+  {
+    "codigo_origem": "Q1313704",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2020,
+    "prova": "SELECON - 2020 - Prefeitura de Boa Vista - RR - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em UTI",
+    "enunciado": "Intensivista Pediátrico No cenário da terapia intensiva pediátrica, o enfermeiro deverá estar atendo aos sinais e sintomas das doenças cardiovasculares. Sendo assim, a coarctação de aorta é uma doença que pode se apresentar como lesão isolada ou associada a outras anomalias, tais como a valva aórtica bivalvular, persistência do canal arterial (PCA), comunicação interventricular CIV, entre outras. Essa malformação é mais frequente no paciente com síndrome de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Tourette"
+      },
+      {
+        "id": "B",
+        "texto": "Denver"
+      },
+      {
+        "id": "C",
+        "texto": "Turner"
+      },
+      {
+        "id": "D",
+        "texto": "Reye 796 Ano: 2020"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0795",
+    "numero_ordem": 795,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Reye 796 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
+  },
+  {
+    "codigo_origem": "Q1313697",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2020,
+    "prova": "SELECON - 2020 - Prefeitura de Boa Vista - RR - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em UTI",
+    "enunciado": "Intensivista Pediátrico A infraestrutura da unidade de terapia intensiva pediátrica deve contribuir para manutenção da privacidade do paciente sem, contudo, interferir na sua monitorização. No entanto, sobre as UTI's pediátricas mistas, é correto afirmar que:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "não deve haver somente uma separação entre os profissionais de UTI pediátrica e UTI neonatal"
+      },
+      {
+        "id": "B",
+        "texto": "deve haver somente uma separação entre os profissionais de UTI pediátrica e UTI neonatal"
+      },
+      {
+        "id": "C",
+        "texto": "não deve haver uma separação física entre os ambientes de UTI pediátrica e UTI neonatal"
+      },
+      {
+        "id": "D",
+        "texto": "deve haver uma separação física entre os ambientes de UTI Pediátrica e UTI Neonatal 803 Ano: 2020"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0802",
+    "numero_ordem": 802,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'não deve haver somente uma separação entre os profissionais de UTI pediátrica e UTI n...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'deve haver somente uma separação entre os profissionais de UTI pediátrica e UTI neona...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'não deve haver uma separação física entre os ambientes de UTI pediátrica e UTI neonat...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'deve haver uma separação física entre os ambientes de UTI Pediátrica e UTI Neonatal 8...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q1313696",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2020,
+    "prova": "SELECON - 2020 - Prefeitura de Boa Vista - RR - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em UTI",
+    "enunciado": "Intensivista Pediátrico Segundo a RDC Nº 7 de 24 de fevereiro de 2010, que dispõe sobre os requisitos mínimos para funcionamento de unidades de terapia intensiva, a unidade de terapia intensiva pediátrica é destinada à assistência a pacientes com idade de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "29 dias a 14 ou 18 anos, sendo este limite definido de acordo com as rotinas da instituição"
+      },
+      {
+        "id": "B",
+        "texto": "27 dias a 14 ou 19 anos, sendo este limite definido de acordo com as rotinas da instituição"
+      },
+      {
+        "id": "C",
+        "texto": "30 dias a 14 ou 19 anos, sendo este limite definido de acordo com as rotinas da instituição"
+      },
+      {
+        "id": "D",
+        "texto": "25 dias a 17 ou 20 anos, sendo este limite definido de acordo com as rotinas da instituição 804 Ano: 2020"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0803",
+    "numero_ordem": 803,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '29 dias a 14 ou 18 anos, sendo este limite definido de acordo com as rotinas da insti...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '27 dias a 14 ou 19 anos, sendo este limite definido de acordo com as rotinas da insti...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '30 dias a 14 ou 19 anos, sendo este limite definido de acordo com as rotinas da insti...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '25 dias a 17 ou 20 anos, sendo este limite definido de acordo com as rotinas da insti...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q2692375",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Campo Grande - MS",
+    "ano": 2019,
+    "prova": "SELECON - 2019 - Prefeitura de Campo Grande - MS -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em UTI",
+    "enunciado": "A pressão exercida em veia cava superior e inferior durante o retorno venoso na circulação sistêmica e que deve ser mensurada quando houver dúvida sobre o estado volêmico do paciente recebe o nome de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "pressão arterial média não invasiva (PAMNI)"
+      },
+      {
+        "id": "B",
+        "texto": "pressão arterial média invasiva (PAMI)"
+      },
+      {
+        "id": "C",
+        "texto": "pressão capilar pulmonar (PCAP)"
+      },
+      {
+        "id": "D",
+        "texto": "pressão venosa central (PVC) 860 Ano: 2019"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0859",
+    "numero_ordem": 859,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'pressão arterial média não invasiva (PAMNI)...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'pressão arterial média invasiva (PAMI)...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'pressão capilar pulmonar (PCAP)...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'pressão venosa central (PVC) 860 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   }
 ]

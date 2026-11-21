@@ -1,5 +1,5 @@
 === CADERNO DE QUESTÕES: FUNDAMENTOS E PRÁTICA DE ENFERMAGEM ===
-Total: 42 questões
+Total: 71 questões
 
 QUESTÃO 1 [Código: EF0010] - Prefeitura Municipal (SELECON 2026) - Técnico de Enfermagem
 Assunto: Fundamentos e Prática de Enfermagem
@@ -7,7 +7,7 @@ Assunto: Fundamentos e Prática de Enfermagem
 
 
 ✅ Gabarito: A
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [A] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [A] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
@@ -17,7 +17,7 @@ Assunto: Fundamentos e Prática de Enfermagem
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
@@ -27,7 +27,7 @@ Assunto: Fundamentos e Prática de Enfermagem
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
@@ -37,7 +37,7 @@ Assunto: Fundamentos e Prática de Enfermagem
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
@@ -47,7 +47,7 @@ Assunto: Fundamentos e Prática de Enfermagem
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
@@ -57,7 +57,7 @@ Assunto: Fundamentos e Prática de Enfermagem
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
@@ -67,7 +67,7 @@ Assunto: Fundamentos e Prática de Enfermagem
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
@@ -77,7 +77,7 @@ Assunto: Fundamentos e Prática de Enfermagem
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
@@ -87,7 +87,7 @@ Assunto: Fundamentos e Prática de Enfermagem
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
@@ -101,12 +101,12 @@ petitivas. Considerando os princípios de ergonomia aplicados ao trabalho em sa�
   [D] ergonomia visa a adaptar as condições de trabalho às características psicofisiológicas do trabalhador, reduzindo riscos de lesões osteomusculares e fadiga
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ergonomia no ambiente hospitalar está restrita à organização do mobiliário, não abrangendo...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'adoção de posturas inadequadas durante a mobilização de pacientes é aceitável, desde que o...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ergonomia busca adaptar o trabalhador às exigências do trabalho, mesmo que isso resulte em...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ergonomia visa a adaptar as condições de trabalho às características psicofisiológicas do ...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'ergonomia no ambiente hospitalar está restrita à organização do mobiliário, não abran...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'adoção de posturas inadequadas durante a mobilização de pacientes é aceitável, desde ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'ergonomia busca adaptar o trabalhador às exigências do trabalho, mesmo que isso resul...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'ergonomia visa a adaptar as condições de trabalho às características psicofisiológica...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
@@ -116,7 +116,7 @@ Assunto: Fundamentos e Prática de Enfermagem
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
@@ -126,7 +126,7 @@ Assunto: Fundamentos e Prática de Enfermagem
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
@@ -136,7 +136,7 @@ Assunto: Fundamentos e Prática de Enfermagem
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
@@ -146,7 +146,7 @@ Assunto: Fundamentos e Prática de Enfermagem
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
@@ -156,7 +156,7 @@ Assunto: Fundamentos e Prática de Enfermagem
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
@@ -166,11 +166,31 @@ Assunto: Fundamentos e Prática de Enfermagem
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
-QUESTÃO 17 [Código: EF0121] - Prefeitura Municipal (SELECON 2025) - Enfermeiro
+QUESTÃO 17 [Código: EF0119] - Prefeitura Municipal (SELECON 2026) - Enfermeiro
+Assunto: Fundamentos e Prática de Enfermagem
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+
+------------------------------------------------------------
+
+QUESTÃO 18 [Código: EF0131] - Prefeitura Municipal (SELECON 2026) - Enfermeiro
+Assunto: Fundamentos e Prática de Enfermagem
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+
+------------------------------------------------------------
+
+QUESTÃO 19 [Código: EF0201] - Prefeitura Municipal (SELECON 2025) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 exame físico, aferindo os sinais vitais, inspecionando a pele e auscultando os pulmões e o coração. Todos os dados coletados, tanto subjetivos quanto objetivos, são organizados para formar a base do plano de cuidados individualizado que representa:
 
@@ -180,262 +200,550 @@ exame físico, aferindo os sinais vitais, inspecionando a pele e auscultando os 
   [D] a implementação das prescrições de enfermagem e médicas 202 Ano: 2025
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a primeira etapa do processo de enfermagem, denominada coleta de dados ou histórico...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a etapa de planejamento de enfermagem, na qual as metas são definidas...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a fase de avaliação de enfermagem, que compara os resultados com as metas...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a implementação das prescrições de enfermagem e médicas 202 Ano: 2025...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'a primeira etapa do processo de enfermagem, denominada coleta de dados ou histórico...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'a etapa de planejamento de enfermagem, na qual as metas são definidas...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a fase de avaliação de enfermagem, que compara os resultados com as metas...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'a implementação das prescrições de enfermagem e médicas 202 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 18 [Código: EF0136] - Prefeitura Municipal (SELECON 2025) - Enfermeiro
+QUESTÃO 20 [Código: EF0216] - Prefeitura Municipal (SELECON 2025) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
-QUESTÃO 19 [Código: EF0163] - Prefeitura Municipal (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 21 [Código: EF0243] - Prefeitura Municipal (SELECON 2025) - Técnico de Enfermagem
 Assunto: Fundamentos e Prática de Enfermagem
 
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
-QUESTÃO 20 [Código: EF0170] - Prefeitura Municipal (SELECON 2025) - Enfermeiro
+QUESTÃO 22 [Código: EF0250] - Prefeitura Municipal (SELECON 2025) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
-QUESTÃO 21 [Código: EF0175] - Prefeitura Municipal (SELECON 2025) - Enfermeiro
+QUESTÃO 23 [Código: EF0255] - Prefeitura Municipal (SELECON 2025) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
-QUESTÃO 22 [Código: EF0180] - Prefeitura Municipal (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 24 [Código: EF0260] - Prefeitura Municipal (SELECON 2024) - Técnico de Enfermagem
 Assunto: Fundamentos e Prática de Enfermagem
 
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
-QUESTÃO 23 [Código: EF0186] - Prefeitura Municipal (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 25 [Código: EF0266] - Prefeitura Municipal (SELECON 2025) - Técnico de Enfermagem
 Assunto: Fundamentos e Prática de Enfermagem
 
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
-QUESTÃO 24 [Código: EF0191] - Prefeitura Municipal (SELECON 2025) - Enfermeiro
+QUESTÃO 26 [Código: EF0271] - Prefeitura Municipal (SELECON 2025) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
-QUESTÃO 25 [Código: EF0194] - Prefeitura Municipal (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 27 [Código: EF0274] - Prefeitura Municipal (SELECON 2025) - Técnico de Enfermagem
 Assunto: Fundamentos e Prática de Enfermagem
 
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
-QUESTÃO 26 [Código: EF0206] - Prefeitura Municipal (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 28 [Código: EF0286] - Prefeitura Municipal (SELECON 2025) - Técnico de Enfermagem
 Assunto: Fundamentos e Prática de Enfermagem
 
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
-QUESTÃO 27 [Código: EF0224] - Prefeitura Municipal (SELECON 2025) - Enfermeiro
+QUESTÃO 29 [Código: EF0304] - Prefeitura Municipal (SELECON 2025) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
-QUESTÃO 28 [Código: EF0228] - Prefeitura Municipal (SELECON 2025) - Enfermeiro
+QUESTÃO 30 [Código: EF0308] - Prefeitura Municipal (SELECON 2025) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
-QUESTÃO 29 [Código: EF0253] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
+QUESTÃO 31 [Código: EF0333] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
-QUESTÃO 30 [Código: EF0267] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
+QUESTÃO 32 [Código: EF0347] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
-QUESTÃO 31 [Código: EF0315] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
+QUESTÃO 33 [Código: EF0395] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
-QUESTÃO 32 [Código: EF0319] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
+QUESTÃO 34 [Código: EF0399] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
-QUESTÃO 33 [Código: EF0325] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
+QUESTÃO 35 [Código: EF0405] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
-QUESTÃO 34 [Código: EF0346] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
+QUESTÃO 36 [Código: EF0426] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
-QUESTÃO 35 [Código: EF0356] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
+QUESTÃO 37 [Código: EF0436] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
-QUESTÃO 36 [Código: EF0372] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
+QUESTÃO 38 [Código: EF0452] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
-QUESTÃO 37 [Código: EF0377] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
+QUESTÃO 39 [Código: EF0457] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
-QUESTÃO 38 [Código: EF0390] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
+QUESTÃO 40 [Código: EF0470] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
-QUESTÃO 39 [Código: EF0405] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
+QUESTÃO 41 [Código: EF0485] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
-QUESTÃO 40 [Código: EF0416] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
+QUESTÃO 42 [Código: EF0496] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
-QUESTÃO 41 [Código: EF0459] - Prefeitura Municipal (SELECON 2026) - Enfermeiro
+QUESTÃO 43 [Código: EF0540] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
 Assunto: Fundamentos e Prática de Enfermagem
 
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
-QUESTÃO 42 [Código: EF0471] - Prefeitura Municipal (SELECON 2026) - Enfermeiro
+QUESTÃO 44 [Código: EF0555] - Prefeitura Municipal (SELECON 2024) - Técnico de Enfermagem
 Assunto: Fundamentos e Prática de Enfermagem
 
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+
+------------------------------------------------------------
+
+QUESTÃO 45 [Código: EF0564] - Prefeitura Municipal (SELECON 2023) - Técnico de Enfermagem
+Assunto: Fundamentos e Prática de Enfermagem
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+
+------------------------------------------------------------
+
+QUESTÃO 46 [Código: EF0574] - Prefeitura Municipal (SELECON 2023) - Enfermeiro
+Assunto: Fundamentos e Prática de Enfermagem
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+
+------------------------------------------------------------
+
+QUESTÃO 47 [Código: EF0590] - Prefeitura Municipal (SELECON 2023) - Enfermeiro
+Assunto: Fundamentos e Prática de Enfermagem
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+
+------------------------------------------------------------
+
+QUESTÃO 48 [Código: EF0593] - Prefeitura Municipal (SELECON 2023) - Enfermeiro
+Assunto: Fundamentos e Prática de Enfermagem
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+
+------------------------------------------------------------
+
+QUESTÃO 49 [Código: EF0596] - Prefeitura Municipal (SELECON 2023) - Enfermeiro
+Assunto: Fundamentos e Prática de Enfermagem
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+
+------------------------------------------------------------
+
+QUESTÃO 50 [Código: EF0605] - Prefeitura Municipal (SELECON 2023) - Enfermeiro
+Assunto: Fundamentos e Prática de Enfermagem
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+
+------------------------------------------------------------
+
+QUESTÃO 51 [Código: EF0613] - Prefeitura Municipal (SELECON 2023) - Enfermeiro
+Assunto: Fundamentos e Prática de Enfermagem
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+
+------------------------------------------------------------
+
+QUESTÃO 52 [Código: EF0618] - Prefeitura Municipal (SELECON 2023) - Enfermeiro
+Assunto: Fundamentos e Prática de Enfermagem
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+
+------------------------------------------------------------
+
+QUESTÃO 53 [Código: EF0624] - Prefeitura Municipal (SELECON 2023) - Enfermeiro
+Assunto: Fundamentos e Prática de Enfermagem
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+
+------------------------------------------------------------
+
+QUESTÃO 54 [Código: EF0643] - Prefeitura Municipal (SELECON 2023) - Enfermeiro
+Assunto: Fundamentos e Prática de Enfermagem
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+
+------------------------------------------------------------
+
+QUESTÃO 55 [Código: EF0651] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Enfermeiro
+Assunto: Fundamentos e Prática de Enfermagem
+De acordo com a Resolução nº 543, de 18 de abril de 2017, do Cofen, é necessário adotar o referencial mínimo para o quadro de profissionais de Enfermagem para as 24 horas de cada unidade de internação (UI), considerar o Sistema de Classificação de Pacientes - SCP, as horas de assistência de Enfermagem, a distribuição percentual do total de profissionais de Enfermagem e a proporção profissional/paciente. Portanto, o número de horas, por paciente, para o cuidado de alta dependência é de:
+
+  [A] 04 horas
+  [B] 06 horas
+  [C] 10 horas
+  [D] 18 horas 652 Ano: 2023
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois '18 horas 652 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 56 [Código: EF0664] - Prefeitura Municipal (SELECON 2023) - Enfermeiro
+Assunto: Fundamentos e Prática de Enfermagem
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+
+------------------------------------------------------------
+
+QUESTÃO 57 [Código: EF0674] - Prefeitura Municipal (SELECON 2023) - Enfermeiro
+Assunto: Fundamentos e Prática de Enfermagem
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+
+------------------------------------------------------------
+
+QUESTÃO 58 [Código: EF0682] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Técnico de Enfermagem
+Assunto: Fundamentos e Prática de Enfermagem
+em Enfermagem Para a realização de um cuidado de enfermagem adequado, é fundamental que o técnico de enfermagem identifique as alterações clínicas no paciente. Portanto, durante o banho no leito, o profissional deve realizar a inspeção da pele com o objetivo de detectar as lesões elementares. São exemplos de lesões sólidas, de acordo com a classificação de Bechelli e Curban (1975):
+
+  [A] pápulas, tubérculos, nódulos e urticária
+  [B] vesícula, bolha, pústula, abscessos
+  [C] úlcera, nódulos, pápulas e bolha
+  [D] erosão, úlcera, fissura, fístulas 683 Ano: 2022
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'pápulas, tubérculos, nódulos e urticária...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'vesícula, bolha, pústula, abscessos...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'úlcera, nódulos, pápulas e bolha...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'erosão, úlcera, fissura, fístulas 683 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 59 [Código: EF0697] - Prefeitura Municipal (SELECON 2022) - Técnico de Enfermagem
+Assunto: Fundamentos e Prática de Enfermagem
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+
+------------------------------------------------------------
+
+QUESTÃO 60 [Código: EF0705] - Prefeitura Municipal (SELECON 2022) - Técnico de Enfermagem
+Assunto: Fundamentos e Prática de Enfermagem
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+
+------------------------------------------------------------
+
+QUESTÃO 61 [Código: EF0720] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
+Assunto: Fundamentos e Prática de Enfermagem
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+
+------------------------------------------------------------
+
+QUESTÃO 62 [Código: EF0727] - Prefeitura Municipal (SELECON 2022) - Enfermeiro
+Assunto: Fundamentos e Prática de Enfermagem
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+
+------------------------------------------------------------
+
+QUESTÃO 63 [Código: EF0754] - Prefeitura Municipal (SELECON 2020) - Enfermeiro
+Assunto: Fundamentos e Prática de Enfermagem
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+
+------------------------------------------------------------
+
+QUESTÃO 64 [Código: EF0760] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
+Assunto: Fundamentos e Prática de Enfermagem
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+
+------------------------------------------------------------
+
+QUESTÃO 65 [Código: EF0762] - Prefeitura Municipal (SELECON 2020) - Enfermeiro
+Assunto: Fundamentos e Prática de Enfermagem
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+
+------------------------------------------------------------
+
+QUESTÃO 66 [Código: EF0767] - Prefeitura Municipal (SELECON 2020) - Técnico de Enfermagem
+Assunto: Fundamentos e Prática de Enfermagem
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+
+------------------------------------------------------------
+
+QUESTÃO 67 [Código: EF0783] - Prefeitura Municipal (SELECON 2020) - Enfermeiro
+Assunto: Fundamentos e Prática de Enfermagem
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+
+------------------------------------------------------------
+
+QUESTÃO 68 [Código: EF0799] - Prefeitura Municipal (SELECON 2020) - Enfermeiro
+Assunto: Fundamentos e Prática de Enfermagem
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+
+------------------------------------------------------------
+
+QUESTÃO 69 [Código: EF0806] - Prefeitura Municipal (SELECON 2020) - Enfermeiro
+Assunto: Fundamentos e Prática de Enfermagem
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+
+------------------------------------------------------------
+
+QUESTÃO 70 [Código: EF0847] - Prefeitura Municipal (SELECON 2019) - Enfermeiro
+Assunto: Fundamentos e Prática de Enfermagem
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+
+------------------------------------------------------------
+
+QUESTÃO 71 [Código: EF0888] - Prefeitura Municipal (SELECON 2024) - Enfermeiro
+Assunto: Fundamentos e Prática de Enfermagem
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 

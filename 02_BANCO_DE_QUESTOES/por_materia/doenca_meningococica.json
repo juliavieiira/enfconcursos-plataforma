@@ -1,0 +1,54 @@
+[
+  {
+    "codigo_origem": "Q1314499",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2020,
+    "prova": "SELECON - 2020 - Prefeitura de Boa Vista - RR - Analista",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Doença Meningocócica , Doenças Infecciosas e parasitárias",
+    "enunciado": "Especialista em Epidemiologista e Vigilância em Saúde O tipo de máscara que deve ser usada no paciente, durante o seu transporte, considerando o diagnóstico de meningite bacteriana ainda nas primeiras 12 horas de tratamento:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "máscara comum (tipo cirúrgica)"
+      },
+      {
+        "id": "B",
+        "texto": "máscara tipo PFF2 (N95)"
+      },
+      {
+        "id": "C",
+        "texto": "conjunto de duas máscaras – uma comum (tipo cirúrgica) e uma tipo N95"
+      },
+      {
+        "id": "D",
+        "texto": "conjunto de máscara comum (tipo cirúrgica) mais protetor ocular, avental e luvas 762 Ano: 2020 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Prefeitura de Boa Vista - RR Prova: SELECON - 2020 - Prefeitura de Boa Vista - RR - Analista"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0761",
+    "numero_ordem": 761,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'máscara comum (tipo cirúrgica)...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'máscara tipo PFF2 (N95)...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'conjunto de duas máscaras – uma comum (tipo cirúrgica) e uma tipo N95...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'conjunto de máscara comum (tipo cirúrgica) mais protetor ocular, avental e luvas 762 ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+  }
+]

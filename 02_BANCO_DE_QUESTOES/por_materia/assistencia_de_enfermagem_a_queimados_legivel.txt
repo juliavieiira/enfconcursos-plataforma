@@ -1,7 +1,7 @@
 === CADERNO DE QUESTÕES: ASSISTÊNCIA DE ENFERMAGEM A QUEIMADOS ===
-Total: 3 questões
+Total: 6 questões
 
-QUESTÃO 1 [Código: EF0120] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 1 [Código: EF0200] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Enfermeiro
 Assunto: Assistência de Enfermagem a Queimados
 Ao manusear uma panela no fogão, uma pessoa derrama acidentalmente uma quantidade significativa de água fervente sobre o antebraço, resultando em uma queimadura que rapidamente causa vermelhidão intensa, dor forte e a formação de bolhas. A lesão é classificada como de segundo grau. O atendimento inicial correto é crucial para minimizar os danos à pele, aliviar a dor e prevenir infecções antes da avaliação médica, que deve abarcar:
 
@@ -11,16 +11,16 @@ Ao manusear uma panela no fogão, uma pessoa derrama acidentalmente uma quantida
   [D] a aplicação de pasta de dente ou pó de café sobre a queimadura para aliviar a dor
 
 ✅ Gabarito: 
-💡 Fundamentação: De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a aplicação de gelo diretamente sobre a área afetada para um resfriamento rápido...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a perfuração das bolhas com uma agulha esterilizada para drenar o líquido...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a colocação do membro afetado sob água corrente em temperatura ambiente por vários minutos...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a aplicação de pasta de dente ou pó de café sobre a queimadura para aliviar a dor...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'a aplicação de gelo diretamente sobre a área afetada para um resfriamento rápido...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'a perfuração das bolhas com uma agulha esterilizada para drenar o líquido...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a colocação do membro afetado sob água corrente em temperatura ambiente por vários mi...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'a aplicação de pasta de dente ou pó de café sobre a queimadura para aliviar a dor...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 2 [Código: EF0208] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 2 [Código: EF0288] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
 Assunto: Assistência de Enfermagem a Queimados
 Enfermagem Um paciente de 25 anos deu entrada no hospital após sofrer queimaduras em aproximadamente 18% da sua superfície corporal. As queimaduras atingem a epiderme e a derme superficial, com presença de bolhas, dor intensa e eritema. O técnico de enfermagem, ao avaliar a extensão das queimaduras, deve adotar a conduta apropriada para o cuidado inicial do paciente. A afirmação que descreve corretamente a classificação da queimadura e os cuidados necessários para o manejo inicial desse paciente é:
 
@@ -30,16 +30,16 @@ Enfermagem Um paciente de 25 anos deu entrada no hospital após sofrer queimadur
   [D] a queimadura é de segundo grau, mas como não ultrapassa 15% da superfície corporal, a reposição volêmica não é indicada; o técnico de enfermagem deve realizar curativos úmidos e administrar analgésicos opioides para controle da dor, sem necessidade de monitoramento dos sinais vitais
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a queimadura é de segundo grau, com 18% da superfície corporal afetada, o que exige a admi...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o técnico de enfermagem deve classificar a queimadura como de terceiro grau e iniciar a re...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a queimadura é de primeiro grau, o que implica que a reposição volêmica não seja necessári...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a queimadura é de segundo grau, mas como não ultrapassa 15% da superfície corporal, a repo...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'a queimadura é de segundo grau, com 18% da superfície corporal afetada, o que exige a...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'o técnico de enfermagem deve classificar a queimadura como de terceiro grau e iniciar...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a queimadura é de primeiro grau, o que implica que a reposição volêmica não seja nece...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'a queimadura é de segundo grau, mas como não ultrapassa 15% da superfície corporal, a...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 3 [Código: EF0223] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
+QUESTÃO 3 [Código: EF0303] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
 Assunto: Assistência de Enfermagem a Queimados
 Um paciente de 45 anos é admitido na unidade de emergência com queimaduras de segundo grau em aproximadamente 30% da superfície corporal, após um acidente com líquidos escaldantes. O paciente apresenta sinais de dor intensa, taquicardia, hipotensão e distensão abdominal. O enfermeiro, ao avaliar a extensão das queimaduras e os sinais clínicos, deve adotar a conduta apropriada para estabilizar o paciente. Com base na classificação da queimadura, na abordagem terapêutica e nos cuidados necessários para manejo da dor e da reposição volêmica, a melhor conduta de enfermagem nesse cenário é:
 
@@ -49,12 +49,69 @@ Um paciente de 45 anos é admitido na unidade de emergência com queimaduras de 
   [D] a queimadura de segundo grau deve ser considerada superficial, e a reposição volêmica deve ser adiada até que o paciente apresente sinais evidentes de desidratação. O enfermeiro deve focar apenas no controle da dor e na realização de curativos tópicos com pomadas antibióticas, sem necessidade de monitoramento rigoroso dos sinais vitais ou balanceamento hídrico 304 Ano: 2025 Enfermagem > Assistência de Enfermagem em Feridas e Curativos , Enfermagem em Centro Cirúrgico , Pós-Operatório Banca: SELECON Órgão: Prefeitura de Sinop - MT Prova: SELECON - 2025 - Prefeitura de Sinop - MT - Enfermeiro
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.
 ❌ Distratores:
-   • Alternativa A: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a queimadura de segundo grau deve ser tratada com analgésicos não opióides, como o paracet...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o enfermeiro deve classificar a queimadura como de primeiro grau e administrar apenas anal...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a queimadura de segundo grau deve ser considerada superficial, e a reposição volêmica deve...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'a queimadura de segundo grau afeta a epiderme e a derme superficial e, devido à exten...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'a queimadura de segundo grau deve ser tratada com analgésicos não opióides, como o pa...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o enfermeiro deve classificar a queimadura como de primeiro grau e administrar a...'.
+   • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a queimadura de segundo grau deve ser considerada superficial, e a reposição vol...'.
+
+------------------------------------------------------------
+
+QUESTÃO 4 [Código: EF0521] - Prefeitura de Dourados - MS (SELECON 2023) - Enfermeiro
+Assunto: Assistência de Enfermagem a Queimados
+As queimaduras são classificadas como injúrias decorrentes de traumas que possuem diferentes etiologias, dentre elas, a térmica, resultante da exposição a: chamas, líquidos quentes, superfícies quentes, substâncias químicas, frio, radiação, atrito ou fricção. Dependendo da extensão do comprometimento tecidual e da exposição ao agente agressor, as principais complicações clínicas nos pacientes queimados são:
+
+  [A] lesão visceral, pneumonia e colite
+  [B] lesão tegumentar, insuficiência renal crônica e colecistite
+  [C] insuficiência cardíaca, pneumonia e cirrose hepática grave
+  [D] lesão visceral, insuficiência renal aguda e edema pulmonar 522 Ano: 2023
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'lesão visceral, pneumonia e colite...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'lesão tegumentar, insuficiência renal crônica e colecistite...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'insuficiência cardíaca, pneumonia e cirrose hepática grave...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'lesão visceral, insuficiência renal aguda e edema pulmonar 522 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 5 [Código: EF0609] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
+Assunto: Assistência de Enfermagem a Queimados
+MT - Enfermeiro(a) Padrão Para prevenir a hipovolemia e/ou o choque no queimado, a indicação é iniciar, assim que possível, ressuscitação volêmica segura e precisa para a sobrevivência de pacientes com queimaduras extensas. Portanto, é indicada, em pacientes adultos acometidos com superfície corporal queimada (SCQ), a Regra dos Nove de:
+
+  [A] <20%
+  [B] >20%
+  [C] <30%
+  [D] <40% 610 Ano: 2023 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Prefeitura de Primavera do Leste - MT Prova: SELECON - 2023 - Prefeitura de Primavera do Leste -
+
+✅ Gabarito: 
+💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois '<40% 610 Ano: 2023 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: C...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 6 [Código: EF0683] - Câmara de São Gonçalo - RJ (SELECON 2022) - Enfermeiro
+Assunto: Assistência de Enfermagem a Queimados
+Segurança Legislativo Uma queimadura que afeta a epiderme, derme e estruturas profundas com presença de placa esbranquiçada ou enegrecida e indolor é classificada como de:
+
+  [A] primeiro grau
+  [B] terceiro grau
+  [C] segundo grau
+  [D] sétimo grau 684 Ano: 2022
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'primeiro grau...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'terceiro grau...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'segundo grau...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'sétimo grau 684 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 

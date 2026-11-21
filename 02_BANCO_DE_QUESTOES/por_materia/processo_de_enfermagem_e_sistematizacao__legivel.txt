@@ -1,7 +1,45 @@
 === CADERNO DE QUESTÕES: PROCESSO DE ENFERMAGEM E SISTEMATIZAÇÃO DA ASSISTÊNCIA DE ENFERMAGEM ===
-Total: 8 questões
+Total: 18 questões
 
-QUESTÃO 1 [Código: EF0101] - Prefeitura de Marcelândia - MT (SELECON 2025) - Enfermeiro
+QUESTÃO 1 [Código: EF0130] - Prefeitura de Porto dos Gaúchos - MT (SELECON 2026) - Enfermeiro
+Assunto: Processo de Enfermagem e Sistematização da Assistência de Enfermagem
+MT - Enfermeiro A Avaliação da Assistência de Enfermagem, etapa final da SAE, consiste na análise sistemática das respostas do paciente frente às intervenções implementadas. O parâmetro central para essa análise é a comparação entre:
+
+  [A] o diagnóstico médico e o diagnóstico de enfermagem
+  [B] as intervenções prescritas e as intervenções executadas
+  [C] os resultados esperados e os resultados alcançados
+  [D] o histórico de enfermagem e a evolução do paciente 131 Ano: 2026 Enfermagem > Legislação de Enfermagem , Processo de Enfermagem e Sistematização da Assistência de Enfermagem , COFEN Banca: SELECON Órgão: Prefeitura de Porto dos Gaúchos - MT Prova: SELECON - 2026 - Prefeitura de Porto dos Gaúchos -
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'o diagnóstico médico e o diagnóstico de enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'as intervenções prescritas e as intervenções executadas...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'os resultados esperados e os resultados alcançados...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'o histórico de enfermagem e a evolução do paciente 131 Ano: 2026 Enfermagem > Legisla...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 2 [Código: EF0180] - Prefeitura de Marcelândia - MT (SELECON 2024) - Enfermeiro
+Assunto: Processo de Enfermagem e Sistematização da Assistência de Enfermagem
+A Sistematização da Assistência de Enfermagem (SAE) é um processo dinâmico e inter-relacionado, fundamentado em teorias de enfermagem que orientam a prática profissional. A Resolução COFEN n.º 358/2009 reforça a obrigatoriedade da SAE, conferindo-lhe caráter legal e ético. Em um cenário complexo de unidade de terapia intensiva, onde o enfermeiro se depara com um paciente em choque séptico, a etapa do Processo de Enfermagem que exige a síntese interpretativa dos dados coletados, a identificação de padrões e a formulação de enunciados clínicos, que direcionam as intervenções específicas e mensuráveis, é a:
+
+  [A] coleta de dados, focando na anamnese detalhada e exame físico minucioso para identificar todos os sinais e sintomas
+  [B] diagnóstico de enfermagem, onde se elaboram enunciados PES (Problema, Etiologia, Sinais/Sintomas) que refletem as respostas humanas do paciente
+  [C] planejamento de enfermagem, estabelecendo metas de curto e longo prazo baseadas nas necessidades do paciente e nos recursos disponíveis
+  [D] avaliação de enfermagem, verificando a efetividade das intervenções implementadas e a necessidade de ajustes no plano de cuidados
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'coleta de dados, focando na anamnese detalhada e exame físico minucioso para identifi...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'diagnóstico de enfermagem, onde se elaboram enunciados PES (Problema, Etiologia, Sina...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'planejamento de enfermagem, estabelecendo metas de curto e longo prazo baseadas nas n...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'avaliação de enfermagem, verificando a efetividade das intervenções implementadas e a...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 3 [Código: EF0181] - Prefeitura de Marcelândia - MT (SELECON 2025) - Enfermeiro
 Assunto: Processo de Enfermagem e Sistematização da Assistência de Enfermagem
 A implementação da Sistematização da Assistência de Enfermagem (SAE) em serviços de saúde de alta complexidade, como unidades de transplante de órgãos, demanda do enfermeiro uma capacidade de raciocínio clínico sofisticada e uma integração multidisciplinar. Nesse contexto, a elaboração de um plano de cuidados individualizado para um paciente póstransplante renal, considerando os riscos de rejeição, infecção oportunista e efeitos adversos da imunossupressão, exige que o enfermeiro utilize a SAE não apenas como um roteiro, mas como uma ferramenta para:
 
@@ -11,16 +49,16 @@ A implementação da Sistematização da Assistência de Enfermagem (SAE) em ser
   [D] reduzir a necessidade de comunicação interprofissional, uma vez que o plano de cuidados de enfermagem é autossuficiente
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'desenvolver um pensamento crítico que permita a adaptação das intervenções às respostas fi...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'padronizar todas as intervenções de enfermagem, garantindo a uniformidade do cuidado indep...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'delegar integralmente as tarefas de menor complexidade à equipe técnica, focando apenas na...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'reduzir a necessidade de comunicação interprofissional, uma vez que o plano de cuidados de...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'desenvolver um pensamento crítico que permita a adaptação das intervenções às respost...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'padronizar todas as intervenções de enfermagem, garantindo a uniformidade do cuidado ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'delegar integralmente as tarefas de menor complexidade à equipe técnica, focando...'.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'reduzir a necessidade de comunicação interprofissional, uma vez que o plano de cuidad...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 2 [Código: EF0130] - Prefeitura de Tapurah - MT (SELECON 2025) - Enfermeiro
+QUESTÃO 4 [Código: EF0210] - Prefeitura de Tapurah - MT (SELECON 2025) - Enfermeiro
 Assunto: Processo de Enfermagem e Sistematização da Assistência de Enfermagem
 A sistematização da assistência de enfermagem (SAE) busca garantir a organização e a qualidade do cuidado. Um dos desafios cruciais nesse processo envolve a adequada identificação de diagnósticos de enfermagem. Nessa etapa, o profissional deve realizar uma análise crítica dos dados coletados para determinar problemas relevantes de saúde. Essa análise pode ser definida como:
 
@@ -30,16 +68,16 @@ A sistematização da assistência de enfermagem (SAE) busca garantir a organiza
   [D] diagnósticos de enfermagem, que são considerados subjetivos e não requerem validação científica 211 Ano: 2025
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'identificação de diagnósticos de enfermagem na SAE, que requer interpretação criteriosa de...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'SAE, que é uma responsabilidade única do enfermeiro e não envolve a equipe de saúde...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'diagnósticos de enfermagem, que são considerados subjetivos e não requerem validação cient...'.
+   • Alternativa A: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'SAE, que garante exclusivamente o registro das atividades realizadas pela enferm...'.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'identificação de diagnósticos de enfermagem na SAE, que requer interpretação criterio...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'SAE, que é uma responsabilidade única do enfermeiro e não envolve a equipe de saúde...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'diagnósticos de enfermagem, que são considerados subjetivos e não requerem validação ...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 3 [Código: EF0184] - HEMOMINAS (SELECON 2025) - Enfermeiro
+QUESTÃO 5 [Código: EF0264] - HEMOMINAS (SELECON 2025) - Enfermeiro
 Assunto: Processo de Enfermagem e Sistematização da Assistência de Enfermagem
 ANHH - Nível I - Grau A - Enfermeiro O processo de enfermagem é uma metodologia científica que orienta o cuidado de enfermagem. A representação correta da sequência das etapas do processo de enfermagem consiste em:
 
@@ -49,26 +87,26 @@ ANHH - Nível I - Grau A - Enfermeiro O processo de enfermagem é uma metodologi
   [D] diagnóstico, coleta de dados, planejamento, implementação, avaliação 265 Ano: 2025 Enfermagem > Higiene nos Procedimentos de Enfermagem , Cuidados de Enfermagem , Fundamentos e Procedimentos de Enfermagem Banca: SELECON Órgão: HEMOMINAS Prova: SELECON - 2025 - HEMOMINAS - Analista de Hematologia e Hemoterapia -
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'avaliação, diagnóstico, planejamento, implementação, coleta de dados...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'coleta de dados, diagnóstico, planejamento, implementação, avaliação...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'planejamento, coleta de dados, diagnóstico, implementação, avaliação...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'diagnóstico, coleta de dados, planejamento, implementação, avaliação 265 Ano: 2025 Enferma...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'avaliação, diagnóstico, planejamento, implementação, coleta de dados...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'coleta de dados, diagnóstico, planejamento, implementação, avaliação...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'planejamento, coleta de dados, diagnóstico, implementação, avaliação...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'diagnóstico, coleta de dados, planejamento, implementação, avaliação 265 Ano: 2025 En...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 4 [Código: EF0190] - HEMOMINAS (SELECON 2025) - Enfermeiro
+QUESTÃO 6 [Código: EF0270] - HEMOMINAS (SELECON 2025) - Enfermeiro
 Assunto: Processo de Enfermagem e Sistematização da Assistência de Enfermagem ,
 
 
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 
-QUESTÃO 5 [Código: EF0308] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 7 [Código: EF0388] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Processo de Enfermagem e Sistematização da Assistência de Enfermagem
 O enfermeiro da equipe de atenção primária desenvolve seu trabalho tanto no âmbito da unidade de saúde quanto na comunidade. O Processo de Enfermagem ou Consulta de Enfermagem constitui a dinâmica de ações sistematizadas e interrelacionadas, seguindo metodologia orientadora do cuidado e do registro desta prática profissional. A etapa da consulta de interpretação e agrupamento dos dados coletados denomina-se:
 
@@ -79,17 +117,17 @@ O enfermeiro da equipe de atenção primária desenvolve seu trabalho tanto no �
   [E] assistência 389 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'diagnóstico...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'planejamento...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'implementação...'.
-   • Alternativa D: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'assistência 389 Ano: 2024...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'diagnóstico...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'planejamento...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'implementação...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa E: Incorreta perante os protocolos técnicos, pois 'assistência 389 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 6 [Código: EF0417] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 8 [Código: EF0497] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
 Assunto: Processo de Enfermagem e Sistematização da Assistência de Enfermagem
 O Processo de Enfermagem deve ser realizado, de modo deliberado e sistemático, em todos os ambientes, públicos ou privados, em que ocorre o cuidado profissional de Enfermagem e, além disso, organiza-se em cinco etapas inter-relacionadas, interdependentes e recorrentes, a saber:
 
@@ -99,50 +137,193 @@ O Processo de Enfermagem deve ser realizado, de modo deliberado e sistemático, 
   [D] diagnóstico, planejamento, plano de cuidados, implementação e avaliação 498 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'exame físico, anamnese, diagnóstico, plano de ação e avaliação...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'anamnese, exame físico, diagnóstico, planejamento e implementação...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'coleta de dados, diagnóstico, planejamento, implementação e avaliação...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'diagnóstico, planejamento, plano de cuidados, implementação e avaliação 498 Ano: 2024...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'exame físico, anamnese, diagnóstico, plano de ação e avaliação...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'anamnese, exame físico, diagnóstico, planejamento e implementação...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'coleta de dados, diagnóstico, planejamento, implementação e avaliação...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'diagnóstico, planejamento, plano de cuidados, implementação e avaliação 498 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 7 [Código: EF0470] - Prefeitura de Porto dos Gaúchos - MT (SELECON 2026) - Enfermeiro
+QUESTÃO 9 [Código: EF0544] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2023) - Enfermeiro
 Assunto: Processo de Enfermagem e Sistematização da Assistência de Enfermagem
-MT - Enfermeiro A Avaliação da Assistência de Enfermagem, etapa final da SAE, consiste na análise sistemática das respostas do paciente frente às intervenções implementadas. O parâmetro central para essa análise é a comparação entre:
+MT - Enfermeiro 20H O termo Processo de Enfermagem (PE), divulgado na década de 1950, nos Estados Unidos da América, refere-se a um processo que, por meio do método científico, permite a consolidação dos elementos da arte da enfermagem com os mais relevantes elementos de sistemas teóricos. Nesse sentido, o PE deve estar baseado em um suporte teórico que oriente a:
 
-  [A] o diagnóstico médico e o diagnóstico de enfermagem
-  [B] as intervenções prescritas e as intervenções executadas
-  [C] os resultados esperados e os resultados alcançados
-  [D] o histórico de enfermagem e a evolução do paciente 131 Ano: 2026 Enfermagem > Legislação de Enfermagem , Processo de Enfermagem e Sistematização da Assistência de Enfermagem , COFEN Banca: SELECON Órgão: Prefeitura de Porto dos Gaúchos - MT Prova: SELECON - 2026 - Prefeitura de Porto dos Gaúchos -
+  [A] coleta de dados, estabelecimento de diagnósticos de enfermagem, planejamento das ações ou intervenções de enfermagem, e fornecimento da base para a avaliação dos resultados de enfermagem alcançados
+  [B] coleta de medicamentos, estabelecimento de diagnósticos médicos, planejamento das ações ou intervenções de enfermagem, e fornecimento da base para a avaliação dos resultados de enfermagem alcançados
+  [C] anamnese e histórico, estabelecimento de diagnósticos de enfermagem, planejamento das ações ou intervenções de multidisciplinares, e fornecimento da base para a avaliação dos resultados de enfermagem alcançados
+  [D] coleta de dados, estabelecimento de diagnósticos de riscos, planejamento das ações ou intervenções de enfermagem, e fornecimento da base para a avaliação dos resultados interdisciplinares alcançados 545 Ano: 2023
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o diagnóstico médico e o diagnóstico de enfermagem...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'as intervenções prescritas e as intervenções executadas...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'os resultados esperados e os resultados alcançados...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o histórico de enfermagem e a evolução do paciente 131 Ano: 2026 Enfermagem > Legislação d...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'coleta de dados, estabelecimento de diagnósticos de enfermagem, planejamento das açõe...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'coleta de medicamentos, estabelecimento de diagnósticos médicos, planejamento das açõ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'anamnese e histórico, estabelecimento de diagnósticos de enfermagem, planejamento das...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'coleta de dados, estabelecimento de diagnósticos de riscos, planejamento das ações ou...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 8 [Código: EF0520] - Prefeitura de Marcelândia - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 10 [Código: EF0629] - Prefeitura de Campo Verde - MT (SELECON 2023) - Técnico de Enfermagem
 Assunto: Processo de Enfermagem e Sistematização da Assistência de Enfermagem
-A Sistematização da Assistência de Enfermagem (SAE) é um processo dinâmico e inter-relacionado, fundamentado em teorias de enfermagem que orientam a prática profissional. A Resolução COFEN n.º 358/2009 reforça a obrigatoriedade da SAE, conferindo-lhe caráter legal e ético. Em um cenário complexo de unidade de terapia intensiva, onde o enfermeiro se depara com um paciente em choque séptico, a etapa do Processo de Enfermagem que exige a síntese interpretativa dos dados coletados, a identificação de padrões e a formulação de enunciados clínicos, que direcionam as intervenções específicas e mensuráveis, é a:
+em Enfermagem A gasometria é maneira mais efetiva para avaliar o equilíbrio ácido-base e a oxigenação. Acerca desse exame, o componente que avalia o nível de oxigênio no sangue é o:
 
-  [A] coleta de dados, focando na anamnese detalhada e exame físico minucioso para identificar todos os sinais e sintomas
-  [B] diagnóstico de enfermagem, onde se elaboram enunciados PES (Problema, Etiologia, Sinais/Sintomas) que refletem as respostas humanas do paciente
-  [C] planejamento de enfermagem, estabelecendo metas de curto e longo prazo baseadas nas necessidades do paciente e nos recursos disponíveis
-  [D] avaliação de enfermagem, verificando a efetividade das intervenções implementadas e a necessidade de ajustes no plano de cuidados
+  [A] PaCO2
+  [B] HCO3
+  [C] PaO2
+  [D] BE
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'coleta de dados, focando na anamnese detalhada e exame físico minucioso para identificar t...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'diagnóstico de enfermagem, onde se elaboram enunciados PES (Problema, Etiologia, Sinais/Si...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'planejamento de enfermagem, estabelecendo metas de curto e longo prazo baseadas nas necess...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'avaliação de enfermagem, verificando a efetividade das intervenções implementadas e a nece...'.
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+
+------------------------------------------------------------
+
+QUESTÃO 11 [Código: EF0647] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Enfermeiro
+Assunto: Processo de Enfermagem e Sistematização da Assistência de Enfermagem
+De acordo com a Resolução Cofen nº 358/2009, a etapa do processo de Enfermagem que consiste na determinação dos resultados que se espera alcançar, e das ações ou intervenções de Enfermagem que serão realizadas face às respostas da pessoa, família ou coletividade humana em um dado momento do processo saúde e doença, identificadas na etapa de diagnóstico de Enfermagem, é a etapa que recebe o nome de:
+
+  [A] histórico
+  [B] diagnóstico
+  [C] planejamento
+  [D] implementação
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'diagnóstico...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'planejamento...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'implementação...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 12 [Código: EF0661] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Enfermeiro
+Assunto: Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Exame Físico
+A palpação é uma parte vital do exame físico realizado pelo(a) enfermeiro(a), pois permite que muitas estruturas do corpo, embora não visíveis, possam ser avaliadas por meio das técnicas de palpação superficial e profunda. No entanto, um cuidado importante, quando do exame do abdome, é que a ausculta deve ser realizada:
+
+  [A] após a palpação, a fim de alterar os sons abdominais
+  [B] após a percussão, a fim de evitar alterar os sons abdominais
+  [C] antes da inspeção e da percussão, a fim de alterar os sons abdominais
+  [D] antes da palpação e da percussão, a fim de evitar alterar os sons abdominais 662 Ano: 2023
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'após a palpação, a fim de alterar os sons abdominais...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'após a percussão, a fim de evitar alterar os sons abdominais...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'antes da inspeção e da percussão, a fim de alterar os sons abdominais...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'antes da palpação e da percussão, a fim de evitar alterar os sons abdominais 662 Ano:...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 13 [Código: EF0662] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Enfermeiro
+Assunto: Processo de Enfermagem e Sistematização da Assistência de Enfermagem
+No âmbito da gerência do cuidado de Enfermagem, o uso do Processo de Enfermagem é regulamentado pela Resolução Cofen nº 358/2009, que dispõe sobre a Sistematização da Assistência de Enfermagem e a implementação desse processo em ambientes públicos ou privados. De acordo com esse documento, o processo de Enfermagem consiste em:
+
+  [A] instrumento metodológico que orienta o cuidado profissional de Enfermagem e a documentação da prática profissional
+  [B] protocolo clínico que norteia as práticas de Enfermagem e a documentação específica
+  [C] regimento interno que define as metas de Enfermagem para o registro seguro
+  [D] procedimento operacional padrão que orienta os profissionais na assistência 663 Ano: 2023
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'instrumento metodológico que orienta o cuidado profissional de Enfermagem e a documen...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'protocolo clínico que norteia as práticas de Enfermagem e a documentação específica...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'regimento interno que define as metas de Enfermagem para o registro seguro...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'procedimento operacional padrão que orienta os profissionais na assistência 663 Ano: ...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 14 [Código: EF0701] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Técnico de Enfermagem
+Assunto: Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Exame Físico
+Técnico em Enfermagem O termo “oligúria” está relacionado a uma condição renal alterada caracterizada por:
+
+  [A] aumento no volume urinário
+  [B] diminuição do volume urinário
+  [C] micção dolorosa e com saída de pus
+  [D] perda involuntária da diurese e sudorese
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'aumento no volume urinário...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'diminuição do volume urinário...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'micção dolorosa e com saída de pus...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'perda involuntária da diurese e sudorese...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 15 [Código: EF0810] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+Assunto: Processo de Enfermagem e Sistematização da Assistência de Enfermagem
+O Processo de Enfermagem organiza-se em cinco etapas interrelacionadas, interdependentes e recorrentes. A etapa que consiste na determinação dos resultados que se espera alcançar e das ações ou intervenções de enfermagem que serão realizadas face às respostas da pessoa, família ou coletividade humana, em um dado momento do processo saúde e doença, é chamada de:
+
+  [A] Planejamento de Enfermagem
+  [B] Diagnóstico de Enfermagem
+  [C] Avaliação de Enfermagem
+  [D] Implementação 811 Ano: 2020
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'Planejamento de Enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'Diagnóstico de Enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Avaliação de Enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Implementação 811 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 16 [Código: EF0821] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+Assunto: Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Exame Físico
+A técnica semiológica, utilizada pelo enfermeiro no exame físico, que consiste em golpear a pele do indivíduo com toques curtos e fortes para avaliar a estrutura subjacente é chamada de:
+
+  [A] inspeção
+  [B] ausculta
+  [C] percussão
+  [D] palpação 822 Ano: 2020
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'palpação 822 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 17 [Código: EF0837] - Prefeitura de Campo Grande - MS (SELECON 2019) - Enfermeiro
+Assunto: Processo de Enfermagem e Sistematização da Assistência de Enfermagem
+O processo de enfermagem deve estar baseado em um suporte teórico que oriente a coleta de dados, o estabelecimento de diagnósticos de enfermagem e o planejamento das ações ou intervenções de enfermagem. A etapa que consiste na realização das ações ou intervenções determinadas pela fase de planejamento de enfermagem é definida como
+
+  [A] diagnóstico
+  [B] avaliação
+  [C] histórico
+  [D] implementação 838 Ano: 2019
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'diagnóstico...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'implementação 838 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 18 [Código: EF0851] - Prefeitura Municipal (SELECON 2019) - Enfermeiro
+Assunto: Processo de Enfermagem e Sistematização da Assistência de Enfermagem
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 

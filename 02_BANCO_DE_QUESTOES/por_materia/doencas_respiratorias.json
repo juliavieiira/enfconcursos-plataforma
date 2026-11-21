@@ -1,5 +1,57 @@
 [
   {
+    "codigo_origem": "Q3884074",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Doenças Respiratórias , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "MT - Enfermeiro A doença pulmonar obstrutiva crônica (DPOC) é caracterizada por limitação persistente ao fluxo aéreo, geralmente progressiva e associada à resposta inflamatória crônica das vias aéreas e do parênquima pulmonar. O exame considerado padrão-ouro para seu diagnóstico e avaliação de gravidade é a:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "radiografia de tórax"
+      },
+      {
+        "id": "B",
+        "texto": "tomografia computadorizada de alta resolução de tórax"
+      },
+      {
+        "id": "C",
+        "texto": "espirometria com prova broncodilatadora"
+      },
+      {
+        "id": "D",
+        "texto": "gasometria arterial 129 Ano: 2026"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0128",
+    "numero_ordem": 128,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'radiografia de tórax...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'tomografia computadorizada de alta resolução de tórax...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'espirometria com prova broncodilatadora...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'gasometria arterial 129 Ano: 2026...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+  },
+  {
     "codigo_origem": "Q2480406",
     "banca": "SELECON",
     "orgao": "SAD-MS",
@@ -32,83 +84,395 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0291",
-    "numero_ordem": 291,
-    "fundamentacao_correta": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.",
+    "id": "EF0371",
+    "numero_ordem": 371,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "E",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'síndrome respiratória aguda grave 372 Ano: 2024...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'síndrome respiratória aguda grave 372 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para ..."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
-    "codigo_origem": "Q3884074",
+    "codigo_origem": "Q2325277",
     "banca": "SELECON",
-    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
-    "ano": 2026,
-    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
+    "orgao": "Prefeitura de Primavera do Leste - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Primavera do Leste -",
     "cargo": "Enfermeiro",
     "materia": "Enfermagem",
     "assunto": "Doenças Respiratórias , Doenças Crônicas Não Transmissíveis",
-    "enunciado": "MT - Enfermeiro A doença pulmonar obstrutiva crônica (DPOC) é caracterizada por limitação persistente ao fluxo aéreo, geralmente progressiva e associada à resposta inflamatória crônica das vias aéreas e do parênquima pulmonar. O exame considerado padrão-ouro para seu diagnóstico e avaliação de gravidade é a:",
+    "enunciado": "MT - Enfermeiro Intervencionista - SAMU No protocolo BC25 (hemoptise), o profissional deve suspeitar a partir do seguinte critério de inclusão:",
     "alternativas": [
       {
         "id": "A",
-        "texto": "radiografia de tórax"
+        "texto": "expectoração sanguinolenta proveniente das vias aéreas, geralmente, de grande intensidade, com filamentos hemáticos associados ao escarro, podendo o sangramento ser maciço (150 a 400 ml de sangue) em 36 horas"
       },
       {
         "id": "B",
-        "texto": "tomografia computadorizada de alta resolução de tórax"
+        "texto": "expectoração sanguinolenta proveniente das vias aéreas, geralmente, de pequena intensidade, apenas com filamentos hemáticos associados ao escarro, podendo ocorrer sangramento (400 a 800 ml de sangue) em 28 horas"
       },
       {
         "id": "C",
-        "texto": "espirometria com prova broncodilatadora"
+        "texto": "expectoração sanguinolenta proveniente das vias aéreas, geralmente, de pequena intensidade, apenas com filamentos hemáticos associados ao escarro, podendo o sangramento ser maciço (200 a 600 ml de sangue) em 24 horas"
       },
       {
         "id": "D",
-        "texto": "gasometria arterial 129 Ano: 2026"
+        "texto": "expectoração sanguinolenta proveniente do trato gastrointestinal, geralmente, de grande intensidade, com filamentos hemáticos associados a refluxo, podendo o sangramento ser maciço (100 a 500 ml de sangue) em 48 horas 602 Ano: 2023"
       }
     ],
     "resposta_correta": "",
-    "id": "EF0468",
-    "numero_ordem": 468,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0601",
+    "numero_ordem": 601,
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'radiografia de tórax...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'expectoração sanguinolenta proveniente das vias aéreas, geralmente, de grande intensi...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tomografia computadorizada de alta resolução de tórax...'."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'expectoração sanguinolenta proveniente das vias aéreas, geralmente, de pequena i...'."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'espirometria com prova broncodilatadora...'."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'expectoração sanguinolenta proveniente das vias aéreas, geralmente, de pequena i...'."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'gasometria arterial 129 Ano: 2026...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'expectoração sanguinolenta proveniente do trato gastrointestinal, geralmente, de gran...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Partici..."
+  },
+  {
+    "codigo_origem": "Q2162336",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Nova Mutum - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Doenças Respiratórias , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "As anormalidades genéticas, incluindo deficiência de alfa1-antitripsina, um inibidor enzimático que normalmente se contrapõe à destruição do tecido pulmonar por outras determinadas enzimas, são um fator de risco para ocorrência de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "ELA(esclerose lateral amiotrófica)"
+      },
+      {
+        "id": "B",
+        "texto": "HIC (hipertensão intracraniana)"
+      },
+      {
+        "id": "C",
+        "texto": "DPOC (doença pulmonar obstrutiva crônica)"
+      },
+      {
+        "id": "D",
+        "texto": "TAVM (traqueobronquite associada a ventilação mecânica)"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0657",
+    "numero_ordem": 657,
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [] ('') corresponde com fidelidade aos ditames legais da profissão.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'ELA(esclerose lateral amiotrófica)...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'HIC (hipertensão intracraniana)...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'DPOC (doença pulmonar obstrutiva crônica)...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'TAVM (traqueobronquite associada a ventilação mecânica)...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
+  },
+  {
+    "codigo_origem": "Q2162334",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Nova Mutum - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Doenças Respiratórias , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "Paciente João da Silva, 56 anos de idade, tabagista, foi diagnosticado com uma doença que estabelece um comprometimento na troca de oxigênio e dióxido de carbono, resultado da destruição das paredes dos alvéolos hiperdistendidos, através de uma distensão anormal dos espaços aéreos. Essa doença é chamada de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "asma"
+      },
+      {
+        "id": "B",
+        "texto": "bronquite"
+      },
+      {
+        "id": "C",
+        "texto": "enfisema"
+      },
+      {
+        "id": "D",
+        "texto": "pneumonia 660 Ano: 2023"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0659",
+    "numero_ordem": 659,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'pneumonia 660 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q2160742",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Nova Mutum - MT - Técnico",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Doenças Respiratórias , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "em Enfermagem A asma é uma doença inflamatória crônica das vias respiratórias, que provoca hiper-responsividade das vias aéreas, edema da mucosa e produção de muco. As principais manifestações clínicas da asma são:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "fadiga, sensação de aperto no tórax, bradicardia e taquipneia"
+      },
+      {
+        "id": "B",
+        "texto": "tosse, sensação de constrição no tórax, sibilância e dispneia"
+      },
+      {
+        "id": "C",
+        "texto": "calafrios, dor em pontada no tórax, crepitações e bradipneia"
+      },
+      {
+        "id": "D",
+        "texto": "febre, sensação de aperto no tórax, estertores e dispneia 666 Ano: 2023"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0665",
+    "numero_ordem": 665,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'fadiga, sensação de aperto no tórax, bradicardia e taquipneia...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'tosse, sensação de constrição no tórax, sibilância e dispneia...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'calafrios, dor em pontada no tórax, crepitações e bradipneia...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'febre, sensação de aperto no tórax, estertores e dispneia 666 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+  },
+  {
+    "codigo_origem": "Q1313712",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2020,
+    "prova": "SELECON - 2020 - Prefeitura de Boa Vista - RR - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Doenças Respiratórias , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "Intensivista Pediátrico O ciclo ventilatório, durante a ventilação mecânica com pressão positiva, pode ser dividido em:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "fase inspiratória, mudança de fase (ciclagem), fase expiratória e mudança da fase expiratória para a fase inspiratória (disparo)"
+      },
+      {
+        "id": "B",
+        "texto": "fase inspiratória, repolarização, fase expiratória e mudança da fase expiratória para a fase inspiratória (ciclagem)"
+      },
+      {
+        "id": "C",
+        "texto": "fase inspiratória, despolarização, fase expiratória e mudança da fase expiratória para a fase inspiratória (cerclagem)"
+      },
+      {
+        "id": "D",
+        "texto": "fase de apneia, parada na fase (disparo), fase de Biot e mudança da fase expiratória para a fase inspiratória (disparo)"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0787",
+    "numero_ordem": 787,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'fase inspiratória, mudança de fase (ciclagem), fase expiratória e mudança da fase exp...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'fase inspiratória, repolarização, fase expiratória e mudança da fase expiratória para...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'fase inspiratória, despolarização, fase expiratória e mudança da fase expiratória par...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'fase de apneia, parada na fase (disparo), fase de Biot e mudança da fase expiratória ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q1313710",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2020,
+    "prova": "SELECON - 2020 - Prefeitura de Boa Vista - RR - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Doenças Respiratórias , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "Intensivista Pediátrico Paciente J.R., 8 anos de idade, com quadro de insuficiência respiratória aguda, apresenta a seguinte gasometria arterial: PH: 7,12 PaCO2: 63 HCO3: 28 BE: + 2 O distúrbio ácido-básico apresentado é a:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "acidose metabólica"
+      },
+      {
+        "id": "B",
+        "texto": "alcalose metabólica"
+      },
+      {
+        "id": "C",
+        "texto": "acidose respiratória"
+      },
+      {
+        "id": "D",
+        "texto": "alcalose respiratória 790 Ano: 2020"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0789",
+    "numero_ordem": 789,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'acidose metabólica...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'alcalose metabólica...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'acidose respiratória...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'alcalose respiratória 790 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q2710349",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Campo Grande - MS",
+    "ano": 2019,
+    "prova": "SELECON - 2019 - Prefeitura de Campo Grande - MS -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Doenças Respiratórias , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "São fatores de risco para doença pulmonar obstrutiva crônica (DPOC):",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "deficiência genética de alfa1- antitripsina, tabagismo, poluição ambiental e desnutrição na infância"
+      },
+      {
+        "id": "B",
+        "texto": "etilismo precoce, poluição ambiental na comunidade, emagrecimento e fibrose cística"
+      },
+      {
+        "id": "C",
+        "texto": "tabagismo passivo, asma crônica, obesidade e falta de saneamento básico"
+      },
+      {
+        "id": "D",
+        "texto": "obesidade central, tabagismo, exposição ambiental e hipertensão arterial 840 Ano: 2019"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0839",
+    "numero_ordem": 839,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'deficiência genética de alfa1- antitripsina, tabagismo, poluição ambiental e desnutri...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'etilismo precoce, poluição ambiental na comunidade, emagrecimento e fibrose cística...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'tabagismo passivo, asma crônica, obesidade e falta de saneamento básico...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'obesidade central, tabagismo, exposição ambiental e hipertensão arterial 840 Ano: 201...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   }
 ]

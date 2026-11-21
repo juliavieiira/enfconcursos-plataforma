@@ -1,0 +1,54 @@
+[
+  {
+    "codigo_origem": "Q1953171",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Pontes e Lacerda - MT",
+    "ano": 2022,
+    "prova": "SELECON - 2022 - Prefeitura de Pontes e Lacerda - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Pesquisa em Enfermagem",
+    "enunciado": "Segundo Avedis Donabedian, um importante nome da área médica, a qualidade em saúde é um tipo de atenção que maximiza o bem-estar do paciente para alcançar o resultado esperado. Para o pesquisador, a qualidade envolve a seguinte tríade:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "resultados, tarefas e diagrama direcionador"
+      },
+      {
+        "id": "B",
+        "texto": "arquitetura, diretrizes e complacência"
+      },
+      {
+        "id": "C",
+        "texto": "estrutura, resiliência e resultado"
+      },
+      {
+        "id": "D",
+        "texto": "estrutura, processo e resultado"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0716",
+    "numero_ordem": 716,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'resultados, tarefas e diagrama direcionador...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'arquitetura, diretrizes e complacência...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'estrutura, resiliência e resultado...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'estrutura, processo e resultado...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
+  }
+]

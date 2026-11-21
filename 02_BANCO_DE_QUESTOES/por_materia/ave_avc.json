@@ -30,21 +30,125 @@
     "resposta_correta": "D",
     "id": "EF0016",
     "numero_ordem": 16,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [D] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: 'internação em unidade de AVC deve ocorrer em até 4 horas da apresentação, com tomografia realizada na primeira hora'.",
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [D] ('internação em unidade de AVC deve ocorrer em até 4 horas da apresentação, com tomografia realizada na primeira hora') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tomografia computadorizada de crânio deve ser realizada em até 4 horas da chegada ao hospi...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'tomografia computadorizada de crânio deve ser realizada em até 4 horas da chegada ao ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'oxigenoterapia está indicada para todos os pacientes, independentemente da saturação perif...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'oxigenoterapia está indicada para todos os pacientes, independentemente da saturação ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'trombólise intravenosa está contraindicada em pacientes com mais de 80 anos, independentem...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'trombólise intravenosa está contraindicada em pacientes com mais de 80 anos, independ...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [D] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: 'internaçã..."
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
+  },
+  {
+    "codigo_origem": "Q2342291",
+    "banca": "SELECON",
+    "orgao": "Empresa Cuiabana de Saúde Pública - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Empresa Cuiabana de Saúde",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "AVE / AVC , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "Pública - MT - Técnico em Enfermagem OAcidenteVascularCerebral(AVC)éumadasmaiorescausas de morte e incapacidade adquirida em todo o mundo. É muito importante que o técnico de enfermagem saiba o monitoramento dos parâmetros fisiológicos no AVC isquêmico, sobretudo a pressão arterial, nos pacientes candidatos à trombólise ou póstrombólise. Nesse caso, a pressão arterial desses pacientes deve ser controlada com anti-hipertensivo endovenoso e mantida em:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "> 160/100 mmHg e tentar manter pressão arterial diastólica preferencialmente > 160 mmHg"
+      },
+      {
+        "id": "B",
+        "texto": "> 180/105 mmHg e tentar manter pressão arterial sistólica preferencialmente > 140 mmHg"
+      },
+      {
+        "id": "C",
+        "texto": "< 180/105 mmHg e tentar manter pressão arterial sistólica preferencialmente > 160 mmHg"
+      },
+      {
+        "id": "D",
+        "texto": "< 150/110 mmHg e tentar manter pressão arterial sistólica preferencialmente < 140 mmHg 555 Ano: 2023 Enfermagem > Urgência e emergência , Processo de Enfermagem e Sistematização da Assistência de Enfermagem , APH-Atendimento Pré-Hospitalar Banca: SELECON Órgão: Empresa Cuiabana de Saúde Pública - MT Prova: SELECON - 2023 - Empresa Cuiabana de Saúde"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0554",
+    "numero_ordem": 554,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '> 160/100 mmHg e tentar manter pressão arterial diastólica preferencialmente > 160 mm...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '> 180/105 mmHg e tentar manter pressão arterial sistólica preferencialmente > 140 mmH...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '< 180/105 mmHg e tentar manter pressão arterial sistólica preferencialmente > 160 mmH...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '< 150/110 mmHg e tentar manter pressão arterial sistólica preferencialmente < 140 mmH...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
+  },
+  {
+    "codigo_origem": "Q2297120",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Campo Verde - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Campo Verde - MT - Técnico",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "AVE / AVC , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "em Enfermagem OAVC (acidente vascular cerebral) é caracterizado por início súbito de sinais e sintomas neurológicos persistentes, como:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "sialorreia, febre e taquicardia"
+      },
+      {
+        "id": "B",
+        "texto": "plegia ou paresia facial súbita, cefaleia e disfasia"
+      },
+      {
+        "id": "C",
+        "texto": "alteração do nível de consciência, síncope e diarreia"
+      },
+      {
+        "id": "D",
+        "texto": "insuficiência respiratória, aumento da pressão arterial e hiperglicemia 632 Ano: 2023"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0631",
+    "numero_ordem": 631,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'sialorreia, febre e taquicardia...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'plegia ou paresia facial súbita, cefaleia e disfasia...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'alteração do nível de consciência, síncope e diarreia...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'insuficiência respiratória, aumento da pressão arterial e hiperglicemia 632 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   }
 ]

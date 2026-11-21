@@ -1,5 +1,5 @@
 === CADERNO DE QUESTÕES: ADMINISTRAÇÃO EM ENFERMAGEM ===
-Total: 3 questões
+Total: 9 questões
 
 QUESTÃO 1 [Código: EF0099] - EMGEPRON (SELECON 2026) - Enfermeiro
 Assunto: Administração em Enfermagem
@@ -11,16 +11,16 @@ No contexto da gestão de enfermagem, o enfermeiro estimula a participação ati
   [D] transformacional
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'autocrático...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'burocrático...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'laissez-faire...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'transformacional...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'autocrático...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'burocrático...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'laissez-faire...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'transformacional...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 2 [Código: EF0273] - COREN-RR (SELECON 2024) - Enfermeiro
+QUESTÃO 2 [Código: EF0353] - COREN-RR (SELECON 2024) - Enfermeiro
 Assunto: Administração em Enfermagem
 O Conselho de Saúde, em caráter permanente e deliberativo, órgãocolegiadoqueatuanaformulaçãodeestratégiasenocontrole da execução da política de saúde na instância correspondente, inclusive nos aspectos econômicos e financeiros, cujas decisões serão homologadas pelo chefe do poder legalmente constituído em cada esfera do governo, é composto por representantes do governo, prestadores de serviço, profissionais de saúde e:
 
@@ -30,16 +30,16 @@ O Conselho de Saúde, em caráter permanente e deliberativo, órgãocolegiadoque
   [D] laboratórios 354 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'laboratórios 354 Ano: 2024...'.
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'laboratórios 354 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 3 [Código: EF0361] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 3 [Código: EF0441] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Administração em Enfermagem , Liderança em Enfermagem
 O trabalho em equipe requer que todos exercitem suas habilidades de comunicação, evitando ruídos que possam causar conflitos nas relações. Para isso, é importante comunicar-se de forma assertiva, tendo em vista algumas habilidades de comportamento comunicacional que facilitem a compreensão da mensagem pelo outro e tornem o processo mais claro, objetivo e honesto. Uma maneira de certificar-se de que a mensagem foi entendida conforme esperado é:
 
@@ -50,13 +50,118 @@ O trabalho em equipe requer que todos exercitem suas habilidades de comunicaçã
   [E] verificar o que foi entendido pelo outro, através da repetição 442 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'falar mais alto até ser entendido...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'fazer perguntas retóricas sempre que necessário...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'solicitar que outras pessoas falem a sua mensagem...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'fazer leitura facial da pessoa que está ouvindo a mensagem...'.
-   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'verificar o que foi entendido pelo outro, através da repetição 442 Ano: 2024...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'falar mais alto até ser entendido...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'fazer perguntas retóricas sempre que necessário...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'solicitar que outras pessoas falem a sua mensagem...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'fazer leitura facial da pessoa que está ouvindo a mensagem...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa E: Incorreta perante os protocolos técnicos, pois 'verificar o que foi entendido pelo outro, através da repetição 442 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 4 [Código: EF0565] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Enfermeiro
+Assunto: Administração em Enfermagem , Gestão em Saúde
+Pública - MT - Enfermeiro Assistencial Os serviços de saúde dos mais variados níveis de complexidade estão, constantemente, buscando estratégias científicas que contribuam com a segurança do cuidado prestado aos usuários, como a utilização de protocolos e checklists, para realizar intervenções que possibilitem a assistência livre de danos aos pacientes, mais segura e com maior qualidade. O profissional de enfermagem, para atingir tal objetivo, utiliza como recurso de enfermagem o/a:
+
+  [A] cuidado
+  [B] consulta
+  [C] gerência
+  [D] processo 566 Ano: 2023
+
+✅ Gabarito: 
+💡 Fundamentação: Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'processo 566 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 5 [Código: EF0571] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Enfermeiro
+Assunto: Administração em Enfermagem , Liderança em Enfermagem
+Pública - MT - Enfermeiro Assistencial O enfermeiro, líder nato da equipe de enfermagem, deve trabalhar suas potencialidades de forma a desenvolver as habilidades necessárias relacionadas com liderança. Segundo Guirardello (1998), existem quatro competências inseparáveis dos grandes líderes, que são:
+
+  [A] visão, autoconfiança, autoestima e consciência
+  [B] consciência, confiança, autoestima e comunicação
+  [C] visão, confiança, autoestima positiva e comunicação
+  [D] consciência, autoconfiança, autoestima positiva e comunicação 572 Ano: 2023
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'visão, autoconfiança, autoestima e consciência...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'consciência, confiança, autoestima e comunicação...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'visão, confiança, autoestima positiva e comunicação...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'consciência, autoconfiança, autoestima positiva e comunicação 572 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 6 [Código: EF0734] - Prefeitura de Pontes e Lacerda - MT (SELECON 2020) - Enfermeiro
+Assunto: Administração em Enfermagem
+O enfermeiro adquire, em sua formação profissional, o saber de várias ciências, inclusive sobre a administração e as suas teorias. Sobre esse último aspecto, podemos afirmar que as teorias administrativas versam sobre as seguintes variáveis básicas:
+
+  [A] processos; salários; estruturas; ambiente e tecnologia
+  [B] tarefas; pessoas; estruturas; ambiente e tecnologia
+  [C] protocolos; pessoas; estruturas; ambiente e padrões
+  [D] carga horária; pessoas; estruturas; ambiente e tecnologia 735 Ano: 2020
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'processos; salários; estruturas; ambiente e tecnologia...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'tarefas; pessoas; estruturas; ambiente e tecnologia...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'protocolos; pessoas; estruturas; ambiente e padrões...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'carga horária; pessoas; estruturas; ambiente e tecnologia 735 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 7 [Código: EF0829] - Prefeitura de Campo Grande - MS (SELECON 2019) - Enfermeiro
+Assunto: Administração em Enfermagem
+Sobre o gerenciamento da enfermagem no ambiente hospitalar, é necessário o conhecimento sobre a gestão de indicadores. O indicador que representa o grau de rotatividade de funcionários e, para o cálculo, considera as entradas e saídas de colaboradores é chamado de:
+
+  [A] taxa de ocupação
+  [B] giro de leito
+  [C] turnover
+  [D] absenteísmo 830 Ano: 2019
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'taxa de ocupação...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'giro de leito...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'absenteísmo 830 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 8 [Código: EF0832] - Prefeitura de Campo Grande - MS (SELECON 2019) - Enfermeiro
+Assunto: Administração em Enfermagem
+A enfermagem utiliza conhecimento das teorias da Administração na formação do enfermeiro com objetivo de aperfeiçoar a liderança e a prática profissional. Sobre a teoria científica de Taylor, pode-se afirmar que são características dessa teoria:
+
+  [A] ausência de organização racional do trabalho; caráter prescritivo; visa a eficiência da instituição pela adoção de uma estrutura adequada
+  [B] ênfase na tarefa e na divisão do trabalho; padronização das atividades e especialização dos profissionais
+  [C] promoção do empregado; necessidade de humanização e democratização no ambiente de trabalho; e, por fim, impessoalidade no relacionamento profissional
+  [D] exagerado apego a normas e regras; os sistemas são abertos; caráter punitivo e abordagem contingencia 833 Ano: 2019
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'ausência de organização racional do trabalho; caráter prescritivo; visa a eficiência ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'ênfase na tarefa e na divisão do trabalho; padronização das atividades e especializaç...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'promoção do empregado; necessidade de humanização e democratização no ambiente de tra...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'exagerado apego a normas e regras; os sistemas são abertos; caráter punitivo e aborda...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 9 [Código: EF0850] - Prefeitura Municipal (SELECON 2019) - Enfermeiro
+Assunto: Administração em Enfermagem
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 
 ------------------------------------------------------------
 

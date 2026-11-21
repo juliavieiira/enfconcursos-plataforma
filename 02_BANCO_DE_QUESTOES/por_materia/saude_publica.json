@@ -30,22 +30,22 @@
     "resposta_correta": "A",
     "id": "EF0020",
     "numero_ordem": 20,
-    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [A] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [A] ('criação de capítulo exclusivo para a Unidade Móvel de Vacinação, definida como veículo adaptado para funcionar como sala de vacinação itinerante') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'padronização da temperatura de armazenamento de todas as vacinas na faixa de 2 °C a 8 °C, ...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'padronização da temperatura de armazenamento de todas as vacinas na faixa de 2 °C a 8...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'substituição do uso de câmaras refrigeradas por freezers domésticos, desde que submetidos ...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'substituição do uso de câmaras refrigeradas por freezers domésticos, desde que submet...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'supressão do uso de sistemas de informação na gestão da Rede de Frio, em favor de planilha...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'supressão do uso de sistemas de informação na gestão da Rede de Frio, em favor de pla...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
+    "comentario": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativ..."
   },
   {
     "codigo_origem": "Q4369111",
@@ -78,26 +78,26 @@
     "resposta_correta": "",
     "id": "EF0021",
     "numero_ordem": 21,
-    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'extinção da lista de imunobiológicos especiais, que passou a ser definida caso a caso pelo...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'extinção da lista de imunobiológicos especiais, que passou a ser definida caso a caso...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'lista dos CRIE em funcionamento no país, com informações para profissionais de saúde e usu...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'lista dos CRIE em funcionamento no país, com informações para profissionais de saúde ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'restrição do acesso aos CRIE a pacientes pediátricos, excluindo adultos e idosos do atendi...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'restrição do acesso aos CRIE a pacientes pediátricos, excluindo adultos e idosos do a...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'incorporação de vacinas de rotina ao escopo dos CRIE, uniformizando a oferta em todo o ter...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'incorporação de vacinas de rotina ao escopo dos CRIE, uniformizando a oferta em todo ...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
+    "comentario": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativ..."
   },
   {
     "codigo_origem": "Q4369108",
@@ -130,26 +130,26 @@
     "resposta_correta": "",
     "id": "EF0024",
     "numero_ordem": 24,
-    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aplicação de inseticidas de ação residual em áreas de alto risco, como estratégia de contr...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'aplicação de inseticidas de ação residual em áreas de alto risco, como estratégia de ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administração periódica de antiparasitários à população escolar, como medida de quimioprof...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'administração periódica de antiparasitários à população escolar, como medida de quimi...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'isolamento domiciliar dos indivíduos sintomáticos, como forma de contenção da transmissão...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'isolamento domiciliar dos indivíduos sintomáticos, como forma de contenção da transmi...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'implementação de medidas de saneamento básico no território, como intervenção sobre os det...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'implementação de medidas de saneamento básico no território, como intervenção sobre o...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
   },
   {
     "codigo_origem": "Q4336851",
@@ -182,26 +182,26 @@
     "resposta_correta": "",
     "id": "EF0031",
     "numero_ordem": 31,
-    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'hepatite B e BCG, sinalizando recuperação parcial após anos de queda nas coberturas vacina...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'hepatite B e BCG, sinalizando recuperação parcial após anos de queda nas coberturas v...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'pentavalente e pneumocócica 10-valente, com cobertura superior a 95% em todos os estados d...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'pentavalente e pneumocócica 10-valente, com cobertura superior a 95% em todos os esta...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tríplice viral e varicela, mantendo o país livre da circulação endêmica do sarampo e da ru...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'tríplice viral e varicela, mantendo o país livre da circulação endêmica do sarampo e ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'influenza e covid-19, em razão das campanhas nacionais de vacinação realizadas no primeiro...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'influenza e covid-19, em razão das campanhas nacionais de vacinação realizadas no pri...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
+    "comentario": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativ..."
   },
   {
     "codigo_origem": "Q3981921",
@@ -234,26 +234,26 @@
     "resposta_correta": "",
     "id": "EF0076",
     "numero_ordem": 76,
-    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'doença é compreendida como resultado exclusivo de alterações orgânicas, devendo as ações d...'."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'doença é compreendida como resultado exclusivo de alterações orgânicas, devendo ...'."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'adoecimento é explicado a partir de causas únicas e específicas, sendo o controle da doenç...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'adoecimento é explicado a partir de causas únicas e específicas, sendo o controle da ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ocorrência das doenças resulta da interação entre condições biológicas, ambientais, sociai...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'ocorrência das doenças resulta da interação entre condições biológicas, ambientais, s...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'processo saúde-doença é determinado apenas pelas condições econômicas e ambientais da popu...'."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'processo saúde-doença é determinado apenas pelas condições econômicas e ambienta...'."
       }
     ],
-    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
+    "comentario": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Partici..."
   },
   {
     "codigo_origem": "Q3974336",
@@ -286,858 +286,26 @@
     "resposta_correta": "",
     "id": "EF0097",
     "numero_ordem": 97,
-    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'educação em saúde participativa e emancipatória...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'educação em saúde participativa e emancipatória...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'biomédico tradicional...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'biomédico tradicional...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'educação bancária...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'educação bancária...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'hospitalocêntrico...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'hospitalocêntrico...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
-  },
-  {
-    "codigo_origem": "Q3742708",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Marcelândia - MT",
-    "ano": 2025,
-    "prova": "SELECON - 2025 - Prefeitura de Marcelândia - MT -",
-    "cargo": "Enfermeiro",
-    "materia": "Enfermagem",
-    "assunto": "Saúde Pública , Doenças Crônicas Não Transmissíveis",
-    "enunciado": "As Doenças e Agravos Não Transmissíveis (DANTs) representam um desafio significativo para a saúde pública global. Uma característica fundamental que as distingue das doenças transmissíveis é a sua natureza:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "infecciosa e de rápida disseminação"
-      },
-      {
-        "id": "B",
-        "texto": "aguda e de origem bacteriana"
-      },
-      {
-        "id": "C",
-        "texto": "endêmica e de fácil erradicação"
-      },
-      {
-        "id": "D",
-        "texto": "crônica e multifatorial 189 Ano: 2025"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0108",
-    "numero_ordem": 108,
-    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'infecciosa e de rápida disseminação...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aguda e de origem bacteriana...'."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'endêmica e de fácil erradicação...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'crônica e multifatorial 189 Ano: 2025...'."
-      }
-    ],
-    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
-  },
-  {
-    "codigo_origem": "Q3742705",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Marcelândia - MT",
-    "ano": 2025,
-    "prova": "SELECON - 2025 - Prefeitura de Marcelândia - MT -",
-    "cargo": "Enfermeiro",
-    "materia": "Enfermagem",
-    "assunto": "Saúde Pública , Promoção da Saúde , Atenção Básica e Saúde da Família",
-    "enunciado": "A educação em saúde é uma ferramenta estratégica na Atenção Primária à Saúde (APS), sendo uma das competências essenciais do enfermeiro para empoderar indivíduos e comunidades na gestão de sua própria saúde. Para que as ações educativas sejam eficazes e promovam mudanças de comportamento duradouras, é fundamental que o enfermeiro utilize abordagens pedagógicas que considerem o contexto sociocultural e as necessidades específicas da população. Uma prática educativa que reflete os princípios da APS e a atuação do enfermeiro é:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "o desenvolvimento de atividades participativas que estimulem a reflexão crítica e a construção coletiva do conhecimento"
-      },
-      {
-        "id": "B",
-        "texto": "a transmissão unilateral de informações técnicas complexas, sem espaço para diálogo"
-      },
-      {
-        "id": "C",
-        "texto": "a imposição de condutas e hábitos saudáveis, desconsiderando a autonomia do indivíduo"
-      },
-      {
-        "id": "D",
-        "texto": "a delegação exclusiva da responsabilidade pela educação em saúde aos agentes comunitários de saúde 192 Ano: 2025"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0111",
-    "numero_ordem": 111,
-    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o desenvolvimento de atividades participativas que estimulem a reflexão crítica e a constr...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a transmissão unilateral de informações técnicas complexas, sem espaço para diálogo...'."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a imposição de condutas e hábitos saudáveis, desconsiderando a autonomia do indivíduo...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a delegação exclusiva da responsabilidade pela educação em saúde aos agentes comunitários ...'."
-      }
-    ],
-    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
-  },
-  {
-    "codigo_origem": "Q3742704",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Marcelândia - MT",
-    "ano": 2025,
-    "prova": "SELECON - 2025 - Prefeitura de Marcelândia - MT -",
-    "cargo": "Enfermeiro",
-    "materia": "Enfermagem",
-    "assunto": "Saúde Pública , Atenção Básica e Saúde da Família",
-    "enunciado": "A atuação do enfermeiro na Atenção Primária à Saúde (APS) é fundamental para a integralidade do cuidado, abrangendo diversas dimensões da saúde do indivíduo e da comunidade. Nesse contexto, uma das principais responsabilidades do enfermeiro é a coordenação do cuidado, que se manifesta por meio de ações que visam garantir a continuidade e a articulação entre os diferentes pontos da rede de atenção à saúde, promovendo a longitudinalidade e a resolutividade. Considerando a complexidade e a abrangência da APS, a coordenação do cuidado exercida pelo enfermeiro envolve prioritariamente:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "a realização exclusiva de procedimentos de alta complexidade em unidades de pronto atendimento"
-      },
-      {
-        "id": "B",
-        "texto": "o encaminhamento de todos os casos para especialistas, sem intervenção prévia na unidade básica"
-      },
-      {
-        "id": "C",
-        "texto": "a articulação entre os serviços de saúde, a gestão de casos e o acompanhamento dos usuários ao longo do tempo"
-      },
-      {
-        "id": "D",
-        "texto": "a prescrição de medicamentos de uso contínuo para todas as condições crônicas sem avaliação médica 193 Ano: 2025"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0112",
-    "numero_ordem": 112,
-    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a realização exclusiva de procedimentos de alta complexidade em unidades de pronto atendim...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o encaminhamento de todos os casos para especialistas, sem intervenção prévia na unidade b...'."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a articulação entre os serviços de saúde, a gestão de casos e o acompanhamento dos usuário...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a prescrição de medicamentos de uso contínuo para todas as condições crônicas sem avaliaçã...'."
-      }
-    ],
-    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
-  },
-  {
-    "codigo_origem": "Q3742303",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Marcelândia - MT",
-    "ano": 2025,
-    "prova": "SELECON - 2025 - Prefeitura de Marcelândia - MT - Técnico",
-    "cargo": "Técnico de Enfermagem",
-    "materia": "Enfermagem",
-    "assunto": "Saúde Pública , Epidemiologia e Vigilância Epidemiológica",
-    "enunciado": "em Enfermagem Durante o plantão noturno, um técnico de enfermagem observa que uma colega de equipe está visivelmente sonolenta e com dificuldade de realizar os procedimentos com segurança. Ao conversar, a colega relata estar fazendo jornadas duplas há vários dias para complementar a renda e pede que o colega a ajude a encobrir uma medicação que ela esqueceu de administrar em um paciente, checando a administração do medicamento na prescrição. O técnico de enfermagem se vê diante de um dilema: manter a harmonia da equipe e aceitar o pedido, ou recusar a solicitação, comunicando o ocorrido ao enfermeiro responsável. De acordo com o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), a conduta ética correta do técnico de enfermagem é:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "atender ao pedido da colega, considerando que a falta de administração deste medicamento não trouxe prejuízo imediato ao paciente"
-      },
-      {
-        "id": "B",
-        "texto": "recusar-se a falsificar o registro e comunicar o fato ao enfermeiro responsável, garantindo a veracidade das informações"
-      },
-      {
-        "id": "C",
-        "texto": "registrar o ocorrido apenas no plantão seguinte, para evitar constrangimento à colega de equipe e ter tempo de certificar-se que não houve agravo ao paciente"
-      },
-      {
-        "id": "D",
-        "texto": "tentar resolver o problema apenas entre os técnicos de enfermagem da equipe, sem envolver o enfermeiro, pois tratase de uma responsabilidade deles 195 Ano: 2025"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0114",
-    "numero_ordem": 114,
-    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'atender ao pedido da colega, considerando que a falta de administração deste medicamento n...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'recusar-se a falsificar o registro e comunicar o fato ao enfermeiro responsável, garantind...'."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'registrar o ocorrido apenas no plantão seguinte, para evitar constrangimento à colega de e...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tentar resolver o problema apenas entre os técnicos de enfermagem da equipe, sem envolver ...'."
-      }
-    ],
-    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
-  },
-  {
-    "codigo_origem": "Q3615483",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Tapurah - MT",
-    "ano": 2025,
-    "prova": "SELECON - 2025 - Prefeitura de Tapurah - MT - Técnico em",
-    "cargo": "Técnico de Enfermagem",
-    "materia": "Enfermagem",
-    "assunto": "Saúde Pública , Atenção Básica e Saúde da Família",
-    "enunciado": "Enfermagem Durante uma roda de conversa educativa na unidade básica de saúde, um adolescente de 17 anos relata, em sigilo ao técnico de enfermagem, que está com ferida indolor na região genital há cerca de uma semana, mas tem vergonha de contar aos pais e teme julgamento. Diante da situação, considerando o papel do técnico de enfermagem na abordagem de infecções sexualmente transmissíveis (IST), é correto afirmar que:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "o técnico de enfermagem deve aguardar que o paciente traga um responsável para orientações sobre IST"
-      },
-      {
-        "id": "B",
-        "texto": "a escuta qualificada e o sigilo devem ser garantidos, orientando-o e encaminhando-o para avaliação com a equipe"
-      },
-      {
-        "id": "C",
-        "texto": "não se deve falar de IST com menores de 18 anos sem autorização formal dos pais ou responsáveis"
-      },
-      {
-        "id": "D",
-        "texto": "o técnico de enfermagem deve apenas registrar o relato e repassar ao enfermeiro, sem orientar o paciente"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0138",
-    "numero_ordem": 138,
-    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o técnico de enfermagem deve aguardar que o paciente traga um responsável para orientações...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a escuta qualificada e o sigilo devem ser garantidos, orientando-o e encaminhando-o para a...'."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'não se deve falar de IST com menores de 18 anos sem autorização formal dos pais ou respons...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o técnico de enfermagem deve apenas registrar o relato e repassar ao enfermeiro, sem orien...'."
-      }
-    ],
-    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
-  },
-  {
-    "codigo_origem": "Q3615471",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Tapurah - MT",
-    "ano": 2025,
-    "prova": "SELECON - 2025 - Prefeitura de Tapurah - MT - Técnico em",
-    "cargo": "Técnico de Enfermagem",
-    "materia": "Enfermagem",
-    "assunto": "Saúde Pública , Epidemiologia e Vigilância Epidemiológica , Legislação em Saúde",
-    "enunciado": "Enfermagem Uma técnica de enfermagem em uma Unidade Básica de Saúde (UBS) atende um paciente de 25 anos com febre alta, cefaleia intensa, rigidez de nuca e vômitos há 24 horas. A suspeita diagnóstica levantada pela equipe é de meningite meningocócica. Por se tratar de uma situação que se baseia na vigilância epidemiológica e na legislação sanitária brasileira, a equipe deve:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "realizar a notificação compulsória apenas após confirmação laboratorial do caso"
-      },
-      {
-        "id": "B",
-        "texto": "aguardar a evolução clínica para registrar no sistema de notificação, pois a suspeita não é o suficiente"
-      },
-      {
-        "id": "C",
-        "texto": "realizar notificação compulsória imediata, devendo ser comunicada em até 24 horas após a suspeita"
-      },
-      {
-        "id": "D",
-        "texto": "aguardar, pois a notificação compulsória é de responsabilidade exclusiva do médico, não cabendo ao técnico de enfermagem qualquer ação"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0149",
-    "numero_ordem": 149,
-    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar a notificação compulsória apenas após confirmação laboratorial do caso...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aguardar a evolução clínica para registrar no sistema de notificação, pois a suspeita não ...'."
-      },
-      {
-        "letra": "C",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aguardar, pois a notificação compulsória é de responsabilidade exclusiva do médico, não ca...'."
-      }
-    ],
-    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
-  },
-  {
-    "codigo_origem": "Q3615470",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Tapurah - MT",
-    "ano": 2025,
-    "prova": "SELECON - 2025 - Prefeitura de Tapurah - MT - Técnico em",
-    "cargo": "Técnico de Enfermagem",
-    "materia": "Enfermagem",
-    "assunto": "Saúde Pública , Doenças Infecciosas e parasitárias",
-    "enunciado": "Enfermagem A hanseníase é uma doença infectocontagiosa que afeta principalmente a pele e os nervos periféricos. Sobre essa doença, é coerente afirmar que:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "o diagnóstico é feito exclusivamente por exame laboratorial, sendo o exame clínico pouco relevante"
-      },
-      {
-        "id": "B",
-        "texto": "a forma multibacilar da hanseníase apresenta maior carga bacilar e risco aumentado de transmissão"
-      },
-      {
-        "id": "C",
-        "texto": "o tratamento da hanseníase é feito apenas com corticoterapia para controlar as reações inflamatórias"
-      },
-      {
-        "id": "D",
-        "texto": "a transmissão da hanseníase ocorre principalmente por contato com lesões cutâneas abertas e secreções purulentas 231 Ano: 2025"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0150",
-    "numero_ordem": 150,
-    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a forma multibacilar da hanseníase apresenta maior carga bacilar e risco aumentado de tran...'."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o tratamento da hanseníase é feito apenas com corticoterapia para controlar as reações inf...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a transmissão da hanseníase ocorre principalmente por contato com lesões cutâneas abertas ...'."
-      }
-    ],
-    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
-  },
-  {
-    "codigo_origem": "Q3287497",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de São José dos Quatro Marcos - MT",
-    "ano": 2024,
-    "prova": "SELECON - 2025 - Prefeitura de São José dos",
-    "cargo": "Técnico de Enfermagem",
-    "materia": "Enfermagem",
-    "assunto": "Saúde Pública , Saúde da Criança e do Adolescente , Promoção da Saúde Aleitamento Materno",
-    "enunciado": "Quatro Marcos - MT - Técnico em Enfermagem A Política Nacional de Promoção ao Aleitamento Materno tem como objetivo garantir e promover a prática do aleitamento materno exclusivo nos primeiros seis meses de vida, visando a benefícios para a saúde da criança e da mãe. A alternativa que melhor descreve a principal diretriz dessa política é:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "a política assegura que o aleitamento materno exclusivo seja recomendado até os 6 meses de vida da criança, com a introdução de alimentos complementares a partir dos 6 meses e o aleitamento materno continuado até os dois anos ou mais"
-      },
-      {
-        "id": "B",
-        "texto": "a política não especifica o tempo de aleitamento materno exclusivo e orienta que a criança seja alimentada exclusivamente com leite artificial após o primeiro mês de vida"
-      },
-      {
-        "id": "C",
-        "texto": "a política promove o aleitamento materno exclusivo apenas para crianças com até três meses de vida, recomendando a introdução de outros alimentos a partir dessa idade"
-      },
-      {
-        "id": "D",
-        "texto": "a política permite que o aleitamento materno exclusivo seja interrompido a partir do primeiro mês de vida, com a inclusão de sucos e chás"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0160",
-    "numero_ordem": 160,
-    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a política assegura que o aleitamento materno exclusivo seja recomendado até os 6 meses de...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a política promove o aleitamento materno exclusivo apenas para crianças com até três meses...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a política permite que o aleitamento materno exclusivo seja interrompido a partir do prime...'."
-      }
-    ],
-    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
-  },
-  {
-    "codigo_origem": "Q3287489",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de São José dos Quatro Marcos - MT",
-    "ano": 2025,
-    "prova": "SELECON - 2025 - Prefeitura de São José dos",
-    "cargo": "Técnico de Enfermagem",
-    "materia": "Enfermagem",
-    "assunto": "Saúde Pública , Atenção Básica e Saúde da Família",
-    "enunciado": "Quatro Marcos - MT - Técnico em Enfermagem Segundo a Política Nacional de Atenção Básica (PNAB) de 2017, as atribuições do técnico de enfermagem na Estratégia Saúde da Família (ESF) são:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "coordenar as visitas domiciliares e elabora o plano de cuidado, atuando de forma independente dos outros membros da equipe"
-      },
-      {
-        "id": "B",
-        "texto": "integrar a equipe, realizando atividades como educação em saúde, orientação às famílias e apoio às ações de promoção e prevenção, sob supervisão do enfermeiro"
-      },
-      {
-        "id": "C",
-        "texto": "atuar no atendimento curativo e na administração de medicamentos, com foco apenas na recuperação do paciente"
-      },
-      {
-        "id": "D",
-        "texto": "responsabilizar-se pela execução de atividades complexas, como prescrição médica e diagnóstico de enfermagem, com total autonomia 249 Ano: 2025"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0168",
-    "numero_ordem": 168,
-    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'coordenar as visitas domiciliares e elabora o plano de cuidado, atuando de forma independe...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'integrar a equipe, realizando atividades como educação em saúde, orientação às famílias e ...'."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'atuar no atendimento curativo e na administração de medicamentos, com foco apenas na recup...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'responsabilizar-se pela execução de atividades complexas, como prescrição médica e diagnós...'."
-      }
-    ],
-    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
-  },
-  {
-    "codigo_origem": "Q3265155",
-    "banca": "SELECON",
-    "orgao": "HEMOMINAS",
-    "ano": 2025,
-    "prova": "SELECON - 2025 - HEMOMINAS - Analista de Hematologia e Hemoterapia -",
-    "cargo": "Enfermeiro",
-    "materia": "Enfermagem",
-    "assunto": "Saúde Pública , Atenção Básica e Saúde da Família",
-    "enunciado": "ANHH - Nível I - Grau A - Enfermeiro A organização dos serviços de enfermagem em diferentes níveis de atenção à saúde é fundamental para garantir o cuidado integral, equitativo e eficiente à população. Sobre essa temática, é certo dizer que:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "o cuidado primário concentra-se exclusivamente em intervenções curativas voltadas às emergências"
-      },
-      {
-        "id": "B",
-        "texto": "os serviços de enfermagem em atenção primária buscam a promoção da saúde, prevenção de agravos e acompanhamento longitudinal"
-      },
-      {
-        "id": "C",
-        "texto": "a enfermagem em atenção terciária não participa do gerenciamento das condições clínicas, atuando apenas na reabilitação"
-      },
-      {
-        "id": "D",
-        "texto": "a organização dos serviços de enfermagem limita-se à execução de tarefas operacionais, sem envolvimento no planejamento estratégico 268 Ano: 2025"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0187",
-    "numero_ordem": 187,
-    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'os serviços de enfermagem em atenção primária buscam a promoção da saúde, prevenção de agr...'."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a enfermagem em atenção terciária não participa do gerenciamento das condições clínicas, a...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a organização dos serviços de enfermagem limita-se à execução de tarefas operacionais, sem...'."
-      }
-    ],
-    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
-  },
-  {
-    "codigo_origem": "Q3265150",
-    "banca": "SELECON",
-    "orgao": "HEMOMINAS",
-    "ano": 2024,
-    "prova": "SELECON - 2025 - HEMOMINAS - Analista de Hematologia e Hemoterapia -",
-    "cargo": "Enfermeiro",
-    "materia": "Enfermagem",
-    "assunto": "Saúde Pública , Infecção Hospitalar",
-    "enunciado": "ANHH - Nível I - Grau A - Enfermeiro A resistência bacteriana aos antimicrobianos representa um grave problema de saúde pública. Das seguintes estratégias, a que se mostra mais relevante para o uso racional de antibióticos em ambientes hospitalares é a:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "prescrição de antibióticos de amplo espectro em todas as infecções suspeitas"
-      },
-      {
-        "id": "B",
-        "texto": "utilização de antibióticos de última geração em todas as infecções"
-      },
-      {
-        "id": "C",
-        "texto": "realização de culturas e testes de sensibilidade aos antibióticos antes do início da terapia"
-      },
-      {
-        "id": "D",
-        "texto": "administração profilática de antibióticos em todos os pacientes internados"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0192",
-    "numero_ordem": 192,
-    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'prescrição de antibióticos de amplo espectro em todas as infecções suspeitas...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilização de antibióticos de última geração em todas as infecções...'."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realização de culturas e testes de sensibilidade aos antibióticos antes do início da terap...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administração profilática de antibióticos em todos os pacientes internados...'."
-      }
-    ],
-    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
-  },
-  {
-    "codigo_origem": "Q2496155",
-    "banca": "SELECON",
-    "orgao": "COREN-RR",
-    "ano": 2024,
-    "prova": "SELECON - 2024 - COREN-RR - Analista Administrativo - Enfermeiro Fiscal",
-    "cargo": "Enfermeiro",
-    "materia": "Enfermagem",
-    "assunto": "Saúde Pública",
-    "enunciado": "Uma das atividades de profissionais de saúde ou responsáveis pelos estabelecimentos de saúde públicos ou privados é a notificação compulsória que é a comunicação obrigatória à autoridade de saúde sobre a ocorrência de suspeita ou confirmação de doença, agravo ou evento de saúde pública previsto em Lei, podendo ser imediata ou semanal. Uma patologia que deve ser notificada é a:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "fibromialgia"
-      },
-      {
-        "id": "B",
-        "texto": "fibrose cística"
-      },
-      {
-        "id": "C",
-        "texto": "doença de cronh"
-      },
-      {
-        "id": "D",
-        "texto": "doença de Creutzfeldt-Jakob 365 Ano: 2024"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0284",
-    "numero_ordem": 284,
-    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'fibromialgia...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'fibrose cística...'."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'doença de cronh...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'doença de Creutzfeldt-Jakob 365 Ano: 2024...'."
-      }
-    ],
-    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
-  },
-  {
-    "codigo_origem": "Q2496151",
-    "banca": "SELECON",
-    "orgao": "COREN-RR",
-    "ano": 2024,
-    "prova": "SELECON - 2024 - COREN-RR - Analista Administrativo - Enfermeiro Fiscal",
-    "cargo": "Enfermeiro",
-    "materia": "Enfermagem",
-    "assunto": "Saúde Pública",
-    "enunciado": "A definição “atividades da área da saúde coletiva que se destina, por meio das ações de vigilância epidemiológica e sanitária, à promoção e proteção da saúde de trabalhadores, assim como visa à recuperação e reabilitação da saúde” refere-se à:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "saúde coletiva"
-      },
-      {
-        "id": "B",
-        "texto": "saúde pública"
-      },
-      {
-        "id": "C",
-        "texto": "saúde sanitária"
-      },
-      {
-        "id": "D",
-        "texto": "saúde do trabalhador 367 Ano: 2024"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0286",
-    "numero_ordem": 286,
-    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'saúde coletiva...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'saúde pública...'."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'saúde sanitária...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'saúde do trabalhador 367 Ano: 2024...'."
-      }
-    ],
-    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
-  },
-  {
-    "codigo_origem": "Q2467596",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Água Boa - MT",
-    "ano": 2024,
-    "prova": "SELECON - 2024 - Prefeitura de Água Boa - MT - Técnico em",
-    "cargo": "Técnico de Enfermagem",
-    "materia": "Enfermagem",
-    "assunto": "Saúde Pública",
-    "enunciado": "Enfermagem A vigilância que visa conhecer, detectar ou prevenir qualquer mudança nos fatores determinantes e condicionantes do ambiente que interferem na saúde humana; recomendar e adotar medidas de prevenção e controle dos fatores de risco, relacionados às doenças e a outros agravos à saúde, prioritariamente, a vigilância da qualidade da água para consumo humano, ar e solo; e também prevenir desastres de origem natural ou provocados por substâncias químicas, por acidentes com produtos perigosos, por fatores físicos ou ainda no ambiente de trabalho, denomina-se:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "saúde do trabalhador"
-      },
-      {
-        "id": "B",
-        "texto": "situação de saúde"
-      },
-      {
-        "id": "C",
-        "texto": "saúde ambiental"
-      },
-      {
-        "id": "D",
-        "texto": "epidemiológica"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0375",
-    "numero_ordem": 375,
-    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'saúde do trabalhador...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'situação de saúde...'."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'saúde ambiental...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'epidemiológica...'."
-      }
-    ],
-    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
-  },
-  {
-    "codigo_origem": "Q2454922",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Sapezal - MT",
-    "ano": 2024,
-    "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Técnico em",
-    "cargo": "Técnico de Enfermagem",
-    "materia": "Enfermagem",
-    "assunto": "Saúde Pública",
-    "enunciado": "Enfermagem Os artigos de múltiplos uso em estabelecimentos de saúde podem se tornar veículos de agentes infecciosos, se não sofrerem processos de descontaminação após cada uso. Os locais onde esses artigos são processados e as pessoas que os manuseiam também podem tornar-se fontes de infecção para hospedeiros suscetíveis. Os artigos destinados ao contato com a pele não íntegra ou com mucosas íntegras são chamados de:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "críticos"
-      },
-      {
-        "id": "B",
-        "texto": "não críticos"
-      },
-      {
-        "id": "C",
-        "texto": "semicríticos"
-      },
-      {
-        "id": "D",
-        "texto": "altamente críticos"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0412",
-    "numero_ordem": 412,
-    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'não críticos...'."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'semicríticos...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'altamente críticos...'."
-      }
-    ],
-    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
-  },
-  {
-    "codigo_origem": "Q2452995",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Sapezal - MT",
-    "ano": 2024,
-    "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Enfermeiro",
-    "cargo": "Enfermeiro",
-    "materia": "Enfermagem",
-    "assunto": "Saúde Pública",
-    "enunciado": "Os Indicadores de Saúde são medidas informativas representadas mediante proporções, índices, coeficientes ou taxas, que são utilizadas para descrever, analisar ou relacionar determinantes ao estado de saúde. Os fatores utilizados para a avaliar e classificar os referidos indicadores são:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "validade, fator patológico, aspectos éticos, amplitude"
-      },
-      {
-        "id": "B",
-        "texto": "confiabilidade, fator patológico, amplitude, aspectos éticos"
-      },
-      {
-        "id": "C",
-        "texto": "confiabilidade, cobertura, aspectos éticos e administrativos"
-      },
-      {
-        "id": "D",
-        "texto": "validade, confiabilidade, cobertura, aspectos éticos e administrativos 505 Ano: 2024"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0424",
-    "numero_ordem": 424,
-    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'validade, fator patológico, aspectos éticos, amplitude...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'confiabilidade, fator patológico, amplitude, aspectos éticos...'."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'confiabilidade, cobertura, aspectos éticos e administrativos...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'validade, confiabilidade, cobertura, aspectos éticos e administrativos 505 Ano: 2024...'."
-      }
-    ],
-    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   },
   {
     "codigo_origem": "Q3974330",
@@ -1168,28 +336,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0442",
-    "numero_ordem": 442,
-    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "id": "EF0102",
+    "numero_ordem": 102,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tal processo resulta da interação entre fatores biológicos, ambientais e sociais, que infl...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'tal processo resulta da interação entre fatores biológicos, ambientais e sociais, que...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o desenvolvimento da doença depende exclusivamente da virulência do agente etiol...'."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a resposta clínica ao agente infeccioso é determinada apenas por fatores genéticos individ...'."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a resposta clínica ao agente infeccioso é determinada apenas por fatores genétic...'."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a gravidade do agravo é uniforme entre indivíduos expostos ao mesmo agente 103 Ano: 2026...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a gravidade do agravo é uniforme entre indivíduos expostos ao mesmo agente 103 Ano: 2...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
   },
   {
     "codigo_origem": "Q3884663",
@@ -1220,28 +388,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0449",
-    "numero_ordem": 449,
-    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
+    "id": "EF0109",
+    "numero_ordem": 109,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'comunicar a equipe de enfermagem, reforçar a necessidade de retomada do acompanhamento, or...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'comunicar a equipe de enfermagem, reforçar a necessidade de retomada do acompanhament...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'iniciar esquema vacinal completo para hepatite C e dispensar acompanhamento clínico, desde...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'iniciar esquema vacinal completo para hepatite C e dispensar acompanhamento clínico, ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'orientar o usuário a aguardar a resolução espontânea dos sintomas, uma vez que a melhora c...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'orientar o usuário a aguardar a resolução espontânea dos sintomas, uma vez que a melh...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'restringir o atendimento até confirmação diagnóstica definitiva, evitando risco de transmi...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'restringir o atendimento até confirmação diagnóstica definitiva, evitando risco de tr...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
   },
   {
     "codigo_origem": "Q3884659",
@@ -1272,28 +440,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0452",
-    "numero_ordem": 452,
-    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
+    "id": "EF0112",
+    "numero_ordem": 112,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'retomar o tratamento a partir da última dose registrada, mantendo o esquema e o tempo tota...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'retomar o tratamento a partir da última dose registrada, mantendo o esquema e o tempo...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'reiniciar o tratamento desde o início, com novo esquema terapêutico e notificação compulsó...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'reiniciar o tratamento desde o início, com novo esquema terapêutico e notificação com...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'suspender temporariamente a medicação, aguardar nova baciloscopia de escarro e decidir a c...'."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'suspender temporariamente a medicação, aguardar nova baciloscopia de escarro e d...'."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'reiniciar o tratamento desde o início do esquema básico, com novo acompanhamento em TDO e ...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'reiniciar o tratamento desde o início do esquema básico, com novo acompanhamento em T...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
   },
   {
     "codigo_origem": "Q3884657",
@@ -1324,28 +492,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0453",
-    "numero_ordem": 453,
-    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
+    "id": "EF0113",
+    "numero_ordem": 113,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'transferir imediatamente as vacinas para caixas térmicas, utilizando gelo reciclável,...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter o refrigerador fechado, monitorar a temperatura interna e comunicar a ocorrência ao...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'manter o refrigerador fechado, monitorar a temperatura interna e comunicar a ocorrênc...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar a vacinação normalmente, desde que o refrigerador permaneça fechado durante a fal...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'realizar a vacinação normalmente, desde que o refrigerador permaneça fechado durante ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'descartar os imunobiológicos caso a energia não seja restabelecida em um período de 120 mi...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'descartar os imunobiológicos caso a energia não seja restabelecida em um período de 1...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
+    "comentario": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativ..."
   },
   {
     "codigo_origem": "Q3802706",
@@ -1376,27 +544,963 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0502",
-    "numero_ordem": 502,
-    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
+    "id": "EF0162",
+    "numero_ordem": 162,
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'exclusão do Agente Comunitário de Saúde (ACS) da composição mínima das equipes de Saúde da...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'exclusão do Agente Comunitário de Saúde (ACS) da composição mínima das equipes de Saú...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'formação de equipes de Atenção Primária (EAP) sem a obrigatoriedade de médico e enfermeiro...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'formação de equipes de Atenção Primária (EAP) sem a obrigatoriedade de médico e enfer...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'redução da carga horária mínima dos profissionais das equipes de Saúde da Família para 20 ...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'redução da carga horária mínima dos profissionais das equipes de Saúde da Família par...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'adoção de diferentes arranjos de equipes, como a ESF e a EAP, com composições mínimas dist...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'adoção de diferentes arranjos de equipes, como a ESF e a EAP, com composições mínimas...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
+    "comentario": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Partici..."
+  },
+  {
+    "codigo_origem": "Q3742708",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Marcelândia - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Marcelândia - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Saúde Pública , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "As Doenças e Agravos Não Transmissíveis (DANTs) representam um desafio significativo para a saúde pública global. Uma característica fundamental que as distingue das doenças transmissíveis é a sua natureza:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "infecciosa e de rápida disseminação"
+      },
+      {
+        "id": "B",
+        "texto": "aguda e de origem bacteriana"
+      },
+      {
+        "id": "C",
+        "texto": "endêmica e de fácil erradicação"
+      },
+      {
+        "id": "D",
+        "texto": "crônica e multifatorial 189 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0188",
+    "numero_ordem": 188,
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'infecciosa e de rápida disseminação...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'aguda e de origem bacteriana...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'endêmica e de fácil erradicação...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'crônica e multifatorial 189 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Partici..."
+  },
+  {
+    "codigo_origem": "Q3742705",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Marcelândia - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Marcelândia - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Saúde Pública , Promoção da Saúde , Atenção Básica e Saúde da Família",
+    "enunciado": "A educação em saúde é uma ferramenta estratégica na Atenção Primária à Saúde (APS), sendo uma das competências essenciais do enfermeiro para empoderar indivíduos e comunidades na gestão de sua própria saúde. Para que as ações educativas sejam eficazes e promovam mudanças de comportamento duradouras, é fundamental que o enfermeiro utilize abordagens pedagógicas que considerem o contexto sociocultural e as necessidades específicas da população. Uma prática educativa que reflete os princípios da APS e a atuação do enfermeiro é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "o desenvolvimento de atividades participativas que estimulem a reflexão crítica e a construção coletiva do conhecimento"
+      },
+      {
+        "id": "B",
+        "texto": "a transmissão unilateral de informações técnicas complexas, sem espaço para diálogo"
+      },
+      {
+        "id": "C",
+        "texto": "a imposição de condutas e hábitos saudáveis, desconsiderando a autonomia do indivíduo"
+      },
+      {
+        "id": "D",
+        "texto": "a delegação exclusiva da responsabilidade pela educação em saúde aos agentes comunitários de saúde 192 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0191",
+    "numero_ordem": 191,
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'o desenvolvimento de atividades participativas que estimulem a reflexão crítica e a c...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a transmissão unilateral de informações técnicas complexas, sem espaço para diálogo...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a imposição de condutas e hábitos saudáveis, desconsiderando a autonomia do indivíduo...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a delegação exclusiva da responsabilidade pela educação em saúde aos agentes com...'."
+      }
+    ],
+    "comentario": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Partici..."
+  },
+  {
+    "codigo_origem": "Q3742704",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Marcelândia - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Marcelândia - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Saúde Pública , Atenção Básica e Saúde da Família",
+    "enunciado": "A atuação do enfermeiro na Atenção Primária à Saúde (APS) é fundamental para a integralidade do cuidado, abrangendo diversas dimensões da saúde do indivíduo e da comunidade. Nesse contexto, uma das principais responsabilidades do enfermeiro é a coordenação do cuidado, que se manifesta por meio de ações que visam garantir a continuidade e a articulação entre os diferentes pontos da rede de atenção à saúde, promovendo a longitudinalidade e a resolutividade. Considerando a complexidade e a abrangência da APS, a coordenação do cuidado exercida pelo enfermeiro envolve prioritariamente:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "a realização exclusiva de procedimentos de alta complexidade em unidades de pronto atendimento"
+      },
+      {
+        "id": "B",
+        "texto": "o encaminhamento de todos os casos para especialistas, sem intervenção prévia na unidade básica"
+      },
+      {
+        "id": "C",
+        "texto": "a articulação entre os serviços de saúde, a gestão de casos e o acompanhamento dos usuários ao longo do tempo"
+      },
+      {
+        "id": "D",
+        "texto": "a prescrição de medicamentos de uso contínuo para todas as condições crônicas sem avaliação médica 193 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0192",
+    "numero_ordem": 192,
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a realização exclusiva de procedimentos de alta complexidade em unidades de pron...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'o encaminhamento de todos os casos para especialistas, sem intervenção prévia na unid...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a articulação entre os serviços de saúde, a gestão de casos e o acompanhamento dos us...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a prescrição de medicamentos de uso contínuo para todas as condições crônicas sem ava...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Partici..."
+  },
+  {
+    "codigo_origem": "Q3742303",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Marcelândia - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Marcelândia - MT - Técnico",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Saúde Pública , Epidemiologia e Vigilância Epidemiológica",
+    "enunciado": "em Enfermagem Durante o plantão noturno, um técnico de enfermagem observa que uma colega de equipe está visivelmente sonolenta e com dificuldade de realizar os procedimentos com segurança. Ao conversar, a colega relata estar fazendo jornadas duplas há vários dias para complementar a renda e pede que o colega a ajude a encobrir uma medicação que ela esqueceu de administrar em um paciente, checando a administração do medicamento na prescrição. O técnico de enfermagem se vê diante de um dilema: manter a harmonia da equipe e aceitar o pedido, ou recusar a solicitação, comunicando o ocorrido ao enfermeiro responsável. De acordo com o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), a conduta ética correta do técnico de enfermagem é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "atender ao pedido da colega, considerando que a falta de administração deste medicamento não trouxe prejuízo imediato ao paciente"
+      },
+      {
+        "id": "B",
+        "texto": "recusar-se a falsificar o registro e comunicar o fato ao enfermeiro responsável, garantindo a veracidade das informações"
+      },
+      {
+        "id": "C",
+        "texto": "registrar o ocorrido apenas no plantão seguinte, para evitar constrangimento à colega de equipe e ter tempo de certificar-se que não houve agravo ao paciente"
+      },
+      {
+        "id": "D",
+        "texto": "tentar resolver o problema apenas entre os técnicos de enfermagem da equipe, sem envolver o enfermeiro, pois tratase de uma responsabilidade deles 195 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0194",
+    "numero_ordem": 194,
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'atender ao pedido da colega, considerando que a falta de administração deste medicame...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'recusar-se a falsificar o registro e comunicar o fato ao enfermeiro responsável, gara...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'registrar o ocorrido apenas no plantão seguinte, para evitar constrangimento à c...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'tentar resolver o problema apenas entre os técnicos de enfermagem da equipe, sem...'."
+      }
+    ],
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+  },
+  {
+    "codigo_origem": "Q3615483",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Tapurah - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Tapurah - MT - Técnico em",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Saúde Pública , Atenção Básica e Saúde da Família",
+    "enunciado": "Enfermagem Durante uma roda de conversa educativa na unidade básica de saúde, um adolescente de 17 anos relata, em sigilo ao técnico de enfermagem, que está com ferida indolor na região genital há cerca de uma semana, mas tem vergonha de contar aos pais e teme julgamento. Diante da situação, considerando o papel do técnico de enfermagem na abordagem de infecções sexualmente transmissíveis (IST), é correto afirmar que:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "o técnico de enfermagem deve aguardar que o paciente traga um responsável para orientações sobre IST"
+      },
+      {
+        "id": "B",
+        "texto": "a escuta qualificada e o sigilo devem ser garantidos, orientando-o e encaminhando-o para avaliação com a equipe"
+      },
+      {
+        "id": "C",
+        "texto": "não se deve falar de IST com menores de 18 anos sem autorização formal dos pais ou responsáveis"
+      },
+      {
+        "id": "D",
+        "texto": "o técnico de enfermagem deve apenas registrar o relato e repassar ao enfermeiro, sem orientar o paciente"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0218",
+    "numero_ordem": 218,
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'o técnico de enfermagem deve aguardar que o paciente traga um responsável para orient...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a escuta qualificada e o sigilo devem ser garantidos, orientando-o e encaminhando-o p...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'não se deve falar de IST com menores de 18 anos sem autorização formal dos pais ou re...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o técnico de enfermagem deve apenas registrar o relato e repassar ao enfermeiro,...'."
+      }
+    ],
+    "comentario": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A altern..."
+  },
+  {
+    "codigo_origem": "Q3615471",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Tapurah - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Tapurah - MT - Técnico em",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Saúde Pública , Epidemiologia e Vigilância Epidemiológica , Legislação em Saúde",
+    "enunciado": "Enfermagem Uma técnica de enfermagem em uma Unidade Básica de Saúde (UBS) atende um paciente de 25 anos com febre alta, cefaleia intensa, rigidez de nuca e vômitos há 24 horas. A suspeita diagnóstica levantada pela equipe é de meningite meningocócica. Por se tratar de uma situação que se baseia na vigilância epidemiológica e na legislação sanitária brasileira, a equipe deve:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "realizar a notificação compulsória apenas após confirmação laboratorial do caso"
+      },
+      {
+        "id": "B",
+        "texto": "aguardar a evolução clínica para registrar no sistema de notificação, pois a suspeita não é o suficiente"
+      },
+      {
+        "id": "C",
+        "texto": "realizar notificação compulsória imediata, devendo ser comunicada em até 24 horas após a suspeita"
+      },
+      {
+        "id": "D",
+        "texto": "aguardar, pois a notificação compulsória é de responsabilidade exclusiva do médico, não cabendo ao técnico de enfermagem qualquer ação"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0229",
+    "numero_ordem": 229,
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'realizar a notificação compulsória apenas após confirmação laboratorial do caso...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'aguardar a evolução clínica para registrar no sistema de notificação, pois a suspeita...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'realizar notificação compulsória imediata, devendo ser comunicada em até 24 horas apó...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'aguardar, pois a notificação compulsória é de responsabilidade exclusiva do médi...'."
+      }
+    ],
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+  },
+  {
+    "codigo_origem": "Q3615470",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Tapurah - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Tapurah - MT - Técnico em",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Saúde Pública , Doenças Infecciosas e parasitárias",
+    "enunciado": "Enfermagem A hanseníase é uma doença infectocontagiosa que afeta principalmente a pele e os nervos periféricos. Sobre essa doença, é coerente afirmar que:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "o diagnóstico é feito exclusivamente por exame laboratorial, sendo o exame clínico pouco relevante"
+      },
+      {
+        "id": "B",
+        "texto": "a forma multibacilar da hanseníase apresenta maior carga bacilar e risco aumentado de transmissão"
+      },
+      {
+        "id": "C",
+        "texto": "o tratamento da hanseníase é feito apenas com corticoterapia para controlar as reações inflamatórias"
+      },
+      {
+        "id": "D",
+        "texto": "a transmissão da hanseníase ocorre principalmente por contato com lesões cutâneas abertas e secreções purulentas 231 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0230",
+    "numero_ordem": 230,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o diagnóstico é feito exclusivamente por exame laboratorial, sendo o exame clíni...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a forma multibacilar da hanseníase apresenta maior carga bacilar e risco aumentado de...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o tratamento da hanseníase é feito apenas com corticoterapia para controlar as r...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a transmissão da hanseníase ocorre principalmente por contato com lesões cutâneas abe...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+  },
+  {
+    "codigo_origem": "Q3287497",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de São José dos Quatro Marcos - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2025 - Prefeitura de São José dos",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Saúde Pública , Saúde da Criança e do Adolescente , Promoção da Saúde Aleitamento Materno",
+    "enunciado": "Quatro Marcos - MT - Técnico em Enfermagem A Política Nacional de Promoção ao Aleitamento Materno tem como objetivo garantir e promover a prática do aleitamento materno exclusivo nos primeiros seis meses de vida, visando a benefícios para a saúde da criança e da mãe. A alternativa que melhor descreve a principal diretriz dessa política é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "a política assegura que o aleitamento materno exclusivo seja recomendado até os 6 meses de vida da criança, com a introdução de alimentos complementares a partir dos 6 meses e o aleitamento materno continuado até os dois anos ou mais"
+      },
+      {
+        "id": "B",
+        "texto": "a política não especifica o tempo de aleitamento materno exclusivo e orienta que a criança seja alimentada exclusivamente com leite artificial após o primeiro mês de vida"
+      },
+      {
+        "id": "C",
+        "texto": "a política promove o aleitamento materno exclusivo apenas para crianças com até três meses de vida, recomendando a introdução de outros alimentos a partir dessa idade"
+      },
+      {
+        "id": "D",
+        "texto": "a política permite que o aleitamento materno exclusivo seja interrompido a partir do primeiro mês de vida, com a inclusão de sucos e chás"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0240",
+    "numero_ordem": 240,
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a política assegura que o aleitamento materno exclusivo seja recomendado até os ...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a política não especifica o tempo de aleitamento materno exclusivo e orienta que...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a política promove o aleitamento materno exclusivo apenas para crianças com até ...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a política permite que o aleitamento materno exclusivo seja interrompido a parti...'."
+      }
+    ],
+    "comentario": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A altern..."
+  },
+  {
+    "codigo_origem": "Q3287489",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de São José dos Quatro Marcos - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de São José dos",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Saúde Pública , Atenção Básica e Saúde da Família",
+    "enunciado": "Quatro Marcos - MT - Técnico em Enfermagem Segundo a Política Nacional de Atenção Básica (PNAB) de 2017, as atribuições do técnico de enfermagem na Estratégia Saúde da Família (ESF) são:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "coordenar as visitas domiciliares e elabora o plano de cuidado, atuando de forma independente dos outros membros da equipe"
+      },
+      {
+        "id": "B",
+        "texto": "integrar a equipe, realizando atividades como educação em saúde, orientação às famílias e apoio às ações de promoção e prevenção, sob supervisão do enfermeiro"
+      },
+      {
+        "id": "C",
+        "texto": "atuar no atendimento curativo e na administração de medicamentos, com foco apenas na recuperação do paciente"
+      },
+      {
+        "id": "D",
+        "texto": "responsabilizar-se pela execução de atividades complexas, como prescrição médica e diagnóstico de enfermagem, com total autonomia 249 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0248",
+    "numero_ordem": 248,
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'coordenar as visitas domiciliares e elabora o plano de cuidado, atuando de forma inde...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'integrar a equipe, realizando atividades como educação em saúde, orientação às famíli...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'atuar no atendimento curativo e na administração de medicamentos, com foco apena...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'responsabilizar-se pela execução de atividades complexas, como prescrição médica e di...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Partici..."
+  },
+  {
+    "codigo_origem": "Q3265155",
+    "banca": "SELECON",
+    "orgao": "HEMOMINAS",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - HEMOMINAS - Analista de Hematologia e Hemoterapia -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Saúde Pública , Atenção Básica e Saúde da Família",
+    "enunciado": "ANHH - Nível I - Grau A - Enfermeiro A organização dos serviços de enfermagem em diferentes níveis de atenção à saúde é fundamental para garantir o cuidado integral, equitativo e eficiente à população. Sobre essa temática, é certo dizer que:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "o cuidado primário concentra-se exclusivamente em intervenções curativas voltadas às emergências"
+      },
+      {
+        "id": "B",
+        "texto": "os serviços de enfermagem em atenção primária buscam a promoção da saúde, prevenção de agravos e acompanhamento longitudinal"
+      },
+      {
+        "id": "C",
+        "texto": "a enfermagem em atenção terciária não participa do gerenciamento das condições clínicas, atuando apenas na reabilitação"
+      },
+      {
+        "id": "D",
+        "texto": "a organização dos serviços de enfermagem limita-se à execução de tarefas operacionais, sem envolvimento no planejamento estratégico 268 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0267",
+    "numero_ordem": 267,
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o cuidado primário concentra-se exclusivamente em intervenções curativas voltada...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'os serviços de enfermagem em atenção primária buscam a promoção da saúde, prevenção d...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a enfermagem em atenção terciária não participa do gerenciamento das condições c...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a organização dos serviços de enfermagem limita-se à execução de tarefas operacionais...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Partici..."
+  },
+  {
+    "codigo_origem": "Q3265150",
+    "banca": "SELECON",
+    "orgao": "HEMOMINAS",
+    "ano": 2024,
+    "prova": "SELECON - 2025 - HEMOMINAS - Analista de Hematologia e Hemoterapia -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Saúde Pública , Infecção Hospitalar",
+    "enunciado": "ANHH - Nível I - Grau A - Enfermeiro A resistência bacteriana aos antimicrobianos representa um grave problema de saúde pública. Das seguintes estratégias, a que se mostra mais relevante para o uso racional de antibióticos em ambientes hospitalares é a:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "prescrição de antibióticos de amplo espectro em todas as infecções suspeitas"
+      },
+      {
+        "id": "B",
+        "texto": "utilização de antibióticos de última geração em todas as infecções"
+      },
+      {
+        "id": "C",
+        "texto": "realização de culturas e testes de sensibilidade aos antibióticos antes do início da terapia"
+      },
+      {
+        "id": "D",
+        "texto": "administração profilática de antibióticos em todos os pacientes internados"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0272",
+    "numero_ordem": 272,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'prescrição de antibióticos de amplo espectro em todas as infecções suspeitas...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'utilização de antibióticos de última geração em todas as infecções...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'realização de culturas e testes de sensibilidade aos antibióticos antes do início da ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'administração profilática de antibióticos em todos os pacientes internados...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+  },
+  {
+    "codigo_origem": "Q2496155",
+    "banca": "SELECON",
+    "orgao": "COREN-RR",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - COREN-RR - Analista Administrativo - Enfermeiro Fiscal",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Saúde Pública",
+    "enunciado": "Uma das atividades de profissionais de saúde ou responsáveis pelos estabelecimentos de saúde públicos ou privados é a notificação compulsória que é a comunicação obrigatória à autoridade de saúde sobre a ocorrência de suspeita ou confirmação de doença, agravo ou evento de saúde pública previsto em Lei, podendo ser imediata ou semanal. Uma patologia que deve ser notificada é a:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "fibromialgia"
+      },
+      {
+        "id": "B",
+        "texto": "fibrose cística"
+      },
+      {
+        "id": "C",
+        "texto": "doença de cronh"
+      },
+      {
+        "id": "D",
+        "texto": "doença de Creutzfeldt-Jakob 365 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0364",
+    "numero_ordem": 364,
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'fibromialgia...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'fibrose cística...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'doença de cronh...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'doença de Creutzfeldt-Jakob 365 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Partici..."
+  },
+  {
+    "codigo_origem": "Q2496151",
+    "banca": "SELECON",
+    "orgao": "COREN-RR",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - COREN-RR - Analista Administrativo - Enfermeiro Fiscal",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Saúde Pública",
+    "enunciado": "A definição “atividades da área da saúde coletiva que se destina, por meio das ações de vigilância epidemiológica e sanitária, à promoção e proteção da saúde de trabalhadores, assim como visa à recuperação e reabilitação da saúde” refere-se à:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "saúde coletiva"
+      },
+      {
+        "id": "B",
+        "texto": "saúde pública"
+      },
+      {
+        "id": "C",
+        "texto": "saúde sanitária"
+      },
+      {
+        "id": "D",
+        "texto": "saúde do trabalhador 367 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0366",
+    "numero_ordem": 366,
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'saúde coletiva...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'saúde pública...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'saúde sanitária...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'saúde do trabalhador 367 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Partici..."
+  },
+  {
+    "codigo_origem": "Q2467596",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Água Boa - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Água Boa - MT - Técnico em",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Saúde Pública",
+    "enunciado": "Enfermagem A vigilância que visa conhecer, detectar ou prevenir qualquer mudança nos fatores determinantes e condicionantes do ambiente que interferem na saúde humana; recomendar e adotar medidas de prevenção e controle dos fatores de risco, relacionados às doenças e a outros agravos à saúde, prioritariamente, a vigilância da qualidade da água para consumo humano, ar e solo; e também prevenir desastres de origem natural ou provocados por substâncias químicas, por acidentes com produtos perigosos, por fatores físicos ou ainda no ambiente de trabalho, denomina-se:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "saúde do trabalhador"
+      },
+      {
+        "id": "B",
+        "texto": "situação de saúde"
+      },
+      {
+        "id": "C",
+        "texto": "saúde ambiental"
+      },
+      {
+        "id": "D",
+        "texto": "epidemiológica"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0455",
+    "numero_ordem": 455,
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'saúde do trabalhador...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'situação de saúde...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'saúde ambiental...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'epidemiológica...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Partici..."
+  },
+  {
+    "codigo_origem": "Q2454922",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sapezal - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Técnico em",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Saúde Pública",
+    "enunciado": "Enfermagem Os artigos de múltiplos uso em estabelecimentos de saúde podem se tornar veículos de agentes infecciosos, se não sofrerem processos de descontaminação após cada uso. Os locais onde esses artigos são processados e as pessoas que os manuseiam também podem tornar-se fontes de infecção para hospedeiros suscetíveis. Os artigos destinados ao contato com a pele não íntegra ou com mucosas íntegras são chamados de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "críticos"
+      },
+      {
+        "id": "B",
+        "texto": "não críticos"
+      },
+      {
+        "id": "C",
+        "texto": "semicríticos"
+      },
+      {
+        "id": "D",
+        "texto": "altamente críticos"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0492",
+    "numero_ordem": 492,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'não críticos...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'semicríticos...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'altamente críticos...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+  },
+  {
+    "codigo_origem": "Q2452995",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sapezal - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Saúde Pública",
+    "enunciado": "Os Indicadores de Saúde são medidas informativas representadas mediante proporções, índices, coeficientes ou taxas, que são utilizadas para descrever, analisar ou relacionar determinantes ao estado de saúde. Os fatores utilizados para a avaliar e classificar os referidos indicadores são:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "validade, fator patológico, aspectos éticos, amplitude"
+      },
+      {
+        "id": "B",
+        "texto": "confiabilidade, fator patológico, amplitude, aspectos éticos"
+      },
+      {
+        "id": "C",
+        "texto": "confiabilidade, cobertura, aspectos éticos e administrativos"
+      },
+      {
+        "id": "D",
+        "texto": "validade, confiabilidade, cobertura, aspectos éticos e administrativos 505 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0504",
+    "numero_ordem": 504,
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'validade, fator patológico, aspectos éticos, amplitude...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'confiabilidade, fator patológico, amplitude, aspectos éticos...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'confiabilidade, cobertura, aspectos éticos e administrativos...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'validade, confiabilidade, cobertura, aspectos éticos e administrativos 505 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Partici..."
+  },
+  {
+    "codigo_origem": "Q3674513",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Dourados - MS",
+    "ano": 2024,
+    "prova": "SELECON - 2023 - Prefeitura de Dourados - MS -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Saúde Pública , Doenças Infecciosas e parasitárias",
+    "enunciado": "O rastreamento das infecções sexualmente transmissíveis consiste na realização de testes diagnósticos em pessoas assintomáticas para estabelecer o diagnóstico precoce (prevenção secundária), com o objetivo de reduzir a morbimortalidade. Portanto, em casos de violência sexual, o atendimento para o rastreamento de HIV e Sífilis ocorrerá da seguinte forma:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "logo de início; de 4 a 6 semanas e com 3 meses após a exposição"
+      },
+      {
+        "id": "B",
+        "texto": "de forma tardia; de 8 a 12 semanas e com 4 meses após a exposição"
+      },
+      {
+        "id": "C",
+        "texto": "de forma tardia; de 12 a 14 semanas e com 8 meses após exposição"
+      },
+      {
+        "id": "D",
+        "texto": "logo de início; de 20 a 24 semanas e com 12 meses após a exposição"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0535",
+    "numero_ordem": 535,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'logo de início; de 4 a 6 semanas e com 3 meses após a exposição...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'de forma tardia; de 8 a 12 semanas e com 4 meses após a exposição...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'de forma tardia; de 12 a 14 semanas e com 8 meses após exposição...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'logo de início; de 20 a 24 semanas e com 12 meses após a exposição...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+  },
+  {
+    "codigo_origem": "Q3584429",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Lucas do Rio Verde - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Lucas do Rio Verde -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Saúde Pública , Imunização",
+    "enunciado": "MT - Enfermeiro 20H O Programa Nacional de Imunização do Brasil é uma referência mundial acerca das prevenções de doença. Considera-se uma situação em que se recomenda adiar a vacinação para as vacinas virais vivas atenuadas orais ou injetáveis:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "tratamento com corticosteroides em dose imunossupressora (equivalente a Prednisona de 8 mg/kg/dia, para criança, ou de 80 mg/kg/dia para o adulto) por mais de duas semanas: adiar a vacinação por 120 dias após a suspensão do tratamento"
+      },
+      {
+        "id": "B",
+        "texto": "tratamento com corticosteroides em dose imunossupressora (equivalente a Prednisona de 6 mg/kg/dia, para criança, ou de 60 mg/kg/dia para o adulto) por mais de duas semanas: adiar a vacinação por 90 dias após a suspensão do tratamento"
+      },
+      {
+        "id": "C",
+        "texto": "tratamento com corticosteroides em dose imunossupressora (equivalente a Prednisona de 4 mg/kg/dia, para criança, ou de 40 mg/kg/dia para o adulto) por mais de duas semanas: adiar a vacinação por 60 dias após a suspensão do tratamento"
+      },
+      {
+        "id": "D",
+        "texto": "tratamento com corticosteroides em dose imunossupressora (equivalente a Prednisona de 2 mg/kg/dia, para criança, ou de 20 mg/kg/dia para o adulto) por mais de duas semanas: adiar a vacinação por 30 dias após a suspensão do tratamento 546 Ano: 2023"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0545",
+    "numero_ordem": 545,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'tratamento com corticosteroides em dose imunossupressora (equivalente a Prednisona de...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'tratamento com corticosteroides em dose imunossupressora (equivalente a Prednisona de...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'tratamento com corticosteroides em dose imunossupressora (equivalente a Prednisona de...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'tratamento com corticosteroides em dose imunossupressora (equivalente a Prednisona de...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativ..."
   }
 ]

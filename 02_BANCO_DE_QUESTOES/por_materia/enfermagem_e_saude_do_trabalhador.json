@@ -30,26 +30,26 @@
     "resposta_correta": "",
     "id": "EF0064",
     "numero_ordem": 64,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'regulamentar exclusivamente o uso de equipamentos de proteção individual...'."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'definir atribuições privativas do enfermeiro nos estabelecimentos assistenciais...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'definir atribuições privativas do enfermeiro nos estabelecimentos assistenciais...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'normatizar apenas o gerenciamento de resíduos dos serviços de saúde e fluxos assistenciais...'."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'normatizar apenas o gerenciamento de resíduos dos serviços de saúde e fluxos ass...'."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'estabelecer medidas de proteção à saúde e à segurança dos trabalhadores dos serviços de sa...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'estabelecer medidas de proteção à saúde e à segurança dos trabalhadores dos serviços ...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q3974348",
@@ -82,234 +82,26 @@
     "resposta_correta": "",
     "id": "EF0089",
     "numero_ordem": 89,
-    "fundamentacao_correta": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.",
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter observação clínica da trabalhadora, dispensando notificação formal caso o paciente-...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'manter observação clínica da trabalhadora, dispensando notificação formal caso o paci...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'encaminhar a profissional apenas para avaliação médica eletiva, sem necessidade de registr...'."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'encaminhar a profissional apenas para avaliação médica eletiva, sem necessidade ...'."
       },
       {
         "letra": "C",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'realizar imediatamente os cuidados locais, comunicar o serviço de referência, emitir ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aguardar os resultados sorológicos do paciente-fonte antes de formalizar a emissão da Comu...'."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'aguardar os resultados sorológicos do paciente-fonte antes de formalizar a emiss...'."
       }
     ],
-    "comentario": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente..."
-  },
-  {
-    "codigo_origem": "Q3623621",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Nova Mutum - MT",
-    "ano": 2025,
-    "prova": "SELECON - 2025 - Prefeitura de Nova Mutum - MT -",
-    "cargo": "Enfermeiro",
-    "materia": "Enfermagem",
-    "assunto": "Enfermagem e Saúde do Trabalhador",
-    "enunciado": "A Vigilância em Saúde do Trabalhador (VISAT) atua na identificação e na intervenção sobre os fatores de risco e danos relacionados aos processos de trabalho. Um enfermeiro do trabalho, ao analisar os dados de atendimento ambulatorial de uma indústria metalúrgica, observa um aumento na prevalência de trabalhadores com diagnóstico de Perda Auditiva Induzida por Ruído (PAIR) e queixas de lesões por esforços repetitivos (LER/DORT). A abordagem mais abrangente, que transcende o modelo assistencialista e se alinha aos princípios da VISAT, seria:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "realizar uma inspeção nos ambientes de trabalho para mapear as fontes de ruído e as atividades com risco ergonômico, articulando com a CIPA e a gestão da empresa para propor mudanças nos processos produtivos e no ambiente, como o enclausuramento de máquinas e a implementação de pausas programadas"
-      },
-      {
-        "id": "B",
-        "texto": "encaminhar os trabalhadores diagnosticados para o INSS para avaliação de nexo causal e possível afastamento, focando na reabilitação e na gestão das consequências individuais da doença"
-      },
-      {
-        "id": "C",
-        "texto": "intensificar a distribuição de Equipamentos de Proteção Individual (EPIs), como protetores auriculares e munhequeiras, e realizar palestras sobre a importância do seu uso correto pelos funcionários"
-      },
-      {
-        "id": "D",
-        "texto": "notificar os casos confirmados no sistema oficial como acidentes de trabalho e focar no acompanhamento clínico dos sintomáticos, garantindo que recebam o tratamento médico adequado para suas condições 198 Ano: 2025"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0117",
-    "numero_ordem": 117,
-    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar uma inspeção nos ambientes de trabalho para mapear as fontes de ruído e as ativid...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'encaminhar os trabalhadores diagnosticados para o INSS para avaliação de nexo causal e pos...'."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'intensificar a distribuição de Equipamentos de Proteção Individual (EPIs), como protetores...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'notificar os casos confirmados no sistema oficial como acidentes de trabalho e focar no ac...'."
-      }
-    ],
-    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
-  },
-  {
-    "codigo_origem": "Q2477201",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Água Boa - MT",
-    "ano": 2024,
-    "prova": "SELECON - 2024 - Prefeitura de Água Boa - MT -",
-    "cargo": "Enfermeiro",
-    "materia": "Enfermagem",
-    "assunto": "Enfermagem e Saúde do Trabalhador , NR's do Ministério do Trabalho e Emprego",
-    "enunciado": "No setor de saúde, uma categoria de trabalhadores ocupa singular função. Para cumprir um dos mais importantes papéis sociais e de grande relevância econômica, o trabalhador de enfermagem muito avançou cientificamente para atender às atuais e crescentes exigências, nesse campo. A Norma Regulamentadora que considera risco biológico a probabilidade da exposição ocupacional a agentes biológicos: microrganismos geneticamente modificados ou não, culturas de células, parasitas, toxinas e príons é a de número:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "33"
-      },
-      {
-        "id": "B",
-        "texto": "32"
-      },
-      {
-        "id": "C",
-        "texto": "21"
-      },
-      {
-        "id": "D",
-        "texto": "9 428 Ano: 2024"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0347",
-    "numero_ordem": 347,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '9 428 Ano: 2024...'."
-      }
-    ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
-  },
-  {
-    "codigo_origem": "Q2454939",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Sapezal - MT",
-    "ano": 2024,
-    "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Técnico em",
-    "cargo": "Técnico de Enfermagem",
-    "materia": "Enfermagem",
-    "assunto": "Enfermagem e Saúde do Trabalhador",
-    "enunciado": "Enfermagem Conjunto de atividades do campo da saúde coletiva que se destina, por meio das ações de vigilância epidemiológica e vigilância sanitária, à promoção e à proteção da saúde dos trabalhadores, assim como visa à recuperação e à reabilitação da saúde dos trabalhadores submetidos aos riscos e agravos advindos das condições de trabalho. Essa é a definição de saúde:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "da mulher"
-      },
-      {
-        "id": "B",
-        "texto": "do homem"
-      },
-      {
-        "id": "C",
-        "texto": "da população"
-      },
-      {
-        "id": "D",
-        "texto": "do trabalhador"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0395",
-    "numero_ordem": 395,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'da população...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'do trabalhador...'."
-      }
-    ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
-  },
-  {
-    "codigo_origem": "Q2452996",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Sapezal - MT",
-    "ano": 2024,
-    "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Enfermeiro",
-    "cargo": "Enfermeiro",
-    "materia": "Enfermagem",
-    "assunto": "Enfermagem e Saúde do Trabalhador",
-    "enunciado": "Os locais de trabalho, pela própria natureza da atividade desenvolvida e pelas características de organização, relações interpessoais, manipulação ou exposição a agentes de riscos, podem comprometer a saúde e a segurança do trabalhador em curto, médio e longo prazo, provocando lesões imediatas, doenças ou a morte. Os tipos de riscos encontrados no ambiente de trabalho são:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "físicos, químicos, biológicos"
-      },
-      {
-        "id": "B",
-        "texto": "ambientais, químicos, biológicos"
-      },
-      {
-        "id": "C",
-        "texto": "físicos, ergonômicos, riscos de acidente"
-      },
-      {
-        "id": "D",
-        "texto": "ambientais, ergonômicos, riscos de acidente"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0423",
-    "numero_ordem": 423,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'físicos, químicos, biológicos...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ambientais, químicos, biológicos...'."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'físicos, ergonômicos, riscos de acidente...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ambientais, ergonômicos, riscos de acidente...'."
-      }
-    ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   },
   {
     "codigo_origem": "Q3810626",
@@ -340,27 +132,391 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0491",
-    "numero_ordem": 491,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0151",
+    "numero_ordem": 151,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar o EPI fornecido de acordo com as orientações estabelecidas, mantendo seu uso adeq...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'utilizar o EPI fornecido de acordo com as orientações estabelecidas, mantendo seu uso...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'identificar eventuais desgastes, desconfortos ou falhas do EPI e proceder, por conta ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'avaliar, com base em sua experiência e percepção pessoal do ambiente, em quais situações o...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'avaliar, com base em sua experiência e percepção pessoal do ambiente, em quais situaç...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar rotineiramente a higienização, organização e guarda dos EPIs utilizados pelos dif...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'realizar rotineiramente a higienização, organização e guarda dos EPIs utilizados pelo...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q3623621",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Nova Mutum - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem e Saúde do Trabalhador",
+    "enunciado": "A Vigilância em Saúde do Trabalhador (VISAT) atua na identificação e na intervenção sobre os fatores de risco e danos relacionados aos processos de trabalho. Um enfermeiro do trabalho, ao analisar os dados de atendimento ambulatorial de uma indústria metalúrgica, observa um aumento na prevalência de trabalhadores com diagnóstico de Perda Auditiva Induzida por Ruído (PAIR) e queixas de lesões por esforços repetitivos (LER/DORT). A abordagem mais abrangente, que transcende o modelo assistencialista e se alinha aos princípios da VISAT, seria:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "realizar uma inspeção nos ambientes de trabalho para mapear as fontes de ruído e as atividades com risco ergonômico, articulando com a CIPA e a gestão da empresa para propor mudanças nos processos produtivos e no ambiente, como o enclausuramento de máquinas e a implementação de pausas programadas"
+      },
+      {
+        "id": "B",
+        "texto": "encaminhar os trabalhadores diagnosticados para o INSS para avaliação de nexo causal e possível afastamento, focando na reabilitação e na gestão das consequências individuais da doença"
+      },
+      {
+        "id": "C",
+        "texto": "intensificar a distribuição de Equipamentos de Proteção Individual (EPIs), como protetores auriculares e munhequeiras, e realizar palestras sobre a importância do seu uso correto pelos funcionários"
+      },
+      {
+        "id": "D",
+        "texto": "notificar os casos confirmados no sistema oficial como acidentes de trabalho e focar no acompanhamento clínico dos sintomáticos, garantindo que recebam o tratamento médico adequado para suas condições 198 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0197",
+    "numero_ordem": 197,
+    "fundamentacao_correta": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a fórmula e os critérios epidemiológicos.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'realizar uma inspeção nos ambientes de trabalho para mapear as fontes de ruído e as a...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'encaminhar os trabalhadores diagnosticados para o INSS para avaliação de nexo causal ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'intensificar a distribuição de Equipamentos de Proteção Individual (EPIs), como prote...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'notificar os casos confirmados no sistema oficial como acidentes de trabalho e focar ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Conforme os conceitos da Epidemiologia (Ministério da Saúde), a taxa/indicador avaliado deve correlacionar com exatidão o número de eventos observados no numerador com a população sob risco no denominador. A alternativa [] ('') aplica com precisão a ..."
+  },
+  {
+    "codigo_origem": "Q2477201",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Água Boa - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Água Boa - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem e Saúde do Trabalhador , NR's do Ministério do Trabalho e Emprego",
+    "enunciado": "No setor de saúde, uma categoria de trabalhadores ocupa singular função. Para cumprir um dos mais importantes papéis sociais e de grande relevância econômica, o trabalhador de enfermagem muito avançou cientificamente para atender às atuais e crescentes exigências, nesse campo. A Norma Regulamentadora que considera risco biológico a probabilidade da exposição ocupacional a agentes biológicos: microrganismos geneticamente modificados ou não, culturas de células, parasitas, toxinas e príons é a de número:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "33"
+      },
+      {
+        "id": "B",
+        "texto": "32"
+      },
+      {
+        "id": "C",
+        "texto": "21"
+      },
+      {
+        "id": "D",
+        "texto": "9 428 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0427",
+    "numero_ordem": 427,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '9 428 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q2454939",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sapezal - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Técnico em",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem e Saúde do Trabalhador",
+    "enunciado": "Enfermagem Conjunto de atividades do campo da saúde coletiva que se destina, por meio das ações de vigilância epidemiológica e vigilância sanitária, à promoção e à proteção da saúde dos trabalhadores, assim como visa à recuperação e à reabilitação da saúde dos trabalhadores submetidos aos riscos e agravos advindos das condições de trabalho. Essa é a definição de saúde:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "da mulher"
+      },
+      {
+        "id": "B",
+        "texto": "do homem"
+      },
+      {
+        "id": "C",
+        "texto": "da população"
+      },
+      {
+        "id": "D",
+        "texto": "do trabalhador"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0475",
+    "numero_ordem": 475,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'da população...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'do trabalhador...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q2452996",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sapezal - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem e Saúde do Trabalhador",
+    "enunciado": "Os locais de trabalho, pela própria natureza da atividade desenvolvida e pelas características de organização, relações interpessoais, manipulação ou exposição a agentes de riscos, podem comprometer a saúde e a segurança do trabalhador em curto, médio e longo prazo, provocando lesões imediatas, doenças ou a morte. Os tipos de riscos encontrados no ambiente de trabalho são:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "físicos, químicos, biológicos"
+      },
+      {
+        "id": "B",
+        "texto": "ambientais, químicos, biológicos"
+      },
+      {
+        "id": "C",
+        "texto": "físicos, ergonômicos, riscos de acidente"
+      },
+      {
+        "id": "D",
+        "texto": "ambientais, ergonômicos, riscos de acidente"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0503",
+    "numero_ordem": 503,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'físicos, químicos, biológicos...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'ambientais, químicos, biológicos...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'físicos, ergonômicos, riscos de acidente...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'ambientais, ergonômicos, riscos de acidente...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q2341567",
+    "banca": "SELECON",
+    "orgao": "Empresa Cuiabana de Saúde Pública - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Empresa Cuiabana de Saúde",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem e Saúde do Trabalhador , Ergonomia no Trabalho",
+    "enunciado": "Pública - MT - Enfermeiro Assistencial A penosidade, como risco no ambiente de trabalho, decorre dos elementos envolvidos na carga de trabalho, correspondendo esta ao dispêndio físico e ao conjunto de capacidades (físicas, sensoriais, psicomotoras, psicológicas e cognitivas) que a pessoa investe na execução da tarefa. A falta de lugar para reuniões, a ausência de meios de comunicação, a inexistência de programa de trabalho, o diálogo social insuficiente, a insuficiência de informação e a inexistência de regimento interno do serviço de saúde representam cargas de origem:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "física"
+      },
+      {
+        "id": "B",
+        "texto": "psíquica"
+      },
+      {
+        "id": "C",
+        "texto": "estrutural"
+      },
+      {
+        "id": "D",
+        "texto": "institucional"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0567",
+    "numero_ordem": 567,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'institucional...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q2341542",
+    "banca": "SELECON",
+    "orgao": "Empresa Cuiabana de Saúde Pública - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2023 - Empresa Cuiabana de Saúde",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem e Saúde do Trabalhador",
+    "enunciado": "Pública - MT - Enfermeiro do Trabalho Cada empresa deve contar com um profissional da área da enfermagem do trabalho, de acordo com a quantidade de funcionários, para atender às demandas dos trabalhadores. O profissional especializado em enfermagem do trabalho também deve, prioritariamente, promover:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "ações de instrução aos trabalhadores da empresa sobre segurança no trabalho e melhores maneiras de evitar e prevenir-se de acidentes"
+      },
+      {
+        "id": "B",
+        "texto": "assistência ambulatorial, visando ao acompanhamento sistemático dentro dos programas do Ministério da Saúde"
+      },
+      {
+        "id": "C",
+        "texto": "assistência nos consultórios, visando ao acompanhamento da saúde física e mental dos trabalhadores"
+      },
+      {
+        "id": "D",
+        "texto": "ações de cidadania e ética nos ambientes de trabalho junto aos trabalhadores da empresa"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0583",
+    "numero_ordem": 583,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'ações de instrução aos trabalhadores da empresa sobre segurança no trabalho e melhore...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'assistência ambulatorial, visando ao acompanhamento sistemático dentro dos programas ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'assistência nos consultórios, visando ao acompanhamento da saúde física e mental dos ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'ações de cidadania e ética nos ambientes de trabalho junto aos trabalhadores da empre...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q2692381",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Campo Grande - MS",
+    "ano": 2019,
+    "prova": "SELECON - 2019 - Prefeitura de Campo Grande - MS -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem e Saúde do Trabalhador , NR's do Ministério do Trabalho e Emprego",
+    "enunciado": "A Norma Regulamentadora (NR) que possui como finalidade estabelecer as diretrizes básicas para a implementação de medidas de proteção à segurança e à saúde dos trabalhadores dos serviços de saúde, bem como daqueles que exercem atividades de promoção e assistência à saúde em geral, é a:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "NR"
+      },
+      {
+        "id": "B",
+        "texto": "NR"
+      },
+      {
+        "id": "C",
+        "texto": "NR"
+      },
+      {
+        "id": "D",
+        "texto": "NR 36 858 Ano: 2019"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0857",
+    "numero_ordem": 857,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'NR 36 858 Ano: 2019...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   }
 ]

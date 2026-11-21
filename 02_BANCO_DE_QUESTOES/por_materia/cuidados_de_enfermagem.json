@@ -30,22 +30,22 @@
     "resposta_correta": "D",
     "id": "EF0002",
     "numero_ordem": 2,
-    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [D] ('verificar e corrigir o ajuste da tubulação, utilizar proteção cutânea apropriada quando indicada e inspecionar regularmente os pontos de contato, preservando a oxigenoterapia') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [D] ('verificar e corrigir o ajuste da tubulação, utilizar proteção cutânea apropriada quando indicada e inspecionar regularmente os pontos de contato, preservando a oxigenoterapia') é a indicação terapêutica correta para o quadro apresentado.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Aumentar a tensão mecânica intensifica a isquemia e a necrose tecidual sob o dispositivo, agravando o risco de lesão por pressão."
+        "motivo": "Aumentar a tensão mecânica intensifica a isquemia e acelera o desenvolvimento de lesões por pressão."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aplicar creme hidratante na região avermelhada, mantendo a pressão exercida pela tubulação...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'aplicar creme hidratante na região avermelhada, mantendo a pressão exercida pela tubu...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'colocar uma cobertura protetora espessa sob a tubulação, para que não seja necessário reav...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'colocar uma cobertura protetora espessa sob a tubulação, para que não seja necessário...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+    "comentario": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa ..."
   },
   {
     "codigo_origem": "Q4445450",
@@ -78,22 +78,22 @@
     "resposta_correta": "A",
     "id": "EF0006",
     "numero_ordem": 6,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [A] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: 'água morna e sabonete suave, secando-a delicadamente'.",
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [A] ('água morna e sabonete suave, secando-a delicadamente') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'sabonete antisséptico, utilizando movimentos circulares para remover resíduos...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'sabonete antisséptico, utilizando movimentos circulares para remover resíduos...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'água morna e sabonete suave, realizando fricção com toalha macia para estimular a circulaç...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'água morna e sabonete suave, realizando fricção com toalha macia para estimular a cir...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'água morna e sabonete suave, secando-a delicadamente e aplicando compressas aquecidas para...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'água morna e sabonete suave, secando-a delicadamente e aplicando compressas aquecidas...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [A] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: 'água morn..."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [A] ('água morna e sabonete suave, secando-a delicadamente') responde corretamente à questão conforme as boas práticas assis..."
   },
   {
     "codigo_origem": "Q4336848",
@@ -126,26 +126,26 @@
     "resposta_correta": "",
     "id": "EF0033",
     "numero_ordem": 33,
-    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'considerar a sonda corretamente posicionada, pois o pH 6,5 é compatível com conteúdo gástr...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'considerar a sonda corretamente posicionada, pois o pH 6,5 é compatível com conteúdo ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'suspender a dieta e solicitar a realização de radiografia de tórax para confirmar a ponta ...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'suspender a dieta e solicitar a realização de radiografia de tórax para confirmar a p...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'injetar 50 mL de ar e auscultar o epigástrio por 10 segundos, repetindo o teste três vezes...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'injetar 50 mL de ar e auscultar o epigástrio por 10 segundos, repetindo o teste três ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'avançar a sonda em mais 5 cm e realizar nova aspiração; se o pH mantiver-se abaixo de 5,5,...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'avançar a sonda em mais 5 cm e realizar nova aspiração; se o pH mantiver-se abaixo de...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   },
   {
     "codigo_origem": "Q4317365",
@@ -178,26 +178,26 @@
     "resposta_correta": "",
     "id": "EF0054",
     "numero_ordem": 54,
-    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'elevar a bolsa durante a mobilização...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'elevar a bolsa durante a mobilização...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter a bolsa abaixo do nível da bexiga...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'manter a bolsa abaixo do nível da bexiga...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'desconectar o sistema periodicamente para esvaziar a extensão...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'desconectar o sistema periodicamente para esvaziar a extensão...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'apoiar a bolsa coletora no piso quando necessário para evitar tração do cateter 55 Enferma...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'apoiar a bolsa coletora no piso quando necessário para evitar tração do cateter 55 En...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q3981922",
@@ -230,26 +230,26 @@
     "resposta_correta": "",
     "id": "EF0075",
     "numero_ordem": 75,
-    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'em estágio 1, definida pela presença de eritema não branqueável em pele íntegra, sem ruptu...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'em estágio 1, definida pela presença de eritema não branqueável em pele íntegra, sem ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'em estágio 2, caracterizada por perda parcial da pele, com exposição do leito da ferida, a...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'em estágio 2, caracterizada por perda parcial da pele, com exposição do leito da feri...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'em estágio 3, caracterizada por perda total da pele, com exposição de tecido subcutâneo e ...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'em estágio 3, caracterizada por perda total da pele, com exposição de tecido subcutân...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'não classificável, em razão da necessidade de avaliação especializada para identificação d...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'não classificável, em razão da necessidade de avaliação especializada para identifica...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+    "comentario": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa ..."
   },
   {
     "codigo_origem": "Q3981916",
@@ -282,26 +282,26 @@
     "resposta_correta": "",
     "id": "EF0081",
     "numero_ordem": 81,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter a higiene oral com soluções suaves e não alcoólicas, estimular hidratação e comunic...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'manter a higiene oral com soluções suaves e não alcoólicas, estimular hidratação e co...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar higiene oral frequente com soluções antissépticas alcoólicas, para reduzir ou int...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'realizar higiene oral frequente com soluções antissépticas alcoólicas, para reduzir o...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'orientar a suspensão da higiene oral até a regressão completa das lesões, a fim de evitar ...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'orientar a suspensão da higiene oral até a regressão completa das lesões, a fim de ev...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'restringir a alimentação por via oral até resolução da mucosite, evitando o agravamento da...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'restringir a alimentação por via oral até resolução da mucosite, evitando o agravamen...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q3974346",
@@ -334,26 +334,338 @@
     "resposta_correta": "",
     "id": "EF0091",
     "numero_ordem": 91,
-    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'priorização do monitoramento glicêmico e a orientação para uso regular de medicamentos, as...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'priorização do monitoramento glicêmico e a orientação para uso regular de medicamento...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realização de vigilância clínica, educação em saúde e orientação sobre controle glicêmico,...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'realização de vigilância clínica, educação em saúde e orientação sobre controle glicê...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realização de acompanhamento clínico, com foco no tratamento das infecções já instaladas e...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'realização de acompanhamento clínico, com foco no tratamento das infecções já instala...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'orientação ao paciente para fazer uso de terapias naturais com extratos e ervas e comparec...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'orientação ao paciente para fazer uso de terapias naturais com extratos e ervas e com...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+  },
+  {
+    "codigo_origem": "Q3974329",
+    "banca": "SELECON",
+    "orgao": "EMGEPRON",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - EMGEPRON - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Cuidados de Enfermagem , Assistência de Enfermagem em Feridas e Curativos",
+    "enunciado": "No pós-operatório de cirurgias de grande porte, a avaliação sistemática de complicações locais é atribuição do enfermeiro. Em relação ao seroma, pode-se dizer que a sua identificação clínica e a conduta adequada do enfermeiro, são, respectivamente:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "acúmulo de líquido seroso em espaço morto cirúrgico, manifestando-se por aumento de volume e flutuação local, geralmente sem sinais flogísticos importantes, cabendo ao enfermeiro monitorar, registrar e comunicar a equipe para avaliação"
+      },
+      {
+        "id": "B",
+        "texto": "extravasamento sanguíneo subcutâneo com equimose, dor variável e aumento de volume local, decorrente de sangramento tecidual, sendo considerado intercorrência possível no pós-operatório"
+      },
+      {
+        "id": "C",
+        "texto": "coleção purulenta associada à hiperemia, dor intensa, calor local e com possibilidade de febre, cuja conduta envolve antibioticoterapia e preparo para drenagem cirúrgica conforme avaliação médica"
+      },
+      {
+        "id": "D",
+        "texto": "complicação infecciosa sistêmica caracterizada por alterações laboratoriais e sinais gerais, cuja identificação prescinde da inspeção e palpação da ferida operatória 104 Ano: 2026"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0103",
+    "numero_ordem": 103,
+    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'acúmulo de líquido seroso em espaço morto cirúrgico, manifestando-se por aumento de v...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'extravasamento sanguíneo subcutâneo com equimose, dor variável e aumento de volume lo...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'coleção purulenta associada à hiperemia, dor intensa, calor local e com possibilidade...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'complicação infecciosa sistêmica caracterizada por alterações laboratoriais e sinais ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa ..."
+  },
+  {
+    "codigo_origem": "Q3884070",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Cuidados de Enfermagem",
+    "enunciado": "MT - Enfermeiro A Teoria Ambientalista de Florence Nightingale enfatiza a importância do ambiente no processo de recuperação do paciente. Para Nightingale, o enfermeiro deve ajustar fatores a fi m de promover condições favoráveis à cura. Entre os elementos ambientais considerados essenciais em sua teoria, inclui-se:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "a presença de familiares em tempo integral no quarto do paciente"
+      },
+      {
+        "id": "B",
+        "texto": "o uso de tecnologias avançadas de monitoramento vital"
+      },
+      {
+        "id": "C",
+        "texto": "a ventilação, a limpeza, a luz e o silêncio"
+      },
+      {
+        "id": "D",
+        "texto": "a aplicação de protocolos de medicação baseados em evidências 133 Ano: 2026"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0132",
+    "numero_ordem": 132,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a presença de familiares em tempo integral no quarto do paciente...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'o uso de tecnologias avançadas de monitoramento vital...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a ventilação, a limpeza, a luz e o silêncio...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a aplicação de protocolos de medicação baseados em evidências 133 Ano: 2026...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q3884069",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Cuidados de Enfermagem",
+    "enunciado": "MT - Enfermeiro A Teoria das Necessidades Humanas Básicas, proposta por Wanda de Aguiar Horta, fundamenta-se na ideia de que o cuidado de enfermagem deve ser planejado com base na identifi cação e atendimento das necessidades do paciente, considerando-o como um ser biopsicossocial. Segundo essa teoria, a hierarquização das necessidades é essencial para a priorização das intervenções. Nesse contexto, a correta sequência hierárquica proposta por Horta corresponde a necessidades:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "psicobiológicas, necessidades psicossociais, necessidades psicoespirituais"
+      },
+      {
+        "id": "B",
+        "texto": "de segurança, necessidades fisiológicas, necessidades de autoestima"
+      },
+      {
+        "id": "C",
+        "texto": "fisiológicas, necessidades de segurança, necessidades de amor e pertinência"
+      },
+      {
+        "id": "D",
+        "texto": "psicossociais, necessidades psicobiológicas, necessidades psicoespirituais 134 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0133",
+    "numero_ordem": 133,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'psicobiológicas, necessidades psicossociais, necessidades psicoespirituais...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'de segurança, necessidades fisiológicas, necessidades de autoestima...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'fisiológicas, necessidades de segurança, necessidades de amor e pertinência...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'psicossociais, necessidades psicobiológicas, necessidades psicoespirituais 134 Ano: 2...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q3810639",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Garças - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Cuidados de Enfermagem",
+    "enunciado": "Técnico em Enfermagem Durante a transfusão de hemácias, o paciente apresenta febre, dor lombar, taquicardia e queda de pressão arterial. O técnico deve reconhecer que esses sinais são sugestivos de reação hemolítica aguda. A conduta imediata é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "suspender a transfusão e manter acesso venoso com solução fisiológica"
+      },
+      {
+        "id": "B",
+        "texto": "prosseguir com a transfusão e comunicar o enfermeiro após o término"
+      },
+      {
+        "id": "C",
+        "texto": "reduzir a velocidade da transfusão e administrar antitérmico"
+      },
+      {
+        "id": "D",
+        "texto": "suspender a transfusão e manter infusão de glicose 5% 139 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0138",
+    "numero_ordem": 138,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'suspender a transfusão e manter acesso venoso com solução fisiológica...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'prosseguir com a transfusão e comunicar o enfermeiro após o término...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'reduzir a velocidade da transfusão e administrar antitérmico...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'suspender a transfusão e manter infusão de glicose 5% 139 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q3802715",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Garças - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Cuidados de Enfermagem , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "A Doença Pulmonar Obstrutiva Crônica (DPOC) é uma condição crônico-degenerativa progressiva, caracterizada por limitação do fluxo aéreo, geralmente causada pela exposição prolongada a irritantes, como fumaça de cigarro. O enfermeiro atua na educação, manejo de sintomas e prevenção de exacerbações. Em um paciente com DPOC, que apresenta dispneia e tosse produtiva, a intervenção de enfermagem prioritária para melhorar a ventilação e o conforto respiratório é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "incentivar a hidratação adequada e ensinar técnicas de higiene brônquica, como a tosse eficaz e a respiração com lábios semicerrados"
+      },
+      {
+        "id": "B",
+        "texto": "orientar o paciente a reter a tosse para evitar o esforço excessivo"
+      },
+      {
+        "id": "C",
+        "texto": "manter o paciente em decúbito dorsal horizontal para promover o relaxamento"
+      },
+      {
+        "id": "D",
+        "texto": "administrar sedativos para diminuir a percepção da dispneia, sem abordar a causa 156 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0155",
+    "numero_ordem": 155,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'incentivar a hidratação adequada e ensinar técnicas de higiene brônquica, como a toss...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'orientar o paciente a reter a tosse para evitar o esforço excessivo...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'manter o paciente em decúbito dorsal horizontal para promover o relaxamento...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'administrar sedativos para diminuir a percepção da dispneia, sem abordar a causa 156 ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q3802699",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Garças - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Cuidados de Enfermagem , Fundamentos e Procedimentos de Enfermagem",
+    "enunciado": "A higiene pessoal do paciente é uma intervenção de enfermagem crucial que vai além da simples limpeza física. Ela contribui significativamente para o conforto, a autoestima, a prevenção de infecções e a avaliação da integridade da pele. Ao realizar o banho no leito em um paciente acamado, com mobilidade reduzida e risco de lesão por pressão, a equipe de enfermagem deve adotar uma série de cuidados específicos para garantir a segurança e a eficácia do procedimento. Considerando esses aspectos, a prática que é mais adequada para a realização do banho no leito, visando à prevenção de complicações e à promoção do bem-estar, consiste em:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "utilizar água muito quente para garantir a desinfecção da pele e esfregar vigorosamente para remover sujidades, sem se preocupar com a temperatura ambiente"
+      },
+      {
+        "id": "B",
+        "texto": "manter a privacidade do paciente, utilizar água morna, cobrir as partes do corpo que não estão sendo lavadas, inspecionar a pele durante o processo e realizar massagens suaves em proeminências ósseas"
+      },
+      {
+        "id": "C",
+        "texto": "realizar o banho rapidamente, sem cobrir o paciente, para evitar a perda de tempo e a necessidade de reposicionamento"
+      },
+      {
+        "id": "D",
+        "texto": "deixar o paciente molhado após o banho, para que a pele seque naturalmente, pois a fricção com a toalha pode causar irritação 167 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0166",
+    "numero_ordem": 166,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'utilizar água muito quente para garantir a desinfecção da pele e esfregar vigorosamen...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'manter a privacidade do paciente, utilizar água morna, cobrir as partes do corpo que ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'realizar o banho rapidamente, sem cobrir o paciente, para evitar a perda de tempo e a...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'deixar o paciente molhado após o banho, para que a pele seque naturalmente, pois a fr...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
   },
   {
     "codigo_origem": "Q3623619",
@@ -384,28 +696,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0118",
-    "numero_ordem": 118,
-    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "id": "EF0198",
+    "numero_ordem": 198,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'embolia gasosa...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'embolia gasosa...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'infiltração 199 Ano: 2025...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'infiltração 199 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   },
   {
     "codigo_origem": "Q3623614",
@@ -436,28 +748,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0123",
-    "numero_ordem": 123,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0203",
+    "numero_ordem": 203,
+    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manutenção do paciente sempre na posição dorsal...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'manutenção do paciente sempre na posição dorsal...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'mudança de decúbito a cada 6 horas...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'mudança de decúbito a cada 6 horas...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realização de mudança postural a cada 2 horas...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'realização de mudança postural a cada 2 horas...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'direito de escolha do paciente sobre a posição que deseja fi car durante todo o dia 204 An...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'direito de escolha do paciente sobre a posição que deseja fi car durante todo o dia 2...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa ..."
   },
   {
     "codigo_origem": "Q3615476",
@@ -488,28 +800,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0145",
-    "numero_ordem": 145,
-    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "id": "EF0225",
+    "numero_ordem": 225,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'irrigar a ferida com solução antisséptica à base de álcool e cobrir com gaze seca para abs...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'irrigar a ferida com solução antisséptica à base de álcool e cobrir com gaze seca par...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'cobrir a ferida com curativo oclusivo impermeável sem limpeza prévia para evitar contamina...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'cobrir a ferida com curativo oclusivo impermeável sem limpeza prévia para evitar cont...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aplicar pomada antibiótica em toda a extensão da ferida, mesmo sem prescrição, para aceler...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'aplicar pomada antibiótica em toda a extensão da ferida, mesmo sem prescrição, para a...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar limpeza com solução fisiológica estéril, utilizar técnica asséptica e aplicar cob...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'realizar limpeza com solução fisiológica estéril, utilizar técnica asséptica e aplica...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
   },
   {
     "codigo_origem": "Q3489355",
@@ -540,28 +852,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0152",
-    "numero_ordem": 152,
-    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "id": "EF0232",
+    "numero_ordem": 232,
+    "fundamentacao_correta": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar limpeza com solução de clorexidina alcoóica vigorosamente para garantir a desinfe...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'realizar limpeza com solução de clorexidina alcoóica vigorosamente para garantir a de...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aplicar papaína a 10% para promover o desbridamento químico do tecido necrótico presente, ...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'aplicar papaína a 10% para promover o desbridamento químico do tecido necrótico prese...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'deixar a ferida exposta ao ar para acelerar a secagem e formação de crosta, orientando o p...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'deixar a ferida exposta ao ar para acelerar a secagem e formação de crosta, orientand...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'limpar a lesão suavemente com solução salina isotônica (0,9%), aplicar um curativo que man...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'limpar a lesão suavemente com solução salina isotônica (0,9%), aplicar um curativo qu...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+    "comentario": "Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa ..."
   },
   {
     "codigo_origem": "Q3287496",
@@ -592,28 +904,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0161",
-    "numero_ordem": 161,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0241",
+    "numero_ordem": 241,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o balanço hídrico é realizado apenas quando o paciente apresenta sinais de desidratação, e...'."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o balanço hídrico é realizado apenas quando o paciente apresenta sinais de desid...'."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o balanço hídrico é irrelevante para pacientes com função renal preservada, e o débito uri...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'o balanço hídrico é irrelevante para pacientes com função renal preservada, e o débit...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o balanço hídrico deve serrealizado apenas em pacientes com insuficiência renal aguda, e o...'."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o balanço hídrico deve serrealizado apenas em pacientes com insuficiência renal ...'."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a medição do balanço hídrico envolve a monitorização de líquidos administrados e excretado...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a medição do balanço hídrico envolve a monitorização de líquidos administrados e excr...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q3287492",
@@ -644,28 +956,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0165",
-    "numero_ordem": 165,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0245",
+    "numero_ordem": 245,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a cicatrização por terceira intenção ocorre com a aplicação de curativos com agentes enzim...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a cicatrização por terceira intenção ocorre com a aplicação de curativos com agentes ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a cicatrização por terceira intenção é indicada apenas em feridas com grande quantidade de...'."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a cicatrização por terceira intenção é indicada apenas em feridas com grande qua...'."
       },
       {
         "letra": "C",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a cicatrização por terceira intenção ocorre quando a ferida é suturada imediatamente ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'A cicatrização por terceira intenção é caracterizada pelo fechamento da ferida após uma fa...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'A cicatrização por terceira intenção é caracterizada pelo fechamento da ferida após u...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
   },
   {
     "codigo_origem": "Q3265175",
@@ -696,28 +1008,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0171",
-    "numero_ordem": 171,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0251",
+    "numero_ordem": 251,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a administração de diuréticos deve ser evitada em pacientes com ascite, pois pode agravar ...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a administração de diuréticos deve ser evitada em pacientes com ascite, pois pode agr...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a monitorização dos níveis de amônia sanguínea é irrelevante, uma vez que a encefalopatia ...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a monitorização dos níveis de amônia sanguínea é irrelevante, uma vez que a encefalop...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a orientação ao paciente sobre a restrição de sódio na dieta é fundamental para controlar ...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a orientação ao paciente sobre a restrição de sódio na dieta é fundamental para contr...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a realização de paracentese terapêutica é indicada apenas em casos de ascite refratária e ...'."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a realização de paracentese terapêutica é indicada apenas em casos de ascite ref...'."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q3265161",
@@ -748,28 +1060,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0181",
-    "numero_ordem": 181,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0261",
+    "numero_ordem": 261,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a ECG avalia a profundidade do coma considerando três parâmetros: resposta visual, respost...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a ECG avalia a profundidade do coma considerando três parâmetros: resposta visual, re...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a pontuação máxima na ECG é 15, indicando um paciente em coma profundo...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a pontuação máxima na ECG é 15, indicando um paciente em coma profundo...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a ECG avalia três parâmetros: abertura ocular, resposta verbal e resposta motora, com a po...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a ECG avalia três parâmetros: abertura ocular, resposta verbal e resposta motora, com...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'em caso de paciente intubado, a avaliação da ECG deve ser suspensa, pois não é possível ap...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'em caso de paciente intubado, a avaliação da ECG deve ser suspensa, pois não é possív...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q2528684",
@@ -804,32 +1116,32 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0264",
-    "numero_ordem": 264,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0344",
+    "numero_ordem": 344,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'acolhimento...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'acolhimento...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'exame físico...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'exame físico...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "E",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'assistência de alta complexidade...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'assistência de alta complexidade...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q2477209",
@@ -860,28 +1172,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0339",
-    "numero_ordem": 339,
-    "fundamentacao_correta": "Conforme as Recomendações de Boas Práticas em Nutrição Enteral da BRASPEN e da ANVISA (RDC nº 63/2000), a prevenção da pneumonia por broncoaspiração em pacientes recebendo dieta por sonda enteral exige a manutenção da cabeceira elevada em ângulo de 30° a 45° durante toda a infusão e por no mínimo 30 a 60 minutos após o término da dieta, para garantir o esvaziamento gástrico seguro. A alternativa [] descreve exatamente essa conduta preconizada.",
+    "id": "EF0419",
+    "numero_ordem": 419,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ortostática 420 Ano: 2024...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'ortostática 420 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme as Recomendações de Boas Práticas em Nutrição Enteral da BRASPEN e da ANVISA (RDC nº 63/2000), a prevenção da pneumonia por broncoaspiração em pacientes recebendo dieta por sonda enteral exige a manutenção da cabeceira elevada em ângulo de 3..."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q2454921",
@@ -912,339 +1224,183 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0413",
-    "numero_ordem": 413,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0493",
+    "numero_ordem": 493,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'executar ações assistenciais de enfermagem...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'executar ações assistenciais de enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'prestar assistência de alta complexidade...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'prestar assistência de alta complexidade...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'planejar a assistência de enfermagem...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'planejar a assistência de enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'coordenar a equipe de enfermagem 494 Ano: 2024...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'coordenar a equipe de enfermagem 494 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
-    "codigo_origem": "Q3974329",
+    "codigo_origem": "Q2160735",
     "banca": "SELECON",
-    "orgao": "EMGEPRON",
-    "ano": 2026,
-    "prova": "SELECON - 2026 - EMGEPRON - Enfermeiro",
-    "cargo": "Enfermeiro",
-    "materia": "Enfermagem",
-    "assunto": "Cuidados de Enfermagem , Assistência de Enfermagem em Feridas e Curativos",
-    "enunciado": "No pós-operatório de cirurgias de grande porte, a avaliação sistemática de complicações locais é atribuição do enfermeiro. Em relação ao seroma, pode-se dizer que a sua identificação clínica e a conduta adequada do enfermeiro, são, respectivamente:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "acúmulo de líquido seroso em espaço morto cirúrgico, manifestando-se por aumento de volume e flutuação local, geralmente sem sinais flogísticos importantes, cabendo ao enfermeiro monitorar, registrar e comunicar a equipe para avaliação"
-      },
-      {
-        "id": "B",
-        "texto": "extravasamento sanguíneo subcutâneo com equimose, dor variável e aumento de volume local, decorrente de sangramento tecidual, sendo considerado intercorrência possível no pós-operatório"
-      },
-      {
-        "id": "C",
-        "texto": "coleção purulenta associada à hiperemia, dor intensa, calor local e com possibilidade de febre, cuja conduta envolve antibioticoterapia e preparo para drenagem cirúrgica conforme avaliação médica"
-      },
-      {
-        "id": "D",
-        "texto": "complicação infecciosa sistêmica caracterizada por alterações laboratoriais e sinais gerais, cuja identificação prescinde da inspeção e palpação da ferida operatória 104 Ano: 2026"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0443",
-    "numero_ordem": 443,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'acúmulo de líquido seroso em espaço morto cirúrgico, manifestando-se por aumento de volume...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'extravasamento sanguíneo subcutâneo com equimose, dor variável e aumento de volume local, ...'."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'coleção purulenta associada à hiperemia, dor intensa, calor local e com possibilidade de f...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'complicação infecciosa sistêmica caracterizada por alterações laboratoriais e sinais gerai...'."
-      }
-    ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
-  },
-  {
-    "codigo_origem": "Q3884070",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
-    "ano": 2026,
-    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
-    "cargo": "Enfermeiro",
-    "materia": "Enfermagem",
-    "assunto": "Cuidados de Enfermagem",
-    "enunciado": "MT - Enfermeiro A Teoria Ambientalista de Florence Nightingale enfatiza a importância do ambiente no processo de recuperação do paciente. Para Nightingale, o enfermeiro deve ajustar fatores a fi m de promover condições favoráveis à cura. Entre os elementos ambientais considerados essenciais em sua teoria, inclui-se:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "a presença de familiares em tempo integral no quarto do paciente"
-      },
-      {
-        "id": "B",
-        "texto": "o uso de tecnologias avançadas de monitoramento vital"
-      },
-      {
-        "id": "C",
-        "texto": "a ventilação, a limpeza, a luz e o silêncio"
-      },
-      {
-        "id": "D",
-        "texto": "a aplicação de protocolos de medicação baseados em evidências 133 Ano: 2026"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0472",
-    "numero_ordem": 472,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a presença de familiares em tempo integral no quarto do paciente...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o uso de tecnologias avançadas de monitoramento vital...'."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a ventilação, a limpeza, a luz e o silêncio...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a aplicação de protocolos de medicação baseados em evidências 133 Ano: 2026...'."
-      }
-    ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
-  },
-  {
-    "codigo_origem": "Q3884069",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
-    "ano": 2025,
-    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
-    "cargo": "Enfermeiro",
-    "materia": "Enfermagem",
-    "assunto": "Cuidados de Enfermagem",
-    "enunciado": "MT - Enfermeiro A Teoria das Necessidades Humanas Básicas, proposta por Wanda de Aguiar Horta, fundamenta-se na ideia de que o cuidado de enfermagem deve ser planejado com base na identifi cação e atendimento das necessidades do paciente, considerando-o como um ser biopsicossocial. Segundo essa teoria, a hierarquização das necessidades é essencial para a priorização das intervenções. Nesse contexto, a correta sequência hierárquica proposta por Horta corresponde a necessidades:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "psicobiológicas, necessidades psicossociais, necessidades psicoespirituais"
-      },
-      {
-        "id": "B",
-        "texto": "de segurança, necessidades fisiológicas, necessidades de autoestima"
-      },
-      {
-        "id": "C",
-        "texto": "fisiológicas, necessidades de segurança, necessidades de amor e pertinência"
-      },
-      {
-        "id": "D",
-        "texto": "psicossociais, necessidades psicobiológicas, necessidades psicoespirituais 134 Ano: 2025"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0473",
-    "numero_ordem": 473,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'psicobiológicas, necessidades psicossociais, necessidades psicoespirituais...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'de segurança, necessidades fisiológicas, necessidades de autoestima...'."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'fisiológicas, necessidades de segurança, necessidades de amor e pertinência...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'psicossociais, necessidades psicobiológicas, necessidades psicoespirituais 134 Ano: 2025...'."
-      }
-    ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
-  },
-  {
-    "codigo_origem": "Q3810639",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Barra do Garças - MT",
-    "ano": 2025,
-    "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
+    "orgao": "Prefeitura de Nova Mutum - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Nova Mutum - MT - Técnico",
     "cargo": "Técnico de Enfermagem",
     "materia": "Enfermagem",
     "assunto": "Cuidados de Enfermagem",
-    "enunciado": "Técnico em Enfermagem Durante a transfusão de hemácias, o paciente apresenta febre, dor lombar, taquicardia e queda de pressão arterial. O técnico deve reconhecer que esses sinais são sugestivos de reação hemolítica aguda. A conduta imediata é:",
+    "enunciado": "em Enfermagem A aplicação de calor nas estruturas do organismo é um procedimento de enfermagem que promove o relaxamento dos músculos, a estimulação da circulação por meio da dilatação dos vasos sanguíneos e diminui a dor local. Uma contraindicação para realizar esse procedimento é a:",
     "alternativas": [
       {
         "id": "A",
-        "texto": "suspender a transfusão e manter acesso venoso com solução fisiológica"
+        "texto": "flebite"
       },
       {
         "id": "B",
-        "texto": "prosseguir com a transfusão e comunicar o enfermeiro após o término"
+        "texto": "dor muscular"
       },
       {
         "id": "C",
-        "texto": "reduzir a velocidade da transfusão e administrar antitérmico"
+        "texto": "retenção urinária"
       },
       {
         "id": "D",
-        "texto": "suspender a transfusão e manter infusão de glicose 5% 139 Ano: 2025"
+        "texto": "luxação ou torção antes de 24 horas 673 Ano: 2023"
       }
     ],
     "resposta_correta": "",
-    "id": "EF0478",
-    "numero_ordem": 478,
-    "fundamentacao_correta": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.",
+    "id": "EF0672",
+    "numero_ordem": 672,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'suspender a transfusão e manter acesso venoso com solução fisiológica...'."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'prosseguir com a transfusão e comunicar o enfermeiro após o término...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'dor muscular...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'reduzir a velocidade da transfusão e administrar antitérmico...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'retenção urinária...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'suspender a transfusão e manter infusão de glicose 5% 139 Ano: 2025...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'luxação ou torção antes de 24 horas 673 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para ..."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
-    "codigo_origem": "Q3802715",
+    "codigo_origem": "Q2408175",
     "banca": "SELECON",
-    "orgao": "Prefeitura de Barra do Garças - MT",
-    "ano": 2025,
-    "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
+    "orgao": "Câmara de São Gonçalo - RJ",
+    "ano": 2022,
+    "prova": "SELECON - 2022 - Câmara de São Gonçalo - RJ - Agente de",
     "cargo": "Enfermeiro",
     "materia": "Enfermagem",
-    "assunto": "Cuidados de Enfermagem , Doenças Crônicas Não Transmissíveis",
-    "enunciado": "A Doença Pulmonar Obstrutiva Crônica (DPOC) é uma condição crônico-degenerativa progressiva, caracterizada por limitação do fluxo aéreo, geralmente causada pela exposição prolongada a irritantes, como fumaça de cigarro. O enfermeiro atua na educação, manejo de sintomas e prevenção de exacerbações. Em um paciente com DPOC, que apresenta dispneia e tosse produtiva, a intervenção de enfermagem prioritária para melhorar a ventilação e o conforto respiratório é:",
+    "assunto": "Cuidados de Enfermagem",
+    "enunciado": "Segurança Legislativo Uma lesão causada por um movimento brusco e violento, porém sem fraturas, com muita dor e edema podendo causar rompimento de vasos sanguíneos, ligamentos e tendões e que, além disso, necessita de uma rápida imobilização, é chamada de:",
     "alternativas": [
       {
         "id": "A",
-        "texto": "incentivar a hidratação adequada e ensinar técnicas de higiene brônquica, como a tosse eficaz e a respiração com lábios semicerrados"
+        "texto": "síndrome compartimental"
       },
       {
         "id": "B",
-        "texto": "orientar o paciente a reter a tosse para evitar o esforço excessivo"
+        "texto": "distensão traumática"
       },
       {
         "id": "C",
-        "texto": "manter o paciente em decúbito dorsal horizontal para promover o relaxamento"
+        "texto": "luxação"
       },
       {
         "id": "D",
-        "texto": "administrar sedativos para diminuir a percepção da dispneia, sem abordar a causa 156 Ano: 2025"
+        "texto": "entorse 685 Ano: 2022"
       }
     ],
     "resposta_correta": "",
-    "id": "EF0495",
-    "numero_ordem": 495,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0684",
+    "numero_ordem": 684,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'incentivar a hidratação adequada e ensinar técnicas de higiene brônquica, como a tosse efi...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'síndrome compartimental...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'orientar o paciente a reter a tosse para evitar o esforço excessivo...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'distensão traumática...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter o paciente em decúbito dorsal horizontal para promover o relaxamento...'."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administrar sedativos para diminuir a percepção da dispneia, sem abordar a causa 156 Ano: ...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'entorse 685 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
-    "codigo_origem": "Q3802699",
+    "codigo_origem": "Q1320487",
     "banca": "SELECON",
-    "orgao": "Prefeitura de Barra do Garças - MT",
-    "ano": 2025,
-    "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
-    "cargo": "Enfermeiro",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2020,
+    "prova": "SELECON - 2020 - Prefeitura de Boa Vista - RR - Técnico de",
+    "cargo": "Técnico de Enfermagem",
     "materia": "Enfermagem",
-    "assunto": "Cuidados de Enfermagem , Fundamentos e Procedimentos de Enfermagem",
-    "enunciado": "A higiene pessoal do paciente é uma intervenção de enfermagem crucial que vai além da simples limpeza física. Ela contribui significativamente para o conforto, a autoestima, a prevenção de infecções e a avaliação da integridade da pele. Ao realizar o banho no leito em um paciente acamado, com mobilidade reduzida e risco de lesão por pressão, a equipe de enfermagem deve adotar uma série de cuidados específicos para garantir a segurança e a eficácia do procedimento. Considerando esses aspectos, a prática que é mais adequada para a realização do banho no leito, visando à prevenção de complicações e à promoção do bem-estar, consiste em:",
+    "assunto": "Cuidados de Enfermagem",
+    "enunciado": "Enfermagem O técnico de enfermagem é um profissional importante, na equipe de saúde, para detectar precocemente sinais de instabilidade clínica. Dessa forma, os locais utilizados para mensurar a frequência do pulso são:",
     "alternativas": [
       {
         "id": "A",
-        "texto": "utilizar água muito quente para garantir a desinfecção da pele e esfregar vigorosamente para remover sujidades, sem se preocupar com a temperatura ambiente"
+        "texto": "axilar e apical"
       },
       {
         "id": "B",
-        "texto": "manter a privacidade do paciente, utilizar água morna, cobrir as partes do corpo que não estão sendo lavadas, inspecionar a pele durante o processo e realizar massagens suaves em proeminências ósseas"
+        "texto": "apical e radial"
       },
       {
         "id": "C",
-        "texto": "realizar o banho rapidamente, sem cobrir o paciente, para evitar a perda de tempo e a necessidade de reposicionamento"
+        "texto": "carótida e glúteo"
       },
       {
         "id": "D",
-        "texto": "deixar o paciente molhado após o banho, para que a pele seque naturalmente, pois a fricção com a toalha pode causar irritação 167 Ano: 2025"
+        "texto": "femoral e palmar 754 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Prefeitura de Boa Vista - RR Prova: SELECON - 2020 - Prefeitura de Boa Vista - RR - Técnico de"
       }
     ],
     "resposta_correta": "",
-    "id": "EF0506",
-    "numero_ordem": 506,
-    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "id": "EF0753",
+    "numero_ordem": 753,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar água muito quente para garantir a desinfecção da pele e esfregar vigorosamente pa...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'axilar e apical...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter a privacidade do paciente, utilizar água morna, cobrir as partes do corpo que não e...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'apical e radial...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar o banho rapidamente, sem cobrir o paciente, para evitar a perda de tempo e a nece...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'carótida e glúteo...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'deixar o paciente molhado após o banho, para que a pele seque naturalmente, pois a fricção...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'femoral e palmar 754 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS:...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   }
 ]

@@ -1,5 +1,5 @@
 === CADERNO DE QUESTÕES: DOENÇAS INFECCIOSAS E PARASITÁRIAS ===
-Total: 12 questões
+Total: 22 questões
 
 QUESTÃO 1 [Código: EF0095] - EMGEPRON (SELECON 2026) - Enfermeiro
 Assunto: Doenças Infecciosas e parasitárias
@@ -11,16 +11,16 @@ Paciente adulto, 32 anos, no 4º dia de febre, mialgia e cefaleia, evolui com do
   [D] quadro viral febril em fase de defervescência, com trombocitopenia esperada e sintomas gastrointestinais inespecíficos, passível de manejo ambulatorial mediante orientação e retorno programado
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'dengue sem sinais de alarme, com indicação de acompanhamento ambulatorial e hidratação ora...'.
-   • Alternativa B: Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'dengue com sinais de alarme, demandando monitoramento clínico rigoroso, reavaliação labora...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'quadro viral febril em fase de defervescência, com trombocitopenia esperada e sintomas gas...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'dengue sem sinais de alarme, com indicação de acompanhamento ambulatorial e hidrataçã...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'dengue grave, caracterizada exclusivamente pela presença de choque instalado ou ...'.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'dengue com sinais de alarme, demandando monitoramento clínico rigoroso, reavaliação l...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'quadro viral febril em fase de defervescência, com trombocitopenia esperada e sintoma...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 2 [Código: EF0113] - Prefeitura de Marcelândia - MT (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 2 [Código: EF0193] - Prefeitura de Marcelândia - MT (SELECON 2025) - Técnico de Enfermagem
 Assunto: Doenças Infecciosas e parasitárias
 em Enfermagem Um homem de 45 anos, vítima de acidente motociclístico, apresenta sangramento ativo em membro inferior, palidez intensa, extremidades frias, pulso filiforme e pressão arterial de 80 x 50 mmHg. Apesar de consciente, relata sede intensa e ansiedade. Esses achados indicam o desenvolvimento de um quadro de choque hipovolêmico, cuja principal alteração fisiopatológica é:
 
@@ -30,16 +30,16 @@ em Enfermagem Um homem de 45 anos, vítima de acidente motociclístico, apresent
   [D] aumento súbito da resistência vascular periférica, associado à lesão medular e perda do tônus simpático 194 Ano: 2025
 
 ✅ Gabarito: 
-💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'comprometimento primário da contratilidade miocárdica, ocasionando acúmulo de sangue no te...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vasodilatação sistêmica mediada por liberação de endotoxinas bacterianas, resultando em re...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'diminuição do volume circulante efetivo, levando à redução do retorno venoso e consequente...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aumento súbito da resistência vascular periférica, associado à lesão medular e perda do tô...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'comprometimento primário da contratilidade miocárdica, ocasionando acúmulo de sangue ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'vasodilatação sistêmica mediada por liberação de endotoxinas bacterianas, resultando ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'diminuição do volume circulante efetivo, levando à redução do retorno venoso e conseq...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'aumento súbito da resistência vascular periférica, associado à lesão medular e perda ...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 3 [Código: EF0135] - Prefeitura de Tapurah - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 3 [Código: EF0215] - Prefeitura de Tapurah - MT (SELECON 2024) - Enfermeiro
 Assunto: Doenças Infecciosas e parasitárias
 As doenças crônicas transmissíveis podem apresentar diferentes perfis de transmissibilidade. No contexto da hanseníase (lepra), assinale a alternativa cujo fator fisiopatológico principal contribui para sua natureza crônica e potencial disseminação na comunidade:
 
@@ -49,16 +49,16 @@ As doenças crônicas transmissíveis podem apresentar diferentes perfis de tran
   [D] poder do Mycobacterium leprae de sobreviver e multiplicar-se lentamente nos tecidos periféricos, especialmente nos nervos 216 Enfermagem > Doenças Crônicas Não Transmissíveis , Doenças Crônicas Não Transmissíveis: panorama geral e plano de enfrentamento Banca: SELECON Órgão: Prefeitura de Tapurah - MT Prova: SELECON - 2025 - Prefeitura de Tapurah - MT -
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'alto poder citotóxico do bacilo, culminando em morte celular aguda...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ausência de resposta imune por parte do hospedeiro, favorecendo manifestações fulminantes...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'predominância de transmissão vertical com baixa infectividade comunitária...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'poder do Mycobacterium leprae de sobreviver e multiplicar-se lentamente nos tecidos perifé...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'alto poder citotóxico do bacilo, culminando em morte celular aguda...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'ausência de resposta imune por parte do hospedeiro, favorecendo manifestações fulmina...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'predominância de transmissão vertical com baixa infectividade comunitária...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'poder do Mycobacterium leprae de sobreviver e multiplicar-se lentamente nos tecidos p...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 4 [Código: EF0297] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 4 [Código: EF0377] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Doenças Infecciosas e parasitárias
 O HBV, vírus da Hepatite B, é altamente infeccioso e facilmente transmitido pelos líquidos corporais. O período de incubação do HBV é de:
 
@@ -69,17 +69,17 @@ O HBV, vírus da Hepatite B, é altamente infeccioso e facilmente transmitido pe
   [E] 15 a 90 dias 378 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '15 a 120 dias...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '30 a 120 dias...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '15 a 180 dias...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '30 a 180 dias...'.
-   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '15 a 90 dias 378 Ano: 2024...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois '15 a 120 dias...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois '30 a 120 dias...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois '15 a 180 dias...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois '30 a 180 dias...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa E: Incorreta perante os protocolos técnicos, pois '15 a 90 dias 378 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 5 [Código: EF0332] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 5 [Código: EF0412] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
 Assunto: Doenças Infecciosas e parasitárias
 Entre os sintomas da infecção pelo VSR, os mais comuns são: obstrução nasal, coriza hialina, tosse, febre, recusa alimentar e irritabilidade. É importante ficar atento a outros sinais de alerta, como febre alta, tosse persistente, dificuldade para respirar, chiado no peito, cianose, gemência, retração torácica, apneia, hipoatividade e prostração. No aparecimento desses sintomas de alerta, a recomendação é procurar um serviço de saúde para atendimento. O nome do VSR é:
 
@@ -89,16 +89,16 @@ Entre os sintomas da infecção pelo VSR, os mais comuns são: obstrução nasal
   [D] vírus sentinela respiratório 413 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vírus S respiratório...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vírus sancial respiratório...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vírus sincicial respiratório...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vírus sentinela respiratório 413 Ano: 2024...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'vírus S respiratório...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'vírus sancial respiratório...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'vírus sincicial respiratório...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'vírus sentinela respiratório 413 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 6 [Código: EF0334] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 6 [Código: EF0414] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
 Assunto: Doenças Infecciosas e parasitárias
 A doença transmitida da mãe para o feto pela circulação sanguínea é a forma mais grave, porque pode provocar malformações congênitas, como surdez e problemas visuais na criança e também pode levar a partos de natimortos. Essa doença é denominada:
 
@@ -108,16 +108,16 @@ A doença transmitida da mãe para o feto pela circulação sanguínea é a form
   [D] sífilis 415 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'toxoplasmose...'.
-   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'sífilis 415 Ano: 2024...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'toxoplasmose...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'sífilis 415 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 7 [Código: EF0343] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 7 [Código: EF0423] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
 Assunto: Doenças Infecciosas e parasitárias
 A doença infecciosa grave, não contagiosa, que acomete o recém-nascido nos primeiros 28 dias de vida, tendo como sintoma inicial dificuldade de sucção, irritabilidade e choro constante, causada por uma bactéria, mas evitada pela vacinação adequada da mãe, é:
 
@@ -127,16 +127,16 @@ A doença infecciosa grave, não contagiosa, que acomete o recém-nascido nos pr
   [D] tifo
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'poliomielite...'.
-   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa D: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'poliomielite...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
 
 ------------------------------------------------------------
 
-QUESTÃO 8 [Código: EF0389] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 8 [Código: EF0469] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
 Assunto: Doenças Infecciosas e parasitárias
 Administrativo - Saúde/40h Um hospital referência em doenças infecto-parasitárias recebe um paciente com quadro clínico grave, apresentando febre alta, icterícia, náuseas, vômitos e dor abdominal intensa. Ao realizar a anamnese, a equipe obtém informações sobre os hábitos alimentares do paciente, que incluem o consumo frequente de carne suína mal cozida e a ingestão de água de poço sem tratamento. Com base no quadro clínico e nas informações coletadas, a doença infecto-parasitária mais provável de estar afetando o paciente é:
 
@@ -146,16 +146,16 @@ Administrativo - Saúde/40h Um hospital referência em doenças infecto-parasit�
   [D] leptospirose 470 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Prefeitura de Água Boa - MT Prova: SELECON - 2024 - Prefeitura de Água Boa - MT - Agente
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ascaridíase...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'leptospirose 470 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS...'.
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'ascaridíase...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'leptospirose 470 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde ...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 9 [Código: EF0401] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 9 [Código: EF0481] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Doenças Infecciosas e parasitárias , COVID-19
 Enfermagem Covid 19 é uma infecção respiratória causada pelo coronavírus SARS-CoV-2. A doença é potencialmente grave, altamente transmissível e espalhou-se por todo o mundo. Há pessoas que não apresentam sintomas, outras têm sintomas leves, como febre, cansaço, tosse seca. Entre os sintomas de quadros graves da Covid-19 estão:
 
@@ -165,16 +165,16 @@ Enfermagem Covid 19 é uma infecção respiratória causada pelo coronavírus SA
   [D] sangramento e perda de peso
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'sangramento e náuseas...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'perda de peso e náuseas...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'falta de ar e perda de apetite...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'sangramento e perda de peso...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'sangramento e náuseas...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'perda de peso e náuseas...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'falta de ar e perda de apetite...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'sangramento e perda de peso...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 10 [Código: EF0419] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 10 [Código: EF0499] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
 Assunto: Doenças Infecciosas e parasitárias , Hepatites
 O HBV, vírus da Hepatite B, é altamente infeccioso e facilmente transmitido pela via sexual, por transfusões de sangue, procedimentos médicos e odontológicos e hemodiálises sem as adequadas normas de biossegurança, pela transmissão vertical (mãe-filho), por contatos íntimos domiciliares (compartilhamento de escova dental e lâminas de barbear), acidentes perfuro cortantes, compartilhamento de seringas e de material para a realização de tatuagens e piercings. O período de incubação do HBV é de:
 
@@ -184,16 +184,16 @@ O HBV, vírus da Hepatite B, é altamente infeccioso e facilmente transmitido pe
   [D] 30 a 180 dias
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '15 a 120 dias...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '15 a 180 dias...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '30 a 120 dias...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '30 a 180 dias...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois '15 a 120 dias...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois '15 a 180 dias...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois '30 a 120 dias...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois '30 a 180 dias...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 11 [Código: EF0434] - Prefeitura de Dourados - MS (SELECON 2023) - Enfermeiro
+QUESTÃO 11 [Código: EF0514] - Prefeitura de Dourados - MS (SELECON 2023) - Enfermeiro
 Assunto: Doenças Infecciosas e parasitárias
 A classificação do HIV é feita por meio da análise filogenética de sequências nucleotídicas dos vírus. A classificação atual é hierárquica e consiste em tipos, grupos, subtipos e formas recombinantes. O HIV-1 e o HIV-2 são tipos distintos do vírus, mais distantes filogeneticamente. O HIV-1 é subdividido em quatro grupos chamados:
 
@@ -201,14 +201,14 @@ A classificação do HIV é feita por meio da análise filogenética de sequênc
   [C] D AG, CG, UG e JG J X, P G , W Y e J U WR, CG, VG e LG MG , N G , O G e P G 515 Ano: 2023
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'D AG, CG, UG e JG J X, P G , W Y e J U WR, CG, VG e LG MG , N G , O G e P G 515 Ano: 2023...'.
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'D AG, CG, UG e JG J X, P G , W Y e J U WR, CG, VG e LG MG , N G , O G e P G 515 Ano: ...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 12 [Código: EF0439] - Prefeitura de Dourados - MS (SELECON 2023) - Enfermeiro
+QUESTÃO 12 [Código: EF0519] - Prefeitura de Dourados - MS (SELECON 2023) - Enfermeiro
 Assunto: Doenças Infecciosas e parasitárias
 A Covid-19 é uma infecção respiratória aguda causada pelo vírus SARS-CoV-2, que pode evoluir com diversas síndromes clínicas associada à infecção viral. Uma complicação grave que compromete a oxigenação, em pacientes adultos, quando ocorre uma relação PaO2/FiO2 ≤ 100 mmHg (com PEEP ≥ 5 cm H2O, ou não ventilado), é chamada de:
 
@@ -218,12 +218,193 @@ A Covid-19 é uma infecção respiratória aguda causada pelo vírus SARS-CoV-2,
   [D] doença pulmonar obstrutiva crônica (DPOC) 520 Ano: 2023
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'síndrome da angústia respiratória aguda (SARA)...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'insuficiência cardíaca congestiva global (ICC)...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'trombocitopenia induzida por heparina (HIT)...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'doença pulmonar obstrutiva crônica (DPOC) 520 Ano: 2023...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'síndrome da angústia respiratória aguda (SARA)...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'insuficiência cardíaca congestiva global (ICC)...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'trombocitopenia induzida por heparina (HIT)...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'doença pulmonar obstrutiva crônica (DPOC) 520 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 13 [Código: EF0526] - Prefeitura de Dourados - MS (SELECON 2023) - Enfermeiro
+Assunto: Doenças Infecciosas e parasitárias
+A dengue é a arbovirose urbana mais prevalente nas Américas, principalmente no Brasil. Além da febre, pode apresentar outros sinais de alarme, dentre os quais podem-se citar:
+
+  [A] febre alta > 38°C, manchas vermelhas no corpo e queda acentuada do hematócrito
+  [B] dor abdominal leve, convulsões e esplenomegalia maior que 4 cm abaixo do rebordo costal
+  [C] dor no corpo e articulações, epigastralgia com queimação e queda progressiva dos leucócitos
+  [D] hepatomegalia maior que 2cm abaixo do rebordo costal, sangramento de mucosa e aumento progressivo do hematócrito 527 Ano: 2023
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'febre alta > 38°C, manchas vermelhas no corpo e queda acentuada do hematócrito...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'dor abdominal leve, convulsões e esplenomegalia maior que 4 cm abaixo do rebordo cost...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'dor no corpo e articulações, epigastralgia com queimação e queda progressiva dos leuc...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'hepatomegalia maior que 2cm abaixo do rebordo costal, sangramento de mucosa e aumento...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 14 [Código: EF0534] - Prefeitura de Dourados - MS (SELECON 2023) - Enfermeiro
+Assunto: Doenças Infecciosas e parasitárias
+A infecção pelo vírus Zika pode ocasionar um espectro clínico que varia de manifestação assintomática, passando por um quadro clínico com manifestações brandas e autolimitadas, e pode se manifestar com complicações neurológicas e doença congênita. Portanto, além da microcefalia congênita, pode ocorrer uma série de manifestações, incluindo desproporção craniofacial e outras como:
+
+  [A] herpes zoster, hepatite, convulsões e disartrias
+  [B] espasticidade, convulsões, irritabilidade e disfunção do tronco encefálico
+  [C] poliomielite, demência de Pick, irritabilidade e disfunção miocárdica
+  [D] neurotoxidade, paralisia da musculatura, atresia esofagiana e ânus imperfurado 535 Ano: 2023
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'herpes zoster, hepatite, convulsões e disartrias...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'espasticidade, convulsões, irritabilidade e disfunção do tronco encefálico...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'poliomielite, demência de Pick, irritabilidade e disfunção miocárdica...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'neurotoxidade, paralisia da musculatura, atresia esofagiana e ânus imperfurado 535 An...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 15 [Código: EF0549] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2023) - Enfermeiro
+Assunto: Doenças Infecciosas e parasitárias
+MT - Enfermeiro 20H A infecção pelo vírus da dengue causa uma doença de amplo espectro clínico. Na criança, o início da doença pode passar despercebido e o quadro grave poderá ser identificado como:
+
+  [A] a segunda manifestação clínica, pois o agravamento, em geral, é rápido, diferente do que ocorre nos adolescentes, que é lento, em que os sinais de choque séptico são mais facilmente detectados
+  [B] a primeira manifestação clínica, pois o agravamento, em geral, é súbito, diferente do que ocorre no idoso, que é gradual, em que os sinais de choque são mais facilmente detectados
+  [C] a primeira manifestação clínica, pois o agravamento, em geral, é súbito, diferente do que ocorre no adulto, que é gradual, em que os sinais de alarme são mais facilmente detectados
+  [D] a segunda manifestação clínica, pois o agravamento, em geral, é lento, diferente do que ocorre no adulto, que é súbito, em que os sinais de alarme são mais facilmente detectados 550 Ano: 2023
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'a segunda manifestação clínica, pois o agravamento, em geral, é rápido, diferente do ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'a primeira manifestação clínica, pois o agravamento, em geral, é súbito, diferente do...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a primeira manifestação clínica, pois o agravamento, em geral, é súbito, diferente do...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'a segunda manifestação clínica, pois o agravamento, em geral, é lento, diferente do q...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 16 [Código: EF0550] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2023) - Enfermeiro
+Assunto: Doenças Infecciosas e parasitárias
+MT - Enfermeiro 20H A Chikungunya é uma arbovirose causada pelo vírus CHIKV, da família Togaviridae e do gênero Alphavirus. A fase aguda ou febril da doença é caracterizada, principalmente, por:
+
+  [A] febre que, normalmente, desaparece, podendo haver persistência ou agravamento da artralgia, incluindo poliartrite distal, exacerbação da dor articular nas regiões previamente acometidas na primeira fase e tenossinovite hipertrófica subaguda em mãos
+  [B] febre contínua, artralgia, incluindo poliartrite distal, exacerbação da dor articular nas regiões previamente acometidas na primeira fase, dores nas costas (presentes em mais de 50% dos casos), rash cutâneo e tenossinovite hipertrófica subaguda em mãos
+  [C] astenia, recorrência do prurido generalizado, exantema maculopapular, surgimento de lesões purpúricas, vesiculares e bolhosas e, ainda, alguns pacientes podem desenvolver doença vascular periférica, fadiga e sintomas depressivos
+  [D] febre de início súbito e surgimento de intensa poliartralgia, geralmente acompanhada de dores nas costas, rash cutâneo (presente em mais de 50% dos casos), cefaleia e fadiga, com duração média de sete dias 551 Ano: 2023
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'febre que, normalmente, desaparece, podendo haver persistência ou agravamento da artr...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'febre contínua, artralgia, incluindo poliartrite distal, exacerbação da dor articular...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'astenia, recorrência do prurido generalizado, exantema maculopapular, surgimento de l...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'febre de início súbito e surgimento de intensa poliartralgia, geralmente acompanhada ...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 17 [Código: EF0556] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Técnico de Enfermagem
+Assunto: Doenças Infecciosas e parasitárias
+Pública - MT - Técnico em Enfermagem A sífilis é uma infecção bacteriana sistêmica, crônica, curável e exclusiva do ser humano. Quando não tratada, evolui para estágios de gravidade variada, podendo acometer diversos órgãos e sistemas do corpo. Além disso, a sífilis é dividida em estágios, que orientam o seu tratamento e monitoramento e recebem o nome de:
+
+  [A] recente (latente recente e secundária), com até quatro anos de evolução; e tardia (terciária), com mais de cinco anos de evolução
+  [B] recente (primária e secundária), com até três anos de evolução; e tardia (latente tardia e terciária), com mais de quatro anos de evolução
+  [C] recente (primária, secundária e terciária), com até dois anos de evolução; e tardia (latente recente e tardia), com mais de dois anos de evolução
+  [D] recente (primária, secundária e latente recente), com até um ano de evolução; e tardia (latente tardia e terciária), com mais de um ano de evolução
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'recente (latente recente e secundária), com até quatro anos de evolução; e tardia (te...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'recente (primária e secundária), com até três anos de evolução; e tardia (latente tar...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'recente (primária, secundária e terciária), com até dois anos de evolução; e tardia (...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'recente (primária, secundária e latente recente), com até um ano de evolução; e tardi...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 18 [Código: EF0616] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
+Assunto: Doenças Infecciosas e parasitárias
+MT - Enfermeiro(a) Padrão A leptospirose é um grave problema de saúde pública no Brasil e uma zoonose de importância mundial, causada por leptospiras patogênicas, transmitidas pelo contato com urina de animais infectados ou com água e lama contaminadas pela bactéria. O período de incubação da doença varia de:
+
+  [A] 1 a 30 dias, sendo mais frequente entre 5 e 14 dias
+  [B] 7 a 40 dias, sendo mais frequente entre 7 e 14 dias
+  [C] 10 a 45 dias, sendo mais frequente entre 12 e 20 dias
+  [D] 14 a 60 dias, sendo mais frequente entre 16 e 24 dias 617 Ano: 2023
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois '1 a 30 dias, sendo mais frequente entre 5 e 14 dias...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois '7 a 40 dias, sendo mais frequente entre 7 e 14 dias...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois '10 a 45 dias, sendo mais frequente entre 12 e 20 dias...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois '14 a 60 dias, sendo mais frequente entre 16 e 24 dias 617 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 19 [Código: EF0818] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+Assunto: Doenças Infecciosas e parasitárias , Chikungunya
+A febre chikungunya possui as seguintes fases: aguda, subaguda e crônica. Os sinais e sintomas observados na fase crônica são:
+
+  [A] febre de início súbito (> 39,5º), eczema e náusea
+  [B] mialgia, edema e febre de inicio súbito (> 37,5º)
+  [C] cefaleia, eczema e tenosinovite com edema grave
+  [D] dor articular, dor musculoesquelética e dor neuropática 819 Ano: 2020
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'febre de início súbito (> 39,5º), eczema e náusea...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'mialgia, edema e febre de inicio súbito (> 37,5º)...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'cefaleia, eczema e tenosinovite com edema grave...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'dor articular, dor musculoesquelética e dor neuropática 819 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 20 [Código: EF0824] - Prefeitura de Campo Grande - MS (SELECON 2019) - Enfermeiro
+Assunto: Doenças Infecciosas e parasitárias
+As infecções primárias de corrente sanguínea (IPCS) começam pela corrente sanguínea devido à entrada de patógenos no sistema vascular por meio de dispositivos e sistemas de infusão. Estima-se que mais de 50% estejam associadas a algum dispositivo intravascular As medidas recomendadas para prevenção de IPCS relacionadas a cateter venoso central são:
+
+  [A] dispensa da necessidade de precaução de barreira máxima com uso de gorro, máscara, avental, campos longos e luvas estéreis e higiene das mãos rigorosa
+  [B] higiene das mãos e precaução de barreira máxima com uso de gorro, máscara, avental, campos longos e luvas estéreis
+  [C] revisão diária da permanência do cateter e, preferencialmente, o profissional médico deverá puncionar a veia femoral
+  [D] higiene das mãos e precaução de barreira máxima com uso de gorro, máscara, avental, campos longos e luvas de procedimento 825 Ano: 2019
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'dispensa da necessidade de precaução de barreira máxima com uso de gorro, máscara, av...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'higiene das mãos e precaução de barreira máxima com uso de gorro, máscara, avental, c...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'revisão diária da permanência do cateter e, preferencialmente, o profissional médico ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'higiene das mãos e precaução de barreira máxima com uso de gorro, máscara, avental, c...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 21 [Código: EF0849] - Prefeitura Municipal (SELECON 2019) - Enfermeiro
+Assunto: Doenças Infecciosas e parasitárias
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+
+------------------------------------------------------------
+
+QUESTÃO 22 [Código: EF0878] - Prefeitura de Boa Vista - RR (SELECON 2019) - Técnico de Enfermagem
+Assunto: Doenças Infecciosas e parasitárias , Outras Doenças Infecciosas e Parasitárias
+Técnico - Grupo Especial - Técnico de Enfermagem A raiva humana é uma zoonose viral que se caracteriza como uma encefalite progressiva aguda letal. Sobre o agente etiológico, é correto afirmar que pertence:
+
+  [A] à família Rhabdoviridae e ao gênero Lyssavirus
+  [B] à família Flaviviridae e ao gênero Flavivirus
+  [C] à família Togaviridae e ao gênero Alphavirus
+  [D] à família Clostridiaceae e ao gênero Clostridium
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'à família Rhabdoviridae e ao gênero Lyssavirus...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'à família Flaviviridae e ao gênero Flavivirus...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'à família Togaviridae e ao gênero Alphavirus...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'à família Clostridiaceae e ao gênero Clostridium...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 

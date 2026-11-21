@@ -1,5 +1,5 @@
 === CADERNO DE QUESTÕES: BIOSSEGURANÇA EM ENFERMAGEM ===
-Total: 26 questões
+Total: 32 questões
 
 QUESTÃO 1 [Código: EF0022] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2026) - Enfermeiro
 Assunto: Biossegurança em Enfermagem
@@ -11,12 +11,12 @@ MT - Enfermeiro - Secretaria de Saúde A Norma Regulamentadora n.º 32 (NR-32) e
   [D] agilizar o processo de trabalho da equipe de enfermagem durante os procedimentos invasivos
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'eliminar o risco de acidentes com material biológico durante o descarte e o manuseio de ag...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'reduzir o custo operacional com a aquisição de materiais descartáveis...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'padronizar os insumos utilizados em todos os serviços de saúde públicos e privados...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'agilizar o processo de trabalho da equipe de enfermagem durante os procedimentos invasivos...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'eliminar o risco de acidentes com material biológico durante o descarte e o manuseio ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'reduzir o custo operacional com a aquisição de materiais descartáveis...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'padronizar os insumos utilizados em todos os serviços de saúde públicos e privados...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'agilizar o processo de trabalho da equipe de enfermagem durante os procedimentos inva...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
@@ -30,12 +30,12 @@ Enfermagem O processamento de produtos para a saúde em centros de material e es
   [D] classificar a pinça como material semicrítico e submetê-la apenas a desinfecção química com glutaraldeído a 2%, dispensando a esterilização
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'encaminhar a pinça para esterilização em autoclave, uma vez que o calor úmido sob pressão ...'.
-   • Alternativa B: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'submeter a pinça a novo ciclo de limpeza manual ou automatizada, com inspeção visual repet...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'classificar a pinça como material semicrítico e submetê-la apenas a desinfecção química co...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'encaminhar a pinça para esterilização em autoclave, uma vez que o calor úmido sob pre...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'descartar a pinça imediatamente, pois a presença de resíduos na cremalheira indica da...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'submeter a pinça a novo ciclo de limpeza manual ou automatizada, com inspeção visual ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'classificar a pinça como material semicrítico e submetê-la apenas a desinfecção ...'.
 
 ------------------------------------------------------------
 
@@ -49,12 +49,12 @@ Técnico em Enfermagem - SMS Um paciente com tuberculose pulmonar bacilífera ne
   [D] utilizar máscara cirúrgica no profissional e peça semifacial filtrante classe 2 (PFF2) no paciente
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'colocar máscara cirúrgica no paciente...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'colocar peça semifacial filtrante classe 2 (PFF2) no paciente...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter o paciente sem máscara durante trajetos considerados de curta duração...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar máscara cirúrgica no profissional e peça semifacial filtrante classe 2 (PFF2) no ...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'colocar máscara cirúrgica no paciente...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'colocar peça semifacial filtrante classe 2 (PFF2) no paciente...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'manter o paciente sem máscara durante trajetos considerados de curta duração...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'utilizar máscara cirúrgica no profissional e peça semifacial filtrante classe 2 (PFF2...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
@@ -68,12 +68,12 @@ Após procedimento, o técnico de enfermagem encaminha materiais utilizados em d
   [D] não críticos entram em contato com mucosas íntegras e requerem obrigatoriamente esterilização
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'críticos penetram tecidos estéreis ou o sistema vascular e exigem processo completo de lim...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'críticos entram em contato apenas com a pele íntegra e, por isso, necessitam apenas de lim...'.
-   • Alternativa C: Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'não críticos entram em contato com mucosas íntegras e requerem obrigatoriamente esteriliza...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'críticos penetram tecidos estéreis ou o sistema vascular e exigem processo completo d...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'críticos entram em contato apenas com a pele íntegra e, por isso, necessitam ape...'.
+   • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'semicríticos devem ser submetidos exclusivamente à limpeza, sem necessidade de d...'.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'não críticos entram em contato com mucosas íntegras e requerem obrigatoriamente ester...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
@@ -87,12 +87,12 @@ Durante a preparação de um curativo estéril à beira do leito, o técnico de 
   [D] apoiar parcialmente o campo estéril sobre superfície limpa e seca, desde que não haja contato direto com o paciente 68 Enfermagem > Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Sinais vitais , Fundamentos e Procedimentos de Enfermagem Exame Físico Banca: SELECON Órgão: EMGEPRON Prova: SELECON - 2026 - EMGEPRON - Técnico em Enfermagem
 
 ✅ Gabarito: 
-💡 Fundamentação: De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.
+💡 Fundamentação: Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'considerar contaminada qualquer área do campo estéril que esteja abaixo do nível da cintur...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter os materiais estéreis sempre dentro do campo visual durante todo o procedimento...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tocar o campo estéril apenas com luvas estéreis, após a realização da técnica asséptica co...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'apoiar parcialmente o campo estéril sobre superfície limpa e seca, desde que não haja cont...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'considerar contaminada qualquer área do campo estéril que esteja abaixo do nível da c...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'manter os materiais estéreis sempre dentro do campo visual durante todo o procediment...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'tocar o campo estéril apenas com luvas estéreis, após a realização da técnica as...'.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'apoiar parcialmente o campo estéril sobre superfície limpa e seca, desde que não haja...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
@@ -106,12 +106,12 @@ Em uma unidade de internação, durante a rotina assistencial, observou-se que u
   [D] higienizar as mãos apenas quando houver sujidade visível, uma vez que o uso de luvas substitui a necessidade de higienização
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar higienização das mãos somente antes do contato com o próximo paciente, desde que ...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'dispensar a higienização das mãos após o uso de luvas, desde que essas tenham sido utiliza...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'higienizar as mãos apenas quando houver sujidade visível, uma vez que o uso de luvas subst...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'realizar a higienização das mãos imediatamente após a retirada das luvas, independent...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'realizar higienização das mãos somente antes do contato com o próximo paciente, desde...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'dispensar a higienização das mãos após o uso de luvas, desde que essas tenham sido ut...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'higienizar as mãos apenas quando houver sujidade visível, uma vez que o uso de l...'.
 
 ------------------------------------------------------------
 
@@ -125,16 +125,16 @@ No que se refere aos princípios da técnica asséptica durante procedimentos in
   [D] materiais estéreis somente devem ser considerados contaminados quando houver contato visível e comprovado com superfícies não estéreis durante a execução do procedimento
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'técnica limpa e técnica estéril possuem o mesmo nível de controle microbiológico...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o uso de luvas estéreis dispensa a necessidade de manutenção rigorosa do campo estéril org...'.
-   • Alternativa C: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'materiais estéreis somente devem ser considerados contaminados quando houver contato visív...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'técnica limpa e técnica estéril possuem o mesmo nível de controle microbiológico...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'o uso de luvas estéreis dispensa a necessidade de manutenção rigorosa do campo estéri...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'todo material cuja esterilidade esteja comprometida ou duvidosa deve ser considerado ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'materiais estéreis somente devem ser considerados contaminados quando houver contato ...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 8 [Código: EF0104] - Prefeitura de Marcelândia - MT (SELECON 2025) - Enfermeiro
+QUESTÃO 8 [Código: EF0184] - Prefeitura de Marcelândia - MT (SELECON 2025) - Enfermeiro
 Assunto: Biossegurança em Enfermagem , Segurança do Paciente
 A prevenção e o controle de infecções relacionadas à assistência à saúde (IRAS) são pilares fundamentais da segurança do paciente em ambientes de cuidado. Dentre as medidas de precaução padrão, a prática mais eficaz para interromper a cadeia de transmissão de microrganismos, que deve ser realizada por todos os profissionais de saúde antes e após o contato com o paciente é a:
 
@@ -144,16 +144,16 @@ A prevenção e o controle de infecções relacionadas à assistência à saúde
   [D] higienização das mãos
 
 ✅ Gabarito: 
-💡 Fundamentação: De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilização de avental estéril...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'uso de óculos de proteção...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'descarte de agulhas em lixo comum...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'higienização das mãos...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'utilização de avental estéril...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'uso de óculos de proteção...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'descarte de agulhas em lixo comum...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'higienização das mãos...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 9 [Código: EF0131] - Prefeitura de Tapurah - MT (SELECON 2025) - Enfermeiro
+QUESTÃO 9 [Código: EF0211] - Prefeitura de Tapurah - MT (SELECON 2025) - Enfermeiro
 Assunto: Biossegurança em Enfermagem
 Um laboratório de pesquisa está sendo projetado para a manipulação de agentes biológicos classificados no Grupo de Risco 4, como o vírus Ebola, que apresenta alto risco individual e para a comunidade. De acordo com os princípios mais rigorosos de biossegurança, a estratégia fundamental para a contenção desses agentes e proteção dos trabalhadores não se baseia primordialmente no uso de Equipamentos de Proteção Individual (EPIs), mas sim na implementação de um conjunto hierarquicamente superior de medidas. Essa estratégia prioritária é a contenção por meio de:
 
@@ -163,16 +163,16 @@ Um laboratório de pesquisa está sendo projetado para a manipulação de agente
   [D] vigilância médica contínua e imunização em massa de todos os trabalhadores, mesmo na ausência de vacinas comprovadamente eficazes para todos os agentes manipulados 212 Ano: 2025
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'barreiras administrativas, como treinamento intensivo e limitação de acesso, que formam a ...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'barreiras primárias e secundárias de engenharia, incluindo cabines de segurança biológica ...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'práticas de desinfecção e de esterilização de alta eficácia, considerando que a eliminação...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vigilância médica contínua e imunização em massa de todos os trabalhadores, mesmo na ausên...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'barreiras administrativas, como treinamento intensivo e limitação de acesso, que form...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'barreiras primárias e secundárias de engenharia, incluindo cabines de segurança bioló...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'práticas de desinfecção e de esterilização de alta eficácia, considerando que a elimi...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'vigilância médica contínua e imunização em massa de todos os trabalhadores, mesmo na ...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 10 [Código: EF0133] - Prefeitura de Tapurah - MT (SELECON 2025) - Enfermeiro
+QUESTÃO 10 [Código: EF0213] - Prefeitura de Tapurah - MT (SELECON 2025) - Enfermeiro
 Assunto: Biossegurança em Enfermagem , Fundamentos e Procedimentos de Enfermagem
 A técnica de lavagem das mãos, fundamental na prevenção de infecções relacionadas à assistência à saúde, deve seguir uma sequência de passos para ser eficaz. Um dos passos essenciais após a aplicação do sabão é a fricção das palmas das mãos, seguida da fricção do dorso de uma mão com a palma da outra, entrelaçando os dedos. O próximo passo correto é friccionar:
 
@@ -182,16 +182,16 @@ A técnica de lavagem das mãos, fundamental na prevenção de infecções relac
   [D] as unhas na palma da mão oposta 214 Ano: 2025
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o polegar de uma mão com a palma da outra, realizando movimentos circulares...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'as pontas dos dedos de uma mão na palma da outra, em movimento de rotação...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'os espaços interdigitais...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'as unhas na palma da mão oposta 214 Ano: 2025...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'o polegar de uma mão com a palma da outra, realizando movimentos circulares...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'as pontas dos dedos de uma mão na palma da outra, em movimento de rotação...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'os espaços interdigitais...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'as unhas na palma da mão oposta 214 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 11 [Código: EF0141] - Prefeitura de Tapurah - MT (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 11 [Código: EF0221] - Prefeitura de Tapurah - MT (SELECON 2025) - Técnico de Enfermagem
 Assunto: Biossegurança em Enfermagem , Enfermagem em Central de Material Esterilizado
 Enfermagem A esterilização por autoclave, utilizada em materiais reutilizáveis hospitalares, baseia-se em:
 
@@ -201,16 +201,16 @@ Enfermagem A esterilização por autoclave, utilizada em materiais reutilizávei
   [D] vapor saturado sob pressão
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.
+💡 Fundamentação: Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'radiação gama...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'óxido de etileno...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vapor saturado sob pressão...'.
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'radiação gama...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'óxido de etileno...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'vapor saturado sob pressão...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 12 [Código: EF0147] - Prefeitura de Tapurah - MT (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 12 [Código: EF0227] - Prefeitura de Tapurah - MT (SELECON 2025) - Técnico de Enfermagem
 Assunto: Biossegurança em Enfermagem , Fundamentos e Procedimentos de Enfermagem
 Enfermagem Durante a higienização das mãos antes de um procedimento invasivo, a sequência correta para a técnica preconizada pela Anvisa é:
 
@@ -220,16 +220,16 @@ Enfermagem Durante a higienização das mãos antes de um procedimento invasivo,
   [D] molhar as mãos, aplicar sabão, esfregar palmas, secar e fechar a torneira
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'molhar as mãos, aplicar sabão, friccionar palmas e dorso, espaços interdigitais, polegares...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'molhar as mãos, aplicar sabão, esfregar palmas, enxaguar, fechar a torneira e secar...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aplicar sabão, esfregar palmas, interlaçar dedos, enxaguar, secar, fechar a torneira...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'molhar as mãos, aplicar sabão, esfregar palmas, secar e fechar a torneira...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'molhar as mãos, aplicar sabão, friccionar palmas e dorso, espaços interdigitais, pole...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'molhar as mãos, aplicar sabão, esfregar palmas, enxaguar, fechar a torneira e secar...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'aplicar sabão, esfregar palmas, interlaçar dedos, enxaguar, secar, fechar a torneira...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'molhar as mãos, aplicar sabão, esfregar palmas, secar e fechar a torneira...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 13 [Código: EF0182] - HEMOMINAS (SELECON 2025) - Enfermeiro
+QUESTÃO 13 [Código: EF0262] - HEMOMINAS (SELECON 2025) - Enfermeiro
 Assunto: Biossegurança em Enfermagem , Infecção Hospitalar
 ANHH - Nível I - Grau A - Enfermeiro O controle de infecções relacionado à assistência à saúde (IRAS) é um fundamento essencial da prática de enfermagem. Sobre as técnicas de precauções padrão, pode-se afirmar que:
 
@@ -239,16 +239,16 @@ ANHH - Nível I - Grau A - Enfermeiro O controle de infecções relacionado à a
   [D] as precauções padrão devem ser aplicadas a todos os pacientes, independentemente do diagnóstico ou da presunção de infecção 263 Ano: 2025
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o uso de luvas pode ser dispensado ao realizar procedimentos com risco de contato com flui...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a higienização das mãos deve ser realizada apenas antes do atendimento ao paciente em prec...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o uso de equipamentos de proteção individual (EPIs) é obrigatório apenas em precauções de ...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'as precauções padrão devem ser aplicadas a todos os pacientes, independentemente do diagnó...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'o uso de luvas pode ser dispensado ao realizar procedimentos com risco de contato com...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a higienização das mãos deve ser realizada apenas antes do atendimento ao pacien...'.
+   • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o uso de equipamentos de proteção individual (EPIs) é obrigatório apenas em prec...'.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'as precauções padrão devem ser aplicadas a todos os pacientes, independentemente do d...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 14 [Código: EF0183] - HEMOMINAS (SELECON 2025) - Enfermeiro
+QUESTÃO 14 [Código: EF0263] - HEMOMINAS (SELECON 2025) - Enfermeiro
 Assunto: Biossegurança em Enfermagem , Infecção Hospitalar , Segurança do Paciente
 ANHH - Nível I - Grau A - Enfermeiro A lavagem das mãos é uma medida essencial no controle de infecções hospitalares. A respeito da ação, é correto afirmar que:
 
@@ -258,16 +258,16 @@ ANHH - Nível I - Grau A - Enfermeiro A lavagem das mãos é uma medida essencia
   [D] a higienização das mãos deve ser realizada antes de procedimentos invasivos, como punções venosas ou sondagens, e após o contato com material biológico 264 Ano: 2025
 
 ✅ Gabarito: 
-💡 Fundamentação: De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a higienização das mãos com álcool em gel substitui completamente a lavagem com água e sab...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a lavagem das mãos deve ser feita, obrigatoriamente, antes e após o contato com o paciente...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a utilização de dispositivos médicos descartáveis elimina a necessidade de higienizar as m...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a higienização das mãos deve ser realizada antes de procedimentos invasivos, como punções ...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'a higienização das mãos com álcool em gel substitui completamente a lavagem com água ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'a lavagem das mãos deve ser feita, obrigatoriamente, antes e após o contato com o pac...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a utilização de dispositivos médicos descartáveis elimina a necessidade de higienizar...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'a higienização das mãos deve ser realizada antes de procedimentos invasivos, como pun...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 15 [Código: EF0199] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 15 [Código: EF0279] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
 Assunto: Biossegurança em Enfermagem
 Enfermagem Um paciente de 68 anos foi admitido com sepse severa e está sendo mantido em ventilação mecânica invasiva, além de ter acesso venoso central e sonda vesical. Durante o acompanhamento do técnico de enfermagem, foram observados sinais de deterioração clínica, como febre persistente, alteração no débito urinário e instabilidade hemodinâmica. A alternativa que expressa as condutas corretas de biossegurança e controle de infecção hospitalar que o técnico de enfermagem deve seguir é:
 
@@ -277,16 +277,16 @@ Enfermagem Um paciente de 68 anos foi admitido com sepse severa e está sendo ma
   [D] realizar a higienização das mãos antes e após cada contato com o paciente ou manipulação de dispositivos invasivos, utilizar luvas estéreis ao manusear a ventilação mecânica e o acesso venoso central, e utilizar máscara, avental e proteção ocular sempre que houver risco de exposição a secreções corporais ou materiais biológicos
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme as Recomendações de Boas Práticas em Nutrição Enteral da BRASPEN e da ANVISA (RDC nº 63/2000), a prevenção da pneumonia por broncoaspiração em pacientes recebendo dieta por sonda enteral exige a manutenção da cabeceira elevada em ângulo de 30° a 45° durante toda a infusão e por no mínimo 30 a 60 minutos após o término da dieta, para garantir o esvaziamento gástrico seguro. A alternativa [] descreve exatamente essa conduta preconizada.
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar a higienização das mãos apenas após cada procedimento com o paciente, já que a ma...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'higienizar as mãos apenas após o contato com as superfícies do paciente e, quando manipula...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'focar apenas na utilização de luvas estéreis para manipulação de dispositivos invasivos e ...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar a higienização das mãos antes e após cada contato com o paciente ou manipulação d...'.
+   • Alternativa A: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'realizar a higienização das mãos apenas após cada procedimento com o paciente, j...'.
+   • Alternativa B: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'higienizar as mãos apenas após o contato com as superfícies do paciente e, quand...'.
+   • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'focar apenas na utilização de luvas estéreis para manipulação de dispositivos in...'.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'realizar a higienização das mãos antes e após cada contato com o paciente ou manipula...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 16 [Código: EF0213] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 16 [Código: EF0293] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
 Assunto: Biossegurança em Enfermagem
 Enfermagem Um paciente foi internado com diagnóstico de doença transmissível e está em precaução respiratória. Considerando as normas de segurança para o controle de infecções e a correta paramentação do profissional de saúde, a ordem correta para o processo de paramentação antes de atender o paciente corresponde a:
 
@@ -296,16 +296,16 @@ Enfermagem Um paciente foi internado com diagnóstico de doença transmissível 
   [D] colocar avental, protetor ocular, máscara N95 e, por último, luvas
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'colocar avental, máscara N95, luvas e, por último, protetor ocular...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'colocar luvas, avental, máscara N95 e, por último, protetor ocular...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'colocar máscara N95, avental, luvas e, por último, protetor ocular...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'colocar avental, protetor ocular, máscara N95 e, por último, luvas...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'colocar avental, máscara N95, luvas e, por último, protetor ocular...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'colocar luvas, avental, máscara N95 e, por último, protetor ocular...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'colocar máscara N95, avental, luvas e, por último, protetor ocular...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'colocar avental, protetor ocular, máscara N95 e, por último, luvas...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 17 [Código: EF0257] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 17 [Código: EF0337] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
 Assunto: Biossegurança em Enfermagem
 A adesão da equipe às medidas gerais de prevenção e controle de infecção ainda depende da conscientização e mudança de hábitos dos profissionais. As medidas que visam reduzir e prevenir o crescimento de microrganismos em tecidos vivos são denominadas:
 
@@ -316,17 +316,17 @@ A adesão da equipe às medidas gerais de prevenção e controle de infecção a
   [E] esterilização
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'antissepsia...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'desinfecção...'.
-   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'esterilização...'.
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'antissepsia...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'desinfecção...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa E: Incorreta perante os protocolos técnicos, pois 'esterilização...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 18 [Código: EF0270] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 18 [Código: EF0350] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
 Assunto: Biossegurança em Enfermagem
 O grau de risco de transmitir infecções define os artigos hospitalares com a finalidade de serem tratados adequadamente evitando, principalmente, as infecções hospitalares. Os artigos que entram em contato com a pele não íntegra e membranas mucosas devendo ser, no mínimo, desinfetados são os:
 
@@ -337,17 +337,17 @@ O grau de risco de transmitir infecções define os artigos hospitalares com a f
   [E] semicríticos e não críticos 351 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'não críticos...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'semicríticos...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'críticos e semicríticos...'.
-   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'semicríticos e não críticos 351 Ano: 2024...'.
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'não críticos...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'semicríticos...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'críticos e semicríticos...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa E: Incorreta perante os protocolos técnicos, pois 'semicríticos e não críticos 351 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 19 [Código: EF0272] - COREN-RR (SELECON 2024) - Enfermeiro
+QUESTÃO 19 [Código: EF0352] - COREN-RR (SELECON 2024) - Enfermeiro
 Assunto: Biossegurança em Enfermagem
 Nos casos de precauções por aerossóis, os profissionais de saúde deverão utilizar as medidas da precaução padrão e:
 
@@ -357,16 +357,16 @@ Nos casos de precauções por aerossóis, os profissionais de saúde deverão ut
   [D] máscara cirúrgica 353 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'luvas estéreis...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'máscara PFF2...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'máscara cirúrgica 353 Ano: 2024...'.
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'luvas estéreis...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'máscara PFF2...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'máscara cirúrgica 353 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 20 [Código: EF0280] - COREN-RR (SELECON 2024) - Enfermeiro
+QUESTÃO 20 [Código: EF0360] - COREN-RR (SELECON 2024) - Enfermeiro
 Assunto: Biossegurança em Enfermagem
 Na avaliação de risco dos agentes biológicos, é de suma importância a estimativa do risco, o dimensionamento da estrutura para a contenção e a tomada de decisão para o gerenciamento dos riscos identificados. Para tanto, consideram-se alguns critérios, entre os quais, destacam-se:
 
@@ -376,16 +376,16 @@ Na avaliação de risco dos agentes biológicos, é de suma importância a estim
   [D] virulência, concentração e volume
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'risco, ambiente e atividade...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'risco, ambiente e virulência...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'virulência, atividade e ambiente...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'virulência, concentração e volume...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'risco, ambiente e atividade...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'risco, ambiente e virulência...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'virulência, atividade e ambiente...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'virulência, concentração e volume...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 21 [Código: EF0328] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 21 [Código: EF0408] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
 Assunto: Biossegurança em Enfermagem
 A técnica que envolve a remoção ou a redução no número de microrganismos, por meio de método químico (uso de antisséptico) ou mecânico (escovação), realizada principalmente nas mãos e nos antebraços, denomina-se:
 
@@ -395,16 +395,16 @@ A técnica que envolve a remoção ou a redução no número de microrganismos, 
   [D] desinfestação
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'sanificação...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'desinfecção...'.
-   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'desinfestação...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'sanificação...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'desinfecção...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'desinfestação...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 22 [Código: EF0331] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 22 [Código: EF0411] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
 Assunto: Biossegurança em Enfermagem
 A classe de alto risco individual e a de moderado risco para a comunidade incluem os agentes biológicos que possuem capacidade de transmissão por via respiratória e que causam patologias humanas ou animais, potencialmente letais, para as quais existem usualmente medidas de tratamento ou de prevenção. Esses agentes representam risco se disseminados na comunidade e no meio ambiente, podendo se propagar de pessoa a pessoa. Esse excerto refere-se à classe de risco:
 
@@ -414,16 +414,16 @@ A classe de alto risco individual e a de moderado risco para a comunidade inclue
   [D] 4 412 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.
+💡 Fundamentação: Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.
 ❌ Distratores:
-   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '4 412 Ano: 2024...'.
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois '4 412 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 23 [Código: EF0350] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 23 [Código: EF0430] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Biossegurança em Enfermagem
 Em relação à biossegurança, de acordo com a Agência Nacional de Vigilância Sanitária, o profissional responsável pelos Serviços Hospitalares deve:
 
@@ -434,17 +434,17 @@ Em relação à biossegurança, de acordo com a Agência Nacional de Vigilância
   [E] armazenar os produtos de limpeza no setor em que o mesmo será utilizado para evitar o trânsito indevido de produtos e substâncias potencialmente perigosas
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar Equipamento de Proteção Individual (EPI) sempre que necessário...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'descartar materiais perfurocortantes conforme solicitação da equipe de enfermagem...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manipular medicamentos que estejam armazenados em ambientes coletivos ou individuais...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar o mesmo material de limpeza em todos os setores, de modo a manipular o mínimo pos...'.
-   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'armazenar os produtos de limpeza no setor em que o mesmo será utilizado para evitar o trân...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'utilizar Equipamento de Proteção Individual (EPI) sempre que necessário...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'descartar materiais perfurocortantes conforme solicitação da equipe de enfermagem...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'manipular medicamentos que estejam armazenados em ambientes coletivos ou individuais...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'utilizar o mesmo material de limpeza em todos os setores, de modo a manipular o mínim...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa E: Incorreta perante os protocolos técnicos, pois 'armazenar os produtos de limpeza no setor em que o mesmo será utilizado para evitar o...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 24 [Código: EF0352] - SAD-MS (SELECON 2024) - Enfermeiro
+QUESTÃO 24 [Código: EF0432] - SAD-MS (SELECON 2024) - Enfermeiro
 Assunto: Biossegurança em Enfermagem
 Os cuidados com a higiene pessoal são de extrema importância para a boa apresentação profissional e controle de infecções. Quanto aos cuidados com as mãos, além de higienizá-las corretamente, o profissional deve:
 
@@ -455,17 +455,17 @@ Os cuidados com a higiene pessoal são de extrema importância para a boa aprese
   [E] imergir as mãos em solução clorada antes do expediente e ao término dele 433 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar luvas o tempo todo...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter as unhas limpas e aparadas...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar unhas postiças para evitar contato...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar cremes específicos para matar bactérias...'.
-   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'imergir as mãos em solução clorada antes do expediente e ao término dele 433 Ano: 2024...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'utilizar luvas o tempo todo...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'manter as unhas limpas e aparadas...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'utilizar unhas postiças para evitar contato...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'utilizar cremes específicos para matar bactérias...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa E: Incorreta perante os protocolos técnicos, pois 'imergir as mãos em solução clorada antes do expediente e ao término dele 433 Ano: 202...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 25 [Código: EF0380] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 25 [Código: EF0460] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
 Assunto: Biossegurança em Enfermagem
 Administrativo - Saúde/40h O principal objetivo da higienização das mãos na prática de enfermagem é:
 
@@ -475,16 +475,16 @@ Administrativo - Saúde/40h O principal objetivo da higienização das mãos na 
   [D] melhorar a textura das mãos
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'reduzir o tempo gasto em procedimentos...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'evitar a transmissão de microrganismos...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aumentar a resistência da pele...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'melhorar a textura das mãos...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'reduzir o tempo gasto em procedimentos...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'evitar a transmissão de microrganismos...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'aumentar a resistência da pele...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'melhorar a textura das mãos...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 26 [Código: EF0408] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
+QUESTÃO 26 [Código: EF0488] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
 Assunto: Biossegurança em Enfermagem
 Enfermagem Os germes são seres vivos infinitamente pequenos, não sendo possível vê-los a olho nu. Para serem visualizados, precisamos da ajuda de um microscópio. Por isso, são chamados de microrganismos ou micróbios = micro (pequeno) + bio (vida). Esses micróbios são classificados em:
 
@@ -494,12 +494,126 @@ Enfermagem Os germes são seres vivos infinitamente pequenos, não sendo possív
   [D] protozoários, fungos, vírus e bactérias
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'fungos e vírus...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vírus e bactérias...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'protozoários, vírus e bactérias...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'protozoários, fungos, vírus e bactérias...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'fungos e vírus...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'vírus e bactérias...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'protozoários, vírus e bactérias...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'protozoários, fungos, vírus e bactérias...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 27 [Código: EF0690] - CLIN (SELECON 2022) - Enfermeiro
+Assunto: Biossegurança em Enfermagem
+A higienização das mãos é a medida mais eficaz para prevenir a disseminação de infecções relacionadas à saúde. A higienização simples das mãos cujo objetivo é remover os microrganismos que colonizam as camadas superficiais da pele tem duração de:
+
+  [A] 20 a 40 segundos
+  [B] 40 a 60 segundos
+  [C] 30 a 100 segundos
+  [D] 60 a 120 segundos 691 Ano: 2022
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois '20 a 40 segundos...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois '40 a 60 segundos...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois '30 a 100 segundos...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois '60 a 120 segundos 691 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 28 [Código: EF0711] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Técnico de Enfermagem
+Assunto: Biossegurança em Enfermagem
+Técnico em Enfermagem As precauções-padrão envolvem um grupo de equipamentos de proteção individual que engloba, por exemplo, luvas de procedimento, óculos de proteção, capote, higienização das mãos e descarte adequado de perfuro cortante. Para os pacientes acometidos pela caxumba ou coqueluche, além da precaução-padrão, deverá ser instalada a precaução do tipo:
+
+  [A] aerossol
+  [B] espacial
+  [C] gotícula
+  [D] ultra-aerossol 712 Ano: 2022
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'ultra-aerossol 712 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 29 [Código: EF0712] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Técnico de Enfermagem
+Assunto: Biossegurança em Enfermagem
+Técnico em Enfermagem A higienização das mãos é um termo geral, que se refere a qualquer ação de higienizar as mãos para prevenir a transmissão de micro-organismos e, consequentemente, evitar que pacientes e profissionais de saúde adquiram infecções relacionadas à assistência à saúde (IRAS). A higienização simples das mãos corresponde a:
+
+  [A] lavagem das mãos com álcool líquido a 70% durante 30 a 40 segundos quando estiverem visivelmente sujas, ou manchadas de sangue ou outros fluidos corporais, ou após uso do banheiro
+  [B] lavagem das mãos com água e sabão comum durante 40 a 60 segundos quando estiverem visivelmente sujas, ou manchadas de sangue ou outros fluidos corporais, ou após uso do banheiro
+  [C] lavagem das mãos com álcool em gel a 70% durante 30 a 40 segundos quando estiverem visivelmente sujas, ou manchadas de sangue ou outros fluidos corporais, ou após uso do banheiro
+  [D] lavagem das mãos com álcool de concentração final entre 60% a 80% durante 30 a 40 segundos quando estiverem visivelmente sujas, ou manchadas de sangue ou outros fluidos corporais, ou após uso do banheiro 713 Ano: 2022
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'lavagem das mãos com álcool líquido a 70% durante 30 a 40 segundos quando estiverem v...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'lavagem das mãos com água e sabão comum durante 40 a 60 segundos quando estiverem vis...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'lavagem das mãos com álcool em gel a 70% durante 30 a 40 segundos quando estiverem vi...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'lavagem das mãos com álcool de concentração final entre 60% a 80% durante 30 a 40 seg...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 30 [Código: EF0739] - Prefeitura de Boa Vista - RR (SELECON 2020) - Técnico de Enfermagem
+Assunto: Biossegurança em Enfermagem
+Enfermagem Segundo a RDC 15/2012, os artigos hospitalares são classificados como:
+
+  [A] artigo complexo, quase complexo e não complexo
+  [B] artigo crítico, semicrítico e não crítico
+  [C] artigo baixo, intermediário e alto
+  [D] artigo caro, moderado e baixo
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'artigo complexo, quase complexo e não complexo...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'artigo crítico, semicrítico e não crítico...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'artigo baixo, intermediário e alto...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'artigo caro, moderado e baixo...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 31 [Código: EF0766] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+Assunto: Biossegurança em Enfermagem
+ESF A Biossegurança compreende um conjunto de ações destinadas a prevenir, controlar, mitigar ou eliminar riscos inerentes às atividades que possam interferir ou comprometer a qualidade de vida, a saúde humana, meio ambiente e o coletivo. Os tipos de riscos a que estão expostos os profissionais de saúde são:
+
+  [A] a c i d e n t e s , e r g o n ô m i c o s , s o c i a i s , perfurocortantes e infecção
+  [B] físicos, químicos, acidentes, ergonômicos e biológicos
+  [C] incidentes, radioativos, químicos, laboratoriais e sociais
+  [D] acidentes, ruídos, químicos, laboratoriais e biológicos 767 Ano: 2020 Enfermagem > Estrutura Organizacional dos Serviços de Enfermagem e Gerenciamento do Trabalho , Administração em Enfermagem Banca: SELECON Órgão: Prefeitura de Boa Vista - RR Prova: SELECON - 2020 - Prefeitura de Boa Vista - RR - Enfermeiro
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'a c i d e n t e s , e r g o n ô m i c o s , s o c i a i s , perfurocortantes e infecç...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'físicos, químicos, acidentes, ergonômicos e biológicos...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'incidentes, radioativos, químicos, laboratoriais e sociais...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'acidentes, ruídos, químicos, laboratoriais e biológicos 767 Ano: 2020 Enfermagem > Es...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 32 [Código: EF0880] - Prefeitura de Boa Vista - RR (SELECON 2024) - Técnico de Enfermagem
+Assunto: Biossegurança em Enfermagem
+Técnico - Grupo Especial - Técnico de Enfermagem O tipo de precaução instalada pela comissão de controle de infecção hospitalar nas instituições saúde para os pacientes com sarampo é do tipo:
+
+  [A] total
+  [B] contato
+  [C] gotículas
+  [D] aerossóis
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
 
 ------------------------------------------------------------
 

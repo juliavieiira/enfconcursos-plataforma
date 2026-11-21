@@ -1,7 +1,7 @@
 === CADERNO DE QUESTÕES: INTOXICAÇÃO E SUPERDOSAGEM ===
 Total: 1 questões
 
-QUESTÃO 1 [Código: EF0333] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+QUESTÃO 1 [Código: EF0413] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
 Assunto: Intoxicação e Superdosagem , Administração de medicamentos
 O envenenamento ou a intoxicação aguda ocorre quando uma pessoa inala, ou entra em contato direto com a pele, ou ingere alguma substância tóxica. A maior parte dos casos de envenenamento ocorre dentro de casa, com crianças. Em qualquer situação de envenenamento, a vítima deve ser colocada deitada, a sua respiração deve ser observada e, se for necessário, deve-se aplicar a técnica de respiração artificial (boca a boca); deve-se também aquecer a vítima para evitar estado de choque e elevar suas pernas (se não houver suspeita de lesão na coluna). O socorro médico é indispensável. A respiração artificial deve fornecer respiração de resgate a cada 2 ou 3 segundos, ou seja:
 
@@ -11,12 +11,12 @@ O envenenamento ou a intoxicação aguda ocorre quando uma pessoa inala, ou entr
   [D] 20 a 40 respirações por minuto 414 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '10 a 20 respirações por minuto...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '20 a 30 respirações por minuto...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '10 a 30 respirações por minuto...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '20 a 40 respirações por minuto 414 Ano: 2024...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois '10 a 20 respirações por minuto...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois '20 a 30 respirações por minuto...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois '10 a 30 respirações por minuto...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois '20 a 40 respirações por minuto 414 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 

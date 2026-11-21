@@ -30,22 +30,22 @@
     "resposta_correta": "C",
     "id": "EF0007",
     "numero_ordem": 7,
-    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [C] representa a prescrição e técnica exata: '3 mL e 50 gotas/minuto'.",
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [C] ('3 mL e 50 gotas/minuto') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '2 mL e 40 gotas/minuto...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '2 mL e 40 gotas/minuto...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '3 mL e 40 gotas/minuto...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '3 mL e 40 gotas/minuto...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '4 mL e 50 gotas/minuto...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '4 mL e 50 gotas/minuto...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   },
   {
     "codigo_origem": "Q4445448",
@@ -78,22 +78,22 @@
     "resposta_correta": "C",
     "id": "EF0008",
     "numero_ordem": 8,
-    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [C] ('responsabilidade de prevenir danos ao paciente, que exige reconhecer situações que comprometam a segurança da assistência e buscar esclarecimentos antes da administração') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "fundamentacao_correta": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligência e imperícia. A alternativa [C] ('responsabilidade de prevenir danos ao paciente, que exige reconhecer situações que comprometam a segurança da assistência e buscar esclarecimentos antes da administração') corresponde com fidelidade aos ditames legais da profissão.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'comunicação da divergência, que transfere ao enfermeiro a responsabilidade pela administra...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'comunicação da divergência, que transfere ao enfermeiro a responsabilidade pela admin...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'identificação da inconsistência, que permite modificar a dose prescrita, desde que a alter...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'identificação da inconsistência, que permite modificar a dose prescrita, desde que a ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'comunicação formal de uma possível inconsistência à equipe de Enfermagem, que depende da c...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'comunicação formal de uma possível inconsistência à equipe de Enfermagem, que depende...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+    "comentario": "De acordo com a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem) e a Lei Federal nº 7.498/1986, os direitos, deveres e proibições da equipe de enfermagem asseguram uma prática assistencial livre de imprudência, negligênci..."
   },
   {
     "codigo_origem": "Q4336856",
@@ -126,26 +126,26 @@
     "resposta_correta": "",
     "id": "EF0027",
     "numero_ordem": 27,
-    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "fundamentacao_correta": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos padronizados. Portanto, a conduta/interpretação correta é a []: ''.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'penicilina G benzatina 2.400.000 UI, administrada em dose única intramuscular, dividida em...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'penicilina G benzatina 2.400.000 UI, administrada em dose única intramuscular, dividi...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'azitromicina 1g em dose única oral para pacientes alérgicos à penicilina, com eficácia equ...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'azitromicina 1g em dose única oral para pacientes alérgicos à penicilina, com eficáci...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'penicilina G procaína 600.000 UI por via intramuscular, diariamente, por 10 dias consecuti...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'penicilina G procaína 600.000 UI por via intramuscular, diariamente, por 10 dias cons...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'doxiciclina 100 mg, duas vezes ao dia, por 14 dias, como tratamento de primeira linha para...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'doxiciclina 100 mg, duas vezes ao dia, por 14 dias, como tratamento de primeira linha...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+    "comentario": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco (Ministério da Saúde), a assistência de enfermagem obstétrica visa à segurança materna e fetal, rastreando precocemente fatores de risco e aplicando critérios diagnósticos pad..."
   },
   {
     "codigo_origem": "Q4336852",
@@ -178,26 +178,26 @@
     "resposta_correta": "",
     "id": "EF0030",
     "numero_ordem": 30,
-    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'escolher veia de maior calibre no antebraço ou na fossa antecubital, utilizar cateter 20 G...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'escolher veia de maior calibre no antebraço ou na fossa antecubital, utilizar cateter...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar veia jugular externa como acesso periférico para soluções irritantes, pois a cali...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'utilizar veia jugular externa como acesso periférico para soluções irritantes, pois a...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'selecionar veia do dorso da mão por ser de fácil acesso, utilizar cateter 22 G e estabiliz...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'selecionar veia do dorso da mão por ser de fácil acesso, utilizar cateter 22 G e esta...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'priorizar a veia cefálica do antebraço, utilizando cateter 24 G para reduzir o trauma, e f...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'priorizar a veia cefálica do antebraço, utilizando cateter 24 G para reduzir o trauma...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
   },
   {
     "codigo_origem": "Q4317363",
@@ -230,26 +230,26 @@
     "resposta_correta": "",
     "id": "EF0056",
     "numero_ordem": 56,
-    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'sinergismo farmacológico...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'sinergismo farmacológico...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'antagonismo farmacológico...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'antagonismo farmacológico...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'incompatibilidade medicamentosa...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'incompatibilidade medicamentosa...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'interação farmacocinética por alteração da distribuição...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'interação farmacocinética por alteração da distribuição...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   },
   {
     "codigo_origem": "Q4317362",
@@ -282,26 +282,26 @@
     "resposta_correta": "",
     "id": "EF0057",
     "numero_ordem": 57,
-    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'adiada até o esclarecimento da informação...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'adiada até o esclarecimento da informação...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizada pela via relatada como habitual pelo paciente...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'realizada pela via relatada como habitual pelo paciente...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'executada pela mesma via utilizada na administração anterior...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'executada pela mesma via utilizada na administração anterior...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'mantida no horário prescrito, com registro posterior da via utilizada no procedimento 58 E...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'mantida no horário prescrito, com registro posterior da via utilizada no procedimento...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
   },
   {
     "codigo_origem": "Q3981913",
@@ -334,26 +334,234 @@
     "resposta_correta": "",
     "id": "EF0084",
     "numero_ordem": 84,
-    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'atendeu integralmente às boas práticas do cuidado, pois cumpriu com todos os critérios ess...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'atendeu integralmente às boas práticas do cuidado, pois cumpriu com todos os critério...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizou a administração de forma correta, priorizando a rotina assistencial da unidade, l...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'realizou a administração de forma correta, priorizando a rotina assistencial da unida...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'atendeu parcialmente às recomendações de segurança, por não contemplar todos os critérios ...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'atendeu parcialmente às recomendações de segurança, por não contemplar todos os crité...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'apresentou falha relacionada ao processo de supervisão do cuidado, uma vez que a orientaçã...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'apresentou falha relacionada ao processo de supervisão do cuidado, uma vez que a orie...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
+  },
+  {
+    "codigo_origem": "Q3884652",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos",
+    "enunciado": "MT - Técnico em Enfermagem Na prática da administração de medicamentos, a escolha da via de administração deve considerar características como vascularização do local, volume a ser administrado e velocidade de absorção. Nesse contexto, a via intramuscular é indicada, principalmente, quando se deseja:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "absorção lenta e gradual, ideal para medicações mais espessas"
+      },
+      {
+        "id": "B",
+        "texto": "início de ação imediato, comparável ao obtido pela via endovenosa"
+      },
+      {
+        "id": "C",
+        "texto": "absorção mais rápida que a via subcutânea, em razão da maior vascularização da área"
+      },
+      {
+        "id": "D",
+        "texto": "administração de grandes volumes, independentemente do risco de dor ou lesão tecidual devido à extensão 117 Ano: 2026"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0116",
+    "numero_ordem": 116,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'absorção lenta e gradual, ideal para medicações mais espessas...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'início de ação imediato, comparável ao obtido pela via endovenosa...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'absorção mais rápida que a via subcutânea, em razão da maior vascularização da área...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'administração de grandes volumes, independentemente do risco de dor ou lesão tecidual...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+  },
+  {
+    "codigo_origem": "Q3884076",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos , Cálculo de Solução e Medicamentos",
+    "enunciado": "MT - Enfermeiro Um paciente pediátrico com peso de 12 kg deve receber uma medicação na dose de 15 mg/kg/dia, dividida em 3 doses iguais. A solução oral disponível tem concentração de 100 mg/5 mL. O volume, em mL, que deve ser administrado em cada uma das três doses é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "1,5 mL"
+      },
+      {
+        "id": "B",
+        "texto": "9,0 mL"
+      },
+      {
+        "id": "C",
+        "texto": "27,0 mL"
+      },
+      {
+        "id": "D",
+        "texto": "3,0 mL 127 Ano: 2026"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0126",
+    "numero_ordem": 126,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '3,0 mL 127 Ano: 2026...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+  },
+  {
+    "codigo_origem": "Q3810643",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Garças - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos , Cálculo de Solução e Medicamentos",
+    "enunciado": "Técnico em Enfermagem Um paciente adulto em hipoglicemia grave necessita de Glicose 50% (G50%), mas o protocolo institucional determina que soluções hipertônicas devem ser diluídas antes da administração intravenosa, a fim de reduzir flebite e complicações metabólicas. O médico prescreve 20 mL de G50%, devendo a solução final ser preparada em concentração de 10%. A conduta do técnico de enfermagem para preparar essa diluição corretamente é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "adicionar 30 mL de diluente aos 20 mL de G50%, reduzindo a concentração final para a concentração de 10%"
+      },
+      {
+        "id": "B",
+        "texto": "adicionar 80 mL de diluente aos 20 mL de G50%, obtendo um total de 100 mL em concentração de 10%"
+      },
+      {
+        "id": "C",
+        "texto": "misturar igualmente 20 mL de G50% e 20 mL de diluente, resultando em G25% adequada ao protocolo"
+      },
+      {
+        "id": "D",
+        "texto": "diluir G50% apenas com 10 mL de solução fisiológica, pois a diluição mínima já reduz risco de flebite 135 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0134",
+    "numero_ordem": 134,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'adicionar 30 mL de diluente aos 20 mL de G50%, reduzindo a concentração final para a ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'adicionar 80 mL de diluente aos 20 mL de G50%, obtendo um total de 100 mL em concentr...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'misturar igualmente 20 mL de G50% e 20 mL de diluente, resultando em G25% adequada ao...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'diluir G50% apenas com 10 mL de solução fisiológica, pois a diluição mínima já r...'."
+      }
+    ],
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
+  },
+  {
+    "codigo_origem": "Q3810630",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Garças - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos",
+    "enunciado": "Técnico em Enfermagem Durante a administração de um medicamento prescrito, o técnico de enfermagem deve seguir os princípios de segurança recomendados pelas diretrizes atuais sobre os “certos” da administração medicamentosa. Acerca dessas recomendações, observa-se que:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "o \"paciente certo\" pode ser confi rmado apenas pela identifi cação verbal, desde que ele esteja lúcido e orientado no momento da administração"
+      },
+      {
+        "id": "B",
+        "texto": "o \"registro certo\" refere-se apenas ao horário da administração, não incluindo lote, dose ou via utilizados, pois estes tratam-se de outros “certos”"
+      },
+      {
+        "id": "C",
+        "texto": "a “orientação certa” implica garantir que o paciente receba informações pertinentes sobre o medicamento, como finalidade, forma correta de uso e possíveis efeitos esperados, contribuindo para maior segurança e adesão"
+      },
+      {
+        "id": "D",
+        "texto": "a “resposta certa” diz respeito exclusivamente ao registro de reações adversas imediatas, não abrangendo a monitorização clínica posterior ou a avaliação de eficácia terapêutica, limitando-se apenas ao relato pontual de eventos observados no momento da administração 148 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0147",
+    "numero_ordem": 147,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o \"paciente certo\" pode ser confi rmado apenas pela identifi cação verbal, desde...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o \"registro certo\" refere-se apenas ao horário da administração, não incluindo l...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a “orientação certa” implica garantir que o paciente receba informações pertinentes s...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a “resposta certa” diz respeito exclusivamente ao registro de reações adversas i...'."
+      }
+    ],
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
   },
   {
     "codigo_origem": "Q3742711",
@@ -384,28 +592,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0105",
-    "numero_ordem": 105,
-    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "id": "EF0185",
+    "numero_ordem": 185,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administrar o medicamento no momento exato da prescrição, sem qualquer tolerância...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'administrar o medicamento no momento exato da prescrição, sem qualquer tolerância...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'respeitar os intervalos de tempo entre as doses para manter a concentração terapêutica do ...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'respeitar os intervalos de tempo entre as doses para manter a concentração terapêutic...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administrar todos os medicamentos do paciente em um único horário para otimizar o tempo...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'administrar todos os medicamentos do paciente em um único horário para otimizar o tem...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'priorizar a administração de medicamentos orais antes dos injetáveis 186 Ano: 2025...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'priorizar a administração de medicamentos orais antes dos injetáveis 186 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
   },
   {
     "codigo_origem": "Q3623618",
@@ -436,28 +644,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0119",
-    "numero_ordem": 119,
-    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "id": "EF0199",
+    "numero_ordem": 199,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a mais alta latência para o início da ação...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a mais alta latência para o início da ação...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'biodisponibilidade de 100%...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'biodisponibilidade de 100%...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'necessidade de metabolização para ativação...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'necessidade de metabolização para ativação...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a principal via para efeitos locais e tópicos 200 Ano: 2025...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a principal via para efeitos locais e tópicos 200 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   },
   {
     "codigo_origem": "Q3623615",
@@ -488,28 +696,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0122",
-    "numero_ordem": 122,
-    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "id": "EF0202",
+    "numero_ordem": 202,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'verifi cação dos sinais vitais do paciente...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'verifi cação dos sinais vitais do paciente...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aplicação dos \"certos\" da administração de medicamentos...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'aplicação dos \"certos\" da administração de medicamentos...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'registro da evolução de enfermagem no prontuário...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'registro da evolução de enfermagem no prontuário...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realização do balanço hídrico do paciente 203 Ano: 2025...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'realização do balanço hídrico do paciente 203 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
   },
   {
     "codigo_origem": "Q3617182",
@@ -540,28 +748,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0128",
-    "numero_ordem": 128,
-    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "id": "EF0208",
+    "numero_ordem": 208,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'exige administrações mais frequentes para manter a concentração plasmática dentro da janel...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'exige administrações mais frequentes para manter a concentração plasmática dentro da ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'é rapidamente eliminado do organismo, minimizando a duração de eventuais efeitos adversos ...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'é rapidamente eliminado do organismo, minimizando a duração de eventuais efeitos adve...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'apresenta maior risco de acúmulo e toxicidade em caso de ajuste inadequado da dose e levar...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'apresenta maior risco de acúmulo e toxicidade em caso de ajuste inadequado da dose e ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'atinge o pico de concentração plasmática mais rapidamente que o Fármaco A, necessitando de...'."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'atinge o pico de concentração plasmática mais rapidamente que o Fármaco A, neces...'."
       }
     ],
-    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
   },
   {
     "codigo_origem": "Q3615479",
@@ -592,28 +800,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0142",
-    "numero_ordem": 142,
-    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "id": "EF0222",
+    "numero_ordem": 222,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ventroglúteo...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'ventroglúteo...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'bíceps braquial...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'bíceps braquial...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vasto lateral da coxa...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'vasto lateral da coxa...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
   },
   {
     "codigo_origem": "Q3489353",
@@ -644,28 +852,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0154",
-    "numero_ordem": 154,
-    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "id": "EF0234",
+    "numero_ordem": 234,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '\"Não é recomendado misturar diferentes tipos de insulina na mesma seringa devido ao risco ...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '\"Não é recomendado misturar diferentes tipos de insulina na mesma seringa devido ao r...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '\"Sim, você pode misturar as duas, aspirando primeiro a Insulina NPH (de aspecto leitoso) e...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '\"Sim, você pode misturar as duas, aspirando primeiro a Insulina NPH (de aspecto leito...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '\"Sim, é possível mistura-las. Você deve aspirar primeiro a Insulina Regular (límpida)...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que '\"A mistura é possível, mas apenas se a administração for imediata e o volume tot...'."
       }
     ],
-    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
   },
   {
     "codigo_origem": "Q3489352",
@@ -696,28 +904,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0155",
-    "numero_ordem": 155,
-    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "id": "EF0235",
+    "numero_ordem": 235,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'expelir cuidadosamente a bolha de ar da seringa, garantindo que a dose correta de 1 mL (10...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'expelir cuidadosamente a bolha de ar da seringa, garantindo que a dose correta de 1 m...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administrar a medicação com a bolha de ar, pois em via subcutânea pequenas bolhas não repr...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'administrar a medicação com a bolha de ar, pois em via subcutânea pequenas bolhas não...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'desprezar toda a medicação e preparar uma nova dose, pois a presença de qualquer bolha de ...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'desprezar toda a medicação e preparar uma nova dose, pois a presença de qualquer bolh...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aumentar ligeiramente a dose aspirada para compensar o volume da bolha de ar, garantindo q...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'aumentar ligeiramente a dose aspirada para compensar o volume da bolha de ar, garanti...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
   },
   {
     "codigo_origem": "Q3287493",
@@ -748,28 +956,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0164",
-    "numero_ordem": 164,
-    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "id": "EF0244",
+    "numero_ordem": 244,
+    "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'hepatite B (via oral), tríplice viral (via subcutânea), febre amarela (via intramuscular)...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'hepatite B (via oral), tríplice viral (via subcutânea), febre amarela (via intramuscu...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'hepatite B (via intramuscular), tríplice viral (via intramuscular), febre amarela (via sub...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'hepatite B (via intramuscular), tríplice viral (via intramuscular), febre amarela (vi...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'hepatite B (via intradérmica), tríplice viral (via intramuscular), febre amarela (via intr...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'hepatite B (via intradérmica), tríplice viral (via intramuscular), febre amarela (via...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'hepatite B (via subcutânea), tríplice viral (via oral), febre amarela (via intramuscular) ...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'hepatite B (via subcutânea), tríplice viral (via oral), febre amarela (via intramuscu...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+    "comentario": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativ..."
   },
   {
     "codigo_origem": "Q3262530",
@@ -800,28 +1008,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0195",
-    "numero_ordem": 195,
-    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "id": "EF0275",
+    "numero_ordem": 275,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       }
     ],
-    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
   },
   {
     "codigo_origem": "Q3197471",
@@ -852,28 +1060,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0234",
-    "numero_ordem": 234,
-    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "id": "EF0314",
+    "numero_ordem": 314,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'após inserir a agulha em um ângulo de 90 graus, o enfermeiro puxa a pele para formar um \"Z...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'após inserir a agulha em um ângulo de 90 graus, o enfermeiro puxa a pele para formar ...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a técnica Z exige a inserção da agulha em um ângulo de 45 graus, após o que o enfermeiro r...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a técnica Z exige a inserção da agulha em um ângulo de 45 graus, após o que o enferme...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'na técnica Z, a agulha deve ser inserida em um ângulo de 30 graus, e a tração da pele...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o enfermeiro deve usar a técnica Z apenas em situações de infecções graves, inserindo a ag...'."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o enfermeiro deve usar a técnica Z apenas em situações de infecções graves, inse...'."
       }
     ],
-    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
   },
   {
     "codigo_origem": "Q3197247",
@@ -904,28 +1112,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0238",
-    "numero_ordem": 238,
-    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "id": "EF0318",
+    "numero_ordem": 318,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'antagonismo...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'antagonismo...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'cooperativismo 319 Ano: 2025...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'cooperativismo 319 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
   },
   {
     "codigo_origem": "Q3184823",
@@ -956,28 +1164,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0243",
-    "numero_ordem": 243,
-    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "id": "EF0323",
+    "numero_ordem": 323,
+    "fundamentacao_correta": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centrais da atuação da enfermagem. A alternativa [] ('') está perfeitamente alinhada com as metas clínicas preconizadas.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a metformina pode aumentar a eficácia do antibiótico, tornando o tratamento mais eficaz...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a metformina pode aumentar a eficácia do antibiótico, tornando o tratamento mais efic...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a metformina pode diminuir a eficácia do antibiótico, tornando-o menos eficaz no tratament...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a metformina pode diminuir a eficácia do antibiótico, tornando-o menos eficaz no trat...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'não há interação significativa entre metformina e macrolideos, portanto, não é necessário ...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'não há interação significativa entre metformina e macrolideos, portanto, não é necess...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o uso concomitante pode aumentar o risco de hipoglicemia, exigindo monitoramento cuidadoso...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'o uso concomitante pode aumentar o risco de hipoglicemia, exigindo monitoramento cuid...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+    "comentario": "Conforme a Linha de Cuidado do Adulto com Hipertensão Arterial e Diabetes Mellitus (Ministério da Saúde) e diretrizes das sociedades brasileiras (SBC/SBD), o controle clínico, rastreamento de lesões em órgãos-alvo e adesão terapêutica são eixos centr..."
   },
   {
     "codigo_origem": "Q2528693",
@@ -1012,32 +1220,32 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0255",
-    "numero_ordem": 255,
-    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "id": "EF0335",
+    "numero_ordem": 335,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "E",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '0,6 ml 336 Ano: 2024...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '0,6 ml 336 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
   },
   {
     "codigo_origem": "Q2477207",
@@ -1068,28 +1276,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0341",
-    "numero_ordem": 341,
-    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "id": "EF0421",
+    "numero_ordem": 421,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'nebulização...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'nebulização...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'fluidificação...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'fluidificação...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vaporização...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'vaporização...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'broncodilação 422 Ano: 2024...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'broncodilação 422 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
   },
   {
     "codigo_origem": "Q2467380",
@@ -1120,28 +1328,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0378",
-    "numero_ordem": 378,
-    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "id": "EF0458",
+    "numero_ordem": 458,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'sublingual 459 Ano: 2024...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'sublingual 459 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
   },
   {
     "codigo_origem": "Q2467330",
@@ -1172,28 +1380,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0392",
-    "numero_ordem": 392,
-    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "id": "EF0472",
+    "numero_ordem": 472,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'certo paciente, certo medicamento, certo horário, certo local, certo registro...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'certo paciente, certo medicamento, certo horário, certo local, certo registro...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'certo paciente, certo medicamento, certo horário, certo local, certo profissional...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'certo paciente, certo medicamento, certo horário, certo local, certo profissional...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'certo paciente, certo medicamento, certo horário, certo método, certo profissional...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'certo paciente, certo medicamento, certo horário, certo método, certo profissional...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'certo paciente, certo medicamento, certo diagnóstico, certo local, certo profissional...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'certo paciente, certo medicamento, certo diagnóstico, certo local, certo profissional...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
   },
   {
     "codigo_origem": "Q2454934",
@@ -1224,235 +1432,287 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0400",
-    "numero_ordem": 400,
-    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "id": "EF0480",
+    "numero_ordem": 480,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       }
     ],
-    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
   },
   {
-    "codigo_origem": "Q3884652",
+    "codigo_origem": "Q2160740",
     "banca": "SELECON",
-    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
-    "ano": 2026,
-    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
+    "orgao": "Prefeitura de Nova Mutum - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2023 - Prefeitura de Nova Mutum - MT - Técnico",
     "cargo": "Técnico de Enfermagem",
     "materia": "Enfermagem",
-    "assunto": "Administração de medicamentos",
-    "enunciado": "MT - Técnico em Enfermagem Na prática da administração de medicamentos, a escolha da via de administração deve considerar características como vascularização do local, volume a ser administrado e velocidade de absorção. Nesse contexto, a via intramuscular é indicada, principalmente, quando se deseja:",
+    "assunto": "Administração de medicamentos , Medicação Oral , Medicação Endovenosa",
+    "enunciado": "em Enfermagem O medicamento colocado debaixo da língua, que possibilita a absorção mais rápida que a via oral e não pode ser mastigado ou engolido, é o medicamento administrado via:",
     "alternativas": [
       {
         "id": "A",
-        "texto": "absorção lenta e gradual, ideal para medicações mais espessas"
+        "texto": "endovenosa"
       },
       {
         "id": "B",
-        "texto": "início de ação imediato, comparável ao obtido pela via endovenosa"
+        "texto": "parenteral"
       },
       {
         "id": "C",
-        "texto": "absorção mais rápida que a via subcutânea, em razão da maior vascularização da área"
+        "texto": "sublingual"
       },
       {
         "id": "D",
-        "texto": "administração de grandes volumes, independentemente do risco de dor ou lesão tecidual devido à extensão 117 Ano: 2026"
+        "texto": "ocular"
       }
     ],
     "resposta_correta": "",
-    "id": "EF0456",
-    "numero_ordem": 456,
-    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "id": "EF0667",
+    "numero_ordem": 667,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'absorção lenta e gradual, ideal para medicações mais espessas...'."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'início de ação imediato, comparável ao obtido pela via endovenosa...'."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'absorção mais rápida que a via subcutânea, em razão da maior vascularização da área...'."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administração de grandes volumes, independentemente do risco de dor ou lesão tecidual devi...'."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       }
     ],
-    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
   },
   {
-    "codigo_origem": "Q3884076",
+    "codigo_origem": "Q2024557",
     "banca": "SELECON",
-    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
-    "ano": 2026,
-    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
+    "orgao": "CLIN",
+    "ano": 2022,
+    "prova": "SELECON - 2022 - CLIN - Auxiliar de Enfermagem do Trabalho",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos , Enfermagem em Oncologia , Medicação Subcutânea",
+    "enunciado": "A hipodermóclise é uma via de acesso subcutâneo, amplamente utilizada na oncologia e no atendimento domiciliar, para administração de alguns medicamentos e hidratação. O volume diário recomendado em 24 horas é de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "2.000 ml, sendo 1.000 ml por sítio de punção"
+      },
+      {
+        "id": "B",
+        "texto": "4.000 ml, sendo 2.000 ml por sítio de punção"
+      },
+      {
+        "id": "C",
+        "texto": "6.000 ml, sendo 3.000 ml por sítio de punção"
+      },
+      {
+        "id": "D",
+        "texto": "8.000 ml, sendo 4.000 ml por sítio de punção 688 Ano: 2022"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0687",
+    "numero_ordem": 687,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '2.000 ml, sendo 1.000 ml por sítio de punção...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '4.000 ml, sendo 2.000 ml por sítio de punção...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '6.000 ml, sendo 3.000 ml por sítio de punção...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '8.000 ml, sendo 4.000 ml por sítio de punção 688 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
+  },
+  {
+    "codigo_origem": "Q1953166",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Pontes e Lacerda - MT",
+    "ano": 2022,
+    "prova": "SELECON - 2022 - Prefeitura de Pontes e Lacerda - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos , Medicação Intramuscular",
+    "enunciado": "A aplicação de injeções intramusculares no músculo glúteo médio é considerada uma das técnicas mais seguras, especialmente em crianças acima de sete meses. Assinale a alternativa que apresenta o nome dessa técnica:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Zaloga"
+      },
+      {
+        "id": "B",
+        "texto": "Seldinger"
+      },
+      {
+        "id": "C",
+        "texto": "Hochstetter"
+      },
+      {
+        "id": "D",
+        "texto": "Mann-Whitney 722 Ano: 2022"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0721",
+    "numero_ordem": 721,
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Hochstetter...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'Mann-Whitney 722 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A altern..."
+  },
+  {
+    "codigo_origem": "Q1313711",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2020,
+    "prova": "SELECON - 2020 - Prefeitura de Boa Vista - RR - Enfermeiro",
     "cargo": "Enfermeiro",
     "materia": "Enfermagem",
     "assunto": "Administração de medicamentos , Cálculo de Solução e Medicamentos",
-    "enunciado": "MT - Enfermeiro Um paciente pediátrico com peso de 12 kg deve receber uma medicação na dose de 15 mg/kg/dia, dividida em 3 doses iguais. A solução oral disponível tem concentração de 100 mg/5 mL. O volume, em mL, que deve ser administrado em cada uma das três doses é:",
+    "enunciado": "Intensivista Pediátrico Uma criança internada na unidade pediátrica apresenta a prescrição médica de metronidazol 125mg EV a cada 8 horas. Porém, na unidade, há disponível o medicamento metronidazol 0,5% com 100 ml de solução injetável. Para execução da prescrição médica com este último medicamento, serão necessários:",
     "alternativas": [
       {
         "id": "A",
-        "texto": "1,5 mL"
+        "texto": "75 ml"
       },
       {
         "id": "B",
-        "texto": "9,0 mL"
+        "texto": "25 ml"
       },
       {
         "id": "C",
-        "texto": "27,0 mL"
+        "texto": "50ml"
       },
       {
         "id": "D",
-        "texto": "3,0 mL 127 Ano: 2026"
+        "texto": "10 ml 789 Ano: 2020"
       }
     ],
     "resposta_correta": "",
-    "id": "EF0466",
-    "numero_ordem": 466,
-    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "id": "EF0788",
+    "numero_ordem": 788,
+    "fundamentacao_correta": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '3,0 mL 127 Ano: 2026...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '10 ml 789 Ano: 2020...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+    "comentario": "De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A altern..."
   },
   {
-    "codigo_origem": "Q3810643",
+    "codigo_origem": "Q1242252",
     "banca": "SELECON",
-    "orgao": "Prefeitura de Barra do Garças - MT",
-    "ano": 2025,
-    "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
+    "orgao": "Prefeitura de Boa Vista - RR",
+    "ano": 2024,
+    "prova": "SELECON - 2019 - Prefeitura de Boa Vista - RR - Assistente",
     "cargo": "Técnico de Enfermagem",
     "materia": "Enfermagem",
     "assunto": "Administração de medicamentos , Cálculo de Solução e Medicamentos",
-    "enunciado": "Técnico em Enfermagem Um paciente adulto em hipoglicemia grave necessita de Glicose 50% (G50%), mas o protocolo institucional determina que soluções hipertônicas devem ser diluídas antes da administração intravenosa, a fim de reduzir flebite e complicações metabólicas. O médico prescreve 20 mL de G50%, devendo a solução final ser preparada em concentração de 10%. A conduta do técnico de enfermagem para preparar essa diluição corretamente é:",
+    "enunciado": "Técnico - Grupo Especial - Técnico de Enfermagem Foi prescrito para a paciente J.G.G.M , 68 anos de idade, a administração de 1000mL de soro fisiológico a 0,9% para ser infundido em 12h. Para essa infusão, é necessária a seguinte quantidade de gotas por minuto:",
     "alternativas": [
       {
         "id": "A",
-        "texto": "adicionar 30 mL de diluente aos 20 mL de G50%, reduzindo a concentração final para a concentração de 10%"
+        "texto": "20 gotas/min"
       },
       {
         "id": "B",
-        "texto": "adicionar 80 mL de diluente aos 20 mL de G50%, obtendo um total de 100 mL em concentração de 10%"
+        "texto": "28 gotas/min"
       },
       {
         "id": "C",
-        "texto": "misturar igualmente 20 mL de G50% e 20 mL de diluente, resultando em G25% adequada ao protocolo"
+        "texto": "42 gotas/min"
       },
       {
         "id": "D",
-        "texto": "diluir G50% apenas com 10 mL de solução fisiológica, pois a diluição mínima já reduz risco de flebite 135 Ano: 2025"
+        "texto": "83 gotas/min"
       }
     ],
     "resposta_correta": "",
-    "id": "EF0474",
-    "numero_ordem": 474,
-    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "id": "EF0876",
+    "numero_ordem": 876,
+    "fundamentacao_correta": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') constitui a conduta correta e segura.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'adicionar 30 mL de diluente aos 20 mL de G50%, reduzindo a concentração final para a conce...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '20 gotas/min...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'adicionar 80 mL de diluente aos 20 mL de G50%, obtendo um total de 100 mL em concentração ...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '28 gotas/min...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'misturar igualmente 20 mL de G50% e 20 mL de diluente, resultando em G25% adequada ao prot...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '42 gotas/min...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'diluir G50% apenas com 10 mL de solução fisiológica, pois a diluição mínima já reduz risco...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois '83 gotas/min...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
-  },
-  {
-    "codigo_origem": "Q3810630",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Barra do Garças - MT",
-    "ano": 2025,
-    "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
-    "cargo": "Técnico de Enfermagem",
-    "materia": "Enfermagem",
-    "assunto": "Administração de medicamentos",
-    "enunciado": "Técnico em Enfermagem Durante a administração de um medicamento prescrito, o técnico de enfermagem deve seguir os princípios de segurança recomendados pelas diretrizes atuais sobre os “certos” da administração medicamentosa. Acerca dessas recomendações, observa-se que:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "o \"paciente certo\" pode ser confi rmado apenas pela identifi cação verbal, desde que ele esteja lúcido e orientado no momento da administração"
-      },
-      {
-        "id": "B",
-        "texto": "o \"registro certo\" refere-se apenas ao horário da administração, não incluindo lote, dose ou via utilizados, pois estes tratam-se de outros “certos”"
-      },
-      {
-        "id": "C",
-        "texto": "a “orientação certa” implica garantir que o paciente receba informações pertinentes sobre o medicamento, como finalidade, forma correta de uso e possíveis efeitos esperados, contribuindo para maior segurança e adesão"
-      },
-      {
-        "id": "D",
-        "texto": "a “resposta certa” diz respeito exclusivamente ao registro de reações adversas imediatas, não abrangendo a monitorização clínica posterior ou a avaliação de eficácia terapêutica, limitando-se apenas ao relato pontual de eventos observados no momento da administração 148 Ano: 2025"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0487",
-    "numero_ordem": 487,
-    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o \"paciente certo\" pode ser confi rmado apenas pela identifi cação verbal, desde que ele e...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o \"registro certo\" refere-se apenas ao horário da administração, não incluindo lote, dose ...'."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a “orientação certa” implica garantir que o paciente receba informações pertinentes sobre ...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
-      }
-    ],
-    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+    "comentario": "Em conformidade com o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (MS/ANVISA/Fiocruz), a checagem dos certos da medicação e a farmacodinâmica das drogas são essenciais para evitar eventos adversos. A assertiva [] ('') co..."
   }
 ]

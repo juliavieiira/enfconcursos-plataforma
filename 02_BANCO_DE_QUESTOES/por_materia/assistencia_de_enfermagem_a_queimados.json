@@ -28,28 +28,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0120",
-    "numero_ordem": 120,
-    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "id": "EF0200",
+    "numero_ordem": 200,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a aplicação de gelo diretamente sobre a área afetada para um resfriamento rápido...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a aplicação de gelo diretamente sobre a área afetada para um resfriamento rápido...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a perfuração das bolhas com uma agulha esterilizada para drenar o líquido...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a perfuração das bolhas com uma agulha esterilizada para drenar o líquido...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a colocação do membro afetado sob água corrente em temperatura ambiente por vários minutos...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a colocação do membro afetado sob água corrente em temperatura ambiente por vários mi...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a aplicação de pasta de dente ou pó de café sobre a queimadura para aliviar a dor...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a aplicação de pasta de dente ou pó de café sobre a queimadura para aliviar a dor...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
   },
   {
     "codigo_origem": "Q3199747",
@@ -80,28 +80,28 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0208",
-    "numero_ordem": 208,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0288",
+    "numero_ordem": 288,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a queimadura é de segundo grau, com 18% da superfície corporal afetada, o que exige a admi...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a queimadura é de segundo grau, com 18% da superfície corporal afetada, o que exige a...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o técnico de enfermagem deve classificar a queimadura como de terceiro grau e iniciar a re...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'o técnico de enfermagem deve classificar a queimadura como de terceiro grau e iniciar...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a queimadura é de primeiro grau, o que implica que a reposição volêmica não seja necessári...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a queimadura é de primeiro grau, o que implica que a reposição volêmica não seja nece...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a queimadura é de segundo grau, mas como não ultrapassa 15% da superfície corporal, a repo...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a queimadura é de segundo grau, mas como não ultrapassa 15% da superfície corporal, a...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Técnico de Enfermagem, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   },
   {
     "codigo_origem": "Q3197482",
@@ -132,27 +132,183 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0223",
-    "numero_ordem": 223,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0303",
+    "numero_ordem": 303,
+    "fundamentacao_correta": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ('') reflete a melhor evidência científica para o manejo de emergência.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a queimadura de segundo grau afeta a epiderme e a derme superficial e, devido à exten...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a queimadura de segundo grau deve ser tratada com analgésicos não opióides, como o paracet...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a queimadura de segundo grau deve ser tratada com analgésicos não opióides, como o pa...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o enfermeiro deve classificar a queimadura como de primeiro grau e administrar apenas anal...'."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'o enfermeiro deve classificar a queimadura como de primeiro grau e administrar a...'."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a queimadura de segundo grau deve ser considerada superficial, e a reposição volêmica deve...'."
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'a queimadura de segundo grau deve ser considerada superficial, e a reposição vol...'."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Segundo as Diretrizes Internacionais de Ressuscitação Cardiopulmonar e Atendimento Cardiovascular de Emergência (AHA) e protocolos do SAMU/MS, o reconhecimento precoce da deterioração clínica e as manobras sistemáticas salvam vidas. A alternativa [] ..."
+  },
+  {
+    "codigo_origem": "Q3674528",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Dourados - MS",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Dourados - MS -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Assistência de Enfermagem a Queimados",
+    "enunciado": "As queimaduras são classificadas como injúrias decorrentes de traumas que possuem diferentes etiologias, dentre elas, a térmica, resultante da exposição a: chamas, líquidos quentes, superfícies quentes, substâncias químicas, frio, radiação, atrito ou fricção. Dependendo da extensão do comprometimento tecidual e da exposição ao agente agressor, as principais complicações clínicas nos pacientes queimados são:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "lesão visceral, pneumonia e colite"
+      },
+      {
+        "id": "B",
+        "texto": "lesão tegumentar, insuficiência renal crônica e colecistite"
+      },
+      {
+        "id": "C",
+        "texto": "insuficiência cardíaca, pneumonia e cirrose hepática grave"
+      },
+      {
+        "id": "D",
+        "texto": "lesão visceral, insuficiência renal aguda e edema pulmonar 522 Ano: 2023"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0521",
+    "numero_ordem": 521,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'lesão visceral, pneumonia e colite...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'lesão tegumentar, insuficiência renal crônica e colecistite...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'insuficiência cardíaca, pneumonia e cirrose hepática grave...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'lesão visceral, insuficiência renal aguda e edema pulmonar 522 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
+  },
+  {
+    "codigo_origem": "Q2310588",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Primavera do Leste - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Primavera do Leste -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Assistência de Enfermagem a Queimados",
+    "enunciado": "MT - Enfermeiro(a) Padrão Para prevenir a hipovolemia e/ou o choque no queimado, a indicação é iniciar, assim que possível, ressuscitação volêmica segura e precisa para a sobrevivência de pacientes com queimaduras extensas. Portanto, é indicada, em pacientes adultos acometidos com superfície corporal queimada (SCQ), a Regra dos Nove de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "<20%"
+      },
+      {
+        "id": "B",
+        "texto": ">20%"
+      },
+      {
+        "id": "C",
+        "texto": "<30%"
+      },
+      {
+        "id": "D",
+        "texto": "<40% 610 Ano: 2023 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Prefeitura de Primavera do Leste - MT Prova: SELECON - 2023 - Prefeitura de Primavera do Leste -"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0609",
+    "numero_ordem": 609,
+    "fundamentacao_correta": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Participação Social. A assertiva [] ('') expressa fielmente o preceito legislativo.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos do assunto avaliado pela banca."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois '<40% 610 Ano: 2023 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: C...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base na Lei Orgânica da Saúde (Lei Federal nº 8.080/1990) e na Constituição Federal de 1988 (Art. 196 a 200), o SUS organiza-se sob os princípios doutrinários de Universalidade, Integralidade e Equidade, e diretrizes de Descentralização e Partici..."
+  },
+  {
+    "codigo_origem": "Q2408176",
+    "banca": "SELECON",
+    "orgao": "Câmara de São Gonçalo - RJ",
+    "ano": 2022,
+    "prova": "SELECON - 2022 - Câmara de São Gonçalo - RJ - Agente de",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Assistência de Enfermagem a Queimados",
+    "enunciado": "Segurança Legislativo Uma queimadura que afeta a epiderme, derme e estruturas profundas com presença de placa esbranquiçada ou enegrecida e indolor é classificada como de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "primeiro grau"
+      },
+      {
+        "id": "B",
+        "texto": "terceiro grau"
+      },
+      {
+        "id": "C",
+        "texto": "segundo grau"
+      },
+      {
+        "id": "D",
+        "texto": "sétimo grau 684 Ano: 2022"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0683",
+    "numero_ordem": 683,
+    "fundamentacao_correta": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'primeiro grau...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'terceiro grau...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'segundo grau...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'sétimo grau 684 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Com base nos manuais técnicos do Ministério da Saúde e nas competências profissionais do Enfermeiro, a alternativa [] ('') responde corretamente à questão conforme as boas práticas assistenciais."
   }
 ]

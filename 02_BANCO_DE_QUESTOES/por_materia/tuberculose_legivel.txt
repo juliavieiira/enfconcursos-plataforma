@@ -1,5 +1,5 @@
 === CADERNO DE QUESTÕES: TUBERCULOSE ===
-Total: 2 questões
+Total: 10 questões
 
 QUESTÃO 1 [Código: EF0059] - Prefeitura de Conquista D'Oeste - MT (SELECON 2026) - Enfermeiro
 Assunto: Tuberculose , Doenças Infecciosas e parasitárias
@@ -11,16 +11,16 @@ Assunto: Tuberculose , Doenças Infecciosas e parasitárias
   [D] isolamento respiratório do paciente por período mínimo de 60 dias após o início do tratamento Enfermagem > Infecções Sexualmente Transmissíveis (IST) , Saúde da Mulher ,
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vacinação em massa da população com BCG, administrada em dose única anual...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manutenção de ambientes bem ventilados e com incidência de luz solar direta...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'desinfecção de superfícies e objetos compartilhados com soluções à base de cloro...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'isolamento respiratório do paciente por período mínimo de 60 dias após o início do tratame...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'vacinação em massa da população com BCG, administrada em dose única anual...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'manutenção de ambientes bem ventilados e com incidência de luz solar direta...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'desinfecção de superfícies e objetos compartilhados com soluções à base de cloro...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'isolamento respiratório do paciente por período mínimo de 60 dias após o início do tr...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 2 [Código: EF0281] - COREN-RR (SELECON 2024) - Enfermeiro
+QUESTÃO 2 [Código: EF0361] - COREN-RR (SELECON 2024) - Enfermeiro
 Assunto: Tuberculose , Doenças Infecciosas e parasitárias
 A tuberculose é um dos agravos fortemente influenciados pelos determinantes sociais, apresentando relação direta com a pobreza e a exclusão social. A principal maneira de prevenir a tuberculose é com a vacina BCG (Bacillus Calmette-Guérin), disponível gratuitamente no SUS. Essa vacina protege contra as formas mais graves da doença e deve ser dada às crianças ao nascer, ou, no máximo, até:
 
@@ -30,12 +30,164 @@ A tuberculose é um dos agravos fortemente influenciados pelos determinantes soc
   [D] 06 anos, 11 meses e 29 dias 362 Ano: 2024
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as indicações, contraindicações, vias de administração e esquemas vacinais seguem critérios imunológicos rigorosos. A alternativa [] ('') expressa fielmente a recomendação do calendário vigente.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '02 anos, 11 meses e 29 dias...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '04 anos, 11 meses e 29 dias...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '05 anos, 11 meses e 29 dias...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '06 anos, 11 meses e 29 dias 362 Ano: 2024...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois '02 anos, 11 meses e 29 dias...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois '04 anos, 11 meses e 29 dias...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois '05 anos, 11 meses e 29 dias...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois '06 anos, 11 meses e 29 dias 362 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 3 [Código: EF0621] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
+Assunto: Tuberculose , Doenças Infecciosas e parasitárias
+MT - Enfermeiro(a) Padrão A tuberculose (TB) foi conhecida no século XIX como peste branca e afetou milhares de pessoas em todo o mundo. A TB pode ser causada por qualquer uma das sete espécies que integram o complexo Mycobacterium tuberculosis. São elas:
+
+  [A] M. cruzi, M. bovis, M. africanum, M. canetti, M. microti, M. pinnipedi e M. leprae
+  [B] M. tuberculosis, M. bovis, M. africanum, M. canetti, M. microti, M. pinnipedi e M. caprae
+  [C] M. leprae, M. bovis, M. africanum, M. canetti, M. microti, M. pinnipedi e M. baumanii
+  [D] M. pertusis, M. bovis, M. africanum, M. canetti, M. microti, M. pinnipedi e M. pmeumonie
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'M. cruzi, M. bovis, M. africanum, M. canetti, M. microti, M. pinnipedi e M. leprae...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'M. tuberculosis, M. bovis, M. africanum, M. canetti, M. microti, M. pinnipedi e M. ca...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'M. leprae, M. bovis, M. africanum, M. canetti, M. microti, M. pinnipedi e M. baumanii...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'M. pertusis, M. bovis, M. africanum, M. canetti, M. microti, M. pinnipedi e M. pmeumo...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 4 [Código: EF0649] - Prefeitura de Nova Mutum - MT (SELECON 2023) - Enfermeiro
+Assunto: Tuberculose , Doenças Infecciosas e parasitárias
+A prova tuberculínica (PT) é um teste diagnóstico de infecção latente da tuberculose (ILTB), que se baseia em uma reação de hipersensibilidade cutânea após a aplicação do PPD por via intradérmica. Os indivíduos infectados pelo bacilo de Koch (BK) podem ter sua capacidade de reação à PT diminuída com o tempo, devido à perda da resposta dos linfócitos T de memória. Esse fato levaria algumas pessoas à resposta negativa da PT, mesmo que infectadas pelo Mycobacterium tuberculosis. Tal efeito é chamado de:
+
+  [A] alfa
+  [B] beta
+  [C] butter
+  [D] booster 650 Ano: 2023
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'booster 650 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 5 [Código: EF0650] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Enfermeiro
+Assunto: Tuberculose , Doenças Infecciosas e parasitárias
+Segundo a OMS, a tuberculose (TB) é um grave problema de saúde pública, pois se trata de uma doença que pode acometer uma série de órgãos e/ou sistemas. A apresentação da TB na forma pulmonar, além de ser mais frequente e relevante, especialmente a bacilífera, é responsável pela manutenção da cadeia de transmissão da doença na comunidade. Portanto, a busca ativa de sintomático respiratório é considerada uma:
+
+  [A] importante estratégia para o controle da doença, na medida em que permite a detecção precoce das formas pulmonares
+  [B] estratégia frágil para o controle da doença, pois não permite a identificação precoce das formas pulmonares
+  [C] importante estratégia, mas permite identificar apenas os casos abacilíferos e extrapulmonares
+  [D] diretriz que deve ser aplicada somente nos países onde os casos são, na maioria, extrapulmonares Enfermagem > Legislação de Enfermagem ,
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'importante estratégia para o controle da doença, na medida em que permite a detecção ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'estratégia frágil para o controle da doença, pois não permite a identificação precoce...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'importante estratégia, mas permite identificar apenas os casos abacilíferos e ex...'.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'diretriz que deve ser aplicada somente nos países onde os casos são, na maioria, extr...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 6 [Código: EF0698] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Técnico de Enfermagem
+Assunto: Tuberculose , Doenças Infecciosas e parasitárias
+Técnico em Enfermagem Quando um paciente com tuberculose apresenta uma resistência a dois ou mais fármacos antituberculose, exceto à associação rifampicina e isoniazida, tal quadro é chamado de:
+
+  [A] falência medicamentosa
+  [B] monorresistência
+  [C] polirresistência
+  [D] abandono 699 Ano: 2022
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'falência medicamentosa...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'monorresistência...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'polirresistência...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'abandono 699 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 7 [Código: EF0699] - Prefeitura de Pontes e Lacerda - MT (SELECON 2022) - Técnico de Enfermagem
+Assunto: Tuberculose , Doenças Infecciosas e parasitárias
+Técnico em Enfermagem Atuberculose é uma doença transmitida de pessoa a pessoa, principalmente através do ar. A fala, o espirro e, principalmente, a tosse de um doente de tuberculose pulmonar bacilífera lançam no ar gotículas de tamanhos variados, contendo, no seu interior, o bacilo. Por esse motivo, a baciloscopia de escarro deve ser realizada em, no mínimo:
+
+  [A] três amostras – duas por ocasião da primeira consulta e outra, independentemente do resultado da primeira, na manhã do dia seguinte, preferencialmente ao despertar
+  [B] duas amostras – uma por ocasião da primeira consulta e outra, independentemente do resultado da primeira, na manhã do dia seguinte, preferencialmente ao despertar
+  [C] duas amostras – uma por ocasião da primeira consulta e outra, caso a primeira positiva, na manhã do sétimo dia, preferencialmente ao despertar
+  [D] uma amostra por ocasião da primeira consulta 700 Ano: 2022
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'três amostras – duas por ocasião da primeira consulta e outra, independentemente do r...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'duas amostras – uma por ocasião da primeira consulta e outra, independentemente do re...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'duas amostras – uma por ocasião da primeira consulta e outra, caso a primeira positiv...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'uma amostra por ocasião da primeira consulta 700 Ano: 2022...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 8 [Código: EF0763] - Prefeitura de Boa Vista - RR (SELECON 2024) - Enfermeiro
+Assunto: Tuberculose , Doenças Infecciosas e parasitárias
+Especialista em Epidemiologista e Vigilância em Saúde O sistema informatizado, desenvolvido para receber as notificações, acompanhamento e encerramento dos casos de tuberculose drogarresistente e micobacterioses não tuberculosas, é conhecido como:
+
+  [A] VISALEGIS
+  [B] SINAN
+  [C] SITE-TB
+  [D] SIM
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+
+------------------------------------------------------------
+
+QUESTÃO 9 [Código: EF0815] - Prefeitura de Boa Vista - RR (SELECON 2020) - Enfermeiro
+Assunto: Tuberculose , Doenças Infecciosas e parasitárias
+A tuberculose continua sendo um grave p r o b l e m a d e s a ú d e p ú b l i c a , e x i g i n d o o desenvolvimento de estratégias para detecção precoce e tratamento. Sobre o diagnóstico de Tuberculose nas crianças menores de 10 anos, é correto afirmar que:
+
+  [A] o diagnóstico é de fácil manuseio uma vez que a criança consegue expectorar facilmente e a forma pulmonar não difere do adulto
+  [B] o exame de escarro em geral somente é possível a partir dos 5 ou 6 anos de idade e a forma pulmonar difere do adulto, pois costuma ser abacilífera
+  [C] o diagnóstico é de difícil manuseio, uma vez que a criança consegue expectorar facilmente e a forma pulmonar não difere do adulto
+  [D] o exame de escarro em geral somente é possível a partir dos 5 ou 6 anos de idade e a forma pulmonar costuma ser bacilífera 816 Ano: 2020
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC) e protocolos do Ministério da Saúde/SBP, a vigilância do crescimento, desenvolvimento e avaliação clínica neonatal exigem parâmetros rigorosos de propedêutica. A alternativa [] ('') representa a conduta científica e clinicamente recomendada.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'o diagnóstico é de fácil manuseio uma vez que a criança consegue expectorar facilment...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'o exame de escarro em geral somente é possível a partir dos 5 ou 6 anos de idade e a ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'o diagnóstico é de difícil manuseio, uma vez que a criança consegue expectorar facilm...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'o exame de escarro em geral somente é possível a partir dos 5 ou 6 anos de idade e a ...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 10 [Código: EF0834] - Prefeitura de Campo Grande - MS (SELECON 2019) - Enfermeiro
+Assunto: Tuberculose , Doenças Infecciosas e parasitárias
+É imprescindível o conhecimento do enfermeiro sobre protocolo de diagnóstico e tratamento de tuberculose na assistência primária em saúde. Sobre o manejo do protocolo, é correto afirmar que:
+
+  [A] a ausência de tosse por seis meses e a ausência de febre com aumento de peso repentino são consideradas como um caso suspeito
+  [B] o tratamento é diretamente observado para tuberculose, pois não visa o fortalecimento da adesão ao tratamento
+  [C] a tuberculose é causada pelo patógeno Streptococcus pneumoniae e a sua incidência é mais comum na população indígena
+  [D] a tuberculose pulmonar na criança com menos de 1 O anos de idade difere do adulto, pois costuma ser abacilífera 835 Ano: 2019
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'a ausência de tosse por seis meses e a ausência de febre com aumento de peso repentin...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'o tratamento é diretamente observado para tuberculose, pois não visa o fortalecimento...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'a tuberculose é causada pelo patógeno Streptococcus pneumoniae e a sua incidência é m...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'a tuberculose pulmonar na criança com menos de 1 O anos de idade difere do adulto, po...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 

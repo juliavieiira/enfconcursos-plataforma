@@ -1,83 +1,7 @@
 === CADERNO DE QUESTÕES: ASSISTÊNCIA DE ENFERMAGEM EM FERIDAS E CURATIVOS ===
-Total: 7 questões
+Total: 15 questões
 
-QUESTÃO 1 [Código: EF0143] - Prefeitura de Tapurah - MT (SELECON 2025) - Técnico de Enfermagem
-Assunto: Assistência de Enfermagem em Feridas e Curativos , Assistência de Enfermagem a Queimados
-Enfermagem João, 38 anos, deu entrada no setor de emergência com queimadura térmica de 2º grau superficial em antebraço esquerdo, após acidente doméstico com água fervente. Ao examiná-la, a pele apresenta eritema, dor intensa e múltiplas flictenas íntegras. O técnico de enfermagem, sob supervisão do enfermeiro e de acordo com a prescrição, deve realizar o curativo conforme protocolos institucionais. Nesse caso, a conduta correta é:
-
-  [A] aplicar pomada antibiótica e cobrir com pano limpo
-  [B] romper as bolhas intactas para facilitar a ação da pomada
-  [C] irrigar com água corrente e cobrir com papel alumínio estéril
-  [D] utilizar solução antisséptica compatível com tecido viável e cobrir com gaze estéril
-
-✅ Gabarito: 
-💡 Fundamentação: De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.
-❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aplicar pomada antibiótica e cobrir com pano limpo...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'romper as bolhas intactas para facilitar a ação da pomada...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'irrigar com água corrente e cobrir com papel alumínio estéril...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar solução antisséptica compatível com tecido viável e cobrir com gaze estéril...'.
-
-------------------------------------------------------------
-
-QUESTÃO 2 [Código: EF0242] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Enfermeiro
-Assunto: Assistência de Enfermagem em Feridas e Curativos
-A cicatrização de feridas envolve diversos fatores que influenciam diretamente no processo de reparação tecidual. Assinale o fator que pode retardar a cicatrização de uma ferida:
-
-  [A] idade avançada
-  [B] nutrição hiperproteica
-  [C] boa oxigenação tecidual
-  [D] higiene diária da ferida 323 Ano: 2024
-
-✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
-❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'idade avançada...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'nutrição hiperproteica...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'boa oxigenação tecidual...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'higiene diária da ferida 323 Ano: 2024...'.
-
-------------------------------------------------------------
-
-QUESTÃO 3 [Código: EF0369] - Prefeitura de Água Boa - MT (SELECON 2024) - Técnico de Enfermagem
-Assunto: Assistência de Enfermagem em Feridas e Curativos
-Enfermagem No curativo, faz-se uma limpeza mecânica da ferida com irrigação de solução salina sob pressão, de forma a remover corpos estranhos e grande parte de bactérias superficiais. Quanto ao preparo da pele ou da mucosa íntegra para procedimentos invasivos ou cirúrgicos, indica-se o uso de:
-
-  [A] soluções aquosas
-  [B] antissépticos
-  [C] germicidas
-  [D] fungicidas
-
-✅ Gabarito: 
-💡 Fundamentação: De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.
-❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'soluções aquosas...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'antissépticos...'.
-   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-   • Alternativa D: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
-
-------------------------------------------------------------
-
-QUESTÃO 4 [Código: EF0379] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
-Assunto: Assistência de Enfermagem em Feridas e Curativos
-Administrativo - Saúde/40h O procedimento correto a ser adotado por um enfermeiro, ao identificar um paciente, com uma lesão de pele suspeita de ser uma úlcera por pressão, em estágio avançado, deve ser:
-
-  [A] remover a crosta da lesão e aplicar um desinfetante tópico
-  [B] aplicar pomada antibiótica na lesão e cobrir com uma gaze
-  [C] realizar limpeza da lesão com solução salina e cobrir com um curativo estéril
-  [D] massagear suavemente a área ao redor da lesão para estimular a circulação sanguínea 460 Ano: 2024
-
-✅ Gabarito: 
-💡 Fundamentação: De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.
-❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'remover a crosta da lesão e aplicar um desinfetante tópico...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aplicar pomada antibiótica na lesão e cobrir com uma gaze...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar limpeza da lesão com solução salina e cobrir com um curativo estéril...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'massagear suavemente a área ao redor da lesão para estimular a circulação sanguínea 460 An...'.
-
-------------------------------------------------------------
-
-QUESTÃO 5 [Código: EF0451] - Prefeitura de Porto dos Gaúchos - MT (SELECON 2026) - Técnico de Enfermagem
+QUESTÃO 1 [Código: EF0111] - Prefeitura de Porto dos Gaúchos - MT (SELECON 2026) - Técnico de Enfermagem
 Assunto: Assistência de Enfermagem em Feridas e Curativos
 MT - Técnico em Enfermagem Durante a realização do curativo em uma lesão de pé diabético, o técnico de enfermagem prepara o material e executa a limpeza da ferida conforme prescrição e protocolos institucionais. Considerando as recomendações técnicas para o cuidado local dessas lesões, é correto afirmar que o(a):
 
@@ -87,16 +11,16 @@ MT - Técnico em Enfermagem Durante a realização do curativo em uma lesão de 
   [D] curativo deve ser mantido seco, dispensando a limpeza em trocas subsequentes se não houver exsudato para não manipular excessivamente a ferida 112 Ano: 2026
 
 ✅ Gabarito: 
-💡 Fundamentação: De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.
+💡 Fundamentação: Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'limpeza deve ser feita com solução antisséptica de uso habitual, independentemente da cond...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'irrigação da ferida deve ser feita com solução fisiológica a 0,9%, utilizando técnica que ...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'remoção de tecido desvitalizado deve ser realizada pelo técnico de enfermagem em cada limp...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'curativo deve ser mantido seco, dispensando a limpeza em trocas subsequentes se não houver...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'limpeza deve ser feita com solução antisséptica de uso habitual, independentemente da...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'irrigação da ferida deve ser feita com solução fisiológica a 0,9%, utilizando técnica...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'remoção de tecido desvitalizado deve ser realizada pelo técnico de enfermagem em cada...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'curativo deve ser mantido seco, dispensando a limpeza em trocas subsequentes se não h...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 6 [Código: EF0475] - Prefeitura de Barra do Garças - MT (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 2 [Código: EF0135] - Prefeitura de Barra do Garças - MT (SELECON 2025) - Técnico de Enfermagem
 Assunto: Assistência de Enfermagem em Feridas e Curativos
 Técnico em Enfermagem Durante a troca de curativo, um paciente internado por celulite de membro inferior apresenta ferida limpa decorrente de biópsia realizada há 48 horas, com bordas aproximadas, ausência de secreção e sem sinais de infecção local. A abordagem mais adequada é:
 
@@ -106,16 +30,16 @@ Técnico em Enfermagem Durante a troca de curativo, um paciente internado por ce
   [D] utilizar solução antisséptica em todas as trocas, independentemente da evolução da ferida e da avaliação da equipe 136 Ano: 2025
 
 ✅ Gabarito: 
-💡 Fundamentação: De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.
+💡 Fundamentação: Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar a limpeza da periferia para o centro, garantindo que as áreas externas sejam higi...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'priorizar a limpeza do centro para a periferia, iniciando pela zona menos contaminada e av...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar a limpeza do mais contaminado para o menos contaminado, seguindo o princípio apli...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar solução antisséptica em todas as trocas, independentemente da evolução da ferida ...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'realizar a limpeza da periferia para o centro, garantindo que as áreas externas sejam...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'priorizar a limpeza do centro para a periferia, iniciando pela zona menos contaminada...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'realizar a limpeza do mais contaminado para o menos contaminado, seguindo o princípio...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'utilizar solução antisséptica em todas as trocas, independentemente da evolução da fe...' não atende às diretrizes oficiais do Ministério da Saúde.
 
 ------------------------------------------------------------
 
-QUESTÃO 7 [Código: EF0481] - Prefeitura de Barra do Garças - MT (SELECON 2025) - Técnico de Enfermagem
+QUESTÃO 3 [Código: EF0141] - Prefeitura de Barra do Garças - MT (SELECON 2025) - Técnico de Enfermagem
 Assunto: Assistência de Enfermagem em Feridas e Curativos
 Técnico em Enfermagem Referente a feridas, a fase da cicatrização, caracterizada por fibroplasia, angiogênese, proliferação de fibroblastos e deposição inicial de colágeno tipo III, denomina-se fase:
 
@@ -125,12 +49,240 @@ Técnico em Enfermagem Referente a feridas, a fase da cicatrização, caracteriz
   [D] de exsudação 142 Ano: 2025
 
 ✅ Gabarito: 
-💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+💡 Fundamentação: Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.
 ❌ Distratores:
-   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'inflamatória...'.
-   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'proliferativa...'.
-   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'de maturação...'.
-   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'de exsudação 142 Ano: 2025...'.
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'inflamatória...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'proliferativa...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'de maturação...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'de exsudação 142 Ano: 2025...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 4 [Código: EF0223] - Prefeitura de Tapurah - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Assistência de Enfermagem em Feridas e Curativos , Assistência de Enfermagem a Queimados
+Enfermagem João, 38 anos, deu entrada no setor de emergência com queimadura térmica de 2º grau superficial em antebraço esquerdo, após acidente doméstico com água fervente. Ao examiná-la, a pele apresenta eritema, dor intensa e múltiplas flictenas íntegras. O técnico de enfermagem, sob supervisão do enfermeiro e de acordo com a prescrição, deve realizar o curativo conforme protocolos institucionais. Nesse caso, a conduta correta é:
+
+  [A] aplicar pomada antibiótica e cobrir com pano limpo
+  [B] romper as bolhas intactas para facilitar a ação da pomada
+  [C] irrigar com água corrente e cobrir com papel alumínio estéril
+  [D] utilizar solução antisséptica compatível com tecido viável e cobrir com gaze estéril
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'aplicar pomada antibiótica e cobrir com pano limpo...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'romper as bolhas intactas para facilitar a ação da pomada...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'irrigar com água corrente e cobrir com papel alumínio estéril...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'utilizar solução antisséptica compatível com tecido viável e cobrir com gaze estéril...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 5 [Código: EF0322] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Enfermeiro
+Assunto: Assistência de Enfermagem em Feridas e Curativos
+A cicatrização de feridas envolve diversos fatores que influenciam diretamente no processo de reparação tecidual. Assinale o fator que pode retardar a cicatrização de uma ferida:
+
+  [A] idade avançada
+  [B] nutrição hiperproteica
+  [C] boa oxigenação tecidual
+  [D] higiene diária da ferida 323 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'idade avançada...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'nutrição hiperproteica...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'boa oxigenação tecidual...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'higiene diária da ferida 323 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 6 [Código: EF0449] - Prefeitura de Água Boa - MT (SELECON 2024) - Técnico de Enfermagem
+Assunto: Assistência de Enfermagem em Feridas e Curativos
+Enfermagem No curativo, faz-se uma limpeza mecânica da ferida com irrigação de solução salina sob pressão, de forma a remover corpos estranhos e grande parte de bactérias superficiais. Quanto ao preparo da pele ou da mucosa íntegra para procedimentos invasivos ou cirúrgicos, indica-se o uso de:
+
+  [A] soluções aquosas
+  [B] antissépticos
+  [C] germicidas
+  [D] fungicidas
+
+✅ Gabarito: 
+💡 Fundamentação: Segundo a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e práticas recomendadas pela SOBECC, a segurança cirúrgica e o controle de artigos críticos, semicríticos e não críticos exigem barreiras físicas, testes biológicos e fluxos unidirecionais. A alternativa [] ('') atende às exigências normativas de biossegurança perioperatória.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'soluções aquosas...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'antissépticos...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+
+------------------------------------------------------------
+
+QUESTÃO 7 [Código: EF0459] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+Assunto: Assistência de Enfermagem em Feridas e Curativos
+Administrativo - Saúde/40h O procedimento correto a ser adotado por um enfermeiro, ao identificar um paciente, com uma lesão de pele suspeita de ser uma úlcera por pressão, em estágio avançado, deve ser:
+
+  [A] remover a crosta da lesão e aplicar um desinfetante tópico
+  [B] aplicar pomada antibiótica na lesão e cobrir com uma gaze
+  [C] realizar limpeza da lesão com solução salina e cobrir com um curativo estéril
+  [D] massagear suavemente a área ao redor da lesão para estimular a circulação sanguínea 460 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'remover a crosta da lesão e aplicar um desinfetante tópico...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'aplicar pomada antibiótica na lesão e cobrir com uma gaze...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'realizar limpeza da lesão com solução salina e cobrir com um curativo estéril...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'massagear suavemente a área ao redor da lesão para estimular a circulação sanguínea 4...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 8 [Código: EF0560] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2024) - Técnico de Enfermagem
+Assunto: Assistência de Enfermagem em Feridas e Curativos
+Pública - MT - Técnico de Imobilização Ortopédica - Gesseiro As fraturas do fêmur proximal no esqueleto imaturo são raras e representam, aproximadamente, 1% de todas as fraturas pediátricas. Além disso, devem ser tratadas como urgência, preferencialmente dentro das primeiras:
+
+  [A] 12 horas após a lesão
+  [B] 24 horas após a lesão
+  [C] 36 horas após a lesão
+  [D] 48 horas após a lesão
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois '12 horas após a lesão...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois '24 horas após a lesão...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois '36 horas após a lesão...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois '48 horas após a lesão...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 9 [Código: EF0562] - Empresa Cuiabana de Saúde Pública - MT (SELECON 2023) - Técnico de Enfermagem
+Assunto: Assistência de Enfermagem em Feridas e Curativos
+Pública - MT - Técnico de Imobilização Ortopédica - Gesseiro As fraturas no úmero exigem muita cautela e atenção na abordagem, visto que, frequentemente, há lesões vasculares e nervosas, pela proximidade de vasos e nervos junto ao osso.Portanto, as fraturas do úmero muito altas devem ser imobilizadas com o/a:
+
+  [A] cintura escapular
+  [B] hiperextensão ulnar
+  [C] braço ao longo do tronco
+  [D] hiperflexão do antebraço 563 Ano: 2023 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Empresa Cuiabana de Saúde Pública - MT Prova: SELECON - 2023 - Empresa Cuiabana de Saúde
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'cintura escapular...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'hiperextensão ulnar...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'braço ao longo do tronco...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'hiperflexão do antebraço 563 Ano: 2023 Enfermagem > Legislação em Saúde , Sistema Úni...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 10 [Código: EF0594] - Prefeitura de Primavera do Leste - MT (SELECON 2023) - Enfermeiro
+Assunto: Assistência de Enfermagem em Feridas e Curativos
+MT - Enfermeiro Intervencionista - SAMU Uma cobertura amplamente utilizada em feridas cavitárias e que permite a hemostasia, mantendo o meio úmido, entretanto, absorvendo o exsudato e preenchendo as cavidades, recebe o nome de:
+
+  [A] AGE - Ácidos Graxos Essenciais
+  [B] Alginato de cálcio
+  [C] Hidrocoloide
+  [D] Papaína 595 Ano: 2023
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'AGE - Ácidos Graxos Essenciais...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'Alginato de cálcio...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Hidrocoloide...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Papaína 595 Ano: 2023...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 11 [Código: EF0740] - Prefeitura de Boa Vista - RR (SELECON 2020) - Técnico de Enfermagem
+Assunto: Assistência de Enfermagem em Feridas e Curativos
+Enfermagem Há diversas escalas de predição para o desenvolvimento de lesão por pressão. Na escala de Norton é correto afirmar que existem:
+
+  [A] 5 fatores de risco e a pontuação total varia de 5 a 20 pontos
+  [B] 8 fatores de risco e a pontuação total varia de 5 a 25 pontos
+  [C] 6 fatores de risco e a pontuação total varia de 6 a 23 pontos
+  [D] 7 fatores de risco e a pontuação total varia de 4 a 25 pontos
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois '5 fatores de risco e a pontuação total varia de 5 a 20 pontos...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois '8 fatores de risco e a pontuação total varia de 5 a 25 pontos...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois '6 fatores de risco e a pontuação total varia de 6 a 23 pontos...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois '7 fatores de risco e a pontuação total varia de 4 a 25 pontos...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 12 [Código: EF0827] - Prefeitura de Campo Grande - MS (SELECON 2019) - Enfermeiro
+Assunto: Assistência de Enfermagem em Feridas e Curativos
+Segundo os dados da National Pressure Ulcer Advisory Panel (NPUAP) nos EUA, a prevalência de lesão por pressão em hospitais é de 15% e a incidência é de 7%. Segundo o NPUAP, em abril/2016, a lesão por pressão tissular profunda é definida como:
+
+  [A] Uma pele com lesão pressão que não leva a um dano à pele e/ou tecido mole subjacente geralmente sobre uma proeminência óssea ou relacionada com um dispositivo médico ou outro. A lesão pode apresentar pele intacta ou uma úlcera aberta e pode ser dolorosa.
+  [B] Uma pele com lesão por pressão nesse aspecto geralmente está em conformidade com o padrão ou forma do dispositivo e deverá ser aplicada ao sistema de estadiamento com a escala de Braden. Essa lesão resulta de pressão intensa e/ou prolongada e de cisalhamento na interface osso-músculo.
+  [C] Uma pele intacta ou não, com área localizada e persistente apresentando área vermelha escura, marrom ou púrpura que não embranquece ou separação epidérmica que mostra lesão com leito escurecido ou bolha com exsudato sanguinolento. Essa lesão resulta de pressão intensa e/ou prolongada e de cisalhamento na interface osso-músculo.
+  [D] Uma pele com lesão que apresenta um formato diferenciado (pera, ferradura ou borboleta), com margens irregulares; tem inicio súbito, normalmente como abrasão, bolha ou área escurecida e cuja piora é drástica e progressiva em 48 horas. Essa ferida é muito comum em pacientes que estão se aproximando do fim de vida. 828 Ano: 2019
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'Uma pele com lesão pressão que não leva a um dano à pele e/ou tecido mole subjacente ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'Uma pele com lesão por pressão nesse aspecto geralmente está em conformidade com o pa...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'Uma pele intacta ou não, com área localizada e persistente apresentando área vermelha...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'Uma pele com lesão que apresenta um formato diferenciado (pera, ferradura ou borbolet...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 13 [Código: EF0867] - Prefeitura de Campo Grande - MS (SELECON 2019) - Técnico de Enfermagem
+Assunto: Assistência de Enfermagem em Feridas e Curativos
+A lesão por pressão é uma alteração na pele e/ou nos tecidos ou estruturas subjacentes, geralmente localizada sobre uma proeminência óssea, resultante de pressão isolada ou combinada com fricção e/ou cisalhamento. A avaliação periódica dos riscos do paciente é uma estratégia para prevenção. São considerados fatores de risco para lesão por pressão:
+
+  [A] alterações do estado de consciência, presença de doença vascular e estado nutricional satisfatório
+  [B] ausência de alterações do estado de consciência, presença de doença vascular e estado nutricional insatisfatório
+  [C] alterações da sensibilidade cutânea, alterações do estado de consciência e ausência de doença vascular
+  [D] grau de mobilidade alterado, incontinência urinária e/ou fecal e alterações da sensibilidade cutânea 868 Ano: 2019
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'alterações do estado de consciência, presença de doença vascular e estado nutricional...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'ausência de alterações do estado de consciência, presença de doença vascular e estado...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'alterações da sensibilidade cutânea, alterações do estado de consciência e ausência d...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'grau de mobilidade alterado, incontinência urinária e/ou fecal e alterações da sensib...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 14 [Código: EF0882] - Prefeitura de Boa Vista - RR (SELECON 2019) - Técnico de Enfermagem
+Assunto: Assistência de Enfermagem em Feridas e Curativos
+Técnico - Grupo Especial - Técnico de Enfermagem Para o preparo da pele antes da punção venosa periférica, o técnico de enfermagem deverá conhecer as soluções existentes e os cuidados na aplicação. Para a aplicação da clorexidina alcoólica > 0,5%, são necessários os seguintes cuidados:
+
+  [A] aplicar com movimentos de “vai e vem” por 30 segundos e aguardar a secagem espontânea do antisséptico antes da punção
+  [B] aplicar com movimentos circulares de “dentro para fora” por 2 minutos e aguardar secagem espontânea do antisséptico antes da punção
+  [C] aplicar com movimentos de “vai e vem” por 2 minutos e não será necessário aguardar a secagem espontânea do antisséptico
+  [D] aplicar com movimentos circulares de “fora para dentro” por 1 minuto e poderá ser opcional aguardar a secagem espontânea do antisséptico 883 Ano: 2019
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'aplicar com movimentos de “vai e vem” por 30 segundos e aguardar a secagem espontânea...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os protocolos técnicos, pois 'aplicar com movimentos circulares de “dentro para fora” por 2 minutos e aguardar seca...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa C: Incorreta perante os protocolos técnicos, pois 'aplicar com movimentos de “vai e vem” por 2 minutos e não será necessário aguardar a ...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa D: Incorreta perante os protocolos técnicos, pois 'aplicar com movimentos circulares de “fora para dentro” por 1 minuto e poderá ser opc...' não atende às diretrizes oficiais do Ministério da Saúde.
+
+------------------------------------------------------------
+
+QUESTÃO 15 [Código: EF0883] - Prefeitura de Boa Vista - RR (SELECON 2024) - Técnico de Enfermagem
+Assunto: Assistência de Enfermagem em Feridas e Curativos
+Técnico - Grupo Especial - Técnico de Enfermagem Considera-se uma cobertura para lesão de pele todo material, substância ou produto que se aplica sobre uma ferida, formando uma barreira física com capacidade de proteção e regeneração celular, promovendo a cicatrização. Sendo assim a cobertura indicada para as feridas com pouca perda tecidual, para o desbridamento autolítico de feridas necróticas, com isso, mantendo o meio úmido da ferida e estimulando a granulação, é a cobertura chamada de:
+
+  [A] alginato de cálcio
+  [B] colagenase
+  [C] hidrogel
+  [D] papaína
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas), a escolha da cobertura deve considerar o desbridamento, exsudato, controle microbiano e manutenção do leito úmido da lesão. A alternativa [] ('') é a indicação terapêutica correta para o quadro apresentado.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os protocolos técnicos, pois 'alginato de cálcio...' não atende às diretrizes oficiais do Ministério da Saúde.
+   • Alternativa B: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa C: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
+   • Alternativa D: Incorreta perante os critérios técnicos do assunto avaliado pela banca.
 
 ------------------------------------------------------------
 

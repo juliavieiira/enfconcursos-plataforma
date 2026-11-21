@@ -1,5 +1,57 @@
 [
   {
+    "codigo_origem": "Q3884080",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Hanseníase , Doenças Infecciosas e parasitárias",
+    "enunciado": "MT - Enfermeiro A hanseníase é uma doença infectocontagiosa crônica causada pelo Mycobacterium leprae. Em relação às suas formas clínicas e transmissibilidade, é correto afirmar que:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "todas as formas clínicas são igualmente contagiosas desde o início dos sintomas"
+      },
+      {
+        "id": "B",
+        "texto": "apenas a forma virchowiana (indeterminada) é considerada transmissível"
+      },
+      {
+        "id": "C",
+        "texto": "a forma dimorfa e a forma virchowiana são as mais transmissíveis devido à alta carga bacilar"
+      },
+      {
+        "id": "D",
+        "texto": "a forma tuberculoide paucibacilar é pouco transmissível, enquanto a forma virchowiana multibacilar é a mais transmissível 123 Ano: 2026"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0122",
+    "numero_ordem": 122,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'todas as formas clínicas são igualmente contagiosas desde o início dos sintomas...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "motivo": "Apresenta uma visão restritiva e inadequada que desconsidera a abordagem integral do paciente ao afirmar que 'apenas a forma virchowiana (indeterminada) é considerada transmissível...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a forma dimorfa e a forma virchowiana são as mais transmissíveis devido à alta carga ...' não atende às diretrizes oficiais do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'a forma tuberculoide paucibacilar é pouco transmissível, enquanto a forma virchowiana...' não atende às diretrizes oficiais do Ministério da Saúde."
+      }
+    ],
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
+  },
+  {
     "codigo_origem": "Q2481795",
     "banca": "SELECON",
     "orgao": "SAD-MS",
@@ -32,83 +84,31 @@
       }
     ],
     "resposta_correta": "",
-    "id": "EF0287",
-    "numero_ordem": 287,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "id": "EF0367",
+    "numero_ordem": 367,
+    "fundamentacao_correta": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas diretrizes epidemiológicas e terapêuticas vigentes.",
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'in vivo por meio da inoculação em galinhas...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'in vivo por meio da inoculação em galinhas...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'in vitro por meio da inoculação em ágar TCBS...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'in vitro por meio da inoculação em ágar TCBS...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'in vivo por meio da inoculação em camundongos...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'in vivo por meio da inoculação em camundongos...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'in vitro por meio da inoculação em ágar Ogawa-Kudoh...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'in vitro por meio da inoculação em ágar Ogawa-Kudoh...' não atende às diretrizes oficiais do Ministério da Saúde."
       },
       {
         "letra": "E",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'in vitro por meio da inoculação em ágar sangue de carneiro 368 Ano: 2024...'."
+        "motivo": "Incorreta perante os protocolos técnicos, pois 'in vitro por meio da inoculação em ágar sangue de carneiro 368 Ano: 2024...' não atende às diretrizes oficiais do Ministério da Saúde."
       }
     ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
-  },
-  {
-    "codigo_origem": "Q3884080",
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
-    "ano": 2026,
-    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
-    "cargo": "Enfermeiro",
-    "materia": "Enfermagem",
-    "assunto": "Hanseníase , Doenças Infecciosas e parasitárias",
-    "enunciado": "MT - Enfermeiro A hanseníase é uma doença infectocontagiosa crônica causada pelo Mycobacterium leprae. Em relação às suas formas clínicas e transmissibilidade, é correto afirmar que:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "todas as formas clínicas são igualmente contagiosas desde o início dos sintomas"
-      },
-      {
-        "id": "B",
-        "texto": "apenas a forma virchowiana (indeterminada) é considerada transmissível"
-      },
-      {
-        "id": "C",
-        "texto": "a forma dimorfa e a forma virchowiana são as mais transmissíveis devido à alta carga bacilar"
-      },
-      {
-        "id": "D",
-        "texto": "a forma tuberculoide paucibacilar é pouco transmissível, enquanto a forma virchowiana multibacilar é a mais transmissível 123 Ano: 2026"
-      }
-    ],
-    "resposta_correta": "",
-    "id": "EF0462",
-    "numero_ordem": 462,
-    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'todas as formas clínicas são igualmente contagiosas desde o início dos sintomas...'."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'apenas a forma virchowiana (indeterminada) é considerada transmissível...'."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a forma dimorfa e a forma virchowiana são as mais transmissíveis devido à alta carga bacil...'."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a forma tuberculoide paucibacilar é pouco transmissível, enquanto a forma virchowiana mult...'."
-      }
-    ],
-    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+    "comentario": "Em conformidade com os Guias de Vigilância em Saúde do Ministério da Saúde, o manejo clínico, diagnóstico e medidas de precaução para doenças infectocontagiosas são prioritários na Atenção Básica e Hospitalar. A assertiva [] ('') fundamenta-se nas di..."
   }
 ]
