@@ -53,6 +53,18 @@ export default function App() {
   const [modalVipAberto, setModalVipAberto] = useState(false);
   const [limiteExibicao, setLimiteExibicao] = useState(25);
 
+  // Estatísticas gerais
+  const totalRespondidas = Object.keys(respostas).length;
+  const totalAcertos = Object.entries(respostas).filter(([id, r]) => {
+    const q = questoes.find(item => item.id === id);
+    return q && r.selecionada === q.resposta_correta;
+  }).length;
+  const taxaAcerto = totalRespondidas > 0 ? Math.round((totalAcertos / totalRespondidas) * 100) : 0;
+
+  // Bancas e matérias únicas para os selects dos filtros
+  const bancasDisponiveis = ['Todas', ...new Set(questoes.map(q => q.banca))];
+  const materiasDisponiveis = ['Todas', ...new Set(questoes.map(q => q.materia))];
+
   // Aba Padrão da Banca / Raio-X
   const [padraoCargo, setPadraoCargo] = useState('Todos'); // 'Todos', 'Técnico de Enfermagem', 'Enfermeiro'
   const [padraoBanca, setPadraoBanca] = useState('SELECON'); // 'Todas', 'SELECON', etc.

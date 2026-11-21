@@ -24,6 +24,8 @@ Thumbs.db
 .gemini/
 .cache/
 .npm/
+.config/
+.local/
 upload/
 
 # Nested clones/submodules
