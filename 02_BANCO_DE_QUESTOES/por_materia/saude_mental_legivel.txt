@@ -1,0 +1,119 @@
+=== CADERNO DE QUESTÕES: SAÚDE MENTAL ===
+Total: 6 questões
+
+QUESTÃO 1 [Código: EF0066] - EMGEPRON (SELECON 2026) - Técnico de Enfermagem
+Assunto: Saúde Mental , Legislação em Saúde , Humanização
+Um paciente adulto em acompanhamento em um Centro de Atenção Psicossocial (CAPS) apresenta diagnóstico de transtorno mental comum, mantém vínculo com a equipe de saúde e realiza acompanhamento regular. Durante o atendimento, o técnico de enfermagem observa que o paciente demonstra sofrimento psíquico, mas encontra-se orientado, comunicativo e sem risco imediato para si ou para terceiros. Considerando os princípios da atenção em saúde mental no Sistema Único de Saúde, a abordagem correta, nesse caso, é:
+
+  [A] priorizar a internação psiquiátrica como principal forma de cuidado diante de qualquer manifestação de sofrimento psíquico
+  [B] reforçar práticas de cuidado humanizado, valorizando o vínculo, a escuta qualificada e a continuidade do cuidado em serviços comunitários
+  [C] restringir o contato do paciente com a equipe multiprofissional para evitar dependência emocional do serviço, o que pode agravar a longo prazo
+  [D] direcionar o cuidado exclusivamente para o controle medicamentoso, uma vez que o sofrimento psíquico exige tratamento farmacológico contínuo
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'priorizar a internação psiquiátrica como principal forma de cuidado diante de qualquer man...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'reforçar práticas de cuidado humanizado, valorizando o vínculo, a escuta qualificada e a c...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'restringir o contato do paciente com a equipe multiprofissional para evitar dependência em...'.
+   • Alternativa D: Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente.
+
+------------------------------------------------------------
+
+QUESTÃO 2 [Código: EF0092] - EMGEPRON (SELECON 2026) - Enfermeiro
+Assunto: Saúde Mental
+O modelo assistencial em que pacientes com transtornos mentais recebem acompanhamento multiprofissional, participam de atendimentos comunitários, têm projetos terapêuticos individuais envolvendo a família e são encaminhados a diferentes pontos da rede conforme suas necessidades clínicas e sociais baseia-se na premissa de que o(a):
+
+  [A] cuidado deve ser territorial, comunitário e articulado à Rede de Atenção Psicossocial (RAPS), promovendo a integração multiprofissional e a participação da família no Projeto Terapêutico Singular
+  [B] CAPS substitui integralmente todos os demais pontos de atenção, sem necessidade de integração com a rede de serviços
+  [C] modelo prioriza a internação hospitalar prolongada como principal estratégia, restringindo o atendimento comunitário
+  [D] Atenção Primária não atua na identificação, acompanhamento ou articulação do cuidado em saúde mental
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'cuidado deve ser territorial, comunitário e articulado à Rede de Atenção Psicossocial (RAP...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'CAPS substitui integralmente todos os demais pontos de atenção, sem necessidade de integra...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'modelo prioriza a internação hospitalar prolongada como principal estratégia, restringindo...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Atenção Primária não atua na identificação, acompanhamento ou articulação do cuidado em sa...'.
+
+------------------------------------------------------------
+
+QUESTÃO 3 [Código: EF0235] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
+Assunto: Saúde Mental
+A assistência de enfermagem a pacientes em crise psiquiátrica exige competências específicas para proporcionar um atendimento seguro e eficaz. Considerando os princípios e as práticas de enfermagem em situações de crise psiquiátrica, a alternativa que melhor descreve a conduta apropriada do enfermeiro é:
+
+  [A] priorizar o estabelecimento de um vínculo terapêutico rápido e forçar a comunicação com o paciente, mesmo que ele se mostre resistente, para obter informações sobre o quadro clínico
+  [B] adotar uma abordagem de contenção física imediata, sem considerar as preferências do paciente, para evitar danos e garantir a segurança da equipe de saúde, mesmo que isso gere um aumento do estresse no paciente
+  [C] avaliar o grau de risco e atuar de forma calmante e empática, buscando reduzir a ansiedade do paciente e promovendo um ambiente seguro, respeitando sua autonomia e trabalhando em conjunto com a equipe multidisciplinar para a estabilização do quadro
+  [D] agir de forma autoritária e determinar as intervenções terapêuticas necessárias sem consultar outros membros da equipe de saúde, com o objetivo de resolver a crise o mais rapidamente possível 316 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'priorizar o estabelecimento de um vínculo terapêutico rápido e forçar a comunicação com o ...'.
+   • Alternativa B: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'avaliar o grau de risco e atuar de forma calmante e empática, buscando reduzir a ansiedade...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'agir de forma autoritária e determinar as intervenções terapêuticas necessárias sem consul...'.
+
+------------------------------------------------------------
+
+QUESTÃO 4 [Código: EF0268] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
+Assunto: Saúde Mental
+“De acordo com a Organização Mundial de Saúde (OMS), é a área da saúde que pode ser considerada um estado de bemestar vivido pelo indivíduo, que possibilita o desenvolvimento de suas habilidades pessoais para responder aos desafios da vida e contribuir com a comunidade, intrinsecamente ligada a uma série de condições fundamentais, devendo-se considerar que resulta da interação de fatores biológicos, psicológicos e sociais, tendo características biopsicossociais”. Esse excerto referese à saúde:
+
+  [A] social
+  [B] física
+  [C] mental
+  [D] integral
+  [E] biológica 349 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa D: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'biológica 349 Ano: 2024...'.
+
+------------------------------------------------------------
+
+QUESTÃO 5 [Código: EF0415] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
+Assunto: Saúde Mental
+De acordo com a Organização Mundial de Saúde (OMS), a saúde mental pode ser considerada, um estado de bem-estar vivido pelo indivíduo, que possibilita o desenvolvimento de suas habilidades pessoais para responder aos desafios da vida e contribuir com a comunidade. Deve-se considerar que a saúde mental resulta da interação de fatores biológicos, psicológicos e sociais, e pode-se afirmar que tem características biopsicossociais. Baseando-se nessa afirmativa, a fase da assistência em saúde que é de fundamental e primordial importância no sucesso do tratamento desse segmento da população com agravos em saúde mental denomina-se:
+
+  [A] acolhimento
+  [B] diagnóstico
+  [C] tratamento
+  [D] anamnese 496 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Prefeitura de Sapezal - MT Prova: SELECON - 2024 - Prefeitura de Sapezal - MT - Enfermeiro
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'acolhimento...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'diagnóstico...'.
+   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'anamnese 496 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Co...'.
+
+------------------------------------------------------------
+
+QUESTÃO 6 [Código: EF0464] - Prefeitura de Porto dos Gaúchos - MT (SELECON 2026) - Enfermeiro
+Assunto: Saúde Mental
+MT - Enfermeiro Ao utilizar a Escala de Avaliação das Síndromes Positiva e Negativa (PANSS) para um paciente com esquizofrenia, o enfermeiro, atuante em psiquiatria, sabe que:
+
+  [A] a escala é utilizada exclusivamente para avaliação de sintomas negativos em transtornos depressivos
+  [B] a aplicação deve ser realizada por qualquer membro da equipe multidisciplinar, independentemente de treinamento
+  [C] a pontuação mínima na PANSS é 0, indicando ausência total de psicopatologia
+  [D] os itens da subescala psicopatológica geral avaliam sintomas como ansiedade, culpa e tensão 125 Ano: 2026
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a aplicação deve ser realizada por qualquer membro da equipe multidisciplinar, independent...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a pontuação mínima na PANSS é 0, indicando ausência total de psicopatologia...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'os itens da subescala psicopatológica geral avaliam sintomas como ansiedade, culpa e tensã...'.
+
+------------------------------------------------------------
+

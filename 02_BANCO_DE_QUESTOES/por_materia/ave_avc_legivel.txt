@@ -1,0 +1,21 @@
+=== CADERNO DE QUESTÕES: AVE / AVC ===
+Total: 1 questões
+
+QUESTÃO 1 [Código: EF0016] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2026) - Técnico de Enfermagem
+Assunto: AVE / AVC , Doenças Crônicas Não Transmissíveis
+MT - Técnico de Enfermagem - Secretaria de Saúde O protocolo clínico do Ministério da Saúde para o diagnóstico, tratamento e monitoramento clínico do acidente vascular cerebral isquêmico agudo, publicado em 2025, estabelece recomendações que visam a ampliar as opções terapêuticas disponíveis no âmbito do Sistema Único de Saúde. A respeito das medidas iniciais recomendadas para o paciente com suspeita de AVC isquêmico, o protocolo estabelece que a:
+
+  [A] tomografia computadorizada de crânio deve ser realizada em até 4 horas da chegada ao hospital, para excluir hemorragia antes da trombólise
+  [B] oxigenoterapia está indicada para todos os pacientes, independentemente da saturação periférica de oxigênio
+  [C] trombólise intravenosa está contraindicada em pacientes com mais de 80 anos, independentemente do tempo de início dos sintomas
+  [D] internação em unidade de AVC deve ocorrer em até 4 horas da apresentação, com tomografia realizada na primeira hora
+
+✅ Gabarito: D
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [D] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: 'internação em unidade de AVC deve ocorrer em até 4 horas da apresentação, com tomografia realizada na primeira hora'.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tomografia computadorizada de crânio deve ser realizada em até 4 horas da chegada ao hospi...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'oxigenoterapia está indicada para todos os pacientes, independentemente da saturação perif...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'trombólise intravenosa está contraindicada em pacientes com mais de 80 anos, independentem...'.
+
+------------------------------------------------------------
+

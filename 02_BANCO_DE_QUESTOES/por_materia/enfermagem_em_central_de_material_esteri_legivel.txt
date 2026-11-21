@@ -1,0 +1,201 @@
+=== CADERNO DE QUESTÕES: ENFERMAGEM EM CENTRAL DE MATERIAL ESTERILIZADO ===
+Total: 10 questões
+
+QUESTÃO 1 [Código: EF0034] - Prefeitura de Araçás - BA (SELECON 2026) - Técnico de Enfermagem
+Assunto: Enfermagem em Central de Material Esterilizado
+Enfermagem O monitoramento da qualidade da esterilização é essencial para garantir que os produtos para a saúde estejam seguros para uso. Esse controle é realizado por meio de indicadores físicos, químicos e biológicos, cada um com funções específicas na validação do processo. O indicador biológico, considerado o padrão ouro para monitoramento da esterilização, utiliza microrganismos altamente resistentes ao método empregado para confirmar a eficácia do ciclo. Sobre o monitoramento da esterilização na Central de Material Esterilizado (CME), o técnico de enfermagem deve saber que o indicador biológico:
+
+  [A] substitui os indicadores químicos e físicos, sendo o único método de monitoramento exigido pela legislação
+  [B] é utilizado em todas as cargas e tem a função de verificar se a temperatura e o tempo mínimos foram atingidos
+  [C] consiste em um dispositivo que muda de cor quando exposto ao calor, indicando que a esterilização foi bem-sucedida
+  [D] é empregado periodicamente, sendo o parâmetro mais confiável para atestar a morte dos microrganismos mais resistentes
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'substitui os indicadores químicos e físicos, sendo o único método de monitoramento exigido...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'é utilizado em todas as cargas e tem a função de verificar se a temperatura e o tempo míni...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'consiste em um dispositivo que muda de cor quando exposto ao calor, indicando que a esteri...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'é empregado periodicamente, sendo o parâmetro mais confiável para atestar a morte dos micr...'.
+
+------------------------------------------------------------
+
+QUESTÃO 2 [Código: EF0036] - Prefeitura de Araçás - BA (SELECON 2026) - Técnico de Enfermagem
+Assunto: Enfermagem em Central de Material Esterilizado
+Enfermagem A limpeza de instrumentais cirúrgicos é considerada a etapa mais crítica do processamento de produtos para a saúde, pois a presença de matéria orgânica ou inorgânica forma barreiras que protegem os microrganismos, impedindo que os agentes esterilizantes entrem em contato com a superfície dos artigos. Para que a limpeza seja eficaz, o material deve ser submetido a procedimentos específicos ainda no local de uso e, posteriormente, na Central de Material Esterilizado (CME). Sobre a técnica de limpeza manual de materiais na CME, o técnico de enfermagem deve:
+
+  [A] imergir o material em água potável morna com detergente por, no mínimo, três minutos e, em seguida, realizar a fricção com escovas apropriadas
+  [B] utilizar água fria e detergente enzimático, mantendo o material em imersão por 30 minutos antes da fricção com esponjas abrasivas
+  [C] realizar a limpeza com água destilada e sabão neutro, secando o material com ar comprimido antes da inspeção visual
+  [D] aplicar solução alcoólica a 70% diretamente sobre o material sujo e, após cinco minutos, realizar a fricção com gaze estéril
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'imergir o material em água potável morna com detergente por, no mínimo, três minutos e, em...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar água fria e detergente enzimático, mantendo o material em imersão por 30 minutos ...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar a limpeza com água destilada e sabão neutro, secando o material com ar comprimido...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aplicar solução alcoólica a 70% diretamente sobre o material sujo e, após cinco minutos, r...'.
+
+------------------------------------------------------------
+
+QUESTÃO 3 [Código: EF0348] - SAD-MS (SELECON 2024) - Enfermeiro
+Assunto: Enfermagem em Central de Material Esterilizado
+Maria foi solicitada no setor ambulatorial para realizar a descontaminação de uma superfície. Ao chegar ao local, notou que havia matéria orgânica em cima de uma bancada. Antes de realizar a desinfecção, Maria deve:
+
+  [A] espalhar o resíduo na bancada
+  [B] despejar álcool sobre o resíduo
+  [C] retirar o excesso de matéria orgânica com papel absorvente
+  [D] retirar o excesso de matéria orgânica com aspirador de pó ou enceradeira
+  [E] borrifar solução clorada na superfície, aguardar 10 minutos e enxaguar com água corrente 429 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'espalhar o resíduo na bancada...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'despejar álcool sobre o resíduo...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'retirar o excesso de matéria orgânica com papel absorvente...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'retirar o excesso de matéria orgânica com aspirador de pó ou enceradeira...'.
+   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'borrifar solução clorada na superfície, aguardar 10 minutos e enxaguar com água corrente 4...'.
+
+------------------------------------------------------------
+
+QUESTÃO 4 [Código: EF0357] - SAD-MS (SELECON 2024) - Enfermeiro
+Assunto: Enfermagem em Central de Material Esterilizado
+A limpeza mais abrangente, incluindo as superfícies horizontais e verticais, realizada na unidade do paciente, após a alta hospitalar, é chamada de:
+
+  [A] terminal
+  [B] abrasiva
+  [C] individual
+  [D] decorrente
+  [E] concorrente 438 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa D: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'concorrente 438 Ano: 2024...'.
+
+------------------------------------------------------------
+
+QUESTÃO 5 [Código: EF0359] - SAD-MS (SELECON 2024) - Enfermeiro
+Assunto: Enfermagem em Central de Material Esterilizado
+A desinfecção de câmaras frigoríficas pode ser realizada com:
+
+  [A] cloro
+  [B] álcool a 70%
+  [C] água e sabão
+  [D] solução clorada
+  [E] clorexidina alcóolica 440 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'álcool a 70%...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'água e sabão...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'solução clorada...'.
+   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'clorexidina alcóolica 440 Ano: 2024...'.
+
+------------------------------------------------------------
+
+QUESTÃO 6 [Código: EF0360] - SAD-MS (SELECON 2024) - Enfermeiro
+Assunto: Enfermagem em Central de Material Esterilizado
+O principal produto utilizado em ambiente hospitalar, para desinfecção de superfícies, através da fricção é:
+
+  [A] cloro
+  [B] detergente
+  [C] álcool a 70%
+  [D] sabão antisséptico
+  [E] clorexidina degermante
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'álcool a 70%...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'sabão antisséptico...'.
+   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'clorexidina degermante...'.
+
+------------------------------------------------------------
+
+QUESTÃO 7 [Código: EF0407] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
+Assunto: Enfermagem em Central de Material Esterilizado
+Enfermagem Aos materiais e instrumentos que devem ser descartados em caixas apropriadas, rígidas e impermeáveis, que devem ser colocadas próximas à área em que os materiais são usados, chamamos de:
+
+  [A] perfurocortantes
+  [B] contaminados
+  [C] estéreis
+  [D] reuso
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'perfurocortantes...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'contaminados...'.
+   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa D: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+
+------------------------------------------------------------
+
+QUESTÃO 8 [Código: EF0409] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
+Assunto: Enfermagem em Central de Material Esterilizado
+Enfermagem A equipe de enfermagem que trabalha na CME (Central de Material Esterilizado) presta uma assistência indireta ao paciente, tão importante quanto a assistência direta, que é realizada pela equipe de enfermagem que atende ao paciente. Os Técnicos e Auxiliares de Enfermagem que atuam em CME, ou em empresas processadoras de produtos para saúde, realizam atividades:
+
+  [A] exclusivamente de limpeza e esterilização
+  [B] de limpeza e armazenamento de materiais
+  [C] de apoio, sob orientação e supervisão do(a) Enfermeiro(a)
+  [D] previstas nas rotinas estabelecidas, sob orientação e supervisão do(a) Enfermeiro(a)
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'de limpeza e armazenamento de materiais...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'de apoio, sob orientação e supervisão do(a) Enfermeiro(a)...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'previstas nas rotinas estabelecidas, sob orientação e supervisão do(a) Enfermeiro(a)...'.
+
+------------------------------------------------------------
+
+QUESTÃO 9 [Código: EF0455] - Prefeitura de Porto dos Gaúchos - MT (SELECON 2026) - Técnico de Enfermagem
+Assunto: Enfermagem em Central de Material Esterilizado
+MT - Técnico em Enfermagem A esterilização por vapor saturado sob pressão é um método amplamente utilizado nos serviços de saúde. Considerando as suas indicações e a classificação dos artigos quanto ao seu risco, esse método de esterilização é indicado para:
+
+  [A] materiais termossensíveis, como equipos de infusão e cateteres plásticos descartáveis
+  [B] artigos críticos, como instrumentos cirúrgicos metálicos, pinças e tesouras
+  [C] superfícies como macas, bancadas e mesas de procedimento
+  [D] materiais semicríticos, como sondas descartáveis e cânulas plásticas 116 Ano: 2026
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'materiais termossensíveis, como equipos de infusão e cateteres plásticos descartáveis...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'artigos críticos, como instrumentos cirúrgicos metálicos, pinças e tesouras...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'superfícies como macas, bancadas e mesas de procedimento...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'materiais semicríticos, como sondas descartáveis e cânulas plásticas 116 Ano: 2026...'.
+
+------------------------------------------------------------
+
+QUESTÃO 10 [Código: EF0477] - Prefeitura de Barra do Garças - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Enfermagem em Central de Material Esterilizado
+Técnico em Enfermagem Artigos semicríticos são aqueles que entram em contato com mucosas íntegras. O processamento mínimo adequado para eles é:
+
+  [A] desinfecção de alto nível
+  [B] apenas limpeza mecânica
+  [C] desinfecção de baixo nível
+  [D] esterilização química ou física obrigatória 138 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'desinfecção de alto nível...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'apenas limpeza mecânica...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'desinfecção de baixo nível...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'esterilização química ou física obrigatória 138 Ano: 2025...'.
+
+------------------------------------------------------------
+

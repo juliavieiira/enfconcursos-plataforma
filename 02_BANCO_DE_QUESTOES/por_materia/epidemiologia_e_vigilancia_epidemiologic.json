@@ -1,0 +1,1854 @@
+[
+  {
+    "codigo_origem": "Q4445455",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Nova Mutum - MT - Técnico",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica",
+    "enunciado": "Uma equipe da Estratégia Saúde da Família acompanha uma população de 200 adultos durante um ano, sem perda de acompanhamento. No início do período, 40 pessoas já apresentavam diagnóstico de hipertensão arterial. Entre os 160 adultos que não tinham a doença, foram identificados 16 novos diagnósticos ao longo do ano. Considerando esses dados, a incidência acumulada de hipertensão arterial nessa população, durante o período observado, corresponde a:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "10%, considerando os casos novos entre as pessoas inicialmente sem a doença"
+      },
+      {
+        "id": "B",
+        "texto": "8%, considerando os novos diagnósticos em relação ao total de adultos acompanhados"
+      },
+      {
+        "id": "C",
+        "texto": "20%, considerando os diagnósticos já existentes no início em relação à população total acompanhada"
+      },
+      {
+        "id": "D",
+        "texto": "28%, considerando os diagnósticos existentes ao final do acompanhamento em relação à população total estudada"
+      }
+    ],
+    "resposta_correta": "A",
+    "id": "EF0001",
+    "numero_ordem": 1,
+    "fundamentacao_correta": "Conforme os princípios da Epidemiologia e Vigilância em Saúde (Ministério da Saúde), a Incidência Acumulada expressa o risco de novos casos da doença em uma população inicialmente livre do agravo durante determinado período. O cálculo é: Número de Casos Novos dividido pela População Sob Risco (indivíduos suscetíveis no início do período, excluindo-se quem já tinha o diagnóstico). Portanto, a alternativa [A] expressa com exatidão a metodologia epidemiológica correta.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '8%, considerando os novos diagnósticos em relação ao total de adultos acompanhados...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Inclui no denominador indivíduos que já apresentavam o diagnóstico prévio, confundindo incidência com prevalência global."
+      },
+      {
+        "letra": "D",
+        "motivo": "Inclui no denominador indivíduos que já apresentavam o diagnóstico prévio, confundindo incidência com prevalência global."
+      }
+    ],
+    "comentario": "Conforme os princípios da Epidemiologia e Vigilância em Saúde (Ministério da Saúde), a Incidência Acumulada expressa o risco de novos casos da doença em uma população inicialmente livre do agravo durante determinado período. O cálculo é: Número de Ca..."
+  },
+  {
+    "codigo_origem": "Q3981927",
+    "banca": "SELECON",
+    "orgao": "EMGEPRON",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - EMGEPRON - Técnico em Enfermagem",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica",
+    "enunciado": "Em determinado município, foi realizado um levantamento que identificou 200 pessoas vivendo com hipertensão arterial ao longo do ano de 2024, independentemente do momento do diagnóstico. Esse dado epidemiológico corresponde ao conceito de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "incidência, pois considera apenas os novos casos diagnosticados no período analisado"
+      },
+      {
+        "id": "B",
+        "texto": "letalidade, por representar a proporção de óbitos entre os casos existentes da doença"
+      },
+      {
+        "id": "C",
+        "texto": "prevalência, por expressar o total de casos existentes em uma população em determinado período"
+      },
+      {
+        "id": "D",
+        "texto": "mortalidade específica, por relacionar o número de óbitos à população total exposta ao risco da doença"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0070",
+    "numero_ordem": 70,
+    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'incidência, pois considera apenas os novos casos diagnosticados no período analisado...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'letalidade, por representar a proporção de óbitos entre os casos existentes da doença...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'prevalência, por expressar o total de casos existentes em uma população em determinado per...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'mortalidade específica, por relacionar o número de óbitos à população total exposta ao ris...'."
+      }
+    ],
+    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+  },
+  {
+    "codigo_origem": "Q3981924",
+    "banca": "SELECON",
+    "orgao": "EMGEPRON",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - EMGEPRON - Técnico em Enfermagem",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica , Tuberculose , Doenças Infecciosas e parasitárias",
+    "enunciado": "A tuberculose é uma doença infectocontagiosa de transmissão respiratória, considerada prioritária nas ações de vigilância em saúde. Sobre as medidas de prevenção e de controle da transmissão da tuberculose, afirma-se que a:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "principal medida preventiva da tuberculose consiste no uso rotineiro de antibióticos por contatos domiciliares, independentemente de avaliação clínica"
+      },
+      {
+        "id": "B",
+        "texto": "transmissão da tuberculose ocorre principalmente por contato direto com objetos contaminados, sendo o uso de luvas a principal medida preventiva"
+      },
+      {
+        "id": "C",
+        "texto": "interrupção da transmissão da tuberculose envolve a identificação precoce de casos, o tratamento adequado e medidas respiratórias, como ventilação dos ambientes"
+      },
+      {
+        "id": "D",
+        "texto": "vacinação com BCG impede totalmente a infecção pelo Mycobacterium tuberculosis em todas as faixas etárias, sendo considerada suficiente como medida isolada de prevenção 74 Enfermagem > Saúde da Criança e do Adolescente , Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Exame Físico Banca: SELECON Órgão: EMGEPRON Prova: SELECON - 2026 - EMGEPRON - Técnico em Enfermagem"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0073",
+    "numero_ordem": 73,
+    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'principal medida preventiva da tuberculose consiste no uso rotineiro de antibióticos por c...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'transmissão da tuberculose ocorre principalmente por contato direto com objetos contaminad...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'interrupção da transmissão da tuberculose envolve a identificação precoce de casos, o trat...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vacinação com BCG impede totalmente a infecção pelo Mycobacterium tuberculosis em todas as...'."
+      }
+    ],
+    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+  },
+  {
+    "codigo_origem": "Q3974338",
+    "banca": "SELECON",
+    "orgao": "EMGEPRON",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - EMGEPRON - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica",
+    "enunciado": "Na análise da situação de saúde de uma região, o enfermeiro utiliza indicadores epidemiológicos para identificar prioridades, monitorar agravos e subsidiar o planejamento das ações no âmbito do Sistema Único de Saúde (SUS). Nesse contexto, no que tange às medidas epidemiológicas, pode-se dizer que o(a):",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "análise epidemiológica regional deve restringir-se aos dados municipais isolados, uma vez que indicadores agregados por região de saúde comprometem a definição de prioridades locais"
+      },
+      {
+        "id": "B",
+        "texto": "prevalência corresponde exclusivamente aos casos novos registrados em certo período, sendo o principal indicador para mensurar risco de adoecimento e tendência temporal de doenças agudas"
+      },
+      {
+        "id": "C",
+        "texto": "coeficiente de mortalidade geral é o indicador mais sensível para avaliar o impacto de intervenções específicas, pois reflete diretamente a qualidade da assistência prestada a grupos populacionais delimitados"
+      },
+      {
+        "id": "D",
+        "texto": "incidência expressa o número de casos novos de uma doença em população sob risco, em determinado período, permitindo estimar a velocidade de ocorrência do agravo e sendo especialmente útil para monitoramento de surtos, doenças transmissíveis e agravos emergentes em um território"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0096",
+    "numero_ordem": 96,
+    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente."
+      },
+      {
+        "letra": "B",
+        "motivo": "Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'coeficiente de mortalidade geral é o indicador mais sensível para avaliar o impacto de int...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'incidência expressa o número de casos novos de uma doença em população sob risco, em deter...'."
+      }
+    ],
+    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+  },
+  {
+    "codigo_origem": "Q3742714",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Marcelândia - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Marcelândia - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica , Doenças Infecciosas e parasitárias",
+    "enunciado": "Na investigação epidemiológica de um surto de doença de Chagas aguda em uma área não endêmica para o vetor Triatoma infestans, a identificação de múltiplos casos com miocardite e chagoma de inoculação ausente, mas com histórico comum de consumo de alimentos específicos, direciona a investigação para a principal via de transmissão atípica responsável por surtos agudos, que é a:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "transmissão oral por alimentos contaminados com formas infectantes do parasito"
+      },
+      {
+        "id": "B",
+        "texto": "transfusão sanguínea de doadores infectados"
+      },
+      {
+        "id": "C",
+        "texto": "transmissão congênita de mães chagásicas"
+      },
+      {
+        "id": "D",
+        "texto": "transmissão por contato sexual com indivíduos infectados"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0103",
+    "numero_ordem": 103,
+    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'transmissão oral por alimentos contaminados com formas infectantes do parasito...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'transfusão sanguínea de doadores infectados...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'transmissão congênita de mães chagásicas...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'transmissão por contato sexual com indivíduos infectados...'."
+      }
+    ],
+    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+  },
+  {
+    "codigo_origem": "Q3617184",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Tapurah - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Tapurah - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica",
+    "enunciado": "A análise observacional de dados de prontuários que demonstra uma associação positiva entre o uso de um novo fármaco e um desfecho adverso, quando comparado a uma terapia padrão, pode estar fundamentalmente comprometida pelo viés de confusão por indicação, no qual a própria condição clínica que motiva a prescrição do novo tratamento é o fator que verdadeiramente eleva o risco do desfecho. Essa análise valida-se em:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "tal cenário descreve um viés de seleção, no qual os grupos de tratamento são incomparáveis desde o início, mas não um viés de confusão"
+      },
+      {
+        "id": "B",
+        "texto": "tem-se descrito o viés de confusão por indicação, um tipo específico de fator de confusão em que a gravidade da doença ou o prognóstico do paciente influencia a escolha terapêutica e, simultaneamente, o resultado em saúde"
+      },
+      {
+        "id": "C",
+        "texto": "a única forma de uma associação entre fármaco e desfecho ser comprometida é pelo viés de aferição, relacionado a erros na medição da exposição ou do resultado"
+      },
+      {
+        "id": "D",
+        "texto": "está sendo descrito um caso de modificação de efeito, no qual o novo fármaco tem um efeito biológico diferente em pacientes mais graves, não se tratando de um viés 207 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0126",
+    "numero_ordem": 126,
+    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tal cenário descreve um viés de seleção, no qual os grupos de tratamento são incomparáveis...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tem-se descrito o viés de confusão por indicação, um tipo específico de fator de confusão ...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a única forma de uma associação entre fármaco e desfecho ser comprometida é pelo viés de a...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'está sendo descrito um caso de modificação de efeito, no qual o novo fármaco tem um efeito...'."
+      }
+    ],
+    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+  },
+  {
+    "codigo_origem": "Q3265173",
+    "banca": "SELECON",
+    "orgao": "HEMOMINAS",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - HEMOMINAS - Analista de Hematologia e Hemoterapia -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica",
+    "enunciado": "ANHH - Nível I - Grau A - Enfermeiro A hemovigilância é um componente essencial da hemoterapia, garantindo a segurança dos pacientes e a qualidade dos hemocomponentes. Falando dos aspectos da hemovigilância, pode-se versar que:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "a notificação de eventos adversos transfusionais é obrigatória apenas para reações imediatas graves, sendo opcional para reações leves ou tardias"
+      },
+      {
+        "id": "B",
+        "texto": "a hemovigilância envolve a coleta e análise sistemática de dados relacionados a eventos adversos, mas não se aplica à fase de pré-transfusão, focando apenas na fase pós-transfusional"
+      },
+      {
+        "id": "C",
+        "texto": "as reações transfusionais febris não hemolíticas são comuns e, embora sejam menos graves, devem ser notificadas e investigadas para prevenir recorrências e melhorar a segurança transfusional"
+      },
+      {
+        "id": "D",
+        "texto": "a hemovigilância é uma atribuição exclusiva do enfermeiro responsável pela transfusão, não havendo necessidade de envolver outros profissionais da equipe de saúde 254 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0173",
+    "numero_ordem": 173,
+    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a hemovigilância envolve a coleta e análise sistemática de dados relacionados a eventos ad...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'as reações transfusionais febris não hemolíticas são comuns e, embora sejam menos graves, ...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a hemovigilância é uma atribuição exclusiva do enfermeiro responsável pela transfusão, não...'."
+      }
+    ],
+    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+  },
+  {
+    "codigo_origem": "Q3261155",
+    "banca": "SELECON",
+    "orgao": "HEMOMINAS",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - HEMOMINAS - Analista de Hematologia e Hemoterapia -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica",
+    "enunciado": "ANHH - Nível I - Grau A - Assistente Social A parte da hemovigilância que trata da investigação retrospectiva relacionada à rastreabilidade das bolsas de doações anteriores de um doador que apresentou viragem de um marcador (soroconversão) ou relacionada a um receptor de sangue que veio a apresentar marcador positivo para uma doença transmissível, termo também aplicável em casos de detecção de positividade em análises microbiológicas de componentes sanguíneos e investigação de quadros infecciosos bacterianos em receptores, sem manifestação imediata, mas potencialmente imputados à transfusão, de acordo com a Portaria de consolidação nº 5/17, é o(a):",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "sistema de qualidade"
+      },
+      {
+        "id": "B",
+        "texto": "retrovigilância"
+      },
+      {
+        "id": "C",
+        "texto": "calibração"
+      },
+      {
+        "id": "D",
+        "texto": "validação"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0196",
+    "numero_ordem": 196,
+    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'sistema de qualidade...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'retrovigilância...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      }
+    ],
+    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+  },
+  {
+    "codigo_origem": "Q3199750",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sinop - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Técnico de",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica",
+    "enunciado": "Enfermagem Em uma unidade de saúde de uma cidade de médio porte, um enfermeiro está conduzindo um estudo epidemiológico sobre a ocorrência de doenças respiratórias em crianças menores de 5 anos. Durante um período de 12 meses, ele registra 120 casos de doenças respiratórias entre 1.000 crianças dessa faixa etária cadastradas na unidade de saúde. Com base nesse cenário, a medida epidemiológica mais adequada para descrever a proporção de crianças que apresentaram doenças respiratórias durante o ano é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "incidência, pois reflete o número de novos casos de doenças respiratórias entre as crianças durante o período de estudo"
+      },
+      {
+        "id": "B",
+        "texto": "taxa de mortalidade, pois indica o número de óbitos em crianças menores de 5 anos por doenças respiratórias no período"
+      },
+      {
+        "id": "C",
+        "texto": "prevalência, pois descreve a proporção de crianças que apresentaram doenças respiratórias em relação ao total de crianças da população durante o período de estudo"
+      },
+      {
+        "id": "D",
+        "texto": "risco relativo, pois compara a ocorrência de doenças respiratórias em diferentes grupos de crianças com características diferentes, mas suscetíveis aos mesmos determinantes 286 Enfermagem > Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Fundamentos e Procedimentos de Enfermagem Banca: SELECON Órgão: Prefeitura de Sinop - MT Prova: SELECON - 2025 - Prefeitura de Sinop - MT - Técnico de"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0205",
+    "numero_ordem": 205,
+    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'incidência, pois reflete o número de novos casos de doenças respiratórias entre as criança...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'taxa de mortalidade, pois indica o número de óbitos em crianças menores de 5 anos por doen...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'prevalência, pois descreve a proporção de crianças que apresentaram doenças respiratórias ...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'risco relativo, pois compara a ocorrência de doenças respiratórias em diferentes grupos de...'."
+      }
+    ],
+    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+  },
+  {
+    "codigo_origem": "Q3199741",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sinop - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Técnico de",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica",
+    "enunciado": "Enfermagem A notificação compulsória, no contexto da vigilância epidemiológica em saúde, é uma prática essencial para o controle de doenças e agravos. A respeito dela, pode-se afirmar que:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "deve ser realizada apenas em casos de surtos ou epidemias, não sendo necessária em situações isoladas ou para doenças endêmicas"
+      },
+      {
+        "id": "B",
+        "texto": "é uma prática obrigatória apenas para doenças com alta taxa de mortalidade e sua realização é de responsabilidade exclusiva dos profissionais médicos"
+      },
+      {
+        "id": "C",
+        "texto": "o não cumprimento da notificação compulsória por parte dos profissionais de saúde é uma prática aceitável, desde que o caso não represente risco significativo para a saúde pública ou para a comunidade"
+      },
+      {
+        "id": "D",
+        "texto": "é um instrumento legal que visa a identificar, monitorar e controlar doenças e agravos à saúde, sendo obrigatória para todos os profissionais de saúde, incluindo médicos, enfermeiros e outros membros da equipe de saúde"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0214",
+    "numero_ordem": 214,
+    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'deve ser realizada apenas em casos de surtos ou epidemias, não sendo necessária em situaçõ...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'é uma prática obrigatória apenas para doenças com alta taxa de mortalidade e sua realizaçã...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o não cumprimento da notificação compulsória por parte dos profissionais de saúde é uma pr...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'é um instrumento legal que visa a identificar, monitorar e controlar doenças e agravos à s...'."
+      }
+    ],
+    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+  },
+  {
+    "codigo_origem": "Q3197479",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sinop - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica",
+    "enunciado": "No que tange aos determinantes sociais de saúde, o seguinte fator deve ser priorizado pelo enfermeiro no planejamento de ações para promoção da saúde em uma comunidade em situação de vulnerabilidade social, com alta taxa de mortalidade infantil e de doenças crônicas:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "melhorar o acesso à saúde através da ampliação de unidades básicas de saúde"
+      },
+      {
+        "id": "B",
+        "texto": "garantir educação em saúde sobre hábitos alimentares saudáveis e cuidados preventivos"
+      },
+      {
+        "id": "C",
+        "texto": "oferecer tratamento medicamentoso gratuito para as doenças crônicas mais prevalentes"
+      },
+      {
+        "id": "D",
+        "texto": "investir em programas de saneamento básico e condições de habitação adequadas 307 Ano: 2025 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Prefeitura de Sinop - MT Prova: SELECON - 2025 - Prefeitura de Sinop - MT - Enfermeiro"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0226",
+    "numero_ordem": 226,
+    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'melhorar o acesso à saúde através da ampliação de unidades básicas de saúde...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'garantir educação em saúde sobre hábitos alimentares saudáveis e cuidados preventivos...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'oferecer tratamento medicamentoso gratuito para as doenças crônicas mais prevalentes...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'investir em programas de saneamento básico e condições de habitação adequadas 307 Ano: 202...'."
+      }
+    ],
+    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+  },
+  {
+    "codigo_origem": "Q3184819",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Nova Mutum - MT - Técnica",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica",
+    "enunciado": "Assinale o conceito epidemiológico que corresponde à medida de eventos existentes em uma população em um determinado período de tempo:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "risco"
+      },
+      {
+        "id": "B",
+        "texto": "incidência"
+      },
+      {
+        "id": "C",
+        "texto": "causalidade"
+      },
+      {
+        "id": "D",
+        "texto": "prevalência 328 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0247",
+    "numero_ordem": 247,
+    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'causalidade...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'prevalência 328 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+  },
+  {
+    "codigo_origem": "Q2528687",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Técnico de Enfermagem",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica",
+    "enunciado": "“Comportamento das doenças numa população exposta ao adoecimento, cujos índices permitem conhecer que doenças existem habitualmente na área, no período e na população estudada (prevalência), e quais os novos casos das doenças na mesma área, período e população (incidência)”. O excerto destacado diz respeito à noção de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "mortalidade"
+      },
+      {
+        "id": "B",
+        "texto": "morbidade"
+      },
+      {
+        "id": "C",
+        "texto": "letalidade"
+      },
+      {
+        "id": "D",
+        "texto": "vigilância"
+      },
+      {
+        "id": "E",
+        "texto": "morbimortalidade 342 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0261",
+    "numero_ordem": 261,
+    "fundamentacao_correta": "Conforme os princípios da Epidemiologia e Vigilância em Saúde (Ministério da Saúde), a Incidência Acumulada expressa o risco de novos casos da doença em uma população inicialmente livre do agravo durante determinado período. O cálculo é: Número de Casos Novos dividido pela População Sob Risco (indivíduos suscetíveis no início do período, excluindo-se quem já tinha o diagnóstico). Portanto, a alternativa [] expressa com exatidão a metodologia epidemiológica correta.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'mortalidade...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'morbimortalidade 342 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Conforme os princípios da Epidemiologia e Vigilância em Saúde (Ministério da Saúde), a Incidência Acumulada expressa o risco de novos casos da doença em uma população inicialmente livre do agravo durante determinado período. O cálculo é: Número de Ca..."
+  },
+  {
+    "codigo_origem": "Q2528686",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Técnico de Enfermagem",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica",
+    "enunciado": "O modelo assistencial capaz de reverter a lógica de atender somente as doenças, pois visa à articulação entre as ações preventivas e curativas, de caráter individual e de alcance coletivo, e ao reconhecimento das dimensões biológica, ambiental e social dos problemas de saúde é denominado:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "vigilância em saúde"
+      },
+      {
+        "id": "B",
+        "texto": "saúde individual"
+      },
+      {
+        "id": "C",
+        "texto": "saúde pública"
+      },
+      {
+        "id": "D",
+        "texto": "epidemiologia"
+      },
+      {
+        "id": "E",
+        "texto": "saúde 343 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0262",
+    "numero_ordem": 262,
+    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vigilância em saúde...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'saúde individual...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'saúde pública...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'epidemiologia...'."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'saúde 343 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+  },
+  {
+    "codigo_origem": "Q2528682",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Técnico de Enfermagem",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica",
+    "enunciado": "“Sistema lançado em 2020 para receber notificações de Síndrome Gripal (SG) suspeita e confirmada de Covid-19 no Brasil. Trata-se de um sistema online com infraestrutura de alta performance, a fim de garantir agilidade no processo de notificação. Por ser online, possibilita que todos os níveis de gestão, profissionais e unidades de saúde tenham acesso em tempo real às notificações realizadas”. Esse sistema denominase:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Sinan"
+      },
+      {
+        "id": "B",
+        "texto": "Sinasc"
+      },
+      {
+        "id": "C",
+        "texto": "e-SUS Notifica"
+      },
+      {
+        "id": "D",
+        "texto": "SISPNCD"
+      },
+      {
+        "id": "E",
+        "texto": "SIM 346 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0265",
+    "numero_ordem": 265,
+    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'e-SUS Notifica...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'SIM 346 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+  },
+  {
+    "codigo_origem": "Q2480405",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica",
+    "enunciado": "As doenças infecciosas novas, ou identificadas recentemente, que têm impacto no ser humano por sua gravidade e cuja incidência aumentou nas últimas décadas, ou tende a aumentar em um futuro próximo, são chamadas de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "endêmicas"
+      },
+      {
+        "id": "B",
+        "texto": "pandêmicas"
+      },
+      {
+        "id": "C",
+        "texto": "emergentes"
+      },
+      {
+        "id": "D",
+        "texto": "sistêmicas"
+      },
+      {
+        "id": "E",
+        "texto": "urgentes 373 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0292",
+    "numero_ordem": 292,
+    "fundamentacao_correta": "Conforme os princípios da Epidemiologia e Vigilância em Saúde (Ministério da Saúde), a Incidência Acumulada expressa o risco de novos casos da doença em uma população inicialmente livre do agravo durante determinado período. O cálculo é: Número de Casos Novos dividido pela População Sob Risco (indivíduos suscetíveis no início do período, excluindo-se quem já tinha o diagnóstico). Portanto, a alternativa [] expressa com exatidão a metodologia epidemiológica correta.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'urgentes 373 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Conforme os princípios da Epidemiologia e Vigilância em Saúde (Ministério da Saúde), a Incidência Acumulada expressa o risco de novos casos da doença em uma população inicialmente livre do agravo durante determinado período. O cálculo é: Número de Ca..."
+  },
+  {
+    "codigo_origem": "Q2480396",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica",
+    "enunciado": "“O momento é de intensificar os esforços e as medidas de prevenção, por parte de todos, para reduzir a transmissão da doença. A principal medida é a eliminação dos criadouros do mosquito – 75% deles localizados dentro e no entorno dos domicílios. Daí a importância de receber os agentes de combate a endemias e agentes comunitários de saúde, que vão ajudar a encontrar e eliminar possíveis criadouros”. Tal excerto refere-se a:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "covid19"
+      },
+      {
+        "id": "B",
+        "texto": "dengue"
+      },
+      {
+        "id": "C",
+        "texto": "malária"
+      },
+      {
+        "id": "D",
+        "texto": "leptospirose"
+      },
+      {
+        "id": "E",
+        "texto": "leishmaniose 382 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0301",
+    "numero_ordem": 301,
+    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'leptospirose...'."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'leishmaniose 382 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+  },
+  {
+    "codigo_origem": "Q2480394",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica",
+    "enunciado": "Os sistemas de saúde têm a necessidade de estabelecer sistemas de vigilância com o objetivo de conhecer o processo de saúde-doença na população e, assim, planejar as ações. As etapas e atividades básicas do sistema de vigilância são:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "coleta e análise de dados, interpretação e divulgação da informação"
+      },
+      {
+        "id": "B",
+        "texto": "coleta e interpretação dos dados, divulgação dos resultados"
+      },
+      {
+        "id": "C",
+        "texto": "coleta e interpretação dos dados, divulgação da informação"
+      },
+      {
+        "id": "D",
+        "texto": "coleta e análise de dados, divulgação dos resultados"
+      },
+      {
+        "id": "E",
+        "texto": "análise de dados e divulgação dos resultados 384 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0303",
+    "numero_ordem": 303,
+    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'coleta e análise de dados, interpretação e divulgação da informação...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'coleta e interpretação dos dados, divulgação dos resultados...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'coleta e interpretação dos dados, divulgação da informação...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'coleta e análise de dados, divulgação dos resultados...'."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'análise de dados e divulgação dos resultados 384 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+  },
+  {
+    "codigo_origem": "Q2480392",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica",
+    "enunciado": "Com a aplicação da epidemiologia, utiliza-se um processo baseado na microlocalização dos problemas de saúde e utilização das informações referentes ao território-processo, que se denomina:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "equidade"
+      },
+      {
+        "id": "B",
+        "texto": "normatização"
+      },
+      {
+        "id": "C",
+        "texto": "integralização"
+      },
+      {
+        "id": "D",
+        "texto": "territorialização"
+      },
+      {
+        "id": "E",
+        "texto": "microlocalização 386 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0305",
+    "numero_ordem": 305,
+    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'normatização...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'integralização...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'territorialização...'."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'microlocalização 386 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+  },
+  {
+    "codigo_origem": "Q2480383",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica",
+    "enunciado": "Entende-se a vigilância como a observação sistemática e contínua da frequência, da distribuição e dos determinantes dos eventos de saúde e suas tendências na população. Esse conceito tem dois componentes práticos, os quais são:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "mensuração e comparação"
+      },
+      {
+        "id": "B",
+        "texto": "mensuração e interpretação"
+      },
+      {
+        "id": "C",
+        "texto": "coleta de dados e comparação"
+      },
+      {
+        "id": "D",
+        "texto": "coleta de dados e mensuração"
+      },
+      {
+        "id": "E",
+        "texto": "coleta de dados e interpretação 395 Ano: 2024 Enfermagem > Biossegurança em Enfermagem , Higiene nos Procedimentos de Enfermagem , Fundamentos e Procedimentos de Enfermagem Banca: SELECON Órgão: SAD-MS Prova: SELECON - 2024 - SAD-MS - Enfermeiro"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0314",
+    "numero_ordem": 314,
+    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'mensuração e comparação...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'mensuração e interpretação...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'coleta de dados e comparação...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'coleta de dados e mensuração...'."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'coleta de dados e interpretação 395 Ano: 2024 Enfermagem > Biossegurança em Enfermagem , H...'."
+      }
+    ],
+    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+  },
+  {
+    "codigo_origem": "Q2480375",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica",
+    "enunciado": "O estudo da frequência e distribuição dos eventos de saúde e dos seus determinantes nas populações humanas e a aplicação deste estudo na prevenção e controle dos problemas de saúde,",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "incidência"
+      },
+      {
+        "id": "B",
+        "texto": "prevalência"
+      },
+      {
+        "id": "C",
+        "texto": "saúde pública"
+      },
+      {
+        "id": "D",
+        "texto": "epidemiologia"
+      },
+      {
+        "id": "E",
+        "texto": "saúde integral"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0322",
+    "numero_ordem": 322,
+    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'prevalência...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'saúde pública...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'epidemiologia...'."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'saúde integral...'."
+      }
+    ],
+    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+  },
+  {
+    "codigo_origem": "Q2480374",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica",
+    "enunciado": "Em 2020, foi lançado um sistema de notificação para receber notificações de Síndrome Gripal (SG) suspeita e confirmada de Covid-19 no Brasil. É online e possibilita que todos os níveis de gestão, profissionais e unidades de saúde tenham acesso em tempo real às notificações realizadas. Este sistema denomina-se:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "SIM"
+      },
+      {
+        "id": "B",
+        "texto": "Sisg"
+      },
+      {
+        "id": "C",
+        "texto": "Sinan"
+      },
+      {
+        "id": "D",
+        "texto": "SINASC"
+      },
+      {
+        "id": "E",
+        "texto": "e-SUS Notifica 404 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0323",
+    "numero_ordem": 323,
+    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'e-SUS Notifica 404 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+  },
+  {
+    "codigo_origem": "Q2480370",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica",
+    "enunciado": "O número de óbitos de menores de um ano de idade, por mil nascidos vivos, na população residente em determinado espaço geográfico, no ano/período considerado refere-se à taxa de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "nasci-vivos"
+      },
+      {
+        "id": "B",
+        "texto": "morbidade"
+      },
+      {
+        "id": "C",
+        "texto": "morbimortalidade"
+      },
+      {
+        "id": "D",
+        "texto": "mortalidade infantil"
+      },
+      {
+        "id": "E",
+        "texto": "morbimortalidade infantil 408 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0327",
+    "numero_ordem": 327,
+    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'nasci-vivos...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'morbimortalidade...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'mortalidade infantil...'."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'morbimortalidade infantil 408 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+  },
+  {
+    "codigo_origem": "Q2467601",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Água Boa - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Água Boa - MT - Técnico em",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica",
+    "enunciado": "Enfermagem A notificação compulsória deve ser realizada por meio do Sistema de Informação de Agravos de Notificação (Sinan), que é alimentado, principalmente, pela notificação e investigação de casos de doenças e agravos que constam da lista nacional de doenças de notificação compulsória, como por exemplo o/a:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "hipertensão"
+      },
+      {
+        "id": "B",
+        "texto": "diabetes tipo I"
+      },
+      {
+        "id": "C",
+        "texto": "fibrose cística"
+      },
+      {
+        "id": "D",
+        "texto": "acidente de trabalho"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0370",
+    "numero_ordem": 370,
+    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'hipertensão...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'diabetes tipo I...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'fibrose cística...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'acidente de trabalho...'."
+      }
+    ],
+    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+  },
+  {
+    "codigo_origem": "Q2467600",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Água Boa - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Água Boa - MT - Técnico em",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica",
+    "enunciado": "Enfermagem A manifestação clínica de um desequilíbrio no sistema parasito-hospedeiro-ambiente, causado pelo aumento da patogenicidade do parasita em relação aos mecanismos de defesa anti-infecciosa do hospedeiro, ou seja, pela quebra da relação harmoniosa entre as defesas do nosso corpo, o número e a virulência dos germes, propiciando a invasão deles nos órgãos do corpo, é denominada doença:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "ocupacional"
+      },
+      {
+        "id": "B",
+        "texto": "infecciosa"
+      },
+      {
+        "id": "C",
+        "texto": "sistêmica"
+      },
+      {
+        "id": "D",
+        "texto": "crônica 452 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Prefeitura de Água Boa - MT Prova: SELECON - 2024 - Prefeitura de Água Boa - MT - Técnico em"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0371",
+    "numero_ordem": 371,
+    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ocupacional...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'crônica 452 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição ...'."
+      }
+    ],
+    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+  },
+  {
+    "codigo_origem": "Q2454928",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sapezal - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Técnico em",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica",
+    "enunciado": "Enfermagem Os microrganismos, geneticamente modificados ou não, as culturas de células, os parasitas, as toxinas e os príons são considerados, de acordo com a Norma Regulamentadora 32, agentes:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "de risco"
+      },
+      {
+        "id": "B",
+        "texto": "biológicos"
+      },
+      {
+        "id": "C",
+        "texto": "contaminantes"
+      },
+      {
+        "id": "D",
+        "texto": "infectocontagiosos"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0406",
+    "numero_ordem": 406,
+    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'contaminantes...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'infectocontagiosos...'."
+      }
+    ],
+    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+  },
+  {
+    "codigo_origem": "Q2452987",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sapezal - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica",
+    "enunciado": "Os sistemas de saúde viram-se na obrigação e necessidade de estabelecer sistemas de vigilância, com o objetivo de conhecer o processo de saúde-doença na população. As etapas e as atividades básicas do sistema de vigilância são:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "pesquisa e análise de dados, divulgação dos resultados"
+      },
+      {
+        "id": "B",
+        "texto": "coleta e interpretação dos dados, divulgação da informação"
+      },
+      {
+        "id": "C",
+        "texto": "coleta e análise de dados, interpretação e divulgação da informação"
+      },
+      {
+        "id": "D",
+        "texto": "pesquisa e interpretação das informações, divulgação dos resultados 513 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0432",
+    "numero_ordem": 432,
+    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'pesquisa e análise de dados, divulgação dos resultados...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'coleta e interpretação dos dados, divulgação da informação...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'coleta e análise de dados, interpretação e divulgação da informação...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'pesquisa e interpretação das informações, divulgação dos resultados 513 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+  },
+  {
+    "codigo_origem": "Q3884081",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica",
+    "enunciado": "MT - Enfermeiro Os estudos epidemiológicos observacionais são classificados de acordo com sua lógica temporal e a forma de constituição dos grupos. No tipo de estudo em que os indivíduos são selecionados com base no desfecho (doentes e não doentes) e a exposição passada é investigada retrospectivamente, tem-se um desenho do tipo:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "coorte prospectivo"
+      },
+      {
+        "id": "B",
+        "texto": "transversal"
+      },
+      {
+        "id": "C",
+        "texto": "caso-controle"
+      },
+      {
+        "id": "D",
+        "texto": "ecológico 122 Ano: 2026"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0461",
+    "numero_ordem": 461,
+    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'coorte prospectivo...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'transversal...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'caso-controle...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ecológico 122 Ano: 2026...'."
+      }
+    ],
+    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+  },
+  {
+    "codigo_origem": "Q3884077",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica",
+    "enunciado": "MT - Enfermeiro A vigilância epidemiológica das infecções relacionadas à assistência à saúde (IRAS) é um pilar fundamental para a segurança do paciente, exigindo uma abordagem sistemática e contínua. Em cenários de alta complexidade e com a emergência de patógenos multirresistentes, a implementação de uma vigilância ativa e prospectiva, baseada em indicadores de processo e de resultado, é crucial para:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "reduzir exclusivamente a taxa de infecções de sítio cirúrgico em procedimentos de baixo risco"
+      },
+      {
+        "id": "B",
+        "texto": "identificar precocemente surtos, avaliar a efetividade das medidas de controle e direcionar intervenções específicas"
+      },
+      {
+        "id": "C",
+        "texto": "padronizar o uso de antimicrobianos, eliminando a necessidade de culturas microbiológicas rotineiras"
+      },
+      {
+        "id": "D",
+        "texto": "centralizar a coleta de dados em um único setor, minimizando a participação de equipes multidisciplinares 126 Ano: 2026"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0465",
+    "numero_ordem": 465,
+    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'identificar precocemente surtos, avaliar a efetividade das medidas de controle e direciona...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'padronizar o uso de antimicrobianos, eliminando a necessidade de culturas microbiológicas ...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'centralizar a coleta de dados em um único setor, minimizando a participação de equipes mul...'."
+      }
+    ],
+    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+  },
+  {
+    "codigo_origem": "Q3884075",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica , Doenças Infecciosas e parasitárias",
+    "enunciado": "MT - Enfermeiro A relação entre os Determinantes Sociais da Saúde (DSS) e as Doenças e Agravos não Transmissíveis (DANTs) pode ser corretamente descrita como sendo:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "de baixa influência, uma vez que as DANTs estão mais ligadas a escolhas individuais do que a condições sociais"
+      },
+      {
+        "id": "B",
+        "texto": "direta e expressiva, na qual grupos em situação de maior vulnerabilidade social apresentam maior risco e pior desfecho para as DANTs"
+      },
+      {
+        "id": "C",
+        "texto": "restrita ao acesso a serviços de saúde, não afetando a incidência dos fatores de risco"
+      },
+      {
+        "id": "D",
+        "texto": "mais forte nas áreas rurais, sendo insignificante nos centros urbanos 128 Ano: 2026"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0467",
+    "numero_ordem": 467,
+    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'de baixa influência, uma vez que as DANTs estão mais ligadas a escolhas individuais do que...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'direta e expressiva, na qual grupos em situação de maior vulnerabilidade social apresentam...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'restrita ao acesso a serviços de saúde, não afetando a incidência dos fatores de risco...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'mais forte nas áreas rurais, sendo insignificante nos centros urbanos 128 Ano: 2026...'."
+      }
+    ],
+    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+  },
+  {
+    "codigo_origem": "Q3810635",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Garças - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica",
+    "enunciado": "Técnico em Enfermagem Uma unidade de saúde identificou aumento abrupto de casos de uma doença previamente controlada em um bairro específi co. O número de casos é maior do que o esperado para aquele local e período, porém, limitado geografi camente. Essa situação caracteriza:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "surto"
+      },
+      {
+        "id": "B",
+        "texto": "endemia"
+      },
+      {
+        "id": "C",
+        "texto": "epidemia"
+      },
+      {
+        "id": "D",
+        "texto": "pandemia 143 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0482",
+    "numero_ordem": 482,
+    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'pandemia 143 Ano: 2025...'."
+      }
+    ],
+    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+  },
+  {
+    "codigo_origem": "Q3802707",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Garças - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica",
+    "enunciado": "A transição epidemiológica está intrinsecamente ligada à transição demográfica, que envolve mudanças na estrutura etária e nas taxas de natalidade e mortalidade. Um dos impactos diretos da transição demográfica no perfil epidemiológico de um país é o envelhecimento populacional, que, por sua vez, acarreta:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "uma redução drástica na demanda por serviços de saúde, devido à menor incidência de doenças infecciosas"
+      },
+      {
+        "id": "B",
+        "texto": "um aumento da prevalência de doenças crônicas degenerativas e da demanda por cuidados de longa duração"
+      },
+      {
+        "id": "C",
+        "texto": "a predominância de doenças materno-infantis como principal causa de internação hospitalar"
+      },
+      {
+        "id": "D",
+        "texto": "a diminuição da carga de doenças relacionadas a fatores de risco comportamentais, como tabagismo e sedentarismo 162 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0501",
+    "numero_ordem": 501,
+    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'uma redução drástica na demanda por serviços de saúde, devido à menor incidência de doença...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'um aumento da prevalência de doenças crônicas degenerativas e da demanda por cuidados de l...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a predominância de doenças materno-infantis como principal causa de internação hospitalar...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a diminuição da carga de doenças relacionadas a fatores de risco comportamentais, como tab...'."
+      }
+    ],
+    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+  },
+  {
+    "codigo_origem": "Q3802698",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Garças - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica",
+    "enunciado": "O conceito de Transição Epidemiológica descreve um fenômeno global de mudança nos padrões de saúde e doença das populações. No Brasil, ao longo do século XX, essa transição foi particularmente evidente, com cenários que ratificam a magnitude dessa transformação. Acerca disso, é coerente afirmar que:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "a mortalidade por doenças infecto-parasitárias aumentou, enquanto as doenças não transmissíveis perderam relevância"
+      },
+      {
+        "id": "B",
+        "texto": "a expectativa de vida diminuiu drasticamente, impulsionada pelo aumento das causas externas de mortalidade"
+      },
+      {
+        "id": "C",
+        "texto": "as causas externas de mortalidade, como violência e acidentes, tornaram-se insignificantes no cenário geral"
+      },
+      {
+        "id": "D",
+        "texto": "as doenças crônico-degenerativas passaram a ser a principal causa de óbitos, superando as doenças infecciosas e parasitárias 168 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0507",
+    "numero_ordem": 507,
+    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a mortalidade por doenças infecto-parasitárias aumentou, enquanto as doenças não transmiss...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a expectativa de vida diminuiu drasticamente, impulsionada pelo aumento das causas externa...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'as causas externas de mortalidade, como violência e acidentes, tornaram-se insignificantes...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'as doenças crônico-degenerativas passaram a ser a principal causa de óbitos, superando as ...'."
+      }
+    ],
+    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+  },
+  {
+    "codigo_origem": "Q3802697",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Garças - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Epidemiologia e Vigilância Epidemiológica",
+    "enunciado": "A Revolução Neolítica, marcada pelo desenvolvimento da agricultura e da domesticação de animais por volta de 10000 a.C., representou uma mudança fundamental no estilo de vida humano, passando do nomadismo para a formação de sociedades locais. Essa transição teve profundas implicações para a saúde das populações, alterando padrões de doenças e interações com o ambiente. Uma consequência direta da sedentarização e do adensamento populacional para o cenário epidemiológico corresponde:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "à redução da transmissão de patógenos em virtude da melhoria das condições de higiene nas aldeias"
+      },
+      {
+        "id": "B",
+        "texto": "ao estabelecimento de ciclos completos de infecções e endemias, devido à estabilidade de hospedeiros"
+      },
+      {
+        "id": "C",
+        "texto": "à diversificação da dieta, que fortaleceu o sistema imunológico e diminuiu a suscetibilidade a infecções"
+      },
+      {
+        "id": "D",
+        "texto": "à menor exposição a novos patógenos, resultante da diminuição da interferência humana nos ecossistemas 169 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0508",
+    "numero_ordem": 508,
+    "fundamentacao_correta": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'à redução da transmissão de patógenos em virtude da melhoria das condições de higiene nas ...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ao estabelecimento de ciclos completos de infecções e endemias, devido à estabilidade de h...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'à diversificação da dieta, que fortaleceu o sistema imunológico e diminuiu a suscetibilida...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'à menor exposição a novos patógenos, resultante da diminuição da interferência humana nos ...'."
+      }
+    ],
+    "comentario": "Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiol..."
+  }
+]

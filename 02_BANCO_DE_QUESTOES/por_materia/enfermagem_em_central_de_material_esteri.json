@@ -1,0 +1,554 @@
+[
+  {
+    "codigo_origem": "Q4336847",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Araçás - BA",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Araçás - BA - Técnico de",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em Central de Material Esterilizado",
+    "enunciado": "Enfermagem O monitoramento da qualidade da esterilização é essencial para garantir que os produtos para a saúde estejam seguros para uso. Esse controle é realizado por meio de indicadores físicos, químicos e biológicos, cada um com funções específicas na validação do processo. O indicador biológico, considerado o padrão ouro para monitoramento da esterilização, utiliza microrganismos altamente resistentes ao método empregado para confirmar a eficácia do ciclo. Sobre o monitoramento da esterilização na Central de Material Esterilizado (CME), o técnico de enfermagem deve saber que o indicador biológico:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "substitui os indicadores químicos e físicos, sendo o único método de monitoramento exigido pela legislação"
+      },
+      {
+        "id": "B",
+        "texto": "é utilizado em todas as cargas e tem a função de verificar se a temperatura e o tempo mínimos foram atingidos"
+      },
+      {
+        "id": "C",
+        "texto": "consiste em um dispositivo que muda de cor quando exposto ao calor, indicando que a esterilização foi bem-sucedida"
+      },
+      {
+        "id": "D",
+        "texto": "é empregado periodicamente, sendo o parâmetro mais confiável para atestar a morte dos microrganismos mais resistentes"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0034",
+    "numero_ordem": 34,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'substitui os indicadores químicos e físicos, sendo o único método de monitoramento exigido...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'é utilizado em todas as cargas e tem a função de verificar se a temperatura e o tempo míni...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'consiste em um dispositivo que muda de cor quando exposto ao calor, indicando que a esteri...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'é empregado periodicamente, sendo o parâmetro mais confiável para atestar a morte dos micr...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q4336845",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Araçás - BA",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Araçás - BA - Técnico de",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em Central de Material Esterilizado",
+    "enunciado": "Enfermagem A limpeza de instrumentais cirúrgicos é considerada a etapa mais crítica do processamento de produtos para a saúde, pois a presença de matéria orgânica ou inorgânica forma barreiras que protegem os microrganismos, impedindo que os agentes esterilizantes entrem em contato com a superfície dos artigos. Para que a limpeza seja eficaz, o material deve ser submetido a procedimentos específicos ainda no local de uso e, posteriormente, na Central de Material Esterilizado (CME). Sobre a técnica de limpeza manual de materiais na CME, o técnico de enfermagem deve:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "imergir o material em água potável morna com detergente por, no mínimo, três minutos e, em seguida, realizar a fricção com escovas apropriadas"
+      },
+      {
+        "id": "B",
+        "texto": "utilizar água fria e detergente enzimático, mantendo o material em imersão por 30 minutos antes da fricção com esponjas abrasivas"
+      },
+      {
+        "id": "C",
+        "texto": "realizar a limpeza com água destilada e sabão neutro, secando o material com ar comprimido antes da inspeção visual"
+      },
+      {
+        "id": "D",
+        "texto": "aplicar solução alcoólica a 70% diretamente sobre o material sujo e, após cinco minutos, realizar a fricção com gaze estéril"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0036",
+    "numero_ordem": 36,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'imergir o material em água potável morna com detergente por, no mínimo, três minutos e, em...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar água fria e detergente enzimático, mantendo o material em imersão por 30 minutos ...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar a limpeza com água destilada e sabão neutro, secando o material com ar comprimido...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aplicar solução alcoólica a 70% diretamente sobre o material sujo e, após cinco minutos, r...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q2472193",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Auxiliar de Serviços Hospitalares",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em Central de Material Esterilizado",
+    "enunciado": "Maria foi solicitada no setor ambulatorial para realizar a descontaminação de uma superfície. Ao chegar ao local, notou que havia matéria orgânica em cima de uma bancada. Antes de realizar a desinfecção, Maria deve:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "espalhar o resíduo na bancada"
+      },
+      {
+        "id": "B",
+        "texto": "despejar álcool sobre o resíduo"
+      },
+      {
+        "id": "C",
+        "texto": "retirar o excesso de matéria orgânica com papel absorvente"
+      },
+      {
+        "id": "D",
+        "texto": "retirar o excesso de matéria orgânica com aspirador de pó ou enceradeira"
+      },
+      {
+        "id": "E",
+        "texto": "borrifar solução clorada na superfície, aguardar 10 minutos e enxaguar com água corrente 429 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0348",
+    "numero_ordem": 348,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'espalhar o resíduo na bancada...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'despejar álcool sobre o resíduo...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'retirar o excesso de matéria orgânica com papel absorvente...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'retirar o excesso de matéria orgânica com aspirador de pó ou enceradeira...'."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'borrifar solução clorada na superfície, aguardar 10 minutos e enxaguar com água corrente 4...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q2472183",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Auxiliar de Serviços Hospitalares",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em Central de Material Esterilizado",
+    "enunciado": "A limpeza mais abrangente, incluindo as superfícies horizontais e verticais, realizada na unidade do paciente, após a alta hospitalar, é chamada de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "terminal"
+      },
+      {
+        "id": "B",
+        "texto": "abrasiva"
+      },
+      {
+        "id": "C",
+        "texto": "individual"
+      },
+      {
+        "id": "D",
+        "texto": "decorrente"
+      },
+      {
+        "id": "E",
+        "texto": "concorrente 438 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0357",
+    "numero_ordem": 357,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'concorrente 438 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q2472179",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Auxiliar de Serviços Hospitalares",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em Central de Material Esterilizado",
+    "enunciado": "A desinfecção de câmaras frigoríficas pode ser realizada com:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "cloro"
+      },
+      {
+        "id": "B",
+        "texto": "álcool a 70%"
+      },
+      {
+        "id": "C",
+        "texto": "água e sabão"
+      },
+      {
+        "id": "D",
+        "texto": "solução clorada"
+      },
+      {
+        "id": "E",
+        "texto": "clorexidina alcóolica 440 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0359",
+    "numero_ordem": 359,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'álcool a 70%...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'água e sabão...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'solução clorada...'."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'clorexidina alcóolica 440 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q2472178",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Auxiliar de Serviços Hospitalares",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em Central de Material Esterilizado",
+    "enunciado": "O principal produto utilizado em ambiente hospitalar, para desinfecção de superfícies, através da fricção é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "cloro"
+      },
+      {
+        "id": "B",
+        "texto": "detergente"
+      },
+      {
+        "id": "C",
+        "texto": "álcool a 70%"
+      },
+      {
+        "id": "D",
+        "texto": "sabão antisséptico"
+      },
+      {
+        "id": "E",
+        "texto": "clorexidina degermante"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0360",
+    "numero_ordem": 360,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'álcool a 70%...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'sabão antisséptico...'."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'clorexidina degermante...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q2454927",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sapezal - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Técnico em",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em Central de Material Esterilizado",
+    "enunciado": "Enfermagem Aos materiais e instrumentos que devem ser descartados em caixas apropriadas, rígidas e impermeáveis, que devem ser colocadas próximas à área em que os materiais são usados, chamamos de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "perfurocortantes"
+      },
+      {
+        "id": "B",
+        "texto": "contaminados"
+      },
+      {
+        "id": "C",
+        "texto": "estéreis"
+      },
+      {
+        "id": "D",
+        "texto": "reuso"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0407",
+    "numero_ordem": 407,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'perfurocortantes...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'contaminados...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q2454925",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sapezal - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Técnico em",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em Central de Material Esterilizado",
+    "enunciado": "Enfermagem A equipe de enfermagem que trabalha na CME (Central de Material Esterilizado) presta uma assistência indireta ao paciente, tão importante quanto a assistência direta, que é realizada pela equipe de enfermagem que atende ao paciente. Os Técnicos e Auxiliares de Enfermagem que atuam em CME, ou em empresas processadoras de produtos para saúde, realizam atividades:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "exclusivamente de limpeza e esterilização"
+      },
+      {
+        "id": "B",
+        "texto": "de limpeza e armazenamento de materiais"
+      },
+      {
+        "id": "C",
+        "texto": "de apoio, sob orientação e supervisão do(a) Enfermeiro(a)"
+      },
+      {
+        "id": "D",
+        "texto": "previstas nas rotinas estabelecidas, sob orientação e supervisão do(a) Enfermeiro(a)"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0409",
+    "numero_ordem": 409,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'de limpeza e armazenamento de materiais...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'de apoio, sob orientação e supervisão do(a) Enfermeiro(a)...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'previstas nas rotinas estabelecidas, sob orientação e supervisão do(a) Enfermeiro(a)...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3884653",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em Central de Material Esterilizado",
+    "enunciado": "MT - Técnico em Enfermagem A esterilização por vapor saturado sob pressão é um método amplamente utilizado nos serviços de saúde. Considerando as suas indicações e a classificação dos artigos quanto ao seu risco, esse método de esterilização é indicado para:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "materiais termossensíveis, como equipos de infusão e cateteres plásticos descartáveis"
+      },
+      {
+        "id": "B",
+        "texto": "artigos críticos, como instrumentos cirúrgicos metálicos, pinças e tesouras"
+      },
+      {
+        "id": "C",
+        "texto": "superfícies como macas, bancadas e mesas de procedimento"
+      },
+      {
+        "id": "D",
+        "texto": "materiais semicríticos, como sondas descartáveis e cânulas plásticas 116 Ano: 2026"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0455",
+    "numero_ordem": 455,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'materiais termossensíveis, como equipos de infusão e cateteres plásticos descartáveis...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'artigos críticos, como instrumentos cirúrgicos metálicos, pinças e tesouras...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'superfícies como macas, bancadas e mesas de procedimento...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'materiais semicríticos, como sondas descartáveis e cânulas plásticas 116 Ano: 2026...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3810640",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Garças - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em Central de Material Esterilizado",
+    "enunciado": "Técnico em Enfermagem Artigos semicríticos são aqueles que entram em contato com mucosas íntegras. O processamento mínimo adequado para eles é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "desinfecção de alto nível"
+      },
+      {
+        "id": "B",
+        "texto": "apenas limpeza mecânica"
+      },
+      {
+        "id": "C",
+        "texto": "desinfecção de baixo nível"
+      },
+      {
+        "id": "D",
+        "texto": "esterilização química ou física obrigatória 138 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0477",
+    "numero_ordem": 477,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'desinfecção de alto nível...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'apenas limpeza mecânica...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'desinfecção de baixo nível...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'esterilização química ou física obrigatória 138 Ano: 2025...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  }
+]

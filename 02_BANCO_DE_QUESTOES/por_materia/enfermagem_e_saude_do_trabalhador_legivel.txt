@@ -1,0 +1,136 @@
+=== CADERNO DE QUESTÕES: ENFERMAGEM E SAÚDE DO TRABALHADOR ===
+Total: 7 questões
+
+QUESTÃO 1 [Código: EF0064] - EMGEPRON (SELECON 2026) - Técnico de Enfermagem
+Assunto: Enfermagem e Saúde do Trabalhador , NR's do Ministério do Trabalho e Emprego
+No exercício de suas atividades em serviços de saúde, o técnico de enfermagem encontra-se exposto a diferentes riscos ocupacionais. A partir disso, assume-se a Norma Regulamentadora n.º 32, que tem como finalidade:
+
+  [A] regulamentar exclusivamente o uso de equipamentos de proteção individual
+  [B] definir atribuições privativas do enfermeiro nos estabelecimentos assistenciais
+  [C] normatizar apenas o gerenciamento de resíduos dos serviços de saúde e fluxos assistenciais
+  [D] estabelecer medidas de proteção à saúde e à segurança dos trabalhadores dos serviços de saúde
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'definir atribuições privativas do enfermeiro nos estabelecimentos assistenciais...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'normatizar apenas o gerenciamento de resíduos dos serviços de saúde e fluxos assistenciais...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'estabelecer medidas de proteção à saúde e à segurança dos trabalhadores dos serviços de sa...'.
+
+------------------------------------------------------------
+
+QUESTÃO 2 [Código: EF0089] - EMGEPRON (SELECON 2026) - Enfermeiro
+Assunto: Enfermagem e Saúde do Trabalhador , Biossegurança em Enfermagem
+Durante a administração de medicação intravenosa, uma técnica de enfermagem sofre perfuração percutânea com agulha recém-utilizada em paciente com sorologia desconhecida. O enfermeiro responsável realiza atendimento imediato, orienta a lavagem do local, comunica o serviço competente e providencia notificação do acidente de trabalho. Conforme as diretrizes da Norma Regulamentadora n.º 32 e os protocolos do Ministério da Saúde, a conduta adequada frente ao acidente com material biológico consiste em:
+
+  [A] manter observação clínica da trabalhadora, dispensando notificação formal caso o paciente-fonte apresente baixo risco epidemiológico conhecido
+  [B] encaminhar a profissional apenas para avaliação médica eletiva, sem necessidade de registro institucional imediato ou emissão de documentação trabalhista específica
+  [C] realizar imediatamente os cuidados locais, comunicar o serviço de referência, emitir Comunicação de Acidente de Trabalho (CAT), avaliar risco biológico e considerar profilaxia pós-exposição conforme protocolo vigente
+  [D] aguardar os resultados sorológicos do paciente-fonte antes de formalizar a emissão da Comunicação de Acidente de Trabalho e de decidir sobre a necessidade de profilaxia pós-exposição, mantendo inicialmente apenas acompanhamento clínico da profissional
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter observação clínica da trabalhadora, dispensando notificação formal caso o paciente-...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'encaminhar a profissional apenas para avaliação médica eletiva, sem necessidade de registr...'.
+   • Alternativa C: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aguardar os resultados sorológicos do paciente-fonte antes de formalizar a emissão da Comu...'.
+
+------------------------------------------------------------
+
+QUESTÃO 3 [Código: EF0117] - Prefeitura de Nova Mutum - MT (SELECON 2025) - Enfermeiro
+Assunto: Enfermagem e Saúde do Trabalhador
+A Vigilância em Saúde do Trabalhador (VISAT) atua na identificação e na intervenção sobre os fatores de risco e danos relacionados aos processos de trabalho. Um enfermeiro do trabalho, ao analisar os dados de atendimento ambulatorial de uma indústria metalúrgica, observa um aumento na prevalência de trabalhadores com diagnóstico de Perda Auditiva Induzida por Ruído (PAIR) e queixas de lesões por esforços repetitivos (LER/DORT). A abordagem mais abrangente, que transcende o modelo assistencialista e se alinha aos princípios da VISAT, seria:
+
+  [A] realizar uma inspeção nos ambientes de trabalho para mapear as fontes de ruído e as atividades com risco ergonômico, articulando com a CIPA e a gestão da empresa para propor mudanças nos processos produtivos e no ambiente, como o enclausuramento de máquinas e a implementação de pausas programadas
+  [B] encaminhar os trabalhadores diagnosticados para o INSS para avaliação de nexo causal e possível afastamento, focando na reabilitação e na gestão das consequências individuais da doença
+  [C] intensificar a distribuição de Equipamentos de Proteção Individual (EPIs), como protetores auriculares e munhequeiras, e realizar palestras sobre a importância do seu uso correto pelos funcionários
+  [D] notificar os casos confirmados no sistema oficial como acidentes de trabalho e focar no acompanhamento clínico dos sintomáticos, garantindo que recebam o tratamento médico adequado para suas condições 198 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar uma inspeção nos ambientes de trabalho para mapear as fontes de ruído e as ativid...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'encaminhar os trabalhadores diagnosticados para o INSS para avaliação de nexo causal e pos...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'intensificar a distribuição de Equipamentos de Proteção Individual (EPIs), como protetores...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'notificar os casos confirmados no sistema oficial como acidentes de trabalho e focar no ac...'.
+
+------------------------------------------------------------
+
+QUESTÃO 4 [Código: EF0347] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+Assunto: Enfermagem e Saúde do Trabalhador , NR's do Ministério do Trabalho e Emprego
+No setor de saúde, uma categoria de trabalhadores ocupa singular função. Para cumprir um dos mais importantes papéis sociais e de grande relevância econômica, o trabalhador de enfermagem muito avançou cientificamente para atender às atuais e crescentes exigências, nesse campo. A Norma Regulamentadora que considera risco biológico a probabilidade da exposição ocupacional a agentes biológicos: microrganismos geneticamente modificados ou não, culturas de células, parasitas, toxinas e príons é a de número:
+
+  [A] 33
+  [B] 32
+  [C] 21
+  [D] 9 428 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '9 428 Ano: 2024...'.
+
+------------------------------------------------------------
+
+QUESTÃO 5 [Código: EF0395] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
+Assunto: Enfermagem e Saúde do Trabalhador
+Enfermagem Conjunto de atividades do campo da saúde coletiva que se destina, por meio das ações de vigilância epidemiológica e vigilância sanitária, à promoção e à proteção da saúde dos trabalhadores, assim como visa à recuperação e à reabilitação da saúde dos trabalhadores submetidos aos riscos e agravos advindos das condições de trabalho. Essa é a definição de saúde:
+
+  [A] da mulher
+  [B] do homem
+  [C] da população
+  [D] do trabalhador
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'da população...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'do trabalhador...'.
+
+------------------------------------------------------------
+
+QUESTÃO 6 [Código: EF0423] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
+Assunto: Enfermagem e Saúde do Trabalhador
+Os locais de trabalho, pela própria natureza da atividade desenvolvida e pelas características de organização, relações interpessoais, manipulação ou exposição a agentes de riscos, podem comprometer a saúde e a segurança do trabalhador em curto, médio e longo prazo, provocando lesões imediatas, doenças ou a morte. Os tipos de riscos encontrados no ambiente de trabalho são:
+
+  [A] físicos, químicos, biológicos
+  [B] ambientais, químicos, biológicos
+  [C] físicos, ergonômicos, riscos de acidente
+  [D] ambientais, ergonômicos, riscos de acidente
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'físicos, químicos, biológicos...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ambientais, químicos, biológicos...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'físicos, ergonômicos, riscos de acidente...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ambientais, ergonômicos, riscos de acidente...'.
+
+------------------------------------------------------------
+
+QUESTÃO 7 [Código: EF0491] - Prefeitura de Barra do Garças - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Enfermagem e Saúde do Trabalhador , NR's do Ministério do Trabalho e Emprego
+Técnico em Enfermagem Durante uma auditoria interna sobre práticas de biossegurança, constatou-se que parte da equipe demonstrava condutas inconsistentes no uso dos Equipamentos de Proteção Individual (EPIs). Considerando as diretrizes da NR- 32 para serviços de saúde, constitui dever do trabalhador:
+
+  [A] utilizar o EPI fornecido de acordo com as orientações estabelecidas, mantendo seu uso adequado durante todas as atividades em que houver risco previsto
+  [B] identificar eventuais desgastes, desconfortos ou falhas do EPI e proceder, por conta própria, a ajustes improvisados ou a substituições imediatas, evitando interromper sua rotina de trabalho
+  [C] avaliar, com base em sua experiência e percepção pessoal do ambiente, em quais situações o uso do EPI é de fato indispensável, podendo optar por não utilizá-lo quando considerar o risco reduzido
+  [D] realizar rotineiramente a higienização, organização e guarda dos EPIs utilizados pelos diferentes membros da equipe, assegurando que todos os equipamentos permaneçam disponíveis e em boas condições de uso ao longo do plantão 152 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar o EPI fornecido de acordo com as orientações estabelecidas, mantendo seu uso adeq...'.
+   • Alternativa B: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'avaliar, com base em sua experiência e percepção pessoal do ambiente, em quais situações o...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar rotineiramente a higienização, organização e guarda dos EPIs utilizados pelos dif...'.
+
+------------------------------------------------------------
+

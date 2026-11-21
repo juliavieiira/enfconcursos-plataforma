@@ -1,0 +1,57 @@
+[
+  {
+    "id": "q-pref-005",
+    "banca": "AOCP",
+    "orgao": "Prefeitura de Maringá - PR",
+    "ano": 2024,
+    "cargo": "Enfermeiro",
+    "materia": "Urgência e Emergência",
+    "assunto": "Suporte Básico de Vida (AHA)",
+    "enunciado": "Durante o atendimento pré-hospitalar (APH) a um indivíduo adulto em Parada Cardiorrespiratória (PCR) presenciada em via pública, os socorristas iniciam as manobras de Reanimação Cardiopulmonar (RCP). De acordo com as Diretrizes da American Heart Association (AHA), a frequência recomendada de compressões torácicas e a relação compressão-ventilação para um socorrista único sem via aérea avançada são, respectivamente:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "80 a 100 compressões/minuto e relação 15:2."
+      },
+      {
+        "id": "B",
+        "texto": "100 a 120 compressões/minuto e relação 30:2."
+      },
+      {
+        "id": "C",
+        "texto": "120 a 140 compressões/minuto e relação 30:2."
+      },
+      {
+        "id": "D",
+        "texto": "100 a 120 compressões/minuto e relação 15:2."
+      },
+      {
+        "id": "E",
+        "texto": "60 a 80 compressões/minuto e relação contínua com 10 ventilações/minuto."
+      }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "As Diretrizes Internacionais de RCP da AHA preconizam para o atendimento do adulto: compressões de alta qualidade com frequência entre 100 e 120 compressões por minuto, profundidade de 5 a 6 cm e retorno total do tórax. A relação compressão-ventilação sem via aérea avançada para qualquer socorrista no adulto é de 30 compressões para 2 ventilações (30:2).",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Frequência abaixo de 100/min compromete a pressão de perfusão coronariana e cerebral. A relação 15:2 é usada apenas em pediatria com dois socorristas."
+      },
+      {
+        "letra": "C",
+        "motivo": "Comprimir acima de 120/min impede o enchimento ventricular adequado do coração entre as compressões."
+      },
+      {
+        "letra": "D",
+        "motivo": "A relação 15:2 é exclusiva para atendimento pediátrico (crianças e bebês) com 2 socorristas treinados."
+      },
+      {
+        "letra": "E",
+        "motivo": "Compressões contínuas com 1 ventilação a cada 6 segundos só se aplicam após a passagem de via aérea avançada (intubação orotraqueal ou tubo laríngeo)."
+      }
+    ],
+    "comentario": "Diretriz AHA: 100 a 120 compressões/min com relação 30:2 no adulto sem via aérea avançada.",
+    "dificuldade": "Fácil",
+    "relevancia_prefeitura": "Alta"
+  }
+]

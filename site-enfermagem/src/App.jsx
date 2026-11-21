@@ -44,6 +44,7 @@ export default function App() {
 
   // Modal VIP
   const [modalVipAberto, setModalVipAberto] = useState(false);
+  const [limiteExibicao, setLimiteExibicao] = useState(25);
 
   // Estatísticas gerais
   const totalRespondidas = Object.keys(respostas).length;
@@ -290,7 +291,7 @@ export default function App() {
               </span>
             </div>
 
-            {questoesFiltradas.map((q, index) => {
+            {questoesFiltradas.slice(0, limiteExibicao).map((q, index) => {
               const resp = respostas[q.id];
               const confirmada = resp?.confirmada;
               const acertou = confirmada && resp.selecionada === q.resposta_correta;
@@ -298,10 +299,13 @@ export default function App() {
               return (
                 <article key={q.id} className="question-card">
                   <div className="question-meta">
+                    <span className="badge" style={{ background: '#0f172a', color: '#38bdf8', fontWeight: 800 }}>
+                      {q.id}
+                    </span>
                     <span className="badge badge-banca">{q.banca}</span>
                     <span className="badge badge-orgao">{q.orgao} • {q.ano}</span>
                     <span className="badge badge-cargo">{q.cargo}</span>
-                    <span className="badge badge-materia">{q.materia}</span>
+                    <span className="badge badge-materia">{q.assunto || q.materia}</span>
                   </div>
 
                   <p className="question-text">
@@ -404,6 +408,19 @@ export default function App() {
                 </article>
               );
             })}
+
+            {/* Botão para carregar mais questões */}
+            {limiteExibicao < questoesFiltradas.length && (
+              <div style={{ textAlign: 'center', margin: '2.5rem 0' }}>
+                <button
+                  className="btn-primary"
+                  style={{ padding: '0.85rem 2.2rem', fontSize: '1rem', background: '#0f172a' }}
+                  onClick={() => setLimiteExibicao(prev => prev + 25)}
+                >
+                  Carregar Mais 25 Questões ({questoesFiltradas.length - limiteExibicao} restantes)
+                </button>
+              </div>
+            )}
           </section>
         )}
 

@@ -1,0 +1,474 @@
+[
+  {
+    "codigo_origem": "Q4369115",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Lucas do Rio Verde - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Lucas do Rio Verde -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Segurança do Paciente",
+    "enunciado": "MT - Enfermeiro - Secretaria de Saúde As Metas Internacionais de Segurança do Paciente, definidas pela Organização Mundial da Saúde (OMS) e adotadas por instituições de saúde em todo o mundo, orientam práticas essenciais para a redução de riscos durante o cuidado. A meta que estabelece a correta identificação do paciente como prioridade tem como finalidade principal:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "garantir que todos os pacientes sejam identificados por meio de pulseira com nome completo e data de nascimento, dispensando a confirmação verbal antes de procedimentos"
+      },
+      {
+        "id": "B",
+        "texto": "padronizar a identificação do paciente com o número do prontuário, único identificador considerado seguro pelas normas internacionais"
+      },
+      {
+        "id": "C",
+        "texto": "restringir a identificação do paciente a situações de administração de medicamentos e transfusão sanguínea, conforme protocolo institucional"
+      },
+      {
+        "id": "D",
+        "texto": "assegurar que a identificação do paciente ocorra em pelo menos dois identificadores, como nome completo e data de nascimento, antes de qualquer intervenção assistencial"
+      }
+    ],
+    "resposta_correta": "D",
+    "id": "EF0019",
+    "numero_ordem": 19,
+    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [D] ('assegurar que a identificação do paciente ocorra em pelo menos dois identificadores, como nome completo e data de nascimento, antes de qualquer intervenção assistencial') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'garantir que todos os pacientes sejam identificados por meio de pulseira com nome completo...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'padronizar a identificação do paciente com o número do prontuário, único identificador con...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'restringir a identificação do paciente a situações de administração de medicamentos e tran...'."
+      }
+    ],
+    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+  },
+  {
+    "codigo_origem": "Q4317377",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Garças - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Barra do Garças - MT -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Segurança do Paciente",
+    "enunciado": "Técnico em Enfermagem - SMS Um paciente admitido com suspeita de acidente vascular cerebral apresenta fala pouco articulada e assimetria facial. Mantém-se consciente, compreende comandos e solicita água, afirmando não ter dificuldade para engolir. Até que a segurança da deglutição seja estabelecida, a assistência deve incluir:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "oferta fracionada de água para verificar tolerância"
+      },
+      {
+        "id": "B",
+        "texto": "manutenção da restrição de ingestão por via oral"
+      },
+      {
+        "id": "C",
+        "texto": "administração de medicamentos orais com pequeno volume de líquido"
+      },
+      {
+        "id": "D",
+        "texto": "oferta de alimentos de consistência pastosa, por apresentarem menor risco de aspiração 44 Enfermagem > Legislação de Enfermagem , Lei do Exercício Profissional de Enfermagem , Assistência de Enfermagem em Feridas e Curativos Atenção Básica e Saúde da Família Banca: SELECON Órgão: Prefeitura de Barra do Garças - MT Prova: SELECON - 2026 - Prefeitura de Barra do Garças - MT -"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0043",
+    "numero_ordem": 43,
+    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'oferta fracionada de água para verificar tolerância...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manutenção da restrição de ingestão por via oral...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administração de medicamentos orais com pequeno volume de líquido...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'oferta de alimentos de consistência pastosa, por apresentarem menor risco de aspiração 44 ...'."
+      }
+    ],
+    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+  },
+  {
+    "codigo_origem": "Q3974343",
+    "banca": "SELECON",
+    "orgao": "EMGEPRON",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - EMGEPRON - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Segurança do Paciente",
+    "enunciado": "A Portaria n.º 529 instituiu o Programa Nacional de Segurança do Paciente (PNSP), cujo objetivo principal é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "organizar diretrizes gerais para melhoria da assistência hospitalar no país"
+      },
+      {
+        "id": "B",
+        "texto": "implantar ações voltadas à melhoria da qualidade assistencial nos serviços de saúde"
+      },
+      {
+        "id": "C",
+        "texto": "desenvolver estratégias institucionais de gestão de risco e implementar protocolos básicos de segurança do paciente"
+      },
+      {
+        "id": "D",
+        "texto": "contribuir para a qualificação do cuidado em saúde em todos os estabelecimentos do território nacional, por meio da prevenção e da redução da incidência de eventos adversos relacionados à assistência à saúde"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0093",
+    "numero_ordem": 93,
+    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'organizar diretrizes gerais para melhoria da assistência hospitalar no país...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'implantar ações voltadas à melhoria da qualidade assistencial nos serviços de saúde...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'desenvolver estratégias institucionais de gestão de risco e implementar protocolos básicos...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'contribuir para a qualificação do cuidado em saúde em todos os estabelecimentos do territó...'."
+      }
+    ],
+    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+  },
+  {
+    "codigo_origem": "Q3199755",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sinop - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Técnico de",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Segurança do Paciente",
+    "enunciado": "Enfermagem Após o técnico de enfermagem realizar a aspiração traqueal, o paciente apresenta sinais de desconforto, como aumento da frequência cardíaca e dificuldade para respirar. Considerando os cuidados necessários para garantir a segurança do paciente, a conduta do técnico responsável deve ser:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "administrar oxigênio imediatamente, monitorando a frequência cardíaca e respiratória, e realizar a aspiração novamente após 30 minutos"
+      },
+      {
+        "id": "B",
+        "texto": "reavaliar a saturação de oxigênio, monitorar os sinais vitais e proporcionar conforto respiratório, evitando novas aspirações desnecessárias"
+      },
+      {
+        "id": "C",
+        "texto": "solicitar o médico para uma nova avaliação, já que a aspiração traqueal pode causar complicações e o paciente precisa de observação contínua"
+      },
+      {
+        "id": "D",
+        "texto": "continuar a aspiração de secreções até que o paciente apresente melhora completa na respiração, sem a necessidade de monitoramento adicional"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0200",
+    "numero_ordem": 200,
+    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'reavaliar a saturação de oxigênio, monitorar os sinais vitais e proporcionar conforto resp...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'solicitar o médico para uma nova avaliação, já que a aspiração traqueal pode causar compli...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'continuar a aspiração de secreções até que o paciente apresente melhora completa na respir...'."
+      }
+    ],
+    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+  },
+  {
+    "codigo_origem": "Q3199748",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sinop - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Técnico de",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Segurança do Paciente",
+    "enunciado": "Enfermagem Com base nas diretrizes do Programa Nacional de Segurança do Paciente (PNSP), instituído pela Resolução RDC nº 36/2013 da ANVISA, a ação mais eficaz para minimizar os riscos de eventos adversos em ambientes hospitalares, considerando as práticas recomendadas para a segurança do paciente e os papéis dos profissionais de saúde, é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "a implementação de uma rotina de identificação verbal do paciente antes de procedimentos invasivos pode ser considerada sufi ciente para garantir a segurança, dispensando o uso de identificação por pulseira, especialmente em casos de urgência"
+      },
+      {
+        "id": "B",
+        "texto": "a priorização de protocolos de comunicação e a utilização de sistemas de verificação de medicamentos podem ser realizadas apenas em serviços de maior complexidade, uma vez que os protocolos são mais eficazes em ambientes com maior volume de pacientes"
+      },
+      {
+        "id": "C",
+        "texto": "a monitorização constante da segurança do paciente deve ser realizada somente após a ocorrência de eventos adversos, para garantir que as ações corretivas sejam efetivas e que os erros não se repitam, sem necessidade de estratégias preventivas contínuas"
+      },
+      {
+        "id": "D",
+        "texto": "a padronização de procedimentos e o uso de checklists de segurança, incluindo a verificação da identificação do paciente, a conferência de medicamentos e a correta realização de procedimentos, são fundamentais e devem ser sistematicamente aplicados por todos os membros da equipe, independentemente da gravidade do quadro do paciente"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0207",
+    "numero_ordem": 207,
+    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a implementação de uma rotina de identificação verbal do paciente antes de procedimentos i...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a priorização de protocolos de comunicação e a utilização de sistemas de verificação de me...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a monitorização constante da segurança do paciente deve ser realizada somente após a ocorr...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a padronização de procedimentos e o uso de checklists de segurança, incluindo a verificaçã...'."
+      }
+    ],
+    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+  },
+  {
+    "codigo_origem": "Q2480399",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Segurança do Paciente",
+    "enunciado": "Um plano de segurança do paciente em estabelecimentos de Saúde será mais preciso, se os Núcleos de Segurança do Paciente medirem a cultura de segurança existente neste serviço, sendo importante que se conheçam os fatores contribuintes, que podem ser de ordem:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "humana, sistêmica, externa, relacionada ao paciente"
+      },
+      {
+        "id": "B",
+        "texto": "individual, sistêmica, interna, relacionada ao paciente"
+      },
+      {
+        "id": "C",
+        "texto": "individual, coletiva, interna, externa"
+      },
+      {
+        "id": "D",
+        "texto": "humana, sistêmica, externa, interna"
+      },
+      {
+        "id": "E",
+        "texto": "sistêmica, externa, interna 379 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0298",
+    "numero_ordem": 298,
+    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'humana, sistêmica, externa, relacionada ao paciente...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'individual, sistêmica, interna, relacionada ao paciente...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'individual, coletiva, interna, externa...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'humana, sistêmica, externa, interna...'."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'sistêmica, externa, interna 379 Ano: 2024...'."
+      }
+    ],
+    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+  },
+  {
+    "codigo_origem": "Q2452994",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sapezal - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Segurança do Paciente",
+    "enunciado": "Um plano de segurança do paciente em estabelecimentos de Saúde será mais preciso, se os Núcleos de Segurança do Paciente medirem a cultura de segurança existente nesse serviço. Para a organização do plano, é importante que se conheçam os fatores contribuintes, que são circunstâncias, ações ou influências que desempenham um papel na origem ou no desenvolvimento de um incidente ou no aumento do risco de incidente. Estes fatores podem ser:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "individuais, coletivos, internos, externos"
+      },
+      {
+        "id": "B",
+        "texto": "humanos, sistêmicos, externos, internos"
+      },
+      {
+        "id": "C",
+        "texto": "humanos, sistêmicos, externos, relacionados ao paciente"
+      },
+      {
+        "id": "D",
+        "texto": "individuais, sistêmicos, internos, relacionados ao paciente 506 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0425",
+    "numero_ordem": 425,
+    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'individuais, coletivos, internos, externos...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'humanos, sistêmicos, externos, internos...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'humanos, sistêmicos, externos, relacionados ao paciente...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'individuais, sistêmicos, internos, relacionados ao paciente 506 Ano: 2024...'."
+      }
+    ],
+    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+  },
+  {
+    "codigo_origem": "Q2452988",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sapezal - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Segurança do Paciente",
+    "enunciado": "Em consultas, exames e procedimentos realizados em unidades de saúde públicas ou privadas, toda mulher tem o direito de fazer-se acompanhar por pessoa maior de idade, durante todo o período do atendimento, independentemente de notificação prévia. Tal direito foi garantido pelo seguinte instrumento legal:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Lei 8.142/1990"
+      },
+      {
+        "id": "B",
+        "texto": "Lei 12.401/2011"
+      },
+      {
+        "id": "C",
+        "texto": "Lei 12.466/2011"
+      },
+      {
+        "id": "D",
+        "texto": "Lei 14.737/2023 512 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0431",
+    "numero_ordem": 431,
+    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Lei 8.142/1990...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Lei 12.401/2011...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Lei 12.466/2011...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Lei 14.737/2023 512 Ano: 2024...'."
+      }
+    ],
+    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+  },
+  {
+    "codigo_origem": "Q3974326",
+    "banca": "SELECON",
+    "orgao": "EMGEPRON",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - EMGEPRON - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Segurança do Paciente",
+    "enunciado": "Em um serviço hospitalar que adota protocolo estruturado de classificação de risco, um paciente de 62 anos, diabético e hipertenso, procura atendimento referindo mal-estar súbito há uma hora, associado à epigastralgia em queimação, náuseas e sudorese discreta. Nega dor torácica típica. Encontra-se consciente, PA 138×86 mmHg, FC 96 bpm, FR 20 irpm e SpO2 95% em ar ambiente. Pele levemente fria. Considerando os princípios da classificação de risco, a segurança do paciente e a apresentação clínica das síndromes coronarianas, pode-se afirmar que a:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "ausência de dor torácica típica e de instabilidade hemodinâmica permite classificação intermediária, com reavaliação clínica periódica conforme fluxo assistencial da unidade"
+      },
+      {
+        "id": "B",
+        "texto": "estabilidade dos sinais vitais afasta, no primeiro momento, suspeita de condição tempo-dependente, podendo o paciente aguardar avaliação médica conforme disponibilidade"
+      },
+      {
+        "id": "C",
+        "texto": "presença de fatores de risco cardiovascular associada a sintomas atípicos impõe classificação como condição potencialmente tempo-dependente, com prioridade elevada para avaliação imediata"
+      },
+      {
+        "id": "D",
+        "texto": "definição da prioridade assistencial deve fundamentar-se principalmente nos parâmetros hemodinâmicos objetivos aferidos na triagem, sendo os sintomas inespecíficos considerados apenas como complementares na estratificação inicial de risco 107 Ano: 2026"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0446",
+    "numero_ordem": 446,
+    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ausência de dor torácica típica e de instabilidade hemodinâmica permite classificação inte...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'estabilidade dos sinais vitais afasta, no primeiro momento, suspeita de condição tempo-dep...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'definição da prioridade assistencial deve fundamentar-se principalmente nos parâmetros hem...'."
+      }
+    ],
+    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+  }
+]

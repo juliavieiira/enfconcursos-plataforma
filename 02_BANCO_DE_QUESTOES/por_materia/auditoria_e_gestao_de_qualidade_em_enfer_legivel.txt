@@ -1,0 +1,22 @@
+=== CADERNO DE QUESTÕES: AUDITORIA E GESTÃO DE QUALIDADE EM ENFERMAGEM ===
+Total: 1 questões
+
+QUESTÃO 1 [Código: EF0447] - EMGEPRON (SELECON 2026) - Técnico de Enfermagem
+Assunto: Auditoria e Gestão de Qualidade em Enfermagem
+Durante auditoria interna em hospital de médio porte, constatou-se que o enfermeiro responsável pela unidade clínica realiza histórico e exame físico completos, formula diagnósticos de enfermagem com base em classificação reconhecida, prescreve intervenções e registra sua implementação. Contudo, não há registro de análise evolutiva da resposta do paciente às intervenções realizadas, nem adequação formal do plano assistencial conforme os resultados obtidos. À luz da regulamentação profissional vigente e dos fundamentos do Processo de Enfermagem, pode-se afirmar que o(a):
+
+  [A] execução das etapas de coleta de dados, a formulação diagnóstica, o planejamento e a implementação suprem formalmente a estrutura do Processo de Enfermagem, podendo a avaliação clínica ser realizada de forma assistemática ou incorporada à rotina evolutiva, desde que não haja intercorrências que indiquem necessidade de replanejamento imediato
+  [B] Processo de Enfermagem foi executado de forma incompleta, pois a avaliação constitui etapa obrigatória, interdependente e determinante para a continuidade, a modificação ou o encerramento do plano de cuidados estabelecido
+  [C] ausência de avaliação configura falha predominantemente administrativa, restrita ao registro documental, não interferindo de maneira direta na qualidade e na segurança da assistência prestada
+  [D] avaliação pode ser realizada por qualquer membro da equipe de enfermagem, desde que sob supervisão do enfermeiro responsável técnico pela unidade 108 Ano: 2026
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'execução das etapas de coleta de dados, a formulação diagnóstica, o planejamento e a imple...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Processo de Enfermagem foi executado de forma incompleta, pois a avaliação constitui etapa...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ausência de avaliação configura falha predominantemente administrativa, restrita ao regist...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'avaliação pode ser realizada por qualquer membro da equipe de enfermagem, desde que sob su...'.
+
+------------------------------------------------------------
+

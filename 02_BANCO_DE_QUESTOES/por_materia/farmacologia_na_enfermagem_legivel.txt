@@ -1,0 +1,100 @@
+=== CADERNO DE QUESTÕES: FARMACOLOGIA NA ENFERMAGEM ===
+Total: 5 questões
+
+QUESTÃO 1 [Código: EF0102] - Prefeitura de Marcelândia - MT (SELECON 2025) - Enfermeiro
+Assunto: Farmacologia na Enfermagem , Doenças Infecciosas e parasitárias
+O vírus da imunodeficiência humana (HIV) apresenta um desafio persistente para a erradicação devido à sua capacidade de integrar seu genoma ao DNA do hospedeiro e estabelecer reservatórios virais latentes em células de memória. Essa característica biológica do HIV implica que a terapia antirretroviral (TARV) tem como principal objetivo:
+
+  [A] eliminar completamente o vírus do organismo do paciente, curando a infecção
+  [B] prevenir a replicação viral e restaurar a função imunológica, sem erradicar o vírus
+  [C] induzir uma resposta imune esterilizante que confere imunidade permanente
+  [D] modificar geneticamente as células do hospedeiro para torná-las intrinsecamente resistentes à infecção
+
+✅ Gabarito: 
+💡 Fundamentação: Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'eliminar completamente o vírus do organismo do paciente, curando a infecção...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'prevenir a replicação viral e restaurar a função imunológica, sem erradicar o vírus...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'induzir uma resposta imune esterilizante que confere imunidade permanente...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'modificar geneticamente as células do hospedeiro para torná-las intrinsecamente resistente...'.
+
+------------------------------------------------------------
+
+QUESTÃO 2 [Código: EF0129] - Prefeitura de Tapurah - MT (SELECON 2025) - Enfermeiro
+Assunto: Farmacologia na Enfermagem
+Um paciente em terapia anticoagulante crônica com varfarina, mantendo um INR (Índice Internacional Normalizado) estável na faixa terapêutica, inicia tratamento para tuberculose com rifampicina. A rifampicina é um conhecido e potente indutor do sistema enzimático citocromo P450 (CYP), especialmente da isoenzima CYP2C9, responsável pelo metabolismo da varfarina. A consequência farmacocinética esperada dessa interação medicamentosa é:
+
+  [A] um aumento da concentração plasmática da varfarina por inibição competitiva, elevando o risco de sangramento
+  [B] diminuição da absorção gastrointestinal da varfarina, resultando em subterapia por um mecanismo não relacionado ao metabolismo
+  [C] potencialização do efeito anticoagulante por sinergismo em nível de receptores da vitamina K, sem alteração na concentração do fármaco
+  [D] uma redução da concentração plasmática da varfarina devido à indução metabólica, exigindo um aumento da dose do anticoagulante para manter o efeito terapêutico 210 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'um aumento da concentração plasmática da varfarina por inibição competitiva, elevando o ri...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'diminuição da absorção gastrointestinal da varfarina, resultando em subterapia por um meca...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'potencialização do efeito anticoagulante por sinergismo em nível de receptores da vitamina...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'uma redução da concentração plasmática da varfarina devido à indução metabólica, exigindo ...'.
+
+------------------------------------------------------------
+
+QUESTÃO 3 [Código: EF0249] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Enfermeiro
+Assunto: Farmacologia na Enfermagem , Assistência de Enfermagem no Processo Nutricional
+Paciente de 68 anos, desnutrido, em uso de Varfarina, apresenta epistaxe e foi admitido ao setor para tratamento. A síntese adequada de fatores de coagulação desse indivíduo pode ter sido afetada pelo seguinte quadro clínico:
+
+  [A] deficiência de zinco
+  [B] trombocitemia primária
+  [C] deficiência de vitamina K
+  [D] reação hemolítica aguda 330 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme as Recomendações de Boas Práticas em Nutrição Enteral da BRASPEN e da ANVISA (RDC nº 63/2000), a prevenção da pneumonia por broncoaspiração em pacientes recebendo dieta por sonda enteral exige a manutenção da cabeceira elevada em ângulo de 30° a 45° durante toda a infusão e por no mínimo 30 a 60 minutos após o término da dieta, para garantir o esvaziamento gástrico seguro. A alternativa [] descreve exatamente essa conduta preconizada.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'deficiência de zinco...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'trombocitemia primária...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'deficiência de vitamina K...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'reação hemolítica aguda 330 Ano: 2024...'.
+
+------------------------------------------------------------
+
+QUESTÃO 4 [Código: EF0316] - SAD-MS (SELECON 2024) - Enfermeiro
+Assunto: Farmacologia na Enfermagem
+Os produtos para a saúde, utilizados em procedimentos invasivos com penetração de pele e mucosas adjacentes, tecidos subepteliais e sistema vascular, incluindo também todos os produtos para saúde que estejam diretamente conectados com esses sistemas são denominados:
+
+  [A] processáveis
+  [B] semicríticos
+  [C] não críticos
+  [D] complexos
+  [E] críticos 397 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: SAD-MS Prova: SELECON - 2024 - SAD-MS - Enfermeiro
+
+✅ Gabarito: 
+💡 Fundamentação: Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'processáveis...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'semicríticos...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'não críticos...'.
+   • Alternativa D: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'críticos 397 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Co...'.
+
+------------------------------------------------------------
+
+QUESTÃO 5 [Código: EF0500] - Prefeitura de Barra do Garças - MT (SELECON 2024) - Enfermeiro
+Assunto: Farmacologia na Enfermagem , Doenças Crônicas Não Transmissíveis
+A insuficiência cardíaca (IC) é uma síndrome clínica complexa, resultante de alterações estruturais ou funcionais do coração que comprometem sua capacidade de bombear sangue de forma eficaz. No manejo da IC com fração de ejeção reduzida (ICFEr), a terapia medicamentosa otimizada visa a modular sistemas neuro-hormonais e a melhorar o prognóstico. Dentre as classes de medicamentos que comprovadamente reduzem a morbimortalidade na ICFEr, uma combinação terapêutica de primeira linha, conforme as diretrizes atuais, inclui:
+
+  [A] inibidores da enzima conversora de angiotensina (IECA) ou bloqueadores do receptor de angiotensina (BRA), betabloqueadores e antagonistas do receptor de mineralocorticoide (ARM)
+  [B] bloqueadores dos canais de cálcio, nitratos de ação prolongada e digoxina
+  [C] diuréticos de alça, antiarrítmicos classe I e estatinas de alta intensidade
+  [D] vasodilatadores diretos, inibidores da fosfodiesterase-5 e agentes inotrópicos positivos
+
+✅ Gabarito: 
+💡 Fundamentação: Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'inibidores da enzima conversora de angiotensina (IECA) ou bloqueadores do receptor de angi...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'bloqueadores dos canais de cálcio, nitratos de ação prolongada e digoxina...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'diuréticos de alça, antiarrítmicos classe I e estatinas de alta intensidade...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vasodilatadores diretos, inibidores da fosfodiesterase-5 e agentes inotrópicos positivos...'.
+
+------------------------------------------------------------
+

@@ -1,0 +1,114 @@
+[
+  {
+    "codigo_origem": "Q2528692",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Técnico de Enfermagem",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Higiene nos Procedimentos de Enfermagem , Fundamentos e Procedimentos de Enfermagem",
+    "enunciado": "A higiene é um elemento fundamental no autocuidado do paciente hospitalizado que, por muitas vezes, necessita da assistência da equipe de enfermagem. Em relação ao paciente acamado, é recomendado o banho de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "imersão"
+      },
+      {
+        "id": "B",
+        "texto": "aspersão"
+      },
+      {
+        "id": "C",
+        "texto": "ablusão"
+      },
+      {
+        "id": "D",
+        "texto": "leito"
+      },
+      {
+        "id": "E",
+        "texto": "chuveiro 337 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0256",
+    "numero_ordem": 256,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'chuveiro 337 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3810637",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Garças - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Higiene nos Procedimentos de Enfermagem , Fundamentos e Procedimentos de Enfermagem",
+    "enunciado": "Técnico em Enfermagem Durante o banho no leito, uma prática essencial para minimizar o risco de contaminação cruzada e preservar a segurança do paciente é seguir a sequência correta de higiene. De acordo com os princípios de limpeza, a conduta adequada consiste em:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "realizar a limpeza sempre no sentido céfalo-caudal, começando pela face"
+      },
+      {
+        "id": "B",
+        "texto": "executar a higiene perineal somente após a limpeza das demais regiões corporais"
+      },
+      {
+        "id": "C",
+        "texto": "lavar primeiro as áreas de maior carga microbiana, para reduzir o tempo total do procedimento"
+      },
+      {
+        "id": "D",
+        "texto": "iniciar o banho pelas extremidades inferiores, independentemente do grau de sujidade"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0480",
+    "numero_ordem": 480,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar a limpeza sempre no sentido céfalo-caudal, começando pela face...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'executar a higiene perineal somente após a limpeza das demais regiões corporais...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'lavar primeiro as áreas de maior carga microbiana, para reduzir o tempo total do procedime...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'iniciar o banho pelas extremidades inferiores, independentemente do grau de sujidade...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  }
+]

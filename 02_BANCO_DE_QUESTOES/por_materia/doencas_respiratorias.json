@@ -1,0 +1,114 @@
+[
+  {
+    "codigo_origem": "Q2480406",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Doenças Respiratórias , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "“Indivíduo de qualquer idade com doença respiratória aguda caracterizada por febre superior a 38°C, tosse e dispneia, acompanhada ou não de manifestações gastrointestinais ou dos seguintes sinais e sintomas: aumento da frequência respiratória (>25 IRPM – incursões respiratórias por minuto), hipotensão em relação à pressão arterial habitual do paciente”. O excerto conduz a um quadro, comumente apresentado, por paciente que contraiu:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "H1N1"
+      },
+      {
+        "id": "B",
+        "texto": "covid"
+      },
+      {
+        "id": "C",
+        "texto": "dengue"
+      },
+      {
+        "id": "D",
+        "texto": "pneumonia"
+      },
+      {
+        "id": "E",
+        "texto": "síndrome respiratória aguda grave 372 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0291",
+    "numero_ordem": 291,
+    "fundamentacao_correta": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'síndrome respiratória aguda grave 372 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para ..."
+  },
+  {
+    "codigo_origem": "Q3884074",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Doenças Respiratórias , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "MT - Enfermeiro A doença pulmonar obstrutiva crônica (DPOC) é caracterizada por limitação persistente ao fluxo aéreo, geralmente progressiva e associada à resposta inflamatória crônica das vias aéreas e do parênquima pulmonar. O exame considerado padrão-ouro para seu diagnóstico e avaliação de gravidade é a:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "radiografia de tórax"
+      },
+      {
+        "id": "B",
+        "texto": "tomografia computadorizada de alta resolução de tórax"
+      },
+      {
+        "id": "C",
+        "texto": "espirometria com prova broncodilatadora"
+      },
+      {
+        "id": "D",
+        "texto": "gasometria arterial 129 Ano: 2026"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0468",
+    "numero_ordem": 468,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'radiografia de tórax...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tomografia computadorizada de alta resolução de tórax...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'espirometria com prova broncodilatadora...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'gasometria arterial 129 Ano: 2026...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  }
+]

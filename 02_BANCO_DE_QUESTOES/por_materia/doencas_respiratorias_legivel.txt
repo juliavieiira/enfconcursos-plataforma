@@ -1,0 +1,43 @@
+=== CADERNO DE QUESTÕES: DOENÇAS RESPIRATÓRIAS ===
+Total: 2 questões
+
+QUESTÃO 1 [Código: EF0291] - SAD-MS (SELECON 2024) - Enfermeiro
+Assunto: Doenças Respiratórias , Doenças Crônicas Não Transmissíveis
+“Indivíduo de qualquer idade com doença respiratória aguda caracterizada por febre superior a 38°C, tosse e dispneia, acompanhada ou não de manifestações gastrointestinais ou dos seguintes sinais e sintomas: aumento da frequência respiratória (>25 IRPM – incursões respiratórias por minuto), hipotensão em relação à pressão arterial habitual do paciente”. O excerto conduz a um quadro, comumente apresentado, por paciente que contraiu:
+
+  [A] H1N1
+  [B] covid
+  [C] dengue
+  [D] pneumonia
+  [E] síndrome respiratória aguda grave 372 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa D: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'síndrome respiratória aguda grave 372 Ano: 2024...'.
+
+------------------------------------------------------------
+
+QUESTÃO 2 [Código: EF0468] - Prefeitura de Porto dos Gaúchos - MT (SELECON 2026) - Enfermeiro
+Assunto: Doenças Respiratórias , Doenças Crônicas Não Transmissíveis
+MT - Enfermeiro A doença pulmonar obstrutiva crônica (DPOC) é caracterizada por limitação persistente ao fluxo aéreo, geralmente progressiva e associada à resposta inflamatória crônica das vias aéreas e do parênquima pulmonar. O exame considerado padrão-ouro para seu diagnóstico e avaliação de gravidade é a:
+
+  [A] radiografia de tórax
+  [B] tomografia computadorizada de alta resolução de tórax
+  [C] espirometria com prova broncodilatadora
+  [D] gasometria arterial 129 Ano: 2026
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'radiografia de tórax...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tomografia computadorizada de alta resolução de tórax...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'espirometria com prova broncodilatadora...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'gasometria arterial 129 Ano: 2026...'.
+
+------------------------------------------------------------
+

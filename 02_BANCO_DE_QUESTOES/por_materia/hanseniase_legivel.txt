@@ -1,0 +1,43 @@
+=== CADERNO DE QUESTÕES: HANSENÍASE ===
+Total: 2 questões
+
+QUESTÃO 1 [Código: EF0287] - SAD-MS (SELECON 2024) - Enfermeiro
+Assunto: Hanseníase , Doenças Infecciosas e parasitárias
+A hanseníase é uma doença infecciosa causada por Mycobacterium leprae, sendo endêmica no Brasil e em outros países do mundo. Este agente etiológico é considerado uma micobactéria não tuberculosa e tem seu crescimento laboratorial:
+
+  [A] in vivo por meio da inoculação em galinhas
+  [B] in vitro por meio da inoculação em ágar TCBS
+  [C] in vivo por meio da inoculação em camundongos
+  [D] in vitro por meio da inoculação em ágar Ogawa-Kudoh
+  [E] in vitro por meio da inoculação em ágar sangue de carneiro 368 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'in vivo por meio da inoculação em galinhas...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'in vitro por meio da inoculação em ágar TCBS...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'in vivo por meio da inoculação em camundongos...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'in vitro por meio da inoculação em ágar Ogawa-Kudoh...'.
+   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'in vitro por meio da inoculação em ágar sangue de carneiro 368 Ano: 2024...'.
+
+------------------------------------------------------------
+
+QUESTÃO 2 [Código: EF0462] - Prefeitura de Porto dos Gaúchos - MT (SELECON 2026) - Enfermeiro
+Assunto: Hanseníase , Doenças Infecciosas e parasitárias
+MT - Enfermeiro A hanseníase é uma doença infectocontagiosa crônica causada pelo Mycobacterium leprae. Em relação às suas formas clínicas e transmissibilidade, é correto afirmar que:
+
+  [A] todas as formas clínicas são igualmente contagiosas desde o início dos sintomas
+  [B] apenas a forma virchowiana (indeterminada) é considerada transmissível
+  [C] a forma dimorfa e a forma virchowiana são as mais transmissíveis devido à alta carga bacilar
+  [D] a forma tuberculoide paucibacilar é pouco transmissível, enquanto a forma virchowiana multibacilar é a mais transmissível 123 Ano: 2026
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'todas as formas clínicas são igualmente contagiosas desde o início dos sintomas...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'apenas a forma virchowiana (indeterminada) é considerada transmissível...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a forma dimorfa e a forma virchowiana são as mais transmissíveis devido à alta carga bacil...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a forma tuberculoide paucibacilar é pouco transmissível, enquanto a forma virchowiana mult...'.
+
+------------------------------------------------------------
+

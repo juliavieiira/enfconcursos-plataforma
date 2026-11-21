@@ -1,0 +1,83 @@
+=== CADERNO DE QUESTÕES: ENFERMAGEM EM ONCOLOGIA ===
+Total: 4 questões
+
+QUESTÃO 1 [Código: EF0049] - Prefeitura de Barra do Garças - MT (SELECON 2026) - Técnico de Enfermagem
+Assunto: Enfermagem em Oncologia , Segurança do Paciente
+Técnico em Enfermagem - SMS A neutropenia decorrente do tratamento antineoplásico exige cuidados destinados à redução do risco infeccioso e à preservação da integridade das barreiras cutaneomucosas. No cuidado ao paciente neutropênico, deve-se evitar:
+
+  [A] inspeção da pele
+  [B] higiene da região perineal
+  [C] avaliação visual da região perianal
+  [D] introdução de termômetro por via retal para aferição da temperatura
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'inspeção da pele...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'higiene da região perineal...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'avaliação visual da região perianal...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'introdução de termômetro por via retal para aferição da temperatura...'.
+
+------------------------------------------------------------
+
+QUESTÃO 2 [Código: EF0295] - SAD-MS (SELECON 2024) - Enfermeiro
+Assunto: Enfermagem em Oncologia
+Grande parte da não adesão às medidas de atenção integral, por parte do homem, decorre das variáveis culturais. Os estereótipos de gênero, enraizados há séculos em nossa cultura patriarcal, potencializam práticas baseadas em crenças e valores do que é ser masculino. Neste cenário, o câncer de próstata é o segundo mais comum entre os homens (atrás apenas do câncer de pele não melanoma). Quanto à classificação e o estadiamento, temos o Estádio TNM, no qual cada letra significa respectivamente:
+
+  [A] tumor, nódulo, metástase
+  [B] tumor, linfonodo, medicado
+  [C] tumor, linfonodo, metástase
+  [D] tumor benigno, tumor maligno, metástase
+  [E] tumor, linfonodo, tumor maligno, metástase 376 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tumor, nódulo, metástase...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tumor, linfonodo, medicado...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tumor, linfonodo, metástase...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tumor benigno, tumor maligno, metástase...'.
+   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tumor, linfonodo, tumor maligno, metástase 376 Ano: 2024...'.
+
+------------------------------------------------------------
+
+QUESTÃO 3 [Código: EF0306] - SAD-MS (SELECON 2024) - Enfermeiro
+Assunto: Enfermagem em Oncologia
+O câncer de mama é o tipo mais frequente na mulher brasileira. Toda mulher com 40 anos ou mais de idade deve procurar um ambulatório, centro ou posto de saúde para realizar o exame clínico das mamas anualmente. Além disso, toda mulher, entre 50 e 69 anos deve fazer pelo menos uma mamografia a cada dois anos e, se uma pessoa da família – principalmente a mãe, irmã ou filha – teve essa doença antes dos 50 anos de idade, a mulher tem mais chances de ter um câncer de mama. Quem já teve câncer em uma das mamas ou câncer de ovário, em qualquer idade, também deve ficar atenta. As mulheres com maior risco de ter o câncer de mama devem tomar cuidados especiais, fazendo, a partir dos 35 anos de idade, o exame clínico das mamas e a mamografia:
+
+  [A] a cada 6 meses
+  [B] 1 vez por ano
+  [C] a cada 2 anos
+  [D] a cada 3 anos
+  [E] a cada 4 anos 387 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a cada 6 meses...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '1 vez por ano...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a cada 2 anos...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a cada 3 anos...'.
+   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a cada 4 anos 387 Ano: 2024...'.
+
+------------------------------------------------------------
+
+QUESTÃO 4 [Código: EF0335] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+Assunto: Enfermagem em Oncologia
+Na infância e na adolescência, o câncer pode apresentar sintomas de muitas outras doenças infanto-juvenis benignas, atrasando o diagnóstico. Essa etapa da vida é uma fase de desenvolvimento, na qual as células se dividem com maior velocidade, ocorrendo tanto um rápido avanço do câncer como uma resposta melhor ao tratamento. O diagnóstico é muito importante para o sucesso do tratamento e para a obtenção da cura total. Assim, se o câncer pediátrico não é prevenível, a ênfase atual deve ser dada ao seu diagnóstico:
+
+  [A] precoce
+  [B] diferencial
+  [C] laboratorial
+  [D] multiprofissional 416 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'diferencial...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'laboratorial...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'multiprofissional 416 Ano: 2024...'.
+
+------------------------------------------------------------
+

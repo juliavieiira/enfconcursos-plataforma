@@ -1,0 +1,226 @@
+[
+  {
+    "codigo_origem": "Q4317370",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Garças - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Barra do Garças - MT -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em Oncologia , Segurança do Paciente",
+    "enunciado": "Técnico em Enfermagem - SMS A neutropenia decorrente do tratamento antineoplásico exige cuidados destinados à redução do risco infeccioso e à preservação da integridade das barreiras cutaneomucosas. No cuidado ao paciente neutropênico, deve-se evitar:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "inspeção da pele"
+      },
+      {
+        "id": "B",
+        "texto": "higiene da região perineal"
+      },
+      {
+        "id": "C",
+        "texto": "avaliação visual da região perianal"
+      },
+      {
+        "id": "D",
+        "texto": "introdução de termômetro por via retal para aferição da temperatura"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0049",
+    "numero_ordem": 49,
+    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'inspeção da pele...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'higiene da região perineal...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'avaliação visual da região perianal...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'introdução de termômetro por via retal para aferição da temperatura...'."
+      }
+    ],
+    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+  },
+  {
+    "codigo_origem": "Q2480402",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em Oncologia",
+    "enunciado": "Grande parte da não adesão às medidas de atenção integral, por parte do homem, decorre das variáveis culturais. Os estereótipos de gênero, enraizados há séculos em nossa cultura patriarcal, potencializam práticas baseadas em crenças e valores do que é ser masculino. Neste cenário, o câncer de próstata é o segundo mais comum entre os homens (atrás apenas do câncer de pele não melanoma). Quanto à classificação e o estadiamento, temos o Estádio TNM, no qual cada letra significa respectivamente:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "tumor, nódulo, metástase"
+      },
+      {
+        "id": "B",
+        "texto": "tumor, linfonodo, medicado"
+      },
+      {
+        "id": "C",
+        "texto": "tumor, linfonodo, metástase"
+      },
+      {
+        "id": "D",
+        "texto": "tumor benigno, tumor maligno, metástase"
+      },
+      {
+        "id": "E",
+        "texto": "tumor, linfonodo, tumor maligno, metástase 376 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0295",
+    "numero_ordem": 295,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tumor, nódulo, metástase...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tumor, linfonodo, medicado...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tumor, linfonodo, metástase...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tumor benigno, tumor maligno, metástase...'."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tumor, linfonodo, tumor maligno, metástase 376 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q2480391",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em Oncologia",
+    "enunciado": "O câncer de mama é o tipo mais frequente na mulher brasileira. Toda mulher com 40 anos ou mais de idade deve procurar um ambulatório, centro ou posto de saúde para realizar o exame clínico das mamas anualmente. Além disso, toda mulher, entre 50 e 69 anos deve fazer pelo menos uma mamografia a cada dois anos e, se uma pessoa da família – principalmente a mãe, irmã ou filha – teve essa doença antes dos 50 anos de idade, a mulher tem mais chances de ter um câncer de mama. Quem já teve câncer em uma das mamas ou câncer de ovário, em qualquer idade, também deve ficar atenta. As mulheres com maior risco de ter o câncer de mama devem tomar cuidados especiais, fazendo, a partir dos 35 anos de idade, o exame clínico das mamas e a mamografia:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "a cada 6 meses"
+      },
+      {
+        "id": "B",
+        "texto": "1 vez por ano"
+      },
+      {
+        "id": "C",
+        "texto": "a cada 2 anos"
+      },
+      {
+        "id": "D",
+        "texto": "a cada 3 anos"
+      },
+      {
+        "id": "E",
+        "texto": "a cada 4 anos 387 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0306",
+    "numero_ordem": 306,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a cada 6 meses...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '1 vez por ano...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a cada 2 anos...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a cada 3 anos...'."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a cada 4 anos 387 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q2477213",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Água Boa - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Água Boa - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em Oncologia",
+    "enunciado": "Na infância e na adolescência, o câncer pode apresentar sintomas de muitas outras doenças infanto-juvenis benignas, atrasando o diagnóstico. Essa etapa da vida é uma fase de desenvolvimento, na qual as células se dividem com maior velocidade, ocorrendo tanto um rápido avanço do câncer como uma resposta melhor ao tratamento. O diagnóstico é muito importante para o sucesso do tratamento e para a obtenção da cura total. Assim, se o câncer pediátrico não é prevenível, a ênfase atual deve ser dada ao seu diagnóstico:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "precoce"
+      },
+      {
+        "id": "B",
+        "texto": "diferencial"
+      },
+      {
+        "id": "C",
+        "texto": "laboratorial"
+      },
+      {
+        "id": "D",
+        "texto": "multiprofissional 416 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0335",
+    "numero_ordem": 335,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'diferencial...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'laboratorial...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'multiprofissional 416 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  }
+]

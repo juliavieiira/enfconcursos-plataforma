@@ -1,0 +1,98 @@
+=== CADERNO DE QUESTÕES: DENGUE ===
+Total: 5 questões
+
+QUESTÃO 1 [Código: EF0221] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
+Assunto: Dengue , Doenças Infecciosas e parasitárias
+Uma paciente de 28 anos, com histórico recente de febre alta e dor muscular intensa, procura atendimento médico após 4 dias de evolução. Ao exame físico, observa-se hipersensibilidade abdominal, sangramentos nas gengivas e petéquias disseminadas, além de sinais de hipotensão. Os exames laboratoriais indicam plaquetopenia severa e aumento da hematócrito. Diante do quadro suspeito de dengue hemorrágica, o manejo inicial do paciente, considerando os riscos imediatos da doença, deve ser:
+
+  [A] iniciar a administração de soluções isotônicas intravenosas, monitorar a pressão arterial, a diurese e os sinais de sangramento, com especial atenção ao risco de choque hipovolêmico
+  [B] iniciar infusão de plasma fresco congelado, monitorar a saturação de oxigênio e administrar antipiréticos para controle da febre
+  [C] suspender a reposição volêmica e iniciar a infusão de hemoderivados, além de iniciar a monitorização laboratorial constante
+  [D] administrar antibióticos de amplo espectro, realizar transfusão de plaquetas e iniciar a terapia de suporte com oxigênio 302 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'iniciar a administração de soluções isotônicas intravenosas, monitorar a pressão arterial,...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'iniciar infusão de plasma fresco congelado, monitorar a saturação de oxigênio e administra...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'suspender a reposição volêmica e iniciar a infusão de hemoderivados, além de iniciar a mon...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administrar antibióticos de amplo espectro, realizar transfusão de plaquetas e iniciar a t...'.
+
+------------------------------------------------------------
+
+QUESTÃO 2 [Código: EF0239] - Prefeitura de Sinop - MT (SELECON 2024) - Enfermeiro
+Assunto: Dengue , Doenças Infecciosas e parasitárias
+Uma doença febril aguda, de etiologia viral e de evolução benígna na forma clássica, e grave quando se apresenta na forma hemorrágica, considerada uma arbovirose, que tem o Aedes aegypti como mosquito vetor, é conhecida como:
+
+  [A] gripe
+  [B] dengue
+  [C] filariose
+  [D] toxoplasmose 320 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'toxoplasmose 320 Ano: 2024...'.
+
+------------------------------------------------------------
+
+QUESTÃO 3 [Código: EF0374] - Prefeitura de Água Boa - MT (SELECON 2024) - Técnico de Enfermagem
+Assunto: Dengue , Doenças Infecciosas e parasitárias
+Enfermagem É uma doença febril aguda, sistêmica, dinâmica, debilitante e autolimitada. Os sintomas iniciais são: febre, dor de cabeça, prostração, dores musculares e/ou articulares e dor atrás dos olhos. Essas informações referem-se à:
+
+  [A] febre amarela
+  [B] pneumonia
+  [C] malária
+  [D] dengue
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'febre amarela...'.
+   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa D: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+
+------------------------------------------------------------
+
+QUESTÃO 4 [Código: EF0384] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+Assunto: Dengue , Doenças Infecciosas e parasitárias
+Administrativo - Saúde/40h Em um município brasileiro, observa-se um aumento significativo no número de casos de dengue nos últimos meses. A equipe de Vigilância Epidemiológica local investiga a situação e identifica diversos focos do mosquito Aedes aegypti, transmissor da doença. Diante do exposto, a medida mais importante para controlar o surto de dengue no município é:
+
+  [A] realizar campanhas de conscientização sobre os sintomas da dengue e a importância da busca por atendimento médico imediato
+  [B] eliminar os criadouros do mosquito Aedes aegypti, como água parada em recipientes e pneus usados
+  [C] aplicar inseticida em todas as áreas do município para eliminar o mosquito Aedes aegypti
+  [D] distribuir repelentes de mosquitos gratuitamente para a população 465 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar campanhas de conscientização sobre os sintomas da dengue e a importância da busca...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'eliminar os criadouros do mosquito Aedes aegypti, como água parada em recipientes e pneus ...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aplicar inseticida em todas as áreas do município para eliminar o mosquito Aedes aegypti...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'distribuir repelentes de mosquitos gratuitamente para a população 465 Ano: 2024...'.
+
+------------------------------------------------------------
+
+QUESTÃO 5 [Código: EF0430] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
+Assunto: Dengue , Doenças Infecciosas e parasitárias , Outras Doenças Infecciosas e Parasitárias
+O momento é de intensificar os esforços e as medidas de prevenção, por parte de todos, para reduzir a transmissão da doença. A principal medida é a eliminação dos criadouros do mosquito – 75% deles localizados dentro e no entorno dos domicílios. Daí a importância de receber os agentes de combate a endemias e os agentes comunitários de saúde, que vão ajudar a encontrar e eliminar possíveis criadouros. Tal afirmativa refere-se à:
+
+  [A] Malária
+  [B] Dengue
+  [C] Covid
+  [D] Leishmaniose 511 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Leishmaniose 511 Ano: 2024...'.
+
+------------------------------------------------------------
+

@@ -1,0 +1,54 @@
+[
+  {
+    "codigo_origem": "Q3974325",
+    "banca": "SELECON",
+    "orgao": "EMGEPRON",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - EMGEPRON - Enfermeiro",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Auditoria e Gestão de Qualidade em Enfermagem",
+    "enunciado": "Durante auditoria interna em hospital de médio porte, constatou-se que o enfermeiro responsável pela unidade clínica realiza histórico e exame físico completos, formula diagnósticos de enfermagem com base em classificação reconhecida, prescreve intervenções e registra sua implementação. Contudo, não há registro de análise evolutiva da resposta do paciente às intervenções realizadas, nem adequação formal do plano assistencial conforme os resultados obtidos. À luz da regulamentação profissional vigente e dos fundamentos do Processo de Enfermagem, pode-se afirmar que o(a):",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "execução das etapas de coleta de dados, a formulação diagnóstica, o planejamento e a implementação suprem formalmente a estrutura do Processo de Enfermagem, podendo a avaliação clínica ser realizada de forma assistemática ou incorporada à rotina evolutiva, desde que não haja intercorrências que indiquem necessidade de replanejamento imediato"
+      },
+      {
+        "id": "B",
+        "texto": "Processo de Enfermagem foi executado de forma incompleta, pois a avaliação constitui etapa obrigatória, interdependente e determinante para a continuidade, a modificação ou o encerramento do plano de cuidados estabelecido"
+      },
+      {
+        "id": "C",
+        "texto": "ausência de avaliação configura falha predominantemente administrativa, restrita ao registro documental, não interferindo de maneira direta na qualidade e na segurança da assistência prestada"
+      },
+      {
+        "id": "D",
+        "texto": "avaliação pode ser realizada por qualquer membro da equipe de enfermagem, desde que sob supervisão do enfermeiro responsável técnico pela unidade 108 Ano: 2026"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0447",
+    "numero_ordem": 447,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'execução das etapas de coleta de dados, a formulação diagnóstica, o planejamento e a imple...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Processo de Enfermagem foi executado de forma incompleta, pois a avaliação constitui etapa...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ausência de avaliação configura falha predominantemente administrativa, restrita ao regist...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'avaliação pode ser realizada por qualquer membro da equipe de enfermagem, desde que sob su...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  }
+]

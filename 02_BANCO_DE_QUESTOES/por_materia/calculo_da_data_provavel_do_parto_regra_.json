@@ -1,0 +1,57 @@
+[
+  {
+    "id": "q-pref-007",
+    "banca": "RBO",
+    "orgao": "Prefeitura de Osasco - SP",
+    "ano": 2023,
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Saúde da Mulher",
+    "assunto": "Cálculo da Data Provável do Parto (Regra de Nägele)",
+    "enunciado": "Durante uma consulta de pré-natal na Unidade de Saúde da Família, a gestante informa que a Data da Última Menstruação (DUM) foi no dia 15 de março de 2024. Aplicando a Regra de Nägele, a Data Provável do Parto (DPP) desta gestante será:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "22 de dezembro de 2024."
+      },
+      {
+        "id": "B",
+        "texto": "22 de novembro de 2024."
+      },
+      {
+        "id": "C",
+        "texto": "15 de dezembro de 2024."
+      },
+      {
+        "id": "D",
+        "texto": "08 de janeiro de 2025."
+      },
+      {
+        "id": "E",
+        "texto": "22 de janeiro de 2025."
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Pela Regra de Nägele (Manual de Atenção ao Pré-natal do Ministério da Saúde): adiciona-se 7 ao dia da DUM; e para os meses de janeiro a março (meses 1, 2 e 3), adiciona-se 9 ao mês (mantendo o mesmo ano). Cálculo: Dia = 15 + 7 = 22. Mês = 3 (março) + 9 = 12 (dezembro). Ano = 2024. Logo, DPP = 22 de dezembro de 2024.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "22 de novembro de 2024 seria o cálculo errôneo somando apenas 8 meses em vez de 9."
+      },
+      {
+        "letra": "C",
+        "motivo": "15 de dezembro comete o erro de somar apenas os meses e esquecer de adicionar 7 dias ao dia da DUM."
+      },
+      {
+        "letra": "D",
+        "motivo": "08 de janeiro resultaria de uma subtração errônea de dias ou adição incorreta de 10 meses."
+      },
+      {
+        "letra": "E",
+        "motivo": "22 de janeiro de 2025 consideraria um ciclo gestacional de 10 meses de calendário em vez de 40 semanas."
+      }
+    ],
+    "comentario": "Regra de Nägele: Dia + 7 e Mês + 9 (para Jan a Mar). 15+7=22 de Dezembro de 2024.",
+    "dificuldade": "Média",
+    "relevancia_prefeitura": "Alta"
+  }
+]

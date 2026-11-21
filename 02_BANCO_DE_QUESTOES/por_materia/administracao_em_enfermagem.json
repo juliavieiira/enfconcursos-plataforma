@@ -1,0 +1,166 @@
+[
+  {
+    "codigo_origem": "Q3974334",
+    "banca": "SELECON",
+    "orgao": "EMGEPRON",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - EMGEPRON - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração em Enfermagem",
+    "enunciado": "No contexto da gestão de enfermagem, o enfermeiro estimula a participação ativa da equipe nas decisões assistenciais, incentiva o desenvolvimento profissional, promove feedback contínuo e mobiliza os profissionais em torno de uma visão compartilhada para melhoria dos resultados. Esse estilo de liderança corresponde ao modelo",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "autocrático"
+      },
+      {
+        "id": "B",
+        "texto": "burocrático"
+      },
+      {
+        "id": "C",
+        "texto": "laissez-faire"
+      },
+      {
+        "id": "D",
+        "texto": "transformacional"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0099",
+    "numero_ordem": 99,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'autocrático...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'burocrático...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'laissez-faire...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'transformacional...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q2496169",
+    "banca": "SELECON",
+    "orgao": "COREN-RR",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - COREN-RR - Analista Administrativo - Enfermeiro Fiscal",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração em Enfermagem",
+    "enunciado": "O Conselho de Saúde, em caráter permanente e deliberativo, órgãocolegiadoqueatuanaformulaçãodeestratégiasenocontrole da execução da política de saúde na instância correspondente, inclusive nos aspectos econômicos e financeiros, cujas decisões serão homologadas pelo chefe do poder legalmente constituído em cada esfera do governo, é composto por representantes do governo, prestadores de serviço, profissionais de saúde e:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "políticos"
+      },
+      {
+        "id": "B",
+        "texto": "usuários"
+      },
+      {
+        "id": "C",
+        "texto": "hospitais"
+      },
+      {
+        "id": "D",
+        "texto": "laboratórios 354 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0273",
+    "numero_ordem": 273,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'laboratórios 354 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q2472177",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Auxiliar de Serviços Hospitalares",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração em Enfermagem , Liderança em Enfermagem",
+    "enunciado": "O trabalho em equipe requer que todos exercitem suas habilidades de comunicação, evitando ruídos que possam causar conflitos nas relações. Para isso, é importante comunicar-se de forma assertiva, tendo em vista algumas habilidades de comportamento comunicacional que facilitem a compreensão da mensagem pelo outro e tornem o processo mais claro, objetivo e honesto. Uma maneira de certificar-se de que a mensagem foi entendida conforme esperado é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "falar mais alto até ser entendido"
+      },
+      {
+        "id": "B",
+        "texto": "fazer perguntas retóricas sempre que necessário"
+      },
+      {
+        "id": "C",
+        "texto": "solicitar que outras pessoas falem a sua mensagem"
+      },
+      {
+        "id": "D",
+        "texto": "fazer leitura facial da pessoa que está ouvindo a mensagem"
+      },
+      {
+        "id": "E",
+        "texto": "verificar o que foi entendido pelo outro, através da repetição 442 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0361",
+    "numero_ordem": 361,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'falar mais alto até ser entendido...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'fazer perguntas retóricas sempre que necessário...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'solicitar que outras pessoas falem a sua mensagem...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'fazer leitura facial da pessoa que está ouvindo a mensagem...'."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'verificar o que foi entendido pelo outro, através da repetição 442 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  }
+]

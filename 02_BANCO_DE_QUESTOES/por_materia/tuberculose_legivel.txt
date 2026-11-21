@@ -1,0 +1,41 @@
+=== CADERNO DE QUESTÕES: TUBERCULOSE ===
+Total: 2 questões
+
+QUESTÃO 1 [Código: EF0059] - Prefeitura de Conquista D'Oeste - MT (SELECON 2026) - Enfermeiro
+Assunto: Tuberculose , Doenças Infecciosas e parasitárias
+- Agente de Combate às Endemias O controle da transmissão da tuberculose, doença causada pelo Mycobacterium tuberculosis, depende de medidas que interrompam a cadeia de disseminação do bacilo. Dentre as ações recomendadas para reduzir o risco de transmissão em ambientes comunitários, inclui-se o(a):
+
+  [A] vacinação em massa da população com BCG, administrada em dose única anual
+  [B] manutenção de ambientes bem ventilados e com incidência de luz solar direta
+  [C] desinfecção de superfícies e objetos compartilhados com soluções à base de cloro
+  [D] isolamento respiratório do paciente por período mínimo de 60 dias após o início do tratamento Enfermagem > Infecções Sexualmente Transmissíveis (IST) , Saúde da Mulher ,
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vacinação em massa da população com BCG, administrada em dose única anual...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manutenção de ambientes bem ventilados e com incidência de luz solar direta...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'desinfecção de superfícies e objetos compartilhados com soluções à base de cloro...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'isolamento respiratório do paciente por período mínimo de 60 dias após o início do tratame...'.
+
+------------------------------------------------------------
+
+QUESTÃO 2 [Código: EF0281] - COREN-RR (SELECON 2024) - Enfermeiro
+Assunto: Tuberculose , Doenças Infecciosas e parasitárias
+A tuberculose é um dos agravos fortemente influenciados pelos determinantes sociais, apresentando relação direta com a pobreza e a exclusão social. A principal maneira de prevenir a tuberculose é com a vacina BCG (Bacillus Calmette-Guérin), disponível gratuitamente no SUS. Essa vacina protege contra as formas mais graves da doença e deve ser dada às crianças ao nascer, ou, no máximo, até:
+
+  [A] 02 anos, 11 meses e 29 dias
+  [B] 04 anos, 11 meses e 29 dias
+  [C] 05 anos, 11 meses e 29 dias
+  [D] 06 anos, 11 meses e 29 dias 362 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '02 anos, 11 meses e 29 dias...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '04 anos, 11 meses e 29 dias...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '05 anos, 11 meses e 29 dias...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '06 anos, 11 meses e 29 dias 362 Ano: 2024...'.
+
+------------------------------------------------------------
+

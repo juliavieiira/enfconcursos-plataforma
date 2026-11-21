@@ -1,0 +1,1458 @@
+[
+  {
+    "codigo_origem": "Q4445449",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Nova Mutum - MT - Técnico",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos , Cálculo de Solução e Medicamentos",
+    "enunciado": "Uma prescrição determina a administração intravenosa de 600 mg de um medicamento, disponível em frasco-ampola contendo 1g. Após a reconstituição, conforme as orientações do fabricante, o volume final da solução é de 5 mL. A dose prescrita deverá ser adicionada a uma solução diluente, obtendo-se volume final de 100 mL, para infusão em 40 minutos, por equipo macrogotas calibrado para 20 gotas/mL. De acordo com os dados apresentados, o volume do medicamento reconstituído a ser aspirado e a velocidade de infusão, respectivamente, são:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "2 mL e 40 gotas/minuto"
+      },
+      {
+        "id": "B",
+        "texto": "3 mL e 40 gotas/minuto"
+      },
+      {
+        "id": "C",
+        "texto": "3 mL e 50 gotas/minuto"
+      },
+      {
+        "id": "D",
+        "texto": "4 mL e 50 gotas/minuto"
+      }
+    ],
+    "resposta_correta": "C",
+    "id": "EF0007",
+    "numero_ordem": 7,
+    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [C] representa a prescrição e técnica exata: '3 mL e 50 gotas/minuto'.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '2 mL e 40 gotas/minuto...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '3 mL e 40 gotas/minuto...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '4 mL e 50 gotas/minuto...'."
+      }
+    ],
+    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+  },
+  {
+    "codigo_origem": "Q4445448",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Nova Mutum - MT - Técnico",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos , Segurança do Paciente",
+    "enunciado": "Ao conferir uma prescrição medicamentosa, o técnico de enfermagem identifica uma divergência entre a dose prescrita e a informação registrada no prontuário, indicando possível erro de prescrição. Antes da administração, o técnico comunica a situação ao enfermeiro responsável e solicita esclarecimento. À luz do Código de Ética dos Profissionais de Enfermagem, essa conduta expressa a:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "comunicação da divergência, que transfere ao enfermeiro a responsabilidade pela administração do medicamento"
+      },
+      {
+        "id": "B",
+        "texto": "identificação da inconsistência, que permite modificar a dose prescrita, desde que a alteração seja tecnicamente fundamentada e registrada no prontuário"
+      },
+      {
+        "id": "C",
+        "texto": "responsabilidade de prevenir danos ao paciente, que exige reconhecer situações que comprometam a segurança da assistência e buscar esclarecimentos antes da administração"
+      },
+      {
+        "id": "D",
+        "texto": "comunicação formal de uma possível inconsistência à equipe de Enfermagem, que depende da confirmação prévia do prescritor, mesmo quando a divergência é identificada antes da administração do medicamento"
+      }
+    ],
+    "resposta_correta": "C",
+    "id": "EF0008",
+    "numero_ordem": 8,
+    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [C] ('responsabilidade de prevenir danos ao paciente, que exige reconhecer situações que comprometam a segurança da assistência e buscar esclarecimentos antes da administração') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'comunicação da divergência, que transfere ao enfermeiro a responsabilidade pela administra...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'identificação da inconsistência, que permite modificar a dose prescrita, desde que a alter...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'comunicação formal de uma possível inconsistência à equipe de Enfermagem, que depende da c...'."
+      }
+    ],
+    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+  },
+  {
+    "codigo_origem": "Q4336856",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Araçás - BA",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Araçás - BA - Técnico de",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos , Medicação Intramuscular",
+    "enunciado": "Enfermagem A sífilis é uma infecção sexualmente transmissível causada pela bactéria Treponema pallidum, cujo tratamento e controle constituem prioridade na agenda da vigilância epidemiológica brasileira, especialmente diante do aumento de casos notificados nas últimas décadas. Em 2025, o Boletim Epidemiológico de Sífilis do Ministério da Saúde registrou mais de 1,9 milhão de casos de sífilis adquirida no Brasil desde 2010. As diretrizes terapêuticas estabelecem que, para o tratamento da sífilis primária, secundária e latente recente (com menos de um ano de evolução), o esquema recomendado consiste em:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "penicilina G benzatina 2.400.000 UI, administrada em dose única intramuscular, dividida em duas aplicações de 1.200.000 UI em cada glúteo"
+      },
+      {
+        "id": "B",
+        "texto": "azitromicina 1g em dose única oral para pacientes alérgicos à penicilina, com eficácia equivalente e sem necessidade de seguimento sorológico"
+      },
+      {
+        "id": "C",
+        "texto": "penicilina G procaína 600.000 UI por via intramuscular, diariamente, por 10 dias consecutivos, com acompanhamento sorológico mensal"
+      },
+      {
+        "id": "D",
+        "texto": "doxiciclina 100 mg, duas vezes ao dia, por 14 dias, como tratamento de primeira linha para todos os estágios da sífilis"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0027",
+    "numero_ordem": 27,
+    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'penicilina G benzatina 2.400.000 UI, administrada em dose única intramuscular, dividida em...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'azitromicina 1g em dose única oral para pacientes alérgicos à penicilina, com eficácia equ...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'penicilina G procaína 600.000 UI por via intramuscular, diariamente, por 10 dias consecuti...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'doxiciclina 100 mg, duas vezes ao dia, por 14 dias, como tratamento de primeira linha para...'."
+      }
+    ],
+    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+  },
+  {
+    "codigo_origem": "Q4336852",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Araçás - BA",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Araçás - BA - Técnico de",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos , Medicação Endovenosa , Segurança do Paciente",
+    "enunciado": "Enfermagem A venoclise periférica é um procedimento invasivo que requer técnica asséptica rigorosa para prevenir infecções de corrente sanguínea, flebites e infiltrações, sendo a escolha do dispositivo e do sítio de punção determinante para a duração da terapia intravenosa e para o conforto do paciente. Ao instalar uma venoclise periférica para administração de solução parenteral com alto teor de potássio e ampicilina, o técnico de enfermagem deve, como medida de segurança e prevenção de complicações, se ater a:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "escolher veia de maior calibre no antebraço ou na fossa antecubital, utilizar cateter 20 G, fixar com curativo transparente e realizar inspeção do sítio a cada 6 horas para detecção precoce de infiltração"
+      },
+      {
+        "id": "B",
+        "texto": "utilizar veia jugular externa como acesso periférico para soluções irritantes, pois a calibração da veia reduz o risco de flebite, dispensando a troca do dispositivo por 96 horas"
+      },
+      {
+        "id": "C",
+        "texto": "selecionar veia do dorso da mão por ser de fácil acesso, utilizar cateter 22 G e estabilizar com curativo transparente, realizando rodízio do sítio a cada 24 horas"
+      },
+      {
+        "id": "D",
+        "texto": "priorizar a veia cefálica do antebraço, utilizando cateter 24 G para reduzir o trauma, e fixar com fita adesiva micropore sem cobrir o local de inserção"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0030",
+    "numero_ordem": 30,
+    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'escolher veia de maior calibre no antebraço ou na fossa antecubital, utilizar cateter 20 G...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar veia jugular externa como acesso periférico para soluções irritantes, pois a cali...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'selecionar veia do dorso da mão por ser de fácil acesso, utilizar cateter 22 G e estabiliz...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'priorizar a veia cefálica do antebraço, utilizando cateter 24 G para reduzir o trauma, e f...'."
+      }
+    ],
+    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+  },
+  {
+    "codigo_origem": "Q4317363",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Garças - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Barra do Garças - MT -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos , Farmacologia na Enfermagem , Medicação Endovenosa",
+    "enunciado": "Técnico em Enfermagem - SMS A administração concomitante de medicamentos por via intravenosa exige avaliação prévia de sua compatibilidade, pois, em alguns casos, o contato entre duas soluções produz precipitado antes que os medicamentos sejam administrados ao paciente. Nesse sentido, a produção de precipitado evidencia um fenômeno denominado:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "sinergismo farmacológico"
+      },
+      {
+        "id": "B",
+        "texto": "antagonismo farmacológico"
+      },
+      {
+        "id": "C",
+        "texto": "incompatibilidade medicamentosa"
+      },
+      {
+        "id": "D",
+        "texto": "interação farmacocinética por alteração da distribuição"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0056",
+    "numero_ordem": 56,
+    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'sinergismo farmacológico...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'antagonismo farmacológico...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'incompatibilidade medicamentosa...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'interação farmacocinética por alteração da distribuição...'."
+      }
+    ],
+    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+  },
+  {
+    "codigo_origem": "Q4317362",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Garças - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Barra do Garças - MT -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos , Segurança do Paciente",
+    "enunciado": "Técnico em Enfermagem - SMS No início do turno, o técnico de enfermagem confere a prescrição de um paciente internado antes de preparar os medicamentos programados. O paciente está consciente e relata já fazer uso habitual de um dos medicamentos prescritos. Ao conferir o item correspondente ao horário, o profissional verifica que a via de administração não foi registrada na prescrição. Nessa situação, a administração deve ser:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "adiada até o esclarecimento da informação"
+      },
+      {
+        "id": "B",
+        "texto": "realizada pela via relatada como habitual pelo paciente"
+      },
+      {
+        "id": "C",
+        "texto": "executada pela mesma via utilizada na administração anterior"
+      },
+      {
+        "id": "D",
+        "texto": "mantida no horário prescrito, com registro posterior da via utilizada no procedimento 58 Enfermagem > Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Diagnósticos de Enfermagem - NIC-NOC/CIPE/NANDA Banca: SELECON Órgão: Prefeitura de Barra do Garças - MT Prova: SELECON - 2026 - Prefeitura de Barra do Garças - MT -"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0057",
+    "numero_ordem": 57,
+    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'adiada até o esclarecimento da informação...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizada pela via relatada como habitual pelo paciente...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'executada pela mesma via utilizada na administração anterior...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'mantida no horário prescrito, com registro posterior da via utilizada no procedimento 58 E...'."
+      }
+    ],
+    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+  },
+  {
+    "codigo_origem": "Q3981913",
+    "banca": "SELECON",
+    "orgao": "EMGEPRON",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - EMGEPRON - Técnico em Enfermagem",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos , Medicação Endovenosa , Segurança do Paciente",
+    "enunciado": "Durante o plantão em uma unidade de internação clínica, o técnico de enfermagem administrou um antibiótico intravenoso em um paciente adulto. Antes da administração, conferiu a identificação do paciente, o medicamento, a dose, a via, o horário e realizou o registro no prontuário após o procedimento. Minutos após a administração, o paciente apresentou náuseas intensas, prurido e queda da pressão arterial. Considerando as diretrizes atuais de segurança do paciente, conclui-se que o profissional:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "atendeu integralmente às boas práticas do cuidado, pois cumpriu com todos os critérios essenciais exigidos para a administração de medicamentos ao seguir corretamente a prescrição médica, conferindo paciente, medicamento, dose, via e horário"
+      },
+      {
+        "id": "B",
+        "texto": "realizou a administração de forma correta, priorizando a rotina assistencial da unidade, limitando-se à conferência de paciente, medicamento, dose, via, horário e registro no prontuário, sem proceder a outras verificações clínicas adicionais"
+      },
+      {
+        "id": "C",
+        "texto": "atendeu parcialmente às recomendações de segurança, por não contemplar todos os critérios previstos nos nove certos da administração de medicamentos, especialmente aqueles relacionados à indicação e à resposta do paciente"
+      },
+      {
+        "id": "D",
+        "texto": "apresentou falha relacionada ao processo de supervisão do cuidado, uma vez que a orientação e o acompanhamento do enfermeiro responsável pelo setor não foram suficientes para prevenir o evento ocorrido 85 Enfermagem > Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Gestão de Processos e Equipes de Trabalho , Administração em Enfermagem Banca: SELECON Órgão: EMGEPRON Prova: SELECON - 2026 - EMGEPRON - Técnico em Enfermagem"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0084",
+    "numero_ordem": 84,
+    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'atendeu integralmente às boas práticas do cuidado, pois cumpriu com todos os critérios ess...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizou a administração de forma correta, priorizando a rotina assistencial da unidade, l...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'atendeu parcialmente às recomendações de segurança, por não contemplar todos os critérios ...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'apresentou falha relacionada ao processo de supervisão do cuidado, uma vez que a orientaçã...'."
+      }
+    ],
+    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+  },
+  {
+    "codigo_origem": "Q3742711",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Marcelândia - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Marcelândia - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos , Segurança do Paciente",
+    "enunciado": "A segurança do paciente na administração de medicamentos é um pilar da prática de enfermagem, sendo guiada pelos \"nove certos\". A verificação do \"certo horário\" refere-se à importância de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "administrar o medicamento no momento exato da prescrição, sem qualquer tolerância"
+      },
+      {
+        "id": "B",
+        "texto": "respeitar os intervalos de tempo entre as doses para manter a concentração terapêutica do fármaco"
+      },
+      {
+        "id": "C",
+        "texto": "administrar todos os medicamentos do paciente em um único horário para otimizar o tempo"
+      },
+      {
+        "id": "D",
+        "texto": "priorizar a administração de medicamentos orais antes dos injetáveis 186 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0105",
+    "numero_ordem": 105,
+    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administrar o medicamento no momento exato da prescrição, sem qualquer tolerância...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'respeitar os intervalos de tempo entre as doses para manter a concentração terapêutica do ...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administrar todos os medicamentos do paciente em um único horário para otimizar o tempo...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'priorizar a administração de medicamentos orais antes dos injetáveis 186 Ano: 2025...'."
+      }
+    ],
+    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+  },
+  {
+    "codigo_origem": "Q3623618",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Nova Mutum - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos , Farmacologia na Enfermagem",
+    "enunciado": "Em uma emergência, a necessidade de uma ação medicamentosa rápida e completa é primordial. Para isso, o profissional de saúde escolhe uma via de administração que permite que o fármaco seja introduzido diretamente na corrente sanguínea, evitando as barreiras de absorção do trato gastrointestinal e o metabolismo de primeira passagem no fígado. Dessa forma, a totalidade da dose administrada fica imediatamente disponível para atuar nos tecidos-alvo. Essa característica confere à via de administração intravenosa uma propriedade farmacocinética fundamental, definida como:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "a mais alta latência para o início da ação"
+      },
+      {
+        "id": "B",
+        "texto": "biodisponibilidade de 100%"
+      },
+      {
+        "id": "C",
+        "texto": "necessidade de metabolização para ativação"
+      },
+      {
+        "id": "D",
+        "texto": "a principal via para efeitos locais e tópicos 200 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0119",
+    "numero_ordem": 119,
+    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a mais alta latência para o início da ação...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'biodisponibilidade de 100%...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'necessidade de metabolização para ativação...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a principal via para efeitos locais e tópicos 200 Ano: 2025...'."
+      }
+    ],
+    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+  },
+  {
+    "codigo_origem": "Q3623615",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Nova Mutum - MT -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos , Segurança do Paciente",
+    "enunciado": "Ao preparar a medicação para o Sr. João da Silva, internado na clínica médica, o técnico de enfermagem realiza a conferência da prescrição médica, verifi cando o nome do paciente, o medicamento (Captopril 25mg), a dose, a via de administração (oral) e o horário. Antes de entregar o comprimido ao paciente, ele confi rma o nome completo e a data de nascimento do Sr. João, explicando o propósito do medicamento. Esse conjunto de ações sistemáticas é essencial para a segurança do paciente e constitui uma prática fundamental na rotina da equipe de enfermagem, que consiste na(o):",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "verifi cação dos sinais vitais do paciente"
+      },
+      {
+        "id": "B",
+        "texto": "aplicação dos \"certos\" da administração de medicamentos"
+      },
+      {
+        "id": "C",
+        "texto": "registro da evolução de enfermagem no prontuário"
+      },
+      {
+        "id": "D",
+        "texto": "realização do balanço hídrico do paciente 203 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0122",
+    "numero_ordem": 122,
+    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'verifi cação dos sinais vitais do paciente...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aplicação dos \"certos\" da administração de medicamentos...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'registro da evolução de enfermagem no prontuário...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realização do balanço hídrico do paciente 203 Ano: 2025...'."
+      }
+    ],
+    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+  },
+  {
+    "codigo_origem": "Q3617182",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Tapurah - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Tapurah - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos , Farmacologia na Enfermagem",
+    "enunciado": "Ao se comparar o Fármaco A (meia-vida de 4 horas) com o Fármaco B (meia-vida de 48 horas) para o tratamento de uma condição crônica, ambos com índice terapêutico estreito, a principal implicação clínica derivada da diferença em suas meiasvidas de eliminação é que o Fármaco B:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "exige administrações mais frequentes para manter a concentração plasmática dentro da janela terapêutica"
+      },
+      {
+        "id": "B",
+        "texto": "é rapidamente eliminado do organismo, minimizando a duração de eventuais efeitos adversos após a sua suspensão"
+      },
+      {
+        "id": "C",
+        "texto": "apresenta maior risco de acúmulo e toxicidade em caso de ajuste inadequado da dose e levará mais tempo para atingir a concentração de estado estacionário (steady state)"
+      },
+      {
+        "id": "D",
+        "texto": "atinge o pico de concentração plasmática mais rapidamente que o Fármaco A, necessitando de monitoramento intensivo apenas nas primeiras horas de tratamento 209 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0128",
+    "numero_ordem": 128,
+    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'exige administrações mais frequentes para manter a concentração plasmática dentro da janel...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'é rapidamente eliminado do organismo, minimizando a duração de eventuais efeitos adversos ...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'apresenta maior risco de acúmulo e toxicidade em caso de ajuste inadequado da dose e levar...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'atinge o pico de concentração plasmática mais rapidamente que o Fármaco A, necessitando de...'."
+      }
+    ],
+    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+  },
+  {
+    "codigo_origem": "Q3615479",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Tapurah - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Tapurah - MT - Técnico em",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos",
+    "enunciado": "Enfermagem Durante a administração de uma medicação por via intramuscular (IM) em um paciente adulto, o técnico de enfermagem, seguindo técnica asséptica e prescrição, deve escolher preferencialmente a região que garanta maior volume, boa absorção e menor risco de complicações. Tal região corresponde ao:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "deltoide"
+      },
+      {
+        "id": "B",
+        "texto": "ventroglúteo"
+      },
+      {
+        "id": "C",
+        "texto": "bíceps braquial"
+      },
+      {
+        "id": "D",
+        "texto": "vasto lateral da coxa"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0142",
+    "numero_ordem": 142,
+    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ventroglúteo...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'bíceps braquial...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vasto lateral da coxa...'."
+      }
+    ],
+    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+  },
+  {
+    "codigo_origem": "Q3489353",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Lucas do Rio Verde - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Lucas do Rio Verde -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos",
+    "enunciado": "MT - Técnico em Enfermagem APH Um enfermeiro esta orientando um estudante de enfermagem sobre a administração de insulina NPH e Regular prescritas para um paciente diabético antes do café da manha. A prescrição é de 10 unidades de Insulina Regular e 22 unidades de Insulina NPH, ambas por via subcutânea. O estudante questiona sobre a possibilidade de misturar as duas insulinas na mesma seringa. A orientação correta do enfermeiro, baseada nos princípios de farmacotécnica e segurança na administração de medicamentos, deve ser:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "\"Não é recomendado misturar diferentes tipos de insulina na mesma seringa devido ao risco de alteração da farmacocinética de ambas, devendo ser administradas em locais distintos com seringas separadas”."
+      },
+      {
+        "id": "B",
+        "texto": "\"Sim, você pode misturar as duas, aspirando primeiro a Insulina NPH (de aspecto leitoso) e depois a Insulina Regular (de aspecto límpido), para evitar a contaminação da Regular com a NPH\"."
+      },
+      {
+        "id": "C",
+        "texto": "\"Sim, é possível mistura-las. Você deve aspirar primeiro a Insulina Regular (límpida) e depois a Insulina NPH (leitosa), após homogeneizar suavemente o frasco da NPH, e administrar imediatamente para garantir a estabilidade\"."
+      },
+      {
+        "id": "D",
+        "texto": "\"A mistura é possível, mas apenas se a administração for imediata e o volume total não exceder 1 mL. A ordem de aspiração não interfere na eficácia, desde que não se contamine os frascos\". 235 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0154",
+    "numero_ordem": 154,
+    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '\"Não é recomendado misturar diferentes tipos de insulina na mesma seringa devido ao risco ...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '\"Sim, você pode misturar as duas, aspirando primeiro a Insulina NPH (de aspecto leitoso) e...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+      },
+      {
+        "letra": "D",
+        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+      }
+    ],
+    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+  },
+  {
+    "codigo_origem": "Q3489352",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Lucas do Rio Verde - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Lucas do Rio Verde -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos",
+    "enunciado": "MT - Técnico em Enfermagem APH Um técnico de enfermagem é designado para administrar 10 mg de Morfina por via subcutânea a um paciente com dor intensa, conforme prescrição médica. Ao preparar a medicação, ele observa que a ampola disponível é de Morfina 10 mg/mL. Após aspirar o conteúdo da ampola, ele percebe que há uma pequena bolha de ar na seringa. Considerando os princípios fundamentais para a administração segura de medicamentos, a ação correta do técnico de enfermagem antes de administrar a medicação é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "expelir cuidadosamente a bolha de ar da seringa, garantindo que a dose correta de 1 mL (10 mg) permaneça, antes de realizar a antissepsia e a aplicação"
+      },
+      {
+        "id": "B",
+        "texto": "administrar a medicação com a bolha de ar, pois em via subcutânea pequenas bolhas não representam risco significativo"
+      },
+      {
+        "id": "C",
+        "texto": "desprezar toda a medicação e preparar uma nova dose, pois a presença de qualquer bolha de ar invalida a preparação"
+      },
+      {
+        "id": "D",
+        "texto": "aumentar ligeiramente a dose aspirada para compensar o volume da bolha de ar, garantindo que o paciente receba os 10 mg 236 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0155",
+    "numero_ordem": 155,
+    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'expelir cuidadosamente a bolha de ar da seringa, garantindo que a dose correta de 1 mL (10...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administrar a medicação com a bolha de ar, pois em via subcutânea pequenas bolhas não repr...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'desprezar toda a medicação e preparar uma nova dose, pois a presença de qualquer bolha de ...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aumentar ligeiramente a dose aspirada para compensar o volume da bolha de ar, garantindo q...'."
+      }
+    ],
+    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+  },
+  {
+    "codigo_origem": "Q3287493",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de São José dos Quatro Marcos - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de São José dos",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos , Medicação Subcutânea , Medicação Intramuscular",
+    "enunciado": "Quatro Marcos - MT - Técnico em Enfermagem Considerando as vacinas contra hepatite B, contra tríplice viral e contra a febre amarela, a via de administração, respectivamente, é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "hepatite B (via oral), tríplice viral (via subcutânea), febre amarela (via intramuscular)"
+      },
+      {
+        "id": "B",
+        "texto": "hepatite B (via intramuscular), tríplice viral (via intramuscular), febre amarela (via subcutânea)"
+      },
+      {
+        "id": "C",
+        "texto": "hepatite B (via intradérmica), tríplice viral (via intramuscular), febre amarela (via intramuscular)"
+      },
+      {
+        "id": "D",
+        "texto": "hepatite B (via subcutânea), tríplice viral (via oral), febre amarela (via intramuscular) 245 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0164",
+    "numero_ordem": 164,
+    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'hepatite B (via oral), tríplice viral (via subcutânea), febre amarela (via intramuscular)...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'hepatite B (via intramuscular), tríplice viral (via intramuscular), febre amarela (via sub...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'hepatite B (via intradérmica), tríplice viral (via intramuscular), febre amarela (via intr...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'hepatite B (via subcutânea), tríplice viral (via oral), febre amarela (via intramuscular) ...'."
+      }
+    ],
+    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+  },
+  {
+    "codigo_origem": "Q3262530",
+    "banca": "SELECON",
+    "orgao": "HEMOMINAS",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - HEMOMINAS - Analista de Hematologia e Hemoterapia -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos , Medicação Endovenosa",
+    "enunciado": "ANHH - Nível I - Grau A - Biomédico/Biólogo/Farmacêutico/Bioquímico - 40 Horas No processo de coleta de sangue total em serviços de hemoterapia, são utilizadas bolsas em sistema fechado contendo anticoagulantes. O sangue coletado, armazenado e manipulado adequadamente em bolsa contendo o anticoagulante CPDA 1, composto por ácido cítrico, citrato de sódio, fosfato de sódio, dextrose e adenina terá sua validade a partir da data da coleta de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "7 dias"
+      },
+      {
+        "id": "B",
+        "texto": "21 dias"
+      },
+      {
+        "id": "C",
+        "texto": "35 dias"
+      },
+      {
+        "id": "D",
+        "texto": "60 dias"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0195",
+    "numero_ordem": 195,
+    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      }
+    ],
+    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+  },
+  {
+    "codigo_origem": "Q3197471",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sinop - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos , Medicação Intramuscular",
+    "enunciado": "Durante a aplicação de uma medicação intramuscular em um paciente adulto, o enfermeiro decide utilizar a técnica Z para minimizar os riscos de extravasamento e complicações associadas à injeção. Após a inserção da agulha no músculo, o enfermeiro realiza a manobra específica para garantir a correta aplicação. Com base nas etapas dessa técnica e as suas indicações, a alternativa que a descreve corretamente é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "após inserir a agulha em um ângulo de 90 graus, o enfermeiro puxa a pele para formar um \"Z\", garantindo a vedação do local da aplicação, pois isso evita o extravasamento da medicação para os tecidos subcutâneos, o que reduziria as chances de formação de abscessos ou outras complicações locais"
+      },
+      {
+        "id": "B",
+        "texto": "a técnica Z exige a inserção da agulha em um ângulo de 45 graus, após o que o enfermeiro realiza a tração da pele para formar um \"Z\", o que garante a correta distribuição do medicamento sem necessidade de medidas adicionais para evitar complicações como abscessos"
+      },
+      {
+        "id": "C",
+        "texto": "na técnica Z, a agulha deve ser inserida em um ângulo de 30 graus, e a tração da pele não é necessária, pois a injeção é realizada lentamente, o que assegura a absorção imediata da medicação e minimiza o risco de complicações"
+      },
+      {
+        "id": "D",
+        "texto": "o enfermeiro deve usar a técnica Z apenas em situações de infecções graves, inserindo a agulha de forma oblíqua e administrando a medicação lentamente, sem realizar qualquer tipo de tração na pele 315 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0234",
+    "numero_ordem": 234,
+    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'após inserir a agulha em um ângulo de 90 graus, o enfermeiro puxa a pele para formar um \"Z...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a técnica Z exige a inserção da agulha em um ângulo de 45 graus, após o que o enfermeiro r...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o enfermeiro deve usar a técnica Z apenas em situações de infecções graves, inserindo a ag...'."
+      }
+    ],
+    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+  },
+  {
+    "codigo_origem": "Q3197247",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sinop - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Fiscal Sanitário",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos",
+    "enunciado": "Uma ação combinada de dois ou mais medicamentos que produzem um efeito biológico, cujo resultado pode ser a soma dos efeitos de cada composto ou um efeito total superior a essa soma, podendo resultar em um determinado medicamento aumentar a ação de outro, é um fenômeno conhecido como:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "bruxismo"
+      },
+      {
+        "id": "B",
+        "texto": "sinergismo"
+      },
+      {
+        "id": "C",
+        "texto": "antagonismo"
+      },
+      {
+        "id": "D",
+        "texto": "cooperativismo 319 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0238",
+    "numero_ordem": 238,
+    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'antagonismo...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'cooperativismo 319 Ano: 2025...'."
+      }
+    ],
+    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+  },
+  {
+    "codigo_origem": "Q3184823",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Nova Mutum - MT - Técnica",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos , Diabetes Mellitus , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "Um paciente está em tratamento com metformina para diabetes tipo 2 e foi prescrito o uso de um antibiótico da classe dos macrolídeos. Para a segurança do paciente em relação à interação medicamentosa, o técnico de enfermagem deve considerar:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "a metformina pode aumentar a eficácia do antibiótico, tornando o tratamento mais eficaz"
+      },
+      {
+        "id": "B",
+        "texto": "a metformina pode diminuir a eficácia do antibiótico, tornando-o menos eficaz no tratamento de infecções"
+      },
+      {
+        "id": "C",
+        "texto": "não há interação significativa entre metformina e macrolideos, portanto, não é necessário monitorar o paciente"
+      },
+      {
+        "id": "D",
+        "texto": "o uso concomitante pode aumentar o risco de hipoglicemia, exigindo monitoramento cuidadoso dos níveis de glicose 324 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0243",
+    "numero_ordem": 243,
+    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a metformina pode aumentar a eficácia do antibiótico, tornando o tratamento mais eficaz...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a metformina pode diminuir a eficácia do antibiótico, tornando-o menos eficaz no tratament...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'não há interação significativa entre metformina e macrolideos, portanto, não é necessário ...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o uso concomitante pode aumentar o risco de hipoglicemia, exigindo monitoramento cuidadoso...'."
+      }
+    ],
+    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+  },
+  {
+    "codigo_origem": "Q2528693",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Técnico de Enfermagem",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos , Cálculo de Solução e Medicamentos",
+    "enunciado": "Estão prescritos para um paciente 150mg de amicacina e no hospital existem apenas ampolas contendo 500mg/2 ml. A dose a ser aplicada é de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "0,2 ml"
+      },
+      {
+        "id": "B",
+        "texto": "0,3 ml"
+      },
+      {
+        "id": "C",
+        "texto": "0,4 ml"
+      },
+      {
+        "id": "D",
+        "texto": "0,5 ml"
+      },
+      {
+        "id": "E",
+        "texto": "0,6 ml 336 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0255",
+    "numero_ordem": 255,
+    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '0,6 ml 336 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+  },
+  {
+    "codigo_origem": "Q2477207",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Água Boa - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Água Boa - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos",
+    "enunciado": "O método amplamente indicado no tratamento de problemas respiratórios agudos e crônicos de diversas origens, incluindo asma, bronquites, sinusites, infecções e inflamações em geral, também atuante na administração de medicamentos broncodilatadores e na umidificação das vias aéreas, é a:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "nebulização"
+      },
+      {
+        "id": "B",
+        "texto": "fluidificação"
+      },
+      {
+        "id": "C",
+        "texto": "vaporização"
+      },
+      {
+        "id": "D",
+        "texto": "broncodilação 422 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0341",
+    "numero_ordem": 341,
+    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'nebulização...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'fluidificação...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vaporização...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'broncodilação 422 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+  },
+  {
+    "codigo_origem": "Q2467380",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Água Boa - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Água Boa - MT - Auxiliar",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos , Medicação Intramuscular",
+    "enunciado": "Administrativo - 40H Uma das técnicas mais utilizadas pela enfermagem é a administração de medicamentos via intramuscular. Sua absorção é mais rápida e acontece através da via:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "oral"
+      },
+      {
+        "id": "B",
+        "texto": "enteral"
+      },
+      {
+        "id": "C",
+        "texto": "parenteral"
+      },
+      {
+        "id": "D",
+        "texto": "sublingual 459 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0378",
+    "numero_ordem": 378,
+    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'sublingual 459 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+  },
+  {
+    "codigo_origem": "Q2467330",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Água Boa - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Água Boa - MT - Agente",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos",
+    "enunciado": "Administrativo - Saúde/40h Durante a administração de medicamentos, o enfermeiro deve seguir procedimentos rigorosos para garantir a segurança do paciente. Uma das etapas essenciais é a verificação dos cinco certos, que são:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "certo paciente, certo medicamento, certo horário, certo local, certo registro"
+      },
+      {
+        "id": "B",
+        "texto": "certo paciente, certo medicamento, certo horário, certo local, certo profissional"
+      },
+      {
+        "id": "C",
+        "texto": "certo paciente, certo medicamento, certo horário, certo método, certo profissional"
+      },
+      {
+        "id": "D",
+        "texto": "certo paciente, certo medicamento, certo diagnóstico, certo local, certo profissional"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0392",
+    "numero_ordem": 392,
+    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'certo paciente, certo medicamento, certo horário, certo local, certo registro...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'certo paciente, certo medicamento, certo horário, certo local, certo profissional...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'certo paciente, certo medicamento, certo horário, certo método, certo profissional...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'certo paciente, certo medicamento, certo diagnóstico, certo local, certo profissional...'."
+      }
+    ],
+    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+  },
+  {
+    "codigo_origem": "Q2454934",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sapezal - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Técnico em",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos , Cálculo de Solução e Medicamentos",
+    "enunciado": "Enfermagem A terapia medicamentosa tornou-se uma das formas mais comuns de intervenção no cuidado ao paciente, utilizada ao longo dos anos na cura de doenças. Para seu uso adequado, as dosagens devem ser aplicadas adequadamente. Com base nesta afirmativa, em 1 ml de uma determinada medicação encontram-se:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "10 gotas"
+      },
+      {
+        "id": "B",
+        "texto": "20 gotas"
+      },
+      {
+        "id": "C",
+        "texto": "30 gotas"
+      },
+      {
+        "id": "D",
+        "texto": "40 gotas"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0400",
+    "numero_ordem": 400,
+    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      }
+    ],
+    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+  },
+  {
+    "codigo_origem": "Q3884652",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos",
+    "enunciado": "MT - Técnico em Enfermagem Na prática da administração de medicamentos, a escolha da via de administração deve considerar características como vascularização do local, volume a ser administrado e velocidade de absorção. Nesse contexto, a via intramuscular é indicada, principalmente, quando se deseja:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "absorção lenta e gradual, ideal para medicações mais espessas"
+      },
+      {
+        "id": "B",
+        "texto": "início de ação imediato, comparável ao obtido pela via endovenosa"
+      },
+      {
+        "id": "C",
+        "texto": "absorção mais rápida que a via subcutânea, em razão da maior vascularização da área"
+      },
+      {
+        "id": "D",
+        "texto": "administração de grandes volumes, independentemente do risco de dor ou lesão tecidual devido à extensão 117 Ano: 2026"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0456",
+    "numero_ordem": 456,
+    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'absorção lenta e gradual, ideal para medicações mais espessas...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'início de ação imediato, comparável ao obtido pela via endovenosa...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'absorção mais rápida que a via subcutânea, em razão da maior vascularização da área...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administração de grandes volumes, independentemente do risco de dor ou lesão tecidual devi...'."
+      }
+    ],
+    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+  },
+  {
+    "codigo_origem": "Q3884076",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos , Cálculo de Solução e Medicamentos",
+    "enunciado": "MT - Enfermeiro Um paciente pediátrico com peso de 12 kg deve receber uma medicação na dose de 15 mg/kg/dia, dividida em 3 doses iguais. A solução oral disponível tem concentração de 100 mg/5 mL. O volume, em mL, que deve ser administrado em cada uma das três doses é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "1,5 mL"
+      },
+      {
+        "id": "B",
+        "texto": "9,0 mL"
+      },
+      {
+        "id": "C",
+        "texto": "27,0 mL"
+      },
+      {
+        "id": "D",
+        "texto": "3,0 mL 127 Ano: 2026"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0466",
+    "numero_ordem": 466,
+    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '3,0 mL 127 Ano: 2026...'."
+      }
+    ],
+    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+  },
+  {
+    "codigo_origem": "Q3810643",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Garças - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos , Cálculo de Solução e Medicamentos",
+    "enunciado": "Técnico em Enfermagem Um paciente adulto em hipoglicemia grave necessita de Glicose 50% (G50%), mas o protocolo institucional determina que soluções hipertônicas devem ser diluídas antes da administração intravenosa, a fim de reduzir flebite e complicações metabólicas. O médico prescreve 20 mL de G50%, devendo a solução final ser preparada em concentração de 10%. A conduta do técnico de enfermagem para preparar essa diluição corretamente é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "adicionar 30 mL de diluente aos 20 mL de G50%, reduzindo a concentração final para a concentração de 10%"
+      },
+      {
+        "id": "B",
+        "texto": "adicionar 80 mL de diluente aos 20 mL de G50%, obtendo um total de 100 mL em concentração de 10%"
+      },
+      {
+        "id": "C",
+        "texto": "misturar igualmente 20 mL de G50% e 20 mL de diluente, resultando em G25% adequada ao protocolo"
+      },
+      {
+        "id": "D",
+        "texto": "diluir G50% apenas com 10 mL de solução fisiológica, pois a diluição mínima já reduz risco de flebite 135 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0474",
+    "numero_ordem": 474,
+    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'adicionar 30 mL de diluente aos 20 mL de G50%, reduzindo a concentração final para a conce...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'adicionar 80 mL de diluente aos 20 mL de G50%, obtendo um total de 100 mL em concentração ...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'misturar igualmente 20 mL de G50% e 20 mL de diluente, resultando em G25% adequada ao prot...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'diluir G50% apenas com 10 mL de solução fisiológica, pois a diluição mínima já reduz risco...'."
+      }
+    ],
+    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+  },
+  {
+    "codigo_origem": "Q3810630",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Garças - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração de medicamentos",
+    "enunciado": "Técnico em Enfermagem Durante a administração de um medicamento prescrito, o técnico de enfermagem deve seguir os princípios de segurança recomendados pelas diretrizes atuais sobre os “certos” da administração medicamentosa. Acerca dessas recomendações, observa-se que:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "o \"paciente certo\" pode ser confi rmado apenas pela identifi cação verbal, desde que ele esteja lúcido e orientado no momento da administração"
+      },
+      {
+        "id": "B",
+        "texto": "o \"registro certo\" refere-se apenas ao horário da administração, não incluindo lote, dose ou via utilizados, pois estes tratam-se de outros “certos”"
+      },
+      {
+        "id": "C",
+        "texto": "a “orientação certa” implica garantir que o paciente receba informações pertinentes sobre o medicamento, como finalidade, forma correta de uso e possíveis efeitos esperados, contribuindo para maior segurança e adesão"
+      },
+      {
+        "id": "D",
+        "texto": "a “resposta certa” diz respeito exclusivamente ao registro de reações adversas imediatas, não abrangendo a monitorização clínica posterior ou a avaliação de eficácia terapêutica, limitando-se apenas ao relato pontual de eventos observados no momento da administração 148 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0487",
+    "numero_ordem": 487,
+    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o \"paciente certo\" pode ser confi rmado apenas pela identifi cação verbal, desde que ele e...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o \"registro certo\" refere-se apenas ao horário da administração, não incluindo lote, dose ...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a “orientação certa” implica garantir que o paciente receba informações pertinentes sobre ...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+      }
+    ],
+    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "codigo_origem": "Q4336844",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Araçás - BA",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Araçás - BA - Técnico de",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Anatomia na Enfermagem , Anatomia do Sistema Músculo Esquelético",
+    "enunciado": "Enfermagem O sistema esquelético humano é dividido em esqueleto axial e esqueleto apendicular, cada um com funções específicas de sustentação, proteção e movimentação. O esqueleto axial é composto pelos ossos que formam o eixo longitudinal do corpo, enquanto o apendicular inclui os ossos dos membros e as cinturas, que os conectam ao tronco. De acordo com essa divisão anatômica, são ossos que pertencem ao esqueleto axial:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "fêmur, tíbia e fíbula"
+      },
+      {
+        "id": "B",
+        "texto": "crânio, vértebras e costelas"
+      },
+      {
+        "id": "C",
+        "texto": "escápula, clavícula e úmero"
+      },
+      {
+        "id": "D",
+        "texto": "carpo, metacarpo e falanges 38 Enfermagem > Diabetes Mellitus , Saúde da Mulher , Assistência de Enfermagem ao Pré-Natal Doenças Crônicas Não Transmissíveis Banca: SELECON Órgão: Prefeitura de Araçás - BA Prova: SELECON - 2026 - Prefeitura de Araçás - BA - Técnico de"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0037",
+    "numero_ordem": 37,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'fêmur, tíbia e fíbula...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'crânio, vértebras e costelas...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'escápula, clavícula e úmero...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'carpo, metacarpo e falanges 38 Enfermagem > Diabetes Mellitus , Saúde da Mulher , Assistên...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  }
+]

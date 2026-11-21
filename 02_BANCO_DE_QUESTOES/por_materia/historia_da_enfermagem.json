@@ -1,0 +1,210 @@
+[
+  {
+    "codigo_origem": "Q3742707",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Marcelândia - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Marcelândia - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "História da Enfermagem",
+    "enunciado": "A enfermeira jamaicana que também atuou na Guerra da Crimeia, utilizando métodos mais empíricos e baseados em ervas, e que foi muitas vezes esquecida pela história oficial, é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Elizabeth Blackwell"
+      },
+      {
+        "id": "B",
+        "texto": "Mary Seacole"
+      },
+      {
+        "id": "C",
+        "texto": "Sojourner Truth"
+      },
+      {
+        "id": "D",
+        "texto": "Harriet Tubman 190 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0109",
+    "numero_ordem": 109,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Elizabeth Blackwell...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Mary Seacole...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Sojourner Truth...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Harriet Tubman 190 Ano: 2025...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3742706",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Marcelândia - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Marcelândia - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "História da Enfermagem",
+    "enunciado": "A figura central na fundação da enfermagem moderna, reconhecida por suas reformas sanitárias e pela organização hospitalar durante a Guerra da Crimeia, é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Clara Barton"
+      },
+      {
+        "id": "B",
+        "texto": "Mary Seacole"
+      },
+      {
+        "id": "C",
+        "texto": "Florence Nightingale"
+      },
+      {
+        "id": "D",
+        "texto": "Edith Cavell 191 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0110",
+    "numero_ordem": 110,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Clara Barton...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Mary Seacole...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Florence Nightingale...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Edith Cavell 191 Ano: 2025...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3617183",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Tapurah - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Tapurah - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "História da Enfermagem",
+    "enunciado": "A evolução da enfermagem no Brasil é marcada por instituições pioneiras no ensino e na atuação profissional. Tal panorama é ratificado em:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "a fundação da Escola de Enfermagem Anna Nery inaugurou o ensino superior formal da enfermagem no país"
+      },
+      {
+        "id": "B",
+        "texto": "a criação do Sistema Único de Saúde (SUS) precedeu a Primeira Escola de Enfermagem do Brasil"
+      },
+      {
+        "id": "C",
+        "texto": "os primeiros cursos de enfermagem brasileiros foram direcionados exclusivamente à formação técnica"
+      },
+      {
+        "id": "D",
+        "texto": "o desenvolvimento da enfermagem no Brasil esteve desvinculado de influências internacionais 208 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0127",
+    "numero_ordem": 127,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a fundação da Escola de Enfermagem Anna Nery inaugurou o ensino superior formal da enferma...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a criação do Sistema Único de Saúde (SUS) precedeu a Primeira Escola de Enfermagem do Bras...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o desenvolvimento da enfermagem no Brasil esteve desvinculado de influências internacionai...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3617173",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Tapurah - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Tapurah - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "História da Enfermagem",
+    "enunciado": "Sobre a contribuição de Florence Nightingale para a profissionalização da enfermagem durante a Guerra da Crimeia, pode-se afirmar que:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "desenvolveu métodos empíricos sem embasamento científico para o controle de infecções"
+      },
+      {
+        "id": "B",
+        "texto": "estruturou princípios de higiene e organização do cuidado, reduzindo a mortalidade nos hospitais militares"
+      },
+      {
+        "id": "C",
+        "texto": "fundamentou sua atuação na tradicional caridade cristã, sem promover mudanças técnicas"
+      },
+      {
+        "id": "D",
+        "texto": "restringiu suas ações à administração de medicamentos em pacientes moribundos 215 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0134",
+    "numero_ordem": 134,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'desenvolveu métodos empíricos sem embasamento científico para o controle de infecções...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'estruturou princípios de higiene e organização do cuidado, reduzindo a mortalidade nos hos...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'fundamentou sua atuação na tradicional caridade cristã, sem promover mudanças técnicas...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'restringiu suas ações à administração de medicamentos em pacientes moribundos 215 Ano: 202...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  }
+]

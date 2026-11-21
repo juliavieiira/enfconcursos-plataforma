@@ -1,0 +1,459 @@
+=== CADERNO DE QUESTÕES: CUIDADOS DE ENFERMAGEM ===
+Total: 24 questões
+
+QUESTÃO 1 [Código: EF0002] - Prefeitura de Nova Mutum - MT (SELECON 2026) - Técnico de Enfermagem
+Assunto: Cuidados de Enfermagem , Segurança do Paciente
+Uma paciente idosa, internada em unidade hospitalar, recebe oxigenoterapia por cateter nasal tipo óculos, cuja tubulação passa sobre as orelhas. Durante os cuidados de higiene, o técnico de enfermagem observa vermelhidão na pele atrás das orelhas, nos pontos em que a tubulação exerce pressão, sem presença de feridas. Considerando as medidas de prevenção de lesões cutâneas relacionadas a dispositivos médicos, a conduta adequada é:
+
+  [A] aumentar a tensão da tubulação para evitar seu deslocamento
+  [B] aplicar creme hidratante na região avermelhada, mantendo a pressão exercida pela tubulação
+  [C] colocar uma cobertura protetora espessa sob a tubulação, para que não seja necessário reavaliar o ajuste ou a pressão exercida sobre a pele
+  [D] verificar e corrigir o ajuste da tubulação, utilizar proteção cutânea apropriada quando indicada e inspecionar regularmente os pontos de contato, preservando a oxigenoterapia
+
+✅ Gabarito: D
+💡 Fundamentação: De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [D] ('verificar e corrigir o ajuste da tubulação, utilizar proteção cutânea apropriada quando indicada e inspecionar regularmente os pontos de contato, preservando a oxigenoterapia') assegura a integridade tecidual e a continuidade segura da terapêutica.
+❌ Distratores:
+   • Alternativa A: Aumentar a tensão mecânica intensifica a isquemia e a necrose tecidual sob o dispositivo, agravando o risco de lesão por pressão.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aplicar creme hidratante na região avermelhada, mantendo a pressão exercida pela tubulação...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'colocar uma cobertura protetora espessa sob a tubulação, para que não seja necessário reav...'.
+
+------------------------------------------------------------
+
+QUESTÃO 2 [Código: EF0006] - Prefeitura de Nova Mutum - MT (SELECON 2026) - Técnico de Enfermagem
+Assunto: Cuidados de Enfermagem , Enfermagem em Oncologia
+A radiodermatite é uma reação cutânea que pode ocorrer durante o tratamento radioterápico. A adoção de cuidados adequados com a pele irradiada contribui para minimizar a irritação local e preservar sua integridade. Um paciente em radioterapia apresenta eritema discreto na região tratada, sem lesões abertas ou descamação úmida. Considerando os cuidados de higiene e a proteção da pele nessa condição, a conduta adequada corresponde a higienizar a região com:
+
+  [A] água morna e sabonete suave, secando-a delicadamente
+  [B] sabonete antisséptico, utilizando movimentos circulares para remover resíduos
+  [C] água morna e sabonete suave, realizando fricção com toalha macia para estimular a circulação
+  [D] água morna e sabonete suave, secando-a delicadamente e aplicando compressas aquecidas para aliviar o desconforto
+
+✅ Gabarito: A
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [A] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: 'água morna e sabonete suave, secando-a delicadamente'.
+❌ Distratores:
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'sabonete antisséptico, utilizando movimentos circulares para remover resíduos...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'água morna e sabonete suave, realizando fricção com toalha macia para estimular a circulaç...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'água morna e sabonete suave, secando-a delicadamente e aplicando compressas aquecidas para...'.
+
+------------------------------------------------------------
+
+QUESTÃO 3 [Código: EF0033] - Prefeitura de Araçás - BA (SELECON 2026) - Técnico de Enfermagem
+Assunto: Cuidados de Enfermagem , Segurança do Paciente
+Enfermagem A sondagem nasogástrica para descompressão gástrica ou administração de dieta enteral requer a verificação do posicionamento correto da sonda antes de qualquer infusão, pois o posicionamento acidental na via respiratória ou a migração para o duodeno podem causar complicações graves. Os métodos de verificação incluem a ausculta de ruído hidroaéreo com insuflação de ar, a aspiração de conteúdo gástrico com medida do pH e a radiografia de tórax, considerada padrão ouro. Em um paciente com rebaixamento do nível de consciência e em uso de dieta enteral contínua, o técnico de enfermagem realiza a troca da sonda nasogástrica e, após a inserção, aspira 20 mL de líquido com pH 6,5 e observa saída de bolhas durante a insuflação de ar com ausculta. Considerando as evidências atuais, a conduta mais segura para confirmar o posicionamento antes de reiniciar a dieta é:
+
+  [A] considerar a sonda corretamente posicionada, pois o pH 6,5 é compatível com conteúdo gástrico em pacientes em jejum, e a ausculta positiva confirma a localização
+  [B] suspender a dieta e solicitar a realização de radiografia de tórax para confirmar a ponta da sonda abaixo do diafragma, antes de qualquer infusão
+  [C] injetar 50 mL de ar e auscultar o epigástrio por 10 segundos, repetindo o teste três vezes para garantir a acurácia, antes de iniciar a dieta
+  [D] avançar a sonda em mais 5 cm e realizar nova aspiração; se o pH mantiver-se abaixo de 5,5, iniciar a dieta com bomba de infusão
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'considerar a sonda corretamente posicionada, pois o pH 6,5 é compatível com conteúdo gástr...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'suspender a dieta e solicitar a realização de radiografia de tórax para confirmar a ponta ...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'injetar 50 mL de ar e auscultar o epigástrio por 10 segundos, repetindo o teste três vezes...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'avançar a sonda em mais 5 cm e realizar nova aspiração; se o pH mantiver-se abaixo de 5,5,...'.
+
+------------------------------------------------------------
+
+QUESTÃO 4 [Código: EF0054] - Prefeitura de Barra do Garças - MT (SELECON 2026) - Técnico de Enfermagem
+Assunto: Cuidados de Enfermagem , Segurança do Paciente
+Técnico em Enfermagem - SMS Na assistência à pessoa em uso de cateter vesical de demora, a manutenção adequada do sistema de drenagem contribui para reduzir complicações associadas ao dispositivo. Entre os cuidados com esse sistema, está indicado:
+
+  [A] elevar a bolsa durante a mobilização
+  [B] manter a bolsa abaixo do nível da bexiga
+  [C] desconectar o sistema periodicamente para esvaziar a extensão
+  [D] apoiar a bolsa coletora no piso quando necessário para evitar tração do cateter 55 Enfermagem > Enfermagem em Centro Cirúrgico , Trans-Operatório , Enfermagem em Central de Material Esterilizado Banca: SELECON Órgão: Prefeitura de Barra do Garças - MT Prova: SELECON - 2026 - Prefeitura de Barra do Garças - MT -
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'elevar a bolsa durante a mobilização...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter a bolsa abaixo do nível da bexiga...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'desconectar o sistema periodicamente para esvaziar a extensão...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'apoiar a bolsa coletora no piso quando necessário para evitar tração do cateter 55 Enferma...'.
+
+------------------------------------------------------------
+
+QUESTÃO 5 [Código: EF0075] - EMGEPRON (SELECON 2026) - Técnico de Enfermagem
+Assunto: Cuidados de Enfermagem
+Durante a avaliação de um paciente acamado, o técnico de enfermagem identificou uma lesão localizada na região sacral, com perda parcial da espessura da pele, exposição do leito da ferida com tecido de coloração rósea, aspecto úmido, sem presença de esfacelo ou necrose. Considerando a classificação das lesões por pressão e os fundamentos do cuidado em enfermagem, essa lesão corresponde à lesão por pressão:
+
+  [A] em estágio 1, definida pela presença de eritema não branqueável em pele íntegra, sem ruptura da epiderme e ausência de bordas
+  [B] em estágio 2, caracterizada por perda parcial da pele, com exposição do leito da ferida, aspecto róseo e ausência de tecido necrótico
+  [C] em estágio 3, caracterizada por perda total da pele, com exposição de tecido subcutâneo e possível presença de esfacelo
+  [D] não classificável, em razão da necessidade de avaliação especializada para identificação da profundidade da lesão
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'em estágio 1, definida pela presença de eritema não branqueável em pele íntegra, sem ruptu...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'em estágio 2, caracterizada por perda parcial da pele, com exposição do leito da ferida, a...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'em estágio 3, caracterizada por perda total da pele, com exposição de tecido subcutâneo e ...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'não classificável, em razão da necessidade de avaliação especializada para identificação d...'.
+
+------------------------------------------------------------
+
+QUESTÃO 6 [Código: EF0081] - EMGEPRON (SELECON 2026) - Técnico de Enfermagem
+Assunto: Cuidados de Enfermagem , Enfermagem em Oncologia
+Um paciente em tratamento quimioterápico apresenta mucosite oral, com dor ao deglutir e dificuldade para alimentação. Considerando os cuidados específicos de enfermagem ao paciente oncológico, a conduta correta a ser adotada pelo técnico de enfermagem é:
+
+  [A] manter a higiene oral com soluções suaves e não alcoólicas, estimular hidratação e comunicar a equipe sobre a intensidade da lesão
+  [B] realizar higiene oral frequente com soluções antissépticas alcoólicas, para reduzir ou interromper a proliferação bacteriana
+  [C] orientar a suspensão da higiene oral até a regressão completa das lesões, a fim de evitar sangramentos e dor
+  [D] restringir a alimentação por via oral até resolução da mucosite, evitando o agravamento das lesões 82 Enfermagem > Oxigenoterapia , Higiene nos Procedimentos de Enfermagem , Cuidados de Enfermagem Fundamentos e Procedimentos de Enfermagem Banca: SELECON Órgão: EMGEPRON Prova: SELECON - 2026 - EMGEPRON - Técnico em Enfermagem
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter a higiene oral com soluções suaves e não alcoólicas, estimular hidratação e comunic...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar higiene oral frequente com soluções antissépticas alcoólicas, para reduzir ou int...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'orientar a suspensão da higiene oral até a regressão completa das lesões, a fim de evitar ...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'restringir a alimentação por via oral até resolução da mucosite, evitando o agravamento da...'.
+
+------------------------------------------------------------
+
+QUESTÃO 7 [Código: EF0091] - EMGEPRON (SELECON 2026) - Enfermeiro
+Assunto: Cuidados de Enfermagem , Atenção Básica e Saúde da Família , Doenças Crônicas Não Transmissíveis
+Um paciente de 58 anos, com diagnóstico de diabetes mellitus tipo 2, comparece à unidade básica de saúde para acompanhamento. Apresenta controle glicêmico irregular e histórico de infecções recorrentes de pele e trato urinário. Ao pensar na atuação da enfermagem na assistência à complicações infecciosas associadas às doenças crônico-degenerativas, a conduta mais adequada é:
+
+  [A] priorização do monitoramento glicêmico e a orientação para uso regular de medicamentos, associando medidas educativas complementares quando necessárias
+  [B] realização de vigilância clínica, educação em saúde e orientação sobre controle glicêmico, higiene e cuidados com a pele, visando a reduzir o risco de infecções
+  [C] realização de acompanhamento clínico, com foco no tratamento das infecções já instaladas e encaminhamento para avaliação médica quando necessário
+  [D] orientação ao paciente para fazer uso de terapias naturais com extratos e ervas e comparecer às consultas anuais para controle da glicemia
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'priorização do monitoramento glicêmico e a orientação para uso regular de medicamentos, as...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realização de vigilância clínica, educação em saúde e orientação sobre controle glicêmico,...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realização de acompanhamento clínico, com foco no tratamento das infecções já instaladas e...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'orientação ao paciente para fazer uso de terapias naturais com extratos e ervas e comparec...'.
+
+------------------------------------------------------------
+
+QUESTÃO 8 [Código: EF0118] - Prefeitura de Nova Mutum - MT (SELECON 2025) - Enfermeiro
+Assunto: Cuidados de Enfermagem , Fundamentos e Procedimentos de Enfermagem
+Durante o plantão, o enfermeiro observa que um paciente com acesso venoso periférico no dorso da mão para infusão de soro fisiológico começa a se queixar de dor no local da punção. Ao inspecionar o local, o profissional nota a ausência de retorno venoso, edema progressivo ao redor do cateter, pele fria ao toque e uma diminuição signifi cativa na velocidade do gotejamento da infusão, apesar da pinça rolete estar aberta. Esses sinais e sintomas indicam que a solução intravenosa não está mais correndo dentro da veia, mas sim se acumulando no espaço extravascular. Esse evento adverso, comum na terapia intravenosa, é tecnicamente denominado:
+
+  [A] flebite
+  [B] hematoma
+  [C] embolia gasosa
+  [D] infiltração 199 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'embolia gasosa...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'infiltração 199 Ano: 2025...'.
+
+------------------------------------------------------------
+
+QUESTÃO 9 [Código: EF0123] - Prefeitura de Nova Mutum - MT (SELECON 2025) - Enfermeiro
+Assunto: Cuidados de Enfermagem
+O posicionamento adequado do paciente no leito é uma responsabilidade do profi ssional de enfermagem, prevenindo complicações como úlceras por pressão e desconfortos respiratórios, especialmente em pacientes restritos ao leito por longos períodos. A realização de mudanças posturais regulares e a atenção a proeminências ósseas e dispositivos médicos são práticas que garantem conforto e preservação da integridade da pele durante o tempo de internação. A ação correta para esse manejo corresponde à(ao):
+
+  [A] manutenção do paciente sempre na posição dorsal
+  [B] mudança de decúbito a cada 6 horas
+  [C] realização de mudança postural a cada 2 horas
+  [D] direito de escolha do paciente sobre a posição que deseja fi car durante todo o dia 204 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manutenção do paciente sempre na posição dorsal...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'mudança de decúbito a cada 6 horas...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realização de mudança postural a cada 2 horas...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'direito de escolha do paciente sobre a posição que deseja fi car durante todo o dia 204 An...'.
+
+------------------------------------------------------------
+
+QUESTÃO 10 [Código: EF0145] - Prefeitura de Tapurah - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Cuidados de Enfermagem , Assistência de Enfermagem em Feridas e Curativos
+Enfermagem Durante a troca de um curativo em ferida cirúrgica abdominal com secreção purulenta e odor fétido, o técnico de enfermagem observa tecido escurecido, odor desagradável e sinais de infecção local. Considerando as boas práticas em curativos e as atribuições do técnico de enfermagem, a conduta mais adequada corresponde a:
+
+  [A] irrigar a ferida com solução antisséptica à base de álcool e cobrir com gaze seca para absorção
+  [B] cobrir a ferida com curativo oclusivo impermeável sem limpeza prévia para evitar contaminação externa
+  [C] aplicar pomada antibiótica em toda a extensão da ferida, mesmo sem prescrição, para acelerar a cicatrização
+  [D] realizar limpeza com solução fisiológica estéril, utilizar técnica asséptica e aplicar cobertura prescrita pelo enfermeiro ou médico, mantendo registro das alterações observadas
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'irrigar a ferida com solução antisséptica à base de álcool e cobrir com gaze seca para abs...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'cobrir a ferida com curativo oclusivo impermeável sem limpeza prévia para evitar contamina...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aplicar pomada antibiótica em toda a extensão da ferida, mesmo sem prescrição, para aceler...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar limpeza com solução fisiológica estéril, utilizar técnica asséptica e aplicar cob...'.
+
+------------------------------------------------------------
+
+QUESTÃO 11 [Código: EF0152] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Cuidados de Enfermagem , Assistência de Enfermagem em Feridas e Curativos
+MT - Técnico em Enfermagem APH Um paciente idoso, acamado há duas semanas devido a uma fratura de fêmur, desenvolveu uma lesão por pressão estágio Il na região sacral. A lesão apresenta-se como uma perda parcial da espessura da derme, com leito vermelho-róseo, sem esfacelo, e bordas definidas. Ao planejar o cuidado de enfermagem para essa ferida, a conduta mais apropriada para promover a cicatrização e prevenir a progressão da lesão é:
+
+  [A] realizar limpeza com solução de clorexidina alcoóica vigorosamente para garantir a desinfecção, seguida da aplicação de uma cobertura oclusiva espessa para proteger contra contaminação externa
+  [B] aplicar papaína a 10% para promover o desbridamento químico do tecido necrótico presente, cobrindo com gaze seca para absorver o exsudato
+  [C] deixar a ferida exposta ao ar para acelerar a secagem e formação de crosta, orientando o paciente a evitar qualquer contato com a regido afetada
+  [D] limpar a lesão suavemente com solução salina isotônica (0,9%), aplicar um curativo que mantenha o leito da ferida úmido (como hidrocoloide fino ou filme transparente) e implementar rigoroso esquema de mudança de decúbito 233 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar limpeza com solução de clorexidina alcoóica vigorosamente para garantir a desinfe...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aplicar papaína a 10% para promover o desbridamento químico do tecido necrótico presente, ...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'deixar a ferida exposta ao ar para acelerar a secagem e formação de crosta, orientando o p...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'limpar a lesão suavemente com solução salina isotônica (0,9%), aplicar um curativo que man...'.
+
+------------------------------------------------------------
+
+QUESTÃO 12 [Código: EF0161] - Prefeitura de São José dos Quatro Marcos - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Cuidados de Enfermagem
+Quatro Marcos - MT - Técnico em Enfermagem No cuidado ao paciente, a realização do balanço hídrico é uma prática essencial para monitorar o estado de hidratação e a função renal, especialmente em situações críticas. Além disso, a classificação do débito urinário fornece informações cruciais sobre a função renal do paciente. Com base nisso, a alternativa correta sobre os cuidados de enfermagem relacionados ao balanço hídrico e à classificação de débito urinário é:
+
+  [A] o balanço hídrico é realizado apenas quando o paciente apresenta sinais de desidratação, e o débito urinário é classificado como normal quando superior a 300 ml/dia em adultos
+  [B] o balanço hídrico é irrelevante para pacientes com função renal preservada, e o débito urinário é considerado normal quando superior a 1000 ml/dia em adultos
+  [C] o balanço hídrico deve serrealizado apenas em pacientes com insuficiência renal aguda, e o débito urinário é considerado anômalo quando inferior a 100 ml/dia em adultos
+  [D] a medição do balanço hídrico envolve a monitorização de líquidos administrados e excretados, e o débito urinário é considerado normal quando superior a 400 ml/dia em adultos, podendo ser classificado como oligúria quando inferior a 500 ml/dia 242 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o balanço hídrico é realizado apenas quando o paciente apresenta sinais de desidratação, e...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o balanço hídrico é irrelevante para pacientes com função renal preservada, e o débito uri...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o balanço hídrico deve serrealizado apenas em pacientes com insuficiência renal aguda, e o...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a medição do balanço hídrico envolve a monitorização de líquidos administrados e excretado...'.
+
+------------------------------------------------------------
+
+QUESTÃO 13 [Código: EF0165] - Prefeitura de São José dos Quatro Marcos - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Cuidados de Enfermagem , Assistência de Enfermagem em Feridas e Curativos
+Quatro Marcos - MT - Técnico em Enfermagem Paciente de 43 anos foi submetido a uma cirurgia para drenar um abscesso. A ferida apresentou intercorrências devido à presença de dor, secreção e risco de infecção, e o médico responsável optou pela cicatrização por terceira intenção como conduta terapêutica. A alternativa correta sobre esse tipo de cicatrização:
+
+  [A] a cicatrização por terceira intenção ocorre com a aplicação de curativos com agentes enzimáticos que promovem o fechamento imediato da ferida sem a necessidade de drenagem ou cuidados contínuos
+  [B] a cicatrização por terceira intenção é indicada apenas em feridas com grande quantidade de necrose, onde a ferida é deixada aberta indefinidamente para drenagem, sem fechamento posterior
+  [C] a cicatrização por terceira intenção ocorre quando a ferida é suturada imediatamente após a cirurgia, sendo indicada principalmente em casos de feridas limpas e com mínima secreção
+  [D] A cicatrização por terceira intenção é caracterizada pelo fechamento da ferida após uma fase inicial de cura por segunda intenção, em que a ferida é deixada aberta e, posteriormente, fechada por sutura quando os riscos de infecção diminuem 246 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a cicatrização por terceira intenção ocorre com a aplicação de curativos com agentes enzim...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a cicatrização por terceira intenção é indicada apenas em feridas com grande quantidade de...'.
+   • Alternativa C: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'A cicatrização por terceira intenção é caracterizada pelo fechamento da ferida após uma fa...'.
+
+------------------------------------------------------------
+
+QUESTÃO 14 [Código: EF0171] - HEMOMINAS (SELECON 2025) - Enfermeiro
+Assunto: Cuidados de Enfermagem
+ANHH - Nível I - Grau A - Enfermeiro A assistência de enfermagem a pacientes com doenças hepáticas crônicas, como a cirrose, envolve uma série de cuidados específicos para prevenir complicações e promover a qualidade de vida. A respeito desses cuidados de enfermagem, é coerente dizer que:
+
+  [A] a administração de diuréticos deve ser evitada em pacientes com ascite, pois pode agravar a retenção de líquidos e aumentar o risco de peritonite bacteriana espontânea
+  [B] a monitorização dos níveis de amônia sanguínea é irrelevante, uma vez que a encefalopatia hepática não está diretamente relacionada à concentração de amônia no sangue
+  [C] a orientação ao paciente sobre a restrição de sódio na dieta é fundamental para controlar a ascite e prevenir a retenção hídrica
+  [D] a realização de paracentese terapêutica é indicada apenas em casos de ascite refratária e deve ser evitada em pacientes com coagulopatia, independentemente do grau de severidade 252 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a administração de diuréticos deve ser evitada em pacientes com ascite, pois pode agravar ...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a monitorização dos níveis de amônia sanguínea é irrelevante, uma vez que a encefalopatia ...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a orientação ao paciente sobre a restrição de sódio na dieta é fundamental para controlar ...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a realização de paracentese terapêutica é indicada apenas em casos de ascite refratária e ...'.
+
+------------------------------------------------------------
+
+QUESTÃO 15 [Código: EF0181] - HEMOMINAS (SELECON 2025) - Enfermeiro
+Assunto: Cuidados de Enfermagem
+ANHH - Nível I - Grau A - Enfermeiro A avaliação adequada do estado de consciência do paciente é um elemento básico nos cuidados de enfermagem. Acerca da Escala de Coma de Glasgow (ECG), é possível afirmar que:
+
+  [A] a ECG avalia a profundidade do coma considerando três parâmetros: resposta visual, resposta auditiva e resposta motora
+  [B] a pontuação máxima na ECG é 15, indicando um paciente em coma profundo
+  [C] a ECG avalia três parâmetros: abertura ocular, resposta verbal e resposta motora, com a pontuação mínima sendo
+  [D] em caso de paciente intubado, a avaliação da ECG deve ser suspensa, pois não é possível aplicar os critérios da escala 262 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a ECG avalia a profundidade do coma considerando três parâmetros: resposta visual, respost...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a pontuação máxima na ECG é 15, indicando um paciente em coma profundo...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a ECG avalia três parâmetros: abertura ocular, resposta verbal e resposta motora, com a po...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'em caso de paciente intubado, a avaliação da ECG deve ser suspensa, pois não é possível ap...'.
+
+------------------------------------------------------------
+
+QUESTÃO 16 [Código: EF0264] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
+Assunto: Cuidados de Enfermagem
+“Disponibilidade para receber o pedido do usuário e realizar a escuta de sua queixa, buscando compreender o problema apresentado, ampliando a possibilidade de estabelecer um vínculo de confiança com o usuário e identificar outras necessidades em saúde que ele possa apresentar, mesmo que não tenham sido explicitadas por ele”. Essa é a definição de uma atividade de enfermagem denominada como:
+
+  [A] cuidado
+  [B] anamnese
+  [C] acolhimento
+  [D] exame físico
+  [E] assistência de alta complexidade
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'acolhimento...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'exame físico...'.
+   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'assistência de alta complexidade...'.
+
+------------------------------------------------------------
+
+QUESTÃO 17 [Código: EF0339] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+Assunto: Cuidados de Enfermagem
+As posições terapêuticas têm diferentes finalidades, como proporcionar conforto, realizar exames, tratamentos e cirurgias. De acordo com a finalidade e, consequentemente, a região a ser examinada, a equipe de enfermagem deve auxiliar o paciente a adotar posições específicas. A posição para descanso, conforto, que facilita a respiração e a alimentação por sonda e diminui o risco de broncoaspiração, é a:
+
+  [A] fowler
+  [B] supina
+  [C] lateral
+  [D] ortostática 420 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme as Recomendações de Boas Práticas em Nutrição Enteral da BRASPEN e da ANVISA (RDC nº 63/2000), a prevenção da pneumonia por broncoaspiração em pacientes recebendo dieta por sonda enteral exige a manutenção da cabeceira elevada em ângulo de 30° a 45° durante toda a infusão e por no mínimo 30 a 60 minutos após o término da dieta, para garantir o esvaziamento gástrico seguro. A alternativa [] descreve exatamente essa conduta preconizada.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ortostática 420 Ano: 2024...'.
+
+------------------------------------------------------------
+
+QUESTÃO 18 [Código: EF0413] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
+Assunto: Cuidados de Enfermagem
+Enfermagem O Técnico de Enfermagem exerce atividade de nível médio, envolvendo orientação e acompanhamento do trabalho de enfermagem em grau auxiliar, além de participação no planejamento da assistência de enfermagem, cabendo-lhe especialmente:
+
+  [A] executar ações assistenciais de enfermagem
+  [B] prestar assistência de alta complexidade
+  [C] planejar a assistência de enfermagem
+  [D] coordenar a equipe de enfermagem 494 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'executar ações assistenciais de enfermagem...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'prestar assistência de alta complexidade...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'planejar a assistência de enfermagem...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'coordenar a equipe de enfermagem 494 Ano: 2024...'.
+
+------------------------------------------------------------
+
+QUESTÃO 19 [Código: EF0443] - EMGEPRON (SELECON 2026) - Enfermeiro
+Assunto: Cuidados de Enfermagem , Assistência de Enfermagem em Feridas e Curativos
+No pós-operatório de cirurgias de grande porte, a avaliação sistemática de complicações locais é atribuição do enfermeiro. Em relação ao seroma, pode-se dizer que a sua identificação clínica e a conduta adequada do enfermeiro, são, respectivamente:
+
+  [A] acúmulo de líquido seroso em espaço morto cirúrgico, manifestando-se por aumento de volume e flutuação local, geralmente sem sinais flogísticos importantes, cabendo ao enfermeiro monitorar, registrar e comunicar a equipe para avaliação
+  [B] extravasamento sanguíneo subcutâneo com equimose, dor variável e aumento de volume local, decorrente de sangramento tecidual, sendo considerado intercorrência possível no pós-operatório
+  [C] coleção purulenta associada à hiperemia, dor intensa, calor local e com possibilidade de febre, cuja conduta envolve antibioticoterapia e preparo para drenagem cirúrgica conforme avaliação médica
+  [D] complicação infecciosa sistêmica caracterizada por alterações laboratoriais e sinais gerais, cuja identificação prescinde da inspeção e palpação da ferida operatória 104 Ano: 2026
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'acúmulo de líquido seroso em espaço morto cirúrgico, manifestando-se por aumento de volume...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'extravasamento sanguíneo subcutâneo com equimose, dor variável e aumento de volume local, ...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'coleção purulenta associada à hiperemia, dor intensa, calor local e com possibilidade de f...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'complicação infecciosa sistêmica caracterizada por alterações laboratoriais e sinais gerai...'.
+
+------------------------------------------------------------
+
+QUESTÃO 20 [Código: EF0472] - Prefeitura de Porto dos Gaúchos - MT (SELECON 2026) - Enfermeiro
+Assunto: Cuidados de Enfermagem
+MT - Enfermeiro A Teoria Ambientalista de Florence Nightingale enfatiza a importância do ambiente no processo de recuperação do paciente. Para Nightingale, o enfermeiro deve ajustar fatores a fi m de promover condições favoráveis à cura. Entre os elementos ambientais considerados essenciais em sua teoria, inclui-se:
+
+  [A] a presença de familiares em tempo integral no quarto do paciente
+  [B] o uso de tecnologias avançadas de monitoramento vital
+  [C] a ventilação, a limpeza, a luz e o silêncio
+  [D] a aplicação de protocolos de medicação baseados em evidências 133 Ano: 2026
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a presença de familiares em tempo integral no quarto do paciente...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o uso de tecnologias avançadas de monitoramento vital...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a ventilação, a limpeza, a luz e o silêncio...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a aplicação de protocolos de medicação baseados em evidências 133 Ano: 2026...'.
+
+------------------------------------------------------------
+
+QUESTÃO 21 [Código: EF0473] - Prefeitura de Porto dos Gaúchos - MT (SELECON 2025) - Enfermeiro
+Assunto: Cuidados de Enfermagem
+MT - Enfermeiro A Teoria das Necessidades Humanas Básicas, proposta por Wanda de Aguiar Horta, fundamenta-se na ideia de que o cuidado de enfermagem deve ser planejado com base na identifi cação e atendimento das necessidades do paciente, considerando-o como um ser biopsicossocial. Segundo essa teoria, a hierarquização das necessidades é essencial para a priorização das intervenções. Nesse contexto, a correta sequência hierárquica proposta por Horta corresponde a necessidades:
+
+  [A] psicobiológicas, necessidades psicossociais, necessidades psicoespirituais
+  [B] de segurança, necessidades fisiológicas, necessidades de autoestima
+  [C] fisiológicas, necessidades de segurança, necessidades de amor e pertinência
+  [D] psicossociais, necessidades psicobiológicas, necessidades psicoespirituais 134 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'psicobiológicas, necessidades psicossociais, necessidades psicoespirituais...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'de segurança, necessidades fisiológicas, necessidades de autoestima...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'fisiológicas, necessidades de segurança, necessidades de amor e pertinência...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'psicossociais, necessidades psicobiológicas, necessidades psicoespirituais 134 Ano: 2025...'.
+
+------------------------------------------------------------
+
+QUESTÃO 22 [Código: EF0478] - Prefeitura de Barra do Garças - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Cuidados de Enfermagem
+Técnico em Enfermagem Durante a transfusão de hemácias, o paciente apresenta febre, dor lombar, taquicardia e queda de pressão arterial. O técnico deve reconhecer que esses sinais são sugestivos de reação hemolítica aguda. A conduta imediata é:
+
+  [A] suspender a transfusão e manter acesso venoso com solução fisiológica
+  [B] prosseguir com a transfusão e comunicar o enfermeiro após o término
+  [C] reduzir a velocidade da transfusão e administrar antitérmico
+  [D] suspender a transfusão e manter infusão de glicose 5% 139 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'suspender a transfusão e manter acesso venoso com solução fisiológica...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'prosseguir com a transfusão e comunicar o enfermeiro após o término...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'reduzir a velocidade da transfusão e administrar antitérmico...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'suspender a transfusão e manter infusão de glicose 5% 139 Ano: 2025...'.
+
+------------------------------------------------------------
+
+QUESTÃO 23 [Código: EF0495] - Prefeitura de Barra do Garças - MT (SELECON 2025) - Enfermeiro
+Assunto: Cuidados de Enfermagem , Doenças Crônicas Não Transmissíveis
+A Doença Pulmonar Obstrutiva Crônica (DPOC) é uma condição crônico-degenerativa progressiva, caracterizada por limitação do fluxo aéreo, geralmente causada pela exposição prolongada a irritantes, como fumaça de cigarro. O enfermeiro atua na educação, manejo de sintomas e prevenção de exacerbações. Em um paciente com DPOC, que apresenta dispneia e tosse produtiva, a intervenção de enfermagem prioritária para melhorar a ventilação e o conforto respiratório é:
+
+  [A] incentivar a hidratação adequada e ensinar técnicas de higiene brônquica, como a tosse eficaz e a respiração com lábios semicerrados
+  [B] orientar o paciente a reter a tosse para evitar o esforço excessivo
+  [C] manter o paciente em decúbito dorsal horizontal para promover o relaxamento
+  [D] administrar sedativos para diminuir a percepção da dispneia, sem abordar a causa 156 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'incentivar a hidratação adequada e ensinar técnicas de higiene brônquica, como a tosse efi...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'orientar o paciente a reter a tosse para evitar o esforço excessivo...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter o paciente em decúbito dorsal horizontal para promover o relaxamento...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administrar sedativos para diminuir a percepção da dispneia, sem abordar a causa 156 Ano: ...'.
+
+------------------------------------------------------------
+
+QUESTÃO 24 [Código: EF0506] - Prefeitura de Barra do Garças - MT (SELECON 2025) - Enfermeiro
+Assunto: Cuidados de Enfermagem , Fundamentos e Procedimentos de Enfermagem
+A higiene pessoal do paciente é uma intervenção de enfermagem crucial que vai além da simples limpeza física. Ela contribui significativamente para o conforto, a autoestima, a prevenção de infecções e a avaliação da integridade da pele. Ao realizar o banho no leito em um paciente acamado, com mobilidade reduzida e risco de lesão por pressão, a equipe de enfermagem deve adotar uma série de cuidados específicos para garantir a segurança e a eficácia do procedimento. Considerando esses aspectos, a prática que é mais adequada para a realização do banho no leito, visando à prevenção de complicações e à promoção do bem-estar, consiste em:
+
+  [A] utilizar água muito quente para garantir a desinfecção da pele e esfregar vigorosamente para remover sujidades, sem se preocupar com a temperatura ambiente
+  [B] manter a privacidade do paciente, utilizar água morna, cobrir as partes do corpo que não estão sendo lavadas, inspecionar a pele durante o processo e realizar massagens suaves em proeminências ósseas
+  [C] realizar o banho rapidamente, sem cobrir o paciente, para evitar a perda de tempo e a necessidade de reposicionamento
+  [D] deixar o paciente molhado após o banho, para que a pele seque naturalmente, pois a fricção com a toalha pode causar irritação 167 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar água muito quente para garantir a desinfecção da pele e esfregar vigorosamente pa...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter a privacidade do paciente, utilizar água morna, cobrir as partes do corpo que não e...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar o banho rapidamente, sem cobrir o paciente, para evitar a perda de tempo e a nece...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'deixar o paciente molhado após o banho, para que a pele seque naturalmente, pois a fricção...'.
+
+------------------------------------------------------------
+

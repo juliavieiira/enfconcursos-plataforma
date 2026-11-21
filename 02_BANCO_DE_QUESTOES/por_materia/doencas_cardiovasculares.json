@@ -1,0 +1,106 @@
+[
+  {
+    "codigo_origem": "Q3265169",
+    "banca": "SELECON",
+    "orgao": "HEMOMINAS",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - HEMOMINAS - Analista de Hematologia e Hemoterapia -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Doenças Cardiovasculares , Cuidados de Enfermagem , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "ANHH - Nível I - Grau A - Enfermeiro A assistência de enfermagem a pacientes com doenças cardiovasculares exige um conhecimento detalhado das condições clínicas e das intervenções apropriadas. Sobre os cuidados de enfermagem a pacientes com insuficiência cardíaca, pode-se dizer que:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "a monitorização do balanço hídrico é irrelevante em pacientes com insuficiência cardíaca, pois a retenção de líquidos não afeta significativamente a condição clínica"
+      },
+      {
+        "id": "B",
+        "texto": "a administração de diuréticos deve ser feita sem considerar a monitorização dos eletrólitos, uma vez que as alterações eletrolíticas não são comuns nesses pacientes"
+      },
+      {
+        "id": "C",
+        "texto": "a orientação ao paciente sobre a importância do controle da ingestão de sódio e a adesão ao tratamento medicamentoso é fundamental para a prevenção de exacerbações da insuficiência cardíaca"
+      },
+      {
+        "id": "D",
+        "texto": "a prática de exercícios físicos intensos é recomendada para todos os pacientes com insuficiência cardíaca, independentemente do estágio da doença, para melhorar a função cardíaca 257 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0176",
+    "numero_ordem": 176,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a monitorização do balanço hídrico é irrelevante em pacientes com insuficiência cardíaca, ...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a administração de diuréticos deve ser feita sem considerar a monitorização dos eletrólito...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a orientação ao paciente sobre a importância do controle da ingestão de sódio e a adesão a...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a prática de exercícios físicos intensos é recomendada para todos os pacientes com insufic...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q2453005",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sapezal - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Doenças Cardiovasculares , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "As doenças cardiovasculares são a principal causa de morte não só no Brasil, mas em todo o mundo. Todos os anos, milhares de brasileiros vão a óbito em decorrência dessas doenças. Algumas enfermidades no coração podem ser descobertas logo nos primeiros anos de vida, as cardiopatias congênitas. Além de outras, que surgem ao longo da vida. Os principais fatores de risco para o desenvolvimento de doenças cardiovasculares são:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "tabagismo, colesterol em excesso, hipertensão, obesidade, estresse, depressão e diabetes"
+      },
+      {
+        "id": "B",
+        "texto": "doenças pré-existentes, idade, sexo, condições socioeconômicas e estresse"
+      },
+      {
+        "id": "C",
+        "texto": "condições socioeconômicas, moradia, grau de escolaridade, idade e sexo"
+      },
+      {
+        "id": "D",
+        "texto": "idade, sexo, grau de escolaridade, moradia, estresse e hipertensão 495 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0414",
+    "numero_ordem": 414,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tabagismo, colesterol em excesso, hipertensão, obesidade, estresse, depressão e diabetes...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'doenças pré-existentes, idade, sexo, condições socioeconômicas e estresse...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'condições socioeconômicas, moradia, grau de escolaridade, idade e sexo...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'idade, sexo, grau de escolaridade, moradia, estresse e hipertensão 495 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  }
+]

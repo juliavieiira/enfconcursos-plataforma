@@ -1,0 +1,114 @@
+[
+  {
+    "codigo_origem": "Q2481795",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Farmacêutico Bioquímico",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Hanseníase , Doenças Infecciosas e parasitárias",
+    "enunciado": "A hanseníase é uma doença infecciosa causada por Mycobacterium leprae, sendo endêmica no Brasil e em outros países do mundo. Este agente etiológico é considerado uma micobactéria não tuberculosa e tem seu crescimento laboratorial:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "in vivo por meio da inoculação em galinhas"
+      },
+      {
+        "id": "B",
+        "texto": "in vitro por meio da inoculação em ágar TCBS"
+      },
+      {
+        "id": "C",
+        "texto": "in vivo por meio da inoculação em camundongos"
+      },
+      {
+        "id": "D",
+        "texto": "in vitro por meio da inoculação em ágar Ogawa-Kudoh"
+      },
+      {
+        "id": "E",
+        "texto": "in vitro por meio da inoculação em ágar sangue de carneiro 368 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0287",
+    "numero_ordem": 287,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'in vivo por meio da inoculação em galinhas...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'in vitro por meio da inoculação em ágar TCBS...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'in vivo por meio da inoculação em camundongos...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'in vitro por meio da inoculação em ágar Ogawa-Kudoh...'."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'in vitro por meio da inoculação em ágar sangue de carneiro 368 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3884080",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Hanseníase , Doenças Infecciosas e parasitárias",
+    "enunciado": "MT - Enfermeiro A hanseníase é uma doença infectocontagiosa crônica causada pelo Mycobacterium leprae. Em relação às suas formas clínicas e transmissibilidade, é correto afirmar que:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "todas as formas clínicas são igualmente contagiosas desde o início dos sintomas"
+      },
+      {
+        "id": "B",
+        "texto": "apenas a forma virchowiana (indeterminada) é considerada transmissível"
+      },
+      {
+        "id": "C",
+        "texto": "a forma dimorfa e a forma virchowiana são as mais transmissíveis devido à alta carga bacilar"
+      },
+      {
+        "id": "D",
+        "texto": "a forma tuberculoide paucibacilar é pouco transmissível, enquanto a forma virchowiana multibacilar é a mais transmissível 123 Ano: 2026"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0462",
+    "numero_ordem": 462,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'todas as formas clínicas são igualmente contagiosas desde o início dos sintomas...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'apenas a forma virchowiana (indeterminada) é considerada transmissível...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a forma dimorfa e a forma virchowiana são as mais transmissíveis devido à alta carga bacil...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a forma tuberculoide paucibacilar é pouco transmissível, enquanto a forma virchowiana mult...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  }
+]

@@ -1,0 +1,270 @@
+[
+  {
+    "codigo_origem": "Q3742715",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Marcelândia - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Marcelândia - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Farmacologia na Enfermagem , Doenças Infecciosas e parasitárias",
+    "enunciado": "O vírus da imunodeficiência humana (HIV) apresenta um desafio persistente para a erradicação devido à sua capacidade de integrar seu genoma ao DNA do hospedeiro e estabelecer reservatórios virais latentes em células de memória. Essa característica biológica do HIV implica que a terapia antirretroviral (TARV) tem como principal objetivo:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "eliminar completamente o vírus do organismo do paciente, curando a infecção"
+      },
+      {
+        "id": "B",
+        "texto": "prevenir a replicação viral e restaurar a função imunológica, sem erradicar o vírus"
+      },
+      {
+        "id": "C",
+        "texto": "induzir uma resposta imune esterilizante que confere imunidade permanente"
+      },
+      {
+        "id": "D",
+        "texto": "modificar geneticamente as células do hospedeiro para torná-las intrinsecamente resistentes à infecção"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0102",
+    "numero_ordem": 102,
+    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'eliminar completamente o vírus do organismo do paciente, curando a infecção...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'prevenir a replicação viral e restaurar a função imunológica, sem erradicar o vírus...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'induzir uma resposta imune esterilizante que confere imunidade permanente...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'modificar geneticamente as células do hospedeiro para torná-las intrinsecamente resistente...'."
+      }
+    ],
+    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+  },
+  {
+    "codigo_origem": "Q3617181",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Tapurah - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Tapurah - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Farmacologia na Enfermagem",
+    "enunciado": "Um paciente em terapia anticoagulante crônica com varfarina, mantendo um INR (Índice Internacional Normalizado) estável na faixa terapêutica, inicia tratamento para tuberculose com rifampicina. A rifampicina é um conhecido e potente indutor do sistema enzimático citocromo P450 (CYP), especialmente da isoenzima CYP2C9, responsável pelo metabolismo da varfarina. A consequência farmacocinética esperada dessa interação medicamentosa é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "um aumento da concentração plasmática da varfarina por inibição competitiva, elevando o risco de sangramento"
+      },
+      {
+        "id": "B",
+        "texto": "diminuição da absorção gastrointestinal da varfarina, resultando em subterapia por um mecanismo não relacionado ao metabolismo"
+      },
+      {
+        "id": "C",
+        "texto": "potencialização do efeito anticoagulante por sinergismo em nível de receptores da vitamina K, sem alteração na concentração do fármaco"
+      },
+      {
+        "id": "D",
+        "texto": "uma redução da concentração plasmática da varfarina devido à indução metabólica, exigindo um aumento da dose do anticoagulante para manter o efeito terapêutico 210 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0129",
+    "numero_ordem": 129,
+    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'um aumento da concentração plasmática da varfarina por inibição competitiva, elevando o ri...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'diminuição da absorção gastrointestinal da varfarina, resultando em subterapia por um meca...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'potencialização do efeito anticoagulante por sinergismo em nível de receptores da vitamina...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'uma redução da concentração plasmática da varfarina devido à indução metabólica, exigindo ...'."
+      }
+    ],
+    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+  },
+  {
+    "codigo_origem": "Q3184817",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Nova Mutum - MT - Técnica",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Farmacologia na Enfermagem , Assistência de Enfermagem no Processo Nutricional",
+    "enunciado": "Paciente de 68 anos, desnutrido, em uso de Varfarina, apresenta epistaxe e foi admitido ao setor para tratamento. A síntese adequada de fatores de coagulação desse indivíduo pode ter sido afetada pelo seguinte quadro clínico:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "deficiência de zinco"
+      },
+      {
+        "id": "B",
+        "texto": "trombocitemia primária"
+      },
+      {
+        "id": "C",
+        "texto": "deficiência de vitamina K"
+      },
+      {
+        "id": "D",
+        "texto": "reação hemolítica aguda 330 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0249",
+    "numero_ordem": 249,
+    "fundamentacao_correta": "Conforme as Recomendações de Boas Práticas em Nutrição Enteral da BRASPEN e da ANVISA (RDC nº 63/2000), a prevenção da pneumonia por broncoaspiração em pacientes recebendo dieta por sonda enteral exige a manutenção da cabeceira elevada em ângulo de 30° a 45° durante toda a infusão e por no mínimo 30 a 60 minutos após o término da dieta, para garantir o esvaziamento gástrico seguro. A alternativa [] descreve exatamente essa conduta preconizada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'deficiência de zinco...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'trombocitemia primária...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'deficiência de vitamina K...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'reação hemolítica aguda 330 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Conforme as Recomendações de Boas Práticas em Nutrição Enteral da BRASPEN e da ANVISA (RDC nº 63/2000), a prevenção da pneumonia por broncoaspiração em pacientes recebendo dieta por sonda enteral exige a manutenção da cabeceira elevada em ângulo de 3..."
+  },
+  {
+    "codigo_origem": "Q2480381",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Farmacologia na Enfermagem",
+    "enunciado": "Os produtos para a saúde, utilizados em procedimentos invasivos com penetração de pele e mucosas adjacentes, tecidos subepteliais e sistema vascular, incluindo também todos os produtos para saúde que estejam diretamente conectados com esses sistemas são denominados:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "processáveis"
+      },
+      {
+        "id": "B",
+        "texto": "semicríticos"
+      },
+      {
+        "id": "C",
+        "texto": "não críticos"
+      },
+      {
+        "id": "D",
+        "texto": "complexos"
+      },
+      {
+        "id": "E",
+        "texto": "críticos 397 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: SAD-MS Prova: SELECON - 2024 - SAD-MS - Enfermeiro"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0316",
+    "numero_ordem": 316,
+    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'processáveis...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'semicríticos...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'não críticos...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'críticos 397 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Co...'."
+      }
+    ],
+    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+  },
+  {
+    "codigo_origem": "Q3802708",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Garças - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Farmacologia na Enfermagem , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "A insuficiência cardíaca (IC) é uma síndrome clínica complexa, resultante de alterações estruturais ou funcionais do coração que comprometem sua capacidade de bombear sangue de forma eficaz. No manejo da IC com fração de ejeção reduzida (ICFEr), a terapia medicamentosa otimizada visa a modular sistemas neuro-hormonais e a melhorar o prognóstico. Dentre as classes de medicamentos que comprovadamente reduzem a morbimortalidade na ICFEr, uma combinação terapêutica de primeira linha, conforme as diretrizes atuais, inclui:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "inibidores da enzima conversora de angiotensina (IECA) ou bloqueadores do receptor de angiotensina (BRA), betabloqueadores e antagonistas do receptor de mineralocorticoide (ARM)"
+      },
+      {
+        "id": "B",
+        "texto": "bloqueadores dos canais de cálcio, nitratos de ação prolongada e digoxina"
+      },
+      {
+        "id": "C",
+        "texto": "diuréticos de alça, antiarrítmicos classe I e estatinas de alta intensidade"
+      },
+      {
+        "id": "D",
+        "texto": "vasodilatadores diretos, inibidores da fosfodiesterase-5 e agentes inotrópicos positivos"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0500",
+    "numero_ordem": 500,
+    "fundamentacao_correta": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dosagem e vias de administração. A alternativa [] representa a prescrição e técnica exata: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'inibidores da enzima conversora de angiotensina (IECA) ou bloqueadores do receptor de angi...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'bloqueadores dos canais de cálcio, nitratos de ação prolongada e digoxina...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'diuréticos de alça, antiarrítmicos classe I e estatinas de alta intensidade...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vasodilatadores diretos, inibidores da fosfodiesterase-5 e agentes inotrópicos positivos...'."
+      }
+    ],
+    "comentario": "Segundo as normas farmacológicas e o Protocolo de Segurança na Prescrição, Uso e Administração de Medicamentos (ANVISA/Ministério da Saúde), a equipe de enfermagem deve aplicar os 'Nove Certos' da medicação e observar rigorosamente os cálculos de dos..."
+  }
+]

@@ -1,0 +1,1386 @@
+[
+  {
+    "codigo_origem": "Q4369110",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Lucas do Rio Verde - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Lucas do Rio Verde -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Biossegurança em Enfermagem",
+    "enunciado": "MT - Enfermeiro - Secretaria de Saúde A Norma Regulamentadora n.º 32 (NR-32) estabelece diretrizes básicas para a implementação de medidas de proteção à segurança e à saúde dos trabalhadores dos serviços de saúde, com foco na prevenção de riscos biológicos. Entre as determinações dessa norma, consta a obrigatoriedade de os estabelecimentos de saúde substituírem materiais perfurocortantes convencionais por modelos dotados de dispositivos de segurança. Essa exigência tem como finalidade principal:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "eliminar o risco de acidentes com material biológico durante o descarte e o manuseio de agulhas e lâminas"
+      },
+      {
+        "id": "B",
+        "texto": "reduzir o custo operacional com a aquisição de materiais descartáveis"
+      },
+      {
+        "id": "C",
+        "texto": "padronizar os insumos utilizados em todos os serviços de saúde públicos e privados"
+      },
+      {
+        "id": "D",
+        "texto": "agilizar o processo de trabalho da equipe de enfermagem durante os procedimentos invasivos"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0022",
+    "numero_ordem": 22,
+    "fundamentacao_correta": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'eliminar o risco de acidentes com material biológico durante o descarte e o manuseio de ag...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'reduzir o custo operacional com a aquisição de materiais descartáveis...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'padronizar os insumos utilizados em todos os serviços de saúde públicos e privados...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'agilizar o processo de trabalho da equipe de enfermagem durante os procedimentos invasivos...'."
+      }
+    ],
+    "comentario": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente..."
+  },
+  {
+    "codigo_origem": "Q4336860",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Araçás - BA",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Araçás - BA - Técnico de",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Biossegurança em Enfermagem , Enfermagem em Central de Material Esterilizado",
+    "enunciado": "Enfermagem O processamento de produtos para a saúde em centros de material e esterilização segue fluxos rigorosos que incluem limpeza, desinfecção, inspeção, esterilização e armazenamento, sendo a limpeza considerada a etapa mais crítica do processo. A presença de matéria orgânica residual pode formar biofilmes que protegem microrganismos, inviabilizando a ação dos agentes esterilizantes. Em uma central de material esterilizado, o técnico de enfermagem recebe um conjunto de pinças e tesouras cirúrgicas utilizadas em procedimento com grande quantidade de tecido e secreção. Após a limpeza automatizada em lavadora ultrassônica, o profissional realiza a inspeção visual com fonte de luz e identifica resíduos incrustados na cremalheira de uma das pinças. A conduta padrão, alinhada aos protocolos de biossegurança e às boas práticas de processamento, consiste em:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "encaminhar a pinça para esterilização em autoclave, uma vez que o calor úmido sob pressão é capaz de eliminar qualquer resíduo orgânico residual durante o ciclo de esterilização"
+      },
+      {
+        "id": "B",
+        "texto": "descartar a pinça imediatamente, pois a presença de resíduos na cremalheira indica dano estrutural irreversível que compromete a segurança do dispositivo"
+      },
+      {
+        "id": "C",
+        "texto": "submeter a pinça a novo ciclo de limpeza manual ou automatizada, com inspeção visual repetida até a remoção completa dos resíduos, antes de qualquer processo de desinfecção ou esterilização"
+      },
+      {
+        "id": "D",
+        "texto": "classificar a pinça como material semicrítico e submetê-la apenas a desinfecção química com glutaraldeído a 2%, dispensando a esterilização"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0026",
+    "numero_ordem": 26,
+    "fundamentacao_correta": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'encaminhar a pinça para esterilização em autoclave, uma vez que o calor úmido sob pressão ...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'submeter a pinça a novo ciclo de limpeza manual ou automatizada, com inspeção visual repet...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'classificar a pinça como material semicrítico e submetê-la apenas a desinfecção química co...'."
+      }
+    ],
+    "comentario": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente..."
+  },
+  {
+    "codigo_origem": "Q4317378",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Garças - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Barra do Garças - MT -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Biossegurança em Enfermagem , Tuberculose , Doenças Infecciosas e parasitárias",
+    "enunciado": "Técnico em Enfermagem - SMS Um paciente com tuberculose pulmonar bacilífera necessita ser transportado para realização de exame fora do quarto de isolamento. Durante o deslocamento, a medida indicada para controle da transmissão é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "colocar máscara cirúrgica no paciente"
+      },
+      {
+        "id": "B",
+        "texto": "colocar peça semifacial filtrante classe 2 (PFF2) no paciente"
+      },
+      {
+        "id": "C",
+        "texto": "manter o paciente sem máscara durante trajetos considerados de curta duração"
+      },
+      {
+        "id": "D",
+        "texto": "utilizar máscara cirúrgica no profissional e peça semifacial filtrante classe 2 (PFF2) no paciente"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0042",
+    "numero_ordem": 42,
+    "fundamentacao_correta": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'colocar máscara cirúrgica no paciente...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'colocar peça semifacial filtrante classe 2 (PFF2) no paciente...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter o paciente sem máscara durante trajetos considerados de curta duração...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar máscara cirúrgica no profissional e peça semifacial filtrante classe 2 (PFF2) no ...'."
+      }
+    ],
+    "comentario": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente..."
+  },
+  {
+    "codigo_origem": "Q3981934",
+    "banca": "SELECON",
+    "orgao": "EMGEPRON",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - EMGEPRON - Técnico em Enfermagem",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Biossegurança em Enfermagem , Enfermagem em Central de Material Esterilizado",
+    "enunciado": "Após procedimento, o técnico de enfermagem encaminha materiais utilizados em diferentes procedimentos para o processamento adequado no Centro de Material e Esterilização (CME). Dentre os artigos enviados, estão pinças cirúrgicas utilizadas em procedimentos invasivos, materiais de assistência respiratória e estetoscópios usados no cuidado diário aos pacientes. Considerando a classificação dos artigos hospitalares segundo o risco de infecção e o processamento indicado, pode-se afirmar que artigos:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "críticos penetram tecidos estéreis ou o sistema vascular e exigem processo completo de limpeza seguido de esterilização adequada"
+      },
+      {
+        "id": "B",
+        "texto": "críticos entram em contato apenas com a pele íntegra e, por isso, necessitam apenas de limpeza e desinfecção de baixo nível"
+      },
+      {
+        "id": "C",
+        "texto": "semicríticos devem ser submetidos exclusivamente à limpeza, sem necessidade de desinfecção ou esterilização"
+      },
+      {
+        "id": "D",
+        "texto": "não críticos entram em contato com mucosas íntegras e requerem obrigatoriamente esterilização"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0063",
+    "numero_ordem": 63,
+    "fundamentacao_correta": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'críticos penetram tecidos estéreis ou o sistema vascular e exigem processo completo de lim...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'críticos entram em contato apenas com a pele íntegra e, por isso, necessitam apenas de lim...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'não críticos entram em contato com mucosas íntegras e requerem obrigatoriamente esteriliza...'."
+      }
+    ],
+    "comentario": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente..."
+  },
+  {
+    "codigo_origem": "Q3981930",
+    "banca": "SELECON",
+    "orgao": "EMGEPRON",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - EMGEPRON - Técnico em Enfermagem",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Biossegurança em Enfermagem , Assistência de Enfermagem em Feridas e Curativos",
+    "enunciado": "Durante a preparação de um curativo estéril à beira do leito, o técnico de enfermagem organiza o campo e os materiais necessários antes do procedimento. Considerando os princípios do manuseio de material estéril, a conduta que compromete a esterilidade do campo é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "considerar contaminada qualquer área do campo estéril que esteja abaixo do nível da cintura"
+      },
+      {
+        "id": "B",
+        "texto": "manter os materiais estéreis sempre dentro do campo visual durante todo o procedimento"
+      },
+      {
+        "id": "C",
+        "texto": "tocar o campo estéril apenas com luvas estéreis, após a realização da técnica asséptica correta"
+      },
+      {
+        "id": "D",
+        "texto": "apoiar parcialmente o campo estéril sobre superfície limpa e seca, desde que não haja contato direto com o paciente 68 Enfermagem > Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Sinais vitais , Fundamentos e Procedimentos de Enfermagem Exame Físico Banca: SELECON Órgão: EMGEPRON Prova: SELECON - 2026 - EMGEPRON - Técnico em Enfermagem"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0067",
+    "numero_ordem": 67,
+    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'considerar contaminada qualquer área do campo estéril que esteja abaixo do nível da cintur...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter os materiais estéreis sempre dentro do campo visual durante todo o procedimento...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tocar o campo estéril apenas com luvas estéreis, após a realização da técnica asséptica co...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'apoiar parcialmente o campo estéril sobre superfície limpa e seca, desde que não haja cont...'."
+      }
+    ],
+    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+  },
+  {
+    "codigo_origem": "Q3981928",
+    "banca": "SELECON",
+    "orgao": "EMGEPRON",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - EMGEPRON - Técnico em Enfermagem",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Biossegurança em Enfermagem , Infecção Hospitalar",
+    "enunciado": "Em uma unidade de internação, durante a rotina assistencial, observou-se que um técnico de enfermagem realizou a retirada de luvas após contato com o paciente e, em seguida, organizou materiais no posto de enfermagem sem realizar higienização das mãos. Considerando as recomendações para a prevenção de infecções relacionadas à assistência à saúde, a conduta correta seria:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "realizar a higienização das mãos imediatamente após a retirada das luvas, independentemente da presença de sujidade visível"
+      },
+      {
+        "id": "B",
+        "texto": "realizar higienização das mãos somente antes do contato com o próximo paciente, desde que não haja contato com fluidos corporais, como sangue"
+      },
+      {
+        "id": "C",
+        "texto": "dispensar a higienização das mãos após o uso de luvas, desde que essas tenham sido utilizadas e descartadas de forma adequada"
+      },
+      {
+        "id": "D",
+        "texto": "higienizar as mãos apenas quando houver sujidade visível, uma vez que o uso de luvas substitui a necessidade de higienização"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0069",
+    "numero_ordem": 69,
+    "fundamentacao_correta": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar higienização das mãos somente antes do contato com o próximo paciente, desde que ...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'dispensar a higienização das mãos após o uso de luvas, desde que essas tenham sido utiliza...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'higienizar as mãos apenas quando houver sujidade visível, uma vez que o uso de luvas subst...'."
+      }
+    ],
+    "comentario": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente..."
+  },
+  {
+    "codigo_origem": "Q3974347",
+    "banca": "SELECON",
+    "orgao": "EMGEPRON",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - EMGEPRON - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Biossegurança em Enfermagem , Fundamentos e Procedimentos de Enfermagem",
+    "enunciado": "No que se refere aos princípios da técnica asséptica durante procedimentos invasivos, pode-se afi rmar que:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "técnica limpa e técnica estéril possuem o mesmo nível de controle microbiológico"
+      },
+      {
+        "id": "B",
+        "texto": "o uso de luvas estéreis dispensa a necessidade de manutenção rigorosa do campo estéril organizado"
+      },
+      {
+        "id": "C",
+        "texto": "todo material cuja esterilidade esteja comprometida ou duvidosa deve ser considerado contaminado, devendo ser imediatamente substituído"
+      },
+      {
+        "id": "D",
+        "texto": "materiais estéreis somente devem ser considerados contaminados quando houver contato visível e comprovado com superfícies não estéreis durante a execução do procedimento"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0090",
+    "numero_ordem": 90,
+    "fundamentacao_correta": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'técnica limpa e técnica estéril possuem o mesmo nível de controle microbiológico...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o uso de luvas estéreis dispensa a necessidade de manutenção rigorosa do campo estéril org...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'materiais estéreis somente devem ser considerados contaminados quando houver contato visív...'."
+      }
+    ],
+    "comentario": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente..."
+  },
+  {
+    "codigo_origem": "Q3742712",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Marcelândia - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Marcelândia - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Biossegurança em Enfermagem , Segurança do Paciente",
+    "enunciado": "A prevenção e o controle de infecções relacionadas à assistência à saúde (IRAS) são pilares fundamentais da segurança do paciente em ambientes de cuidado. Dentre as medidas de precaução padrão, a prática mais eficaz para interromper a cadeia de transmissão de microrganismos, que deve ser realizada por todos os profissionais de saúde antes e após o contato com o paciente é a:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "utilização de avental estéril"
+      },
+      {
+        "id": "B",
+        "texto": "uso de óculos de proteção"
+      },
+      {
+        "id": "C",
+        "texto": "descarte de agulhas em lixo comum"
+      },
+      {
+        "id": "D",
+        "texto": "higienização das mãos"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0104",
+    "numero_ordem": 104,
+    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilização de avental estéril...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'uso de óculos de proteção...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'descarte de agulhas em lixo comum...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'higienização das mãos...'."
+      }
+    ],
+    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+  },
+  {
+    "codigo_origem": "Q3617178",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Tapurah - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Tapurah - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Biossegurança em Enfermagem",
+    "enunciado": "Um laboratório de pesquisa está sendo projetado para a manipulação de agentes biológicos classificados no Grupo de Risco 4, como o vírus Ebola, que apresenta alto risco individual e para a comunidade. De acordo com os princípios mais rigorosos de biossegurança, a estratégia fundamental para a contenção desses agentes e proteção dos trabalhadores não se baseia primordialmente no uso de Equipamentos de Proteção Individual (EPIs), mas sim na implementação de um conjunto hierarquicamente superior de medidas. Essa estratégia prioritária é a contenção por meio de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "barreiras administrativas, como treinamento intensivo e limitação de acesso, que formam a principal defesa contra a exposição"
+      },
+      {
+        "id": "B",
+        "texto": "barreiras primárias e secundárias de engenharia, incluindo cabines de segurança biológica Classe III ou uso de trajes de pressão positiva, associadas a sistemas de ar com filtros HEPA e pressão negativa no laboratório"
+      },
+      {
+        "id": "C",
+        "texto": "práticas de desinfecção e de esterilização de alta eficácia, considerando que a eliminação do agente no ambiente é mais crítica do que a sua contenção física durante a manipulação"
+      },
+      {
+        "id": "D",
+        "texto": "vigilância médica contínua e imunização em massa de todos os trabalhadores, mesmo na ausência de vacinas comprovadamente eficazes para todos os agentes manipulados 212 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0131",
+    "numero_ordem": 131,
+    "fundamentacao_correta": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'barreiras administrativas, como treinamento intensivo e limitação de acesso, que formam a ...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'barreiras primárias e secundárias de engenharia, incluindo cabines de segurança biológica ...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'práticas de desinfecção e de esterilização de alta eficácia, considerando que a eliminação...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vigilância médica contínua e imunização em massa de todos os trabalhadores, mesmo na ausên...'."
+      }
+    ],
+    "comentario": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente..."
+  },
+  {
+    "codigo_origem": "Q3617174",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Tapurah - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Tapurah - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Biossegurança em Enfermagem , Fundamentos e Procedimentos de Enfermagem",
+    "enunciado": "A técnica de lavagem das mãos, fundamental na prevenção de infecções relacionadas à assistência à saúde, deve seguir uma sequência de passos para ser eficaz. Um dos passos essenciais após a aplicação do sabão é a fricção das palmas das mãos, seguida da fricção do dorso de uma mão com a palma da outra, entrelaçando os dedos. O próximo passo correto é friccionar:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "o polegar de uma mão com a palma da outra, realizando movimentos circulares"
+      },
+      {
+        "id": "B",
+        "texto": "as pontas dos dedos de uma mão na palma da outra, em movimento de rotação"
+      },
+      {
+        "id": "C",
+        "texto": "os espaços interdigitais"
+      },
+      {
+        "id": "D",
+        "texto": "as unhas na palma da mão oposta 214 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0133",
+    "numero_ordem": 133,
+    "fundamentacao_correta": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o polegar de uma mão com a palma da outra, realizando movimentos circulares...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'as pontas dos dedos de uma mão na palma da outra, em movimento de rotação...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'os espaços interdigitais...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'as unhas na palma da mão oposta 214 Ano: 2025...'."
+      }
+    ],
+    "comentario": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente..."
+  },
+  {
+    "codigo_origem": "Q3615480",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Tapurah - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Tapurah - MT - Técnico em",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Biossegurança em Enfermagem , Enfermagem em Central de Material Esterilizado",
+    "enunciado": "Enfermagem A esterilização por autoclave, utilizada em materiais reutilizáveis hospitalares, baseia-se em:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "calor seco"
+      },
+      {
+        "id": "B",
+        "texto": "radiação gama"
+      },
+      {
+        "id": "C",
+        "texto": "óxido de etileno"
+      },
+      {
+        "id": "D",
+        "texto": "vapor saturado sob pressão"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0141",
+    "numero_ordem": 141,
+    "fundamentacao_correta": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'radiação gama...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'óxido de etileno...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vapor saturado sob pressão...'."
+      }
+    ],
+    "comentario": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente..."
+  },
+  {
+    "codigo_origem": "Q3615473",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Tapurah - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Tapurah - MT - Técnico em",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Biossegurança em Enfermagem , Fundamentos e Procedimentos de Enfermagem",
+    "enunciado": "Enfermagem Durante a higienização das mãos antes de um procedimento invasivo, a sequência correta para a técnica preconizada pela Anvisa é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "molhar as mãos, aplicar sabão, friccionar palmas e dorso, espaços interdigitais, polegares, unhas, enxaguar, secar e fechar a torneira"
+      },
+      {
+        "id": "B",
+        "texto": "molhar as mãos, aplicar sabão, esfregar palmas, enxaguar, fechar a torneira e secar"
+      },
+      {
+        "id": "C",
+        "texto": "aplicar sabão, esfregar palmas, interlaçar dedos, enxaguar, secar, fechar a torneira"
+      },
+      {
+        "id": "D",
+        "texto": "molhar as mãos, aplicar sabão, esfregar palmas, secar e fechar a torneira"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0147",
+    "numero_ordem": 147,
+    "fundamentacao_correta": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'molhar as mãos, aplicar sabão, friccionar palmas e dorso, espaços interdigitais, polegares...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'molhar as mãos, aplicar sabão, esfregar palmas, enxaguar, fechar a torneira e secar...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aplicar sabão, esfregar palmas, interlaçar dedos, enxaguar, secar, fechar a torneira...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'molhar as mãos, aplicar sabão, esfregar palmas, secar e fechar a torneira...'."
+      }
+    ],
+    "comentario": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente..."
+  },
+  {
+    "codigo_origem": "Q3265160",
+    "banca": "SELECON",
+    "orgao": "HEMOMINAS",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - HEMOMINAS - Analista de Hematologia e Hemoterapia -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Biossegurança em Enfermagem , Infecção Hospitalar",
+    "enunciado": "ANHH - Nível I - Grau A - Enfermeiro O controle de infecções relacionado à assistência à saúde (IRAS) é um fundamento essencial da prática de enfermagem. Sobre as técnicas de precauções padrão, pode-se afirmar que:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "o uso de luvas pode ser dispensado ao realizar procedimentos com risco de contato com fluidos corporais, desde que as mãos estejam devidamente higienizadas"
+      },
+      {
+        "id": "B",
+        "texto": "a higienização das mãos deve ser realizada apenas antes do atendimento ao paciente em precauções padrão"
+      },
+      {
+        "id": "C",
+        "texto": "o uso de equipamentos de proteção individual (EPIs) é obrigatório apenas em precauções de contato, e não se aplica às precauções padrão"
+      },
+      {
+        "id": "D",
+        "texto": "as precauções padrão devem ser aplicadas a todos os pacientes, independentemente do diagnóstico ou da presunção de infecção 263 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0182",
+    "numero_ordem": 182,
+    "fundamentacao_correta": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o uso de luvas pode ser dispensado ao realizar procedimentos com risco de contato com flui...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a higienização das mãos deve ser realizada apenas antes do atendimento ao paciente em prec...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o uso de equipamentos de proteção individual (EPIs) é obrigatório apenas em precauções de ...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'as precauções padrão devem ser aplicadas a todos os pacientes, independentemente do diagnó...'."
+      }
+    ],
+    "comentario": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente..."
+  },
+  {
+    "codigo_origem": "Q3265159",
+    "banca": "SELECON",
+    "orgao": "HEMOMINAS",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - HEMOMINAS - Analista de Hematologia e Hemoterapia -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Biossegurança em Enfermagem , Infecção Hospitalar , Segurança do Paciente",
+    "enunciado": "ANHH - Nível I - Grau A - Enfermeiro A lavagem das mãos é uma medida essencial no controle de infecções hospitalares. A respeito da ação, é correto afirmar que:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "a higienização das mãos com álcool em gel substitui completamente a lavagem com água e sabão em todas as situações"
+      },
+      {
+        "id": "B",
+        "texto": "a lavagem das mãos deve ser feita, obrigatoriamente, antes e após o contato com o paciente, mas não é necessária ao manusear dispositivos médicos esterilizados"
+      },
+      {
+        "id": "C",
+        "texto": "a utilização de dispositivos médicos descartáveis elimina a necessidade de higienizar as mãos antes do uso"
+      },
+      {
+        "id": "D",
+        "texto": "a higienização das mãos deve ser realizada antes de procedimentos invasivos, como punções venosas ou sondagens, e após o contato com material biológico 264 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0183",
+    "numero_ordem": 183,
+    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a higienização das mãos com álcool em gel substitui completamente a lavagem com água e sab...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a lavagem das mãos deve ser feita, obrigatoriamente, antes e após o contato com o paciente...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a utilização de dispositivos médicos descartáveis elimina a necessidade de higienizar as m...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a higienização das mãos deve ser realizada antes de procedimentos invasivos, como punções ...'."
+      }
+    ],
+    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+  },
+  {
+    "codigo_origem": "Q3199756",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sinop - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Técnico de",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Biossegurança em Enfermagem",
+    "enunciado": "Enfermagem Um paciente de 68 anos foi admitido com sepse severa e está sendo mantido em ventilação mecânica invasiva, além de ter acesso venoso central e sonda vesical. Durante o acompanhamento do técnico de enfermagem, foram observados sinais de deterioração clínica, como febre persistente, alteração no débito urinário e instabilidade hemodinâmica. A alternativa que expressa as condutas corretas de biossegurança e controle de infecção hospitalar que o técnico de enfermagem deve seguir é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "realizar a higienização das mãos apenas após cada procedimento com o paciente, já que a maioria dos dispositivos invasivos é estéril, e não há necessidade de utilizar máscara ou avental, considerando que o paciente está em ventilação mecânica, o que reduz o risco de infecção"
+      },
+      {
+        "id": "B",
+        "texto": "higienizar as mãos apenas após o contato com as superfícies do paciente e, quando manipular dispositivos invasivos, pode utilizar luvas não estéreis, contudo, a máscara e o avental devem ser utilizados apenas em procedimentos de risco elevado, como inserção de cateteres ou punção venosa"
+      },
+      {
+        "id": "C",
+        "texto": "focar apenas na utilização de luvas estéreis para manipulação de dispositivos invasivos e pode dispensar a higienização das mãos, já que o risco de infecção é minimizado pelo uso de dispositivos estéreis, e a máscara não é necessária, pois a ventilação mecânica protege o paciente contra a infecção"
+      },
+      {
+        "id": "D",
+        "texto": "realizar a higienização das mãos antes e após cada contato com o paciente ou manipulação de dispositivos invasivos, utilizar luvas estéreis ao manusear a ventilação mecânica e o acesso venoso central, e utilizar máscara, avental e proteção ocular sempre que houver risco de exposição a secreções corporais ou materiais biológicos"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0199",
+    "numero_ordem": 199,
+    "fundamentacao_correta": "Conforme as Recomendações de Boas Práticas em Nutrição Enteral da BRASPEN e da ANVISA (RDC nº 63/2000), a prevenção da pneumonia por broncoaspiração em pacientes recebendo dieta por sonda enteral exige a manutenção da cabeceira elevada em ângulo de 30° a 45° durante toda a infusão e por no mínimo 30 a 60 minutos após o término da dieta, para garantir o esvaziamento gástrico seguro. A alternativa [] descreve exatamente essa conduta preconizada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar a higienização das mãos apenas após cada procedimento com o paciente, já que a ma...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'higienizar as mãos apenas após o contato com as superfícies do paciente e, quando manipula...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'focar apenas na utilização de luvas estéreis para manipulação de dispositivos invasivos e ...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar a higienização das mãos antes e após cada contato com o paciente ou manipulação d...'."
+      }
+    ],
+    "comentario": "Conforme as Recomendações de Boas Práticas em Nutrição Enteral da BRASPEN e da ANVISA (RDC nº 63/2000), a prevenção da pneumonia por broncoaspiração em pacientes recebendo dieta por sonda enteral exige a manutenção da cabeceira elevada em ângulo de 3..."
+  },
+  {
+    "codigo_origem": "Q3199742",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sinop - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Técnico de",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Biossegurança em Enfermagem",
+    "enunciado": "Enfermagem Um paciente foi internado com diagnóstico de doença transmissível e está em precaução respiratória. Considerando as normas de segurança para o controle de infecções e a correta paramentação do profissional de saúde, a ordem correta para o processo de paramentação antes de atender o paciente corresponde a:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "colocar avental, máscara N95, luvas e, por último, protetor ocular"
+      },
+      {
+        "id": "B",
+        "texto": "colocar luvas, avental, máscara N95 e, por último, protetor ocular"
+      },
+      {
+        "id": "C",
+        "texto": "colocar máscara N95, avental, luvas e, por último, protetor ocular"
+      },
+      {
+        "id": "D",
+        "texto": "colocar avental, protetor ocular, máscara N95 e, por último, luvas"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0213",
+    "numero_ordem": 213,
+    "fundamentacao_correta": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'colocar avental, máscara N95, luvas e, por último, protetor ocular...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'colocar luvas, avental, máscara N95 e, por último, protetor ocular...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'colocar máscara N95, avental, luvas e, por último, protetor ocular...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'colocar avental, protetor ocular, máscara N95 e, por último, luvas...'."
+      }
+    ],
+    "comentario": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente..."
+  },
+  {
+    "codigo_origem": "Q2528691",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Técnico de Enfermagem",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Biossegurança em Enfermagem",
+    "enunciado": "A adesão da equipe às medidas gerais de prevenção e controle de infecção ainda depende da conscientização e mudança de hábitos dos profissionais. As medidas que visam reduzir e prevenir o crescimento de microrganismos em tecidos vivos são denominadas:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "higiene"
+      },
+      {
+        "id": "B",
+        "texto": "assepsia"
+      },
+      {
+        "id": "C",
+        "texto": "antissepsia"
+      },
+      {
+        "id": "D",
+        "texto": "desinfecção"
+      },
+      {
+        "id": "E",
+        "texto": "esterilização"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0257",
+    "numero_ordem": 257,
+    "fundamentacao_correta": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'antissepsia...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'desinfecção...'."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'esterilização...'."
+      }
+    ],
+    "comentario": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente..."
+  },
+  {
+    "codigo_origem": "Q2528676",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Técnico de Enfermagem",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Biossegurança em Enfermagem",
+    "enunciado": "O grau de risco de transmitir infecções define os artigos hospitalares com a finalidade de serem tratados adequadamente evitando, principalmente, as infecções hospitalares. Os artigos que entram em contato com a pele não íntegra e membranas mucosas devendo ser, no mínimo, desinfetados são os:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "críticos"
+      },
+      {
+        "id": "B",
+        "texto": "não críticos"
+      },
+      {
+        "id": "C",
+        "texto": "semicríticos"
+      },
+      {
+        "id": "D",
+        "texto": "críticos e semicríticos"
+      },
+      {
+        "id": "E",
+        "texto": "semicríticos e não críticos 351 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0270",
+    "numero_ordem": 270,
+    "fundamentacao_correta": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'não críticos...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'semicríticos...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'críticos e semicríticos...'."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'semicríticos e não críticos 351 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente..."
+  },
+  {
+    "codigo_origem": "Q2496170",
+    "banca": "SELECON",
+    "orgao": "COREN-RR",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - COREN-RR - Analista Administrativo - Enfermeiro Fiscal",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Biossegurança em Enfermagem",
+    "enunciado": "Nos casos de precauções por aerossóis, os profissionais de saúde deverão utilizar as medidas da precaução padrão e:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "luvas"
+      },
+      {
+        "id": "B",
+        "texto": "luvas estéreis"
+      },
+      {
+        "id": "C",
+        "texto": "máscara PFF2"
+      },
+      {
+        "id": "D",
+        "texto": "máscara cirúrgica 353 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0272",
+    "numero_ordem": 272,
+    "fundamentacao_correta": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'luvas estéreis...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'máscara PFF2...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'máscara cirúrgica 353 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente..."
+  },
+  {
+    "codigo_origem": "Q2496161",
+    "banca": "SELECON",
+    "orgao": "COREN-RR",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - COREN-RR - Analista Administrativo - Enfermeiro Fiscal",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Biossegurança em Enfermagem",
+    "enunciado": "Na avaliação de risco dos agentes biológicos, é de suma importância a estimativa do risco, o dimensionamento da estrutura para a contenção e a tomada de decisão para o gerenciamento dos riscos identificados. Para tanto, consideram-se alguns critérios, entre os quais, destacam-se:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "risco, ambiente e atividade"
+      },
+      {
+        "id": "B",
+        "texto": "risco, ambiente e virulência"
+      },
+      {
+        "id": "C",
+        "texto": "virulência, atividade e ambiente"
+      },
+      {
+        "id": "D",
+        "texto": "virulência, concentração e volume"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0280",
+    "numero_ordem": 280,
+    "fundamentacao_correta": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'risco, ambiente e atividade...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'risco, ambiente e virulência...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'virulência, atividade e ambiente...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'virulência, concentração e volume...'."
+      }
+    ],
+    "comentario": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente..."
+  },
+  {
+    "codigo_origem": "Q2477220",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Água Boa - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Água Boa - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Biossegurança em Enfermagem",
+    "enunciado": "A técnica que envolve a remoção ou a redução no número de microrganismos, por meio de método químico (uso de antisséptico) ou mecânico (escovação), realizada principalmente nas mãos e nos antebraços, denomina-se:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "sanificação"
+      },
+      {
+        "id": "B",
+        "texto": "desinfecção"
+      },
+      {
+        "id": "C",
+        "texto": "degermação"
+      },
+      {
+        "id": "D",
+        "texto": "desinfestação"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0328",
+    "numero_ordem": 328,
+    "fundamentacao_correta": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'sanificação...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'desinfecção...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'desinfestação...'."
+      }
+    ],
+    "comentario": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente..."
+  },
+  {
+    "codigo_origem": "Q2477217",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Água Boa - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Água Boa - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Biossegurança em Enfermagem",
+    "enunciado": "A classe de alto risco individual e a de moderado risco para a comunidade incluem os agentes biológicos que possuem capacidade de transmissão por via respiratória e que causam patologias humanas ou animais, potencialmente letais, para as quais existem usualmente medidas de tratamento ou de prevenção. Esses agentes representam risco se disseminados na comunidade e no meio ambiente, podendo se propagar de pessoa a pessoa. Esse excerto refere-se à classe de risco:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "1"
+      },
+      {
+        "id": "B",
+        "texto": "2"
+      },
+      {
+        "id": "C",
+        "texto": "3"
+      },
+      {
+        "id": "D",
+        "texto": "4 412 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0331",
+    "numero_ordem": 331,
+    "fundamentacao_correta": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '4 412 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente..."
+  },
+  {
+    "codigo_origem": "Q2472191",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Auxiliar de Serviços Hospitalares",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Biossegurança em Enfermagem",
+    "enunciado": "Em relação à biossegurança, de acordo com a Agência Nacional de Vigilância Sanitária, o profissional responsável pelos Serviços Hospitalares deve:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "utilizar Equipamento de Proteção Individual (EPI) sempre que necessário"
+      },
+      {
+        "id": "B",
+        "texto": "descartar materiais perfurocortantes conforme solicitação da equipe de enfermagem"
+      },
+      {
+        "id": "C",
+        "texto": "manipular medicamentos que estejam armazenados em ambientes coletivos ou individuais"
+      },
+      {
+        "id": "D",
+        "texto": "utilizar o mesmo material de limpeza em todos os setores, de modo a manipular o mínimo possível uma variedade de equipamentos"
+      },
+      {
+        "id": "E",
+        "texto": "armazenar os produtos de limpeza no setor em que o mesmo será utilizado para evitar o trânsito indevido de produtos e substâncias potencialmente perigosas"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0350",
+    "numero_ordem": 350,
+    "fundamentacao_correta": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar Equipamento de Proteção Individual (EPI) sempre que necessário...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'descartar materiais perfurocortantes conforme solicitação da equipe de enfermagem...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manipular medicamentos que estejam armazenados em ambientes coletivos ou individuais...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar o mesmo material de limpeza em todos os setores, de modo a manipular o mínimo pos...'."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'armazenar os produtos de limpeza no setor em que o mesmo será utilizado para evitar o trân...'."
+      }
+    ],
+    "comentario": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente..."
+  },
+  {
+    "codigo_origem": "Q2472188",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Auxiliar de Serviços Hospitalares",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Biossegurança em Enfermagem",
+    "enunciado": "Os cuidados com a higiene pessoal são de extrema importância para a boa apresentação profissional e controle de infecções. Quanto aos cuidados com as mãos, além de higienizá-las corretamente, o profissional deve:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "utilizar luvas o tempo todo"
+      },
+      {
+        "id": "B",
+        "texto": "manter as unhas limpas e aparadas"
+      },
+      {
+        "id": "C",
+        "texto": "utilizar unhas postiças para evitar contato"
+      },
+      {
+        "id": "D",
+        "texto": "utilizar cremes específicos para matar bactérias"
+      },
+      {
+        "id": "E",
+        "texto": "imergir as mãos em solução clorada antes do expediente e ao término dele 433 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0352",
+    "numero_ordem": 352,
+    "fundamentacao_correta": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar luvas o tempo todo...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter as unhas limpas e aparadas...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar unhas postiças para evitar contato...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar cremes específicos para matar bactérias...'."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'imergir as mãos em solução clorada antes do expediente e ao término dele 433 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente..."
+  },
+  {
+    "codigo_origem": "Q2467342",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Água Boa - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Água Boa - MT - Agente",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Biossegurança em Enfermagem",
+    "enunciado": "Administrativo - Saúde/40h O principal objetivo da higienização das mãos na prática de enfermagem é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "reduzir o tempo gasto em procedimentos"
+      },
+      {
+        "id": "B",
+        "texto": "evitar a transmissão de microrganismos"
+      },
+      {
+        "id": "C",
+        "texto": "aumentar a resistência da pele"
+      },
+      {
+        "id": "D",
+        "texto": "melhorar a textura das mãos"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0380",
+    "numero_ordem": 380,
+    "fundamentacao_correta": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'reduzir o tempo gasto em procedimentos...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'evitar a transmissão de microrganismos...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aumentar a resistência da pele...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'melhorar a textura das mãos...'."
+      }
+    ],
+    "comentario": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente..."
+  },
+  {
+    "codigo_origem": "Q2454926",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sapezal - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Técnico em",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Biossegurança em Enfermagem",
+    "enunciado": "Enfermagem Os germes são seres vivos infinitamente pequenos, não sendo possível vê-los a olho nu. Para serem visualizados, precisamos da ajuda de um microscópio. Por isso, são chamados de microrganismos ou micróbios = micro (pequeno) + bio (vida). Esses micróbios são classificados em:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "fungos e vírus"
+      },
+      {
+        "id": "B",
+        "texto": "vírus e bactérias"
+      },
+      {
+        "id": "C",
+        "texto": "protozoários, vírus e bactérias"
+      },
+      {
+        "id": "D",
+        "texto": "protozoários, fungos, vírus e bactérias"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0408",
+    "numero_ordem": 408,
+    "fundamentacao_correta": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'fungos e vírus...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vírus e bactérias...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'protozoários, vírus e bactérias...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'protozoários, fungos, vírus e bactérias...'."
+      }
+    ],
+    "comentario": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente..."
+  }
+]

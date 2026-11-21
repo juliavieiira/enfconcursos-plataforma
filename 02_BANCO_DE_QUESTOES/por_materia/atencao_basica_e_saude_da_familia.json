@@ -1,0 +1,668 @@
+[
+  {
+    "codigo_origem": "Q3693950",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Lucas do Rio Verde - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Lucas do Rio Verde -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Atenção Básica e Saúde da Família",
+    "enunciado": "MT - Agente Comunitário de Saúde Macrorregião Durante uma consulta de rotina, um enfermeiro da Estratégia Saúde da Família acompanha um paciente hipertenso que também possui diabetes. Ele registra todas as informações de saúde do paciente, garante encaminhamentos para especialistas quando necessário e articula o cuidado entre os diferentes serviços de saúde da rede. Considerando os atributos essenciais da Atenção Primária à Saúde, o caso descrito refere-se à(ao):",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "acessibilidade, permitindo que todos os usuários tenham acesso aos serviços de saúde quando necessário"
+      },
+      {
+        "id": "B",
+        "texto": "coordenação do cuidado, garantindo acompanhamento contínuo, articulação de serviços e integração das informações em todos os pontos da rede"
+      },
+      {
+        "id": "C",
+        "texto": "primeiro contato, assegurando que a Atenção Primária em Saúde seja o ponto inicial de acesso aos serviços de saúde que o indivíduo precisar"
+      },
+      {
+        "id": "D",
+        "texto": "integralidade da atenção, garantindo que todos os serviços sejam realizados apenas na unidade básica de saúde, pois esta configura-se como eixo principal da rede 197 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0116",
+    "numero_ordem": 116,
+    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'acessibilidade, permitindo que todos os usuários tenham acesso aos serviços de saúde quand...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'coordenação do cuidado, garantindo acompanhamento contínuo, articulação de serviços e inte...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'primeiro contato, assegurando que a Atenção Primária em Saúde seja o ponto inicial de aces...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'integralidade da atenção, garantindo que todos os serviços sejam realizados apenas na unid...'."
+      }
+    ],
+    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
+  },
+  {
+    "codigo_origem": "Q3448856",
+    "banca": "SELECON",
+    "orgao": "Prefeitura Municipal",
+    "ano": 2025,
+    "prova": "",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Atenção Básica e Saúde da Família",
+    "enunciado": "",
+    "alternativas": [],
+    "resposta_correta": "",
+    "id": "EF0159",
+    "numero_ordem": 159,
+    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
+    "analise_distratores": [],
+    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
+  },
+  {
+    "codigo_origem": "Q3199753",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sinop - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Técnico de",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Atenção Básica e Saúde da Família",
+    "enunciado": "Enfermagem Dentro da Estratégia Saúde da Família (ESF), o técnico de enfermagem desempenha um papel multifacetado e essencial para o cuidado integral da saúde das comunidades. Suas atividades envolvem desde ações preventivas até o acompanhamento de tratamentos, sempre com foco na promoção e na redução das desigualdades no acesso à saúde. Com base em suas atribuições, assinale a alternativa que melhor descreve as responsabilidades do técnico de enfermagem na ESF:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "o técnico de enfermagem é responsável unicamente pelo cuidado direto ao paciente durante o atendimento médico, sem participação em ações educativas ou de prevenção de saúde"
+      },
+      {
+        "id": "B",
+        "texto": "o técnico de enfermagem atua no planejamento e execução de atividades educativas em saúde, apoio nas campanhas de vacinação, monitoramento da adesão ao tratamento e acompanhamento do ambiente domiciliar, sempre sob a supervisão da enfermeira ou médico"
+      },
+      {
+        "id": "C",
+        "texto": "o técnico de enfermagem exerce funções exclusivas de administração, coordenando as atividades da equipe de saúde e supervisionando médicos e enfermeiros nas ações de cuidado à comunidade"
+      },
+      {
+        "id": "D",
+        "texto": "o técnico de enfermagem tem autonomia para prescrever tratamentos e realizar diagnósticos de enfermagem, assumindo responsabilidades administrativas na gestão da unidade de saúde"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0202",
+    "numero_ordem": 202,
+    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o técnico de enfermagem é responsável unicamente pelo cuidado direto ao paciente durante o...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o técnico de enfermagem atua no planejamento e execução de atividades educativas em saúde,...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o técnico de enfermagem exerce funções exclusivas de administração, coordenando as ativida...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o técnico de enfermagem tem autonomia para prescrever tratamentos e realizar diagnósticos ...'."
+      }
+    ],
+    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
+  },
+  {
+    "codigo_origem": "Q2528697",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Técnico de Enfermagem",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Atenção Básica e Saúde da Família",
+    "enunciado": "A Estratégia Saúde da Família (ESF) visa à reorganização da atenção básica no país, de acordo com os preceitos do Sistema Único de Saúde (SUS). A equipe que atua neste segmento é composta por médicos, enfermeiros, técnicos de enfermagem, agentes de saúde, sendo uma equipe denominada como:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "disciplinar"
+      },
+      {
+        "id": "B",
+        "texto": "transdisciplinar"
+      },
+      {
+        "id": "C",
+        "texto": "interdisciplinar"
+      },
+      {
+        "id": "D",
+        "texto": "multidisciplinar"
+      },
+      {
+        "id": "E",
+        "texto": "polidisciplinar 332 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0251",
+    "numero_ordem": 251,
+    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'disciplinar...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'transdisciplinar...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'interdisciplinar...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'multidisciplinar...'."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'polidisciplinar 332 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
+  },
+  {
+    "codigo_origem": "Q2528689",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Técnico de Enfermagem",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Atenção Básica e Saúde da Família",
+    "enunciado": "“Caracteriza-se como porta de entrada dos usuários para os serviços de saúde. Não deve servir apenas para a triagem e encaminhamento dos clientes, mas sim desenvolver atividades de assistência que atendam aos problemas mais comuns da população”. Essa definição refere-se à Unidade:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "hospitalar"
+      },
+      {
+        "id": "B",
+        "texto": "ambulatorial"
+      },
+      {
+        "id": "C",
+        "texto": "de urgência"
+      },
+      {
+        "id": "D",
+        "texto": "de emergência"
+      },
+      {
+        "id": "E",
+        "texto": "básica de saúde 340 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0259",
+    "numero_ordem": 259,
+    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ambulatorial...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'de urgência...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'de emergência...'."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'básica de saúde 340 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
+  },
+  {
+    "codigo_origem": "Q2480373",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Atenção Básica e Saúde da Família",
+    "enunciado": "“Conjunto de ações de saúde individuais, familiares e coletivas que envolvem promoção, prevenção, proteção, diagnóstico, tratamento, reabilitação, redução de danos, cuidados paliativos e vigilância em saúde, desenvolvido por meio de práticas de cuidado integrado e gestão qualificada, realizado com equipe multiprofissional e dirigida à população em território definido, sobre o qual as equipes assumem responsabilidade sanitária.” O excerto destacado diz respeito à definição de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "atenção básica"
+      },
+      {
+        "id": "B",
+        "texto": "epidemiologia"
+      },
+      {
+        "id": "C",
+        "texto": "saúde pública"
+      },
+      {
+        "id": "D",
+        "texto": "saúde coletiva"
+      },
+      {
+        "id": "E",
+        "texto": "vigilância epidemiológica 405 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: SAD-MS Prova: SELECON - 2024 - SAD-MS - Enfermeiro"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0324",
+    "numero_ordem": 324,
+    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'atenção básica...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'epidemiologia...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'saúde pública...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'saúde coletiva...'."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vigilância epidemiológica 405 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único d...'."
+      }
+    ],
+    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
+  },
+  {
+    "codigo_origem": "Q2477211",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Água Boa - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Água Boa - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Atenção Básica e Saúde da Família",
+    "enunciado": "O SOAP é um modelo de registro em saúde adequado para o cuidado na Atenção Básica e para as diferentes práticas profissionais, cuja estrutura reflete a complexidade dos cuidados básicos de saúde (favorecendo a continuidade, a integralidade e a coordenação do cuidado), com destaque para suas categorias de problemas e avaliação, bem como de plano de cuidados (em suas dimensões de propedêutica, terapêutica, educativa e de seguimento/acompanhamento). A sigla SOAP significa:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Suporte Operacional Aplicado"
+      },
+      {
+        "id": "B",
+        "texto": "Subjetivo, Objetivo, Avaliação e Plano"
+      },
+      {
+        "id": "C",
+        "texto": "Sujeito, Objeto, Avaliação e Planejamento"
+      },
+      {
+        "id": "D",
+        "texto": "Subjetivo, Objetivo, Avaliação e Planejamento 418 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0337",
+    "numero_ordem": 337,
+    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Suporte Operacional Aplicado...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Subjetivo, Objetivo, Avaliação e Plano...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Sujeito, Objeto, Avaliação e Planejamento...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Subjetivo, Objetivo, Avaliação e Planejamento 418 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
+  },
+  {
+    "codigo_origem": "Q2454938",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sapezal - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Técnico em",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Atenção Básica e Saúde da Família",
+    "enunciado": "Enfermagem As mulheres são a maioria da população brasileira (50,77%) e as principais usuárias do Sistema Único de Saúde (SUS). Frequentam os serviços de saúde para o seu próprio atendimento, mas, sobretudo, acompanhando crianças e outros familiares, pessoas idosas, com deficiência, vizinhos, amigos. Para atender essa demanda, o Ministério da Saúde criou a:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Política Nacional de Saúde integral"
+      },
+      {
+        "id": "B",
+        "texto": "Política Nacional de Atenção integral"
+      },
+      {
+        "id": "C",
+        "texto": "Política Nacional de Saúde integral à Saúde da Mulher"
+      },
+      {
+        "id": "D",
+        "texto": "Política Nacional de Atenção integral à Saúde da Mulher"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0396",
+    "numero_ordem": 396,
+    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Política Nacional de Saúde integral...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Política Nacional de Atenção integral...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Política Nacional de Saúde integral à Saúde da Mulher...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Política Nacional de Atenção integral à Saúde da Mulher...'."
+      }
+    ],
+    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
+  },
+  {
+    "codigo_origem": "Q2454935",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sapezal - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Técnico em",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Atenção Básica e Saúde da Família",
+    "enunciado": "Enfermagem A atenção básica caracteriza-se por um conjunto de ações de saúde, no âmbito individual e coletivo, que abrange a promoção e a proteção da saúde, a prevenção de agravos, o diagnóstico, o tratamento, a reabilitação, a redução de danos e a manutenção da saúde com o objetivo de desenvolver uma atenção integral que impacte na situação de saúde e autonomia das pessoas e nos determinantes e condicionantes de saúde das coletividades. É função do técnico de enfermagem:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "participar das atividades de atenção realizando procedimentos regulamentados no exercício de sua profissão na UBS"
+      },
+      {
+        "id": "B",
+        "texto": "prestar assistência à saúde de alta complexidade"
+      },
+      {
+        "id": "C",
+        "texto": "realizar cuidados pré, trans e pós-operatórios"
+      },
+      {
+        "id": "D",
+        "texto": "realizar consulta de enfermagem"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0399",
+    "numero_ordem": 399,
+    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'participar das atividades de atenção realizando procedimentos regulamentados no exercício ...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'prestar assistência à saúde de alta complexidade...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar cuidados pré, trans e pós-operatórios...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar consulta de enfermagem...'."
+      }
+    ],
+    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
+  },
+  {
+    "codigo_origem": "Q2452990",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sapezal - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Atenção Básica e Saúde da Família",
+    "enunciado": "A Estratégia Saúde da Família (ESF) visa à reorganização da atenção básica no País, de acordo com os preceitos do Sistema Único de Saúde. As atribuições dos profissionais das equipes de atenção básica devem seguir as referidas disposições legais que regulamentam o exercício de cada uma das profissões. Nesse caso, temos como atribuição específica do(a) enfermeiro(a):",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "promover a mobilização e a participação da comunidade, buscando efetivar o controle social"
+      },
+      {
+        "id": "B",
+        "texto": "planejar, gerenciar e avaliar as ações desenvolvidas pelos ACS em conjunto com os outros membros da equipe"
+      },
+      {
+        "id": "C",
+        "texto": "realizar trabalho interdisciplinar e em equipe, integrando áreas técnicas e profissionais de diferentes formações"
+      },
+      {
+        "id": "D",
+        "texto": "realizar consultas clínicas, pequenos procedimentos cirúrgicos, atividades em grupo na UBS e, quando indicado ou necessário, no domicílio e/ou nos demais espaços comunitários (escolas, associações etc.) 510 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0429",
+    "numero_ordem": 429,
+    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'promover a mobilização e a participação da comunidade, buscando efetivar o controle social...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'planejar, gerenciar e avaliar as ações desenvolvidas pelos ACS em conjunto com os outros m...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar trabalho interdisciplinar e em equipe, integrando áreas técnicas e profissionais ...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar consultas clínicas, pequenos procedimentos cirúrgicos, atividades em grupo na UBS...'."
+      }
+    ],
+    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
+  },
+  {
+    "codigo_origem": "Q3674534",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Dourados - MS",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Dourados - MS -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Atenção Básica e Saúde da Família , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "Os tipos de Diabetes Melittus mais frequentes são: do tipo 1, que compreende cerca de 10% do total de casos; e do tipo 2, que compreende cerca de 90% do total de casos. Testes de rastreamento são indicados em indivíduos assintomáticos que apresentam maior risco à doença. São alguns fatores indicativos de maior risco:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "obesidade central (cintura abdominal >110 cm para homens e >90 cm para mulheres, medida na altura das cristas ilíacas) e sobrepeso (Índice de Massa Corporal IMC >35)"
+      },
+      {
+        "id": "B",
+        "texto": "obesidade central (cintura abdominal >102 cm para homens e >88 cm para mulheres, medida na altura das cristas ilíacas) e sobrepeso (Índice de Massa Corporal IMC >25)"
+      },
+      {
+        "id": "C",
+        "texto": "obesidade central (cintura abdominal >130 cm para homens e >92 cm para mulheres, medida na altura das cristas ilíacas) e hipertensão arterial (> 160/90 mmHg)"
+      },
+      {
+        "id": "D",
+        "texto": "obesidade central (cintura abdominal >120 cm para homens e >90 cm para mulheres, medida na altura da sínfise púbica) e hipertensão arterial (> 180/90 mmHg) 516 Ano: 2023"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0435",
+    "numero_ordem": 435,
+    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'obesidade central (cintura abdominal >110 cm para homens e >90 cm para mulheres, medida na...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'obesidade central (cintura abdominal >102 cm para homens e >88 cm para mulheres, medida na...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'obesidade central (cintura abdominal >130 cm para homens e >92 cm para mulheres, medida na...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'obesidade central (cintura abdominal >120 cm para homens e >90 cm para mulheres, medida na...'."
+      }
+    ],
+    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
+  },
+  {
+    "codigo_origem": "Q3674533",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Dourados - MS",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Dourados - MS -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Atenção Básica e Saúde da Família",
+    "enunciado": "De acordo com a Política Nacional de Atenção Básica (PNAB), a Atenção Básica será ofertada integralmente e gratuitamente a todas as pessoas, considerando as suas necessidades, as demandas do território e os determinantes e condicionantes de saúde. Um princípio dessa Política a ser operacionalizado na Atenção Básica é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "a Integralidade"
+      },
+      {
+        "id": "B",
+        "texto": "a Resolutividade"
+      },
+      {
+        "id": "C",
+        "texto": "o Cuidado Centrado na Pessoa"
+      },
+      {
+        "id": "D",
+        "texto": "a Longitudinalidade do Cuidado 517 Ano: 2023"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0436",
+    "numero_ordem": 436,
+    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a Integralidade...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a Resolutividade...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o Cuidado Centrado na Pessoa...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a Longitudinalidade do Cuidado 517 Ano: 2023...'."
+      }
+    ],
+    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
+  },
+  {
+    "codigo_origem": "Q3810625",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Garças - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Atenção Básica e Saúde da Família",
+    "enunciado": "Técnico em Enfermagem Durante uma ação territorial realizada pela equipe da Atenção Primária, observou-se que diversos usuários apresentavam dúvidas sobre o uso adequado de medicamentos e sobre medidas de prevenção de doenças comuns na comunidade. Diante desse cenário, a equipe planeja uma atividade de educação em saúde. Cabe a esse tipo de ação:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "priorizar a padronização de conteúdos e a transmissão de orientações de forma uniforme, garantindo que todos os usuários recebam a mesma informação essencial"
+      },
+      {
+        "id": "B",
+        "texto": "organizar de modo a centrar a mediação do conhecimento dos profissionais de saúde, assegurando que informações complexas sejam oferecidas com rigor técnico"
+      },
+      {
+        "id": "C",
+        "texto": "basear-se em processos dialógicos que reconheçam os saberes locais, incentivem a participação ativa e fortaleçam a autonomia dos usuários no cuidado em saúde"
+      },
+      {
+        "id": "D",
+        "texto": "concentrar principalmente em indivíduos com maior vulnerabilidade clínica, uma vez que representam o público mais sensível a intervenções educativas 153 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0492",
+    "numero_ordem": 492,
+    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'priorizar a padronização de conteúdos e a transmissão de orientações de forma uniforme, ga...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'organizar de modo a centrar a mediação do conhecimento dos profissionais de saúde, assegur...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'basear-se em processos dialógicos que reconheçam os saberes locais, incentivem a participa...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'concentrar principalmente em indivíduos com maior vulnerabilidade clínica, uma vez que rep...'."
+      }
+    ],
+    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
+  }
+]

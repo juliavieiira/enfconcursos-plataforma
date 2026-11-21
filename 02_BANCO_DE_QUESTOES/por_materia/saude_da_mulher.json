@@ -1,57 +1,704 @@
 [
   {
-    "id": "q-pref-007",
-    "banca": "RBO",
-    "orgao": "Prefeitura de Osasco - SP",
-    "ano": 2023,
+    "codigo_origem": "Q4336854",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Araçás - BA",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Araçás - BA - Técnico de",
     "cargo": "Técnico de Enfermagem",
-    "materia": "Saúde da Mulher",
-    "assunto": "Cálculo da Data Provável do Parto (Regra de Nägele)",
-    "enunciado": "Durante uma consulta de pré-natal na Unidade de Saúde da Família, a gestante informa que a Data da Última Menstruação (DUM) foi no dia 15 de março de 2024. Aplicando a Regra de Nägele, a Data Provável do Parto (DPP) desta gestante será:",
+    "materia": "Enfermagem",
+    "assunto": "Saúde da Mulher , Planejamento Familiar",
+    "enunciado": "Enfermagem O planejamento familiar é um direito assegurado à mulher e ao homem, cabendo ao profissional de enfermagem oferecer informações e orientações sobre os diversos métodos contraceptivos disponíveis no Sistema Único de Saúde, respeitando a autonomia e a escolha da usuária. Entre os métodos contraceptivos reversíveis de longa duração, o dispositivo intrauterino de cobre e o sistema liberador de levonorgestrel são opções eficazes com diferentes mecanismos de ação. O técnico de enfermagem, ao orientar uma usuária sobre o dispositivo intrauterino de cobre, deve informar que seu principal mecanismo de ação consiste em:",
     "alternativas": [
       {
         "id": "A",
-        "texto": "22 de dezembro de 2024."
+        "texto": "promover uma reação inflamatória local no endométrio que cria um ambiente hostil à implantação do embrião e à sobrevivência dos espermatozoides"
       },
       {
         "id": "B",
-        "texto": "22 de novembro de 2024."
+        "texto": "alterar a produção de hormônios hipofisários, suprimindo o pico de luteinização e impedindo a ovulação"
       },
       {
         "id": "C",
-        "texto": "15 de dezembro de 2024."
+        "texto": "bloquear a passagem dos espermatozoides pela tuba uterina por meio de obstrução mecânica"
       },
       {
         "id": "D",
-        "texto": "08 de janeiro de 2025."
-      },
-      {
-        "id": "E",
-        "texto": "22 de janeiro de 2025."
+        "texto": "liberar hormônios que inibem a ovulação de forma contínua durante todo o ciclo menstrual 29 Enfermagem > Administração de medicamentos , Saúde da Mulher , Assistência de Enfermagem ao Pré-Natal Medicação Endovenosa Banca: SELECON Órgão: Prefeitura de Araçás - BA Prova: SELECON - 2026 - Prefeitura de Araçás - BA - Técnico de"
       }
     ],
-    "resposta_correta": "A",
-    "fundamentacao_correta": "Pela Regra de Nägele (Manual de Atenção ao Pré-natal do Ministério da Saúde): adiciona-se 7 ao dia da DUM; e para os meses de janeiro a março (meses 1, 2 e 3), adiciona-se 9 ao mês (mantendo o mesmo ano). Cálculo: Dia = 15 + 7 = 22. Mês = 3 (março) + 9 = 12 (dezembro). Ano = 2024. Logo, DPP = 22 de dezembro de 2024.",
+    "resposta_correta": "",
+    "id": "EF0028",
+    "numero_ordem": 28,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
     "analise_distratores": [
       {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'promover uma reação inflamatória local no endométrio que cria um ambiente hostil à implant...'."
+      },
+      {
         "letra": "B",
-        "motivo": "22 de novembro de 2024 seria o cálculo errôneo somando apenas 8 meses em vez de 9."
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'alterar a produção de hormônios hipofisários, suprimindo o pico de luteinização e impedind...'."
       },
       {
         "letra": "C",
-        "motivo": "15 de dezembro comete o erro de somar apenas os meses e esquecer de adicionar 7 dias ao dia da DUM."
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'bloquear a passagem dos espermatozoides pela tuba uterina por meio de obstrução mecânica...'."
       },
       {
         "letra": "D",
-        "motivo": "08 de janeiro resultaria de uma subtração errônea de dias ou adição incorreta de 10 meses."
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'liberar hormônios que inibem a ovulação de forma contínua durante todo o ciclo menstrual 2...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q4317380",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Garças - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Barra do Garças - MT -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Saúde da Mulher , Assistência de Enfermagem ao Puerpério",
+    "enunciado": "Técnico em Enfermagem - SMS Uma puérpera em aleitamento exclusivo apresenta dor mamária localizada, hiperemia e sintomas sistêmicos compatíveis com mastite, sem evidência de abscesso mamário. Em relação à amamentação, a orientação adequada é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "manter a amamentação"
+      },
+      {
+        "id": "B",
+        "texto": "suspender a mama afetada"
+      },
+      {
+        "id": "C",
+        "texto": "interromper o aleitamento até o desaparecimento da febre"
+      },
+      {
+        "id": "D",
+        "texto": "descartar o leite da mama acometida até não haver mais sintomas"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0040",
+    "numero_ordem": 40,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter a amamentação...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'suspender a mama afetada...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'interromper o aleitamento até o desaparecimento da febre...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'descartar o leite da mama acometida até não haver mais sintomas...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3974335",
+    "banca": "SELECON",
+    "orgao": "EMGEPRON",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - EMGEPRON - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Saúde da Mulher , Cuidados de Enfermagem",
+    "enunciado": "Durante a internação de gestante com diagnóstico de pré-eclâmpsia, o enfermeiro identifica elevação pressórica persistente, queixas neurológicas e alterações laboratoriais recentes. Tendo em vista os critérios clínicos e laboratoriais de gravidade descritos nas diretrizes nacionais para doença hipertensiva da gestação, a relação entre as manifestações neurológicas e o comprometimento renal, ambos indicativos de iminência de eclâmpsia e de necessidade de intervenção imediata, consiste em:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "convulsão tônico-clônica generalizada ou cefaleia persistente associada à pressão arterial ≥ 160x110 mmHg, oligúria (< 500 mL/24h), proteinúria significativa e possível elevação de creatinina sérica, configurando disfunção orgânica materna"
+      },
+      {
+        "id": "B",
+        "texto": "cefaleia leve eventual com pressão arterial de 140x90 mmHg, edema de membros inferiores e diurese preservada, mesmo na presença de proteinúria discreta"
+      },
+      {
+        "id": "C",
+        "texto": "dor epigástrica isolada, aumento do débito urinário e ausência de alterações laboratoriais, ainda que haja oscilação pressórica transitória"
+      },
+      {
+        "id": "D",
+        "texto": "edema generalizado com pressão arterial controlada, diurese acima de 1.000 mL/24h e exames laboratoriais dentro da normalidade"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0098",
+    "numero_ordem": 98,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'convulsão tônico-clônica generalizada ou cefaleia persistente associada à pressão arterial...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'cefaleia leve eventual com pressão arterial de 140x90 mmHg, edema de membros inferiores e ...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'dor epigástrica isolada, aumento do débito urinário e ausência de alterações laboratoriais...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'edema generalizado com pressão arterial controlada, diurese acima de 1.000 mL/24h e exames...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3742709",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Marcelândia - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2025 - Prefeitura de Marcelândia - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Saúde da Mulher , Atenção Básica e Saúde da Família",
+    "enunciado": "A prevenção do câncer de mama e do cérvico-uterino, conforme as ações de enfermagem na Atenção Básica, envolve estratégias de rastreamento e educação em saúde. Uma ação essencial para a detecção precoce do câncer de mama é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "realização de exames de sangue anuais para marcadores tumorais"
+      },
+      {
+        "id": "B",
+        "texto": "incentivo à mamografia de rastreamento em faixas etárias específicas"
+      },
+      {
+        "id": "C",
+        "texto": "prescrição de quimioterapia preventiva para grupos de risco"
+      },
+      {
+        "id": "D",
+        "texto": "aconselhamento para cirurgia profilática em todas as mulheres"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0107",
+    "numero_ordem": 107,
+    "fundamentacao_correta": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realização de exames de sangue anuais para marcadores tumorais...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'incentivo à mamografia de rastreamento em faixas etárias específicas...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'prescrição de quimioterapia preventiva para grupos de risco...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aconselhamento para cirurgia profilática em todas as mulheres...'."
+      }
+    ],
+    "comentario": "Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integ..."
+  },
+  {
+    "codigo_origem": "Q3615482",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Tapurah - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Tapurah - MT - Técnico em",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Saúde da Mulher",
+    "enunciado": "Enfermagem Maria, puérpera de 3 dias, relata às profissionais da unidade de alojamento conjunto que sente as mamas endurecidas, quentes, doloridas e com sensação de peso. O recém-nascido está mamando, mas a mãe demonstra desconforto durante as mamadas. Sabendo que o técnico de enfermagem tem papel fundamental no cuidado à puérpera, sob supervisão da equipe de enfermagem, a conduta correta diante do quadro clínico descrito é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "orientar a suspensão das mamadas até que o leite “desça” completamente"
+      },
+      {
+        "id": "B",
+        "texto": "encaminhar para antibiótico imediato, pois se trata de mastite com possível abscesso"
+      },
+      {
+        "id": "C",
+        "texto": "auxiliar a mãe com medidas não farmacológicas, como massagem e ordenha, e manter a amamentação"
+      },
+      {
+        "id": "D",
+        "texto": "indicar compressas quentes contínuas e esvaziamento completo das mamas com bomba elétrica"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0139",
+    "numero_ordem": 139,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'orientar a suspensão das mamadas até que o leite “desça” completamente...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'encaminhar para antibiótico imediato, pois se trata de mastite com possível abscesso...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'auxiliar a mãe com medidas não farmacológicas, como massagem e ordenha, e manter a amament...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'indicar compressas quentes contínuas e esvaziamento completo das mamas com bomba elétrica...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3287495",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de São José dos Quatro Marcos - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de São José dos",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Saúde da Mulher , Assistência de Enfermagem ao Pré-Natal",
+    "enunciado": "Quatro Marcos - MT - Técnico em Enfermagem Na assistência pré-natal, recomenda-se a investigação da presença de anticorpos contra o fator Rh no sangue da gestante, assim como o conhecimento acerca do Rh do pai, de modo a identificar e intervir precocemente em casos nos quais há risco de doença hemolítica neonatal. A análise laboratorial que traz esse achado chama-se:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "coombs indireto"
+      },
+      {
+        "id": "B",
+        "texto": "teste de FTA-ABS"
+      },
+      {
+        "id": "C",
+        "texto": "hemograma completo"
+      },
+      {
+        "id": "D",
+        "texto": "IgG e IgM para citomegalovírus 243 Ano: 2025 Enfermagem > Sinais vitais , Fisiologia , Fundamentos e Procedimentos de Enfermagem Fisiologia do Sistema Cardiovascular Banca: SELECON Órgão: Prefeitura de São José dos Quatro Marcos - MT Prova: SELECON - 2025 - Prefeitura de São José dos"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0162",
+    "numero_ordem": 162,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'coombs indireto...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'teste de FTA-ABS...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'hemograma completo...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'IgG e IgM para citomegalovírus 243 Ano: 2025 Enfermagem > Sinais vitais , Fisiologia , Fun...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3265171",
+    "banca": "SELECON",
+    "orgao": "HEMOMINAS",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - HEMOMINAS - Analista de Hematologia e Hemoterapia -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Saúde da Mulher , Assistência de Enfermagem ao Pré-Natal , Doenças Hematológicas",
+    "enunciado": "ANHH - Nível I - Grau A - Enfermeiro No contexto da gestação, a compatibilidade entre o tipo de sangue materno e o fetal é fundamental para a prevenção de condições que comprometam o recém-nascido, como a eritroblastose fetal. Com base nesse tema, afirma-se que:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "a eritroblastose fetal ocorre apenas quando a mãe tem sangue ABO incompatível com o do feto, independentemente do fator Rh"
+      },
+      {
+        "id": "B",
+        "texto": "mulheres Rh negativo podem desenvolver anticorpos anti-D contra o sangue do feto Rh positivo, colocando gestações subsequentes em risco"
+      },
+      {
+        "id": "C",
+        "texto": "o uso de imunoglobulina anti-D durante a gestação é contraindicado, pois favorece a formação de anticorpos maternos contra o fator Rh"
+      },
+      {
+        "id": "D",
+        "texto": "o fator Rh não apresenta relevância na gestação e não pode interferir na saúde do feto e da mãe 255 Ano: 2025 Enfermagem > Estrutura Organizacional dos Serviços de Enfermagem e Gerenciamento do Trabalho , Gestão de Processos e Equipes de Trabalho , Administração em Enfermagem Banca: SELECON Órgão: HEMOMINAS Prova: SELECON - 2025 - HEMOMINAS - Analista de Hematologia e Hemoterapia -"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0174",
+    "numero_ordem": 174,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a eritroblastose fetal ocorre apenas quando a mãe tem sangue ABO incompatível com o do fet...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'mulheres Rh negativo podem desenvolver anticorpos anti-D contra o sangue do feto Rh positi...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o uso de imunoglobulina anti-D durante a gestação é contraindicado, pois favorece a formaç...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o fator Rh não apresenta relevância na gestação e não pode interferir na saúde do feto e d...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3199752",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sinop - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Técnico de",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Saúde da Mulher , Assistência de Enfermagem ao Pré-Natal",
+    "enunciado": "Enfermagem Sobre o diagnóstico de diabetes gestacional, o exame recomendado para a confirmação da doença é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "este de glicemia em jejum, com valor acima de 120 mg/dL, sendo sufi ciente para diagnosticar diabetes gestacional"
+      },
+      {
+        "id": "B",
+        "texto": "teste de hemoglobina glicada (HbA1c), utilizado como primeiro exame diagnóstico para diabetes gestacional"
+      },
+      {
+        "id": "C",
+        "texto": "teste de glicemia pós-prandial, realizado duas horas após a ingestão de 75g de glicose, sendo o método padrão para o diagnóstico de diabetes gestacional"
+      },
+      {
+        "id": "D",
+        "texto": "teste oral de tolerância à glicose (TOTG) com sobrecarga de 50g de glicose, realizado entre a 24ª e 28ª semana de gestação para diagnosticar diabetes gestacional"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0203",
+    "numero_ordem": 203,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'este de glicemia em jejum, com valor acima de 120 mg/dL, sendo sufi ciente para diagnostic...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'teste de hemoglobina glicada (HbA1c), utilizado como primeiro exame diagnóstico para diabe...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'teste de glicemia pós-prandial, realizado duas horas após a ingestão de 75g de glicose, se...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'teste oral de tolerância à glicose (TOTG) com sobrecarga de 50g de glicose, realizado entr...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3197478",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sinop - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Saúde da Mulher , Assistência de Enfermagem ao Parto/Aborto ,",
+    "enunciado": "",
+    "alternativas": [],
+    "resposta_correta": "",
+    "id": "EF0227",
+    "numero_ordem": 227,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3184825",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Nova Mutum - MT - Técnica",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Saúde da Mulher , Assistência de Enfermagem ao Pré-Natal",
+    "enunciado": "O acompanhamento pré-natal é essencial para a redução da incidência de mortalidade materna, do baixo peso ao nascer e da mortalidade perinatal. A recomendação do Ministério da Saúde acerca do calendário de consultas pré-natais de risco habitual deve ser, no mínimo:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "cinco consultas, sendo uma no primeiro trimestre, uma no segundo trimestre, e três no terceiro trimestre"
+      },
+      {
+        "id": "B",
+        "texto": "nove consultas, sendo três no primeiro trimestre, três no segundo trimestre, e três no terceiro trimestre"
+      },
+      {
+        "id": "C",
+        "texto": "seis consultas, sendo uma no primeiro trimestre, duas no segundo trimestre, e três no terceiro trimestre"
+      },
+      {
+        "id": "D",
+        "texto": "oito consultas, sendo duas no primeiro trimestre, duas no segundo trimestre, e quatro no terceiro trimestre 322 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0241",
+    "numero_ordem": 241,
+    "fundamentacao_correta": "Conforme os princípios da Epidemiologia e Vigilância em Saúde (Ministério da Saúde), a Incidência Acumulada expressa o risco de novos casos da doença em uma população inicialmente livre do agravo durante determinado período. O cálculo é: Número de Casos Novos dividido pela População Sob Risco (indivíduos suscetíveis no início do período, excluindo-se quem já tinha o diagnóstico). Portanto, a alternativa [] expressa com exatidão a metodologia epidemiológica correta.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'cinco consultas, sendo uma no primeiro trimestre, uma no segundo trimestre, e três no terc...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'nove consultas, sendo três no primeiro trimestre, três no segundo trimestre, e três no ter...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'seis consultas, sendo uma no primeiro trimestre, duas no segundo trimestre, e três no terc...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'oito consultas, sendo duas no primeiro trimestre, duas no segundo trimestre, e quatro no t...'."
+      }
+    ],
+    "comentario": "Conforme os princípios da Epidemiologia e Vigilância em Saúde (Ministério da Saúde), a Incidência Acumulada expressa o risco de novos casos da doença em uma população inicialmente livre do agravo durante determinado período. O cálculo é: Número de Ca..."
+  },
+  {
+    "codigo_origem": "Q2528698",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Técnico de Enfermagem",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Saúde da Mulher",
+    "enunciado": "A primeira menstruação da menina, denominada menarca, pode vir prescindida de uma secreção vaginal clara. A idade média para a menarca gira em torno de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "7 anos"
+      },
+      {
+        "id": "B",
+        "texto": "9 anos"
+      },
+      {
+        "id": "C",
+        "texto": "10 anos"
+      },
+      {
+        "id": "D",
+        "texto": "11 anos"
+      },
+      {
+        "id": "E",
+        "texto": "12 anos 331 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0250",
+    "numero_ordem": 250,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
       },
       {
         "letra": "E",
-        "motivo": "22 de janeiro de 2025 consideraria um ciclo gestacional de 10 meses de calendário em vez de 40 semanas."
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '12 anos 331 Ano: 2024...'."
       }
     ],
-    "comentario": "Regra de Nägele: Dia + 7 e Mês + 9 (para Jan a Mar). 15+7=22 de Dezembro de 2024.",
-    "dificuldade": "Média",
-    "relevancia_prefeitura": "Alta"
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q2452998",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sapezal - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Saúde da Mulher",
+    "enunciado": "Como elemento constitutivo das relações sociais entre homens e mulheres, é uma construção social e histórica. É construído e alimentado com base em símbolos, normas e instituições que definem modelos e padrões de comportamento aceitáveis ou não para a sociedade. Delimita campos de atuação para cada membro da sociedade, dá suporte à elaboração de leis e suas formas de aplicação. Também está incluída nesse aspecto a subjetividade de cada sujeito, sendo única sua forma de reagir ao que lhe é oferecido em sociedade. É uma forma primeira de significação de poder. Tal definição se refere ao seguinte fator:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "nível socioeconômico"
+      },
+      {
+        "id": "B",
+        "texto": "nível de escolaridade"
+      },
+      {
+        "id": "C",
+        "texto": "gênero"
+      },
+      {
+        "id": "D",
+        "texto": "sexo 502 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0421",
+    "numero_ordem": 421,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'nível socioeconômico...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'nível de escolaridade...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'sexo 502 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3884655",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Saúde da Mulher , Cuidados de Enfermagem",
+    "enunciado": "MT - Técnico em Enfermagem Durante a assistência a uma puérpera no alojamento conjunto, o técnico de enfermagem realiza a avaliação da loquiação como parte do cuidado no puerpério. Considerando a evolução fisiológica dos lóquios e os sinais que devem ser comunicados à equipe de saúde, corresponde a um achado esperado no puerpério imediato e mediato, sem indicativo de patologia:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "a presença de lóquios de cor alba nas primeiras 24 horas após o parto, com odor fétido"
+      },
+      {
+        "id": "B",
+        "texto": "lóquios de cor rubra persistentes e em grande volume após a segunda semana do parto"
+      },
+      {
+        "id": "C",
+        "texto": "lóquios de cor serosa, de coloração acastanhada ou rosada, com redução progressiva do volume"
+      },
+      {
+        "id": "D",
+        "texto": "a ausência total de loquiação nas primeiras 48 horas após o parto vaginal, associada a útero flácido e aumentado à palpação abdominal 115 Ano: 2026"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0454",
+    "numero_ordem": 454,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a presença de lóquios de cor alba nas primeiras 24 horas após o parto, com odor fétido...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'lóquios de cor rubra persistentes e em grande volume após a segunda semana do parto...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'lóquios de cor serosa, de coloração acastanhada ou rosada, com redução progressiva do volu...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a ausência total de loquiação nas primeiras 48 horas após o parto vaginal, associada a úte...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3810632",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Garças - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Saúde da Mulher , Assistência de Enfermagem ao Pré-Natal",
+    "enunciado": "Técnico em Enfermagem O Ministério da Saúde estabelece o número mínimo e a distribuição temporal das consultas de pré-natal para garantir detecção precoce de agravos, abordagem de fatores de risco e vigilância fetal adequada na gestação. De acordo com essas recomendações, o mínimo obrigatório de consultas e sua distribuição são:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "duas consultas no 1º trimestre, duas no 2º trimestre e três no 3º trimestre, totalizando sete"
+      },
+      {
+        "id": "B",
+        "texto": "uma consulta no 1º trimestre, três no 2º trimestre e três no 3º trimestre, totalizando sete"
+      },
+      {
+        "id": "C",
+        "texto": "três consultas no 1º trimestre, duas no 2º trimestre e três no 3º trimestre, totalizando oito"
+      },
+      {
+        "id": "D",
+        "texto": "uma consulta em cada trimestre, totalizando o mínimo de três 146 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0485",
+    "numero_ordem": 485,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'duas consultas no 1º trimestre, duas no 2º trimestre e três no 3º trimestre, totalizando s...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'uma consulta no 1º trimestre, três no 2º trimestre e três no 3º trimestre, totalizando set...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'três consultas no 1º trimestre, duas no 2º trimestre e três no 3º trimestre, totalizando o...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'uma consulta em cada trimestre, totalizando o mínimo de três 146 Ano: 2025...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
   }
 ]

@@ -1,0 +1,106 @@
+[
+  {
+    "codigo_origem": "Q4245085",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Conquista D'Oeste - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Conquista D'Oeste - MT",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Tuberculose , Doenças Infecciosas e parasitárias",
+    "enunciado": "- Agente de Combate às Endemias O controle da transmissão da tuberculose, doença causada pelo Mycobacterium tuberculosis, depende de medidas que interrompam a cadeia de disseminação do bacilo. Dentre as ações recomendadas para reduzir o risco de transmissão em ambientes comunitários, inclui-se o(a):",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "vacinação em massa da população com BCG, administrada em dose única anual"
+      },
+      {
+        "id": "B",
+        "texto": "manutenção de ambientes bem ventilados e com incidência de luz solar direta"
+      },
+      {
+        "id": "C",
+        "texto": "desinfecção de superfícies e objetos compartilhados com soluções à base de cloro"
+      },
+      {
+        "id": "D",
+        "texto": "isolamento respiratório do paciente por período mínimo de 60 dias após o início do tratamento Enfermagem > Infecções Sexualmente Transmissíveis (IST) , Saúde da Mulher ,"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0059",
+    "numero_ordem": 59,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vacinação em massa da população com BCG, administrada em dose única anual...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manutenção de ambientes bem ventilados e com incidência de luz solar direta...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'desinfecção de superfícies e objetos compartilhados com soluções à base de cloro...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'isolamento respiratório do paciente por período mínimo de 60 dias após o início do tratame...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q2496160",
+    "banca": "SELECON",
+    "orgao": "COREN-RR",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - COREN-RR - Analista Administrativo - Enfermeiro Fiscal",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Tuberculose , Doenças Infecciosas e parasitárias",
+    "enunciado": "A tuberculose é um dos agravos fortemente influenciados pelos determinantes sociais, apresentando relação direta com a pobreza e a exclusão social. A principal maneira de prevenir a tuberculose é com a vacina BCG (Bacillus Calmette-Guérin), disponível gratuitamente no SUS. Essa vacina protege contra as formas mais graves da doença e deve ser dada às crianças ao nascer, ou, no máximo, até:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "02 anos, 11 meses e 29 dias"
+      },
+      {
+        "id": "B",
+        "texto": "04 anos, 11 meses e 29 dias"
+      },
+      {
+        "id": "C",
+        "texto": "05 anos, 11 meses e 29 dias"
+      },
+      {
+        "id": "D",
+        "texto": "06 anos, 11 meses e 29 dias 362 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0281",
+    "numero_ordem": 281,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '02 anos, 11 meses e 29 dias...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '04 anos, 11 meses e 29 dias...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '05 anos, 11 meses e 29 dias...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '06 anos, 11 meses e 29 dias 362 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  }
+]

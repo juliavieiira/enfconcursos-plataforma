@@ -1,23 +1,407 @@
 === CADERNO DE QUESTÕES: URGÊNCIA E EMERGÊNCIA ===
-Total: 1 questões
+Total: 21 questões
 
-QUESTÃO 1 - Prefeitura de Maringá - PR (AOCP 2024) - Enfermeiro
-Assunto: Suporte Básico de Vida (AHA)
-Durante o atendimento pré-hospitalar (APH) a um indivíduo adulto em Parada Cardiorrespiratória (PCR) presenciada em via pública, os socorristas iniciam as manobras de Reanimação Cardiopulmonar (RCP). De acordo com as Diretrizes da American Heart Association (AHA), a frequência recomendada de compressões torácicas e a relação compressão-ventilação para um socorrista único sem via aérea avançada são, respectivamente:
+QUESTÃO 1 [Código: EF0003] - Prefeitura de Nova Mutum - MT (SELECON 2026) - Técnico de Enfermagem
+Assunto: Urgência e emergência , Sinais vitais , Fundamentos e Procedimentos de Enfermagem Choques
+Um paciente de 62 anos, internado após cirurgia abdominal, apresenta pressão arterial de 118/76 mmHg, frequência cardíaca de 88 bpm e frequência respiratória de 18 irpm. Trinta minutos depois, durante nova verificação dos sinais vitais, o técnico de enfermagem identificou pressão arterial de 104/68 mmHg, frequência cardíaca de 118 bpm e frequência respiratória de 26 irpm. O paciente também apresenta extremidades frias, palidez cutânea e tempo de enchimento capilar de quatro segundos. Diante desses achados, a interpretação que melhor fundamenta o reconhecimento de possível agravamento circulatório é a:
 
-  [A] 80 a 100 compressões/minuto e relação 15:2.
-  [B] 100 a 120 compressões/minuto e relação 30:2.
-  [C] 120 a 140 compressões/minuto e relação 30:2.
-  [D] 100 a 120 compressões/minuto e relação 15:2.
-  [E] 60 a 80 compressões/minuto e relação contínua com 10 ventilações/minuto.
+  [A] redução da pressão arterial, que caracteriza hipotensão grave
+  [B] elevação da frequência respiratória, que indica comprometimento respiratório isolado
+  [C] associação entre taquicardia, taquipneia e alterações da perfusão periférica, que sugere comprometimento circulatório, mesmo sem hipotensão acentuada
+  [D] manutenção da pressão arterial sistólica acima de 90 mmHg, que indica compensação hemodinâmica suficiente, permitindo considerar as demais alterações como respostas fisiológicas transitórias
 
-✅ Gabarito: B
-💡 Fundamentação: As Diretrizes Internacionais de RCP da AHA preconizam para o atendimento do adulto: compressões de alta qualidade com frequência entre 100 e 120 compressões por minuto, profundidade de 5 a 6 cm e retorno total do tórax. A relação compressão-ventilação sem via aérea avançada para qualquer socorrista no adulto é de 30 compressões para 2 ventilações (30:2).
+✅ Gabarito: C
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [C] ('associação entre taquicardia, taquipneia e alterações da perfusão periférica, que sugere comprometimento circulatório, mesmo sem hipotensão acentuada') é a correta.
 ❌ Distratores:
-   • A: Frequência abaixo de 100/min compromete a pressão de perfusão coronariana e cerebral. A relação 15:2 é usada apenas em pediatria com dois socorristas.
-   • C: Comprimir acima de 120/min impede o enchimento ventricular adequado do coração entre as compressões.
-   • D: A relação 15:2 é exclusiva para atendimento pediátrico (crianças e bebês) com 2 socorristas treinados.
-   • E: Compressões contínuas com 1 ventilação a cada 6 segundos só se aplicam após a passagem de via aérea avançada (intubação orotraqueal ou tubo laríngeo).
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'redução da pressão arterial, que caracteriza hipotensão grave...'.
+   • Alternativa B: Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente.
+   • Alternativa D: Ignora a taquicardia e a vasoconstrição periférica como sinais de alarme de choque compensado, retardando a intervenção precoce.
+
+------------------------------------------------------------
+
+QUESTÃO 2 [Código: EF0041] - Prefeitura de Barra do Garças - MT (SELECON 2026) - Técnico de Enfermagem
+Assunto: Urgência e emergência , Primeiros Socorros
+Técnico em Enfermagem - SMS Um paciente hospitalizado apresenta glicemia capilar de 58 mg/dL, sudorese e tremores. Está consciente e responde adequadamente aos comandos, porém apresenta dificuldade importante para deglutir com segurança. Diante dessa condição, a correção da hipoglicemia:
+
+  [A] deve aguardar recuperação espontânea da deglutição
+  [B] pode ser realizada por via oral com pequeno volume de solução açucarada
+  [C] pode ser realizada com alimento sólido de absorção lenta, desde que o paciente permaneça consciente durante toda a administração
+  [D] deve utilizar uma via alternativa segura, pois a consciência preservada não torna a via oral adequada diante da dificuldade de deglutição
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'deve aguardar recuperação espontânea da deglutição...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'pode ser realizada por via oral com pequeno volume de solução açucarada...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'pode ser realizada com alimento sólido de absorção lenta, desde que o paciente permaneça c...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'deve utilizar uma via alternativa segura, pois a consciência preservada não torna a via or...'.
+
+------------------------------------------------------------
+
+QUESTÃO 3 [Código: EF0045] - Prefeitura de Barra do Garças - MT (SELECON 2026) - Técnico de Enfermagem
+Assunto: Urgência e emergência , Enfermagem em Centro Cirúrgico , Pós-Operatório Suporte Ventilatório
+Técnico em Enfermagem - SMS No pós-operatório imediato, um paciente apresenta redução progressiva do nível de consciência, respiração superficial e queda da saturação periférica de oxigênio. O conjunto desses achados exige prioritariamente atenção para:
+
+  [A] retenção urinária
+  [B] depressão respiratória
+  [C] infecção do sítio cirúrgico
+  [D] alteração da cicatrização da ferida operatória
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'retenção urinária...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'depressão respiratória...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'infecção do sítio cirúrgico...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'alteração da cicatrização da ferida operatória...'.
+
+------------------------------------------------------------
+
+QUESTÃO 4 [Código: EF0053] - Prefeitura de Barra do Garças - MT (SELECON 2026) - Técnico de Enfermagem
+Assunto: Urgência e emergência , Primeiros Socorros , Exames Laboratoriais
+Técnico em Enfermagem - SMS Um paciente apresenta fraqueza muscular e resultado laboratorial de potássio sérico de 6,8 mEq/L. Durante a assistência, o monitor evidencia ondas T apiculadas, sem registro prévio dessa alteração. Diante desses achados, a atuação do técnico de enfermagem deve priorizar:
+
+  [A] repetir a aferição dos sinais vitais
+  [B] manter os cuidados programados e observar a evolução
+  [C] intensificar o controle do balanço hídrico e aguardar nova dosagem de potássio
+  [D] comunicar imediatamente os achados e manter o paciente sob monitorização cardíaca
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'repetir a aferição dos sinais vitais...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter os cuidados programados e observar a evolução...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'intensificar o controle do balanço hídrico e aguardar nova dosagem de potássio...'.
+   • Alternativa D: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
+
+------------------------------------------------------------
+
+QUESTÃO 5 [Código: EF0078] - EMGEPRON (SELECON 2026) - Técnico de Enfermagem
+Assunto: Urgência e emergência , Choques
+Um paciente adulto, internado em unidade clínica, apresenta pressão arterial de 88 × 56 mmHg, frequência cardíaca de 118 bpm, frequência respiratória de 24 irpm, pele fria e pálida e relato de tontura ao se sentar no leito. A conduta inicial prioritária do técnico de enfermagem diante desse quadro clínico é:
+
+  [A] comunicar imediatamente o enfermeiro responsável, posicionar o paciente em decúbito dorsal, com elevação dos membros inferiores, monitorar os sinais vitais e registrar a intercorrência no prontuário
+  [B] manter o paciente em repouso no leito, registrar os sinais vitais e aguardar avaliação médica, uma vez que a conduta terapêutica depende de prescrição
+  [C] oferecer líquidos por via oral para correção da hipotensão, orientar mudança postural lenta e reavaliar os sinais vitais após estabilização
+  [D] repetir a aferição dos sinais vitais após 20 minutos para confi rmação dos valores, evitando intervenções antes de nova mensuração
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter o paciente em repouso no leito, registrar os sinais vitais e aguardar avaliação méd...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'oferecer líquidos por via oral para correção da hipotensão, orientar mudança postural lent...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'repetir a aferição dos sinais vitais após 20 minutos para confi rmação dos valores, evitan...'.
+
+------------------------------------------------------------
+
+QUESTÃO 6 [Código: EF0153] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Urgência e emergência
+MT - Técnico em Enfermagem APH A equipe de Suporte Avançado de Vida (SAV) é acionada para atender um homem de 58 anos com queixa de palpitações e dor torácica opressiva há 30 minutos. Ao ser examinado, o paciente esta pálido, sudoreico, com Pressão Arterial de 80/50 mmHg, Frequência Cardíaca de 180 bpm (monitor mostra taquicardia de complexo QRS estreito e regular) e Frequência Respiratória de 24 irpm. A conduta imediata prioritária, considerando a instabilidade hemodinâmica, é:
+
+  [A] administrar Adenosina 6 mg IV em bolus rápido, seguida de flush de solução salina, e preparar segunda dose de 12 mg se ineficaz
+  [B] realizar cardioversão elétrica sincronizada imediata, iniciando com 50 a 100 Joules (bifásico), após breve sedação se o tempo permitir
+  [C] administrar Amiodarona 150 mg 1V infundida em 10 minutos, seguida de infusão de manutenção e reavaliar o ritmo e a pressão arterial
+  [D] tentar manobras vagais (Valsalva ou massagem do seio carotídeo) enquanto se prepara acesso venoso calibroso para infusão de volume 234 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administrar Adenosina 6 mg IV em bolus rápido, seguida de flush de solução salina, e prepa...'.
+   • Alternativa B: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administrar Amiodarona 150 mg 1V infundida em 10 minutos, seguida de infusão de manutenção...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tentar manobras vagais (Valsalva ou massagem do seio carotídeo) enquanto se prepara acesso...'.
+
+------------------------------------------------------------
+
+QUESTÃO 7 [Código: EF0156] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Urgência e emergência
+MT - Técnico em Enfermagem APH Durante o atendimento a uma vítima de parada cardiorrespiratória, um Desfibrilador Externo Automático (DEA) é trazido ao local. A vitima já está recebendo RCP. Ao receber o DEA, a equipe de socorristas deve priorizar a seguinte sequência de ações com o aparelho:
+
+  [A] continuar as compressões torácicas enquanto um segundo socorrista liga o DEA, aplica as pás no tórax nu da vitima e aguarda a análise do ritmo cardíaco, interrompendo as compressões apenas quando o DEA indicar para fazê-lo
+  [B] interromper imediatamente a RCP, ligar o DEA, aplicar as pás e aguardar a análise e o choque, se indicado, para só então reiniciar as compressões
+  [C] ligar o DEA e aplicar as pás sobre a roupa da vitima para economizar tempo, seguindo as instruções verbais do aparelho
+  [D] aplicar as pás do DEA e administrar um choque imediatamente, sem aguardar a análise do ritmo, pois em toda PCR o choque é benéfico 237 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'continuar as compressões torácicas enquanto um segundo socorrista liga o DEA, aplica as pá...'.
+   • Alternativa B: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ligar o DEA e aplicar as pás sobre a roupa da vitima para economizar tempo, seguindo as in...'.
+   • Alternativa D: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
+
+------------------------------------------------------------
+
+QUESTÃO 8 [Código: EF0157] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Urgência e emergência
+MT - Técnico em Enfermagem APH Um individuo presencia seu colega de trabalho, um homem de 55 anos com histórico de hipertensão, subitamente levar as mãos ao peito e colapsar. Ao se aproximar, percebe que o colega não responde a chamados e nem a estímulos dolorosos, e não parece respirar normalmente. Conforme recomendações da AHA, a sequência correta de ações imediatas a serem tomadas pelo socorrista é:
+
+  [A] iniciar imediatamente 30 compressões torácicas, seguidas de duas ventilações, e somente após cinco ciclos acionar o serviço médico de emergência
+  [B] tentar acordar a vitima com tapas no rosto e, se não houver resposta, procurar imediatamente por um DEA antes de qualquer outra ação
+  [C] verificar o pulso carotídeo por 15 segundos e, se ausente, iniciar ventilações de resgate até a chegada do suporte avançado
+  [D] reconhecer a PCR, acionar imediatamente o serviço médico de emergência (ou pedir para alguém o fazer) e iniciar RCP de alta qualidade, começando pelas compressões torácicas 238 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
+   • Alternativa B: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'verificar o pulso carotídeo por 15 segundos e, se ausente, iniciar ventilações de resgate ...'.
+   • Alternativa D: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
+
+------------------------------------------------------------
+
+QUESTÃO 9 [Código: EF0158] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Urgência e emergência , Parada Cardiorespiratória (PCR)
+MT - Técnico em Enfermagem APH Um socorrista leigo encontra um adulto caído em via pública, sem resposta e sem respiração aparente. Após confirmar a segurança do local e acionar o serviço médico de emergência, ele inicia as manobras de ressuscitação cardiopulmonar (RCP). De acordo com as diretrizes mais recentes da American Heart Association (AHA) para RCP em adultos por socorristas leigos, a prioridade e a técnica correta para as compressões torácicas são:
+
+  [A] iniciar com duas ventilações de resgate, seguidas por 30 compressões torácicas a uma profundidade de 4 cm, permitindo o retorno completo do tórax
+  [B] realizar 15 compressões torácicas com uma frequência de 80 a 100 por minuto, alternadas com duas ventilações, priorizando a abertura das vias aéreas
+  [C] iniciar imediatamente com compressões torácicas contínuas, a uma frequência de 100 a 120 por minuto e profundidade de 5 a 6 cm, minimizando interrupções
+  [D] aplicar compressões torácicas na metade inferior do esterno, com uma frequência de 120 a 140 por minuto, e profundidade de pelo menos 6 cm, sem se preocupar com o retorno do tórax 239 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'iniciar com duas ventilações de resgate, seguidas por 30 compressões torácicas a uma profu...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar 15 compressões torácicas com uma frequência de 80 a 100 por minuto, alternadas co...'.
+   • Alternativa C: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aplicar compressões torácicas na metade inferior do esterno, com uma frequência de 120 a 1...'.
+
+------------------------------------------------------------
+
+QUESTÃO 10 [Código: EF0167] - Prefeitura de São José dos Quatro Marcos - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Urgência e emergência , Fisiologia , Choques Fisiologia do Sistema Cardiovascular
+Quatro Marcos - MT - Técnico em Enfermagem Com base na perda sanguínea, considerando um homem adulto de estatura mediana, classifica-se como choque hemorrágico classe 3:
+
+  [A] perda de até 750 ml de sangue
+  [B] perda de mais que 2000 ml de sangue
+  [C] perda de 1500 ml a 2000 ml de sangue
+  [D] perda de 750 ml a 1500 ml de sangue 248 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'perda de até 750 ml de sangue...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'perda de mais que 2000 ml de sangue...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'perda de 1500 ml a 2000 ml de sangue...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'perda de 750 ml a 1500 ml de sangue 248 Ano: 2025...'.
+
+------------------------------------------------------------
+
+QUESTÃO 11 [Código: EF0172] - HEMOMINAS (SELECON 2025) - Enfermeiro
+Assunto: Urgência e emergência
+ANHH - Nível I - Grau A - Enfermeiro A administração de hemocomponentes exige conhecimento aprofundado dos tipos de reações transfusionais e das medidas de intervenção apropriadas. Sendo assim, considera-se que:
+
+  [A] na suspeita de reação alérgica leve, como urticária, a transfusão deve ser imediatamente interrompida e o hemocomponente descartado, sem possibilidade de reinfusão
+  [B] a sobrecarga circulatória associada à transfusão (TACO) é uma reação rara e geralmente não requer intervenção específica, sendo suficiente monitorar o paciente até a resolução espontânea dos sintomas
+  [C] a transfusão de hemocomponentes em pacientes com histórico de anafilaxia deve ser realizada sem pré-medicação, uma vez que a administração profilática de anti-histamínicos e corticoides pode mascarar sinais de reação grave
+  [D] a reação hemolítica aguda é caracterizada por sintomas como febre, calafrios, dor lombar e hemoglobinemia, exigindo interrupção imediata da transfusão e medidas de suporte intensivo 253 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a sobrecarga circulatória associada à transfusão (TACO) é uma reação rara e geralmente não...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a transfusão de hemocomponentes em pacientes com histórico de anafilaxia deve ser realizad...'.
+   • Alternativa D: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
+
+------------------------------------------------------------
+
+QUESTÃO 12 [Código: EF0222] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
+Assunto: Urgência e emergência
+Uma paciente de 58 anos é admitida na emergência com quadro de dor torácica intensa, irradiada para o braço esquerdo, náuseas e sudorese. O diagnóstico inicial é infarto agudo do miocárdio (IAM). Durante o atendimento, o enfermeiro deve adotar várias condutas para proporcionar o melhor cuidado. Em relação aos aspectos laboratoriais, conforto, monitorização e administração de medicamentos para essa paciente, o enfermeiro deve:
+
+  [A] coletar amostras para exames laboratoriais e administrar antiácidos para controle da dor torácica, iniciar monitorização da temperatura corporal e garantir que o paciente fique em repouso absoluto, sem qualquer medicação até a chegada do cardiologista
+  [B] realizar a monitorização contínua da pressão arterial, temperatura e ECG, administrar analgésicos não opióides, como paracetamol, controlar a dor e aguardar que o paciente se estabilize antes de realizar exames laboratoriais ou administrar qualquer medicamento
+  [C] iniciar imediatamente a monitorização dos sinais vitais, coletar amostras para exames laboratoriais como troponina e CK-MB, administrar medicamentos conforme prescrição (incluindo anticoagulantes e vasodilatadores), controlar o conforto do paciente com analgésicos e garantir repouso relativo
+  [D] coletar amostras para exames laboratoriais imediatamente, administrar analgésicos opióides para controle da dor, iniciar monitorização de sinais vitais e ECG contínuo, além de garantir a administração de anticoagulantes e antiplaquetários, conforme prescrição médica 303 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'coletar amostras para exames laboratoriais e administrar antiácidos para controle da dor t...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar a monitorização contínua da pressão arterial, temperatura e ECG, administrar anal...'.
+   • Alternativa C: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
+   • Alternativa D: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
+
+------------------------------------------------------------
+
+QUESTÃO 13 [Código: EF0232] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
+Assunto: Urgência e emergência , Choques
+Em um cenário de emergência, um paciente de 50 anos, previamente saudável, apresenta quadro de hipotensão severa, taquicardia, pele fria e pegajosa, além de confusão mental. O médico solicita que a equipe de enfermagem tome as primeiras medidas para estabilização. De acordo com os tipos de choque e com as condutas adequadas, a alternativa que descreve corretamente o tipo de choque e a conduta de enfermagem a ser adotada nesse caso é:
+
+  [A] o paciente apresenta sinais compatíveis com choque hipovolêmico, devido à perda de volume circulatório, logo, a conduta de enfermagem inclui a administração imediata de líquidos intravenosos, monitoramento da pressão arterial e encaminhamento rápido para avaliação médica
+  [B] o paciente está em choque distributivo, causado por uma vasodilatação excessiva, logo, a conduta envolve a administração de vasopressores, restrição de líquidos intravenosos e monitoramento rigoroso da oxigenação
+  [C] com os sinais apresentados, o paciente está em choque cardiogênico devido à falha do coração em bombear sangue adequadamente, logo, a conduta de enfermagem é iniciar massagem cardíaca imediatamente, além de fornecer oxigênio e líquidos intravenosos
+  [D] o paciente está em choque obstrutivo, causado por uma obstrução no fluxo sanguíneo, logo, a conduta deve ser a administração de líquidos intravenosos e uso de vasodilatadores para aliviar a obstrução 313 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o paciente está em choque distributivo, causado por uma vasodilatação excessiva, logo, a c...'.
+   • Alternativa C: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o paciente está em choque obstrutivo, causado por uma obstrução no fluxo sanguíneo, logo, ...'.
+
+------------------------------------------------------------
+
+QUESTÃO 14 [Código: EF0304] - SAD-MS (SELECON 2024) - Enfermeiro
+Assunto: Urgência e emergência
+A Portaria n.º 1863/2003 cria a Política Nacional de Atenção às Urgências e em seu artigo 1º define que as ações devem ser instituídas a partir de componentes fundamentais de atenção integral às urgências, as quais se estruturam no atendimento:
+
+  [A] Pré-Hospitalar Fixo e Móvel, Hospitalar, Pós-Hospitalar
+  [B] Pré-Hospitalar Fixo e Móvel, Regional e Nacional
+  [C] SAMU, Pré-Hospitalar fixo, Estadual e Nacional
+  [D] Municipal, Estadual, Regional e Nacional
+  [E] Estadual, Regional e Nacional 385 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Pré-Hospitalar Fixo e Móvel, Hospitalar, Pós-Hospitalar...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Pré-Hospitalar Fixo e Móvel, Regional e Nacional...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'SAMU, Pré-Hospitalar fixo, Estadual e Nacional...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Municipal, Estadual, Regional e Nacional...'.
+   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Estadual, Regional e Nacional 385 Ano: 2024...'.
+
+------------------------------------------------------------
+
+QUESTÃO 15 [Código: EF0309] - SAD-MS (SELECON 2024) - Enfermeiro
+Assunto: Urgência e emergência
+A organização da Política Nacional de Atenção às Urgências, composta pelos sistemas de atenção às urgências estaduais, regionais e municipais, deve atender aos princípios de:
+
+  [A] equidade e integralidade
+  [B] equidade, acesso e integralidade
+  [C] equidade, acesso e universalidade
+  [D] universalidade, acesso e integralidade
+  [E] universalidade, equidade e integralidade
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'equidade e integralidade...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'equidade, acesso e integralidade...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'equidade, acesso e universalidade...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'universalidade, acesso e integralidade...'.
+   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'universalidade, equidade e integralidade...'.
+
+------------------------------------------------------------
+
+QUESTÃO 16 [Código: EF0353] - SAD-MS (SELECON 2024) - Enfermeiro
+Assunto: Urgência e emergência , Primeiros Socorros
+Após prestar primeiros socorros, alguns parâmetros são cruciais para o reconhecimento das condições de vitalidade do indivíduo. Os sinais vitais primordiais a serem monitorados são:
+
+  [A] temperatura cervical, saturação, pulso e pressão arterial
+  [B] temperatura axilar, curva pressórica e balanço hídrico
+  [C] temperatura axilar, pulso, respiração e pressão arterial
+  [D] temperatura axilar, pulso, respiração e balanço hídrico
+  [E] temperatura cervical, saturação, respiração e balanço hídrico 434 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'temperatura cervical, saturação, pulso e pressão arterial...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'temperatura axilar, curva pressórica e balanço hídrico...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'temperatura axilar, pulso, respiração e pressão arterial...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'temperatura axilar, pulso, respiração e balanço hídrico...'.
+   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'temperatura cervical, saturação, respiração e balanço hídrico 434 Ano: 2024...'.
+
+------------------------------------------------------------
+
+QUESTÃO 17 [Código: EF0391] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+Assunto: Urgência e emergência
+Administrativo - Saúde/40h Em um movimentado plantão no setor de clínica médica, a enfermeira Ana se depara com um paciente ansioso e com dificuldade para respirar. Ao realizar a avaliação, Ana constata sinais de descompensação cardíaca e a necessidade de intervenção imediata. A atitude mais ética e profissional da enfermeira Ana nessa situação é:
+
+  [A] administrar a medicação prescrita pelo médico, sem realizar nova avaliação do paciente
+  [B] solicitar ao paciente que aguarde sua vez, pois há outros pacientes a serem atendidos
+  [C] tranquilizar o paciente e aguardar a chegada do médico para iniciar as medidas necessárias
+  [D] implementar medidas imediatas de conforto e segurança para o paciente, como elevá-lo a 45 graus e administrar oxigênio suplementar, enquanto aciona a equipe médica
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administrar a medicação prescrita pelo médico, sem realizar nova avaliação do paciente...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'solicitar ao paciente que aguarde sua vez, pois há outros pacientes a serem atendidos...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tranquilizar o paciente e aguardar a chegada do médico para iniciar as medidas necessárias...'.
+   • Alternativa D: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
+
+------------------------------------------------------------
+
+QUESTÃO 18 [Código: EF0398] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
+Assunto: Urgência e emergência , Parada Cardiorespiratória (PCR)
+Enfermagem Apneia ou dispneia importante, cianose, letargia, taquicardia ou bradicardia são sinais e sintomas de:
+
+  [A] choque
+  [B] insuficiência cardíaca
+  [C] insuficiência respiratória
+  [D] emergência hipertensiva
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'insuficiência cardíaca...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'insuficiência respiratória...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'emergência hipertensiva...'.
+
+------------------------------------------------------------
+
+QUESTÃO 19 [Código: EF0402] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
+Assunto: Urgência e emergência
+Enfermagem Ocorrência imprevista de agravo à saúde com ou sem risco potencial à vida, cujo portador necessita de assistência médica imediata é a definição de:
+
+  [A] urgência
+  [B] emergência
+  [C] risco imediato
+  [D] risco potencial
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'risco imediato...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'risco potencial...'.
+
+------------------------------------------------------------
+
+QUESTÃO 20 [Código: EF0433] - Prefeitura de Sapezal - MT (SELECON 2023) - Enfermeiro
+Assunto: Urgência e emergência
+De acordo com a Política Nacional de Atenção às Urgências, de que trata o Artigo 1º da Portaria 1863/2003, as ações devem ser instituídas a partir de componentes fundamentais, com organização de redes loco regionais de atenção integral às urgências, nos seguintes níveis:
+
+  [A] Pré-Hospitalar Fixo e Móvel, Hospitalar, Pós-Hospitalar
+  [B] Pré-Hospitalar Fixo e Móvel, Regional e Nacional
+  [C] SAMU, Pré-Hospitalar fixo, Estadual e Nacional
+  [D] Municipal, Estadual, Regional e Nacional 514 Ano: 2023
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Pré-Hospitalar Fixo e Móvel, Hospitalar, Pós-Hospitalar...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Pré-Hospitalar Fixo e Móvel, Regional e Nacional...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'SAMU, Pré-Hospitalar fixo, Estadual e Nacional...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Municipal, Estadual, Regional e Nacional 514 Ano: 2023...'.
+
+------------------------------------------------------------
+
+QUESTÃO 21 [Código: EF0498] - Prefeitura de Barra do Garças - MT (SELECON 2025) - Enfermeiro
+Assunto: Urgência e emergência , Farmacologia na Enfermagem
+O uso de adrenalina 1:10.000 em parada cardiorrespiratória (PCR) tem como objetivo primário:
+
+  [A] reverter arritmias ventriculares
+  [B] estabilizar a pressão arterial sistêmica
+  [C] promover vasoconstrição periférica
+  [D] estimular o débito cardíaco residual 159 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'reverter arritmias ventriculares...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'estabilizar a pressão arterial sistêmica...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'promover vasoconstrição periférica...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'estimular o débito cardíaco residual 159 Ano: 2025...'.
 
 ------------------------------------------------------------
 

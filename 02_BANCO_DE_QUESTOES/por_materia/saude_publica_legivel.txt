@@ -1,0 +1,515 @@
+=== CADERNO DE QUESTÕES: SAÚDE PÚBLICA ===
+Total: 27 questões
+
+QUESTÃO 1 [Código: EF0020] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2026) - Enfermeiro
+Assunto: Saúde Pública , Imunização , Política Nacional de Imunização
+MT - Enfermeiro - Secretaria de Saúde A Rede de Frio do Programa Nacional de Imunização (PNI) é estruturada em instâncias que asseguram a conservação dos imunobiológicos desde o laboratório produtor até a administração no usuário. A 6ª edição do Manual da Rede de Frio, publicada em 2025, incorporou atualizações significativas para a operacionalização das vacinas. Entre as inovações trazidas pelo documento, inclui-se a:
+
+  [A] criação de capítulo exclusivo para a Unidade Móvel de Vacinação, definida como veículo adaptado para funcionar como sala de vacinação itinerante
+  [B] padronização da temperatura de armazenamento de todas as vacinas na faixa de 2 °C a 8 °C, sem exceções
+  [C] substituição do uso de câmaras refrigeradas por freezers domésticos, desde que submetidos a monitoramento diário
+  [D] supressão do uso de sistemas de informação na gestão da Rede de Frio, em favor de planilhas manuais
+
+✅ Gabarito: A
+💡 Fundamentação: Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [A] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.
+❌ Distratores:
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'padronização da temperatura de armazenamento de todas as vacinas na faixa de 2 °C a 8 °C, ...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'substituição do uso de câmaras refrigeradas por freezers domésticos, desde que submetidos ...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'supressão do uso de sistemas de informação na gestão da Rede de Frio, em favor de planilha...'.
+
+------------------------------------------------------------
+
+QUESTÃO 2 [Código: EF0021] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2026) - Enfermeiro
+Assunto: Saúde Pública , Imunização , Política Nacional de Imunização
+MT - Enfermeiro - Secretaria de Saúde Os Centros de Referência para Imunobiológicos Especiais (CRIE) são unidades que ofertam imunobiológicos não disponíveis nas salas de vacinação de rotina, destinados a pessoas com condições clínicas especiais que aumentam o risco de infecções ou complicações por doenças imunopreveníveis. A 6ª edição do Manual dos CRIE, publicada em 2023, mantém a estrutura das publicações anteriores e traz como principal atualização a:
+
+  [A] extinção da lista de imunobiológicos especiais, que passou a ser definida caso a caso pelos gestores estaduais
+  [B] lista dos CRIE em funcionamento no país, com informações para profissionais de saúde e usuários
+  [C] restrição do acesso aos CRIE a pacientes pediátricos, excluindo adultos e idosos do atendimento
+  [D] incorporação de vacinas de rotina ao escopo dos CRIE, uniformizando a oferta em todo o território nacional
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'extinção da lista de imunobiológicos especiais, que passou a ser definida caso a caso pelo...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'lista dos CRIE em funcionamento no país, com informações para profissionais de saúde e usu...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'restrição do acesso aos CRIE a pacientes pediátricos, excluindo adultos e idosos do atendi...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'incorporação de vacinas de rotina ao escopo dos CRIE, uniformizando a oferta em todo o ter...'.
+
+------------------------------------------------------------
+
+QUESTÃO 3 [Código: EF0024] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2026) - Enfermeiro
+Assunto: Saúde Pública , Doenças Infecciosas e parasitárias , Outras Doenças Infecciosas e Parasitárias
+MT - Enfermeiro - Secretaria de Saúde A interrupção da cadeia de transmissão de doenças parasitárias, como as geo-helmintíases, exige do enfermeiro a compreensão dos determinantes sociais e ambientais que condicionam a persistência desses agravos em comunidades vulneráveis. A atuação de enfermagem voltada à prevenção dessas infecções deve priorizar intervenções que atuem diretamente sobre o(a):
+
+  [A] aplicação de inseticidas de ação residual em áreas de alto risco, como estratégia de controle vetorial
+  [B] administração periódica de antiparasitários à população escolar, como medida de quimioprofilaxia
+  [C] isolamento domiciliar dos indivíduos sintomáticos, como forma de contenção da transmissão
+  [D] implementação de medidas de saneamento básico no território, como intervenção sobre os determinantes ambientais
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aplicação de inseticidas de ação residual em áreas de alto risco, como estratégia de contr...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administração periódica de antiparasitários à população escolar, como medida de quimioprof...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'isolamento domiciliar dos indivíduos sintomáticos, como forma de contenção da transmissão...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'implementação de medidas de saneamento básico no território, como intervenção sobre os det...'.
+
+------------------------------------------------------------
+
+QUESTÃO 4 [Código: EF0031] - Prefeitura de Araçás - BA (SELECON 2026) - Técnico de Enfermagem
+Assunto: Saúde Pública , Imunização , Política Nacional de Imunização Calendário Vacinal
+Enfermagem O Programa Nacional de Imunizações (PNI) completa mais de cinco décadas de existência consolidado como uma das políticas públicas de maior impacto na redução da morbimortalidade por doenças imunopreveníveis no Brasil. Em 2025, o calendário nacional de vacinação contemplou, na rotina dos serviços, 21 vacinas que protegem o indivíduo em todos os ciclos de vida, desde o nascimento, abrangendo doenças como poliomielite, sarampo, rubéola, tétano, hepatite B, coqueluche e bronquiolite pelo vírus sincicial respiratório. O PNI disponibiliza 50 imunobiológicos no total, incluindo vacinas, soros e imunoglobulinas, e coordena campanhas anuais para alcançar altas coberturas vacinais. No mesmo ano de 2025, dados preliminares indicaram que o Brasil alcançou a meta de vacinação para recém-nascidos exclusivamente para as vacinas:
+
+  [A] hepatite B e BCG, sinalizando recuperação parcial após anos de queda nas coberturas vacinais
+  [B] pentavalente e pneumocócica 10-valente, com cobertura superior a 95% em todos os estados da federação
+  [C] tríplice viral e varicela, mantendo o país livre da circulação endêmica do sarampo e da rubéola
+  [D] influenza e covid-19, em razão das campanhas nacionais de vacinação realizadas no primeiro semestre 32 Enfermagem > Anatomia na Enfermagem , Fisiologia , Anatomia do Sistema Cardiovascular Fisiologia do Sistema Cardiovascular Banca: SELECON Órgão: Prefeitura de Araçás - BA Prova: SELECON - 2026 - Prefeitura de Araçás - BA - Técnico de
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'hepatite B e BCG, sinalizando recuperação parcial após anos de queda nas coberturas vacina...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'pentavalente e pneumocócica 10-valente, com cobertura superior a 95% em todos os estados d...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tríplice viral e varicela, mantendo o país livre da circulação endêmica do sarampo e da ru...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'influenza e covid-19, em razão das campanhas nacionais de vacinação realizadas no primeiro...'.
+
+------------------------------------------------------------
+
+QUESTÃO 5 [Código: EF0076] - EMGEPRON (SELECON 2026) - Técnico de Enfermagem
+Assunto: Saúde Pública , Promoção da Saúde
+No cotidiano dos serviços de saúde, a compreensão do processo saúde-doença orienta a forma como os profissionais planejam e executam as ações de cuidado. Considerando a concepção multicausal do processo saúde-doença, atesta-se que o(a):
+
+  [A] doença é compreendida como resultado exclusivo de alterações orgânicas, devendo as ações de saúde priorizar o diagnóstico e o tratamento clínico
+  [B] adoecimento é explicado a partir de causas únicas e específicas, sendo o controle da doença dependente principalmente da eliminação do agente etiológico
+  [C] ocorrência das doenças resulta da interação entre condições biológicas, ambientais, sociais e comportamentais, exigindo ações que ultrapassem o cuidado estritamente curativo
+  [D] processo saúde-doença é determinado apenas pelas condições econômicas e ambientais da população, não havendo influência relevante de fatores individuais ou biológicos 77 Enfermagem > Dietas , Fundamentos e Procedimentos de Enfermagem , Assistência de Enfermagem no Processo Nutricional Banca: SELECON Órgão: EMGEPRON Prova: SELECON - 2026 - EMGEPRON - Técnico em Enfermagem
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'doença é compreendida como resultado exclusivo de alterações orgânicas, devendo as ações d...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'adoecimento é explicado a partir de causas únicas e específicas, sendo o controle da doenç...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ocorrência das doenças resulta da interação entre condições biológicas, ambientais, sociai...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'processo saúde-doença é determinado apenas pelas condições econômicas e ambientais da popu...'.
+
+------------------------------------------------------------
+
+QUESTÃO 6 [Código: EF0097] - EMGEPRON (SELECON 2026) - Enfermeiro
+Assunto: Saúde Pública , Atenção Básica e Saúde da Família
+Em uma atividade em território adscrito à Atenção Primária, o enfermeiro identifica elevada prevalência de hipertensão arterial em comunidade socialmente vulnerável. Para enfrentamento do problema, organiza rodas de conversa, estimula a troca de experiências, utiliza escuta ativa e constrói, junto ao grupo, estratégias de autocuidado adequadas à realidade local. A abordagem descrita fundamenta-se no modelo denominado:
+
+  [A] educação em saúde participativa e emancipatória
+  [B] biomédico tradicional
+  [C] educação bancária
+  [D] hospitalocêntrico
+
+✅ Gabarito: 
+💡 Fundamentação: Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'educação em saúde participativa e emancipatória...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'biomédico tradicional...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'educação bancária...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'hospitalocêntrico...'.
+
+------------------------------------------------------------
+
+QUESTÃO 7 [Código: EF0108] - Prefeitura de Marcelândia - MT (SELECON 2025) - Enfermeiro
+Assunto: Saúde Pública , Doenças Crônicas Não Transmissíveis
+As Doenças e Agravos Não Transmissíveis (DANTs) representam um desafio significativo para a saúde pública global. Uma característica fundamental que as distingue das doenças transmissíveis é a sua natureza:
+
+  [A] infecciosa e de rápida disseminação
+  [B] aguda e de origem bacteriana
+  [C] endêmica e de fácil erradicação
+  [D] crônica e multifatorial 189 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'infecciosa e de rápida disseminação...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aguda e de origem bacteriana...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'endêmica e de fácil erradicação...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'crônica e multifatorial 189 Ano: 2025...'.
+
+------------------------------------------------------------
+
+QUESTÃO 8 [Código: EF0111] - Prefeitura de Marcelândia - MT (SELECON 2025) - Enfermeiro
+Assunto: Saúde Pública , Promoção da Saúde , Atenção Básica e Saúde da Família
+A educação em saúde é uma ferramenta estratégica na Atenção Primária à Saúde (APS), sendo uma das competências essenciais do enfermeiro para empoderar indivíduos e comunidades na gestão de sua própria saúde. Para que as ações educativas sejam eficazes e promovam mudanças de comportamento duradouras, é fundamental que o enfermeiro utilize abordagens pedagógicas que considerem o contexto sociocultural e as necessidades específicas da população. Uma prática educativa que reflete os princípios da APS e a atuação do enfermeiro é:
+
+  [A] o desenvolvimento de atividades participativas que estimulem a reflexão crítica e a construção coletiva do conhecimento
+  [B] a transmissão unilateral de informações técnicas complexas, sem espaço para diálogo
+  [C] a imposição de condutas e hábitos saudáveis, desconsiderando a autonomia do indivíduo
+  [D] a delegação exclusiva da responsabilidade pela educação em saúde aos agentes comunitários de saúde 192 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o desenvolvimento de atividades participativas que estimulem a reflexão crítica e a constr...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a transmissão unilateral de informações técnicas complexas, sem espaço para diálogo...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a imposição de condutas e hábitos saudáveis, desconsiderando a autonomia do indivíduo...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a delegação exclusiva da responsabilidade pela educação em saúde aos agentes comunitários ...'.
+
+------------------------------------------------------------
+
+QUESTÃO 9 [Código: EF0112] - Prefeitura de Marcelândia - MT (SELECON 2025) - Enfermeiro
+Assunto: Saúde Pública , Atenção Básica e Saúde da Família
+A atuação do enfermeiro na Atenção Primária à Saúde (APS) é fundamental para a integralidade do cuidado, abrangendo diversas dimensões da saúde do indivíduo e da comunidade. Nesse contexto, uma das principais responsabilidades do enfermeiro é a coordenação do cuidado, que se manifesta por meio de ações que visam garantir a continuidade e a articulação entre os diferentes pontos da rede de atenção à saúde, promovendo a longitudinalidade e a resolutividade. Considerando a complexidade e a abrangência da APS, a coordenação do cuidado exercida pelo enfermeiro envolve prioritariamente:
+
+  [A] a realização exclusiva de procedimentos de alta complexidade em unidades de pronto atendimento
+  [B] o encaminhamento de todos os casos para especialistas, sem intervenção prévia na unidade básica
+  [C] a articulação entre os serviços de saúde, a gestão de casos e o acompanhamento dos usuários ao longo do tempo
+  [D] a prescrição de medicamentos de uso contínuo para todas as condições crônicas sem avaliação médica 193 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a realização exclusiva de procedimentos de alta complexidade em unidades de pronto atendim...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o encaminhamento de todos os casos para especialistas, sem intervenção prévia na unidade b...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a articulação entre os serviços de saúde, a gestão de casos e o acompanhamento dos usuário...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a prescrição de medicamentos de uso contínuo para todas as condições crônicas sem avaliaçã...'.
+
+------------------------------------------------------------
+
+QUESTÃO 10 [Código: EF0114] - Prefeitura de Marcelândia - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Saúde Pública , Epidemiologia e Vigilância Epidemiológica
+em Enfermagem Durante o plantão noturno, um técnico de enfermagem observa que uma colega de equipe está visivelmente sonolenta e com dificuldade de realizar os procedimentos com segurança. Ao conversar, a colega relata estar fazendo jornadas duplas há vários dias para complementar a renda e pede que o colega a ajude a encobrir uma medicação que ela esqueceu de administrar em um paciente, checando a administração do medicamento na prescrição. O técnico de enfermagem se vê diante de um dilema: manter a harmonia da equipe e aceitar o pedido, ou recusar a solicitação, comunicando o ocorrido ao enfermeiro responsável. De acordo com o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), a conduta ética correta do técnico de enfermagem é:
+
+  [A] atender ao pedido da colega, considerando que a falta de administração deste medicamento não trouxe prejuízo imediato ao paciente
+  [B] recusar-se a falsificar o registro e comunicar o fato ao enfermeiro responsável, garantindo a veracidade das informações
+  [C] registrar o ocorrido apenas no plantão seguinte, para evitar constrangimento à colega de equipe e ter tempo de certificar-se que não houve agravo ao paciente
+  [D] tentar resolver o problema apenas entre os técnicos de enfermagem da equipe, sem envolver o enfermeiro, pois tratase de uma responsabilidade deles 195 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'atender ao pedido da colega, considerando que a falta de administração deste medicamento n...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'recusar-se a falsificar o registro e comunicar o fato ao enfermeiro responsável, garantind...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'registrar o ocorrido apenas no plantão seguinte, para evitar constrangimento à colega de e...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tentar resolver o problema apenas entre os técnicos de enfermagem da equipe, sem envolver ...'.
+
+------------------------------------------------------------
+
+QUESTÃO 11 [Código: EF0138] - Prefeitura de Tapurah - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Saúde Pública , Atenção Básica e Saúde da Família
+Enfermagem Durante uma roda de conversa educativa na unidade básica de saúde, um adolescente de 17 anos relata, em sigilo ao técnico de enfermagem, que está com ferida indolor na região genital há cerca de uma semana, mas tem vergonha de contar aos pais e teme julgamento. Diante da situação, considerando o papel do técnico de enfermagem na abordagem de infecções sexualmente transmissíveis (IST), é correto afirmar que:
+
+  [A] o técnico de enfermagem deve aguardar que o paciente traga um responsável para orientações sobre IST
+  [B] a escuta qualificada e o sigilo devem ser garantidos, orientando-o e encaminhando-o para avaliação com a equipe
+  [C] não se deve falar de IST com menores de 18 anos sem autorização formal dos pais ou responsáveis
+  [D] o técnico de enfermagem deve apenas registrar o relato e repassar ao enfermeiro, sem orientar o paciente
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o técnico de enfermagem deve aguardar que o paciente traga um responsável para orientações...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a escuta qualificada e o sigilo devem ser garantidos, orientando-o e encaminhando-o para a...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'não se deve falar de IST com menores de 18 anos sem autorização formal dos pais ou respons...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o técnico de enfermagem deve apenas registrar o relato e repassar ao enfermeiro, sem orien...'.
+
+------------------------------------------------------------
+
+QUESTÃO 12 [Código: EF0149] - Prefeitura de Tapurah - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Saúde Pública , Epidemiologia e Vigilância Epidemiológica , Legislação em Saúde
+Enfermagem Uma técnica de enfermagem em uma Unidade Básica de Saúde (UBS) atende um paciente de 25 anos com febre alta, cefaleia intensa, rigidez de nuca e vômitos há 24 horas. A suspeita diagnóstica levantada pela equipe é de meningite meningocócica. Por se tratar de uma situação que se baseia na vigilância epidemiológica e na legislação sanitária brasileira, a equipe deve:
+
+  [A] realizar a notificação compulsória apenas após confirmação laboratorial do caso
+  [B] aguardar a evolução clínica para registrar no sistema de notificação, pois a suspeita não é o suficiente
+  [C] realizar notificação compulsória imediata, devendo ser comunicada em até 24 horas após a suspeita
+  [D] aguardar, pois a notificação compulsória é de responsabilidade exclusiva do médico, não cabendo ao técnico de enfermagem qualquer ação
+
+✅ Gabarito: 
+💡 Fundamentação: Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar a notificação compulsória apenas após confirmação laboratorial do caso...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aguardar a evolução clínica para registrar no sistema de notificação, pois a suspeita não ...'.
+   • Alternativa C: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aguardar, pois a notificação compulsória é de responsabilidade exclusiva do médico, não ca...'.
+
+------------------------------------------------------------
+
+QUESTÃO 13 [Código: EF0150] - Prefeitura de Tapurah - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Saúde Pública , Doenças Infecciosas e parasitárias
+Enfermagem A hanseníase é uma doença infectocontagiosa que afeta principalmente a pele e os nervos periféricos. Sobre essa doença, é coerente afirmar que:
+
+  [A] o diagnóstico é feito exclusivamente por exame laboratorial, sendo o exame clínico pouco relevante
+  [B] a forma multibacilar da hanseníase apresenta maior carga bacilar e risco aumentado de transmissão
+  [C] o tratamento da hanseníase é feito apenas com corticoterapia para controlar as reações inflamatórias
+  [D] a transmissão da hanseníase ocorre principalmente por contato com lesões cutâneas abertas e secreções purulentas 231 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.
+❌ Distratores:
+   • Alternativa A: Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a forma multibacilar da hanseníase apresenta maior carga bacilar e risco aumentado de tran...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o tratamento da hanseníase é feito apenas com corticoterapia para controlar as reações inf...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a transmissão da hanseníase ocorre principalmente por contato com lesões cutâneas abertas ...'.
+
+------------------------------------------------------------
+
+QUESTÃO 14 [Código: EF0160] - Prefeitura de São José dos Quatro Marcos - MT (SELECON 2024) - Técnico de Enfermagem
+Assunto: Saúde Pública , Saúde da Criança e do Adolescente , Promoção da Saúde Aleitamento Materno
+Quatro Marcos - MT - Técnico em Enfermagem A Política Nacional de Promoção ao Aleitamento Materno tem como objetivo garantir e promover a prática do aleitamento materno exclusivo nos primeiros seis meses de vida, visando a benefícios para a saúde da criança e da mãe. A alternativa que melhor descreve a principal diretriz dessa política é:
+
+  [A] a política assegura que o aleitamento materno exclusivo seja recomendado até os 6 meses de vida da criança, com a introdução de alimentos complementares a partir dos 6 meses e o aleitamento materno continuado até os dois anos ou mais
+  [B] a política não especifica o tempo de aleitamento materno exclusivo e orienta que a criança seja alimentada exclusivamente com leite artificial após o primeiro mês de vida
+  [C] a política promove o aleitamento materno exclusivo apenas para crianças com até três meses de vida, recomendando a introdução de outros alimentos a partir dessa idade
+  [D] a política permite que o aleitamento materno exclusivo seja interrompido a partir do primeiro mês de vida, com a inclusão de sucos e chás
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a política assegura que o aleitamento materno exclusivo seja recomendado até os 6 meses de...'.
+   • Alternativa B: Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a política promove o aleitamento materno exclusivo apenas para crianças com até três meses...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a política permite que o aleitamento materno exclusivo seja interrompido a partir do prime...'.
+
+------------------------------------------------------------
+
+QUESTÃO 15 [Código: EF0168] - Prefeitura de São José dos Quatro Marcos - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Saúde Pública , Atenção Básica e Saúde da Família
+Quatro Marcos - MT - Técnico em Enfermagem Segundo a Política Nacional de Atenção Básica (PNAB) de 2017, as atribuições do técnico de enfermagem na Estratégia Saúde da Família (ESF) são:
+
+  [A] coordenar as visitas domiciliares e elabora o plano de cuidado, atuando de forma independente dos outros membros da equipe
+  [B] integrar a equipe, realizando atividades como educação em saúde, orientação às famílias e apoio às ações de promoção e prevenção, sob supervisão do enfermeiro
+  [C] atuar no atendimento curativo e na administração de medicamentos, com foco apenas na recuperação do paciente
+  [D] responsabilizar-se pela execução de atividades complexas, como prescrição médica e diagnóstico de enfermagem, com total autonomia 249 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'coordenar as visitas domiciliares e elabora o plano de cuidado, atuando de forma independe...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'integrar a equipe, realizando atividades como educação em saúde, orientação às famílias e ...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'atuar no atendimento curativo e na administração de medicamentos, com foco apenas na recup...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'responsabilizar-se pela execução de atividades complexas, como prescrição médica e diagnós...'.
+
+------------------------------------------------------------
+
+QUESTÃO 16 [Código: EF0187] - HEMOMINAS (SELECON 2025) - Enfermeiro
+Assunto: Saúde Pública , Atenção Básica e Saúde da Família
+ANHH - Nível I - Grau A - Enfermeiro A organização dos serviços de enfermagem em diferentes níveis de atenção à saúde é fundamental para garantir o cuidado integral, equitativo e eficiente à população. Sobre essa temática, é certo dizer que:
+
+  [A] o cuidado primário concentra-se exclusivamente em intervenções curativas voltadas às emergências
+  [B] os serviços de enfermagem em atenção primária buscam a promoção da saúde, prevenção de agravos e acompanhamento longitudinal
+  [C] a enfermagem em atenção terciária não participa do gerenciamento das condições clínicas, atuando apenas na reabilitação
+  [D] a organização dos serviços de enfermagem limita-se à execução de tarefas operacionais, sem envolvimento no planejamento estratégico 268 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.
+❌ Distratores:
+   • Alternativa A: Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'os serviços de enfermagem em atenção primária buscam a promoção da saúde, prevenção de agr...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a enfermagem em atenção terciária não participa do gerenciamento das condições clínicas, a...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a organização dos serviços de enfermagem limita-se à execução de tarefas operacionais, sem...'.
+
+------------------------------------------------------------
+
+QUESTÃO 17 [Código: EF0192] - HEMOMINAS (SELECON 2024) - Enfermeiro
+Assunto: Saúde Pública , Infecção Hospitalar
+ANHH - Nível I - Grau A - Enfermeiro A resistência bacteriana aos antimicrobianos representa um grave problema de saúde pública. Das seguintes estratégias, a que se mostra mais relevante para o uso racional de antibióticos em ambientes hospitalares é a:
+
+  [A] prescrição de antibióticos de amplo espectro em todas as infecções suspeitas
+  [B] utilização de antibióticos de última geração em todas as infecções
+  [C] realização de culturas e testes de sensibilidade aos antibióticos antes do início da terapia
+  [D] administração profilática de antibióticos em todos os pacientes internados
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'prescrição de antibióticos de amplo espectro em todas as infecções suspeitas...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilização de antibióticos de última geração em todas as infecções...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realização de culturas e testes de sensibilidade aos antibióticos antes do início da terap...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administração profilática de antibióticos em todos os pacientes internados...'.
+
+------------------------------------------------------------
+
+QUESTÃO 18 [Código: EF0284] - COREN-RR (SELECON 2024) - Enfermeiro
+Assunto: Saúde Pública
+Uma das atividades de profissionais de saúde ou responsáveis pelos estabelecimentos de saúde públicos ou privados é a notificação compulsória que é a comunicação obrigatória à autoridade de saúde sobre a ocorrência de suspeita ou confirmação de doença, agravo ou evento de saúde pública previsto em Lei, podendo ser imediata ou semanal. Uma patologia que deve ser notificada é a:
+
+  [A] fibromialgia
+  [B] fibrose cística
+  [C] doença de cronh
+  [D] doença de Creutzfeldt-Jakob 365 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'fibromialgia...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'fibrose cística...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'doença de cronh...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'doença de Creutzfeldt-Jakob 365 Ano: 2024...'.
+
+------------------------------------------------------------
+
+QUESTÃO 19 [Código: EF0286] - COREN-RR (SELECON 2024) - Enfermeiro
+Assunto: Saúde Pública
+A definição “atividades da área da saúde coletiva que se destina, por meio das ações de vigilância epidemiológica e sanitária, à promoção e proteção da saúde de trabalhadores, assim como visa à recuperação e reabilitação da saúde” refere-se à:
+
+  [A] saúde coletiva
+  [B] saúde pública
+  [C] saúde sanitária
+  [D] saúde do trabalhador 367 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'saúde coletiva...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'saúde pública...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'saúde sanitária...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'saúde do trabalhador 367 Ano: 2024...'.
+
+------------------------------------------------------------
+
+QUESTÃO 20 [Código: EF0375] - Prefeitura de Água Boa - MT (SELECON 2024) - Técnico de Enfermagem
+Assunto: Saúde Pública
+Enfermagem A vigilância que visa conhecer, detectar ou prevenir qualquer mudança nos fatores determinantes e condicionantes do ambiente que interferem na saúde humana; recomendar e adotar medidas de prevenção e controle dos fatores de risco, relacionados às doenças e a outros agravos à saúde, prioritariamente, a vigilância da qualidade da água para consumo humano, ar e solo; e também prevenir desastres de origem natural ou provocados por substâncias químicas, por acidentes com produtos perigosos, por fatores físicos ou ainda no ambiente de trabalho, denomina-se:
+
+  [A] saúde do trabalhador
+  [B] situação de saúde
+  [C] saúde ambiental
+  [D] epidemiológica
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'saúde do trabalhador...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'situação de saúde...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'saúde ambiental...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'epidemiológica...'.
+
+------------------------------------------------------------
+
+QUESTÃO 21 [Código: EF0412] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
+Assunto: Saúde Pública
+Enfermagem Os artigos de múltiplos uso em estabelecimentos de saúde podem se tornar veículos de agentes infecciosos, se não sofrerem processos de descontaminação após cada uso. Os locais onde esses artigos são processados e as pessoas que os manuseiam também podem tornar-se fontes de infecção para hospedeiros suscetíveis. Os artigos destinados ao contato com a pele não íntegra ou com mucosas íntegras são chamados de:
+
+  [A] críticos
+  [B] não críticos
+  [C] semicríticos
+  [D] altamente críticos
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'não críticos...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'semicríticos...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'altamente críticos...'.
+
+------------------------------------------------------------
+
+QUESTÃO 22 [Código: EF0424] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
+Assunto: Saúde Pública
+Os Indicadores de Saúde são medidas informativas representadas mediante proporções, índices, coeficientes ou taxas, que são utilizadas para descrever, analisar ou relacionar determinantes ao estado de saúde. Os fatores utilizados para a avaliar e classificar os referidos indicadores são:
+
+  [A] validade, fator patológico, aspectos éticos, amplitude
+  [B] confiabilidade, fator patológico, amplitude, aspectos éticos
+  [C] confiabilidade, cobertura, aspectos éticos e administrativos
+  [D] validade, confiabilidade, cobertura, aspectos éticos e administrativos 505 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'validade, fator patológico, aspectos éticos, amplitude...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'confiabilidade, fator patológico, amplitude, aspectos éticos...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'confiabilidade, cobertura, aspectos éticos e administrativos...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'validade, confiabilidade, cobertura, aspectos éticos e administrativos 505 Ano: 2024...'.
+
+------------------------------------------------------------
+
+QUESTÃO 23 [Código: EF0442] - EMGEPRON (SELECON 2026) - Enfermeiro
+Assunto: Saúde Pública , Epidemiologia e Vigilância Epidemiológica
+Em um hospital, o enfermeiro observa que pacientes expostos ao mesmo agente infeccioso apresentam diferentes manifestações clínicas, variando entre quadros assintomáticos, leves e graves. À luz do conceito ampliado do processo saúdedoença, afirma-se que:
+
+  [A] tal processo resulta da interação entre fatores biológicos, ambientais e sociais, que influenciam a vulnerabilidade, a resistência e a resposta clínica do indivíduo
+  [B] o desenvolvimento da doença depende exclusivamente da virulência do agente etiológico, desconsiderando características do hospedeiro
+  [C] a resposta clínica ao agente infeccioso é determinada apenas por fatores genéticos individuais
+  [D] a gravidade do agravo é uniforme entre indivíduos expostos ao mesmo agente 103 Ano: 2026
+
+✅ Gabarito: 
+💡 Fundamentação: Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tal processo resulta da interação entre fatores biológicos, ambientais e sociais, que infl...'.
+   • Alternativa B: Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a resposta clínica ao agente infeccioso é determinada apenas por fatores genéticos individ...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a gravidade do agravo é uniforme entre indivíduos expostos ao mesmo agente 103 Ano: 2026...'.
+
+------------------------------------------------------------
+
+QUESTÃO 24 [Código: EF0449] - Prefeitura de Porto dos Gaúchos - MT (SELECON 2026) - Técnico de Enfermagem
+Assunto: Saúde Pública , Doenças Infecciosas e parasitárias
+MT - Técnico em Enfermagem Durante o atendimento em uma unidade básica de saúde, um paciente adulto procurou o serviço referindo mal-estar, náuseas, colúria e icterícia recente. Ele também relatou histórico de uso compartilhado de seringas no passado e informou que abandonou o acompanhamento clínico para hepatite viral após melhora inicial dos sintomas. Considerando as hepatites virais de importância em saúde pública e as atribuições do técnico de enfermagem, a conduta correta no manejo desse caso inclui:
+
+  [A] comunicar a equipe de enfermagem, reforçar a necessidade de retomada do acompanhamento, orientar quanto às formas de transmissão e proceder à notificação compulsória conforme normatização vigente
+  [B] iniciar esquema vacinal completo para hepatite C e dispensar acompanhamento clínico, desde que não haja agravamento dos sintomas
+  [C] orientar o usuário a aguardar a resolução espontânea dos sintomas, uma vez que a melhora clínica indica cura da infecção
+  [D] restringir o atendimento até confirmação diagnóstica definitiva, evitando risco de transmissão ocupacional 110 Ano: 2026
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'comunicar a equipe de enfermagem, reforçar a necessidade de retomada do acompanhamento, or...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'iniciar esquema vacinal completo para hepatite C e dispensar acompanhamento clínico, desde...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'orientar o usuário a aguardar a resolução espontânea dos sintomas, uma vez que a melhora c...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'restringir o atendimento até confirmação diagnóstica definitiva, evitando risco de transmi...'.
+
+------------------------------------------------------------
+
+QUESTÃO 25 [Código: EF0452] - Prefeitura de Porto dos Gaúchos - MT (SELECON 2026) - Técnico de Enfermagem
+Assunto: Saúde Pública , Doenças Infecciosas e parasitárias
+MT - Técnico em Enfermagem Um paciente adulto com tuberculose pulmonar sensível aos fármacos iniciou tratamento com esquema básico e realizou tratamento diretamente observado (TDO) nas primeiras semanas. Após utilizar regularmente a medicação por 20 dias, interrompeu o comparecimento à unidade de saúde por 18 dias consecutivos, retornando, espontaneamente, assintomático, solicitando continuidade do tratamento. Diante dessa situação, a conduta correta a ser adotada pela equipe, com participação direta do técnico de enfermagem, é:
+
+  [A] retomar o tratamento a partir da última dose registrada, mantendo o esquema e o tempo total previamente previsto
+  [B] reiniciar o tratamento desde o início, com novo esquema terapêutico e notificação compulsória de resistência medicamentosa
+  [C] suspender temporariamente a medicação, aguardar nova baciloscopia de escarro e decidir a conduta apenas após resultado laboratorial
+  [D] reiniciar o tratamento desde o início do esquema básico, com novo acompanhamento em TDO e registro da interrupção no sistema de informação 113 Ano: 2026
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'retomar o tratamento a partir da última dose registrada, mantendo o esquema e o tempo tota...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'reiniciar o tratamento desde o início, com novo esquema terapêutico e notificação compulsó...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'suspender temporariamente a medicação, aguardar nova baciloscopia de escarro e decidir a c...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'reiniciar o tratamento desde o início do esquema básico, com novo acompanhamento em TDO e ...'.
+
+------------------------------------------------------------
+
+QUESTÃO 26 [Código: EF0453] - Prefeitura de Porto dos Gaúchos - MT (SELECON 2026) - Técnico de Enfermagem
+Assunto: Saúde Pública , Imunização
+MT - Técnico em Enfermagem Durante o funcionamento de uma sala de vacinação, ocorre a interrupção no fornecimento de energia elétrica. O refrigerador de imunobiológicos, que contém vacinas armazenadas corretamente até o momento da intercorrência, permanece fechado. De acordo com as orientações do Manual da Rede de Frio do Programa Nacional de Imunizações, a conduta imediata e adequada do técnico de enfermagem, diante dessa situação, é:
+
+  [A] transferir imediatamente as vacinas para caixas térmicas, utilizando gelo reciclável, independentemente da duração da interrupção
+  [B] manter o refrigerador fechado, monitorar a temperatura interna e comunicar a ocorrência ao responsável pela sala de vacinação
+  [C] realizar a vacinação normalmente, desde que o refrigerador permaneça fechado durante a falta de energia
+  [D] descartar os imunobiológicos caso a energia não seja restabelecida em um período de 120 minutos 114 Ano: 2026
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.
+❌ Distratores:
+   • Alternativa A: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter o refrigerador fechado, monitorar a temperatura interna e comunicar a ocorrência ao...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar a vacinação normalmente, desde que o refrigerador permaneça fechado durante a fal...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'descartar os imunobiológicos caso a energia não seja restabelecida em um período de 120 mi...'.
+
+------------------------------------------------------------
+
+QUESTÃO 27 [Código: EF0502] - Prefeitura de Barra do Garças - MT (SELECON 2025) - Enfermeiro
+Assunto: Saúde Pública , Atenção Básica e Saúde da Família
+A Política Nacional de Atenção Básica (PNAB) de 2017, que revogou a PNAB de 2012, trouxe importantes atualizações e flexibilizações para a organização da Atenção Primária à Saúde (APS) no Brasil. Dentre as inovações e diretrizes da PNAB 2017, destaca-se a possibilidade de:
+
+  [A] exclusão do Agente Comunitário de Saúde (ACS) da composição mínima das equipes de Saúde da Família (ESF) em municípios com menos de 20.000 habitantes
+  [B] formação de equipes de Atenção Primária (EAP) sem a obrigatoriedade de médico e enfermeiro, desde que haja um profissional de nível superior
+  [C] redução da carga horária mínima dos profissionais das equipes de Saúde da Família para 20 horas semanais, visando à otimização de recursos
+  [D] adoção de diferentes arranjos de equipes, como a ESF e a EAP, com composições mínimas distintas e flexibilidade para adequação local 163 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'exclusão do Agente Comunitário de Saúde (ACS) da composição mínima das equipes de Saúde da...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'formação de equipes de Atenção Primária (EAP) sem a obrigatoriedade de médico e enfermeiro...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'redução da carga horária mínima dos profissionais das equipes de Saúde da Família para 20 ...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'adoção de diferentes arranjos de equipes, como a ESF e a EAP, com composições mínimas dist...'.
+
+------------------------------------------------------------
+

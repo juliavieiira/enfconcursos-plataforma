@@ -1,0 +1,117 @@
+=== CADERNO DE QUESTÕES: ENFERMAGEM EM CENTRO CIRÚRGICO ===
+Total: 6 questões
+
+QUESTÃO 1 [Código: EF0062] - EMGEPRON (SELECON 2026) - Técnico de Enfermagem
+Assunto: Enfermagem em Centro Cirúrgico , Pós-Operatório
+Um paciente adulto é admitido para procedimento cirúrgico eletivo e passa pelas etapas pré, trans e pós-operatória sob acompanhamento da equipe de enfermagem. Considerando as atribuições do técnico de enfermagem em cada fase do período perioperatório, no:
+
+  [A] período pré-operatório, cabe ao técnico de enfermagem realizar exclusivamente a prescrição de cuidados e o planejamento cirúrgico
+  [B] período transoperatório, a responsabilidade do técnico de enfermagem limita-se ao transporte do paciente, não incluindo cuidados de posicionamento
+  [C] pós-operatório imediato, o técnico de enfermagem deve monitorar sinais vitais, nível de consciência, dor e possíveis complicações, comunicando alterações à equipe
+  [D] período transoperatório, o técnico de enfermagem atua apenas na esterilização dos materiais, sem participação direta na assistência ao paciente ou no transporte dele
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'período transoperatório, a responsabilidade do técnico de enfermagem limita-se ao transpor...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'pós-operatório imediato, o técnico de enfermagem deve monitorar sinais vitais, nível de co...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'período transoperatório, o técnico de enfermagem atua apenas na esterilização dos materiai...'.
+
+------------------------------------------------------------
+
+QUESTÃO 2 [Código: EF0132] - Prefeitura de Tapurah - MT (SELECON 2024) - Enfermeiro
+Assunto: Enfermagem em Centro Cirúrgico
+Dentro dos princípios da assepsia cirúrgica para a montagem de um campo estéril, uma área específica do campo é convencionalmente considerada contaminada e não deve ser tocada por materiais estéreis. Essa área corresponde:
+
+  [A] a toda a superfície abaixo do nível da cintura
+  [B] ao centro do campo, no qual os instrumentos principais são depositados
+  [C] à borda externa de 2,5 cm (uma polegada) do campo
+  [D] a qualquer área que entre em contato com luvas estéreis
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a toda a superfície abaixo do nível da cintura...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ao centro do campo, no qual os instrumentos principais são depositados...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'à borda externa de 2,5 cm (uma polegada) do campo...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a qualquer área que entre em contato com luvas estéreis...'.
+
+------------------------------------------------------------
+
+QUESTÃO 3 [Código: EF0204] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Enfermagem em Centro Cirúrgico , Enfermagem em Central de Material Esterilizado
+Enfermagem O técnico de enfermagem encaminhou materiais utilizados no Centro Cirúrgico para a Central de Material e Esterilização. De modo a garantir que o processamento de artigos hospitalares, como materiais cirúrgicos e equipamentos reutilizáveis, seja realizado de acordo com as normas de biossegurança, a conduta mais indicada é:
+
+  [A] o processamento deve iniciar com a lavagem do material em água fria, seguido pela esterilização em autoclave, sem a necessidade de secagem, desde que o material esteja livre de resíduos
+  [B] o processamento deve iniciar com a desinfecção simples dos artigos com álcool, seguido pela secagem manual e armazenagem, sem a necessidade de esterilização, já que o álcool é sufi ciente para eliminar os micro-organismos
+  [C] o processamento pode ser realizado apenas com a secagem manual e armazenamento do material, pois a esterilização não é necessária para materiais não críticos, como luvas e gazes
+  [D] o processamento deve começar com a lavagem do material em água quente e detergente enzimático, seguida pela secagem adequada, esterilização e armazenamento em local adequado, respeitando as orientações de segurança e de controle de infecção
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o processamento deve iniciar com a lavagem do material em água fria, seguido pela esterili...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o processamento deve iniciar com a desinfecção simples dos artigos com álcool, seguido pel...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o processamento pode ser realizado apenas com a secagem manual e armazenamento do material...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o processamento deve começar com a lavagem do material em água quente e detergente enzimát...'.
+
+------------------------------------------------------------
+
+QUESTÃO 4 [Código: EF0220] - Prefeitura de Sinop - MT (SELECON 2024) - Enfermeiro
+Assunto: Enfermagem em Centro Cirúrgico , Trans-Operatório , Segurança do Paciente
+Durante um procedimento cirúrgico complexo em um paciente adulto de 60 anos, com histórico de hipertensão, diabetes tipo 2 e insufi ciência renal crônica, o enfermeiro é responsável pela monitorização contínua dos parâmetros vitais e metabólicos. Considerando as condições pré-existentes do paciente e os efeitos da anestesia geral, a alternativa que melhor descreve a conduta de monitorização e os parâmetros que devem ser avaliados para garantir a segurança do paciente durante a cirurgia é:
+
+  [A] a monitorização deve ser limitada a parâmetros hemodinâmicos básicos, como pressão arterial e frequência cardíaca, uma vez que o paciente é clinicamente estável antes do procedimento. Outros parâmetros, como temperatura corporal e diurese, podem ser monitorados de forma intermitente, dependendo da gravidade da cirurgia
+  [B] além dos parâmetros hemodinâmicos (pressão arterial, frequência cardíaca), o enfermeiro deve monitorar de forma contínua a saturação de oxigênio, a temperatura corporal, os parâmetros respiratórios (volume corrente, frequência respiratória) e a diurese, levando em consideração os efeitos da anestesia, da comorbidade renal e das possíveis alterações metabólicas
+  [C] a monitorização durante o procedimento pode ser restrita à pressão arterial média e à saturação de oxigênio, dado que a anestesia e os medicamentos administrados têm um impacto mínimo nas funções respiratórias e renais, sendo que a temperatura e a diurese não apresentam risco imediato ao paciente
+  [D] a monitorização completa, que inclui todos os parâmetros vitais, deve ser feita apenas em pacientes com histórico de doenças cardíacas graves ou em cirurgias de emergência, não sendo necessária em casos de procedimentos programados, como o deste paciente
+
+✅ Gabarito: 
+💡 Fundamentação: De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a monitorização deve ser limitada a parâmetros hemodinâmicos básicos, como pressão arteria...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'além dos parâmetros hemodinâmicos (pressão arterial, frequência cardíaca), o enfermeiro de...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a monitorização durante o procedimento pode ser restrita à pressão arterial média e à satu...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a monitorização completa, que inclui todos os parâmetros vitais, deve ser feita apenas em ...'.
+
+------------------------------------------------------------
+
+QUESTÃO 5 [Código: EF0342] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+Assunto: Enfermagem em Centro Cirúrgico
+O checklist de cirurgia segura deve ser aplicado em três momentos, pela equipe cirúrgica (cirurgião, anestesista e equipe de enfermagem): antes da indução anestésica, antes da incisão cirúrgica e antes do paciente deixar a sala de cirurgia. A confirmação verbal da identidade do paciente, do sítio cirúrgico e do procedimento será realizada:
+
+  [A] antes da indução anestésica
+  [B] antes da incisão cirúrgica
+  [C] quando chega na sala
+  [D] antes de sair da sala 423 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'antes da indução anestésica...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'antes da incisão cirúrgica...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'quando chega na sala...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'antes de sair da sala 423 Ano: 2024...'.
+
+------------------------------------------------------------
+
+QUESTÃO 6 [Código: EF0484] - Prefeitura de Barra do Garças - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Enfermagem em Centro Cirúrgico , Pós-Operatório
+Técnico em Enfermagem Um paciente submetido à laparotomia exploradora evolui com débito de secreção sero-hemática em dreno tubular. O técnico de enfermagem deve monitorar o sistema, ciente de que o uso do dreno tem finalidade específica e fundamentada. A função primária do dreno tubular de drenagem passiva é:
+
+  [A] manter pressão negativa contínua de forma controlada e segura, garantindo a remoção progressiva das coleções profundas, favorecendo a aproximação dos planos teciduais
+  [B] impedir o acúmulo de secreções, permitir a detecção precoce de sangramento e reduzir o risco de formação de coleções
+  [C] promover irrigação da cavidade operatória e remoção de debris teciduais residuais
+  [D] estimular fibras sensoriais periféricas, reduzindo o estímulo nociceptivo 145 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter pressão negativa contínua de forma controlada e segura, garantindo a remoção progre...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'impedir o acúmulo de secreções, permitir a detecção precoce de sangramento e reduzir o ris...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'promover irrigação da cavidade operatória e remoção de debris teciduais residuais...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'estimular fibras sensoriais periféricas, reduzindo o estímulo nociceptivo 145 Ano: 2025...'.
+
+------------------------------------------------------------
+

@@ -1,0 +1,229 @@
+=== CADERNO DE QUESTÕES: DOENÇAS INFECCIOSAS E PARASITÁRIAS ===
+Total: 12 questões
+
+QUESTÃO 1 [Código: EF0095] - EMGEPRON (SELECON 2026) - Enfermeiro
+Assunto: Doenças Infecciosas e parasitárias
+Paciente adulto, 32 anos, no 4º dia de febre, mialgia e cefaleia, evolui com dor abdominal intensa e contínua, vômitos persistentes e queda progressiva da contagem de plaquetas. Encontra-se hemodinamicamente estável, sem sinais de choque ou sangramento grave. Conforme a classificação clínica preconizada pelo Ministério da Saúde para o manejo da dengue, esse quadro é compatível com:
+
+  [A] dengue sem sinais de alarme, com indicação de acompanhamento ambulatorial e hidratação oral domiciliar
+  [B] dengue grave, caracterizada exclusivamente pela presença de choque instalado ou hemorragia maciça
+  [C] dengue com sinais de alarme, demandando monitoramento clínico rigoroso, reavaliação laboratorial seriada e possível internação
+  [D] quadro viral febril em fase de defervescência, com trombocitopenia esperada e sintomas gastrointestinais inespecíficos, passível de manejo ambulatorial mediante orientação e retorno programado
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'dengue sem sinais de alarme, com indicação de acompanhamento ambulatorial e hidratação ora...'.
+   • Alternativa B: Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'dengue com sinais de alarme, demandando monitoramento clínico rigoroso, reavaliação labora...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'quadro viral febril em fase de defervescência, com trombocitopenia esperada e sintomas gas...'.
+
+------------------------------------------------------------
+
+QUESTÃO 2 [Código: EF0113] - Prefeitura de Marcelândia - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Doenças Infecciosas e parasitárias
+em Enfermagem Um homem de 45 anos, vítima de acidente motociclístico, apresenta sangramento ativo em membro inferior, palidez intensa, extremidades frias, pulso filiforme e pressão arterial de 80 x 50 mmHg. Apesar de consciente, relata sede intensa e ansiedade. Esses achados indicam o desenvolvimento de um quadro de choque hipovolêmico, cuja principal alteração fisiopatológica é:
+
+  [A] comprometimento primário da contratilidade miocárdica, ocasionando acúmulo de sangue no território venoso e congestão pulmonar
+  [B] vasodilatação sistêmica mediada por liberação de endotoxinas bacterianas, resultando em redistribuição inadequada do fluxo sanguíneo
+  [C] diminuição do volume circulante efetivo, levando à redução do retorno venoso e consequente queda do débito cardíaco
+  [D] aumento súbito da resistência vascular periférica, associado à lesão medular e perda do tônus simpático 194 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'comprometimento primário da contratilidade miocárdica, ocasionando acúmulo de sangue no te...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vasodilatação sistêmica mediada por liberação de endotoxinas bacterianas, resultando em re...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'diminuição do volume circulante efetivo, levando à redução do retorno venoso e consequente...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aumento súbito da resistência vascular periférica, associado à lesão medular e perda do tô...'.
+
+------------------------------------------------------------
+
+QUESTÃO 3 [Código: EF0135] - Prefeitura de Tapurah - MT (SELECON 2024) - Enfermeiro
+Assunto: Doenças Infecciosas e parasitárias
+As doenças crônicas transmissíveis podem apresentar diferentes perfis de transmissibilidade. No contexto da hanseníase (lepra), assinale a alternativa cujo fator fisiopatológico principal contribui para sua natureza crônica e potencial disseminação na comunidade:
+
+  [A] alto poder citotóxico do bacilo, culminando em morte celular aguda
+  [B] ausência de resposta imune por parte do hospedeiro, favorecendo manifestações fulminantes
+  [C] predominância de transmissão vertical com baixa infectividade comunitária
+  [D] poder do Mycobacterium leprae de sobreviver e multiplicar-se lentamente nos tecidos periféricos, especialmente nos nervos 216 Enfermagem > Doenças Crônicas Não Transmissíveis , Doenças Crônicas Não Transmissíveis: panorama geral e plano de enfrentamento Banca: SELECON Órgão: Prefeitura de Tapurah - MT Prova: SELECON - 2025 - Prefeitura de Tapurah - MT -
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'alto poder citotóxico do bacilo, culminando em morte celular aguda...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ausência de resposta imune por parte do hospedeiro, favorecendo manifestações fulminantes...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'predominância de transmissão vertical com baixa infectividade comunitária...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'poder do Mycobacterium leprae de sobreviver e multiplicar-se lentamente nos tecidos perifé...'.
+
+------------------------------------------------------------
+
+QUESTÃO 4 [Código: EF0297] - SAD-MS (SELECON 2024) - Enfermeiro
+Assunto: Doenças Infecciosas e parasitárias
+O HBV, vírus da Hepatite B, é altamente infeccioso e facilmente transmitido pelos líquidos corporais. O período de incubação do HBV é de:
+
+  [A] 15 a 120 dias
+  [B] 30 a 120 dias
+  [C] 15 a 180 dias
+  [D] 30 a 180 dias
+  [E] 15 a 90 dias 378 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '15 a 120 dias...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '30 a 120 dias...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '15 a 180 dias...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '30 a 180 dias...'.
+   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '15 a 90 dias 378 Ano: 2024...'.
+
+------------------------------------------------------------
+
+QUESTÃO 5 [Código: EF0332] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+Assunto: Doenças Infecciosas e parasitárias
+Entre os sintomas da infecção pelo VSR, os mais comuns são: obstrução nasal, coriza hialina, tosse, febre, recusa alimentar e irritabilidade. É importante ficar atento a outros sinais de alerta, como febre alta, tosse persistente, dificuldade para respirar, chiado no peito, cianose, gemência, retração torácica, apneia, hipoatividade e prostração. No aparecimento desses sintomas de alerta, a recomendação é procurar um serviço de saúde para atendimento. O nome do VSR é:
+
+  [A] vírus S respiratório
+  [B] vírus sancial respiratório
+  [C] vírus sincicial respiratório
+  [D] vírus sentinela respiratório 413 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vírus S respiratório...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vírus sancial respiratório...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vírus sincicial respiratório...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vírus sentinela respiratório 413 Ano: 2024...'.
+
+------------------------------------------------------------
+
+QUESTÃO 6 [Código: EF0334] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+Assunto: Doenças Infecciosas e parasitárias
+A doença transmitida da mãe para o feto pela circulação sanguínea é a forma mais grave, porque pode provocar malformações congênitas, como surdez e problemas visuais na criança e também pode levar a partos de natimortos. Essa doença é denominada:
+
+  [A] toxoplasmose
+  [B] hepatite
+  [C] rubéola
+  [D] sífilis 415 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'toxoplasmose...'.
+   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'sífilis 415 Ano: 2024...'.
+
+------------------------------------------------------------
+
+QUESTÃO 7 [Código: EF0343] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+Assunto: Doenças Infecciosas e parasitárias
+A doença infecciosa grave, não contagiosa, que acomete o recém-nascido nos primeiros 28 dias de vida, tendo como sintoma inicial dificuldade de sucção, irritabilidade e choro constante, causada por uma bactéria, mas evitada pela vacinação adequada da mãe, é:
+
+  [A] poliomielite
+  [B] meningite
+  [C] tétano
+  [D] tifo
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'poliomielite...'.
+   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa D: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+
+------------------------------------------------------------
+
+QUESTÃO 8 [Código: EF0389] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+Assunto: Doenças Infecciosas e parasitárias
+Administrativo - Saúde/40h Um hospital referência em doenças infecto-parasitárias recebe um paciente com quadro clínico grave, apresentando febre alta, icterícia, náuseas, vômitos e dor abdominal intensa. Ao realizar a anamnese, a equipe obtém informações sobre os hábitos alimentares do paciente, que incluem o consumo frequente de carne suína mal cozida e a ingestão de água de poço sem tratamento. Com base no quadro clínico e nas informações coletadas, a doença infecto-parasitária mais provável de estar afetando o paciente é:
+
+  [A] dengue
+  [B] malária
+  [C] ascaridíase
+  [D] leptospirose 470 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Prefeitura de Água Boa - MT Prova: SELECON - 2024 - Prefeitura de Água Boa - MT - Agente
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ascaridíase...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'leptospirose 470 Ano: 2024 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS...'.
+
+------------------------------------------------------------
+
+QUESTÃO 9 [Código: EF0401] - Prefeitura de Sapezal - MT (SELECON 2024) - Técnico de Enfermagem
+Assunto: Doenças Infecciosas e parasitárias , COVID-19
+Enfermagem Covid 19 é uma infecção respiratória causada pelo coronavírus SARS-CoV-2. A doença é potencialmente grave, altamente transmissível e espalhou-se por todo o mundo. Há pessoas que não apresentam sintomas, outras têm sintomas leves, como febre, cansaço, tosse seca. Entre os sintomas de quadros graves da Covid-19 estão:
+
+  [A] sangramento e náuseas
+  [B] perda de peso e náuseas
+  [C] falta de ar e perda de apetite
+  [D] sangramento e perda de peso
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'sangramento e náuseas...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'perda de peso e náuseas...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'falta de ar e perda de apetite...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'sangramento e perda de peso...'.
+
+------------------------------------------------------------
+
+QUESTÃO 10 [Código: EF0419] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
+Assunto: Doenças Infecciosas e parasitárias , Hepatites
+O HBV, vírus da Hepatite B, é altamente infeccioso e facilmente transmitido pela via sexual, por transfusões de sangue, procedimentos médicos e odontológicos e hemodiálises sem as adequadas normas de biossegurança, pela transmissão vertical (mãe-filho), por contatos íntimos domiciliares (compartilhamento de escova dental e lâminas de barbear), acidentes perfuro cortantes, compartilhamento de seringas e de material para a realização de tatuagens e piercings. O período de incubação do HBV é de:
+
+  [A] 15 a 120 dias
+  [B] 15 a 180 dias
+  [C] 30 a 120 dias
+  [D] 30 a 180 dias
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '15 a 120 dias...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '15 a 180 dias...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '30 a 120 dias...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '30 a 180 dias...'.
+
+------------------------------------------------------------
+
+QUESTÃO 11 [Código: EF0434] - Prefeitura de Dourados - MS (SELECON 2023) - Enfermeiro
+Assunto: Doenças Infecciosas e parasitárias
+A classificação do HIV é feita por meio da análise filogenética de sequências nucleotídicas dos vírus. A classificação atual é hierárquica e consiste em tipos, grupos, subtipos e formas recombinantes. O HIV-1 e o HIV-2 são tipos distintos do vírus, mais distantes filogeneticamente. O HIV-1 é subdividido em quatro grupos chamados:
+
+  [A] B
+  [C] D AG, CG, UG e JG J X, P G , W Y e J U WR, CG, VG e LG MG , N G , O G e P G 515 Ano: 2023
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'D AG, CG, UG e JG J X, P G , W Y e J U WR, CG, VG e LG MG , N G , O G e P G 515 Ano: 2023...'.
+
+------------------------------------------------------------
+
+QUESTÃO 12 [Código: EF0439] - Prefeitura de Dourados - MS (SELECON 2023) - Enfermeiro
+Assunto: Doenças Infecciosas e parasitárias
+A Covid-19 é uma infecção respiratória aguda causada pelo vírus SARS-CoV-2, que pode evoluir com diversas síndromes clínicas associada à infecção viral. Uma complicação grave que compromete a oxigenação, em pacientes adultos, quando ocorre uma relação PaO2/FiO2 ≤ 100 mmHg (com PEEP ≥ 5 cm H2O, ou não ventilado), é chamada de:
+
+  [A] síndrome da angústia respiratória aguda (SARA)
+  [B] insuficiência cardíaca congestiva global (ICC)
+  [C] trombocitopenia induzida por heparina (HIT)
+  [D] doença pulmonar obstrutiva crônica (DPOC) 520 Ano: 2023
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'síndrome da angústia respiratória aguda (SARA)...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'insuficiência cardíaca congestiva global (ICC)...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'trombocitopenia induzida por heparina (HIT)...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'doença pulmonar obstrutiva crônica (DPOC) 520 Ano: 2023...'.
+
+------------------------------------------------------------
+

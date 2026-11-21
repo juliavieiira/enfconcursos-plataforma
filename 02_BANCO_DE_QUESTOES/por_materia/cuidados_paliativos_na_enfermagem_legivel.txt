@@ -1,0 +1,115 @@
+=== CADERNO DE QUESTÕES: CUIDADOS PALIATIVOS NA ENFERMAGEM ===
+Total: 6 questões
+
+QUESTÃO 1 [Código: EF0013] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2026) - Técnico de Enfermagem
+Assunto: Cuidados Paliativos na Enfermagem
+MT - Técnico de Enfermagem - Secretaria de Saúde A Escala de Edmonton (Edmonton Symptom Assessment System – ESAS) é um instrumento amplamente utilizado na avaliação de sintomas de pacientes em cuidados paliativos. Ela baseia-se no autorrelato do paciente e avalia a intensidade de nove sintomas nas últimas 24 horas, utilizando uma escala numérica de 0 a 10. A aplicação seriada desse instrumento permite à equipe de saúde:
+
+  [A] estabelecer o prognóstico de sobrevida do paciente com base na intensidade dos sintomas relatados
+  [B] monitorar a evolução dos sintomas ao longo do tempo e avaliar a resposta às intervenções implementadas
+  [C] dispensar a avaliação clínica detalhada, uma vez que a escala contempla todas as dimensões do cuidado paliativo
+  [D] padronizar a prescrição de analgésicos opioides, independentemente da causa subjacente da dor
+
+✅ Gabarito: B
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [B] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: 'monitorar a evolução dos sintomas ao longo do tempo e avaliar a resposta às intervenções implementadas'.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'estabelecer o prognóstico de sobrevida do paciente com base na intensidade dos sintomas re...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'dispensar a avaliação clínica detalhada, uma vez que a escala contempla todas as dimensões...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'padronizar a prescrição de analgésicos opioides, independentemente da causa subjacente da ...'.
+
+------------------------------------------------------------
+
+QUESTÃO 2 [Código: EF0014] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2026) - Técnico de Enfermagem
+Assunto: Cuidados Paliativos na Enfermagem
+MT - Técnico de Enfermagem - Secretaria de Saúde A Política Nacional de Cuidados Paliativos (PNCP), instituída pela Portaria GM/MS n.º 3.681/2024, define que essa abordagem deve ser oferecida a todas as pessoas com doença ameaçadora da continuidade da vida. O documento estabelece que os cuidados paliativos devem ser iniciados precocemente, a partir do diagnóstico de doença sem possibilidade de cura, com o objetivo de promover qualidade de vida ao paciente e a seus familiares. Nesse contexto, a PNCP determina que a assistência em cuidados paliativos na Rede de Atenção à Saúde deve ser ofertada:
+
+  [A] exclusivamente em unidades de alta complexidade, como hospitais de referência em oncologia e unidades de terapia intensiva
+  [B] prioritariamente em serviços de atenção domiciliar, com ênfase no ambiente familiar e na redução de custos hospitalares
+  [C] de forma articulada entre os diferentes pontos de atenção, com participação da Atenção Primária à Saúde como coordenadora do cuidado
+  [D] por equipes exclusivamente médicas, dada a complexidade das decisões terapêuticas envolvidas no fim da vida
+
+✅ Gabarito: C
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [C] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: 'de forma articulada entre os diferentes pontos de atenção, com participação da Atenção Primária à Saúde como coordenadora do cuidado'.
+❌ Distratores:
+   • Alternativa A: Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'prioritariamente em serviços de atenção domiciliar, com ênfase no ambiente familiar e na r...'.
+   • Alternativa D: Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente.
+
+------------------------------------------------------------
+
+QUESTÃO 3 [Código: EF0050] - Prefeitura de Barra do Garças - MT (SELECON 2026) - Técnico de Enfermagem
+Assunto: Cuidados Paliativos na Enfermagem
+Técnico em Enfermagem - SMS Em um atendimento a um paciente em cuidados paliativos, a dispneia deve ser avaliada a partir da intensidade do sintoma, das condições clínicas associadas e da presença ou não de hipoxemia. Em relação ao uso de oxigênio nesse contexto, é correto afirmar que:
+
+  [A] deve ser iniciado sempre que o paciente relatar dispneia
+  [B] constitui medida obrigatória diante de qualquer desconforto respiratório persistente
+  [C] pode ser indicado na presença de hipoxemia, não sendo recomendado de forma rotineira apenas pela existência de dispneia
+  [D] deve ser mantido continuamente em pacientes com doença avançada, independentemente da saturação de oxigênio e da resposta clínica apresentada 51 Enfermagem > Legislação de Enfermagem , Lei do Exercício Profissional de Enfermagem , Fundamentos e Procedimentos de Enfermagem Banca: SELECON Órgão: Prefeitura de Barra do Garças - MT Prova: SELECON - 2026 - Prefeitura de Barra do Garças - MT -
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'deve ser iniciado sempre que o paciente relatar dispneia...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'constitui medida obrigatória diante de qualquer desconforto respiratório persistente...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'pode ser indicado na presença de hipoxemia, não sendo recomendado de forma rotineira apena...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'deve ser mantido continuamente em pacientes com doença avançada, independentemente da satu...'.
+
+------------------------------------------------------------
+
+QUESTÃO 4 [Código: EF0244] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Enfermeiro
+Assunto: Cuidados Paliativos na Enfermagem
+No que tange a assistência em enfermagem ao paciente em cuidados paliativos, a avaliação da dor é um quesito primordial e podem ser utilizados diversos instrumentos. Segundo a Escala comportamental de dor, em casos nos quais o paciente está inconsciente, sob sedação e em ventilação mecânica, avalia-se os seguintes itens:
+
+  [A] expressão facial, membros superiores e adaptação à ventilação mecânica
+  [B] tônus muscular, adaptação à ventilação mecânica e aspecto da pele
+  [C] membros superiores, aspecto da pele e frequência cardíaca
+  [D] expressão facial, tensão cervical e emissão de sons 325 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'expressão facial, membros superiores e adaptação à ventilação mecânica...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tônus muscular, adaptação à ventilação mecânica e aspecto da pele...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'membros superiores, aspecto da pele e frequência cardíaca...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'expressão facial, tensão cervical e emissão de sons 325 Ano: 2024...'.
+
+------------------------------------------------------------
+
+QUESTÃO 5 [Código: EF0440] - Prefeitura de Dourados - MS (SELECON 2024) - Enfermeiro
+Assunto: Cuidados Paliativos na Enfermagem , Enfermagem em Oncologia
+A escala de performance status conhecida como Karnofsky foi desenvolvida para pacientes oncológicos com o objetivo de documentar o declínio clínico e de avaliar a capacidade dos pacientes em realizar determinadas atividades básicas. A maioria dos pacientes com uma escala Karnofsky inferior a 70% tem indicação precoce de assistência de cuidado:
+
+  [A] eletivo
+  [B] urgente
+  [C] paliativo
+  [D] emergencial
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'emergencial...'.
+
+------------------------------------------------------------
+
+QUESTÃO 6 [Código: EF0504] - Prefeitura de Barra do Garças - MT (SELECON 2025) - Enfermeiro
+Assunto: Cuidados Paliativos na Enfermagem , Cuidados de Enfermagem
+O suporte à família é um componente integral dos Cuidados Paliativos, pois a doença que ameaça a vida afeta não apenas o paciente, mas todo o seu sistema familiar. O enfermeiro tem um papel fundamental em identificar as necessidades da família, oferecer apoio emocional, educacional e prático, e auxiliar no processo de luto. A sobrecarga do cuidador familiar é um risco significativo, podendo levar a estresse, a exaustão física e emocional, e impactar negativamente a qualidade do cuidado prestado. Para prevenir e manejar a sobrecarga em um cuidador familiar de um paciente em fase avançada de doença, a intervenção de enfermagem mais eficaz e sustentável é:
+
+  [A] instruir o cuidador a se dedicar integralmente ao paciente, evitando qualquer atividade de lazer ou descanso para não negligenciar o cuidado
+  [B] oferecer ao cuidador uma lista de tarefas diárias detalhadas, para que ele possa seguir um cronograma rígido de cuidados
+  [C] avaliar regularmente a saúde física e mental do cuidador, identificar fontes de apoio social e comunitário, e encorajar o autocuidado e o estabelecimento de limites
+  [D] sugerir que o cuidador se isole socialmente para evitar o contágio de doenças e focar exclusivamente no paciente 165 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'instruir o cuidador a se dedicar integralmente ao paciente, evitando qualquer atividade de...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'oferecer ao cuidador uma lista de tarefas diárias detalhadas, para que ele possa seguir um...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'avaliar regularmente a saúde física e mental do cuidador, identificar fontes de apoio soci...'.
+   • Alternativa D: Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente.
+
+------------------------------------------------------------
+

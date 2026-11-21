@@ -1,0 +1,322 @@
+[
+  {
+    "codigo_origem": "Q2528690",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Técnico de Enfermagem",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Hipertensão Arterial Sistêmica , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "Para a confirmação de um caso de hipertensão, faz-se necessário realizar três verificações consecutivas, em dias alternados. Os valores das pressões sistólica e diastólica determinam a gravidade da doença. A hipertensão arterial moderada encontrase em:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "120 x 80 mmHg"
+      },
+      {
+        "id": "B",
+        "texto": "130 x 90 mmHg"
+      },
+      {
+        "id": "C",
+        "texto": "160 x 100 mmHg"
+      },
+      {
+        "id": "D",
+        "texto": "180 x 120 mmHg"
+      },
+      {
+        "id": "E",
+        "texto": "200 x 130 mmHg 339 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0258",
+    "numero_ordem": 258,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '120 x 80 mmHg...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '130 x 90 mmHg...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '160 x 100 mmHg...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '180 x 120 mmHg...'."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '200 x 130 mmHg 339 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q2467334",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Água Boa - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Água Boa - MT - Agente",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Hipertensão Arterial Sistêmica , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "Administrativo - Saúde/40h Um paciente de 55 anos, com histórico familiar de HAS e tabagismo, é avaliado e encaminhado a um enfermeiro na unidade de Estratégia Saúde da Família. Ao realizar a anamnese durante a consulta de enfermagem, o profissional identifica que o paciente apresenta pressão arterial elevada em todas as medições, com valores consistentemente acima de 140/90 mmHg. O exame físico não revela alterações significativas, e o paciente nega outros sintomas além de cefaleia ocasional. Diante do quadro clínico, a classificação da HAS do paciente e o manejo mais adequado para o controle da pressão arterial são, respectivamente:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "HAS grau 2 com comorbidades, com terapia medicamentosa combinada"
+      },
+      {
+        "id": "B",
+        "texto": "HAS grau 1 sem comorbidades, com monoterapia medicamentosa"
+      },
+      {
+        "id": "C",
+        "texto": "HAS grau 2 sem comorbidades, com monoterapia medicamentosa"
+      },
+      {
+        "id": "D",
+        "texto": "HAS grau 1 com comorbidades, com monoterapia medicamentosa 469 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0388",
+    "numero_ordem": 388,
+    "fundamentacao_correta": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'HAS grau 2 com comorbidades, com terapia medicamentosa combinada...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'HAS grau 1 sem comorbidades, com monoterapia medicamentosa...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'HAS grau 2 sem comorbidades, com monoterapia medicamentosa...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'HAS grau 1 com comorbidades, com monoterapia medicamentosa 469 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para ..."
+  },
+  {
+    "codigo_origem": "Q2454937",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sapezal - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Técnico em",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Hipertensão Arterial Sistêmica , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "Enfermagem A Hipertensão Arterial Sistêmica (HAS) é um problema grave de saúde pública no Brasil e no mundo. Ela é um dos mais importantes fatores de risco para o desenvolvimento de outras doenças graves, tais como:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "insuficiência respiratória"
+      },
+      {
+        "id": "B",
+        "texto": "doença renal crônica"
+      },
+      {
+        "id": "C",
+        "texto": "distúrbios mentais"
+      },
+      {
+        "id": "D",
+        "texto": "obesidade"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0397",
+    "numero_ordem": 397,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'insuficiência respiratória...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'doença renal crônica...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'distúrbios mentais...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q2454923",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sapezal - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Técnico em",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Hipertensão Arterial Sistêmica , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "Enfermagem A Hipertensão Arterial Sistêmica é a mais frequente das doenças cardiovasculares. É também o principal fator de risco para as complicações mais comuns, como acidente vascular cerebral e infarto agudo do miocárdio, além da doença renal crônica terminal. O método que permite o registro indireto e intermitente da pressão arterial durante 24 horas denomina-se:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Avaliação Ambulatorial da Pressão Arterial"
+      },
+      {
+        "id": "B",
+        "texto": "Monitorização Ambulatorial da Pressão Arterial"
+      },
+      {
+        "id": "C",
+        "texto": "Avaliação da Pressão Arterial em Situações do Cotidiano"
+      },
+      {
+        "id": "D",
+        "texto": "Monitorização da Pressão Arterial em Situações do Cotidiano"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0411",
+    "numero_ordem": 411,
+    "fundamentacao_correta": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Avaliação Ambulatorial da Pressão Arterial...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Monitorização Ambulatorial da Pressão Arterial...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Avaliação da Pressão Arterial em Situações do Cotidiano...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Monitorização da Pressão Arterial em Situações do Cotidiano...'."
+      }
+    ],
+    "comentario": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para ..."
+  },
+  {
+    "codigo_origem": "Q3884079",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Hipertensão Arterial Sistêmica , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "MT - Enfermeiro No manejo do paciente hipertenso na Atenção Básica, a consulta de enfermagem deve incluir ações específicas de educação em saúde. Uma orientação fundamental que o enfermeiro deve fornecer, alinhada ao estímulo de hábitos de vida saudáveis, é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "recomendar o uso contínuo de anti-infl amatórios não esteroidais para dores articulares"
+      },
+      {
+        "id": "B",
+        "texto": "orientar sobre a importância da restrição severa de líquidos para menos de 500ml/dia para controle da pressão arterial"
+      },
+      {
+        "id": "C",
+        "texto": "incentivar a redução do consumo de sódio, evidenciando os alimentos industrializados como principais fontes"
+      },
+      {
+        "id": "D",
+        "texto": "prescrever um plano de exercícios físicos de alta intensidade, independentemente da avaliação de risco cardiovascular 124 Ano: 2026"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0463",
+    "numero_ordem": 463,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'recomendar o uso contínuo de anti-infl amatórios não esteroidais para dores articulares...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'orientar sobre a importância da restrição severa de líquidos para menos de 500ml/dia para ...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'incentivar a redução do consumo de sódio, evidenciando os alimentos industrializados como ...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'prescrever um plano de exercícios físicos de alta intensidade, independentemente da avalia...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3884073",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Porto dos Gaúchos - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Hipertensão Arterial Sistêmica , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "MT - Enfermeiro A hipertensão arterial sistêmica (HAS) é um dos principais fatores de risco modificáveis para doenças cardiovasculares e sua classificação é baseada em valores de pressão arterial. Segundo as Diretrizes Brasileiras de Hipertensão Arterial, a classificação \"Hipertensão Estágio 1\" é definida quando os valores pressóricos, medidos em consultório, são pressão sistólica:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "entre 130-139 mmHg e/ou diastólica entre 85-89 mmHg"
+      },
+      {
+        "id": "B",
+        "texto": "entre 120-129 mmHg e diastólica < 80 mmHg"
+      },
+      {
+        "id": "C",
+        "texto": "≥ 180 mmHg e/ou diastólica ≥ 110 mmHg"
+      },
+      {
+        "id": "D",
+        "texto": "entre 140-159 mmHg e/ou diastólica entre 90-99 mmHg 130 Ano: 2026"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0469",
+    "numero_ordem": 469,
+    "fundamentacao_correta": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'entre 130-139 mmHg e/ou diastólica entre 85-89 mmHg...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'entre 120-129 mmHg e diastólica < 80 mmHg...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '≥ 180 mmHg e/ou diastólica ≥ 110 mmHg...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'entre 140-159 mmHg e/ou diastólica entre 90-99 mmHg 130 Ano: 2026...'."
+      }
+    ],
+    "comentario": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para ..."
+  }
+]

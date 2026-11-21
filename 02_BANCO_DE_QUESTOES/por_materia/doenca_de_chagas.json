@@ -1,0 +1,54 @@
+[
+  {
+    "codigo_origem": "Q2477204",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Água Boa - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Água Boa - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Doença de Chagas , Doenças Infecciosas e parasitárias",
+    "enunciado": "A doença de Chagas pode apresentar sintomas distintos nas suas duas fases: aguda e crônica. Na fase aguda, os principais sintomas são: febre prolongada, dor de cabeça, fraqueza intensa, inchaço no rosto e nas pernas. Após a fase aguda, caso a pessoa não receba tratamento oportuno, ela pode desenvolver a fase crônica da doença, inicialmente sem sintomas, mas, podendo, com o passar dos anos, apresentar complicações como:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Insuficiência cardíaca e megacólon"
+      },
+      {
+        "id": "B",
+        "texto": "insuficiência respiratória e cardíaca"
+      },
+      {
+        "id": "C",
+        "texto": "insuficiência respiratório e megacólon"
+      },
+      {
+        "id": "D",
+        "texto": "insuficiência respiratória e cardíaca e megacólon"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0344",
+    "numero_ordem": 344,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Insuficiência cardíaca e megacólon...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'insuficiência respiratória e cardíaca...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'insuficiência respiratório e megacólon...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'insuficiência respiratória e cardíaca e megacólon...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  }
+]

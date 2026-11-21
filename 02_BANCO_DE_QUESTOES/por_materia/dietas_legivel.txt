@@ -1,0 +1,21 @@
+=== CADERNO DE QUESTÕES: DIETAS ===
+Total: 1 questões
+
+QUESTÃO 1 [Código: EF0004] - Prefeitura de Nova Mutum - MT (SELECON 2026) - Técnico de Enfermagem
+Assunto: Dietas , Assistência de Enfermagem no Processo Nutricional
+Um paciente adulto, consciente e sem contraindicação à elevação da cabeceira recebe dieta por sonda nasoenteral, conforme prescrição. Ao preparar a administração da dieta, o técnico de enfermagem observa que o paciente está em decúbito dorsal, com a cabeceira elevada a aproximadamente 15°. Para reduzir o risco de broncoaspiração relacionado à alimentação enteral, a conduta adequada é:
+
+  [A] elevar a cabeceira a 30° e retornar à posição horizontal ao término da dieta
+  [B] elevar a cabeceira entre 30° e 45° e mantê-la elevada após a administração da dieta
+  [C] posicionar o paciente em decúbito lateral, mantendo a cabeceira a 15° durante a administração da dieta
+  [D] elevar a cabeceira a 45° durante a administração da dieta e retornar à posição horizontal imediatamente após o término da infusão
+
+✅ Gabarito: B
+💡 Fundamentação: Conforme as Recomendações de Boas Práticas em Nutrição Enteral da BRASPEN e da ANVISA (RDC nº 63/2000), a prevenção da pneumonia por broncoaspiração em pacientes recebendo dieta por sonda enteral exige a manutenção da cabeceira elevada em ângulo de 30° a 45° durante toda a infusão e por no mínimo 30 a 60 minutos após o término da dieta, para garantir o esvaziamento gástrico seguro. A alternativa [B] descreve exatamente essa conduta preconizada.
+❌ Distratores:
+   • Alternativa A: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'posicionar o paciente em decúbito lateral, mantendo a cabeceira a 15° durante a administra...'.
+   • Alternativa D: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
+
+------------------------------------------------------------
+

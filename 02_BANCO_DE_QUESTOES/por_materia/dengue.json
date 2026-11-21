@@ -1,0 +1,262 @@
+[
+  {
+    "codigo_origem": "Q3197484",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sinop - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Dengue , Doenças Infecciosas e parasitárias",
+    "enunciado": "Uma paciente de 28 anos, com histórico recente de febre alta e dor muscular intensa, procura atendimento médico após 4 dias de evolução. Ao exame físico, observa-se hipersensibilidade abdominal, sangramentos nas gengivas e petéquias disseminadas, além de sinais de hipotensão. Os exames laboratoriais indicam plaquetopenia severa e aumento da hematócrito. Diante do quadro suspeito de dengue hemorrágica, o manejo inicial do paciente, considerando os riscos imediatos da doença, deve ser:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "iniciar a administração de soluções isotônicas intravenosas, monitorar a pressão arterial, a diurese e os sinais de sangramento, com especial atenção ao risco de choque hipovolêmico"
+      },
+      {
+        "id": "B",
+        "texto": "iniciar infusão de plasma fresco congelado, monitorar a saturação de oxigênio e administrar antipiréticos para controle da febre"
+      },
+      {
+        "id": "C",
+        "texto": "suspender a reposição volêmica e iniciar a infusão de hemoderivados, além de iniciar a monitorização laboratorial constante"
+      },
+      {
+        "id": "D",
+        "texto": "administrar antibióticos de amplo espectro, realizar transfusão de plaquetas e iniciar a terapia de suporte com oxigênio 302 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0221",
+    "numero_ordem": 221,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'iniciar a administração de soluções isotônicas intravenosas, monitorar a pressão arterial,...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'iniciar infusão de plasma fresco congelado, monitorar a saturação de oxigênio e administra...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'suspender a reposição volêmica e iniciar a infusão de hemoderivados, além de iniciar a mon...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administrar antibióticos de amplo espectro, realizar transfusão de plaquetas e iniciar a t...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3197243",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sinop - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Fiscal Sanitário",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Dengue , Doenças Infecciosas e parasitárias",
+    "enunciado": "Uma doença febril aguda, de etiologia viral e de evolução benígna na forma clássica, e grave quando se apresenta na forma hemorrágica, considerada uma arbovirose, que tem o Aedes aegypti como mosquito vetor, é conhecida como:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "gripe"
+      },
+      {
+        "id": "B",
+        "texto": "dengue"
+      },
+      {
+        "id": "C",
+        "texto": "filariose"
+      },
+      {
+        "id": "D",
+        "texto": "toxoplasmose 320 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0239",
+    "numero_ordem": 239,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'toxoplasmose 320 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q2467597",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Água Boa - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Água Boa - MT - Técnico em",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Dengue , Doenças Infecciosas e parasitárias",
+    "enunciado": "Enfermagem É uma doença febril aguda, sistêmica, dinâmica, debilitante e autolimitada. Os sintomas iniciais são: febre, dor de cabeça, prostração, dores musculares e/ou articulares e dor atrás dos olhos. Essas informações referem-se à:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "febre amarela"
+      },
+      {
+        "id": "B",
+        "texto": "pneumonia"
+      },
+      {
+        "id": "C",
+        "texto": "malária"
+      },
+      {
+        "id": "D",
+        "texto": "dengue"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0374",
+    "numero_ordem": 374,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'febre amarela...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q2467338",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Água Boa - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Água Boa - MT - Agente",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Dengue , Doenças Infecciosas e parasitárias",
+    "enunciado": "Administrativo - Saúde/40h Em um município brasileiro, observa-se um aumento significativo no número de casos de dengue nos últimos meses. A equipe de Vigilância Epidemiológica local investiga a situação e identifica diversos focos do mosquito Aedes aegypti, transmissor da doença. Diante do exposto, a medida mais importante para controlar o surto de dengue no município é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "realizar campanhas de conscientização sobre os sintomas da dengue e a importância da busca por atendimento médico imediato"
+      },
+      {
+        "id": "B",
+        "texto": "eliminar os criadouros do mosquito Aedes aegypti, como água parada em recipientes e pneus usados"
+      },
+      {
+        "id": "C",
+        "texto": "aplicar inseticida em todas as áreas do município para eliminar o mosquito Aedes aegypti"
+      },
+      {
+        "id": "D",
+        "texto": "distribuir repelentes de mosquitos gratuitamente para a população 465 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0384",
+    "numero_ordem": 384,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar campanhas de conscientização sobre os sintomas da dengue e a importância da busca...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'eliminar os criadouros do mosquito Aedes aegypti, como água parada em recipientes e pneus ...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aplicar inseticida em todas as áreas do município para eliminar o mosquito Aedes aegypti...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'distribuir repelentes de mosquitos gratuitamente para a população 465 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q2452989",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sapezal - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Dengue , Doenças Infecciosas e parasitárias , Outras Doenças Infecciosas e Parasitárias",
+    "enunciado": "O momento é de intensificar os esforços e as medidas de prevenção, por parte de todos, para reduzir a transmissão da doença. A principal medida é a eliminação dos criadouros do mosquito – 75% deles localizados dentro e no entorno dos domicílios. Daí a importância de receber os agentes de combate a endemias e os agentes comunitários de saúde, que vão ajudar a encontrar e eliminar possíveis criadouros. Tal afirmativa refere-se à:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Malária"
+      },
+      {
+        "id": "B",
+        "texto": "Dengue"
+      },
+      {
+        "id": "C",
+        "texto": "Covid"
+      },
+      {
+        "id": "D",
+        "texto": "Leishmaniose 511 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0430",
+    "numero_ordem": 430,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Leishmaniose 511 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  }
+]

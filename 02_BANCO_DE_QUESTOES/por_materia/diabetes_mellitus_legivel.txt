@@ -1,0 +1,100 @@
+=== CADERNO DE QUESTÕES: DIABETES MELLITUS ===
+Total: 5 questões
+
+QUESTÃO 1 [Código: EF0072] - EMGEPRON (SELECON 2026) - Técnico de Enfermagem
+Assunto: Diabetes Mellitus , Doenças Crônicas Não Transmissíveis
+O diabetes mellitus é um distúrbio endócrino caracterizado por alteração na ação da insulina, hormônio responsável pelo controle da glicose no sangue. Considerando esse mecanismo, é correto afirmar que o(a):
+
+  [A] falta ou dificuldade de ação da insulina impede a utilização adequada da glicose pelas células, causando aumento da glicemia
+  [B] diabetes ocorre quando o organismo deixa de produzir glucagon, hormônio responsável por reduzir a glicose sanguínea
+  [C] hiperglicemia no diabetes resulta exclusivamente do consumo excessivo de açúcar na alimentação diária
+  [D] elevação da glicose sanguínea independe da ação hormonal e ocorre apenas por alterações renais
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'falta ou dificuldade de ação da insulina impede a utilização adequada da glicose pelas cél...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'diabetes ocorre quando o organismo deixa de produzir glucagon, hormônio responsável por re...'.
+   • Alternativa C: Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'elevação da glicose sanguínea independe da ação hormonal e ocorre apenas por alterações re...'.
+
+------------------------------------------------------------
+
+QUESTÃO 2 [Código: EF0177] - HEMOMINAS (SELECON 2025) - Enfermeiro
+Assunto: Diabetes Mellitus , Cuidados de Enfermagem , Doenças Crônicas Não Transmissíveis
+ANHH - Nível I - Grau A - Enfermeiro Na assistência de enfermagem a pacientes com doenças crônicas, a abordagem deve ser abrangente e contínua. Considerando os cuidados de enfermagem em pacientes com diabetes mellitus, é certo dizer que:
+
+  [A] a monitorização da glicemia capilar deve ser realizada apenas uma vez ao dia, preferencialmente em jejum, para avaliar o controle glicêmico do paciente
+  [B] a orientação para o autocuidado inclui instruções sobre a administração correta de insulina, cuidados com os pés, alimentação adequada e reconhecimento de sinais de hipoglicemia e hiperglicemia
+  [C] a administração de insulina pode ser realizada em qualquer local do corpo, desde que a rotação dos locais de aplicação não seja uma preocupação principal
+  [D] a educação em saúde para pacientes diabéticos deve focar exclusivamente no controle alimentar, sendo desnecessário abordar a importância da atividade física regular 258 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a monitorização da glicemia capilar deve ser realizada apenas uma vez ao dia, preferencial...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a orientação para o autocuidado inclui instruções sobre a administração correta de insulin...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a administração de insulina pode ser realizada em qualquer local do corpo, desde que a rot...'.
+   • Alternativa D: Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente.
+
+------------------------------------------------------------
+
+QUESTÃO 3 [Código: EF0218] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
+Assunto: Diabetes Mellitus , Atenção Básica e Saúde da Família , Doenças Crônicas Não Transmissíveis
+Um paciente de 48 anos foi diagnosticado recentemente com diabetes mellitus tipo 2 em um atendimento ambulatorial, após uma avaliação de rotina. O paciente tem histórico familiar de diabetes, apresenta sobrepeso e não segue uma dieta saudável, além de ter um estilo de vida sedentário. O enfermeiro da equipe responsável deve orientá-lo sobre o manejo da doença, enfatizando a importância de mudanças comportamentais, adesão ao tratamento medicamentoso e monitoramento da glicemia. Considerando as melhores práticas atuais e as diretrizes para o manejo do diabetes tipo 2, a alternativa abaixo que descreve a abordagem mais adequada para o enfermeiro, levando em conta a individualização do tratamento e a promoção da autogestão é:
+
+  [A] o enfermeiro deve iniciar a educação focando exclusivamente na utilização de medicamentos orais, já que o paciente ainda não apresenta complicações graves, e orientar a redução imediata de carboidratos na dieta, sem considerar a adaptação gradual ao novo estilo de vida, porém, não é necessário monitoramento domiciliar da glicemia neste momento, pois o paciente está assintomático
+  [B] o enfermeiro deve centrar a orientação na importância da insulina como primeira linha de tratamento, recomendando a administração diária de doses altas de insulina para alcançar rapidamente o controle glicêmico, sem necessidade de modificar a dieta ou aumentar a atividade física no início do tratamento
+  [C] o enfermeiro deve orientar que a diabetes mellitus tipo 2 é uma condição reversível com modificações significativas na dieta e prática de atividades físicas, e que o uso de medicamentos orais pode ser suspenso caso o paciente alcance resultados normais na glicemia após alguns meses de mudança de hábitos
+  [D] o enfermeiro deve enfatizar a importância da adesão ao tratamento medicamentoso prescrito, mas também focar no controle glicêmico por meio de monitoramento regular da glicose, aconselhando a prática diária de exercícios físicos e uma alimentação balanceada, assim como incluir orientações sobre os fatores de risco cardiovascular, já que o paciente está em risco de desenvolver complicações crônicas 299 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.
+❌ Distratores:
+   • Alternativa A: Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o enfermeiro deve centrar a orientação na importância da insulina como primeira linha de t...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o enfermeiro deve orientar que a diabetes mellitus tipo 2 é uma condição reversível com mo...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o enfermeiro deve enfatizar a importância da adesão ao tratamento medicamentoso prescrito,...'.
+
+------------------------------------------------------------
+
+QUESTÃO 4 [Código: EF0263] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
+Assunto: Diabetes Mellitus , Doenças Crônicas Não Transmissíveis
+A diabetes é uma doença crônica que afeta os idosos com grande prevalência. A descompensação aguda grave no diabético com hiperglicemia pode gerar produção de corpos cetônicos (pela queima de gordura corporal), desidratação e alterações em graus variáveis da consciência. Esses sintomas são referentes a:
+
+  [A] hipoglicemia
+  [B] coma diabético
+  [C] coma hipoglicêmico
+  [D] cetoacidose diabética
+  [E] descompensação diabética
+
+✅ Gabarito: 
+💡 Fundamentação: Segundo os manuais de Vigilância Epidemiológica do Ministério da Saúde, a correta aplicação dos indicadores de morbimortalidade é essencial para o planejamento das ações na Atenção Primária. A alternativa [] está fundamentada nas diretrizes epidemiológicas vigentes: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'hipoglicemia...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'coma diabético...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'coma hipoglicêmico...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'cetoacidose diabética...'.
+   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'descompensação diabética...'.
+
+------------------------------------------------------------
+
+QUESTÃO 5 [Código: EF0460] - Prefeitura de Porto dos Gaúchos - MT (SELECON 2024) - Enfermeiro
+Assunto: Diabetes Mellitus , Doenças Crônicas Não Transmissíveis
+MT - Enfermeiro O diabetes mellitus tipo 2 é uma doença metabólica crônica caracterizada por resistência à insulina e deficiência relativa na sua secreção. Em relação ao seu diagnóstico laboratorial, um critério atualmente válido, segundo a Sociedade Brasileira de Diabetes, é a:
+
+  [A] glicemia de jejum ≥ 110 mg/dL em uma única dosagem
+  [B] hemoglobina glicada (HbA1c) ≥ 6,0% em duas ocasiões distintas
+  [C] glicemia casual (a qualquer hora do dia) ≥ 180 mg/dL associada a sintomas clássicos
+  [D] glicemia de jejum ≥ 126 mg/dL confirmada em repetição em outro dia
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'glicemia de jejum ≥ 110 mg/dL em uma única dosagem...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'hemoglobina glicada (HbA1c) ≥ 6,0% em duas ocasiões distintas...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'glicemia casual (a qualquer hora do dia) ≥ 180 mg/dL associada a sintomas clássicos...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'glicemia de jejum ≥ 126 mg/dL confirmada em repetição em outro dia...'.
+
+------------------------------------------------------------
+

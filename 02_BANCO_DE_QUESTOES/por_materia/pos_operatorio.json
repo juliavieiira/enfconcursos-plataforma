@@ -1,0 +1,54 @@
+[
+  {
+    "codigo_origem": "Q3810627",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Garças - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Pós-Operatório",
+    "enunciado": "Técnico em Enfermagem Uma paciente de 52 anos, submetida à colecistectomia videolaparoscópica eletiva, é encaminhada à sala de recuperação pósanestésica (SRPA) apresentando leve sonolência, acesso venoso periférico pérvio, sonda vesical de demora e curativos limpos e secos no abdome. Após 20 minutos de observação, o técnico de enfermagem percebe que a paciente passa a responder lentamente aos comandos, apresenta saturação oscilando entre 90 e 92%, bem como extremidades frias e discreta taquicardia. Considerando as atribuições da equipe de enfermagem e as recomendações para o pós- operatório imediato em pacientes sob monitorização contínua, o técnico de enfermagem deve:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "notifi car imediatamente o enfermeiro responsável diante da alteração de consciência e da variação da saturação, garantindo intervenção precoce e acionamento de condutas avançadas, se necessário"
+      },
+      {
+        "id": "B",
+        "texto": "manter a monitorização padrão, repetindo os sinais vitais em até 1 hora, visto que oscilações leves são esperadas no período imediato, comunicando o enfermeiro apenas se houver queda sustentada da saturação"
+      },
+      {
+        "id": "C",
+        "texto": "ajustar a infusão venosa para melhorar a perfusão periférica enquanto aguarda nova aferição dos sinais vitais, uma vez que pequenas intervenções podem ser realizadas de forma autônoma no pós-operatório imediato"
+      },
+      {
+        "id": "D",
+        "texto": "priorizar a avaliação do curativo abdominal e da ferida operatória, pois alterações sistêmicas leves costumam estar relacionadas à dor ou ao jejum prolongado, devendo a equipe aprofundar a inspeção local antes de qualquer escalonamento 151 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0490",
+    "numero_ordem": 490,
+    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter a monitorização padrão, repetindo os sinais vitais em até 1 hora, visto que oscilaç...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ajustar a infusão venosa para melhorar a perfusão periférica enquanto aguarda nova aferiçã...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'priorizar a avaliação do curativo abdominal e da ferida operatória, pois alterações sistêm...'."
+      }
+    ],
+    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+  }
+]

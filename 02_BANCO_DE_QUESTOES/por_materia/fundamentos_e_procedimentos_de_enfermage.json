@@ -1,0 +1,418 @@
+[
+  {
+    "codigo_origem": "Q3742710",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Marcelândia - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Marcelândia - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Fundamentos e Procedimentos de Enfermagem",
+    "enunciado": "A via de administração de medicamentos que se caracteriza pela aplicação da substância diretamente na derme, formando uma pequena pápula, e é frequentemente utilizada para testes de sensibilidade e alergia, é a via:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "subcutânea"
+      },
+      {
+        "id": "B",
+        "texto": "intramuscular"
+      },
+      {
+        "id": "C",
+        "texto": "intradérmica"
+      },
+      {
+        "id": "D",
+        "texto": "intravenosa 187 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0106",
+    "numero_ordem": 106,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'intramuscular...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'intradérmica...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'intravenosa 187 Ano: 2025...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3615472",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Tapurah - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Tapurah - MT - Técnico em",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Fundamentos e Procedimentos de Enfermagem",
+    "enunciado": "Enfermagem Durante a aferição da pressão arterial em um paciente adulto internado, o técnico de enfermagem observa que a pressão sistólica apresenta variação maior que 10 mmHg entre os dois braços. Considerando esse achado e as boas práticas na verificação da pressão arterial, pode-se afirmar que:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "essa diferença é considerada normal e não requer comunicação à equipe"
+      },
+      {
+        "id": "B",
+        "texto": "a aferição deve ser repetida apenas no braço que apresentou maior pressão, desconsiderando o valor do outro membro"
+      },
+      {
+        "id": "C",
+        "texto": "a técnica utilizada pelo profissional está incorreta, pois a pressão arterial deve ser aferida apenas no braço dominante"
+      },
+      {
+        "id": "D",
+        "texto": "essa diferença pode indicar condição clínica como estenose da artéria subclávia e deve ser relatada ao enfermeiro ou ao médico"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0148",
+    "numero_ordem": 148,
+    "fundamentacao_correta": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'essa diferença é considerada normal e não requer comunicação à equipe...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a aferição deve ser repetida apenas no braço que apresentou maior pressão, desconsiderando...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a técnica utilizada pelo profissional está incorreta, pois a pressão arterial deve ser afe...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'essa diferença pode indicar condição clínica como estenose da artéria subclávia e deve ser...'."
+      }
+    ],
+    "comentario": "Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para ..."
+  },
+  {
+    "codigo_origem": "Q3199745",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sinop - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Técnico de",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Fundamentos e Procedimentos de Enfermagem",
+    "enunciado": "Enfermagem O técnico de enfermagem deve estar atento aos sinais e aos sintomas de flebite em pacientes com acesso venoso periférico. Considerando os sinais clínicos e a conduta adequada, é correto afirmar que:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "a flebite é caracterizada por dor moderada, eritema discreto e edema local, sendo necessário apenas monitoramento do quadro e manutenção da infusão até o desaparecimento dos sintomas"
+      },
+      {
+        "id": "B",
+        "texto": "em caso de flebite, o técnico de enfermagem deve continuar a infusão intravenosa até que sinais claros de infecção sistêmica, como febre e calafrios, apareçam, para então realizar a retirada do cateter"
+      },
+      {
+        "id": "C",
+        "texto": "a flebite é caracterizada pela dor leve no local de inserção, acompanhada de leve vermelhidão e inchaço, sendo sufi ciente apenas a observação do quadro, sem necessidade de interrupção da infusão intravenosa"
+      },
+      {
+        "id": "D",
+        "texto": "os sinais de flebite incluem dor intensa, eritema, calor, edema, endurecimento da veia e, em alguns casos, presença de cordão visível ao longo da veia afetada. A conduta é suspender a infusão, remover o cateter e comunicar ao enfermeiro responsável para novas orientações"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0210",
+    "numero_ordem": 210,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a flebite é caracterizada por dor moderada, eritema discreto e edema local, sendo necessár...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'em caso de flebite, o técnico de enfermagem deve continuar a infusão intravenosa até que s...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a flebite é caracterizada pela dor leve no local de inserção, acompanhada de leve vermelhi...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'os sinais de flebite incluem dor intensa, eritema, calor, edema, endurecimento da veia e, ...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3199740",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sinop - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Técnico de",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Fundamentos e Procedimentos de Enfermagem",
+    "enunciado": "Enfermagem Um paciente de 45 anos, com histórico de anemia severa e hemorragia aguda após um trauma, foi encaminhado para receber uma transfusão de concentrado de hemácias. A conduta do técnico de enfermagem acerca da administração, considerando as boas práticas e as recomendações da transfusão de hemocomponentes, deve ser:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "aguardar a chegada do paciente à unidade para iniciar a transfusão e, em caso de reações adversas, interromper o procedimento imediatamente e registrar a ocorrência no prontuário"
+      },
+      {
+        "id": "B",
+        "texto": "administrar o hemocomponente rapidamente, sem a necessidade de realizar a verificação da compatibilidade sanguínea, já que o concentrado de hemácias é um produto seguro que não provoca reações alérgicas"
+      },
+      {
+        "id": "C",
+        "texto": "antes de iniciar a transfusão, verificar a prescrição médica, confirmar a compatibilidade sanguínea do paciente com o hemocomponente e utilizar uma linha de infusão com solução salina para garantir a permeabilidade e a segurança do procedimento"
+      },
+      {
+        "id": "D",
+        "texto": "realizar a transfusão com uma única linha de infusão para economizar tempo, sem a necessidade de verificar a compatibilidade sanguínea, já que os hemocomponentes não causam reações adversas"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0215",
+    "numero_ordem": 215,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administrar o hemocomponente rapidamente, sem a necessidade de realizar a verificação da c...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'antes de iniciar a transfusão, verificar a prescrição médica, confirmar a compatibilidade ...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar a transfusão com uma única linha de infusão para economizar tempo, sem a necessid...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3197486",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sinop - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Fundamentos e Procedimentos de Enfermagem",
+    "enunciado": "Sobre acidentes com materiais perfurocortantes, a prática mais eficaz para prevenir lesões por agulhas e outros materiais semelhantes durante a execução de procedimentos em ambiente hospitalar é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "a utilização de luvas de proteção mais espessas"
+      },
+      {
+        "id": "B",
+        "texto": "a realização de treinamentos periódicos sobre precauções universais"
+      },
+      {
+        "id": "C",
+        "texto": "a implementação do uso de dispositivos de segurança com mecanismo de proteção, como agulhas autosselantes"
+      },
+      {
+        "id": "D",
+        "texto": "o descarte imediato de agulhas e de materiais cortantes no recipiente adequado sem o uso de dispositivos de proteção 300 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0219",
+    "numero_ordem": 219,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a utilização de luvas de proteção mais espessas...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a realização de treinamentos periódicos sobre precauções universais...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a implementação do uso de dispositivos de segurança com mecanismo de proteção, como agulha...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o descarte imediato de agulhas e de materiais cortantes no recipiente adequado sem o uso d...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3197476",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sinop - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Fundamentos e Procedimentos de Enfermagem",
+    "enunciado": "Durante um procedimento de aspiração nasotraqueal em um paciente internado, o enfermeiro está atento à durabilidade e à segurança da técnica. Sabendo-se que a aspiração nasotraqueal tem um tempo máximo recomendado para a passagem do cateter, o tempo máximo permitido para a realização da aspiração nasotraqueal, visando a evitar complicações, como hipoxemia e trauma nas vias respiratórias é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "20 segundos, para evitar hipoxemia e lesões nas vias aéreas superiores"
+      },
+      {
+        "id": "B",
+        "texto": "30 segundos, conforme recomendado para reduzir o risco de obstrução da via aérea"
+      },
+      {
+        "id": "C",
+        "texto": "10 segundos, de forma a minimizar o risco de trauma e hipoxemia durante o procedimento"
+      },
+      {
+        "id": "D",
+        "texto": "60 segundos, para garantir a remoção completa de secreções das vias aéreas 310 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0229",
+    "numero_ordem": 229,
+    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '20 segundos, para evitar hipoxemia e lesões nas vias aéreas superiores...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '30 segundos, conforme recomendado para reduzir o risco de obstrução da via aérea...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '10 segundos, de forma a minimizar o risco de trauma e hipoxemia durante o procedimento...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '60 segundos, para garantir a remoção completa de secreções das vias aéreas 310 Ano: 2025...'."
+      }
+    ],
+    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+  },
+  {
+    "codigo_origem": "Q2477208",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Água Boa - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Água Boa - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Fundamentos e Procedimentos de Enfermagem",
+    "enunciado": "O leito que está desocupado, aguardando para receber um paciente e que deve ser preparado aproximadamente duas horas após ter sido feita a limpeza geral, permitindo o arejamento do ambiente, denomina-se:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "aberto"
+      },
+      {
+        "id": "B",
+        "texto": "fechado"
+      },
+      {
+        "id": "C",
+        "texto": "com paciente"
+      },
+      {
+        "id": "D",
+        "texto": "sem paciente"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0340",
+    "numero_ordem": 340,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'com paciente...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'sem paciente...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3810628",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Garças - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Fundamentos e Procedimentos de Enfermagem",
+    "enunciado": "Técnico em Enfermagem Durante o acompanhamento de um paciente no pósoperatório de colectomia em uso de sonda nasoenteral para administração de dieta contínua, o paciente refere leve desconforto nasal, e a equipe observa resíduo alimentar na conexão externa da sonda. De acordo com as boas práticas de segurança, manutenção e assistência a pacientes em uso de sondas nasogástrica e nasoenteral, afi rma-se que:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "a confirmação do posicionamento da sonda, quando houver dúvida clínica, deve ser realizada apenas pelo enfermeiro, sendo permitida ao técnico apenas a observação externa do dispositivo"
+      },
+      {
+        "id": "B",
+        "texto": "a administração da dieta ou dos medicamentos pode ser feito pelo técnico de enfermagem, desde que a fixação esteja íntegra, mesmo sem confirmação prévia do posicionamento realizada pela equipe de enfermagem"
+      },
+      {
+        "id": "C",
+        "texto": "a manutenção da sonda aberta entre administrações é recomendada para reduzir o risco de obstrução e facilitar o escoamento de resíduos da dieta"
+      },
+      {
+        "id": "D",
+        "texto": "a higienização e o manejo externo da sonda devem ser realizados rotineiramente pelo técnico de enfermagem, mesmo em dietas de infusão contínua, a fim de prevenir obstruções, minimizar extravasamentos e reduzir risco de contaminação 150 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0489",
+    "numero_ordem": 489,
+    "fundamentacao_correta": "Conforme as Recomendações de Boas Práticas em Nutrição Enteral da BRASPEN e da ANVISA (RDC nº 63/2000), a prevenção da pneumonia por broncoaspiração em pacientes recebendo dieta por sonda enteral exige a manutenção da cabeceira elevada em ângulo de 30° a 45° durante toda a infusão e por no mínimo 30 a 60 minutos após o término da dieta, para garantir o esvaziamento gástrico seguro. A alternativa [] descreve exatamente essa conduta preconizada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a confirmação do posicionamento da sonda, quando houver dúvida clínica, deve ser realizada...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a administração da dieta ou dos medicamentos pode ser feito pelo técnico de enfermagem, de...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a manutenção da sonda aberta entre administrações é recomendada para reduzir o risco de ob...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a higienização e o manejo externo da sonda devem ser realizados rotineiramente pelo técnic...'."
+      }
+    ],
+    "comentario": "Conforme as Recomendações de Boas Práticas em Nutrição Enteral da BRASPEN e da ANVISA (RDC nº 63/2000), a prevenção da pneumonia por broncoaspiração em pacientes recebendo dieta por sonda enteral exige a manutenção da cabeceira elevada em ângulo de 3..."
+  }
+]

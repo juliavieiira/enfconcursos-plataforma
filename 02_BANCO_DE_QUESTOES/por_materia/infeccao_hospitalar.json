@@ -1,0 +1,330 @@
+[
+  {
+    "codigo_origem": "Q3974340",
+    "banca": "SELECON",
+    "orgao": "EMGEPRON",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - EMGEPRON - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Infecção Hospitalar , Enfermagem em UTI",
+    "enunciado": "Durante a assistência a um paciente adulto em Unidade de Terapia Intensiva, submetido à ventilação mecânica invasiva, o enfermeiro observa risco aumentado para complicações respiratórias, incluindo Pneumonia Associada à Ventilação Mecânica (PAV), caracterizada por acúmulo de secreções, presença de tubo endotraqueal e redução da mobilidade. Considerando medidas baseadas em evidências para prevenção de PAV, deve-se:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "elevar a cabeceira do leito entre 30° e 45°, mantendo posição adequada para reduzir risco de aspiração e favorecer mecânica ventilatória"
+      },
+      {
+        "id": "B",
+        "texto": "realizar aspiração traqueal apenas quando houver secreção visível, ignorando a rotina preventiva e critérios clínicos estabelecidos"
+      },
+      {
+        "id": "C",
+        "texto": "manter o paciente permanentemente em posição supina, sem alterações posturais, para facilitar a monitorização contínua"
+      },
+      {
+        "id": "D",
+        "texto": "suspender a higiene oral diária com antisséptico, pois não apresenta impacto signifi cativo na prevenção de PAV"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0094",
+    "numero_ordem": 94,
+    "fundamentacao_correta": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'elevar a cabeceira do leito entre 30° e 45°, mantendo posição adequada para reduzir risco ...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar aspiração traqueal apenas quando houver secreção visível, ignorando a rotina prev...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter o paciente permanentemente em posição supina, sem alterações posturais, para facili...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'suspender a higiene oral diária com antisséptico, pois não apresenta impacto signifi cativ...'."
+      }
+    ],
+    "comentario": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente..."
+  },
+  {
+    "codigo_origem": "Q3623613",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Nova Mutum - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Infecção Hospitalar , Segurança do Paciente",
+    "enunciado": "A medida mais simples, econômica e efi caz para prevenir a disseminação de microrganismos e reduzir as infecções relacionadas à assistência à saúde (IRAS) em ambientes hospitalares é a:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "limpeza terminal diária de todas as unidades"
+      },
+      {
+        "id": "B",
+        "texto": "vacinação obrigatória de todos os pacientes"
+      },
+      {
+        "id": "C",
+        "texto": "restrição total de visitas aos pacientes internados"
+      },
+      {
+        "id": "D",
+        "texto": "higienização correta das mãos dos profi ssionais de saúde 205 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0124",
+    "numero_ordem": 124,
+    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'limpeza terminal diária de todas as unidades...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vacinação obrigatória de todos os pacientes...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'restrição total de visitas aos pacientes internados...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'higienização correta das mãos dos profi ssionais de saúde 205 Ano: 2025...'."
+      }
+    ],
+    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+  },
+  {
+    "codigo_origem": "Q3265149",
+    "banca": "SELECON",
+    "orgao": "HEMOMINAS",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - HEMOMINAS - Analista de Hematologia e Hemoterapia -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Infecção Hospitalar",
+    "enunciado": "ANHH - Nível I - Grau A - Enfermeiro Em um hospital de alta complexidade, a profilaxia de infecções do sítio cirúrgico demanda a adesão irrestrita a protocolos bem definidos. Das seguintes medidas profiláticas, a que se configura como a mais proeminente para a redução da incidência dessas infecções está na alternativa:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "administração seletiva de antibióticos de amplo espectro no pré-operatório imediato"
+      },
+      {
+        "id": "B",
+        "texto": "tricotomia capilar com lâmina de barbear em todas as áreas a serem incisadas"
+      },
+      {
+        "id": "C",
+        "texto": "antissepsia das mãos da equipe cirúrgica, com técnica padronizada e solução alcoólica"
+      },
+      {
+        "id": "D",
+        "texto": "utilização de vestimentas cirúrgicas reutilizáveis, previamente esterilizadas em autoclave 274 Enfermagem > Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Diagnósticos de Enfermagem - NIC-NOC/CIPE/NANDA , Prescrições de Cuidados de Enfermagem Banca: SELECON Órgão: HEMOMINAS Prova: SELECON - 2025 - HEMOMINAS - Analista de Hematologia e Hemoterapia -"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0193",
+    "numero_ordem": 193,
+    "fundamentacao_correta": "Conforme os princípios da Epidemiologia e Vigilância em Saúde (Ministério da Saúde), a Incidência Acumulada expressa o risco de novos casos da doença em uma população inicialmente livre do agravo durante determinado período. O cálculo é: Número de Casos Novos dividido pela População Sob Risco (indivíduos suscetíveis no início do período, excluindo-se quem já tinha o diagnóstico). Portanto, a alternativa [] expressa com exatidão a metodologia epidemiológica correta.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administração seletiva de antibióticos de amplo espectro no pré-operatório imediato...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tricotomia capilar com lâmina de barbear em todas as áreas a serem incisadas...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'antissepsia das mãos da equipe cirúrgica, com técnica padronizada e solução alcoólica...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilização de vestimentas cirúrgicas reutilizáveis, previamente esterilizadas em autoclave...'."
+      }
+    ],
+    "comentario": "Conforme os princípios da Epidemiologia e Vigilância em Saúde (Ministério da Saúde), a Incidência Acumulada expressa o risco de novos casos da doença em uma população inicialmente livre do agravo durante determinado período. O cálculo é: Número de Ca..."
+  },
+  {
+    "codigo_origem": "Q2472185",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Auxiliar de Serviços Hospitalares",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Infecção Hospitalar",
+    "enunciado": "Com o intuito de controlar infecções, a forma de higienização das mãos indicada antes e após a ida ao banheiro é a/com:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "lavagem com clorexidina degermante"
+      },
+      {
+        "id": "B",
+        "texto": "lavagem com água e sabão"
+      },
+      {
+        "id": "C",
+        "texto": "solução alcóolica"
+      },
+      {
+        "id": "D",
+        "texto": "gel antisséptico"
+      },
+      {
+        "id": "E",
+        "texto": "cloro 436 Ano: 2024 Enfermagem > Estrutura Organizacional dos Serviços de Enfermagem e Gerenciamento do Trabalho , Administração em Enfermagem Banca: SELECON Órgão: SAD-MS Prova: SELECON - 2024 - SAD-MS - Auxiliar de Serviços Hospitalares"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0355",
+    "numero_ordem": 355,
+    "fundamentacao_correta": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'lavagem com clorexidina degermante...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'lavagem com água e sabão...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'solução alcóolica...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'gel antisséptico...'."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'cloro 436 Ano: 2024 Enfermagem > Estrutura Organizacional dos Serviços de Enfermagem e Ger...'."
+      }
+    ],
+    "comentario": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente..."
+  },
+  {
+    "codigo_origem": "Q2472174",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Auxiliar de Serviços Hospitalares",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Infecção Hospitalar",
+    "enunciado": "Uma medida de higiene dos pisos utilizada para reduzir o risco de infecções em ambiente hospitalar é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "utilizar aspirador"
+      },
+      {
+        "id": "B",
+        "texto": "utilizar varredura úmida"
+      },
+      {
+        "id": "C",
+        "texto": "utilizar varredura seca"
+      },
+      {
+        "id": "D",
+        "texto": "somente higienizar com solução clorada"
+      },
+      {
+        "id": "E",
+        "texto": "somente higienizar com enceradeiras de baixa rotação 445 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0364",
+    "numero_ordem": 364,
+    "fundamentacao_correta": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar aspirador...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar varredura úmida...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar varredura seca...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'somente higienizar com solução clorada...'."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'somente higienizar com enceradeiras de baixa rotação 445 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente..."
+  },
+  {
+    "codigo_origem": "Q3802710",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Garças - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Infecção Hospitalar , Enfermagem em Central de Material Esterilizado",
+    "enunciado": "A esterilização é um processo essencial no controle de infecções, visando à destruição de todas as formas de vida microbiana, incluindo esporos bacterianos. Dentre os métodos de esterilização mais utilizados em ambientes hospitalares, a esterilização por vapor saturado sob pressão (autoclave) é amplamente empregada devido à sua eficácia e às características, que incluem:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "atingir altas temperaturas e pressões, promovendo a desnaturação proteica e a coagulação celular"
+      },
+      {
+        "id": "B",
+        "texto": "ser um método indicado para materiais termossensíveis e líquidos inflamáveis"
+      },
+      {
+        "id": "C",
+        "texto": "requerer um longo tempo de exposição e não ser influenciado pela presença de matéria orgânica"
+      },
+      {
+        "id": "D",
+        "texto": "ser um processo que não necessita de monitoramento biológico regular 160 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0499",
+    "numero_ordem": 499,
+    "fundamentacao_correta": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente compatível com o mecanismo de transmissão do patógeno (contato, gotículas ou aerossóis). A assertiva [] atende plenamente às normas de biossegurança hospitalar e comunitária.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'atingir altas temperaturas e pressões, promovendo a desnaturação proteica e a coagulação c...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ser um método indicado para materiais termossensíveis e líquidos inflamáveis...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'requerer um longo tempo de exposição e não ser influenciado pela presença de matéria orgân...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ser um processo que não necessita de monitoramento biológico regular 160 Ano: 2025...'."
+      }
+    ],
+    "comentario": "Conforme a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e as diretrizes da ANVISA sobre Precauções e Isolamento, a definição dos Equipamentos de Proteção Individual (EPIs) e barreiras técnicas deve ser estritamente..."
+  }
+]

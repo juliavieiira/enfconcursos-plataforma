@@ -1,0 +1,53 @@
+=== CADERNO DE QUESTÕES: GESTÃO DE PROCESSOS E EQUIPES DE TRABALHO ===
+Total: 3 questões
+
+QUESTÃO 1 [Código: EF0083] - EMGEPRON (SELECON 2026) - Técnico de Enfermagem
+Assunto: Gestão de Processos e Equipes de Trabalho , Administração em Enfermagem
+Durante o plantão em uma unidade de internação hospitalar, o técnico de enfermagem percebeu que um colega registrou no prontuário a administração de um antibiótico endovenoso que não foi administrado, uma vez que o medicamento não estava disponível na farmácia no horário prescrito. Questionado, o colega afirma que realizou o registro para “evitar problemas com a chefia” e solicita que o fato não seja comunicado à equipe responsável. Diante dessa situação, à luz do Código de Ética dos Profissionais de Enfermagem, a conduta descrita caracteriza:
+
+  [A] infração ética grave, por configurar registro de informação inverídica no prontuário do paciente, comprometendo a segurança do cuidado e a responsabilidade profissional
+  [B] conduta inadequada do ponto de vista administrativo, passível apenas de advertência verbal, desde que o medicamento venha a ser administrado posteriormente
+  [C] falha técnica sem repercussão ética, uma vez que o registro foi realizado com a intenção de manter a organização do serviço e evitar conflitos hierárquicos
+  [D] irregularidade atribuível exclusivamente à ausência do medicamento na unidade, não recaindo responsabilidade sobre o profissional que registrou
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'infração ética grave, por configurar registro de informação inverídica no prontuário do pa...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'conduta inadequada do ponto de vista administrativo, passível apenas de advertência verbal...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'falha técnica sem repercussão ética, uma vez que o registro foi realizado com a intenção d...'.
+   • Alternativa D: Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente.
+
+------------------------------------------------------------
+
+QUESTÃO 2 [Código: EF0185] - HEMOMINAS (SELECON 2025) - Enfermeiro
+Assunto: Gestão de Processos e Equipes de Trabalho , Administração em Enfermagem ,
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+
+------------------------------------------------------------
+
+QUESTÃO 3 [Código: EF0351] - SAD-MS (SELECON 2024) - Enfermeiro
+Assunto: Gestão de Processos e Equipes de Trabalho , Administração em Enfermagem
+Lilian trabalha em ambiente hospitalar e acredita na importância de preservar suas relações interpessoais para construir um ambiente de trabalho agradável e respeitoso. Alguns comportamentos corriqueiros podem auxiliar no vínculo e qualidade das relações no cotidiano. Um exemplo de comunicação não verbal útil que pode impactar positivamente nas relações interpessoais é:
+
+  [A] sorrir
+  [B] elogiar
+  [C] dar bons conselhos
+  [D] oferecer ajuda prática
+  [E] perguntar como está sendo o dia da pessoa 432 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'dar bons conselhos...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'oferecer ajuda prática...'.
+   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'perguntar como está sendo o dia da pessoa 432 Ano: 2024...'.
+
+------------------------------------------------------------
+

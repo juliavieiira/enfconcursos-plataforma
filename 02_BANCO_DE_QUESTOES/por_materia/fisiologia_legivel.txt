@@ -1,0 +1,136 @@
+=== CADERNO DE QUESTÕES: FISIOLOGIA ===
+Total: 7 questões
+
+QUESTÃO 1 [Código: EF0039] - Prefeitura de Araçás - BA (SELECON 2026) - Técnico de Enfermagem
+Assunto: Fisiologia , Fisiologia do Sistema Respiratório
+Enfermagem A homeostasia é um conceito central da fisiologia humana e refere-se à manutenção de condições relativamente estáveis no ambiente interno do organismo, mesmo diante de alterações externas. Esse equilíbrio dinâmico é regulado por sistemas de controle que atuam por meio de mecanismos de retroalimentação, sendo a maioria dos processos fisiológicos controlada por retroalimentação negativa. Um exemplo clássico de mecanismo de retroalimentação negativa no corpo humano é o(a):
+
+  [A] liberação de ocitocina durante o parto, que intensifica as contrações uterinas
+  [B] aumento da frequência respiratória em resposta à elevação da concentração de gás carbônico no sangue
+  [C] liberação de hormônio do crescimento, que estimula a produção de fatores de crescimento em cascata
+  [D] ativação do sistema de coagulação sanguínea após uma lesão vascular, que amplifica a formação do coágulo
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'liberação de ocitocina durante o parto, que intensifica as contrações uterinas...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aumento da frequência respiratória em resposta à elevação da concentração de gás carbônico...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'liberação de hormônio do crescimento, que estimula a produção de fatores de crescimento em...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ativação do sistema de coagulação sanguínea após uma lesão vascular, que amplifica a forma...'.
+
+------------------------------------------------------------
+
+QUESTÃO 2 [Código: EF0079] - EMGEPRON (SELECON 2026) - Técnico de Enfermagem
+Assunto: Fisiologia , Sistema Hematopoiético
+A anemia é um distúrbio hematológico caracterizado pela redução da hemoglobina e/ou do número de hemácias circulantes. Considerando a fisiologia das hemácias, as manifestações clínicas observadas nesse distúrbio são:
+
+  [A] a redução das hemácias, que compromete a resposta imunológica, favorecendo infecções recorrentes
+  [B] a diminuição da hemoglobina, que prejudica o transporte de oxigênio aos tecidos, resultando em fadiga, palidez e dispneia aos esforços
+  [C] a queda da massa eritrocitária, que reduz a produção de leucócitos pela medula óssea, levando à imunossupressão sistêmica progressiva
+  [D] a diminuição do número de hemácias, que interfere diretamente na hemostasia primária, aumentando o risco de sangramentos espontâneos 80 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: EMGEPRON Prova: SELECON - 2026 - EMGEPRON - Técnico em Enfermagem
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a redução das hemácias, que compromete a resposta imunológica, favorecendo infecções recor...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a diminuição da hemoglobina, que prejudica o transporte de oxigênio aos tecidos, resultand...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a queda da massa eritrocitária, que reduz a produção de leucócitos pela medula óssea, leva...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a diminuição do número de hemácias, que interfere diretamente na hemostasia primária, aume...'.
+
+------------------------------------------------------------
+
+QUESTÃO 3 [Código: EF0144] - Prefeitura de Tapurah - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Fisiologia , Fundamentos e Procedimentos de Enfermagem
+Enfermagem Maria, 45 anos, internada na clínica médica por pneumonia, encontra-se consciente, orientada e relata calafrios. Durante a verificação dos sinais vitais pelo técnico de enfermagem, são obtidos os seguintes valores: temperatura axilar de 39,2 °C, frequência cardíaca de 108 bpm, frequência respiratória de 24 irpm e pressão arterial de 140×90 mmHg. Diante desses dados, é correto afirmar que a paciente apresenta:
+
+  [A] bradicardia
+  [B] taquicardia
+  [C] hipotensão
+  [D] eupneia
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'bradicardia...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'taquicardia...'.
+   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa D: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+
+------------------------------------------------------------
+
+QUESTÃO 4 [Código: EF0189] - HEMOMINAS (SELECON 2025) - Enfermeiro
+Assunto: Fisiologia , Sistema Hematopoiético
+ANHH - Nível I - Grau A - Enfermeiro O fator Rh é uma característica adicional do sangue, definido pela presença ou ausência do antígeno D na membrana das hemácias. Diante disso, é correto afirmar que:
+
+  [A] indivíduos Rh negativo não possuem o antígeno D e podem desenvolver anticorpos anti-D quando expostos ao sangue Rh positivo
+  [B] indivíduos com fator Rh negativo apresentam o antígeno D circulando no plasma, mas não possuem o mesmo nas hemácias
+  [C] a presença do fator Rh positivo garante que o indivíduo possa doar sangue para receptores Rh negativo sem risco de reação
+  [D] o fator Rh não apresenta implicações clínicas relevantes no contexto de transfusões ou na gravidez 270 Ano: 2025 Enfermagem > Processo de Enfermagem e Sistematização da Assistência de Enfermagem , Diagnósticos de Enfermagem - NIC-NOC/CIPE/NANDA , Anamnese (Coleta de Dados) Banca: SELECON Órgão: HEMOMINAS Prova: SELECON - 2025 - HEMOMINAS - Analista de Hematologia e Hemoterapia -
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'indivíduos Rh negativo não possuem o antígeno D e podem desenvolver anticorpos anti-D quan...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'indivíduos com fator Rh negativo apresentam o antígeno D circulando no plasma, mas não pos...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a presença do fator Rh positivo garante que o indivíduo possa doar sangue para receptores ...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o fator Rh não apresenta implicações clínicas relevantes no contexto de transfusões ou na ...'.
+
+------------------------------------------------------------
+
+QUESTÃO 5 [Código: EF0437] - Prefeitura de Dourados - MS (SELECON 2023) - Enfermeiro
+Assunto: Fisiologia
+Sabe-se que o coração, em um adulto jovem saudável e em repouso, ejeta, por minuto, aproximadamente, 5 litros de sangue através de cada câmara ventricular. O aumento da força de contração que ocorre quando há um aumento do retorno venoso (pré-carga) é chamado de efeito:
+
+  [A] Anrep
+  [B] Bowdich
+  [C] Purkinje
+  [D] Frank - Starling 518 Ano: 2023
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'Frank - Starling 518 Ano: 2023...'.
+
+------------------------------------------------------------
+
+QUESTÃO 6 [Código: EF0441] - EMGEPRON (SELECON 2026) - Enfermeiro
+Assunto: Fisiologia , Doenças Crônicas Não Transmissíveis
+Paciente de 58 anos, internado em unidade clínica por descompensação cardíaca, evolui com edema generalizado envolvendo membros, face e parede abdominal, ganho ponderal de 4 kg em 5 dias, oligúria e sinal de cacifo difuso (+++/4+). Exames laboratoriais demonstram hipoalbuminemia discreta e sódio sérico no limite inferior da normalidade. De acordo com os mecanismos fisiopatológicos envolvidos na formação da anasarca e a dinâmica dos compartimentos líquidos corporais, é correto afirmar que o(a):
+
+  [A] anasarca decorre predominantemente da expansão do volume intracelular secundária à falha da bomba de sódiopotássio, promovendo influxo osmótico de água para o interior das células e aumento difuso do volume tecidual, sem participação significativa do compartimento intersticial ou das forças de Starling
+  [B] edema generalizado resulta da combinação entre aumento da pressão hidrostática capilar, ativação neuro-hormonal com retenção de sódio e água e redução relativa da pressão oncótica plasmática, favorecendo o deslocamento de líquido para o espaço intersticial
+  [C] presença de hipoalbuminemia discreta afasta o papel das forças de Starling na gênese do edema, indicando mecanismo exclusivamente inflamatório sistêmico predominante
+  [D] oligúria observada indica redistribuição hídrica transitória, sem relação com retenção renal de sódio mediada por ativação do sistema renina-angiotensina-aldosterona 102 Ano: 2026
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'anasarca decorre predominantemente da expansão do volume intracelular secundária à falha d...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'edema generalizado resulta da combinação entre aumento da pressão hidrostática capilar, at...'.
+   • Alternativa C: Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'oligúria observada indica redistribuição hídrica transitória, sem relação com retenção ren...'.
+
+------------------------------------------------------------
+
+QUESTÃO 7 [Código: EF0457] - Prefeitura de Porto dos Gaúchos - MT (SELECON 2026) - Técnico de Enfermagem
+Assunto: Fisiologia , Fundamentos e Procedimentos de Enfermagem
+MT - Técnico em Enfermagem Em uma unidade de atenção básica, no decorrer da avaliação dos sinais vitais de um adulto, verificou-se, conforme técnica adequada, que ele apresentava frequência respiratória de 22 incursões por minuto. Esse adulto encontrava-se em repouso, não possuía queixas respiratórias evidentes e nem havia realizado esforço físico prévio. Considerando os parâmetros fisiológicos para adultos descritos na literatura, essa alteração respiratória é classificada como:
+
+  [A] bradipneia, por representar redução da frequência respiratória abaixo do valor de referência
+  [B] taquipneia, por indicar frequência respiratória acima dos valores considerados normais
+  [C] eupneia, por ainda se situar dentro da variação fisiológica aceitável
+  [D] apneia, por indicar interrupção dos movimentos respiratórios 118 Ano: 2026
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'bradipneia, por representar redução da frequência respiratória abaixo do valor de referênc...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'taquipneia, por indicar frequência respiratória acima dos valores considerados normais...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'eupneia, por ainda se situar dentro da variação fisiológica aceitável...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'apneia, por indicar interrupção dos movimentos respiratórios 118 Ano: 2026...'.
+
+------------------------------------------------------------
+

@@ -1,0 +1,43 @@
+=== CADERNO DE QUESTÕES: HIGIENE NOS PROCEDIMENTOS DE ENFERMAGEM ===
+Total: 2 questões
+
+QUESTÃO 1 [Código: EF0256] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
+Assunto: Higiene nos Procedimentos de Enfermagem , Fundamentos e Procedimentos de Enfermagem
+A higiene é um elemento fundamental no autocuidado do paciente hospitalizado que, por muitas vezes, necessita da assistência da equipe de enfermagem. Em relação ao paciente acamado, é recomendado o banho de:
+
+  [A] imersão
+  [B] aspersão
+  [C] ablusão
+  [D] leito
+  [E] chuveiro 337 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa D: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'chuveiro 337 Ano: 2024...'.
+
+------------------------------------------------------------
+
+QUESTÃO 2 [Código: EF0480] - Prefeitura de Barra do Garças - MT (SELECON 2024) - Técnico de Enfermagem
+Assunto: Higiene nos Procedimentos de Enfermagem , Fundamentos e Procedimentos de Enfermagem
+Técnico em Enfermagem Durante o banho no leito, uma prática essencial para minimizar o risco de contaminação cruzada e preservar a segurança do paciente é seguir a sequência correta de higiene. De acordo com os princípios de limpeza, a conduta adequada consiste em:
+
+  [A] realizar a limpeza sempre no sentido céfalo-caudal, começando pela face
+  [B] executar a higiene perineal somente após a limpeza das demais regiões corporais
+  [C] lavar primeiro as áreas de maior carga microbiana, para reduzir o tempo total do procedimento
+  [D] iniciar o banho pelas extremidades inferiores, independentemente do grau de sujidade
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar a limpeza sempre no sentido céfalo-caudal, começando pela face...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'executar a higiene perineal somente após a limpeza das demais regiões corporais...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'lavar primeiro as áreas de maior carga microbiana, para reduzir o tempo total do procedime...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'iniciar o banho pelas extremidades inferiores, independentemente do grau de sujidade...'.
+
+------------------------------------------------------------
+

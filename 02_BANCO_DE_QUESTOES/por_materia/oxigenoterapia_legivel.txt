@@ -1,0 +1,39 @@
+=== CADERNO DE QUESTÕES: OXIGENOTERAPIA ===
+Total: 2 questões
+
+QUESTÃO 1 [Código: EF0005] - Prefeitura de Nova Mutum - MT (SELECON 2026) - Técnico de Enfermagem
+Assunto: Oxigenoterapia , Fundamentos e Procedimentos de Enfermagem
+O registro das informações assistenciais no prontuário constitui uma responsabilidade da equipe de enfermagem e deve representar, de forma objetiva, as condições observadas e os cuidados realizados. Às 14h, um técnico de enfermagem identifica que um paciente apresenta inquietação, tenta retirar repetidamente o dispositivo de oxigenoterapia e afirma: "Não quero mais essa máscara". À luz dos princípios técnicos e éticos da documentação de enfermagem, a anotação mais adequada para registrar essa ocorrência é:
+
+  [A] 14h - Paciente agitado e resistente à oxigenoterapia
+  [B] 14h - Paciente apresenta comportamento inadequado e recusa o tratamento prescrito
+  [C] 14h - Paciente inquieto, tenta retirar a máscara de oxigênio e demonstra falta de colaboração com os cuidados
+  [D] 14h - Paciente apresenta inquietação, tenta retirar repetidamente a máscara de oxigênio e verbaliza: "Não quero mais essa máscara"
+
+✅ Gabarito: D
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [D] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: '14h - Paciente apresenta inquietação, tenta retirar repetidamente a máscara de oxigênio e verbaliza: "Não quero mais essa máscara"'.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '14h - Paciente agitado e resistente à oxigenoterapia...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '14h - Paciente apresenta comportamento inadequado e recusa o tratamento prescrito...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '14h - Paciente inquieto, tenta retirar a máscara de oxigênio e demonstra falta de colabora...'.
+
+------------------------------------------------------------
+
+QUESTÃO 2 [Código: EF0015] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2026) - Técnico de Enfermagem
+Assunto: Oxigenoterapia , Fundamentos e Procedimentos de Enfermagem
+MT - Técnico de Enfermagem - Secretaria de Saúde A umidificação do oxigênio administrado é uma medida que visa a prevenir o ressecamento da mucosa nasal e das vias aéreas superiores, especialmente em fluxos elevados ou em períodos prolongados de oxigenoterapia. A necessidade de umidificação depende do dispositivo utilizado e do fluxo prescrito. De acordo com as orientações práticas para oxigenoterapia, o umidificador com água destilada torna-se necessário quando o fluxo de oxigênio administrado por cateter nasal ultrapassa:
+
+  [A] 2 litros por minuto
+  [B] 4 litros por minuto
+  [C] 6 litros por minuto
+  [D] 8 litros por minuto
+
+✅ Gabarito: B
+💡 Fundamentação: De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [B] ('4 litros por minuto') assegura a integridade tecidual e a continuidade segura da terapêutica.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '2 litros por minuto...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '6 litros por minuto...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '8 litros por minuto...'.
+
+------------------------------------------------------------
+

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "q-pref-003",
+    "banca": "CONSULPAM",
+    "orgao": "Prefeitura de Viana - ES",
+    "ano": 2023,
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Imunização e PNI",
+    "assunto": "Calendário Nacional de Vacinação da Criança",
+    "enunciado": "Na sala de vacinas de uma Unidade Básica de Saúde (UBS), a mãe traz seu filho de exatamente 2 meses de vida para receber as vacinas recomendadas pelo Programa Nacional de Imunizações (PNI). De acordo com o calendário vigente, a criança deve receber as seguintes vacinas:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "BCG, Hepatite B e Febre Amarela."
+      },
+      {
+        "id": "B",
+        "texto": "Pentavalente, VIP (Poliomielite inativada), Pneumocócica 10-valente e Rotavírus humano."
+      },
+      {
+        "id": "C",
+        "texto": "Tríplice Viral, Meningocócica C e DTP."
+      },
+      {
+        "id": "D",
+        "texto": "Hepatite A, Varicela e HPV quadrivalente."
+      },
+      {
+        "id": "E",
+        "texto": "Pentavalente, VOP (Poliomielite oral), BCG e DTP."
+      }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "Pelo Calendário Nacional de Vacinação do PNI (Ministério da Saúde), aos 2 meses de vida a criança recebe o esquema: 1ª dose da Pentavalente (DTP + Hib + Hep B), 1ª dose da VIP (poliomielite inativada injetável), 1ª dose da Pneumocócica 10V conjugada e 1ª dose da Vacina Rotavírus Humano (VRH, via oral).",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "BCG e Hepatite B são aplicadas ao nascer (primeiras 12 a 24 horas de vida). Febre Amarela é aos 9 meses."
+      },
+      {
+        "letra": "C",
+        "motivo": "Meningocócica C é aos 3 e 5 meses. Tríplice Viral e DTP reforço são a partir de 12 e 15 meses."
+      },
+      {
+        "letra": "D",
+        "motivo": "Hepatite A e Varicela são aos 15 meses. HPV quadrivalente é indicado para crianças/adolescentes de 9 a 14 anos."
+      },
+      {
+        "letra": "E",
+        "motivo": "A VOP (gotinha) não é mais utilizada aos 2 meses (o Brasil adotou 100% VIP injetável para reduzir o risco de paralisia vacinal)."
+      }
+    ],
+    "comentario": "Aos 2 meses: Pentavalente, VIP, Pneumocócica 10-valente e Rotavírus.",
+    "dificuldade": "Fácil",
+    "relevancia_prefeitura": "Alta"
+  }
+]

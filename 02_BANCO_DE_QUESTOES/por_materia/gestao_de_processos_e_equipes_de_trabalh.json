@@ -1,0 +1,132 @@
+[
+  {
+    "codigo_origem": "Q3981914",
+    "banca": "SELECON",
+    "orgao": "EMGEPRON",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - EMGEPRON - Técnico em Enfermagem",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Gestão de Processos e Equipes de Trabalho , Administração em Enfermagem",
+    "enunciado": "Durante o plantão em uma unidade de internação hospitalar, o técnico de enfermagem percebeu que um colega registrou no prontuário a administração de um antibiótico endovenoso que não foi administrado, uma vez que o medicamento não estava disponível na farmácia no horário prescrito. Questionado, o colega afirma que realizou o registro para “evitar problemas com a chefia” e solicita que o fato não seja comunicado à equipe responsável. Diante dessa situação, à luz do Código de Ética dos Profissionais de Enfermagem, a conduta descrita caracteriza:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "infração ética grave, por configurar registro de informação inverídica no prontuário do paciente, comprometendo a segurança do cuidado e a responsabilidade profissional"
+      },
+      {
+        "id": "B",
+        "texto": "conduta inadequada do ponto de vista administrativo, passível apenas de advertência verbal, desde que o medicamento venha a ser administrado posteriormente"
+      },
+      {
+        "id": "C",
+        "texto": "falha técnica sem repercussão ética, uma vez que o registro foi realizado com a intenção de manter a organização do serviço e evitar conflitos hierárquicos"
+      },
+      {
+        "id": "D",
+        "texto": "irregularidade atribuível exclusivamente à ausência do medicamento na unidade, não recaindo responsabilidade sobre o profissional que registrou"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0083",
+    "numero_ordem": 83,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'infração ética grave, por configurar registro de informação inverídica no prontuário do pa...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'conduta inadequada do ponto de vista administrativo, passível apenas de advertência verbal...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'falha técnica sem repercussão ética, uma vez que o registro foi realizado com a intenção d...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3265157",
+    "banca": "SELECON",
+    "orgao": "HEMOMINAS",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - HEMOMINAS - Analista de Hematologia e Hemoterapia -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Gestão de Processos e Equipes de Trabalho , Administração em Enfermagem ,",
+    "enunciado": "",
+    "alternativas": [],
+    "resposta_correta": "",
+    "id": "EF0185",
+    "numero_ordem": 185,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q2472190",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Auxiliar de Serviços Hospitalares",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Gestão de Processos e Equipes de Trabalho , Administração em Enfermagem",
+    "enunciado": "Lilian trabalha em ambiente hospitalar e acredita na importância de preservar suas relações interpessoais para construir um ambiente de trabalho agradável e respeitoso. Alguns comportamentos corriqueiros podem auxiliar no vínculo e qualidade das relações no cotidiano. Um exemplo de comunicação não verbal útil que pode impactar positivamente nas relações interpessoais é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "sorrir"
+      },
+      {
+        "id": "B",
+        "texto": "elogiar"
+      },
+      {
+        "id": "C",
+        "texto": "dar bons conselhos"
+      },
+      {
+        "id": "D",
+        "texto": "oferecer ajuda prática"
+      },
+      {
+        "id": "E",
+        "texto": "perguntar como está sendo o dia da pessoa 432 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0351",
+    "numero_ordem": 351,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'dar bons conselhos...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'oferecer ajuda prática...'."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'perguntar como está sendo o dia da pessoa 432 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  }
+]

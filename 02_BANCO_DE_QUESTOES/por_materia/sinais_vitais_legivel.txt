@@ -1,0 +1,267 @@
+=== CADERNO DE QUESTÕES: SINAIS VITAIS ===
+Total: 14 questões
+
+QUESTÃO 1 [Código: EF0011] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2026) - Técnico de Enfermagem
+Assunto: Sinais vitais , Fundamentos e Procedimentos de Enfermagem
+MT - Técnico de Enfermagem - Secretaria de Saúde A frequência respiratória é o parâmetro menos invasivo da avaliação dos sinais vitais, mas a sua mensuração exige do técnico de enfermagem uma observação criteriosa e discreta, a fim de evitar que o paciente altere voluntariamente o padrão respiratório. A avaliação da respiração deve considerar não apenas o número de movimentos por minuto, mas também a profundidade, o ritmo e a simetria dos movimentos torácicos. Para o adulto em repouso, considera-se normal a frequência respiratória entre:
+
+  [A] 8 e 12 movimentos por minuto, sendo a bradipneia definida como frequência inferior a
+  [B] 12 e 20 movimentos por minuto, com taquipneia acima de 20 e bradipneia abaixo de
+  [C] 20 e 30 movimentos por minuto, intervalo que corresponde à frequência esperada em adultos saudáveis
+  [D] 16 e 24 movimentos por minuto, sendo a taquipneia caracterizada por frequência superior a 24
+
+✅ Gabarito: B
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [B] ('12 e 20 movimentos por minuto, com taquipneia acima de 20 e bradipneia abaixo de') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '8 e 12 movimentos por minuto, sendo a bradipneia definida como frequência inferior a...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '20 e 30 movimentos por minuto, intervalo que corresponde à frequência esperada em adultos ...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '16 e 24 movimentos por minuto, sendo a taquipneia caracterizada por frequência superior a ...'.
+
+------------------------------------------------------------
+
+QUESTÃO 2 [Código: EF0017] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2026) - Técnico de Enfermagem
+Assunto: Sinais vitais , Fundamentos e Procedimentos de Enfermagem
+MT - Técnico de Enfermagem - Secretaria de Saúde A frequência cardíaca é um dos parâmetros que compõem a avaliação dos sinais vitais, e sofre variações fisiológicas conforme a faixa etária, o nível de atividade, o estado emocional e a temperatura corporal. Na prática clínica, a identificação de valores fora dos limites de normalidade orienta a conduta da enfermagem e a comunicação com a equipe multiprofissional. Analisando os valores de referência para adultos em repouso, a frequência cardíaca considerada normal situa-se entre:
+
+  [A] 40 e 60 batimentos por minuto, caracterizando bradicardia fisiológica em atletas
+  [B] 60 e 100 batimentos por minuto, com taquicardia acima de 100 e bradicardia abaixo de
+  [C] 100 e 120 batimentos por minuto, compatível com taquicardia sinusal compensatória
+  [D] 80 e 110 batimentos por minuto, intervalo que abrange a maioria dos adultos jovens
+
+✅ Gabarito: B
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [B] ('60 e 100 batimentos por minuto, com taquicardia acima de 100 e bradicardia abaixo de') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '40 e 60 batimentos por minuto, caracterizando bradicardia fisiológica em atletas...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '100 e 120 batimentos por minuto, compatível com taquicardia sinusal compensatória...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '80 e 110 batimentos por minuto, intervalo que abrange a maioria dos adultos jovens...'.
+
+------------------------------------------------------------
+
+QUESTÃO 3 [Código: EF0025] - Prefeitura de Lucas do Rio Verde - MT (SELECON 2026) - Enfermeiro
+Assunto: Sinais vitais , Fundamentos e Procedimentos de Enfermagem
+MT - Orientador(a) de Atividade Física e Desportiva Sinais vitais são medições das funções orgânicas mais básicas e importantes do corpo humano, indicando se ele está funcionando bem ou sofrendo algum desequilíbrio. É considerado um sinal vital o(a):
+
+  [A] diurese
+  [B] glicemia
+  [C] temperatura
+  [D] tamanho da pupila
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'temperatura...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tamanho da pupila...'.
+
+------------------------------------------------------------
+
+QUESTÃO 4 [Código: EF0035] - Prefeitura de Araçás - BA (SELECON 2026) - Técnico de Enfermagem
+Assunto: Sinais vitais , Fundamentos e Procedimentos de Enfermagem
+Enfermagem A mensuração da pressão arterial é um procedimento de rotina, mas sujeito a erros sistemáticos quando a técnica não é rigorosamente observada, especialmente em pacientes com arritmias cardíacas, obesidade ou em uso de medicações vasoativas. Em um paciente adulto com fibrilação atrial e em uso de amiodarona, o técnico de enfermagem realizou a aferição da pressão arterial no membro superior direito, utilizando manguito de largura adequada (40% da circunferência braquial), e obteve dois valores com diferença de 12 mmHg entre a primeira e a segunda medidas. Para garantir a precisão da medida e minimizar os efeitos da variabilidade da frequência cardíaca, o profissional deve, como procedimento:
+
+  [A] considerar o menor valor como válido, pois a redução da pressão arterial é esperada em pacientes com fibrilação atrial, e registrar apenas a segunda medida
+  [B] repetir a medida por mais três vezes, intercalando intervalos de 2 minutos entre cada uma, e calcular a média aritmética das cinco aferições, desprezando a primeira
+  [C] suspender a aferição por 5 minutos, reaplicar o manguito no membro contralateral e considerar o valor mais baixo como referência para ajuste da medicação
+  [D] utilizar o mesmo manguito e realizar as medidas em ambos os braços, adotando o valor mais alto entre os dois membros, pois isso reflete a pressão central
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'considerar o menor valor como válido, pois a redução da pressão arterial é esperada em pac...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'repetir a medida por mais três vezes, intercalando intervalos de 2 minutos entre cada uma,...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'suspender a aferição por 5 minutos, reaplicar o manguito no membro contralateral e conside...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar o mesmo manguito e realizar as medidas em ambos os braços, adotando o valor mais ...'.
+
+------------------------------------------------------------
+
+QUESTÃO 5 [Código: EF0052] - Prefeitura de Barra do Garças - MT (SELECON 2026) - Técnico de Enfermagem
+Assunto: Sinais vitais , Fundamentos e Procedimentos de Enfermagem
+Técnico em Enfermagem - SMS Na aferição da pressão arterial pelo método auscultatório, o manguito utilizado possui bolsa inflável estreita em relação à circunferência do braço da pessoa avaliada. Mantidas adequadamente as demais etapas da técnica, essa condição tende a produzir valores de pressão arterial:
+
+  [A] reduzidos
+  [B] subestimados
+  [C] superestimados
+  [D] inalterados pela largura do manguito
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'subestimados...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'superestimados...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'inalterados pela largura do manguito...'.
+
+------------------------------------------------------------
+
+QUESTÃO 6 [Código: EF0240] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Técnico de Enfermagem
+Assunto: Sinais vitais , Fundamentos e Procedimentos de Enfermagem
+Ao admitir no setor um paciente de 11 anos, seu responsável relata que o mesmo tem apresentado febre e que as últimas aferições foram, respectivamente, 39,4ºC às 8h, 38,2ºC às 12h, 39,6ºC às 16h e 38,5ºC às 20h. Ao registrar, o técnico de enfermagem pode classificar o padrão de febre descrito como:
+
+  [A] intermitente
+  [B] reincidente
+  [C] sustentada
+  [D] remitente
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'intermitente...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'reincidente...'.
+   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa D: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+
+------------------------------------------------------------
+
+QUESTÃO 7 [Código: EF0246] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Técnico de Enfermagem
+Assunto: Sinais vitais , Fundamentos e Procedimentos de Enfermagem
+Durante o atendimento, o técnico de enfermagem avalia perda de turgor na pele do paciente e suspeita de um quadro de desidratação. Outros sinais clínicos que corroborem com a indicação:
+
+  [A] hipotensão e tontura
+  [B] mucosas secas e taquicardia
+  [C] sede excessiva e diminuição de diurese
+  [D] dor de cabeça e perda de peso acelerada 327 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'hipotensão e tontura...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'mucosas secas e taquicardia...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'sede excessiva e diminuição de diurese...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'dor de cabeça e perda de peso acelerada 327 Ano: 2024...'.
+
+------------------------------------------------------------
+
+QUESTÃO 8 [Código: EF0376] - Prefeitura de Água Boa - MT (SELECON 2024) - Técnico de Enfermagem
+Assunto: Sinais vitais , Fundamentos e Procedimentos de Enfermagem
+Enfermagem Fatores fisiopatológicos podem alterar a necessidade de oxigênio ou a concentração de gás carbônico no sangue. Isso contribui para a diminuição ou o aumento da frequência dos movimentos respiratórios. A dificuldade na execução dos movimentos respiratórios denomina-se:
+
+  [A] apnéia
+  [B] dispnéia
+  [C] bradipnéia
+  [D] hiperventilação 457 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Banca: SELECON Órgão: Prefeitura de Água Boa - MT Prova: SELECON - 2024 - Prefeitura de Água Boa - MT - Técnico em
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'hiperventilação 457 Enfermagem > Legislação em Saúde , Sistema Único de Saúde - SUS: Const...'.
+
+------------------------------------------------------------
+
+QUESTÃO 9 [Código: EF0381] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+Assunto: Sinais vitais , Fundamentos e Procedimentos de Enfermagem
+Administrativo - Saúde/40h É um sinal vital:
+
+  [A] perfusão alvéolo-capilar
+  [B] pressão coloidosmótica
+  [C] frequência respiratória
+  [D] peso corporal 462 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'perfusão alvéolo-capilar...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'pressão coloidosmótica...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'frequência respiratória...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'peso corporal 462 Ano: 2024...'.
+
+------------------------------------------------------------
+
+QUESTÃO 10 [Código: EF0382] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+Assunto: Sinais vitais , Fundamentos e Procedimentos de Enfermagem
+Administrativo - Saúde/40h Ao se aferir a frequência respiratória do paciente, obtém-se o seguinte valor: 20 respirações por minuto. Esse resultado indica a seguinte classificação da frequência respiratória do paciente:
+
+  [A] eupneia
+  [B] bradipneia
+  [C] taquipneia leve
+  [D] taquipneia grave 463 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'taquipneia leve...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'taquipneia grave 463 Ano: 2024...'.
+
+------------------------------------------------------------
+
+QUESTÃO 11 [Código: EF0383] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+Assunto: Sinais vitais , Fundamentos e Procedimentos de Enfermagem
+Administrativo - Saúde/40h Uma enfermeira realiza a avaliação dos sinais vitais de um paciente adulto consciente e em repouso. Ao aferir a pressão arterial do paciente, obtém os seguintes valores: 130/80 mmHg. A pressão arterial do paciente pode ser classificada como:
+
+  [A] hipertensão arterial grau
+  [B] pressão arterial normal
+  [C] hipotensão arterial
+  [D] pré-hipertensão 464 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'hipertensão arterial grau...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'pressão arterial normal...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'hipotensão arterial...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'pré-hipertensão 464 Ano: 2024...'.
+
+------------------------------------------------------------
+
+QUESTÃO 12 [Código: EF0393] - Prefeitura de Água Boa - MT (SELECON 2024) - Enfermeiro
+Assunto: Sinais vitais , Fundamentos e Procedimentos de Enfermagem
+Administrativo - Saúde/40h Dentre os seguintes sinais vitais, o que é uma medida da quantidade de oxigênio transportada pelo sangue, expressa em porcentagem, é a:
+
+  [A] pressão arterial sistólica
+  [B] frequência respiratória
+  [C] saturação de oxigênio
+  [D] frequência cardíaca
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'pressão arterial sistólica...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'frequência respiratória...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'saturação de oxigênio...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'frequência cardíaca...'.
+
+------------------------------------------------------------
+
+QUESTÃO 13 [Código: EF0476] - Prefeitura de Barra do Garças - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Sinais vitais , Fundamentos e Procedimentos de Enfermagem
+Técnico em Enfermagem Em adulto, é classificado como hipertermia a temperatura oral acima de:
+
+  [A] 37,2 °C
+  [B] 37,5 °C
+  [C] 38,0 °C
+  [D] 38,5 °C 137 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '38,5 °C 137 Ano: 2025...'.
+
+------------------------------------------------------------
+
+QUESTÃO 14 [Código: EF0479] - Prefeitura de Barra do Garças - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Sinais vitais , Fundamentos e Procedimentos de Enfermagem
+Técnico em Enfermagem Para evitar erro de leitura decorrente do gap auscultatório durante a aferição da pressão arterial, o profi ssional deve:
+
+  [A] insuflar o manguito rapidamente até 80 mmHg acima do habitual
+  [B] utilizar estetoscópio com membrana pediátrica para maior precisão
+  [C] utilizar exclusivamente a técnica palpatória para aferição da diastólica
+  [D] realizar previamente a técnica palpatória para estimar a pressão sistólica real 140 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Com base nas Diretrizes de Cuidados Críticos e Atendimento em Emergências Cardiovasculares, a instabilidade hemodinâmica precoce (choque compensado) manifesta-se tipicamente por respostas neuroendócrinas compensatórias: taquicardia e taquipneia para manter a oferta tecidual de oxigênio, associadas a sinais de vasoconstrição periférica (palidez, extremidades frias e tempo de enchimento capilar lentificado). Aguardar hipotensão grave significa atrasar o reconhecimento do choque. Assim, a assertiva [] ('') é a correta.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'insuflar o manguito rapidamente até 80 mmHg acima do habitual...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar estetoscópio com membrana pediátrica para maior precisão...'.
+   • Alternativa C: Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar previamente a técnica palpatória para estimar a pressão sistólica real 140 Ano: 2...'.
+
+------------------------------------------------------------
+

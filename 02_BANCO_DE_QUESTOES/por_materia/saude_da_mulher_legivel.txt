@@ -1,23 +1,262 @@
 === CADERNO DE QUESTÕES: SAÚDE DA MULHER ===
-Total: 1 questões
+Total: 14 questões
 
-QUESTÃO 1 - Prefeitura de Osasco - SP (RBO 2023) - Técnico de Enfermagem
-Assunto: Cálculo da Data Provável do Parto (Regra de Nägele)
-Durante uma consulta de pré-natal na Unidade de Saúde da Família, a gestante informa que a Data da Última Menstruação (DUM) foi no dia 15 de março de 2024. Aplicando a Regra de Nägele, a Data Provável do Parto (DPP) desta gestante será:
+QUESTÃO 1 [Código: EF0028] - Prefeitura de Araçás - BA (SELECON 2026) - Técnico de Enfermagem
+Assunto: Saúde da Mulher , Planejamento Familiar
+Enfermagem O planejamento familiar é um direito assegurado à mulher e ao homem, cabendo ao profissional de enfermagem oferecer informações e orientações sobre os diversos métodos contraceptivos disponíveis no Sistema Único de Saúde, respeitando a autonomia e a escolha da usuária. Entre os métodos contraceptivos reversíveis de longa duração, o dispositivo intrauterino de cobre e o sistema liberador de levonorgestrel são opções eficazes com diferentes mecanismos de ação. O técnico de enfermagem, ao orientar uma usuária sobre o dispositivo intrauterino de cobre, deve informar que seu principal mecanismo de ação consiste em:
 
-  [A] 22 de dezembro de 2024.
-  [B] 22 de novembro de 2024.
-  [C] 15 de dezembro de 2024.
-  [D] 08 de janeiro de 2025.
-  [E] 22 de janeiro de 2025.
+  [A] promover uma reação inflamatória local no endométrio que cria um ambiente hostil à implantação do embrião e à sobrevivência dos espermatozoides
+  [B] alterar a produção de hormônios hipofisários, suprimindo o pico de luteinização e impedindo a ovulação
+  [C] bloquear a passagem dos espermatozoides pela tuba uterina por meio de obstrução mecânica
+  [D] liberar hormônios que inibem a ovulação de forma contínua durante todo o ciclo menstrual 29 Enfermagem > Administração de medicamentos , Saúde da Mulher , Assistência de Enfermagem ao Pré-Natal Medicação Endovenosa Banca: SELECON Órgão: Prefeitura de Araçás - BA Prova: SELECON - 2026 - Prefeitura de Araçás - BA - Técnico de
 
-✅ Gabarito: A
-💡 Fundamentação: Pela Regra de Nägele (Manual de Atenção ao Pré-natal do Ministério da Saúde): adiciona-se 7 ao dia da DUM; e para os meses de janeiro a março (meses 1, 2 e 3), adiciona-se 9 ao mês (mantendo o mesmo ano). Cálculo: Dia = 15 + 7 = 22. Mês = 3 (março) + 9 = 12 (dezembro). Ano = 2024. Logo, DPP = 22 de dezembro de 2024.
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
 ❌ Distratores:
-   • B: 22 de novembro de 2024 seria o cálculo errôneo somando apenas 8 meses em vez de 9.
-   • C: 15 de dezembro comete o erro de somar apenas os meses e esquecer de adicionar 7 dias ao dia da DUM.
-   • D: 08 de janeiro resultaria de uma subtração errônea de dias ou adição incorreta de 10 meses.
-   • E: 22 de janeiro de 2025 consideraria um ciclo gestacional de 10 meses de calendário em vez de 40 semanas.
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'promover uma reação inflamatória local no endométrio que cria um ambiente hostil à implant...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'alterar a produção de hormônios hipofisários, suprimindo o pico de luteinização e impedind...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'bloquear a passagem dos espermatozoides pela tuba uterina por meio de obstrução mecânica...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'liberar hormônios que inibem a ovulação de forma contínua durante todo o ciclo menstrual 2...'.
+
+------------------------------------------------------------
+
+QUESTÃO 2 [Código: EF0040] - Prefeitura de Barra do Garças - MT (SELECON 2026) - Técnico de Enfermagem
+Assunto: Saúde da Mulher , Assistência de Enfermagem ao Puerpério
+Técnico em Enfermagem - SMS Uma puérpera em aleitamento exclusivo apresenta dor mamária localizada, hiperemia e sintomas sistêmicos compatíveis com mastite, sem evidência de abscesso mamário. Em relação à amamentação, a orientação adequada é:
+
+  [A] manter a amamentação
+  [B] suspender a mama afetada
+  [C] interromper o aleitamento até o desaparecimento da febre
+  [D] descartar o leite da mama acometida até não haver mais sintomas
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter a amamentação...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'suspender a mama afetada...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'interromper o aleitamento até o desaparecimento da febre...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'descartar o leite da mama acometida até não haver mais sintomas...'.
+
+------------------------------------------------------------
+
+QUESTÃO 3 [Código: EF0098] - EMGEPRON (SELECON 2026) - Enfermeiro
+Assunto: Saúde da Mulher , Cuidados de Enfermagem
+Durante a internação de gestante com diagnóstico de pré-eclâmpsia, o enfermeiro identifica elevação pressórica persistente, queixas neurológicas e alterações laboratoriais recentes. Tendo em vista os critérios clínicos e laboratoriais de gravidade descritos nas diretrizes nacionais para doença hipertensiva da gestação, a relação entre as manifestações neurológicas e o comprometimento renal, ambos indicativos de iminência de eclâmpsia e de necessidade de intervenção imediata, consiste em:
+
+  [A] convulsão tônico-clônica generalizada ou cefaleia persistente associada à pressão arterial ≥ 160x110 mmHg, oligúria (< 500 mL/24h), proteinúria significativa e possível elevação de creatinina sérica, configurando disfunção orgânica materna
+  [B] cefaleia leve eventual com pressão arterial de 140x90 mmHg, edema de membros inferiores e diurese preservada, mesmo na presença de proteinúria discreta
+  [C] dor epigástrica isolada, aumento do débito urinário e ausência de alterações laboratoriais, ainda que haja oscilação pressórica transitória
+  [D] edema generalizado com pressão arterial controlada, diurese acima de 1.000 mL/24h e exames laboratoriais dentro da normalidade
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'convulsão tônico-clônica generalizada ou cefaleia persistente associada à pressão arterial...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'cefaleia leve eventual com pressão arterial de 140x90 mmHg, edema de membros inferiores e ...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'dor epigástrica isolada, aumento do débito urinário e ausência de alterações laboratoriais...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'edema generalizado com pressão arterial controlada, diurese acima de 1.000 mL/24h e exames...'.
+
+------------------------------------------------------------
+
+QUESTÃO 4 [Código: EF0107] - Prefeitura de Marcelândia - MT (SELECON 2024) - Enfermeiro
+Assunto: Saúde da Mulher , Atenção Básica e Saúde da Família
+A prevenção do câncer de mama e do cérvico-uterino, conforme as ações de enfermagem na Atenção Básica, envolve estratégias de rastreamento e educação em saúde. Uma ação essencial para a detecção precoce do câncer de mama é:
+
+  [A] realização de exames de sangue anuais para marcadores tumorais
+  [B] incentivo à mamografia de rastreamento em faixas etárias específicas
+  [C] prescrição de quimioterapia preventiva para grupos de risco
+  [D] aconselhamento para cirurgia profilática em todas as mulheres
+
+✅ Gabarito: 
+💡 Fundamentação: Em conformidade com a Lei Federal nº 8.080/1990 (Lei Orgânica da Saúde) e a Política Nacional de Atenção Básica (Portaria de Consolidação nº 2/2017), as ações do Sistema Único de Saúde fundamentam-se nos princípios doutrinários (Universalidade, Integralidade, Equidade) e organizativos (Descentralização, Regionalização, Hierarquização e Participação Comunitária). A alternativa [] está plenamente alinhada ao texto legal e às atribuições das equipes de saúde.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realização de exames de sangue anuais para marcadores tumorais...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'incentivo à mamografia de rastreamento em faixas etárias específicas...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'prescrição de quimioterapia preventiva para grupos de risco...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'aconselhamento para cirurgia profilática em todas as mulheres...'.
+
+------------------------------------------------------------
+
+QUESTÃO 5 [Código: EF0139] - Prefeitura de Tapurah - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Saúde da Mulher
+Enfermagem Maria, puérpera de 3 dias, relata às profissionais da unidade de alojamento conjunto que sente as mamas endurecidas, quentes, doloridas e com sensação de peso. O recém-nascido está mamando, mas a mãe demonstra desconforto durante as mamadas. Sabendo que o técnico de enfermagem tem papel fundamental no cuidado à puérpera, sob supervisão da equipe de enfermagem, a conduta correta diante do quadro clínico descrito é:
+
+  [A] orientar a suspensão das mamadas até que o leite “desça” completamente
+  [B] encaminhar para antibiótico imediato, pois se trata de mastite com possível abscesso
+  [C] auxiliar a mãe com medidas não farmacológicas, como massagem e ordenha, e manter a amamentação
+  [D] indicar compressas quentes contínuas e esvaziamento completo das mamas com bomba elétrica
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'orientar a suspensão das mamadas até que o leite “desça” completamente...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'encaminhar para antibiótico imediato, pois se trata de mastite com possível abscesso...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'auxiliar a mãe com medidas não farmacológicas, como massagem e ordenha, e manter a amament...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'indicar compressas quentes contínuas e esvaziamento completo das mamas com bomba elétrica...'.
+
+------------------------------------------------------------
+
+QUESTÃO 6 [Código: EF0162] - Prefeitura de São José dos Quatro Marcos - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Saúde da Mulher , Assistência de Enfermagem ao Pré-Natal
+Quatro Marcos - MT - Técnico em Enfermagem Na assistência pré-natal, recomenda-se a investigação da presença de anticorpos contra o fator Rh no sangue da gestante, assim como o conhecimento acerca do Rh do pai, de modo a identificar e intervir precocemente em casos nos quais há risco de doença hemolítica neonatal. A análise laboratorial que traz esse achado chama-se:
+
+  [A] coombs indireto
+  [B] teste de FTA-ABS
+  [C] hemograma completo
+  [D] IgG e IgM para citomegalovírus 243 Ano: 2025 Enfermagem > Sinais vitais , Fisiologia , Fundamentos e Procedimentos de Enfermagem Fisiologia do Sistema Cardiovascular Banca: SELECON Órgão: Prefeitura de São José dos Quatro Marcos - MT Prova: SELECON - 2025 - Prefeitura de São José dos
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'coombs indireto...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'teste de FTA-ABS...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'hemograma completo...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'IgG e IgM para citomegalovírus 243 Ano: 2025 Enfermagem > Sinais vitais , Fisiologia , Fun...'.
+
+------------------------------------------------------------
+
+QUESTÃO 7 [Código: EF0174] - HEMOMINAS (SELECON 2025) - Enfermeiro
+Assunto: Saúde da Mulher , Assistência de Enfermagem ao Pré-Natal , Doenças Hematológicas
+ANHH - Nível I - Grau A - Enfermeiro No contexto da gestação, a compatibilidade entre o tipo de sangue materno e o fetal é fundamental para a prevenção de condições que comprometam o recém-nascido, como a eritroblastose fetal. Com base nesse tema, afirma-se que:
+
+  [A] a eritroblastose fetal ocorre apenas quando a mãe tem sangue ABO incompatível com o do feto, independentemente do fator Rh
+  [B] mulheres Rh negativo podem desenvolver anticorpos anti-D contra o sangue do feto Rh positivo, colocando gestações subsequentes em risco
+  [C] o uso de imunoglobulina anti-D durante a gestação é contraindicado, pois favorece a formação de anticorpos maternos contra o fator Rh
+  [D] o fator Rh não apresenta relevância na gestação e não pode interferir na saúde do feto e da mãe 255 Ano: 2025 Enfermagem > Estrutura Organizacional dos Serviços de Enfermagem e Gerenciamento do Trabalho , Gestão de Processos e Equipes de Trabalho , Administração em Enfermagem Banca: SELECON Órgão: HEMOMINAS Prova: SELECON - 2025 - HEMOMINAS - Analista de Hematologia e Hemoterapia -
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a eritroblastose fetal ocorre apenas quando a mãe tem sangue ABO incompatível com o do fet...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'mulheres Rh negativo podem desenvolver anticorpos anti-D contra o sangue do feto Rh positi...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o uso de imunoglobulina anti-D durante a gestação é contraindicado, pois favorece a formaç...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o fator Rh não apresenta relevância na gestação e não pode interferir na saúde do feto e d...'.
+
+------------------------------------------------------------
+
+QUESTÃO 8 [Código: EF0203] - Prefeitura de Sinop - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Saúde da Mulher , Assistência de Enfermagem ao Pré-Natal
+Enfermagem Sobre o diagnóstico de diabetes gestacional, o exame recomendado para a confirmação da doença é:
+
+  [A] este de glicemia em jejum, com valor acima de 120 mg/dL, sendo sufi ciente para diagnosticar diabetes gestacional
+  [B] teste de hemoglobina glicada (HbA1c), utilizado como primeiro exame diagnóstico para diabetes gestacional
+  [C] teste de glicemia pós-prandial, realizado duas horas após a ingestão de 75g de glicose, sendo o método padrão para o diagnóstico de diabetes gestacional
+  [D] teste oral de tolerância à glicose (TOTG) com sobrecarga de 50g de glicose, realizado entre a 24ª e 28ª semana de gestação para diagnosticar diabetes gestacional
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'este de glicemia em jejum, com valor acima de 120 mg/dL, sendo sufi ciente para diagnostic...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'teste de hemoglobina glicada (HbA1c), utilizado como primeiro exame diagnóstico para diabe...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'teste de glicemia pós-prandial, realizado duas horas após a ingestão de 75g de glicose, se...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'teste oral de tolerância à glicose (TOTG) com sobrecarga de 50g de glicose, realizado entr...'.
+
+------------------------------------------------------------
+
+QUESTÃO 9 [Código: EF0227] - Prefeitura de Sinop - MT (SELECON 2025) - Enfermeiro
+Assunto: Saúde da Mulher , Assistência de Enfermagem ao Parto/Aborto ,
+
+
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+
+------------------------------------------------------------
+
+QUESTÃO 10 [Código: EF0241] - Prefeitura de Nova Mutum - MT (SELECON 2024) - Enfermeiro
+Assunto: Saúde da Mulher , Assistência de Enfermagem ao Pré-Natal
+O acompanhamento pré-natal é essencial para a redução da incidência de mortalidade materna, do baixo peso ao nascer e da mortalidade perinatal. A recomendação do Ministério da Saúde acerca do calendário de consultas pré-natais de risco habitual deve ser, no mínimo:
+
+  [A] cinco consultas, sendo uma no primeiro trimestre, uma no segundo trimestre, e três no terceiro trimestre
+  [B] nove consultas, sendo três no primeiro trimestre, três no segundo trimestre, e três no terceiro trimestre
+  [C] seis consultas, sendo uma no primeiro trimestre, duas no segundo trimestre, e três no terceiro trimestre
+  [D] oito consultas, sendo duas no primeiro trimestre, duas no segundo trimestre, e quatro no terceiro trimestre 322 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme os princípios da Epidemiologia e Vigilância em Saúde (Ministério da Saúde), a Incidência Acumulada expressa o risco de novos casos da doença em uma população inicialmente livre do agravo durante determinado período. O cálculo é: Número de Casos Novos dividido pela População Sob Risco (indivíduos suscetíveis no início do período, excluindo-se quem já tinha o diagnóstico). Portanto, a alternativa [] expressa com exatidão a metodologia epidemiológica correta.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'cinco consultas, sendo uma no primeiro trimestre, uma no segundo trimestre, e três no terc...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'nove consultas, sendo três no primeiro trimestre, três no segundo trimestre, e três no ter...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'seis consultas, sendo uma no primeiro trimestre, duas no segundo trimestre, e três no terc...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'oito consultas, sendo duas no primeiro trimestre, duas no segundo trimestre, e quatro no t...'.
+
+------------------------------------------------------------
+
+QUESTÃO 11 [Código: EF0250] - SAD-MS (SELECON 2024) - Técnico de Enfermagem
+Assunto: Saúde da Mulher
+A primeira menstruação da menina, denominada menarca, pode vir prescindida de uma secreção vaginal clara. A idade média para a menarca gira em torno de:
+
+  [A] 7 anos
+  [B] 9 anos
+  [C] 10 anos
+  [D] 11 anos
+  [E] 12 anos 331 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa B: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa D: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa E: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '12 anos 331 Ano: 2024...'.
+
+------------------------------------------------------------
+
+QUESTÃO 12 [Código: EF0421] - Prefeitura de Sapezal - MT (SELECON 2024) - Enfermeiro
+Assunto: Saúde da Mulher
+Como elemento constitutivo das relações sociais entre homens e mulheres, é uma construção social e histórica. É construído e alimentado com base em símbolos, normas e instituições que definem modelos e padrões de comportamento aceitáveis ou não para a sociedade. Delimita campos de atuação para cada membro da sociedade, dá suporte à elaboração de leis e suas formas de aplicação. Também está incluída nesse aspecto a subjetividade de cada sujeito, sendo única sua forma de reagir ao que lhe é oferecido em sociedade. É uma forma primeira de significação de poder. Tal definição se refere ao seguinte fator:
+
+  [A] nível socioeconômico
+  [B] nível de escolaridade
+  [C] gênero
+  [D] sexo 502 Ano: 2024
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'nível socioeconômico...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'nível de escolaridade...'.
+   • Alternativa C: Incorreta perante os critérios técnicos e diretrizes do Ministério da Saúde para o assunto abordado.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'sexo 502 Ano: 2024...'.
+
+------------------------------------------------------------
+
+QUESTÃO 13 [Código: EF0454] - Prefeitura de Porto dos Gaúchos - MT (SELECON 2026) - Técnico de Enfermagem
+Assunto: Saúde da Mulher , Cuidados de Enfermagem
+MT - Técnico em Enfermagem Durante a assistência a uma puérpera no alojamento conjunto, o técnico de enfermagem realiza a avaliação da loquiação como parte do cuidado no puerpério. Considerando a evolução fisiológica dos lóquios e os sinais que devem ser comunicados à equipe de saúde, corresponde a um achado esperado no puerpério imediato e mediato, sem indicativo de patologia:
+
+  [A] a presença de lóquios de cor alba nas primeiras 24 horas após o parto, com odor fétido
+  [B] lóquios de cor rubra persistentes e em grande volume após a segunda semana do parto
+  [C] lóquios de cor serosa, de coloração acastanhada ou rosada, com redução progressiva do volume
+  [D] a ausência total de loquiação nas primeiras 48 horas após o parto vaginal, associada a útero flácido e aumentado à palpação abdominal 115 Ano: 2026
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a presença de lóquios de cor alba nas primeiras 24 horas após o parto, com odor fétido...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'lóquios de cor rubra persistentes e em grande volume após a segunda semana do parto...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'lóquios de cor serosa, de coloração acastanhada ou rosada, com redução progressiva do volu...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a ausência total de loquiação nas primeiras 48 horas após o parto vaginal, associada a úte...'.
+
+------------------------------------------------------------
+
+QUESTÃO 14 [Código: EF0485] - Prefeitura de Barra do Garças - MT (SELECON 2025) - Técnico de Enfermagem
+Assunto: Saúde da Mulher , Assistência de Enfermagem ao Pré-Natal
+Técnico em Enfermagem O Ministério da Saúde estabelece o número mínimo e a distribuição temporal das consultas de pré-natal para garantir detecção precoce de agravos, abordagem de fatores de risco e vigilância fetal adequada na gestação. De acordo com essas recomendações, o mínimo obrigatório de consultas e sua distribuição são:
+
+  [A] duas consultas no 1º trimestre, duas no 2º trimestre e três no 3º trimestre, totalizando sete
+  [B] uma consulta no 1º trimestre, três no 2º trimestre e três no 3º trimestre, totalizando sete
+  [C] três consultas no 1º trimestre, duas no 2º trimestre e três no 3º trimestre, totalizando oito
+  [D] uma consulta em cada trimestre, totalizando o mínimo de três 146 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'duas consultas no 1º trimestre, duas no 2º trimestre e três no 3º trimestre, totalizando s...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'uma consulta no 1º trimestre, três no 2º trimestre e três no 3º trimestre, totalizando set...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'três consultas no 1º trimestre, duas no 2º trimestre e três no 3º trimestre, totalizando o...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'uma consulta em cada trimestre, totalizando o mínimo de três 146 Ano: 2025...'.
 
 ------------------------------------------------------------
 

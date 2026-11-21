@@ -1,0 +1,114 @@
+[
+  {
+    "codigo_origem": "Q2528677",
+    "banca": "SELECON",
+    "orgao": "SAD-MS",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Técnico de Enfermagem",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Promoção da Saúde",
+    "enunciado": "Segundo a Organização Mundial de Saúde (OMS), saúde é um estado de completo bem-estar físico, mental e social e não somente ausência de afecções e enfermidades. Para fatores sociais, utilizam-se as Determinantes Sociais de Saúde que se referem a acontecimentos, fatos, situações e comportamentos da vida:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "individual e coletiva"
+      },
+      {
+        "id": "B",
+        "texto": "política, cultural e subjetiva"
+      },
+      {
+        "id": "C",
+        "texto": "econômica, individual e coletiva"
+      },
+      {
+        "id": "D",
+        "texto": "econômica, social, política, cultural e subjetiva"
+      },
+      {
+        "id": "E",
+        "texto": "econômica, social, governamental, política, cultural e subjetiva 350 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0269",
+    "numero_ordem": 269,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'individual e coletiva...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'política, cultural e subjetiva...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'econômica, individual e coletiva...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'econômica, social, política, cultural e subjetiva...'."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'econômica, social, governamental, política, cultural e subjetiva 350 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3802703",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Garças - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Promoção da Saúde , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "Nas doenças crônico-degenerativas, um aspecto comum relacionado ao estilo de vida é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "associação frequente com sedentarismo, alimentação inadequada e tabagismo"
+      },
+      {
+        "id": "B",
+        "texto": "relação exclusiva com traumas físicos agudos, sem influência de hábitos diários"
+      },
+      {
+        "id": "C",
+        "texto": "dependência apenas de predisposição genética, sem qualquer fator modificável"
+      },
+      {
+        "id": "D",
+        "texto": "vínculo direto apenas com infecções virais de curta duração 164 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0503",
+    "numero_ordem": 503,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'associação frequente com sedentarismo, alimentação inadequada e tabagismo...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'relação exclusiva com traumas físicos agudos, sem influência de hábitos diários...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'dependência apenas de predisposição genética, sem qualquer fator modificável...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'vínculo direto apenas com infecções virais de curta duração 164 Ano: 2025...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  }
+]

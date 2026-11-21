@@ -1,0 +1,60 @@
+=== CADERNO DE QUESTÕES: EXAMES LABORATORIAIS ===
+Total: 3 questões
+
+QUESTÃO 1 [Código: EF0086] - EMGEPRON (SELECON 2026) - Enfermeiro
+Assunto: Exames Laboratoriais
+Paciente adulto hospitalizado apresenta náuseas, confusão mental progressiva e rebaixamento do nível de consciência. Exames laboratoriais evidenciam sódio sérico de 122 mEq/L. Acerca da fisiopatologia da hiponatremia, pode-se afirmar que:
+
+  [A] a hiponatremia provoca aumento da osmolaridade plasmática, desencadeando desidratação celular generalizada, com predomínio de sede intensa, hiperexcitabilidade neuromuscular e risco aumentado de arritmias cardíacas decorrentes da instabilidade eletrolítica sistêmica
+  [B] a redução do sódio sérico diminui a osmolaridade plasmática, favorecendo deslocamento de água para o meio intracelular, com risco de edema cerebral, exigindo monitorização neurológica rigorosa
+  [C] as manifestações neurológicas associadas à hiponatremia decorrem exclusivamente de falência renal aguda, independentemente de alterações osmóticas
+  [D] a hiponatremia apresenta repercussão predominantemente cardiovascular, não sendo causa frequente de alterações do estado mental
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a hiponatremia provoca aumento da osmolaridade plasmática, desencadeando desidratação celu...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a redução do sódio sérico diminui a osmolaridade plasmática, favorecendo deslocamento de á...'.
+   • Alternativa C: Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a hiponatremia apresenta repercussão predominantemente cardiovascular, não sendo causa fre...'.
+
+------------------------------------------------------------
+
+QUESTÃO 2 [Código: EF0169] - HEMOMINAS (SELECON 2025) - Enfermeiro
+Assunto: Exames Laboratoriais , Fisiologia , Sistema Hematopoiético
+ANHH - Nível I - Grau A - Enfermeiro O transporte de hemoderivados é uma etapa crítica na cadeia de hemoterapia, exigindo rigorosos controles para garantir a qualidade e a segurança dos produtos. Sobre os procedimentos e as normas para o transporte de hemoderivados, afirma-se que:
+
+  [A] o transporte de concentrado de hemácias deve ser realizado em temperatura ambiente, desde que o tempo de transporte não exceda 24 horas, para evitar a degradação dos componentes celulares
+  [B] a temperatura ideal para o transporte de plaquetas é de 1°C a 6°C, semelhante à temperatura de armazenamento do concentrado de hemácias, para manter a viabilidade das plaquetas
+  [C] o plasma fresco congelado (PFC) deve ser transportado em temperatura de -18°C ou inferior, garantindo a preservação dos fatores de coagulação até o momento do uso
+  [D] o transporte de hemoderivados pode ser realizado sem monitorização contínua da temperatura, desde que o recipiente esteja devidamente identificado e lacrado 250 Ano: 2025 Enfermagem > Promoção da Saúde , Doenças Respiratórias , Cuidados de Enfermagem Doenças Crônicas Não Transmissíveis Banca: SELECON Órgão: HEMOMINAS Prova: SELECON - 2025 - HEMOMINAS - Analista de Hematologia e Hemoterapia -
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o transporte de concentrado de hemácias deve ser realizado em temperatura ambiente, desde ...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a temperatura ideal para o transporte de plaquetas é de 1°C a 6°C, semelhante à temperatur...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o plasma fresco congelado (PFC) deve ser transportado em temperatura de -18°C ou inferior,...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o transporte de hemoderivados pode ser realizado sem monitorização contínua da temperatura...'.
+
+------------------------------------------------------------
+
+QUESTÃO 3 [Código: EF0188] - HEMOMINAS (SELECON 2025) - Enfermeiro
+Assunto: Exames Laboratoriais , Fisiologia , Sistema Hematopoiético
+ANHH - Nível I - Grau A - Enfermeiro Na tipagem sanguínea, a principal interação avaliada é a reação entre os antígenos das hemácias e os anticorpos presentes no soro sanguíneo. Logo, é correto afirmar que:
+
+  [A] indivíduos do grupo sanguíneo AB possuem anticorpos anti-A e anti-B em seu plasma, o que os torna receptores restritos
+  [B] o grupo sanguíneo B positivo é incompatível com qualquer unidade de sangue proveniente de um doador do grupo O negativo
+  [C] o grupo sanguíneo O negativo é considerado universal para transfusões sanguíneas porque não possui antígenos A, B ou Rh em suas hemácias
+  [D] a presença de anticorpos anti-D nos indivíduos Rh positivo facilita as transfusões vindas de doadores Rh negativo 269 Ano: 2025
+
+✅ Gabarito: 
+💡 Fundamentação: Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.
+❌ Distratores:
+   • Alternativa A: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'indivíduos do grupo sanguíneo AB possuem anticorpos anti-A e anti-B em seu plasma, o que o...'.
+   • Alternativa B: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o grupo sanguíneo B positivo é incompatível com qualquer unidade de sangue proveniente de ...'.
+   • Alternativa C: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o grupo sanguíneo O negativo é considerado universal para transfusões sanguíneas porque nã...'.
+   • Alternativa D: Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a presença de anticorpos anti-D nos indivíduos Rh positivo facilita as transfusões vindas ...'.
+
+------------------------------------------------------------
+

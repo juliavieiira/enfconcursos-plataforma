@@ -1,0 +1,314 @@
+[
+  {
+    "codigo_origem": "Q3981935",
+    "banca": "SELECON",
+    "orgao": "EMGEPRON",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - EMGEPRON - Técnico em Enfermagem",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em Centro Cirúrgico , Pós-Operatório",
+    "enunciado": "Um paciente adulto é admitido para procedimento cirúrgico eletivo e passa pelas etapas pré, trans e pós-operatória sob acompanhamento da equipe de enfermagem. Considerando as atribuições do técnico de enfermagem em cada fase do período perioperatório, no:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "período pré-operatório, cabe ao técnico de enfermagem realizar exclusivamente a prescrição de cuidados e o planejamento cirúrgico"
+      },
+      {
+        "id": "B",
+        "texto": "período transoperatório, a responsabilidade do técnico de enfermagem limita-se ao transporte do paciente, não incluindo cuidados de posicionamento"
+      },
+      {
+        "id": "C",
+        "texto": "pós-operatório imediato, o técnico de enfermagem deve monitorar sinais vitais, nível de consciência, dor e possíveis complicações, comunicando alterações à equipe"
+      },
+      {
+        "id": "D",
+        "texto": "período transoperatório, o técnico de enfermagem atua apenas na esterilização dos materiais, sem participação direta na assistência ao paciente ou no transporte dele"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0062",
+    "numero_ordem": 62,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'período transoperatório, a responsabilidade do técnico de enfermagem limita-se ao transpor...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'pós-operatório imediato, o técnico de enfermagem deve monitorar sinais vitais, nível de co...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'período transoperatório, o técnico de enfermagem atua apenas na esterilização dos materiai...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3617175",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Tapurah - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2025 - Prefeitura de Tapurah - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em Centro Cirúrgico",
+    "enunciado": "Dentro dos princípios da assepsia cirúrgica para a montagem de um campo estéril, uma área específica do campo é convencionalmente considerada contaminada e não deve ser tocada por materiais estéreis. Essa área corresponde:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "a toda a superfície abaixo do nível da cintura"
+      },
+      {
+        "id": "B",
+        "texto": "ao centro do campo, no qual os instrumentos principais são depositados"
+      },
+      {
+        "id": "C",
+        "texto": "à borda externa de 2,5 cm (uma polegada) do campo"
+      },
+      {
+        "id": "D",
+        "texto": "a qualquer área que entre em contato com luvas estéreis"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0132",
+    "numero_ordem": 132,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a toda a superfície abaixo do nível da cintura...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ao centro do campo, no qual os instrumentos principais são depositados...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'à borda externa de 2,5 cm (uma polegada) do campo...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a qualquer área que entre em contato com luvas estéreis...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3199751",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sinop - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Técnico de",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em Centro Cirúrgico , Enfermagem em Central de Material Esterilizado",
+    "enunciado": "Enfermagem O técnico de enfermagem encaminhou materiais utilizados no Centro Cirúrgico para a Central de Material e Esterilização. De modo a garantir que o processamento de artigos hospitalares, como materiais cirúrgicos e equipamentos reutilizáveis, seja realizado de acordo com as normas de biossegurança, a conduta mais indicada é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "o processamento deve iniciar com a lavagem do material em água fria, seguido pela esterilização em autoclave, sem a necessidade de secagem, desde que o material esteja livre de resíduos"
+      },
+      {
+        "id": "B",
+        "texto": "o processamento deve iniciar com a desinfecção simples dos artigos com álcool, seguido pela secagem manual e armazenagem, sem a necessidade de esterilização, já que o álcool é sufi ciente para eliminar os micro-organismos"
+      },
+      {
+        "id": "C",
+        "texto": "o processamento pode ser realizado apenas com a secagem manual e armazenamento do material, pois a esterilização não é necessária para materiais não críticos, como luvas e gazes"
+      },
+      {
+        "id": "D",
+        "texto": "o processamento deve começar com a lavagem do material em água quente e detergente enzimático, seguida pela secagem adequada, esterilização e armazenamento em local adequado, respeitando as orientações de segurança e de controle de infecção"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0204",
+    "numero_ordem": 204,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o processamento deve iniciar com a lavagem do material em água fria, seguido pela esterili...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o processamento deve iniciar com a desinfecção simples dos artigos com álcool, seguido pel...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o processamento pode ser realizado apenas com a secagem manual e armazenamento do material...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'o processamento deve começar com a lavagem do material em água quente e detergente enzimát...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3197485",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sinop - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em Centro Cirúrgico , Trans-Operatório , Segurança do Paciente",
+    "enunciado": "Durante um procedimento cirúrgico complexo em um paciente adulto de 60 anos, com histórico de hipertensão, diabetes tipo 2 e insufi ciência renal crônica, o enfermeiro é responsável pela monitorização contínua dos parâmetros vitais e metabólicos. Considerando as condições pré-existentes do paciente e os efeitos da anestesia geral, a alternativa que melhor descreve a conduta de monitorização e os parâmetros que devem ser avaliados para garantir a segurança do paciente durante a cirurgia é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "a monitorização deve ser limitada a parâmetros hemodinâmicos básicos, como pressão arterial e frequência cardíaca, uma vez que o paciente é clinicamente estável antes do procedimento. Outros parâmetros, como temperatura corporal e diurese, podem ser monitorados de forma intermitente, dependendo da gravidade da cirurgia"
+      },
+      {
+        "id": "B",
+        "texto": "além dos parâmetros hemodinâmicos (pressão arterial, frequência cardíaca), o enfermeiro deve monitorar de forma contínua a saturação de oxigênio, a temperatura corporal, os parâmetros respiratórios (volume corrente, frequência respiratória) e a diurese, levando em consideração os efeitos da anestesia, da comorbidade renal e das possíveis alterações metabólicas"
+      },
+      {
+        "id": "C",
+        "texto": "a monitorização durante o procedimento pode ser restrita à pressão arterial média e à saturação de oxigênio, dado que a anestesia e os medicamentos administrados têm um impacto mínimo nas funções respiratórias e renais, sendo que a temperatura e a diurese não apresentam risco imediato ao paciente"
+      },
+      {
+        "id": "D",
+        "texto": "a monitorização completa, que inclui todos os parâmetros vitais, deve ser feita apenas em pacientes com histórico de doenças cardíacas graves ou em cirurgias de emergência, não sendo necessária em casos de procedimentos programados, como o deste paciente"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0220",
+    "numero_ordem": 220,
+    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a monitorização deve ser limitada a parâmetros hemodinâmicos básicos, como pressão arteria...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'além dos parâmetros hemodinâmicos (pressão arterial, frequência cardíaca), o enfermeiro de...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a monitorização durante o procedimento pode ser restrita à pressão arterial média e à satu...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a monitorização completa, que inclui todos os parâmetros vitais, deve ser feita apenas em ...'."
+      }
+    ],
+    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+  },
+  {
+    "codigo_origem": "Q2477206",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Água Boa - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Água Boa - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em Centro Cirúrgico",
+    "enunciado": "O checklist de cirurgia segura deve ser aplicado em três momentos, pela equipe cirúrgica (cirurgião, anestesista e equipe de enfermagem): antes da indução anestésica, antes da incisão cirúrgica e antes do paciente deixar a sala de cirurgia. A confirmação verbal da identidade do paciente, do sítio cirúrgico e do procedimento será realizada:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "antes da indução anestésica"
+      },
+      {
+        "id": "B",
+        "texto": "antes da incisão cirúrgica"
+      },
+      {
+        "id": "C",
+        "texto": "quando chega na sala"
+      },
+      {
+        "id": "D",
+        "texto": "antes de sair da sala 423 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0342",
+    "numero_ordem": 342,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'antes da indução anestésica...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'antes da incisão cirúrgica...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'quando chega na sala...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'antes de sair da sala 423 Ano: 2024...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3810633",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Garças - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Enfermagem em Centro Cirúrgico , Pós-Operatório",
+    "enunciado": "Técnico em Enfermagem Um paciente submetido à laparotomia exploradora evolui com débito de secreção sero-hemática em dreno tubular. O técnico de enfermagem deve monitorar o sistema, ciente de que o uso do dreno tem finalidade específica e fundamentada. A função primária do dreno tubular de drenagem passiva é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "manter pressão negativa contínua de forma controlada e segura, garantindo a remoção progressiva das coleções profundas, favorecendo a aproximação dos planos teciduais"
+      },
+      {
+        "id": "B",
+        "texto": "impedir o acúmulo de secreções, permitir a detecção precoce de sangramento e reduzir o risco de formação de coleções"
+      },
+      {
+        "id": "C",
+        "texto": "promover irrigação da cavidade operatória e remoção de debris teciduais residuais"
+      },
+      {
+        "id": "D",
+        "texto": "estimular fibras sensoriais periféricas, reduzindo o estímulo nociceptivo 145 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0484",
+    "numero_ordem": 484,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter pressão negativa contínua de forma controlada e segura, garantindo a remoção progre...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'impedir o acúmulo de secreções, permitir a detecção precoce de sangramento e reduzir o ris...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'promover irrigação da cavidade operatória e remoção de debris teciduais residuais...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'estimular fibras sensoriais periféricas, reduzindo o estímulo nociceptivo 145 Ano: 2025...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "codigo_origem": "Q2477215",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Água Boa - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Água Boa - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Intoxicação e Superdosagem , Administração de medicamentos",
+    "enunciado": "O envenenamento ou a intoxicação aguda ocorre quando uma pessoa inala, ou entra em contato direto com a pele, ou ingere alguma substância tóxica. A maior parte dos casos de envenenamento ocorre dentro de casa, com crianças. Em qualquer situação de envenenamento, a vítima deve ser colocada deitada, a sua respiração deve ser observada e, se for necessário, deve-se aplicar a técnica de respiração artificial (boca a boca); deve-se também aquecer a vítima para evitar estado de choque e elevar suas pernas (se não houver suspeita de lesão na coluna). O socorro médico é indispensável. A respiração artificial deve fornecer respiração de resgate a cada 2 ou 3 segundos, ou seja:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "10 a 20 respirações por minuto"
+      },
+      {
+        "id": "B",
+        "texto": "20 a 30 respirações por minuto"
+      },
+      {
+        "id": "C",
+        "texto": "10 a 30 respirações por minuto"
+      },
+      {
+        "id": "D",
+        "texto": "20 a 40 respirações por minuto 414 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0333",
+    "numero_ordem": 333,
+    "fundamentacao_correta": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenidas através do alívio contínuo de pressão mecânica, inspeção rotineira das áreas de contato e correção imediata do ajuste do dispositivo. A conduta descrita na alternativa [] ('') assegura a integridade tecidual e a continuidade segura da terapêutica.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '10 a 20 respirações por minuto...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '20 a 30 respirações por minuto...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '10 a 30 respirações por minuto...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar '20 a 40 respirações por minuto 414 Ano: 2024...'."
+      }
+    ],
+    "comentario": "De acordo com o Protocolo de Prevenção de Lesões por Pressão (Portaria MS/GM nº 529/2013 - Programa Nacional de Segurança do Paciente) e diretrizes internacionais da NPIAP/EPUAP, lesões cutâneas relacionadas a dispositivos médicos devem ser prevenida..."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "codigo_origem": "Q4370021",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Lucas do Rio Verde - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Lucas do Rio Verde -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "AVE / AVC , Doenças Crônicas Não Transmissíveis",
+    "enunciado": "MT - Técnico de Enfermagem - Secretaria de Saúde O protocolo clínico do Ministério da Saúde para o diagnóstico, tratamento e monitoramento clínico do acidente vascular cerebral isquêmico agudo, publicado em 2025, estabelece recomendações que visam a ampliar as opções terapêuticas disponíveis no âmbito do Sistema Único de Saúde. A respeito das medidas iniciais recomendadas para o paciente com suspeita de AVC isquêmico, o protocolo estabelece que a:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "tomografia computadorizada de crânio deve ser realizada em até 4 horas da chegada ao hospital, para excluir hemorragia antes da trombólise"
+      },
+      {
+        "id": "B",
+        "texto": "oxigenoterapia está indicada para todos os pacientes, independentemente da saturação periférica de oxigênio"
+      },
+      {
+        "id": "C",
+        "texto": "trombólise intravenosa está contraindicada em pacientes com mais de 80 anos, independentemente do tempo de início dos sintomas"
+      },
+      {
+        "id": "D",
+        "texto": "internação em unidade de AVC deve ocorrer em até 4 horas da apresentação, com tomografia realizada na primeira hora"
+      }
+    ],
+    "resposta_correta": "D",
+    "id": "EF0016",
+    "numero_ordem": 16,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [D] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: 'internação em unidade de AVC deve ocorrer em até 4 horas da apresentação, com tomografia realizada na primeira hora'.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'tomografia computadorizada de crânio deve ser realizada em até 4 horas da chegada ao hospi...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'oxigenoterapia está indicada para todos os pacientes, independentemente da saturação perif...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'trombólise intravenosa está contraindicada em pacientes com mais de 80 anos, independentem...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [D] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: 'internaçã..."
+  }
+]

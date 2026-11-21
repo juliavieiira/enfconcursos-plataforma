@@ -1,0 +1,834 @@
+[
+  {
+    "codigo_origem": "Q4317373",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Garças - MT",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Barra do Garças - MT -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Saúde do Idoso",
+    "enunciado": "Técnico em Enfermagem - SMS Uma pessoa idosa hospitalizada, previamente comunicativa e independente para as atividades habituais, passa, em poucas horas, a permanecer sonolenta, responder lentamente aos chamados e apresentar dificuldade para manter a atenção. Ao longo do plantão, alterna períodos de maior interação com outros de acentuado retraimento. A alteração que deve ser prontamente reconhecida pela equipe de enfermagem é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "delirium hipoativo"
+      },
+      {
+        "id": "B",
+        "texto": "síndrome demencial inicia"
+      },
+      {
+        "id": "C",
+        "texto": "transtorno depressivo de instalação aguda"
+      },
+      {
+        "id": "D",
+        "texto": "declínio cognitivo esperado em decorrência do envelhecimento"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0046",
+    "numero_ordem": 46,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'delirium hipoativo...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'síndrome demencial inicia...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'transtorno depressivo de instalação aguda...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'declínio cognitivo esperado em decorrência do envelhecimento...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3981932",
+    "banca": "SELECON",
+    "orgao": "EMGEPRON",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - EMGEPRON - Técnico em Enfermagem",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Saúde do Idoso , Cuidados Paliativos na Enfermagem",
+    "enunciado": "Paciente idoso, portador de doença crônica avançada e sem possibilidade de cura, encontra-se em acompanhamento por equipe multiprofissional, apresentando dor persistente e sofrimento emocional. Considerando os princípios que norteiam os cuidados paliativos, a atuação do técnico de enfermagem deve priorizar o(a):",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "realização de intervenções invasivas contínuas com foco exclusivo na reversão do quadro clínico, evitando agravos que possam resultar em óbito"
+      },
+      {
+        "id": "B",
+        "texto": "promoção de medidas de conforto, alívio do sofrimento e respeito à dignidade e às necessidades do paciente"
+      },
+      {
+        "id": "C",
+        "texto": "suspensão dos cuidados assistenciais, mantendo apenas acompanhamento médico periódico"
+      },
+      {
+        "id": "D",
+        "texto": "direcionamento do cuidado exclusivamente para o controle farmacológico dos sintomas"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0065",
+    "numero_ordem": 65,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realização de intervenções invasivas contínuas com foco exclusivo na reversão do quadro cl...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'promoção de medidas de conforto, alívio do sofrimento e respeito à dignidade e às necessid...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'suspensão dos cuidados assistenciais, mantendo apenas acompanhamento médico periódico...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3199757",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sinop - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Técnico de",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Saúde do Idoso",
+    "enunciado": "Enfermagem Em um paciente idoso com quadro clínico de desidratação leve, o enfermeiro opta por realizar hipodermóclise para reposição de líquidos. Após o procedimento, o paciente apresenta melhora no turgor da pele e na frequência urinária. A principal indicação dessa técnica no contexto clínico do paciente é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "pacientes com choque séptico, pois permite uma reposição rápida e eficaz de líquidos"
+      },
+      {
+        "id": "B",
+        "texto": "casos de desidratação leve a moderada e oferece menor risco de complicações relacionadas à infusão intravenosa, sendo bem tolerada em pacientes idosos"
+      },
+      {
+        "id": "C",
+        "texto": "pacientes com insuficiência renal aguda, pois promove uma infusão lenta de líquidos sem sobrecarregar os rins"
+      },
+      {
+        "id": "D",
+        "texto": "exclusivamente em pacientes com insuficiência cardíaca congestiva para reduzir a sobrecarga hídrica e evitar edema pulmonar"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0198",
+    "numero_ordem": 198,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'pacientes com choque séptico, pois permite uma reposição rápida e eficaz de líquidos...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'casos de desidratação leve a moderada e oferece menor risco de complicações relacionadas à...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'pacientes com insuficiência renal aguda, pois promove uma infusão lenta de líquidos sem so...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3199738",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sinop - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Técnico de",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Saúde do Idoso",
+    "enunciado": "Enfermagem A osteoporose é uma condição comum em idosos, caracterizada pela perda de densidade óssea, aumentando o risco de fraturas. No contexto clínico, é essencial que os profissionais de enfermagem adotem condutas adequadas para o manejo dos pacientes com essa condição. Sobre a osteoporose em idosos, é correto afirmar:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "é frequentemente assintomática, sendo descoberta apenas após uma fratura e as condutas de enfermagem devem ser restritas à administração de medicamentos prescritos e monitoramento de sinais vitais"
+      },
+      {
+        "id": "B",
+        "texto": "a avaliação de risco para osteoporose em idosos deve ser feita apenas por meio de exames laboratoriais, sem necessidade de avaliação clínica detalhada, sendo assim, o enfermeiro deve evitar intervenções, uma vez que o tratamento medicamentoso é a principal abordagem terapêutica"
+      },
+      {
+        "id": "C",
+        "texto": "é mais prevalente em homens idosos, devido à diminuição gradual dos níveis de testosterona, sendo as fraturas mais comuns nos membros superiores e cabe ao enfermeiro orientar sobre a medicação, sem necessidade de cuidados específicos quanto à mobilidade do paciente"
+      },
+      {
+        "id": "D",
+        "texto": "os principais fatores de risco para osteoporose em idosos incluem a imobilização prolongada, deficiências nutricionais de cálcio e de vitamina D, além da redução da atividade física. Cabe aos profissionais de enfermagem oferecer orientações sobre a importância de uma alimentação balanceada e de atividades físicas regulares"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0217",
+    "numero_ordem": 217,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'é frequentemente assintomática, sendo descoberta apenas após uma fratura e as condutas de ...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'a avaliação de risco para osteoporose em idosos deve ser feita apenas por meio de exames l...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'é mais prevalente em homens idosos, devido à diminuição gradual dos níveis de testosterona...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'os principais fatores de risco para osteoporose em idosos incluem a imobilização prolongad...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Técnico de Enfermagem, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q2467337",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Água Boa - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Água Boa - MT - Agente",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Saúde do Idoso",
+    "enunciado": "Administrativo - Saúde/40h Em uma Unidade de Saúde da Família (USF), uma enfermeira acompanha há anos uma paciente idosa com histórico de diabetes mellitus tipo 2 e hipertensão arterial. A paciente, apesar das orientações frequentes da enfermeira sobre a importância da adesão ao tratamento medicamentoso e das mudanças no estilo de vida, apresenta níveis glicêmicos e pressões arteriais descontrolados, com risco de complicações graves. A equipe de enfermagem discute a possibilidade de notificar o Conselho Tutelar sobre a situação, considerando a negligência da paciente em relação à própria saúde. A enfermeira deve atuar dentro do arcabouço ético para esse caso da seguinte forma:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "notificar imediatamente o Conselho Tutelar, pois a paciente demonstra negligência com a própria saúde e coloca em risco sua vida"
+      },
+      {
+        "id": "B",
+        "texto": "convidar a família da paciente para uma reunião na USF, a fim de discutir o caso e buscar soluções conjuntas para a adesão ao tratamento"
+      },
+      {
+        "id": "C",
+        "texto": "encaminhar a paciente para um psicólogo ou assistente social, considerando que a falta de adesão ao tratamento pode ter causas psicológicas ou sociais"
+      },
+      {
+        "id": "D",
+        "texto": "realizar uma nova consulta individual com a paciente para discutir abertamente os riscos do não tratamento e tentar convencê-la da importância de aderir às orientações 466 Ano: 2024"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0385",
+    "numero_ordem": 385,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Abaixar a cabeceira logo após a infusão anula a ação da gravidade e favorece a regurgitação gástrica com risco iminente de broncoaspiração."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'convidar a família da paciente para uma reunião na USF, a fim de discutir o caso e buscar ...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'encaminhar a paciente para um psicólogo ou assistente social, considerando que a falta de ...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar uma nova consulta individual com a paciente para discutir abertamente os riscos d...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3743099",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Marcelândia - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Marcelândia - MT - Cuidador",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Saúde do Idoso , Cuidados de Enfermagem",
+    "enunciado": "de Idosos No cuidado ao portador de Doença de Parkinson, o cuidador deve compreender que os tremores, rigidez muscular e instabilidade postural comprometem não apenas a mobilidade, mas também a capacidade de alimentação, higiene e locomoção autônoma. Uma assistência efetiva requer atenção às oscilações motoras ao longo do dia e à importância de administrar os medicamentos antiparkinsonianos em horários rigorosamente estipulados, garantindo o máximo de eficácia terapêutica e prevenindo crises de imobilidade. Assim, diante de um idoso parkinsoniano que apresenta dificuldade para engolir e risco de engasgo durante as refeições, a atitude mais segura e tecnicamente correta do cuidador é adotar a estratégia seguinte:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "oferecer alimentos sólidos para fortalecer os músculos da deglutição"
+      },
+      {
+        "id": "B",
+        "texto": "estimular o idoso a ingerir líquidos rapidamente para facilitar a passagem do alimento"
+      },
+      {
+        "id": "C",
+        "texto": "fornecer alimentos em consistência pastosa, em pequenas porções, mantendo postura ereta durante a alimentação"
+      },
+      {
+        "id": "D",
+        "texto": "administrar o medicamento antiparkinsoniano junto às refeições, sem respeitar os intervalos prescritos 170 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0509",
+    "numero_ordem": 509,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'oferecer alimentos sólidos para fortalecer os músculos da deglutição...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'estimular o idoso a ingerir líquidos rapidamente para facilitar a passagem do alimento...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'fornecer alimentos em consistência pastosa, em pequenas porções, mantendo postura ereta du...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administrar o medicamento antiparkinsoniano junto às refeições, sem respeitar os intervalo...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3743098",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Marcelândia - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Marcelândia - MT - Cuidador",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Saúde do Idoso",
+    "enunciado": "de Idosos Na dinâmica do cuidado com o idoso, a estrutura familiar muitas vezes funciona como o primeiro espaço de proteção e de sustentação afetiva, sendo essencial para prevenir o isolamento social e reduzir o risco de depressão e declínio cognitivo. A integração entre os membros da família, pautada na escuta, no respeito e na valorização das vivências do idoso, possibilita uma convivência mais significativa e o resgate do papel social desse indivíduo dentro do núcleo familiar. Assim, a atuação conjunta dos familiares no cuidado com o idoso contribui principalmente para:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "reforçar a dependência do idoso e limitar sua participação nas decisões familiares"
+      },
+      {
+        "id": "B",
+        "texto": "criar condições de exclusão social e de desvalorização das experiências do idoso"
+      },
+      {
+        "id": "C",
+        "texto": "reconhecer o envelhecimento como fase de fragilidade e incapacidade inevitável"
+      },
+      {
+        "id": "D",
+        "texto": "fortalecer laços afetivos, evitando o isolamento e estimulando a convivência saudável 171 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0510",
+    "numero_ordem": 510,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'reforçar a dependência do idoso e limitar sua participação nas decisões familiares...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'criar condições de exclusão social e de desvalorização das experiências do idoso...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'reconhecer o envelhecimento como fase de fragilidade e incapacidade inevitável...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'fortalecer laços afetivos, evitando o isolamento e estimulando a convivência saudável 171 ...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3743097",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Marcelândia - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Marcelândia - MT - Cuidador",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Saúde do Idoso , Cuidados de Enfermagem",
+    "enunciado": "de Idosos Um paciente idoso, em recuperação de uma fratura de quadril, está liberado para deambular com o auxílio de um andador. O cuidador de enfermagem nota que, ao se aproximar de uma cadeira para sentar, o paciente se vira de frente e tenta se sentar empurrando o andador para trás. A intervenção imediata e educativa do cuidador deve ser:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "parar o paciente e orientá-lo verbalmente e com demonstração a se aproximar da cadeira, virar-se de costas, caminhar para trás até sentir a cadeira tocar suas pernas e só então, com as mãos apoiadas nos braços da cadeira, realizar o movimento de sentar"
+      },
+      {
+        "id": "B",
+        "texto": "elogiar a iniciativa do paciente em tentar sentar-se sozinho, mesmo que a técnica esteja incorreta, para não desestimular sua busca por independência"
+      },
+      {
+        "id": "C",
+        "texto": "permitir que o paciente complete a ação para que ele perceba o risco de queda e aprenda com o próprio erro, intervindo apenas se a queda for iminente"
+      },
+      {
+        "id": "D",
+        "texto": "retirar o andador assim que o paciente se aproxima da cadeira, pois o dispositivo não deve ser usado para a manobra de sentar, e deixar que ele se equilibre sozinho para alcançar o assento 172 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0511",
+    "numero_ordem": 511,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'parar o paciente e orientá-lo verbalmente e com demonstração a se aproximar da cadeira, vi...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'elogiar a iniciativa do paciente em tentar sentar-se sozinho, mesmo que a técnica esteja i...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'permitir que o paciente complete a ação para que ele perceba o risco de queda e aprenda co...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'retirar o andador assim que o paciente se aproxima da cadeira, pois o dispositivo não deve...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3743096",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Marcelândia - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Marcelândia - MT - Cuidador",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Saúde do Idoso , Cuidados de Enfermagem",
+    "enunciado": "de Idosos Um cuidador de enfermagem está auxiliando na transferência de um paciente idoso, com hemiparesia à esquerda e uso de sonda vesical de demora, do leito para a cadeira de rodas. Para garantir a máxima segurança, prevenir lesões tanto no paciente quanto no profissional e respeitar as limitações impostas pela condição clínica, o procedimento correto a ser executado é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "posicionar a cadeira de rodas travada no lado esquerdo do paciente, o lado comprometido, para que ele possa se apoiar nela com mais facilidade ao levantar"
+      },
+      {
+        "id": "B",
+        "texto": "manter a bolsa coletora de urina sobre o colo do paciente durante toda a transferência para evitar tração acidental da sonda e facilitar a visualização do volume"
+      },
+      {
+        "id": "C",
+        "texto": "posicionar a cadeira de rodas travada a um ângulo de 45 graus em relação ao leito, do lado direito do paciente (lado forte), orientá-lo a apoiar as mãos no leito para se levantar, girar sobre o pé direito e sentar-se controladamente com o auxílio do cuidador"
+      },
+      {
+        "id": "D",
+        "texto": "realizar a transferência sozinho, levantando o paciente pelo tronco e axilas, mesmo que ele possua alguma capacidade de sustentação, para agilizar o processo e evitar o cansaço do assistido 173 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0512",
+    "numero_ordem": 512,
+    "fundamentacao_correta": "Conforme as Recomendações de Boas Práticas em Nutrição Enteral da BRASPEN e da ANVISA (RDC nº 63/2000), a prevenção da pneumonia por broncoaspiração em pacientes recebendo dieta por sonda enteral exige a manutenção da cabeceira elevada em ângulo de 30° a 45° durante toda a infusão e por no mínimo 30 a 60 minutos após o término da dieta, para garantir o esvaziamento gástrico seguro. A alternativa [] descreve exatamente essa conduta preconizada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'posicionar a cadeira de rodas travada no lado esquerdo do paciente, o lado comprometido, p...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter a bolsa coletora de urina sobre o colo do paciente durante toda a transferência par...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'posicionar a cadeira de rodas travada a um ângulo de 45 graus em relação ao leito, do lado...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar a transferência sozinho, levantando o paciente pelo tronco e axilas, mesmo que el...'."
+      }
+    ],
+    "comentario": "Conforme as Recomendações de Boas Práticas em Nutrição Enteral da BRASPEN e da ANVISA (RDC nº 63/2000), a prevenção da pneumonia por broncoaspiração em pacientes recebendo dieta por sonda enteral exige a manutenção da cabeceira elevada em ângulo de 3..."
+  },
+  {
+    "codigo_origem": "Q3743095",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Marcelândia - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Marcelândia - MT - Cuidador",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Saúde do Idoso , Cuidados de Enfermagem",
+    "enunciado": "de Idosos No manejo de um idoso com demência avançada e múltiplas comorbidades, o cuidador deve compreender que as alterações cognitivas comprometem o julgamento, a comunicação e a adesão a tratamentos, sendo essencial integrar a observação clínica com uma escuta ativa e um ambiente de acolhimento. Diante da presença de complicações como incontinência urinária associada à limitação de mobilidade, o cuidador precisa equilibrar as demandas de higiene, conforto e dignidade, evitando práticas que gerem constrangimento ou lesões cutâneas por umidade e atrito contínuo. Nesse contexto, a conduta mais adequada é caracterizada pela ação descrita a seguir:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "manter o idoso por longos períodos com fralda descartável para evitar trocas frequentes"
+      },
+      {
+        "id": "B",
+        "texto": "incentivar a ingestão hídrica controlada e realizar trocas regulares de fralda, mantendo a pele limpa e seca"
+      },
+      {
+        "id": "C",
+        "texto": "reduzir drasticamente o consumo de líquidos para minimizar episódios de incontinência"
+      },
+      {
+        "id": "D",
+        "texto": "utilizar sabões perfumados e lenços umedecidos com álcool para eliminar completamente a umidade da pele 174 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0513",
+    "numero_ordem": 513,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter o idoso por longos períodos com fralda descartável para evitar trocas frequentes...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'incentivar a ingestão hídrica controlada e realizar trocas regulares de fralda, mantendo a...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'reduzir drasticamente o consumo de líquidos para minimizar episódios de incontinência...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar sabões perfumados e lenços umedecidos com álcool para eliminar completamente a um...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3743094",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Marcelândia - MT",
+    "ano": 2024,
+    "prova": "SELECON - 2025 - Prefeitura de Marcelândia - MT - Cuidador",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Saúde do Idoso",
+    "enunciado": "de Idosos Nas síndromes demenciais, especialmente na doença de Alzheimer, o cuidador exerce papel central no suporte emocional, cognitivo e na manutenção da rotina, devendo compreender que a previsibilidade ambiental e o manejo tranquilo de comportamentos desorganizados são fundamentais para reduzir episódios de agitação e agressividade. Em um momento de confusão, quando o idoso manifesta desorientação espacial e tenta sair de casa sem propósito definido, o cuidador precisa agir com empatia, utilizando estratégias que favoreçam o senso de segurança e a redireção de atenção, evitando confrontos verbais ou físicos que possam aumentar o estado de ansiedade. Essa ação pode ser notada na alternativa:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "impedir fisicamente a saída do idoso, utilizando-se de força se necessário"
+      },
+      {
+        "id": "B",
+        "texto": "corrigir o idoso com firmeza, lembrando-o repetidamente de onde está e do perigo de sair"
+      },
+      {
+        "id": "C",
+        "texto": "falar com tom calmo, mudar o foco da atenção e conduzir o idoso a uma atividade familiar e segura"
+      },
+      {
+        "id": "D",
+        "texto": "isolar o idoso em um cômodo seguro até que o episódio de confusão passe por completo"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0514",
+    "numero_ordem": 514,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'impedir fisicamente a saída do idoso, utilizando-se de força se necessário...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'corrigir o idoso com firmeza, lembrando-o repetidamente de onde está e do perigo de sair...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'falar com tom calmo, mudar o foco da atenção e conduzir o idoso a uma atividade familiar e...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'isolar o idoso em um cômodo seguro até que o episódio de confusão passe por completo...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3743089",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Marcelândia - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Marcelândia - MT - Cuidador",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Saúde do Idoso , Cuidados de Enfermagem",
+    "enunciado": "de Idosos Para prevenir quedas em idosos, um dos maiores riscos à sua saúde e autonomia, assinale a assertiva que demonstra ser a mais eficaz e de responsabilidade do cuidador:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "manter o ambiente escuro para que o idoso descanse mais"
+      },
+      {
+        "id": "B",
+        "texto": "remover tapetes soltos, garantir boa iluminação e organizar o mobiliário para facilitar a circulação"
+      },
+      {
+        "id": "C",
+        "texto": "deixar objetos no chão para estimular a atenção do idoso"
+      },
+      {
+        "id": "D",
+        "texto": "instalar escadas em todos os cômodos para exercitar o idoso 176 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0515",
+    "numero_ordem": 515,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter o ambiente escuro para que o idoso descanse mais...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'remover tapetes soltos, garantir boa iluminação e organizar o mobiliário para facilitar a ...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'deixar objetos no chão para estimular a atenção do idoso...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'instalar escadas em todos os cômodos para exercitar o idoso 176 Ano: 2025...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3743088",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Marcelândia - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Marcelândia - MT - Cuidador",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Saúde do Idoso , Cuidados de Enfermagem",
+    "enunciado": "de Idosos Para um idoso acamado ou com mobilidade muito restrita, a promoção do conforto vai além da higiene pessoal e envolve também a atenção constante à sua posição no leito e à adequação do ambiente. Evitar o surgimento de lesões por pressão (escaras), garantir um repouso tranquilo e manter a pele íntegra são prioridades para a qualidade de vida. Nesse contexto, assinale a ação mais importante que o cuidador deve realizar regularmente para promover o conforto e prevenir complicações:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "manter o idoso na mesma posição por longos períodos para não perturbá-lo durante o sono"
+      },
+      {
+        "id": "B",
+        "texto": "utilizar lençóis ásperos e com dobras para estimular a circulação sanguínea na pele"
+      },
+      {
+        "id": "C",
+        "texto": "deixar o quarto com pouca ventilação e janelas fechadas para evitar correntes de ar, mesmo que o ambiente fique abafado"
+      },
+      {
+        "id": "D",
+        "texto": "realizar mudanças de decúbito (mudança de posição) a cada duas ou três horas, verificar a pele e manter a roupa de cama limpa, seca e sem rugas 177 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0516",
+    "numero_ordem": 516,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'manter o idoso na mesma posição por longos períodos para não perturbá-lo durante o sono...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar lençóis ásperos e com dobras para estimular a circulação sanguínea na pele...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'deixar o quarto com pouca ventilação e janelas fechadas para evitar correntes de ar, mesmo...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar mudanças de decúbito (mudança de posição) a cada duas ou três horas, verificar a ...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3743087",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Marcelândia - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Marcelândia - MT - Cuidador",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Saúde do Idoso , Cuidados de Enfermagem",
+    "enunciado": "de Idosos Um cuidador de enfermagem está auxiliando um idoso com mobilidade reduzida em seu banho diário, buscando garantir não apenas a limpeza, mas também o bem-estar e a dignidade do paciente. É fundamental que o processo seja realizado de forma segura e confortável, respeitando a privacidade e as necessidades individuais do idoso. Para promover um banho seguro e confortável, qual das seguintes ações é a mais adequada a ser realizada pelo cuidador neste momento:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "utilizar água muito quente para garantir a desinfecção da pele"
+      },
+      {
+        "id": "B",
+        "texto": "deixar o idoso sozinho no banheiro para preservar sua privacidade, mesmo com risco de queda"
+      },
+      {
+        "id": "C",
+        "texto": "preparar o ambiente com antecedência, verificando a temperatura da água, garantindo a segurança e separando os itens de higiene"
+      },
+      {
+        "id": "D",
+        "texto": "realizar o banho de forma rápida e apressada, sem se preocupar com a preferência do idoso para economizar tempo 178 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0517",
+    "numero_ordem": 517,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'utilizar água muito quente para garantir a desinfecção da pele...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'deixar o idoso sozinho no banheiro para preservar sua privacidade, mesmo com risco de qued...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'preparar o ambiente com antecedência, verificando a temperatura da água, garantindo a segu...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar o banho de forma rápida e apressada, sem se preocupar com a preferência do idoso ...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3743086",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Marcelândia - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Marcelândia - MT - Cuidador",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Saúde do Idoso , Cuidados de Enfermagem",
+    "enunciado": "de Idosos Um cuidador percebe que o idoso sob seus cuidados está apresentando dificuldades crescentes para se alimentar sozinho, engasgando frequentemente.",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "adaptar a consistência dos alimentos, oferecer pequenas porções e comunicar a observação à família e à equipe de saúde"
+      },
+      {
+        "id": "B",
+        "texto": "forçar o idoso a comer mais rápido para evitar que a refeição esfrie"
+      },
+      {
+        "id": "C",
+        "texto": "oferecer alimentos líquidos exclusivamente, sem consultar a equipe de saúde"
+      },
+      {
+        "id": "D",
+        "texto": "ignorar a situação, pois é um processo natural do envelhecimento 179 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0518",
+    "numero_ordem": 518,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'adaptar a consistência dos alimentos, oferecer pequenas porções e comunicar a observação à...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'forçar o idoso a comer mais rápido para evitar que a refeição esfrie...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Apresenta uma visão reducionista e isolada que desconsidera a resposta sistêmica integrada do paciente."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'ignorar a situação, pois é um processo natural do envelhecimento 179 Ano: 2025...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  },
+  {
+    "codigo_origem": "Q3743085",
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Marcelândia - MT",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Marcelândia - MT - Cuidador",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Saúde do Idoso",
+    "enunciado": "de Idosos A principal função de um cuidador em enfermagem no contexto da saúde do idoso, pode ser encontrada na alternativa:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "realizar procedimentos médicos complexos e diagnósticos"
+      },
+      {
+        "id": "B",
+        "texto": "administrar medicamentos sem prescrição médica"
+      },
+      {
+        "id": "C",
+        "texto": "oferecer suporte nas atividades diárias, higiene e alimentação, promovendo bem-estar"
+      },
+      {
+        "id": "D",
+        "texto": "substituir completamente a família nas decisões sobre o tratamento 180 Ano: 2025"
+      }
+    ],
+    "resposta_correta": "",
+    "id": "EF0519",
+    "numero_ordem": 519,
+    "fundamentacao_correta": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'realizar procedimentos médicos complexos e diagnósticos...'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'administrar medicamentos sem prescrição médica...'."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'oferecer suporte nas atividades diárias, higiene e alimentação, promovendo bem-estar...'."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta pois desvia dos protocolos técnicos oficiais, contrariando a boa prática de assistência de enfermagem ao afirmar 'substituir completamente a família nas decisões sobre o tratamento 180 Ano: 2025...'."
+      }
+    ],
+    "comentario": "Conforme a literatura científica de enfermagem e as diretrizes técnicas do Ministério da Saúde para o cargo de Enfermeiro, a assertiva [] é a correta pois atende diretamente aos critérios diagnósticos e de conduta preconizados: ''."
+  }
+]
