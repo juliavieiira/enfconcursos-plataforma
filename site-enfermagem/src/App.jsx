@@ -18,11 +18,15 @@ import {
   Sparkles,
   ShieldCheck,
   Zap,
-  ArrowRight
+  ArrowRight,
+  PieChart,
+  BarChart3,
+  Lightbulb,
+  Target
 } from 'lucide-react';
 
 export default function App() {
-  const [activeTab, setActiveTab] = useState('questoes'); // 'questoes', 'simulados', 'materiais'
+  const [activeTab, setActiveTab] = useState('questoes'); // 'questoes', 'padrao', 'simulados', 'materiais'
   const [questoes, setQuestoes] = useState(questoesData);
 
   // Filtros
@@ -46,6 +50,9 @@ export default function App() {
   const [modalVipAberto, setModalVipAberto] = useState(false);
   const [limiteExibicao, setLimiteExibicao] = useState(25);
 
+  // Aba Padrão da Banca / Raio-X
+  const [padraoCargo, setPadraoCargo] = useState('Todos'); // 'Todos', 'Técnico de Enfermagem', 'Enfermeiro'
+
   // Estatísticas gerais
   const totalRespondidas = Object.keys(respostas).length;
   const totalAcertos = Object.entries(respostas).filter(([id, r]) => {
@@ -57,6 +64,74 @@ export default function App() {
   // Bancas e matérias únicas para os selects
   const bancasDisponiveis = ['Todas', ...new Set(questoes.map(q => q.banca))];
   const materiasDisponiveis = ['Todas', ...new Set(questoes.map(q => q.materia))];
+
+  // Processamento estatístico para a aba "Padrão da Banca"
+  const questoesPadrao = padraoCargo === 'Todos'
+    ? questoes
+    : questoes.filter(q => q.cargo === padraoCargo);
+
+  const contagemTemas = {};
+  questoesPadrao.forEach(q => {
+    const primary = (q.assunto || q.materia || 'Outros').split(',')[0].trim();
+    contagemTemas[primary] = (contagemTemas[primary] || 0) + 1;
+  });
+
+  const temasOrdenados = Object.entries(contagemTemas)
+    .sort((a, b) => b[1] - a[1]);
+
+  const top10 = temasOrdenados.slice(0, 10);
+  const outrosTotal = temasOrdenados.slice(10).reduce((acc, curr) => acc + curr[1], 0);
+
+  const palette = [
+    '#0d9488', // teal
+    '#2563eb', // blue
+    '#7c3aed', // purple
+    '#db2777', // pink
+    '#d97706', // amber
+    '#059669', // emerald
+    '#dc2626', // red
+    '#0891b2', // cyan
+    '#4f46e5', // indigo
+    '#65a30d', // lime
+    '#94a3b8'  // slate (outros)
+  ];
+
+  const itensGrafico = [
+    ...top10.map(([nome, count], idx) => ({
+      nome,
+      count,
+      percent: ((count / questoesPadrao.length) * 100).toFixed(1),
+      cor: palette[idx % palette.length]
+    })),
+    ...(outrosTotal > 0 ? [{
+      nome: 'Demais Conteúdos',
+      count: outrosTotal,
+      percent: ((outrosTotal / questoesPadrao.length) * 100).toFixed(1),
+      cor: palette[10]
+    }] : [])
+  ];
+
+  let acumulador = 0;
+  const gradientStops = itensGrafico.map((item, index) => {
+    const inicio = acumulador;
+    const itemPct = (item.count / questoesPadrao.length) * 100;
+    acumulador += itemPct;
+    const fim = index === itensGrafico.length - 1 ? 100 : acumulador;
+    return `${item.cor} ${inicio.toFixed(2)}% ${fim.toFixed(2)}%`;
+  }).join(', ');
+
+  const donutStyle = {
+    background: `conic-gradient(${gradientStops})`
+  };
+
+  const irParaQuestoesPorTema = (tema) => {
+    setBuscaTexto(tema === 'Demais Conteúdos' ? '' : tema);
+    if (padraoCargo !== 'Todos') {
+      setFiltroCargo(padraoCargo);
+    }
+    setActiveTab('questoes');
+    window.scrollTo({ top: 350, behavior: 'smooth' });
+  };
 
   // Filtragem
   const questoesFiltradas = questoes.filter(q => {
@@ -150,6 +225,13 @@ export default function App() {
             >
               <BookOpen size={17} />
               <span>Questões</span>
+            </button>
+            <button
+              className={`nav-link ${activeTab === 'padrao' ? 'active' : ''}`}
+              onClick={() => setActiveTab('padrao')}
+            >
+              <PieChart size={17} />
+              <span>Padrão da Banca</span>
             </button>
             <button
               className={`nav-link ${activeTab === 'simulados' ? 'active' : ''}`}
@@ -670,6 +752,196 @@ export default function App() {
                 <p style={{ fontSize: '0.9rem', lineHeight: '1.6' }}>
                   Assim que você colocar os arquivos nas pastas acima, nosso script de processamento em <code>/scripts/extrair_questoes_pdf.py</code> converterá os textos em questões interativas para o site.
                 </p>
+              </div>
+            </div>
+          </section>
+        )}
+
+        {/* ABA: PADRÃO DA BANCA (RAIO-X SELECON) */}
+        {activeTab === 'padrao' && (
+          <section className="animate-fade-in">
+            <div className="padrao-hero">
+              <div className="hero-tag" style={{ margin: '0 auto 1rem', display: 'inline-flex' }}>
+                <Flame size={15} color="#0d9488" />
+                <span>Inteligência Estatística de Concursos</span>
+              </div>
+              <h2 style={{ fontSize: '2rem', fontWeight: 800, color: '#0f172a', marginBottom: '0.75rem' }}>
+                Qual o Padrão da <span style={{ color: '#0d9488' }}>Banca SELECON</span>?
+              </h2>
+              <p style={{ color: '#64748b', fontSize: '1rem', lineHeight: '1.6' }}>
+                Auditoria estatística realizada diretamente nas <strong>{questoes.length} questões reais</strong> dos cadernos oficiais da banca. Descubra os temas com maior probabilidade de cair na sua prova ordenados do maior para o menor.
+              </p>
+
+              {/* Seletor de Cargo */}
+              <div className="padrao-cargo-nav">
+                <button
+                  className={`btn-cargo-tab ${padraoCargo === 'Todos' ? 'active' : ''}`}
+                  onClick={() => setPadraoCargo('Todos')}
+                >
+                  Todos os Concursos ({questoes.length})
+                </button>
+                <button
+                  className={`btn-cargo-tab ${padraoCargo === 'Técnico de Enfermagem' ? 'active' : ''}`}
+                  onClick={() => setPadraoCargo('Técnico de Enfermagem')}
+                >
+                  Técnico de Enfermagem (343)
+                </button>
+                <button
+                  className={`btn-cargo-tab ${padraoCargo === 'Enfermeiro' ? 'active' : ''}`}
+                  onClick={() => setPadraoCargo('Enfermeiro')}
+                >
+                  Enfermeiro Superior (529)
+                </button>
+              </div>
+            </div>
+
+            {/* Grid Principal: Gráfico Donut/Pizza + Ranking Horizontal */}
+            <div className="padrao-grid">
+              {/* Card 1: Gráfico de Pizza / Donut */}
+              <div className="padrao-card">
+                <h3 className="padrao-card-title">
+                  <PieChart size={20} color="#0d9488" />
+                  Distribuição Percentual dos Temas
+                </h3>
+                <p className="padrao-card-desc">
+                  Proporção de cada assunto no universo de {questoesPadrao.length} questões analisadas ({padraoCargo === 'Todos' ? 'Geral' : padraoCargo}).
+                </p>
+
+                <div className="donut-container">
+                  <div className="donut-chart-box">
+                    <div className="donut-circle" style={donutStyle}></div>
+                    <div className="donut-inner-hole">
+                      <span className="donut-inner-num">{questoesPadrao.length}</span>
+                      <span className="donut-inner-label">Questões</span>
+                    </div>
+                  </div>
+
+                  <div className="donut-legend">
+                    {itensGrafico.map(item => (
+                      <div key={item.nome} className="legend-item" title={`${item.nome}: ${item.count} questões (${item.percent}%)`}>
+                        <span className="legend-color" style={{ backgroundColor: item.cor }}></span>
+                        <span style={{ overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', flex: 1 }}>
+                          {item.nome}
+                        </span>
+                        <strong style={{ fontSize: '0.78rem', color: '#0f172a' }}>{item.percent}%</strong>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              </div>
+
+              {/* Card 2: Ranking do Maior para o Menor */}
+              <div className="padrao-card">
+                <h3 className="padrao-card-title">
+                  <BarChart3 size={20} color="#0d9488" />
+                  Ranking: Do Mais Cobrado ao Menos Cobrado
+                </h3>
+                <p className="padrao-card-desc">
+                  Clique em "Resolver" para abrir diretamente as questões do tema correspondente no banco.
+                </p>
+
+                <div className="ranking-list">
+                  {itensGrafico.map((item, index) => {
+                    const isTop1 = index === 0;
+                    return (
+                      <div key={item.nome} className="ranking-item">
+                        <div className="ranking-label-row">
+                          <span className="ranking-name">
+                            <span
+                              className="ranking-pos"
+                              style={isTop1 ? { background: '#fef3c7', color: '#b45309', border: '1px solid #fde68a' } : {}}
+                            >
+                              {index + 1}º
+                            </span>
+                            <span style={{ maxWidth: '280px', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
+                              {item.nome}
+                            </span>
+                          </span>
+
+                          <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
+                            <span className="ranking-metrics">
+                              {item.count} q. ({item.percent}%)
+                            </span>
+                            <button
+                              className="btn-topic-action"
+                              onClick={() => irParaQuestoesPorTema(item.nome)}
+                              title={`Filtrar questões sobre ${item.nome}`}
+                            >
+                              Resolver
+                              <ChevronRight size={13} />
+                            </button>
+                          </div>
+                        </div>
+
+                        <div className="ranking-bar-track">
+                          <div
+                            className="ranking-bar-fill"
+                            style={{
+                              width: `${Math.max(Number(item.percent) * 3.5, 4)}%`,
+                              maxWidth: '100%',
+                              backgroundColor: item.cor
+                            }}
+                          ></div>
+                        </div>
+                      </div>
+                    );
+                  })}
+                </div>
+              </div>
+            </div>
+
+            {/* Seção de Insights Estratégicos Inteligentes */}
+            <div className="padrao-card" style={{ marginTop: '2rem' }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '0.4rem' }}>
+                <Lightbulb size={22} color="#0d9488" />
+                <h3 style={{ fontSize: '1.25rem', color: '#0f172a' }}>
+                  Raio-X Inteligente & Dicas de Ouro da Banca SELECON
+                </h3>
+              </div>
+              <p style={{ color: '#64748b', fontSize: '0.9rem', marginBottom: '1.25rem' }}>
+                Insights táticos extraídos a partir do padrão de repetição de enunciados e pegadinhas da banca:
+              </p>
+
+              <div className="insights-grid" style={{ marginTop: 0 }}>
+                <div className="insight-card">
+                  <div className="insight-tag">
+                    <Target size={14} /> Foco nº 1 da Banca
+                  </div>
+                  <h4 className="insight-title">Fundamentos e Prática Diária</h4>
+                  <p className="insight-text">
+                    A SELECON adora cobrar procedimentos de enfermagem fundamentais: parâmetros de <strong>sinais vitais</strong> (pressão, temperatura, FC), técnicas de <strong>sondagem vesical e nasogástrica</strong>, cuidados com <strong>curativos</strong> e tipos de exsudato.
+                  </p>
+                </div>
+
+                <div className="insight-card">
+                  <div className="insight-tag">
+                    <Sparkles size={14} /> Ponto Garantido
+                  </div>
+                  <h4 className="insight-title">Legislação e Código de Ética</h4>
+                  <p className="insight-text">
+                    Questões recorrentes sobre as competências privativas do Enfermeiro vs atribuições do Técnico (<strong>Lei 7.498/86</strong>) e penalidades do novo <strong>Código de Ética (Resolução COFEN 564/2017)</strong>: direitos, deveres e proibições.
+                  </p>
+                </div>
+
+                <div className="insight-card">
+                  <div className="insight-tag">
+                    <Zap size={14} /> Técnico vs Enfermeiro
+                  </div>
+                  <h4 className="insight-title">Diferença de Perfil nos Cargos</h4>
+                  <p className="insight-text">
+                    Para <strong>Técnico</strong>, há forte cobrança em <em>Cálculo de Medicamentos (gotejamento/diluição)</em> e <em>Biossegurança (NR-32/EPI)</em>. Já para <strong>Enfermeiro</strong>, predominam <em>Vigilância Epidemiológica</em>, <em>Gestão em Saúde</em> e <em>SAE/NANDA</em>.
+                  </p>
+                </div>
+
+                <div className="insight-card">
+                  <div className="insight-tag">
+                    <Award size={14} /> Prefeituras & SUS
+                  </div>
+                  <h4 className="insight-title">Saúde Pública e Imunização</h4>
+                  <p className="insight-text">
+                    Cobrança maciça de <strong>Rede de Frio e Calendário Nacional de Vacinação (PNI)</strong>, além dos princípios doutrinários e organizativos da <strong>Lei Orgânica da Saúde (Lei 8.080/90)</strong>.
+                  </p>
+                </div>
               </div>
             </div>
           </section>
