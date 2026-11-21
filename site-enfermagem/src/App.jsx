@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import './App.css';
 import { BANCAS_PRECONFIGURADAS, INSIGHTS_POR_BANCA, getInsightPorBanca } from './data/bancasInfo';
 import {
@@ -110,6 +110,33 @@ export default function App() {
   // Bancas e matérias únicas para os selects dos filtros
   const bancasDisponiveis = ['Todas', ...new Set(questoes.map(q => q.banca))];
   const materiasDisponiveis = ['Todas', ...new Set(questoes.map(q => q.materia))];
+
+  // Concursos e órgãos agrupados para o filtro "Qual o seu Concurso?"
+  const { prefeiturasDisponiveis, outrosOrgaosDisponiveis } = useMemo(() => {
+    const contagem = {};
+    questoes.forEach(q => {
+      const orgaoLimpo = q.orgao?.trim();
+      if (orgaoLimpo) {
+        contagem[orgaoLimpo] = (contagem[orgaoLimpo] || 0) + 1;
+      }
+    });
+
+    const prefs = [];
+    const outros = [];
+
+    Object.entries(contagem).forEach(([nome, total]) => {
+      if (nome.toLowerCase().includes('prefeitura')) {
+        prefs.push({ nome, total });
+      } else {
+        outros.push({ nome, total });
+      }
+    });
+
+    prefs.sort((a, b) => a.nome.localeCompare(b.nome, 'pt-BR'));
+    outros.sort((a, b) => a.nome.localeCompare(b.nome, 'pt-BR'));
+
+    return { prefeiturasDisponiveis: prefs, outrosOrgaosDisponiveis: outros };
+  }, [questoes]);
 
   // Aba Padrão da Banca / Raio-X
   const [padraoMateria, setPadraoMateria] = useState('Todas'); // 'Todas', 'Língua Portuguesa', 'Enfermagem'
@@ -264,7 +291,8 @@ export default function App() {
     const matchTipo =
       filtroTipo === 'Todos' ||
       (filtroTipo === 'Prefeituras' && q.orgao.toLowerCase().includes('prefeitura')) ||
-      (filtroTipo === 'Grandes' && !q.orgao.toLowerCase().includes('prefeitura'));
+      (filtroTipo === 'Grandes' && !q.orgao.toLowerCase().includes('prefeitura')) ||
+      q.orgao === filtroTipo;
 
     return matchBusca && matchCargo && matchBanca && matchMateria && matchTipo;
   });
@@ -502,15 +530,35 @@ export default function App() {
 
               <div className="filter-grid">
                 <div className="filter-group">
-                  <label className="filter-label">Foco do Concurso</label>
+                  <label className="filter-label">Qual o seu Concurso?</label>
                   <select
                     className="filter-select"
                     value={filtroTipo}
                     onChange={e => { setFiltroTipo(e.target.value); setQuestaoIndex(0); }}
                   >
-                    <option value="Todos">Todos os Concursos</option>
-                    <option value="Prefeituras">Apenas Prefeituras Municipais</option>
-                    <option value="Grandes">Grandes Concursos (EBSERH / Federais)</option>
+                    <option value="Todos">🎯 Todos os Concursos ({questoes.length > 0 ? questoes.length.toLocaleString('pt-BR') : '2.007'} questões)</option>
+                    <option value="Prefeituras">🏛️ Todas as Prefeituras Municipais (1.520 q.)</option>
+                    <option value="Grandes">🏥 Grandes Concursos & Federais (487 q.)</option>
+
+                    {prefeiturasDisponiveis.length > 0 && (
+                      <optgroup label="📍 Escolha sua Prefeitura">
+                        {prefeiturasDisponiveis.map(p => (
+                          <option key={p.nome} value={p.nome}>
+                            {p.nome} ({p.total} q.)
+                          </option>
+                        ))}
+                      </optgroup>
+                    )}
+
+                    {outrosOrgaosDisponiveis.length > 0 && (
+                      <optgroup label="🏛️ Câmaras, Conselhos e Federais">
+                        {outrosOrgaosDisponiveis.map(o => (
+                          <option key={o.nome} value={o.nome}>
+                            {o.nome} ({o.total} q.)
+                          </option>
+                        ))}
+                      </optgroup>
+                    )}
                   </select>
                 </div>
 
@@ -605,6 +653,19 @@ export default function App() {
                           <span className="status-badge status-wrong">✕ Incorreta (Gabarito: {questaoAtual.resposta_correta})</span>
                         );
                       })()
+                    )}
+                    {filtroTipo !== 'Todos' && (
+                      <span className="active-concurso-badge" title="Filtro de Concurso ativo">
+                        <span>🎯 {filtroTipo === 'Prefeituras' ? 'Prefeituras Municipais' : filtroTipo === 'Grandes' ? 'Grandes Concursos' : filtroTipo}</span>
+                        <button
+                          type="button"
+                          onClick={() => { setFiltroTipo('Todos'); setQuestaoIndex(0); }}
+                          className="btn-remove-concurso-filter"
+                          title="Remover filtro e ver todos os concursos"
+                        >
+                          ×
+                        </button>
+                      </span>
                     )}
                   </div>
 

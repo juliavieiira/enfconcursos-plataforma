@@ -1004,6 +1004,42 @@
   border: 1px solid var(--error-border);
 }
 
+.active-concurso-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: #0f766e;
+  background: #f0fdfa;
+  border: 1px solid #99f6e4;
+  padding: 0.25rem 0.65rem;
+  border-radius: var(--radius-sm);
+  max-width: 100%;
+}
+
+.btn-remove-concurso-filter {
+  background: #ccfbf1;
+  border: none;
+  color: #0f766e;
+  cursor: pointer;
+  font-size: 0.95rem;
+  line-height: 1;
+  width: 18px;
+  height: 18px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  padding: 0;
+  transition: all 0.15s ease;
+}
+
+.btn-remove-concurso-filter:hover {
+  background: #0d9488;
+  color: #ffffff;
+}
+
 .question-nav-controls {
   display: flex;
   align-items: center;
