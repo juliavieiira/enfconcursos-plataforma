@@ -404,7 +404,7 @@ export default function App() {
           <a href="#" className="nav-brand" onClick={() => setActiveTab('questoes')}>
             <Stethoscope size={28} color="#0d9488" strokeWidth={2.5} />
             <span>Enf<span style={{ color: '#0d9488' }}>Concursos</span></span>
-            <span className="brand-badge">Prefeituras & SUS</span>
+            <span className="brand-badge hide-micro">Prefeituras & SUS</span>
           </a>
 
           <div className="nav-links">
@@ -797,7 +797,7 @@ export default function App() {
 
                       {/* Barra de Navegação Inferior */}
                       <div className="question-bottom-nav">
-                        <div style={{ display: 'flex', gap: '0.5rem' }}>
+                        <div className="bottom-nav-group left">
                           <button
                             className="btn-nav-step"
                             onClick={irParaPrimeira}
@@ -808,7 +808,7 @@ export default function App() {
                             <span className="hide-mobile">Primeira</span>
                           </button>
                           <button
-                            className="btn-nav-step"
+                            className="btn-nav-step btn-nav-arrow"
                             onClick={irParaAnterior}
                             disabled={safeIndex === 0}
                             title="Questão anterior (ou Tecla ←)"
@@ -818,18 +818,18 @@ export default function App() {
                           </button>
                         </div>
 
-                        <div style={{ textAlign: 'center', minWidth: '180px' }}>
+                        <div className="bottom-nav-center">
                           <div style={{ fontSize: '0.88rem', fontWeight: 700, color: '#0f172a' }}>
-                            Questão {safeIndex + 1} de {totalFiltradas}
+                            Questão {safeIndex + 1} de {totalFiltradas} ({pctProgresso}%)
                           </div>
                           <div className="progress-tracker">
                             <div className="progress-bar-fill" style={{ width: `${pctProgresso}%` }}></div>
                           </div>
                         </div>
 
-                        <div style={{ display: 'flex', gap: '0.5rem' }}>
+                        <div className="bottom-nav-group right">
                           <button
-                            className="btn-nav-step primary"
+                            className="btn-nav-step primary btn-nav-arrow"
                             onClick={irParaProxima}
                             disabled={safeIndex >= totalFiltradas - 1}
                             title="Próxima questão (ou Tecla →)"
