@@ -1,0 +1,23 @@
+=== CADERNO DE QUESTÕES: SAÚDE DA MULHER ===
+Total: 1 questões
+
+QUESTÃO 1 - Prefeitura de Osasco - SP (RBO 2023) - Técnico de Enfermagem
+Assunto: Cálculo da Data Provável do Parto (Regra de Nägele)
+Durante uma consulta de pré-natal na Unidade de Saúde da Família, a gestante informa que a Data da Última Menstruação (DUM) foi no dia 15 de março de 2024. Aplicando a Regra de Nägele, a Data Provável do Parto (DPP) desta gestante será:
+
+  [A] 22 de dezembro de 2024.
+  [B] 22 de novembro de 2024.
+  [C] 15 de dezembro de 2024.
+  [D] 08 de janeiro de 2025.
+  [E] 22 de janeiro de 2025.
+
+✅ Gabarito: A
+💡 Fundamentação: Pela Regra de Nägele (Manual de Atenção ao Pré-natal do Ministério da Saúde): adiciona-se 7 ao dia da DUM; e para os meses de janeiro a março (meses 1, 2 e 3), adiciona-se 9 ao mês (mantendo o mesmo ano). Cálculo: Dia = 15 + 7 = 22. Mês = 3 (março) + 9 = 12 (dezembro). Ano = 2024. Logo, DPP = 22 de dezembro de 2024.
+❌ Distratores:
+   • B: 22 de novembro de 2024 seria o cálculo errôneo somando apenas 8 meses em vez de 9.
+   • C: 15 de dezembro comete o erro de somar apenas os meses e esquecer de adicionar 7 dias ao dia da DUM.
+   • D: 08 de janeiro resultaria de uma subtração errônea de dias ou adição incorreta de 10 meses.
+   • E: 22 de janeiro de 2025 consideraria um ciclo gestacional de 10 meses de calendário em vez de 40 semanas.
+
+------------------------------------------------------------
+

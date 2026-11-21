@@ -1,0 +1,226 @@
+[
+  {
+    "id": "q-pref-001",
+    "banca": "IBAM",
+    "orgao": "Prefeitura de Santos - SP",
+    "ano": 2024,
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Legislação do SUS",
+    "assunto": "Princípios e Diretrizes (Lei 8.080/90)",
+    "enunciado": "De acordo com o Artigo 7º da Lei Federal nº 8.080/1990, as ações e serviços públicos de saúde e os serviços privados contratados ou conveniados que integram o Sistema Único de Saúde (SUS) são desenvolvidos de acordo com as diretrizes previstas no art. 198 da Constituição Federal, obedecendo ainda a princípios doutrinários e organizativos. O princípio que garante a prestação contínua articulada e resolutiva de ações e serviços preventivos e curativos, individuais e coletivos, em todos os níveis de complexidade do sistema, denomina-se:",
+    "alternativas": [
+      { "id": "A", "texto": "Universalidade de acesso aos serviços de saúde." },
+      { "id": "B", "texto": "Integralidade de assistência." },
+      { "id": "C", "texto": "Igualdade da assistência à saúde (Equidade)." },
+      { "id": "D", "texto": "Descentralização político-administrativa." },
+      { "id": "E", "texto": "Participação da comunidade na gestão do SUS." }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "Conforme o Art. 7º, inciso II da Lei Federal nº 8.080/1990, a Integralidade de assistência é expressamente definida como o 'conjunto articulado e contínuo das ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema'. É o princípio que enxerga o paciente como um todo biopsicossocial.",
+    "analise_distratores": [
+      { "letra": "A", "motivo": "A Universalidade (Art. 7º, I) garante o acesso de todos os cidadãos sem qualquer distinção ou carência, e não a articulação entre prevenção e cura." },
+      { "letra": "C", "motivo": "A Igualdade/Equidade (Art. 7º, IV) busca tratar desigualmente os desiguais para reduzir desigualdades sociais e regionais." },
+      { "letra": "D", "motivo": "A Descentralização (Art. 7º, IX) é um princípio organizativo com direção única em cada esfera de governo (ênfase na municipalização)." },
+      { "letra": "E", "motivo": "A Participação da Comunidade (Art. 7º, VIII e Lei 8.142/90) refere-se ao controle social exercido através dos Conselhos e Conferências de Saúde." }
+    ],
+    "comentario": "Conforme o Art. 7º, inciso II da Lei 8.080/1990, a Integralidade reúne ações curativas e preventivas em todos os níveis de atenção.",
+    "dificuldade": "Fácil",
+    "relevancia_prefeitura": "Alta"
+  },
+  {
+    "id": "q-pref-002",
+    "banca": "VUNESP",
+    "orgao": "Prefeitura de Guarulhos - SP",
+    "ano": 2024,
+    "cargo": "Enfermeiro",
+    "materia": "Farmacologia e Cálculo de Medicamentos",
+    "assunto": "Cálculo de Gotejamento de Soro",
+    "enunciado": "Foi prescrito a um paciente adulto desidratado internado na UPA a infusão de 1.000 mL de Soro Glicosado a 5% para ser administrado por via intravenosa no período de 8 horas. Utilizando um equipo comum de macrogotas, o fluxo de infusão programado deverá ser de aproximadamente:",
+    "alternativas": [
+      { "id": "A", "texto": "21 gotas por minuto." },
+      { "id": "B", "texto": "28 gotas por minuto." },
+      { "id": "C", "texto": "42 gotas por minuto." },
+      { "id": "D", "texto": "60 gotas por minuto." },
+      { "id": "E", "texto": "84 gotas por minuto." }
+    ],
+    "resposta_correta": "C",
+    "fundamentacao_correta": "A fórmula padrão de gotejamento para macrogotas em horas é: Gotas/min = Volume (mL) / (Tempo em horas x 3). Substituindo: 1000 / (8 x 3) = 1000 / 24 = 41,66 gotas/min. Arredondando matematicamente para o número inteiro mais próximo temos 42 gotas/min.",
+    "analise_distratores": [
+      { "letra": "A", "motivo": "21 gotas/min resultaria de um tempo de 16 horas (1000 / 48 = 20,8), o dobro do tempo prescrito." },
+      { "letra": "B", "motivo": "28 gotas/min seria para um período de 12 horas (1000 / 36 = 27,7)." },
+      { "letra": "D", "motivo": "60 gotas/min ocorreria se o tempo fosse de aproximadamente 5,5 horas ou em caso de confusão com cálculo em minutos." },
+      { "letra": "E", "motivo": "84 gotas/min é o valor referente ao equipo de microgotas (1000 / 8 = 125 microgotas/min ou 4 horas em macrogotas)." }
+    ],
+    "comentario": "Gotas/min = 1000 / (8 x 3) = 41,66 -> 42 gotas/minuto.",
+    "dificuldade": "Média",
+    "relevancia_prefeitura": "Alta"
+  },
+  {
+    "id": "q-pref-003",
+    "banca": "CONSULPAM",
+    "orgao": "Prefeitura de Viana - ES",
+    "ano": 2023,
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Imunização e PNI",
+    "assunto": "Calendário Nacional de Vacinação da Criança",
+    "enunciado": "Na sala de vacinas de uma Unidade Básica de Saúde (UBS), a mãe traz seu filho de exatamente 2 meses de vida para receber as vacinas recomendadas pelo Programa Nacional de Imunizações (PNI). De acordo com o calendário vigente, a criança deve receber as seguintes vacinas:",
+    "alternativas": [
+      { "id": "A", "texto": "BCG, Hepatite B e Febre Amarela." },
+      { "id": "B", "texto": "Pentavalente, VIP (Poliomielite inativada), Pneumocócica 10-valente e Rotavírus humano." },
+      { "id": "C", "texto": "Tríplice Viral, Meningocócica C e DTP." },
+      { "id": "D", "texto": "Hepatite A, Varicela e HPV quadrivalente." },
+      { "id": "E", "texto": "Pentavalente, VOP (Poliomielite oral), BCG e DTP." }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "Pelo Calendário Nacional de Vacinação do PNI (Ministério da Saúde), aos 2 meses de vida a criança recebe o esquema: 1ª dose da Pentavalente (DTP + Hib + Hep B), 1ª dose da VIP (poliomielite inativada injetável), 1ª dose da Pneumocócica 10V conjugada e 1ª dose da Vacina Rotavírus Humano (VRH, via oral).",
+    "analise_distratores": [
+      { "letra": "A", "motivo": "BCG e Hepatite B são aplicadas ao nascer (primeiras 12 a 24 horas de vida). Febre Amarela é aos 9 meses." },
+      { "letra": "C", "motivo": "Meningocócica C é aos 3 e 5 meses. Tríplice Viral e DTP reforço são a partir de 12 e 15 meses." },
+      { "letra": "D", "motivo": "Hepatite A e Varicela são aos 15 meses. HPV quadrivalente é indicado para crianças/adolescentes de 9 a 14 anos." },
+      { "letra": "E", "motivo": "A VOP (gotinha) não é mais utilizada aos 2 meses (o Brasil adotou 100% VIP injetável para reduzir o risco de paralisia vacinal)." }
+    ],
+    "comentario": "Aos 2 meses: Pentavalente, VIP, Pneumocócica 10-valente e Rotavírus.",
+    "dificuldade": "Fácil",
+    "relevancia_prefeitura": "Alta"
+  },
+  {
+    "id": "q-pref-004",
+    "banca": "IBAM",
+    "orgao": "Prefeitura de Praia Grande - SP",
+    "ano": 2024,
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Ética e Legislação Profissional",
+    "assunto": "Código de Ética dos Profissionais de Enfermagem (Res. COFEN 564/2017)",
+    "enunciado": "Segundo a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem), constitui um DIREITO do profissional de enfermagem:",
+    "alternativas": [
+      { "id": "A", "texto": "Recusar-se a executar atividades que não sejam de sua competência técnica, científica, ética e legal ou que não ofereçam segurança ao profissional e à pessoa." },
+      { "id": "B", "texto": "Administrar medicamentos sem certificar-se da prescrição médica quando o médico estiver em cirurgia de emergência." },
+      { "id": "C", "texto": "Divulgar em redes sociais fotos de pacientes com autorização verbal prévia dos mesmos com fins educativos." },
+      { "id": "D", "texto": "Interromper a assistência de enfermagem em caso de greve sem comunicação prévia às chefias." },
+      { "id": "E", "texto": "Prescrever medicamentos fitoterápicos independentemente de protocolos estabelecidos." }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "O Artigo 22 do Código de Ética (Resolução COFEN 564/2017) estabelece explicitamente como DIREITO: 'Recusar-se a executar atividades que não sejam de sua competência técnica, científica, ética e legal ou que não ofereçam segurança ao profissional, à pessoa, à família e à coletividade'. Trata-se de garantia legal para evitar imperícia, negligência ou imprudência.",
+    "analise_distratores": [
+      { "letra": "B", "motivo": "É PROIBIÇÃO (Art. 76) administrar medicamentos sem conhecer a ação da substância ou sem prescrição médica regular, exceto em iminente risco de morte com protocolo." },
+      { "letra": "C", "motivo": "É PROIBIÇÃO (Art. 86) expor a figura do paciente em redes sociais ou mídias institucionais, mesmo com autorização do mesmo." },
+      { "letra": "D", "motivo": "É DEVER (Art. 41) manter a assistência contínua e garantir serviços de urgência e emergência durante movimentos grevistas, sob pena de infração ética grave." },
+      { "letra": "E", "motivo": "Prescrição medicamentosa é ato restrito ao Enfermeiro e exige respaldo em protocolos institucionais aprovados pelo Ministério da Saúde (Art. 8º da Lei 7.498/86)." }
+    ],
+    "comentario": "Art. 22 da Resolução COFEN 564/2017 garante o direito de recusa por falta de segurança ou competência.",
+    "dificuldade": "Média",
+    "relevancia_prefeitura": "Alta"
+  },
+  {
+    "id": "q-pref-005",
+    "banca": "AOCP",
+    "orgao": "Prefeitura de Maringá - PR",
+    "ano": 2024,
+    "cargo": "Enfermeiro",
+    "materia": "Urgência e Emergência",
+    "assunto": "Suporte Básico de Vida (AHA)",
+    "enunciado": "Durante o atendimento pré-hospitalar (APH) a um indivíduo adulto em Parada Cardiorrespiratória (PCR) presenciada em via pública, os socorristas iniciam as manobras de Reanimação Cardiopulmonar (RCP). De acordo com as Diretrizes da American Heart Association (AHA), a frequência recomendada de compressões torácicas e a relação compressão-ventilação para um socorrista único sem via aérea avançada são, respectivamente:",
+    "alternativas": [
+      { "id": "A", "texto": "80 a 100 compressões/minuto e relação 15:2." },
+      { "id": "B", "texto": "100 a 120 compressões/minuto e relação 30:2." },
+      { "id": "C", "texto": "120 a 140 compressões/minuto e relação 30:2." },
+      { "id": "D", "texto": "100 a 120 compressões/minuto e relação 15:2." },
+      { "id": "E", "texto": "60 a 80 compressões/minuto e relação contínua com 10 ventilações/minuto." }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "As Diretrizes Internacionais de RCP da AHA preconizam para o atendimento do adulto: compressões de alta qualidade com frequência entre 100 e 120 compressões por minuto, profundidade de 5 a 6 cm e retorno total do tórax. A relação compressão-ventilação sem via aérea avançada para qualquer socorrista no adulto é de 30 compressões para 2 ventilações (30:2).",
+    "analise_distratores": [
+      { "letra": "A", "motivo": "Frequência abaixo de 100/min compromete a pressão de perfusão coronariana e cerebral. A relação 15:2 é usada apenas em pediatria com dois socorristas." },
+      { "letra": "C", "motivo": "Comprimir acima de 120/min impede o enchimento ventricular adequado do coração entre as compressões." },
+      { "letra": "D", "motivo": "A relação 15:2 é exclusiva para atendimento pediátrico (crianças e bebês) com 2 socorristas treinados." },
+      { "letra": "E", "motivo": "Compressões contínuas com 1 ventilação a cada 6 segundos só se aplicam após a passagem de via aérea avançada (intubação orotraqueal ou tubo laríngeo)." }
+    ],
+    "comentario": "Diretriz AHA: 100 a 120 compressões/min com relação 30:2 no adulto sem via aérea avançada.",
+    "dificuldade": "Fácil",
+    "relevancia_prefeitura": "Alta"
+  },
+  {
+    "id": "q-pref-006",
+    "banca": "FGV",
+    "orgao": "EBSERH / Concurso Nacional",
+    "ano": 2024,
+    "cargo": "Enfermeiro",
+    "materia": "Biossegurança e Controle de Infecção",
+    "assunto": "Tipos de Precaução e Isolamento",
+    "enunciado": "Um paciente é admitido na enfermaria de clínica médica com suspeita diagnóstica de Tuberculose Pulmonar Bacilífera e infecção ativa. Para a equipe de enfermagem e demais profissionais que prestam assistência direta a este paciente, além do quarto privativo com pressão negativa, qual é a medida de precaução e Equipamento de Proteção Individual (EPI) respiratório estritamente mandatório?",
+    "alternativas": [
+      { "id": "A", "texto": "Precaução de contato; uso de máscara cirúrgica e luvas de procedimento." },
+      { "id": "B", "texto": "Precaução para gotículas; uso de máscara cirúrgica a menos de 1 metro do leito." },
+      { "id": "C", "texto": "Precaução para aerossóis; uso de máscara de proteção respiratória tipo N95 ou PFF2." },
+      { "id": "D", "texto": "Precaução padrão apenas; uso de luvas e avental impermeável se houver contato com sangue." },
+      { "id": "E", "texto": "Precaução reversa / protetora; uso de máscara N95 colocada apenas no paciente." }
+    ],
+    "resposta_correta": "C",
+    "fundamentacao_correta": "O Mycobacterium tuberculosis é transmitido por aerossóis (núcleos de partículas suspensas com tamanho menor que 5 micras que flutuam no ar por horas e alcançam os alvéolos pulmonares). As normas de biossegurança da ANVISA e Ministério da Saúde exigem Quarto de Isolamento Respiratório com pressão negativa/filtro HEPA e uso obrigatório de respirador PFF2 ou N95 pelo profissional ao entrar no quarto.",
+    "analise_distratores": [
+      { "letra": "A", "motivo": "Precaução de contato é voltada para bactérias multirresistentes (KPC, VRE), escabiose e infecções entéricas por Clostridioides." },
+      { "letra": "B", "motivo": "Precaução de gotículas utiliza máscara cirúrgica comum para patógenos pesados que caem a até 1 metro (ex: Influenza, Meningite meningocócica, Coqueluche)." },
+      { "letra": "D", "motivo": "Precaução padrão é insuficiente para patógenos respiratórios com transmissão aérea por aerossóis." },
+      { "letra": "E", "motivo": "Precaução reversa é para pacientes neutropênicos graves/imunossuprimidos; e se o paciente com tuberculose for transportado, ele deve usar máscara cirúrgica comum (não N95)." }
+    ],
+    "comentario": "Tuberculose = Precaução para Aerossóis + Quarto privativo + Máscara N95/PFF2 pelo profissional.",
+    "dificuldade": "Média",
+    "relevancia_prefeitura": "Média"
+  },
+  {
+    "id": "q-pref-007",
+    "banca": "RBO",
+    "orgao": "Prefeitura de Osasco - SP",
+    "ano": 2023,
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Saúde da Mulher",
+    "assunto": "Cálculo da Data Provável do Parto (Regra de Nägele)",
+    "enunciado": "Durante uma consulta de pré-natal na Unidade de Saúde da Família, a gestante informa que a Data da Última Menstruação (DUM) foi no dia 15 de março de 2024. Aplicando a Regra de Nägele, a Data Provável do Parto (DPP) desta gestante será:",
+    "alternativas": [
+      { "id": "A", "texto": "22 de dezembro de 2024." },
+      { "id": "B", "texto": "22 de novembro de 2024." },
+      { "id": "C", "texto": "15 de dezembro de 2024." },
+      { "id": "D", "texto": "08 de janeiro de 2025." },
+      { "id": "E", "texto": "22 de janeiro de 2025." }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Pela Regra de Nägele (Manual de Atenção ao Pré-natal do Ministério da Saúde): adiciona-se 7 ao dia da DUM; e para os meses de janeiro a março (meses 1, 2 e 3), adiciona-se 9 ao mês (mantendo o mesmo ano). Cálculo: Dia = 15 + 7 = 22. Mês = 3 (março) + 9 = 12 (dezembro). Ano = 2024. Logo, DPP = 22 de dezembro de 2024.",
+    "analise_distratores": [
+      { "letra": "B", "motivo": "22 de novembro de 2024 seria o cálculo errôneo somando apenas 8 meses em vez de 9." },
+      { "letra": "C", "motivo": "15 de dezembro comete o erro de somar apenas os meses e esquecer de adicionar 7 dias ao dia da DUM." },
+      { "letra": "D", "motivo": "08 de janeiro resultaria de uma subtração errônea de dias ou adição incorreta de 10 meses." },
+      { "letra": "E", "motivo": "22 de janeiro de 2025 consideraria um ciclo gestacional de 10 meses de calendário em vez de 40 semanas." }
+    ],
+    "comentario": "Regra de Nägele: Dia + 7 e Mês + 9 (para Jan a Mar). 15+7=22 de Dezembro de 2024.",
+    "dificuldade": "Média",
+    "relevancia_prefeitura": "Alta"
+  },
+  {
+    "id": "q-pref-008",
+    "banca": "IBGP",
+    "orgao": "Prefeitura de Contagem - MG",
+    "ano": 2024,
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Fundamentos de Enfermagem",
+    "assunto": "Sinais Vitais e Terminologia Técnica",
+    "enunciado": "Ao verificar os sinais vitais de um paciente atendido na sala de emergência da UPA, o técnico de enfermagem registra: Pressão Arterial = 145x95 mmHg, Frequência Cardíaca = 118 batimentos por minuto, e Frequência Respiratória = 26 incursões respiratórias por minuto. Os termos técnicos corretos para descrever, respectivamente, a alteração da frequência cardíaca e da frequência respiratória são:",
+    "alternativas": [
+      { "id": "A", "texto": "Bradicardia e Bradipneia." },
+      { "id": "B", "texto": "Taquicardia e Taquipneia." },
+      { "id": "C", "texto": "Normocardia e Ortopneia." },
+      { "id": "D", "texto": "Arritmia e Apneia." },
+      { "id": "E", "texto": "Taquisfigmia e Eupneia." }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "Os parâmetros de normalidade de sinais vitais no adulto de repouso são: FC normocárdica entre 60 e 100 bpm; portanto, FC = 118 bpm caracteriza TAQUICARDIA. FR eupneica entre 12 e 20 irpm; portanto, FR = 26 irpm caracteriza TAQUIPNEIA. Ambos os termos técnicos estão corretamente correlacionados na alternativa B.",
+    "analise_distratores": [
+      { "letra": "A", "motivo": "Bradicardia indica FC < 60 bpm e Bradipneia indica FR < 12 irpm (valores diminuídos, oposto do paciente)." },
+      { "letra": "C", "motivo": "Normocardia seria FC entre 60 e 100 bpm; Ortopneia é a dificuldade respiratória na posição horizontal/deitado." },
+      { "letra": "D", "motivo": "Arritmia indica ritmo irregular dos batimentos cardíacos; Apneia é a parada temporária dos movimentos respiratórios." },
+      { "letra": "E", "motivo": "Eupneia descreve a frequência respiratória estritamente normal (12 a 20 irpm)." }
+    ],
+    "comentario": "FC > 100 bpm = Taquicardia; FR > 20 irpm = Taquipneia.",
+    "dificuldade": "Fácil",
+    "relevancia_prefeitura": "Alta"
+  }
+]

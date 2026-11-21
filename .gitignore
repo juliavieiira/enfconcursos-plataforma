@@ -1,0 +1,6 @@
+node_modules/
+site-enfermagem/node_modules/
+site-enfermagem/dist/
+.gemini/
+*.log
+.DS_Store
