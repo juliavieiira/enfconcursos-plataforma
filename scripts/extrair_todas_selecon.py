@@ -10,7 +10,7 @@ import re
 import json
 from pathlib import Path
 
-PDF_DIR = Path("/home/antigravity/01_PDFS_DE_REFERENCIA/prefeituras/selecon_questoes")
+PDF_DIR = Path("/home/antigravity/01_PDFS_DE_REFERENCIA/prefeituras/enfermagem")
 OUTPUT_JSON = Path("/home/antigravity/02_BANCO_DE_QUESTOES/questoes_selecon_brutas.json")
 
 def extrair_numero_pagina(caminho):

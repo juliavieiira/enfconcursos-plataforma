@@ -24,8 +24,9 @@ O repositório segue uma organização numerada, limpa e modular:
 
 ```
 ├── 📁 01_PDFS_DE_REFERENCIA/                 # PDFs originais das provas e cadernos de concurso
-│   ├── 📁 prefeituras/                       # Provas municipais (SELECON, IBAM, VUNESP, Consulpam...)
-│   │   └── 📁 selecon_questoes/              # 45 PDFs de referência da SELECON
+│   ├── 📁 prefeituras/                       # Provas municipais organizadas por matéria
+│   │   ├── 📁 enfermagem/                    # Todos os cadernos e provas de Enfermagem
+│   │   └── 📁 portugues/                     # Todos os cadernos e provas de Língua Portuguesa
 │   ├── 📁 concursos_maiores/                 # Provas EBSERH, Fiocruz, Federais e Estaduais
 │   ├── 📁 cadernos_simulados/                # Apostilas e simulados prontos em PDF
 │   └── 📄 COMO_ADICIONAR_PROVAS.md           # Guia de organização para novos PDFs

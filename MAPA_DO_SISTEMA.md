@@ -11,10 +11,8 @@ Tudo foi estruturado em pastas numeradas, limpas e de fácil acesso para você e
 │
 ├── 📂 01_PDFS_DE_REFERENCIA/                 <-- Onde ficam seus PDFs originais
 │   ├── 📁 prefeituras/
-│   │   ├── 📁 sudeste/                      (SP, RJ, MG, ES)
-│   │   ├── 📁 sul/                          (PR, SC, RS)
-│   │   ├── 📁 nordeste/                     (BA, CE, PE, MA...)
-│   │   └── 📁 centro_oeste_norte/           (GO, MT, MS, DF, PA, AM...)
+│   │   ├── 📁 enfermagem/                   (Todos os cadernos e provas de Enfermagem)
+│   │   └── 📁 portugues/                    (Todos os cadernos e provas de Português)
 │   ├── 📁 concursos_maiores/                (EBSERH, Federais, Fiocruz)
 │   └── 📁 cadernos_simulados/               (Apostilas e simulados prontos em PDF)
 │

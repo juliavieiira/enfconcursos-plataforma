@@ -16,7 +16,7 @@ import json
 from pathlib import Path
 
 BASE_DIR = Path("/home/antigravity")
-PDF_DIR = BASE_DIR / "01_PDFS_DE_REFERENCIA" / "prefeituras" / "selecon_questoes"
+PDF_DIR = BASE_DIR / "01_PDFS_DE_REFERENCIA" / "prefeituras" / "enfermagem"
 OUTPUT_JSON = BASE_DIR / "02_BANCO_DE_QUESTOES" / "todas_as_questoes.json"
 OUTPUT_BRUTAS = BASE_DIR / "02_BANCO_DE_QUESTOES" / "questoes_selecon_brutas.json"
 
