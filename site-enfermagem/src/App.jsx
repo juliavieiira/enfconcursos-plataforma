@@ -460,16 +460,16 @@ export default function App() {
 
           <div className="hero-stats">
             <div className="stat-item">
-              <span className="stat-num">{questoes.length}</span>
-              <span className="stat-label">Questões Prontas</span>
+              <span className="stat-num">{questoes.length > 0 ? questoes.length.toLocaleString('pt-BR') : '2.007'}</span>
+              <span className="stat-label">Questões Auditadas</span>
             </div>
             <div className="stat-item">
               <span className="stat-num">100%</span>
               <span className="stat-label">Gabaritos Comentados</span>
             </div>
             <div className="stat-item">
-              <span className="stat-num">{taxaAcerto}%</span>
-              <span className="stat-label">Sua Taxa de Acerto</span>
+              <span className="stat-num">{totalRespondidas > 0 ? `${taxaAcerto}%` : '2026'}</span>
+              <span className="stat-label">{totalRespondidas > 0 ? 'Sua Taxa de Acerto' : 'Provas Atualizadas'}</span>
             </div>
           </div>
         </div>
@@ -1282,7 +1282,7 @@ export default function App() {
                       onClick={() => setPadraoBanca('Todas')}
                     >
                       Todas as Bancas
-                      <span className="pill-badge">{questoes.length} q.</span>
+                      <span className="pill-badge">{questoes.length > 0 ? `${questoes.length} q.` : '2.007 q.'}</span>
                     </button>
 
                     {todasBancasOpcoes.map(banca => {
@@ -1442,7 +1442,7 @@ export default function App() {
                   A banca <strong>{padraoBanca}</strong> está pré-configurada e pronta para receber questões!
                 </h3>
                 <p style={{ color: '#64748b', maxWidth: '580px', margin: '0 auto 1.5rem', fontSize: '0.92rem', lineHeight: '1.6' }}>
-                  Atualmente o acervo conta com <strong>{questoes.length} questões auditadas da banca SELECON</strong> (sendo 1.135 de Língua Portuguesa e 872 de Enfermagem). Assim que você fizer upload dos cadernos de provas em PDF da <strong>{padraoBanca}</strong> na pasta <code>/01_PDFS_DE_REFERENCIA/prefeituras/</code>, o gráfico de pizza e o ranking ordenado de conteúdo serão calculados instantaneamente aqui!
+                  Atualmente o acervo conta com <strong>{questoes.length > 0 ? questoes.length.toLocaleString('pt-BR') : '2.007'} questões auditadas da banca SELECON</strong> (sendo 1.135 de Língua Portuguesa e 872 de Enfermagem). Assim que você fizer upload dos cadernos de provas em PDF da <strong>{padraoBanca}</strong> na pasta <code>/01_PDFS_DE_REFERENCIA/prefeituras/</code>, o gráfico de pizza e o ranking ordenado de conteúdo serão calculados instantaneamente aqui!
                 </p>
                 <div style={{ display: 'flex', gap: '0.75rem', justifyContent: 'center', flexWrap: 'wrap' }}>
                   <button
@@ -1453,7 +1453,7 @@ export default function App() {
                       setPadraoCargo('Todos');
                     }}
                   >
-                    Ver Raio-X da SELECON ({questoes.length} Questões Prontas)
+                    Ver Raio-X da SELECON ({questoes.length > 0 ? questoes.length.toLocaleString('pt-BR') : '2.007'} Questões Auditadas)
                   </button>
                   <button
                     className="btn-padrao-pill"
