@@ -13,6 +13,12 @@ import {
   Filter,
   Flame,
   ChevronRight,
+  ChevronLeft,
+  ChevronsLeft,
+  ChevronsRight,
+  Focus,
+  LayoutList,
+  HelpCircle,
   TrendingUp,
   FolderOpen,
   Sparkles,
@@ -31,6 +37,11 @@ export default function App() {
   const [activeTab, setActiveTab] = useState('questoes'); // 'questoes', 'padrao', 'simulados', 'materiais'
   const [questoes, setQuestoes] = useState([]);
   const [carregandoDados, setCarregandoDados] = useState(true);
+
+  // Modo de visualização de questões: 'individual' (1 por vez com máxima leveza) ou 'lista'
+  const [modoVisualizacao, setModoVisualizacao] = useState('individual');
+  const [questaoIndex, setQuestaoIndex] = useState(0);
+  const [puloInput, setPuloInput] = useState('');
 
   // Carregamento assíncrono e leve do acervo de questões
   useEffect(() => {
@@ -211,6 +222,7 @@ export default function App() {
     if (padraoBanca !== 'Todas') {
       setFiltroBanca(padraoBanca);
     }
+    setQuestaoIndex(0);
     setActiveTab('questoes');
     window.scrollTo({ top: 350, behavior: 'smooth' });
   };
@@ -256,6 +268,76 @@ export default function App() {
 
     return matchBusca && matchCargo && matchBanca && matchMateria && matchTipo;
   });
+
+  // Navegação de questões no Modo Individual (1 por vez com pre-loading leve)
+  const totalFiltradas = questoesFiltradas.length;
+  const safeIndex = totalFiltradas > 0 ? Math.min(Math.max(0, questaoIndex), totalFiltradas - 1) : 0;
+  const questaoAtual = totalFiltradas > 0 ? questoesFiltradas[safeIndex] : null;
+
+  const scrollParaQuestao = () => {
+    const el = document.getElementById('questoes-anchor');
+    if (el) {
+      el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  };
+
+  const irParaProxima = () => {
+    if (safeIndex < totalFiltradas - 1) {
+      setQuestaoIndex(safeIndex + 1);
+      scrollParaQuestao();
+    }
+  };
+
+  const irParaAnterior = () => {
+    if (safeIndex > 0) {
+      setQuestaoIndex(safeIndex - 1);
+      scrollParaQuestao();
+    }
+  };
+
+  const irParaPrimeira = () => {
+    setQuestaoIndex(0);
+    scrollParaQuestao();
+  };
+
+  const irParaUltima = () => {
+    if (totalFiltradas > 0) {
+      setQuestaoIndex(totalFiltradas - 1);
+      scrollParaQuestao();
+    }
+  };
+
+  const handlePuloSubmit = (e) => {
+    e.preventDefault();
+    const num = parseInt(puloInput, 10);
+    if (!isNaN(num) && num >= 1 && num <= totalFiltradas) {
+      setQuestaoIndex(num - 1);
+      setPuloInput('');
+      scrollParaQuestao();
+    }
+  };
+
+  // Atalhos de teclado (← e →) para navegação fluida sem pesar a tela
+  useEffect(() => {
+    const handleKeyDown = (e) => {
+      if (activeTab !== 'questoes' || modoVisualizacao !== 'individual') return;
+      if (['INPUT', 'SELECT', 'TEXTAREA'].includes(document.activeElement?.tagName)) return;
+
+      if (e.key === 'ArrowRight') {
+        if (safeIndex < totalFiltradas - 1) {
+          setQuestaoIndex(prev => Math.min(prev + 1, totalFiltradas - 1));
+          scrollParaQuestao();
+        }
+      } else if (e.key === 'ArrowLeft') {
+        if (safeIndex > 0) {
+          setQuestaoIndex(prev => Math.max(prev - 1, 0));
+          scrollParaQuestao();
+        }
+      }
+    };
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [activeTab, modoVisualizacao, safeIndex, totalFiltradas]);
 
   // Temporizador do simulado
   useEffect(() => {
@@ -414,7 +496,7 @@ export default function App() {
                   className="filter-input"
                   style={{ width: '100%', paddingLeft: '2.5rem' }}
                   value={buscaTexto}
-                  onChange={e => setBuscaTexto(e.target.value)}
+                  onChange={e => { setBuscaTexto(e.target.value); setQuestaoIndex(0); }}
                 />
               </div>
 
@@ -424,7 +506,7 @@ export default function App() {
                   <select
                     className="filter-select"
                     value={filtroTipo}
-                    onChange={e => setFiltroTipo(e.target.value)}
+                    onChange={e => { setFiltroTipo(e.target.value); setQuestaoIndex(0); }}
                   >
                     <option value="Todos">Todos os Concursos</option>
                     <option value="Prefeituras">Apenas Prefeituras Municipais</option>
@@ -437,7 +519,7 @@ export default function App() {
                   <select
                     className="filter-select"
                     value={filtroCargo}
-                    onChange={e => setFiltroCargo(e.target.value)}
+                    onChange={e => { setFiltroCargo(e.target.value); setQuestaoIndex(0); }}
                   >
                     <option value="Todos">Todos os Cargos</option>
                     <option value="Técnico de Enfermagem">Técnico de Enfermagem</option>
@@ -450,7 +532,7 @@ export default function App() {
                   <select
                     className="filter-select"
                     value={filtroBanca}
-                    onChange={e => setFiltroBanca(e.target.value)}
+                    onChange={e => { setFiltroBanca(e.target.value); setQuestaoIndex(0); }}
                   >
                     {bancasDisponiveis.map(b => (
                       <option key={b} value={b}>{b}</option>
@@ -463,7 +545,7 @@ export default function App() {
                   <select
                     className="filter-select"
                     value={filtroMateria}
-                    onChange={e => setFiltroMateria(e.target.value)}
+                    onChange={e => { setFiltroMateria(e.target.value); setQuestaoIndex(0); }}
                   >
                     {materiasDisponiveis.map(m => (
                       <option key={m} value={m}>{m}</option>
@@ -473,6 +555,9 @@ export default function App() {
               </div>
             </div>
 
+            {/* Âncora para rolagem suave */}
+            <div id="questoes-anchor"></div>
+
             {/* Listagem de Questões */}
             {carregandoDados ? (
               <div style={{ textAlign: 'center', padding: '3.5rem 2rem', background: '#ffffff', borderRadius: '1rem', border: '1px solid #e2e8f0', margin: '1.5rem 0' }}>
@@ -480,144 +565,432 @@ export default function App() {
                 <h3 style={{ fontSize: '1.15rem', fontWeight: 700, color: '#0f172a', marginBottom: '0.35rem' }}>Carregando 2.007 questões auditadas...</h3>
                 <p style={{ color: '#64748b', fontSize: '0.9rem', margin: 0 }}>Sincronizando acervo de Enfermagem e Língua Portuguesa SELECON</p>
               </div>
+            ) : totalFiltradas === 0 ? (
+              <div style={{ textAlign: 'center', padding: '3.5rem 2rem', background: '#ffffff', borderRadius: '1rem', border: '1px solid #e2e8f0', margin: '1.5rem 0' }}>
+                <HelpCircle size={44} color="#94a3b8" style={{ margin: '0 auto 1rem' }} />
+                <h3 style={{ fontSize: '1.2rem', fontWeight: 700, color: '#0f172a', marginBottom: '0.5rem' }}>Nenhuma questão encontrada</h3>
+                <p style={{ color: '#64748b', fontSize: '0.95rem', marginBottom: '1.25rem' }}>Tente alterar os filtros ou remover termos específicos da pesquisa.</p>
+                <button
+                  className="btn-primary"
+                  onClick={() => {
+                    setBuscaTexto('');
+                    setFiltroCargo('Todos');
+                    setFiltroBanca('Todas');
+                    setFiltroMateria('Todas');
+                    setFiltroTipo('Todos');
+                    setQuestaoIndex(0);
+                  }}
+                >
+                  Limpar Todos os Filtros
+                </button>
+              </div>
             ) : (
               <>
-                <div className="questoes-header" style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '1rem' }}>
-                  <span style={{ fontWeight: 600, color: '#475569' }}>
-                    Exibindo {questoesFiltradas.length} questões encontradas
-                  </span>
-                </div>
-
-                {questoesFiltradas.slice(0, limiteExibicao).map((q, index) => {
-              const resp = respostas[q.id];
-              const confirmada = resp?.confirmada;
-              const acertou = confirmada && resp.selecionada === q.resposta_correta;
-
-              return (
-                <article key={q.id} className="question-card">
-                  <div className="question-meta">
-                    <span className="badge" style={{ background: '#0f172a', color: '#38bdf8', fontWeight: 800 }}>
-                      {q.id}
+                {/* Barra de Navegação e Modos */}
+                <div className="question-nav-header">
+                  <div className="question-nav-counter">
+                    <span className="question-nav-tag">
+                      {modoVisualizacao === 'individual' ? `Questão ${safeIndex + 1} de ${totalFiltradas}` : `${totalFiltradas} questões`}
                     </span>
-                    <span className="badge badge-banca">{q.banca}</span>
-                    <span className="badge badge-orgao">{q.orgao} • {q.ano}</span>
-                    <span className="badge badge-cargo">{q.cargo}</span>
-                    <span className="badge badge-materia">{q.assunto || q.materia}</span>
-                  </div>
-
-                  <p className="question-text">
-                    <strong>Questão {index + 1}:</strong> {q.enunciado}
-                  </p>
-
-                  <div className="alternativas-list">
-                    {q.alternativas.map(alt => {
-                      const isSelected = resp?.selecionada === alt.id;
-                      let altClass = 'alt-option';
-                      if (isSelected) altClass += ' selected';
-                      if (confirmada) {
-                        if (alt.id === q.resposta_correta) altClass += ' correct';
-                        else if (isSelected && !acertou) altClass += ' wrong';
-                      }
-
-                      return (
-                        <button
-                          key={alt.id}
-                          className={altClass}
-                          onClick={() => selecionarOpcaoQuestao(q.id, alt.id)}
-                          disabled={confirmada}
-                        >
-                          <span className="alt-letter">{alt.id}</span>
-                          <span style={{ flex: 1 }}>{alt.texto}</span>
-                        </button>
-                      );
-                    })}
-                  </div>
-
-                  <div className="question-actions">
-                    <div>
-                      {confirmada && (
-                        <span style={{
-                          display: 'inline-flex',
-                          alignItems: 'center',
-                          gap: '0.4rem',
-                          fontWeight: 700,
-                          color: acertou ? '#059669' : '#dc2626'
-                        }}>
-                          {acertou ? (
-                            <>
-                              <CheckCircle2 size={20} />
-                              Parabéns! Resposta Correta
-                            </>
-                          ) : (
-                            <>
-                              <XCircle size={20} />
-                              Resposta Incorreta. Gabarito: {q.resposta_correta}
-                            </>
-                          )}
-                        </span>
-                      )}
-                    </div>
-
-                    {!confirmada && (
-                      <button
-                        className="btn-primary"
-                        onClick={() => confirmarResposta(q.id)}
-                        disabled={!resp?.selecionada}
-                      >
-                        Responder Questão
-                      </button>
+                    {modoVisualizacao === 'individual' && questaoAtual && (
+                      (() => {
+                        const resp = respostas[questaoAtual.id];
+                        if (!resp?.confirmada) {
+                          return <span className="status-badge status-pending">⚪ Não respondida</span>;
+                        }
+                        const acertou = resp.selecionada === questaoAtual.resposta_correta;
+                        return acertou ? (
+                          <span className="status-badge status-correct">✓ Resposta Correta</span>
+                        ) : (
+                          <span className="status-badge status-wrong">✕ Incorreta (Gabarito: {questaoAtual.resposta_correta})</span>
+                        );
+                      })()
                     )}
                   </div>
 
-                  {/* Comentário do Professor */}
-                  {confirmada && (
-                    <div className="comment-box animate-fade-in">
-                      <div className="comment-section-correct">
-                        <div className="comment-title-correct">
-                          <CheckCircle2 size={18} color="#166534" />
-                          <span>Gabarito Oficial: Alternativa {q.resposta_correta} (Fundamentação Legal / Técnica)</span>
-                        </div>
-                        <p className="comment-text-correct">
-                          {q.fundamentacao_correta || q.comentario}
-                        </p>
-                      </div>
+                  <div className="question-nav-controls">
+                    <div className="view-mode-toggle">
+                      <button
+                        className={`btn-mode-toggle ${modoVisualizacao === 'individual' ? 'active' : ''}`}
+                        onClick={() => setModoVisualizacao('individual')}
+                        title="Exibir 1 questão por vez com navegação ultra-rápida (Recomendado)"
+                      >
+                        <Focus size={15} />
+                        <span>1 por Vez (Foco)</span>
+                      </button>
+                      <button
+                        className={`btn-mode-toggle ${modoVisualizacao === 'lista' ? 'active' : ''}`}
+                        onClick={() => setModoVisualizacao('lista')}
+                        title="Exibir questões em lista corrida"
+                      >
+                        <LayoutList size={15} />
+                        <span>Lista Corrida</span>
+                      </button>
+                    </div>
 
-                      {q.analise_distratores && q.analise_distratores.length > 0 && (
-                        <div className="comment-section-wrong">
-                          <div className="comment-title-wrong">
-                            <XCircle size={17} color="#dc2626" />
-                            <span>Análise dos Distratores (Por que as outras alternativas estão incorretas):</span>
+                    {modoVisualizacao === 'individual' && (
+                      <form onSubmit={handlePuloSubmit} className="jump-form">
+                        <span style={{ fontSize: '0.8rem', color: '#64748b', fontWeight: 600 }}>Pular p/:</span>
+                        <input
+                          type="number"
+                          min="1"
+                          max={totalFiltradas}
+                          placeholder={`1-${totalFiltradas}`}
+                          className="jump-input"
+                          value={puloInput}
+                          onChange={e => setPuloInput(e.target.value)}
+                        />
+                        <button type="submit" className="btn-jump">Ir</button>
+                      </form>
+                    )}
+                  </div>
+                </div>
+
+                {/* MODO 1: INDIVIDUAL (1 QUESTÃO POR VEZ COM PRE-LOADING INSTANTÂNEO) */}
+                {modoVisualizacao === 'individual' && questaoAtual && (() => {
+                  const q = questaoAtual;
+                  const resp = respostas[q.id];
+                  const confirmada = resp?.confirmada;
+                  const acertou = confirmada && resp.selecionada === q.resposta_correta;
+                  const pctProgresso = Math.round(((safeIndex + 1) / totalFiltradas) * 100);
+
+                  return (
+                    <div className="individual-question-wrapper animate-fade-in" key={q.id}>
+                      <article className="question-card" style={{ marginBottom: '1.25rem', borderTop: '3px solid #0d9488' }}>
+                        <div className="question-meta" style={{ justifyContent: 'space-between' }}>
+                          <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.5rem', alignItems: 'center' }}>
+                            <span className="badge" style={{ background: '#0f172a', color: '#38bdf8', fontWeight: 800 }}>
+                              {q.id}
+                            </span>
+                            <span className="badge badge-banca">{q.banca}</span>
+                            <span className="badge badge-orgao">{q.orgao} • {q.ano}</span>
+                            <span className="badge badge-cargo">{q.cargo}</span>
+                            <span className="badge badge-materia">{q.assunto || q.materia}</span>
                           </div>
-                          <div className="distratores-list">
-                            {q.analise_distratores.map(d => (
-                              <div key={d.letra} className="distrator-item">
-                                <span className="distrator-badge">{d.letra}</span>
-                                <div>
-                                  <strong>Alternativa {d.letra}:</strong> {d.motivo}
+
+                          <span style={{ fontSize: '0.82rem', color: '#64748b', fontWeight: 600 }}>
+                            Questão {safeIndex + 1} de {totalFiltradas} ({pctProgresso}%)
+                          </span>
+                        </div>
+
+                        <p className="question-text" style={{ fontSize: '1.08rem', lineHeight: '1.75' }}>
+                          <strong>Enunciado:</strong> {q.enunciado}
+                        </p>
+
+                        <div className="alternativas-list">
+                          {q.alternativas.map(alt => {
+                            const isSelected = resp?.selecionada === alt.id;
+                            let altClass = 'alt-option';
+                            if (isSelected) altClass += ' selected';
+                            if (confirmada) {
+                              if (alt.id === q.resposta_correta) altClass += ' correct';
+                              else if (isSelected && !acertou) altClass += ' wrong';
+                            }
+
+                            return (
+                              <button
+                                key={alt.id}
+                                className={altClass}
+                                onClick={() => selecionarOpcaoQuestao(q.id, alt.id)}
+                                disabled={confirmada}
+                                style={{ padding: '0.95rem 1.15rem' }}
+                              >
+                                <span className="alt-letter">{alt.id}</span>
+                                <span style={{ flex: 1, fontSize: '0.98rem' }}>{alt.texto}</span>
+                              </button>
+                            );
+                          })}
+                        </div>
+
+                        <div className="question-actions" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '1rem' }}>
+                          <div>
+                            {confirmada && (
+                              <span style={{
+                                display: 'inline-flex',
+                                alignItems: 'center',
+                                gap: '0.4rem',
+                                fontWeight: 700,
+                                fontSize: '1rem',
+                                color: acertou ? '#059669' : '#dc2626'
+                              }}>
+                                {acertou ? (
+                                  <>
+                                    <CheckCircle2 size={22} />
+                                    Parabéns! Resposta Correta
+                                  </>
+                                ) : (
+                                  <>
+                                    <XCircle size={22} />
+                                    Resposta Incorreta. Gabarito: {q.resposta_correta}
+                                  </>
+                                )}
+                              </span>
+                            )}
+                          </div>
+
+                          <div style={{ display: 'flex', gap: '0.75rem' }}>
+                            {!confirmada ? (
+                              <button
+                                className="btn-primary"
+                                onClick={() => confirmarResposta(q.id)}
+                                disabled={!resp?.selecionada}
+                                style={{ padding: '0.8rem 2rem', fontSize: '1rem' }}
+                              >
+                                Responder Questão
+                              </button>
+                            ) : (
+                              safeIndex < totalFiltradas - 1 && (
+                                <button
+                                  className="btn-primary"
+                                  onClick={irParaProxima}
+                                  style={{
+                                    padding: '0.8rem 1.75rem',
+                                    fontSize: '1rem',
+                                    background: '#0d9488',
+                                    display: 'inline-flex',
+                                    alignItems: 'center',
+                                    gap: '0.5rem'
+                                  }}
+                                >
+                                  <span>Próxima Questão</span>
+                                  <ChevronRight size={18} />
+                                </button>
+                              )
+                            )}
+                          </div>
+                        </div>
+
+                        {/* Comentário do Professor e Análise de Distratores */}
+                        {confirmada && (
+                          <div className="comment-box animate-fade-in" style={{ marginTop: '1.5rem' }}>
+                            <div className="comment-section-correct">
+                              <div className="comment-title-correct">
+                                <CheckCircle2 size={18} color="#166534" />
+                                <span>Gabarito Oficial: Alternativa {q.resposta_correta} (Fundamentação Legal / Técnica)</span>
+                              </div>
+                              <p className="comment-text-correct">
+                                {q.fundamentacao_correta || q.comentario}
+                              </p>
+                            </div>
+
+                            {q.analise_distratores && q.analise_distratores.length > 0 && (
+                              <div className="comment-section-wrong">
+                                <div className="comment-title-wrong">
+                                  <XCircle size={17} color="#dc2626" />
+                                  <span>Análise dos Distratores (Por que as outras alternativas estão incorretas):</span>
+                                </div>
+                                <div className="distratores-list">
+                                  {q.analise_distratores.map(d => (
+                                    <div key={d.letra} className="distrator-item">
+                                      <span className="distrator-badge">{d.letra}</span>
+                                      <div>
+                                        <strong>Alternativa {d.letra}:</strong> {d.motivo}
+                                      </div>
+                                    </div>
+                                  ))}
                                 </div>
                               </div>
-                            ))}
+                            )}
+                          </div>
+                        )}
+                      </article>
+
+                      {/* Barra de Navegação Inferior */}
+                      <div className="question-bottom-nav">
+                        <div style={{ display: 'flex', gap: '0.5rem' }}>
+                          <button
+                            className="btn-nav-step"
+                            onClick={irParaPrimeira}
+                            disabled={safeIndex === 0}
+                            title="Primeira questão"
+                          >
+                            <ChevronsLeft size={18} />
+                            <span className="hide-mobile">Primeira</span>
+                          </button>
+                          <button
+                            className="btn-nav-step"
+                            onClick={irParaAnterior}
+                            disabled={safeIndex === 0}
+                            title="Questão anterior (ou Tecla ←)"
+                          >
+                            <ChevronLeft size={18} />
+                            <span>Anterior</span>
+                          </button>
+                        </div>
+
+                        <div style={{ textAlign: 'center', minWidth: '180px' }}>
+                          <div style={{ fontSize: '0.88rem', fontWeight: 700, color: '#0f172a' }}>
+                            Questão {safeIndex + 1} de {totalFiltradas}
+                          </div>
+                          <div className="progress-tracker">
+                            <div className="progress-bar-fill" style={{ width: `${pctProgresso}%` }}></div>
                           </div>
                         </div>
-                      )}
-                    </div>
-                  )}
-                </article>
-              );
-            })}
 
-            {/* Botão para carregar mais questões */}
-            {limiteExibicao < questoesFiltradas.length && (
-              <div style={{ textAlign: 'center', margin: '2.5rem 0' }}>
-                <button
-                  className="btn-primary"
-                  style={{ padding: '0.85rem 2.2rem', fontSize: '1rem', background: '#0f172a' }}
-                  onClick={() => setLimiteExibicao(prev => prev + 25)}
-                >
-                  Carregar Mais 25 Questões ({questoesFiltradas.length - limiteExibicao} restantes)
-                </button>
-              </div>
-            )}
+                        <div style={{ display: 'flex', gap: '0.5rem' }}>
+                          <button
+                            className="btn-nav-step primary"
+                            onClick={irParaProxima}
+                            disabled={safeIndex >= totalFiltradas - 1}
+                            title="Próxima questão (ou Tecla →)"
+                          >
+                            <span>Próxima</span>
+                            <ChevronRight size={18} />
+                          </button>
+                          <button
+                            className="btn-nav-step"
+                            onClick={irParaUltima}
+                            disabled={safeIndex >= totalFiltradas - 1}
+                            title="Última questão"
+                          >
+                            <span className="hide-mobile">Última</span>
+                            <ChevronsRight size={18} />
+                          </button>
+                        </div>
+                      </div>
+
+                      <div style={{ textAlign: 'center', color: '#94a3b8', fontSize: '0.82rem', marginTop: '-0.75rem', marginBottom: '2rem' }}>
+                        ⚡ Dica: Você também pode usar as setas <strong>← Anterior</strong> e <strong>Próxima →</strong> do teclado para avançar rapidamente.
+                      </div>
+                    </div>
+                  );
+                })()}
+
+                {/* MODO 2: LISTA CORRIDA (OPCIONAL) */}
+                {modoVisualizacao === 'lista' && (
+                  <div className="list-mode-wrapper animate-fade-in">
+                    {questoesFiltradas.slice(0, limiteExibicao).map((q, index) => {
+                      const resp = respostas[q.id];
+                      const confirmada = resp?.confirmada;
+                      const acertou = confirmada && resp.selecionada === q.resposta_correta;
+
+                      return (
+                        <article key={q.id} className="question-card">
+                          <div className="question-meta">
+                            <span className="badge" style={{ background: '#0f172a', color: '#38bdf8', fontWeight: 800 }}>
+                              {q.id}
+                            </span>
+                            <span className="badge badge-banca">{q.banca}</span>
+                            <span className="badge badge-orgao">{q.orgao} • {q.ano}</span>
+                            <span className="badge badge-cargo">{q.cargo}</span>
+                            <span className="badge badge-materia">{q.assunto || q.materia}</span>
+                          </div>
+
+                          <p className="question-text">
+                            <strong>Questão {index + 1}:</strong> {q.enunciado}
+                          </p>
+
+                          <div className="alternativas-list">
+                            {q.alternativas.map(alt => {
+                              const isSelected = resp?.selecionada === alt.id;
+                              let altClass = 'alt-option';
+                              if (isSelected) altClass += ' selected';
+                              if (confirmada) {
+                                if (alt.id === q.resposta_correta) altClass += ' correct';
+                                else if (isSelected && !acertou) altClass += ' wrong';
+                              }
+
+                              return (
+                                <button
+                                  key={alt.id}
+                                  className={altClass}
+                                  onClick={() => selecionarOpcaoQuestao(q.id, alt.id)}
+                                  disabled={confirmada}
+                                >
+                                  <span className="alt-letter">{alt.id}</span>
+                                  <span style={{ flex: 1 }}>{alt.texto}</span>
+                                </button>
+                              );
+                            })}
+                          </div>
+
+                          <div className="question-actions">
+                            <div>
+                              {confirmada && (
+                                <span style={{
+                                  display: 'inline-flex',
+                                  alignItems: 'center',
+                                  gap: '0.4rem',
+                                  fontWeight: 700,
+                                  color: acertou ? '#059669' : '#dc2626'
+                                }}>
+                                  {acertou ? (
+                                    <>
+                                      <CheckCircle2 size={20} />
+                                      Parabéns! Resposta Correta
+                                    </>
+                                  ) : (
+                                    <>
+                                      <XCircle size={20} />
+                                      Resposta Incorreta. Gabarito: {q.resposta_correta}
+                                    </>
+                                  )}
+                                </span>
+                              )}
+                            </div>
+
+                            {!confirmada && (
+                              <button
+                                className="btn-primary"
+                                onClick={() => confirmarResposta(q.id)}
+                                disabled={!resp?.selecionada}
+                              >
+                                Responder Questão
+                              </button>
+                            )}
+                          </div>
+
+                          {/* Comentário do Professor */}
+                          {confirmada && (
+                            <div className="comment-box animate-fade-in">
+                              <div className="comment-section-correct">
+                                <div className="comment-title-correct">
+                                  <CheckCircle2 size={18} color="#166534" />
+                                  <span>Gabarito Oficial: Alternativa {q.resposta_correta} (Fundamentação Legal / Técnica)</span>
+                                </div>
+                                <p className="comment-text-correct">
+                                  {q.fundamentacao_correta || q.comentario}
+                                </p>
+                              </div>
+
+                              {q.analise_distratores && q.analise_distratores.length > 0 && (
+                                <div className="comment-section-wrong">
+                                  <div className="comment-title-wrong">
+                                    <XCircle size={17} color="#dc2626" />
+                                    <span>Análise dos Distratores (Por que as outras alternativas estão incorretas):</span>
+                                  </div>
+                                  <div className="distratores-list">
+                                    {q.analise_distratores.map(d => (
+                                      <div key={d.letra} className="distrator-item">
+                                        <span className="distrator-badge">{d.letra}</span>
+                                        <div>
+                                          <strong>Alternativa {d.letra}:</strong> {d.motivo}
+                                        </div>
+                                      </div>
+                                    ))}
+                                  </div>
+                                </div>
+                              )}
+                            </div>
+                          )}
+                        </article>
+                      );
+                    })}
+
+                    {/* Botão para carregar mais questões */}
+                    {limiteExibicao < questoesFiltradas.length && (
+                      <div style={{ textAlign: 'center', margin: '2.5rem 0' }}>
+                        <button
+                          className="btn-primary"
+                          style={{ padding: '0.85rem 2.2rem', fontSize: '1rem', background: '#0f172a' }}
+                          onClick={() => setLimiteExibicao(prev => prev + 25)}
+                        >
+                          Carregar Mais 25 Questões ({questoesFiltradas.length - limiteExibicao} restantes)
+                        </button>
+                      </div>
+                    )}
+                  </div>
+                )}
               </>
             )}
           </section>
