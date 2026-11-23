@@ -44,16 +44,33 @@ export default function App() {
   const [questaoIndex, setQuestaoIndex] = useState(0);
   const [puloInput, setPuloInput] = useState('');
 
-  // Carregamento assíncrono e resiliente do acervo de questões
+  // Carregamento resiliente do acervo de questões:
+  // 1º Tenta importação dinâmica do Vite (garantida em webviews, iframes e proxies)
+  // 2º Fallback para fetch assíncrono com múltiplas URLs candidatas
   useEffect(() => {
     let ativo = true;
-    const urls = [
-      `${import.meta.env.BASE_URL || '/'}data/questoes.json`.replace('//', '/'),
-      './data/questoes.json',
-      '/data/questoes.json'
-    ];
 
     const carregar = async () => {
+      // 1. Importação dinâmica do Vite (mais segura e imune a problemas de URL/proxy)
+      try {
+        const mod = await import('./data/questoes.json');
+        const data = mod.default || mod;
+        if (ativo && Array.isArray(data) && data.length > 0) {
+          setQuestoes(data);
+          setCarregandoDados(false);
+          return;
+        }
+      } catch (errImport) {
+        console.warn('Import dinâmico falhou, tentando fetch de fallback...', errImport);
+      }
+
+      // 2. Fallback via fetch assíncrono
+      const urls = [
+        `${import.meta.env.BASE_URL || '/'}data/questoes.json`.replace('//', '/'),
+        './data/questoes.json',
+        '/data/questoes.json'
+      ];
+
       for (const url of urls) {
         try {
           const res = await fetch(url);
@@ -69,6 +86,7 @@ export default function App() {
           console.warn(`Tentativa em ${url} falhou, tentando próxima...`, e);
         }
       }
+
       if (ativo) {
         console.error('Falha ao carregar acervo das URLs candidatas.');
         setCarregandoDados(false);
@@ -281,9 +299,9 @@ export default function App() {
   const questoesFiltradas = questoes.filter(q => {
     const matchBusca =
       !buscaTexto ||
-      q.enunciado.toLowerCase().includes(buscaTexto.toLowerCase()) ||
-      q.orgao.toLowerCase().includes(buscaTexto.toLowerCase()) ||
-      q.assunto.toLowerCase().includes(buscaTexto.toLowerCase());
+      (q.enunciado && q.enunciado.toLowerCase().includes(buscaTexto.toLowerCase())) ||
+      (q.orgao && q.orgao.toLowerCase().includes(buscaTexto.toLowerCase())) ||
+      (q.assunto && q.assunto.toLowerCase().includes(buscaTexto.toLowerCase()));
 
     const matchBanca = filtroBanca === 'Todas' || q.banca === filtroBanca;
 
@@ -657,11 +675,19 @@ export default function App() {
             <div id="questoes-anchor"></div>
 
             {/* Listagem de Questões */}
-            {carregandoDados ? (
+            {carregandoDados || questoes.length === 0 ? (
               <div style={{ textAlign: 'center', padding: '3.5rem 2rem', background: '#ffffff', borderRadius: '1rem', border: '1px solid #e2e8f0', margin: '1.5rem 0' }}>
                 <div style={{ width: '40px', height: '40px', border: '3px solid #ccfbf1', borderTopColor: '#0d9488', borderRadius: '50%', animation: 'enfSpin 0.75s linear infinite', margin: '0 auto 1rem' }}></div>
-                <h3 style={{ fontSize: '1.15rem', fontWeight: 700, color: '#0f172a', marginBottom: '0.35rem' }}>Carregando 2.007 questões auditadas...</h3>
-                <p style={{ color: '#64748b', fontSize: '0.9rem', margin: 0 }}>Sincronizando acervo de Enfermagem e Língua Portuguesa SELECON</p>
+                <h3 style={{ fontSize: '1.15rem', fontWeight: 700, color: '#0f172a', marginBottom: '0.35rem' }}>Sincronizando 2.007 questões auditadas...</h3>
+                <p style={{ color: '#64748b', fontSize: '0.9rem', margin: '0 0 1rem 0' }}>Carregando acervo de Enfermagem e Língua Portuguesa SELECON</p>
+                <button
+                  type="button"
+                  className="btn-primary"
+                  style={{ fontSize: '0.85rem', padding: '0.5rem 1rem' }}
+                  onClick={() => window.location.reload()}
+                >
+                  Recarregar Acervo
+                </button>
               </div>
             ) : totalFiltradas === 0 ? (
               <div style={{ textAlign: 'center', padding: '3.5rem 2rem', background: '#ffffff', borderRadius: '1rem', border: '1px solid #e2e8f0', margin: '1.5rem 0' }}>
@@ -672,7 +698,7 @@ export default function App() {
                   className="btn-primary"
                   onClick={() => {
                     setBuscaTexto('');
-                    setFiltroBanca('Todas');
+                    setFiltroBanca('SELECON');
                     setFiltroCargo('Todos');
                     setFiltroMateria('Todas');
                     setFiltroAssunto('Todos');
