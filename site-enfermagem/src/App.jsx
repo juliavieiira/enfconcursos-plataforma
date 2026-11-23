@@ -1450,7 +1450,7 @@ export default function App() {
                 Qual o Padrão da Banca <span style={{ color: '#0d9488' }}>{padraoBanca === 'Todas' ? 'em Concursos Públicos' : padraoBanca}</span>{padraoMateria !== 'Todas' ? ` (${padraoMateria})` : ''}?
               </h2>
               <p style={{ color: '#64748b', fontSize: '1rem', lineHeight: '1.6' }}>
-                Auditoria estatística em tempo real baseada em <strong>{questoesPadrao.length} questões auditadas</strong>. Selecione a banca examinadora, a disciplina e o cargo desejado para descobrir a probabilidade de cada tema cair na sua prova, ordenados do 1º ao último colocado.
+                Auditoria estatística em tempo real baseada em <strong>{totalQuestoesPadrao.toLocaleString('pt-BR')} questões auditadas</strong>. Selecione a banca examinadora, a disciplina e o cargo desejado para descobrir a probabilidade de cada tema cair na sua prova, ordenados do 1º ao último colocado.
               </p>
 
               {/* Card de Filtros: Banca Examinadora + Disciplina + Cargo */}
