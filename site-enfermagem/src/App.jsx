@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import './App.css';
-import { BANCAS_PRECONFIGURADAS, INSIGHTS_POR_BANCA, getInsightPorBanca } from './data/bancasInfo';
-import { ASSUNTOS_PORTUGUES, ASSUNTOS_ENFERMAGEM, questaoPertenceAoAssunto } from './data/assuntosCatalogo';
+import { BANCAS_PRECONFIGURADAS, getInsightPorBanca } from './data/bancasInfo';
+import { ASSUNTOS_PORTUGUES, ASSUNTOS_ENFERMAGEM, questaoPertenceAoAssunto, carregarQuestoesAssunto } from './data/assuntosCatalogo';
 import {
   Stethoscope,
   BookOpen,
@@ -9,7 +9,6 @@ import {
   Award,
   CheckCircle2,
   XCircle,
-  FileText,
   Search,
   Filter,
   Flame,
@@ -20,18 +19,17 @@ import {
   Focus,
   LayoutList,
   HelpCircle,
-  TrendingUp,
   FolderOpen,
   Sparkles,
   ShieldCheck,
   Zap,
-  ArrowRight,
   PieChart,
   BarChart3,
   Lightbulb,
   Target,
   Building2,
-  Layers
+  Layers,
+  RotateCcw
 } from 'lucide-react';
 
 export default function App() {
@@ -39,70 +37,53 @@ export default function App() {
   const [questoes, setQuestoes] = useState([]);
   const [carregandoDados, setCarregandoDados] = useState(true);
 
-  // Modo de visualização de questões: 'individual' (1 por vez com máxima leveza) ou 'lista'
+  // Modo de visualização de questões: 'individual' (1 por vez com máxima leveza e foco)
   const [modoVisualizacao, setModoVisualizacao] = useState('individual');
   const [questaoIndex, setQuestaoIndex] = useState(0);
   const [puloInput, setPuloInput] = useState('');
 
-  // Carregamento resiliente do acervo de questões:
-  // 1º Tenta importação dinâmica do Vite (garantida em webviews, iframes e proxies)
-  // 2º Fallback para fetch assíncrono com múltiplas URLs candidatas
+  // Filtros - Padrão direto na banca SELECON e no tema principal de Enfermagem
+  const [buscaTexto, setBuscaTexto] = useState('');
+  const [filtroBanca, setFiltroBanca] = useState('SELECON');
+  const [filtroCargo, setFiltroCargo] = useState('Todos');
+  const [filtroMateria, setFiltroMateria] = useState('Enfermagem');
+  const [filtroAssunto, setFiltroAssunto] = useState('Fundamentos e Procedimentos de Enfermagem');
+
+  // Carregamento sob demanda ultra-leve: carrega apenas as questões do assunto selecionado (sem pesar o navegador com 2.000 questões)
   useEffect(() => {
     let ativo = true;
+    setCarregandoDados(true);
 
-    const carregar = async () => {
-      // 1. Importação dinâmica do Vite (mais segura e imune a problemas de URL/proxy)
-      try {
-        const mod = await import('./data/questoes.json');
-        const data = mod.default || mod;
-        if (ativo && Array.isArray(data) && data.length > 0) {
-          setQuestoes(data);
-          setCarregandoDados(false);
-          return;
-        }
-      } catch (errImport) {
-        console.warn('Import dinâmico falhou, tentando fetch de fallback...', errImport);
-      }
-
-      // 2. Fallback via fetch assíncrono
-      const urls = [
-        `${import.meta.env.BASE_URL || '/'}data/questoes.json`.replace('//', '/'),
-        './data/questoes.json',
-        '/data/questoes.json'
-      ];
-
-      for (const url of urls) {
-        try {
-          const res = await fetch(url);
-          if (res.ok) {
-            const data = await res.json();
-            if (ativo && Array.isArray(data) && data.length > 0) {
-              setQuestoes(data);
-              setCarregandoDados(false);
-              return;
-            }
+    carregarQuestoesAssunto(filtroMateria, filtroAssunto)
+      .then(data => {
+        if (ativo) {
+          if (Array.isArray(data) && data.length > 0) {
+            setQuestoes(data);
           }
-        } catch (e) {
-          console.warn(`Tentativa em ${url} falhou, tentando próxima...`, e);
+          setCarregandoDados(false);
+          setQuestaoIndex(0);
         }
-      }
+      })
+      .catch(err => {
+        console.error('Erro ao carregar questões do assunto:', err);
+        if (ativo) setCarregandoDados(false);
+      });
 
-      if (ativo) {
-        console.error('Falha ao carregar acervo das URLs candidatas.');
-        setCarregandoDados(false);
-      }
-    };
-
-    carregar();
     return () => { ativo = false; };
-  }, []);
+  }, [filtroMateria, filtroAssunto]);
 
-  // Filtros
-  const [buscaTexto, setBuscaTexto] = useState('');
-  const [filtroBanca, setFiltroBanca] = useState('SELECON'); // Padrão com a banca ativa SELECON
-  const [filtroCargo, setFiltroCargo] = useState('Todos');
-  const [filtroMateria, setFiltroMateria] = useState('Todas');
-  const [filtroAssunto, setFiltroAssunto] = useState('Todos');
+  // Carregamento em segundo plano do acervo completo apenas se o aluno acessar as abas Padrão da Banca ou Simulados
+  const [acervoCompleto, setAcervoCompleto] = useState([]);
+  useEffect(() => {
+    if (activeTab === 'padrao' || activeTab === 'simulados') {
+      if (acervoCompleto.length === 0) {
+        import('./data/questoes.json').then(mod => {
+          const data = mod.default || mod;
+          if (Array.isArray(data)) setAcervoCompleto(data);
+        }).catch(err => console.warn('Carregamento secundário:', err));
+      }
+    }
+  }, [activeTab, acervoCompleto.length]);
 
   // Estado das respostas do usuário na aba questões
   const [respostas, setRespostas] = useState({}); // { [questionId]: { selecionada: 'A', confirmada: true } }
@@ -125,10 +106,6 @@ export default function App() {
     return q && r.selecionada === q.resposta_correta;
   }).length;
   const taxaAcerto = totalRespondidas > 0 ? Math.round((totalAcertos / totalRespondidas) * 100) : 0;
-
-  // Bancas e matérias únicas para os selects dos filtros
-  const bancasDisponiveis = ['SELECON', 'Todas', ...new Set(questoes.map(q => q.banca).filter(b => b && b !== 'SELECON'))];
-  const materiasDisponiveis = ['Todas', 'Enfermagem', 'Língua Portuguesa'];
 
   // Assuntos com contagens garantidas (estáticas pré-carregadas + dinâmicas do acervo)
   const assuntosConfig = useMemo(() => {
@@ -160,12 +137,12 @@ export default function App() {
   const [padraoBanca, setPadraoBanca] = useState('SELECON'); // 'Todas', 'SELECON', etc.
 
   // Bancas presentes no acervo de questões + bancas de referência preparadas para expansão
-  const bancasNoAcervo = [...new Set(questoes.map(q => q.banca).filter(Boolean))];
+  const baseQuestoesGerais = acervoCompleto.length > 0 ? acervoCompleto : questoes;
+  const bancasNoAcervo = [...new Set(baseQuestoesGerais.map(q => q.banca).filter(Boolean))];
   const todasBancasOpcoes = Array.from(new Set([...bancasNoAcervo, ...BANCAS_PRECONFIGURADAS]));
-  const insightsPorBanca = INSIGHTS_POR_BANCA;
 
   // Filtragem estrita da aba Padrão da Banca por Banca + Matéria + Cargo
-  const questoesPadrao = questoes.filter(q => {
+  const questoesPadrao = baseQuestoesGerais.filter(q => {
     const matchBanca = padraoBanca === 'Todas' || q.banca === padraoBanca;
     const matchMateria = padraoMateria === 'Todas' || q.materia === padraoMateria;
     let matchCargo = true;
@@ -556,8 +533,8 @@ export default function App() {
                     value={filtroBanca}
                     onChange={e => { setFiltroBanca(e.target.value); setQuestaoIndex(0); }}
                   >
-                    <option value="SELECON">SELECON ({questoes.length > 0 ? questoes.filter(q => q.banca === 'SELECON').length.toLocaleString('pt-BR') : '2.007'} questões auditadas)</option>
-                    <option value="Todas">Todas as Bancas ({questoes.length > 0 ? questoes.length.toLocaleString('pt-BR') : '2.007'} q.)</option>
+                    <option value="SELECON">SELECON (+2.000 questões auditadas)</option>
+                    <option value="Todas">Todas as Bancas (Acervo Auditado)</option>
                     <optgroup label="Bancas em Preparação">
                       <option value="IBAM" disabled>IBAM (Em breve)</option>
                       <option value="VUNESP" disabled>VUNESP (Em breve)</option>
@@ -589,14 +566,21 @@ export default function App() {
                     className="filter-select"
                     value={filtroMateria}
                     onChange={e => {
-                      setFiltroMateria(e.target.value);
-                      setFiltroAssunto('Todos');
+                      const novaMateria = e.target.value;
+                      setFiltroMateria(novaMateria);
+                      if (novaMateria === 'Enfermagem') {
+                        setFiltroAssunto('Fundamentos e Procedimentos de Enfermagem');
+                      } else if (novaMateria === 'Língua Portuguesa') {
+                        setFiltroAssunto('Interpretação e Compreensão de Textos');
+                      } else {
+                        setFiltroAssunto('Todos');
+                      }
                       setQuestaoIndex(0);
                     }}
                   >
-                    <option value="Todas">Todas as Disciplinas</option>
                     <option value="Enfermagem">Enfermagem</option>
                     <option value="Língua Portuguesa">Língua Portuguesa</option>
+                    <option value="Todas">Todas as Disciplinas</option>
                   </select>
                 </div>
 
@@ -625,10 +609,10 @@ export default function App() {
                   >
                     <option value="Todos">
                       {filtroMateria === 'Língua Portuguesa'
-                        ? `Todos os Assuntos de Língua Portuguesa (${questoes.length > 0 ? questoes.filter(q => q.materia === 'Língua Portuguesa').length.toLocaleString('pt-BR') : '1.135'} q.)`
+                        ? 'Todos os Assuntos de Língua Portuguesa (1.135 q.)'
                         : filtroMateria === 'Enfermagem'
-                        ? `Todos os Assuntos de Enfermagem (${questoes.length > 0 ? questoes.filter(q => q.materia === 'Enfermagem').length.toLocaleString('pt-BR') : '872'} q.)`
-                        : `Todos os Assuntos (${questoes.length > 0 ? questoes.length.toLocaleString('pt-BR') : '2.007'} q.)`}
+                        ? 'Todos os Assuntos de Enfermagem (872 q.)'
+                        : 'Todos os Assuntos (2.007 q.)'}
                     </option>
 
                     {(filtroMateria === 'Todas' || filtroMateria === 'Língua Portuguesa') && (
@@ -675,19 +659,11 @@ export default function App() {
             <div id="questoes-anchor"></div>
 
             {/* Listagem de Questões */}
-            {carregandoDados || questoes.length === 0 ? (
+            {carregandoDados ? (
               <div style={{ textAlign: 'center', padding: '3.5rem 2rem', background: '#ffffff', borderRadius: '1rem', border: '1px solid #e2e8f0', margin: '1.5rem 0' }}>
                 <div style={{ width: '40px', height: '40px', border: '3px solid #ccfbf1', borderTopColor: '#0d9488', borderRadius: '50%', animation: 'enfSpin 0.75s linear infinite', margin: '0 auto 1rem' }}></div>
-                <h3 style={{ fontSize: '1.15rem', fontWeight: 700, color: '#0f172a', marginBottom: '0.35rem' }}>Sincronizando 2.007 questões auditadas...</h3>
-                <p style={{ color: '#64748b', fontSize: '0.9rem', margin: '0 0 1rem 0' }}>Carregando acervo de Enfermagem e Língua Portuguesa SELECON</p>
-                <button
-                  type="button"
-                  className="btn-primary"
-                  style={{ fontSize: '0.85rem', padding: '0.5rem 1rem' }}
-                  onClick={() => window.location.reload()}
-                >
-                  Recarregar Acervo
-                </button>
+                <h3 style={{ fontSize: '1.15rem', fontWeight: 700, color: '#0f172a', marginBottom: '0.35rem' }}>Carregando questões do assunto...</h3>
+                <p style={{ color: '#64748b', fontSize: '0.9rem', margin: 0 }}>Preparando modo de estudo individual focado</p>
               </div>
             ) : totalFiltradas === 0 ? (
               <div style={{ textAlign: 'center', padding: '3.5rem 2rem', background: '#ffffff', borderRadius: '1rem', border: '1px solid #e2e8f0', margin: '1.5rem 0' }}>
@@ -700,46 +676,31 @@ export default function App() {
                     setBuscaTexto('');
                     setFiltroBanca('SELECON');
                     setFiltroCargo('Todos');
-                    setFiltroMateria('Todas');
-                    setFiltroAssunto('Todos');
+                    setFiltroMateria('Enfermagem');
+                    setFiltroAssunto('Fundamentos e Procedimentos de Enfermagem');
                     setQuestaoIndex(0);
                   }}
                 >
-                  Limpar Todos os Filtros
+                  Restaurar Filtros Padrão
                 </button>
               </div>
             ) : (
               <>
-                {/* Banner de Caderno Temático quando um assunto é selecionado */}
-                {filtroAssunto !== 'Todos' && (
-                  <div className="assunto-banner animate-fade-in">
-                    <div className="assunto-banner-info">
-                      <Target size={22} color="#0d9488" />
-                      <div>
-                        <strong>Caderno Temático: {filtroAssunto}</strong>
-                        <p>{totalFiltradas} {totalFiltradas === 1 ? 'questão auditada pronta para resolução' : 'questões auditadas prontas para resolução'}</p>
-                      </div>
-                    </div>
-                    <div className="assunto-banner-actions">
-                      <button
-                        type="button"
-                        className={`btn-mode-pill ${modoVisualizacao === 'individual' ? 'active' : ''}`}
-                        onClick={() => setModoVisualizacao('individual')}
-                        title="Resolver 1 questão por vez com foco total"
-                      >
-                        <Focus size={14} /> 1 por Vez (Foco)
-                      </button>
-                      <button
-                        type="button"
-                        className={`btn-mode-pill ${modoVisualizacao === 'lista' ? 'active' : ''}`}
-                        onClick={() => setModoVisualizacao('lista')}
-                        title="Exibir todas as questões em lista contínua"
-                      >
-                        <LayoutList size={14} /> Todas em Lista ({totalFiltradas})
-                      </button>
+                {/* Banner de Caderno Temático */}
+                <div className="assunto-banner animate-fade-in">
+                  <div className="assunto-banner-info">
+                    <Target size={22} color="#0d9488" />
+                    <div>
+                      <strong>Caderno Temático: {filtroAssunto !== 'Todos' ? filtroAssunto : `Todas as Questões de ${filtroMateria}`}</strong>
+                      <p>{totalFiltradas} {totalFiltradas === 1 ? 'questão auditada' : 'questões auditadas'} • Modo de Estudo Focado (1 Questão por Vez)</p>
                     </div>
                   </div>
-                )}
+                  <div className="assunto-banner-actions">
+                    <span style={{ fontSize: '0.85rem', fontWeight: 700, color: '#0f766e', background: '#ccfbf1', padding: '0.4rem 0.85rem', borderRadius: '2rem' }}>
+                      Questão {safeIndex + 1} de {totalFiltradas}
+                    </span>
+                  </div>
+                </div>
 
                 {/* Barra de Navegação e Modos */}
                 <div className="question-nav-header">
@@ -913,62 +874,102 @@ export default function App() {
                           })}
                         </div>
 
-                        <div className="question-actions" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '1rem' }}>
-                          <div>
-                            {confirmada && (
-                              <span style={{
-                                display: 'inline-flex',
-                                alignItems: 'center',
-                                gap: '0.4rem',
-                                fontWeight: 700,
-                                fontSize: '1rem',
-                                color: acertou ? '#059669' : '#dc2626'
-                              }}>
-                                {acertou ? (
-                                  <>
-                                    <CheckCircle2 size={22} />
-                                    Parabéns! Resposta Correta
-                                  </>
-                                ) : (
-                                  <>
-                                    <XCircle size={22} />
-                                    Resposta Incorreta. Gabarito: {q.resposta_correta}
-                                  </>
-                                )}
-                              </span>
-                            )}
-                          </div>
-
-                          <div style={{ display: 'flex', gap: '0.75rem' }}>
-                            {!confirmada ? (
+                        <div className="question-actions" style={{ marginTop: '1.25rem' }}>
+                          {!confirmada ? (
+                            <div style={{ display: 'flex', justifyContent: 'flex-end' }}>
                               <button
                                 className="btn-primary"
                                 onClick={() => confirmarResposta(q.id)}
                                 disabled={!resp?.selecionada}
-                                style={{ padding: '0.8rem 2rem', fontSize: '1rem' }}
+                                style={{
+                                  padding: '0.9rem 2.5rem',
+                                  fontSize: '1.05rem',
+                                  fontWeight: 700,
+                                  background: resp?.selecionada ? '#0d9488' : '#94a3b8',
+                                  cursor: resp?.selecionada ? 'pointer' : 'not-allowed',
+                                  boxShadow: resp?.selecionada ? '0 4px 14px rgba(13, 148, 136, 0.3)' : 'none',
+                                  display: 'inline-flex',
+                                  alignItems: 'center',
+                                  gap: '0.5rem'
+                                }}
                               >
-                                Responder Questão
+                                <CheckCircle2 size={20} />
+                                <span>Responder Questão</span>
                               </button>
-                            ) : (
-                              safeIndex < totalFiltradas - 1 && (
-                                <button
-                                  className="btn-primary"
-                                  onClick={irParaProxima}
-                                  style={{
-                                    padding: '0.8rem 1.75rem',
-                                    fontSize: '1rem',
-                                    background: '#0d9488',
-                                    display: 'inline-flex',
-                                    alignItems: 'center',
-                                    gap: '0.5rem'
-                                  }}
-                                >
-                                  <span>Próxima Questão</span>
-                                  <ChevronRight size={18} />
-                                </button>
-                              )
-                            )}
-                          </div>
+                            </div>
+                          ) : (
+                            <div className="feedback-result-card animate-fade-in" style={{
+                              display: 'flex',
+                              alignItems: 'center',
+                              justifyContent: 'space-between',
+                              flexWrap: 'wrap',
+                              gap: '1rem',
+                              background: acertou ? '#f0fdf4' : '#fef2f2',
+                              border: `2px solid ${acertou ? '#4ade80' : '#f87171'}`,
+                              padding: '1.15rem 1.4rem',
+                              borderRadius: '0.85rem'
+                            }}>
+                              <div style={{ display: 'flex', alignItems: 'center', gap: '0.85rem' }}>
+                                {acertou ? (
+                                  <>
+                                    <div style={{ width: '42px', height: '42px', borderRadius: '50%', background: '#dcfce7', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
+                                      <CheckCircle2 size={26} color="#16a34a" />
+                                    </div>
+                                    <div>
+                                      <div style={{ fontWeight: 800, fontSize: '1.1rem', color: '#15803d' }}>
+                                        🎉 Parabéns! Resposta Correta!
+                                      </div>
+                                      <div style={{ fontSize: '0.9rem', color: '#166534' }}>
+                                        Você marcou a <strong>Alternativa {q.resposta_correta}</strong>. Confira a fundamentação completa abaixo.
+                                      </div>
+                                    </div>
+                                  </>
+                                ) : (
+                                  <>
+                                    <div style={{ width: '42px', height: '42px', borderRadius: '50%', background: '#fee2e2', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
+                                      <XCircle size={26} color="#dc2626" />
+                                    </div>
+                                    <div>
+                                      <div style={{ fontWeight: 800, fontSize: '1.1rem', color: '#b91c1c' }}>
+                                        ✕ Resposta Incorreta!
+                                      </div>
+                                      <div style={{ fontSize: '0.9rem', color: '#991b1b' }}>
+                                        Sua marcação foi [{resp?.selecionada}]. O gabarito oficial é a <strong>Alternativa {q.resposta_correta}</strong>.
+                                      </div>
+                                    </div>
+                                  </>
+                                )}
+                              </div>
+
+                              <div>
+                                {safeIndex < totalFiltradas - 1 ? (
+                                  <button
+                                    type="button"
+                                    className="btn-primary btn-next-pulse"
+                                    onClick={irParaProxima}
+                                    style={{
+                                      padding: '0.85rem 2rem',
+                                      fontSize: '1.05rem',
+                                      fontWeight: 800,
+                                      background: '#0d9488',
+                                      display: 'inline-flex',
+                                      alignItems: 'center',
+                                      gap: '0.5rem',
+                                      borderRadius: '0.6rem',
+                                      boxShadow: '0 6px 18px rgba(13, 148, 136, 0.35)'
+                                    }}
+                                  >
+                                    <span>Próxima Questão</span>
+                                    <ChevronRight size={20} />
+                                  </button>
+                                ) : (
+                                  <span style={{ fontWeight: 800, color: '#0d9488', fontSize: '0.95rem' }}>
+                                    🎉 Você concluiu a última questão deste tema!
+                                  </span>
+                                )}
+                              </div>
+                            </div>
+                          )}
                         </div>
 
                         {/* Comentário do Professor e Análise de Distratores */}
@@ -1002,9 +1003,151 @@ export default function App() {
                                 </div>
                               </div>
                             )}
+
+                            {/* Rodapé do comentário com ação rápida para a próxima */}
+                            <div style={{
+                              marginTop: '1.25rem',
+                              paddingTop: '1rem',
+                              borderTop: '1px solid #e2e8f0',
+                              display: 'flex',
+                              alignItems: 'center',
+                              justifyContent: 'space-between',
+                              flexWrap: 'wrap',
+                              gap: '0.75rem'
+                            }}>
+                              <span style={{ fontSize: '0.86rem', color: '#64748b', fontWeight: 600 }}>
+                                {safeIndex < totalFiltradas - 1
+                                  ? `Pronto para a próxima? Restam ${totalFiltradas - safeIndex - 1} questões neste caderno.`
+                                  : 'Você completou a última questão deste caderno temático!'}
+                              </span>
+                              {safeIndex < totalFiltradas - 1 ? (
+                                <button
+                                  type="button"
+                                  className="btn-primary btn-next-pulse"
+                                  onClick={irParaProxima}
+                                  style={{
+                                    padding: '0.75rem 1.75rem',
+                                    fontSize: '0.98rem',
+                                    fontWeight: 800,
+                                    background: '#0d9488',
+                                    display: 'inline-flex',
+                                    alignItems: 'center',
+                                    gap: '0.5rem',
+                                    borderRadius: '0.5rem',
+                                    boxShadow: '0 4px 14px rgba(13, 148, 136, 0.3)'
+                                  }}
+                                >
+                                  <span>Avançar para a Próxima Questão</span>
+                                  <ChevronRight size={18} />
+                                </button>
+                              ) : (
+                                <button
+                                  type="button"
+                                  className="btn-primary"
+                                  onClick={irParaPrimeira}
+                                  style={{
+                                    padding: '0.75rem 1.75rem',
+                                    fontSize: '0.98rem',
+                                    fontWeight: 700,
+                                    background: '#0f766e',
+                                    display: 'inline-flex',
+                                    alignItems: 'center',
+                                    gap: '0.5rem',
+                                    borderRadius: '0.5rem'
+                                  }}
+                                >
+                                  <RotateCcw size={16} />
+                                  <span>Recomeçar este Caderno</span>
+                                </button>
+                              )}
+                            </div>
                           </div>
                         )}
                       </article>
+
+                      {/* Card de Celebração de Conclusão do Caderno */}
+                      {safeIndex === totalFiltradas - 1 && confirmada && (
+                        <div className="caderno-concluido-card animate-fade-in" style={{
+                          marginBottom: '1.5rem',
+                          padding: '2rem 1.5rem',
+                          background: 'linear-gradient(135deg, #f0fdf4 0%, #ecfdf5 100%)',
+                          border: '2px solid #86efac',
+                          borderRadius: '1rem',
+                          textAlign: 'center'
+                        }}>
+                          <div style={{ fontSize: '2.5rem', marginBottom: '0.5rem' }}>🏆</div>
+                          <h3 style={{ fontSize: '1.35rem', fontWeight: 800, color: '#166534', marginBottom: '0.5rem' }}>
+                            Parabéns! Você concluiu todas as {totalFiltradas} questões deste caderno!
+                          </h3>
+                          <p style={{ color: '#15803d', fontSize: '0.98rem', maxWidth: '620px', margin: '0 auto 1.5rem', lineHeight: '1.6' }}>
+                            Você finalizou com sucesso o estudo prático de <strong>{nomeAssuntoAtivo || filtroMateria}</strong>. Continue praticando para fixar os conteúdos mais cobrados pela banca.
+                          </p>
+                          <div style={{ display: 'flex', justifyContent: 'center', gap: '0.85rem', flexWrap: 'wrap' }}>
+                            <button
+                              type="button"
+                              className="btn-primary"
+                              onClick={irParaPrimeira}
+                              style={{
+                                padding: '0.8rem 1.6rem',
+                                fontWeight: 700,
+                                background: '#0d9488',
+                                display: 'inline-flex',
+                                alignItems: 'center',
+                                gap: '0.5rem',
+                                borderRadius: '0.5rem'
+                              }}
+                            >
+                              <RotateCcw size={18} />
+                              <span>Recomeçar este Caderno</span>
+                            </button>
+                            <button
+                              type="button"
+                              className="btn-secondary"
+                              onClick={() => {
+                                window.scrollTo({ top: 250, behavior: 'smooth' });
+                              }}
+                              style={{
+                                padding: '0.8rem 1.6rem',
+                                fontWeight: 700,
+                                background: '#ffffff',
+                                border: '1px solid #cbd5e1',
+                                color: '#334155',
+                                display: 'inline-flex',
+                                alignItems: 'center',
+                                gap: '0.5rem',
+                                cursor: 'pointer',
+                                borderRadius: '0.5rem'
+                              }}
+                            >
+                              <Filter size={18} />
+                              <span>Escolher Outro Assunto</span>
+                            </button>
+                            <button
+                              type="button"
+                              className="btn-secondary"
+                              onClick={() => {
+                                setActiveTab('padrao');
+                                window.scrollTo({ top: 0, behavior: 'smooth' });
+                              }}
+                              style={{
+                                padding: '0.8rem 1.6rem',
+                                fontWeight: 700,
+                                background: '#ffffff',
+                                border: '1px solid #cbd5e1',
+                                color: '#334155',
+                                display: 'inline-flex',
+                                alignItems: 'center',
+                                gap: '0.5rem',
+                                cursor: 'pointer',
+                                borderRadius: '0.5rem'
+                              }}
+                            >
+                              <BarChart3 size={18} />
+                              <span>Ver Raio-X da Banca</span>
+                            </button>
+                          </div>
+                        </div>
+                      )}
 
                       {/* Barra de Navegação Inferior */}
                       <div className="question-bottom-nav">
