@@ -16,8 +16,6 @@ import {
   ChevronLeft,
   ChevronsLeft,
   ChevronsRight,
-  Focus,
-  LayoutList,
   HelpCircle,
   FolderOpen,
   Sparkles,
@@ -686,138 +684,6 @@ export default function App() {
               </div>
             ) : (
               <>
-                {/* Banner de Caderno Temático */}
-                <div className="assunto-banner animate-fade-in">
-                  <div className="assunto-banner-info">
-                    <Target size={22} color="#0d9488" />
-                    <div>
-                      <strong>Caderno Temático: {filtroAssunto !== 'Todos' ? filtroAssunto : `Todas as Questões de ${filtroMateria}`}</strong>
-                      <p>{totalFiltradas} {totalFiltradas === 1 ? 'questão auditada' : 'questões auditadas'} • Modo de Estudo Focado (1 Questão por Vez)</p>
-                    </div>
-                  </div>
-                  <div className="assunto-banner-actions">
-                    <span style={{ fontSize: '0.85rem', fontWeight: 700, color: '#0f766e', background: '#ccfbf1', padding: '0.4rem 0.85rem', borderRadius: '2rem' }}>
-                      Questão {safeIndex + 1} de {totalFiltradas}
-                    </span>
-                  </div>
-                </div>
-
-                {/* Barra de Navegação e Modos */}
-                <div className="question-nav-header">
-                  <div className="question-nav-counter">
-                    <span className="question-nav-tag">
-                      {modoVisualizacao === 'individual' ? `Questão ${safeIndex + 1} de ${totalFiltradas}` : `${totalFiltradas} questões`}
-                    </span>
-                    {modoVisualizacao === 'individual' && questaoAtual && (
-                      (() => {
-                        const resp = respostas[questaoAtual.id];
-                        if (!resp?.confirmada) {
-                          return <span className="status-badge status-pending">⚪ Não respondida</span>;
-                        }
-                        const acertou = resp.selecionada === questaoAtual.resposta_correta;
-                        return acertou ? (
-                          <span className="status-badge status-correct">✓ Resposta Correta</span>
-                        ) : (
-                          <span className="status-badge status-wrong">✕ Incorreta (Gabarito: {questaoAtual.resposta_correta})</span>
-                        );
-                      })()
-                    )}
-
-                    {filtroBanca !== 'Todas' && (
-                      <span className="active-concurso-badge" title="Filtro de Banca ativo">
-                        <span>🏛️ Banca: {filtroBanca}</span>
-                        <button
-                          type="button"
-                          onClick={() => { setFiltroBanca('Todas'); setQuestaoIndex(0); }}
-                          className="btn-remove-concurso-filter"
-                          title="Remover filtro de banca"
-                        >
-                          ×
-                        </button>
-                      </span>
-                    )}
-
-                    {filtroCargo !== 'Todos' && (
-                      <span className="active-concurso-badge" title="Filtro de Cargo ativo">
-                        <span>💼 {filtroCargo}</span>
-                        <button
-                          type="button"
-                          onClick={() => { setFiltroCargo('Todos'); setQuestaoIndex(0); }}
-                          className="btn-remove-concurso-filter"
-                          title="Remover filtro de cargo"
-                        >
-                          ×
-                        </button>
-                      </span>
-                    )}
-
-                    {filtroMateria !== 'Todas' && (
-                      <span className="active-concurso-badge" title="Filtro de Disciplina ativo">
-                        <span>📚 {filtroMateria}</span>
-                        <button
-                          type="button"
-                          onClick={() => { setFiltroMateria('Todas'); setFiltroAssunto('Todos'); setQuestaoIndex(0); }}
-                          className="btn-remove-concurso-filter"
-                          title="Remover filtro de disciplina"
-                        >
-                          ×
-                        </button>
-                      </span>
-                    )}
-
-                    {filtroAssunto !== 'Todos' && (
-                      <span className="active-concurso-badge" title="Filtro de Assunto ativo">
-                        <span>🏷️ {nomeAssuntoAtivo}</span>
-                        <button
-                          type="button"
-                          onClick={() => { setFiltroAssunto('Todos'); setQuestaoIndex(0); }}
-                          className="btn-remove-concurso-filter"
-                          title="Remover filtro de assunto"
-                        >
-                          ×
-                        </button>
-                      </span>
-                    )}
-                  </div>
-
-                  <div className="question-nav-controls">
-                    <div className="view-mode-toggle">
-                      <button
-                        className={`btn-mode-toggle ${modoVisualizacao === 'individual' ? 'active' : ''}`}
-                        onClick={() => setModoVisualizacao('individual')}
-                        title="Exibir 1 questão por vez com navegação ultra-rápida (Recomendado)"
-                      >
-                        <Focus size={15} />
-                        <span>1 por Vez (Foco)</span>
-                      </button>
-                      <button
-                        className={`btn-mode-toggle ${modoVisualizacao === 'lista' ? 'active' : ''}`}
-                        onClick={() => setModoVisualizacao('lista')}
-                        title="Exibir questões em lista corrida"
-                      >
-                        <LayoutList size={15} />
-                        <span>Lista Corrida</span>
-                      </button>
-                    </div>
-
-                    {modoVisualizacao === 'individual' && (
-                      <form onSubmit={handlePuloSubmit} className="jump-form">
-                        <span style={{ fontSize: '0.8rem', color: '#64748b', fontWeight: 600 }}>Pular p/:</span>
-                        <input
-                          type="number"
-                          min="1"
-                          max={totalFiltradas}
-                          placeholder={`1-${totalFiltradas}`}
-                          className="jump-input"
-                          value={puloInput}
-                          onChange={e => setPuloInput(e.target.value)}
-                        />
-                        <button type="submit" className="btn-jump">Ir</button>
-                      </form>
-                    )}
-                  </div>
-                </div>
-
                 {/* MODO 1: INDIVIDUAL (1 QUESTÃO POR VEZ COM PRE-LOADING INSTANTÂNEO) */}
                 {modoVisualizacao === 'individual' && questaoAtual && (() => {
                   const q = questaoAtual;
@@ -829,8 +695,8 @@ export default function App() {
                   return (
                     <div className="individual-question-wrapper animate-fade-in" key={q.id}>
                       <article className="question-card" style={{ marginBottom: '1.25rem', borderTop: '3px solid #0d9488' }}>
-                        <div className="question-meta" style={{ justifyContent: 'space-between' }}>
-                          <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.5rem', alignItems: 'center' }}>
+                        <div className="question-meta" style={{ justifyContent: 'space-between', display: 'flex', alignItems: 'center', flexWrap: 'wrap', gap: '0.6rem' }}>
+                          <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.45rem', alignItems: 'center' }}>
                             <span className="badge" style={{ background: '#0f172a', color: '#38bdf8', fontWeight: 800 }}>
                               {q.id}
                             </span>
@@ -840,9 +706,26 @@ export default function App() {
                             <span className="badge badge-materia">{q.assunto || q.materia}</span>
                           </div>
 
-                          <span style={{ fontSize: '0.82rem', color: '#64748b', fontWeight: 600 }}>
-                            Questão {safeIndex + 1} de {totalFiltradas} ({pctProgresso}%)
-                          </span>
+                          <div style={{ display: 'flex', alignItems: 'center', gap: '0.65rem' }}>
+                            <span style={{ fontSize: '0.84rem', color: '#0f766e', fontWeight: 700, background: '#ccfbf1', padding: '0.25rem 0.65rem', borderRadius: '1rem' }}>
+                              Questão {safeIndex + 1} de {totalFiltradas} ({pctProgresso}%)
+                            </span>
+                            <form onSubmit={handlePuloSubmit} style={{ display: 'inline-flex', alignItems: 'center', gap: '0.25rem' }}>
+                              <input
+                                type="number"
+                                min="1"
+                                max={totalFiltradas}
+                                placeholder="Nº"
+                                title="Pular para o número da questão"
+                                style={{ width: '52px', padding: '0.2rem 0.4rem', fontSize: '0.78rem', border: '1px solid #cbd5e1', borderRadius: '4px', textAlign: 'center' }}
+                                value={puloInput}
+                                onChange={e => setPuloInput(e.target.value)}
+                              />
+                              <button type="submit" style={{ padding: '0.2rem 0.5rem', fontSize: '0.75rem', background: '#0d9488', color: '#fff', border: 'none', borderRadius: '4px', cursor: 'pointer', fontWeight: 700 }}>
+                                Ir
+                              </button>
+                            </form>
+                          </div>
                         </div>
 
                         <p className="question-text" style={{ fontSize: '1.08rem', lineHeight: '1.75' }}>
