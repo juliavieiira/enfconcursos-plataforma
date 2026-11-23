@@ -2,6 +2,7 @@ import React, { useState, useEffect, useMemo } from 'react';
 import './App.css';
 import { BANCAS_PRECONFIGURADAS, getInsightPorBanca } from './data/bancasInfo';
 import { ASSUNTOS_PORTUGUES, ASSUNTOS_ENFERMAGEM, questaoPertenceAoAssunto, carregarQuestoesAssunto } from './data/assuntosCatalogo';
+import { getPadraoSalvo } from './data/padraoBancaCatalogo';
 import {
   Stethoscope,
   BookOpen,
@@ -70,19 +71,6 @@ export default function App() {
     return () => { ativo = false; };
   }, [filtroMateria, filtroAssunto]);
 
-  // Carregamento em segundo plano do acervo completo apenas se o aluno acessar as abas Padrão da Banca ou Simulados
-  const [acervoCompleto, setAcervoCompleto] = useState([]);
-  useEffect(() => {
-    if (activeTab === 'padrao' || activeTab === 'simulados') {
-      if (acervoCompleto.length === 0) {
-        import('./data/questoes.json').then(mod => {
-          const data = mod.default || mod;
-          if (Array.isArray(data)) setAcervoCompleto(data);
-        }).catch(err => console.warn('Carregamento secundário:', err));
-      }
-    }
-  }, [activeTab, acervoCompleto.length]);
-
   // Estado das respostas do usuário na aba questões
   const [respostas, setRespostas] = useState({}); // { [questionId]: { selecionada: 'A', confirmada: true } }
 
@@ -134,58 +122,10 @@ export default function App() {
   const [padraoCargo, setPadraoCargo] = useState('Todos'); // 'Todos', etc.
   const [padraoBanca, setPadraoBanca] = useState('SELECON'); // 'Todas', 'SELECON', etc.
 
-  // Bancas presentes no acervo de questões + bancas de referência preparadas para expansão
-  const baseQuestoesGerais = acervoCompleto.length > 0 ? acervoCompleto : questoes;
-  const bancasNoAcervo = [...new Set(baseQuestoesGerais.map(q => q.banca).filter(Boolean))];
-  const todasBancasOpcoes = Array.from(new Set([...bancasNoAcervo, ...BANCAS_PRECONFIGURADAS]));
+  // Padrão estatístico auditado salvo (carregamento instantâneo de 2.007 questões da SELECON)
+  const dadosPadraoSalvo = getPadraoSalvo(padraoBanca, padraoMateria, padraoCargo);
 
-  // Filtragem estrita da aba Padrão da Banca por Banca + Matéria + Cargo
-  const questoesPadrao = baseQuestoesGerais.filter(q => {
-    const matchBanca = padraoBanca === 'Todas' || q.banca === padraoBanca;
-    const matchMateria = padraoMateria === 'Todas' || q.materia === padraoMateria;
-    let matchCargo = true;
-    if (padraoCargo !== 'Todos') {
-      if (padraoCargo === 'Técnico de Enfermagem') {
-        matchCargo = q.cargo === 'Técnico de Enfermagem' || (q.cargo && q.cargo.toLowerCase().includes('técnico'));
-      } else if (padraoCargo === 'Enfermeiro') {
-        matchCargo = q.cargo === 'Enfermeiro' || (q.cargo && q.cargo.toLowerCase().includes('enfermeir'));
-      } else if (padraoCargo === 'Nível Superior') {
-        matchCargo = q.cargo === 'Enfermeiro' || (q.cargo && (
-          q.cargo.toLowerCase().includes('superior') ||
-          q.cargo.toLowerCase().includes('analista') ||
-          q.cargo.toLowerCase().includes('advogado') ||
-          q.cargo.toLowerCase().includes('contador') ||
-          q.cargo.toLowerCase().includes('professor') ||
-          q.cargo.toLowerCase().includes('assistente social') ||
-          q.cargo.toLowerCase().includes('médic')
-        ));
-      } else if (padraoCargo === 'Nível Médio / Técnico') {
-        matchCargo = q.cargo === 'Técnico de Enfermagem' || (q.cargo && (
-          q.cargo.toLowerCase().includes('médio') ||
-          q.cargo.toLowerCase().includes('técnico') ||
-          q.cargo.toLowerCase().includes('assistente') ||
-          q.cargo.toLowerCase().includes('agente') ||
-          q.cargo.toLowerCase().includes('fiscal') ||
-          q.cargo.toLowerCase().includes('guarda')
-        ));
-      } else {
-        matchCargo = q.cargo === padraoCargo;
-      }
-    }
-    return matchBanca && matchMateria && matchCargo;
-  });
-
-  const contagemTemas = {};
-  questoesPadrao.forEach(q => {
-    const primary = (q.assunto || q.materia || 'Outros').split(',')[0].trim();
-    contagemTemas[primary] = (contagemTemas[primary] || 0) + 1;
-  });
-
-  const temasOrdenados = Object.entries(contagemTemas)
-    .sort((a, b) => b[1] - a[1]);
-
-  const top10 = temasOrdenados.slice(0, 10);
-  const outrosTotal = temasOrdenados.slice(10).reduce((acc, curr) => acc + curr[1], 0);
+  const todasBancasOpcoes = Array.from(new Set(['SELECON', ...BANCAS_PRECONFIGURADAS]));
 
   const palette = [
     '#0d9488', // teal
@@ -201,17 +141,27 @@ export default function App() {
     '#94a3b8'  // slate (outros)
   ];
 
+  const totalQuestoesPadrao = dadosPadraoSalvo ? dadosPadraoSalvo.total : 0;
+  const listaTemasPadrao = dadosPadraoSalvo ? dadosPadraoSalvo.temas : [];
+
+  const top10 = listaTemasPadrao.slice(0, 10);
+  const outrosTotal = listaTemasPadrao.length > 10
+    ? listaTemasPadrao.slice(10).reduce((acc, curr) => acc + curr.count, 0)
+    : 0;
+
   const itensGrafico = [
-    ...top10.map(([nome, count], idx) => ({
-      nome,
-      count,
-      percent: questoesPadrao.length > 0 ? ((count / questoesPadrao.length) * 100).toFixed(1) : '0.0',
+    ...top10.map((item, idx) => ({
+      nome: item.nome,
+      slug: item.slug,
+      materia: item.materia,
+      count: item.count,
+      percent: item.percent,
       cor: palette[idx % palette.length]
     })),
     ...(outrosTotal > 0 ? [{
       nome: 'Demais Conteúdos',
       count: outrosTotal,
-      percent: questoesPadrao.length > 0 ? ((outrosTotal / questoesPadrao.length) * 100).toFixed(1) : '0.0',
+      percent: totalQuestoesPadrao > 0 ? ((outrosTotal / totalQuestoesPadrao) * 100).toFixed(1) : '0.0',
       cor: palette[10]
     }] : [])
   ];
@@ -219,7 +169,7 @@ export default function App() {
   let acumulador = 0;
   const gradientStops = itensGrafico.length > 0 ? itensGrafico.map((item, index) => {
     const inicio = acumulador;
-    const itemPct = questoesPadrao.length > 0 ? (item.count / questoesPadrao.length) * 100 : 0;
+    const itemPct = totalQuestoesPadrao > 0 ? (item.count / totalQuestoesPadrao) * 100 : 0;
     acumulador += itemPct;
     const fim = index === itensGrafico.length - 1 ? 100 : acumulador;
     return `${item.cor} ${inicio.toFixed(2)}% ${fim.toFixed(2)}%`;
@@ -229,20 +179,24 @@ export default function App() {
     background: `conic-gradient(${gradientStops})`
   };
 
-  const irParaQuestoesPorTema = (tema) => {
-    setBuscaTexto(tema === 'Demais Conteúdos' ? '' : tema);
-    if (padraoMateria !== 'Todas') {
-      setFiltroMateria(padraoMateria);
+  const irParaQuestoesPorTema = (temaNome, materiaTema) => {
+    let mat = materiaTema;
+    if (!mat || mat === 'Todas') {
+      const isPort = ASSUNTOS_PORTUGUES.some(a => a.nome === temaNome);
+      mat = isPort ? 'Língua Portuguesa' : 'Enfermagem';
     }
-    if (padraoCargo !== 'Todos') {
+    setFiltroMateria(mat);
+    setFiltroAssunto(temaNome);
+    setBuscaTexto('');
+    if (padraoCargo === 'Técnico de Enfermagem' || padraoCargo === 'Enfermeiro') {
       setFiltroCargo(padraoCargo);
+    } else {
+      setFiltroCargo('Todos');
     }
-    if (padraoBanca !== 'Todas') {
-      setFiltroBanca(padraoBanca);
-    }
+    setFiltroBanca('SELECON');
     setQuestaoIndex(0);
     setActiveTab('questoes');
-    window.scrollTo({ top: 350, behavior: 'smooth' });
+    window.scrollTo({ top: 250, behavior: 'smooth' });
   };
 
   // Insight estratégico dinâmico por banca e disciplina
@@ -250,8 +204,8 @@ export default function App() {
     nome: padraoBanca === 'Todas' ? 'Concursos Públicos' : padraoBanca,
     foco1: {
       tag: 'Conteúdo Mais Cobrado',
-      title: top10[0] ? top10[0][0] : 'Conteúdo Principal',
-      text: `O tema com maior incidência nesta seleção é "${top10[0] ? top10[0][0] : 'Conteúdo Principal'}", correspondendo a ${top10[0] && questoesPadrao.length > 0 ? ((top10[0][1] / questoesPadrao.length) * 100).toFixed(1) : 0}% das questões analisadas.`
+      title: top10[0] ? top10[0].nome : 'Conteúdo Principal',
+      text: `O tema com maior incidência nesta seleção é "${top10[0] ? top10[0].nome : 'Conteúdo Principal'}", correspondendo a ${top10[0] ? top10[0].percent : 0}% das questões analisadas.`
     },
     ponto: {
       tag: 'Ponto Garantido',
@@ -1515,28 +1469,30 @@ export default function App() {
 
                   <div className="padrao-pills-row">
                     <button
+                      className={`btn-padrao-pill ${padraoBanca === 'SELECON' ? 'active' : ''}`}
+                      onClick={() => setPadraoBanca('SELECON')}
+                    >
+                      SELECON
+                      <span className="pill-badge">2.007 q.</span>
+                    </button>
+                    <button
                       className={`btn-padrao-pill ${padraoBanca === 'Todas' ? 'active' : ''}`}
                       onClick={() => setPadraoBanca('Todas')}
                     >
                       Todas as Bancas
-                      <span className="pill-badge">{questoes.length > 0 ? `${questoes.length} q.` : '2.007 q.'}</span>
+                      <span className="pill-badge">2.007 q.</span>
                     </button>
 
-                    {todasBancasOpcoes.map(banca => {
-                      const countBanca = questoes.filter(q => q.banca === banca).length;
-                      return (
-                        <button
-                          key={banca}
-                          className={`btn-padrao-pill ${padraoBanca === banca ? 'active' : ''}`}
-                          onClick={() => setPadraoBanca(banca)}
-                        >
-                          {banca}
-                          <span className="pill-badge">
-                            {countBanca > 0 ? `${countBanca} q.` : 'Em Breve'}
-                          </span>
-                        </button>
-                      );
-                    })}
+                    {BANCAS_PRECONFIGURADAS.filter(b => b !== 'SELECON').map(banca => (
+                      <button
+                        key={banca}
+                        className={`btn-padrao-pill ${padraoBanca === banca ? 'active' : ''}`}
+                        onClick={() => setPadraoBanca(banca)}
+                      >
+                        {banca}
+                        <span className="pill-badge">Em Breve</span>
+                      </button>
+                    ))}
                   </div>
                 </div>
 
@@ -1558,9 +1514,7 @@ export default function App() {
                       }}
                     >
                       Todas as Matérias
-                      <span className="pill-badge">
-                        {questoes.filter(q => padraoBanca === 'Todas' || q.banca === padraoBanca).length} q.
-                      </span>
+                      <span className="pill-badge">2.007 q.</span>
                     </button>
                     <button
                       className={`btn-padrao-pill ${padraoMateria === 'Língua Portuguesa' ? 'active' : ''}`}
@@ -1570,9 +1524,7 @@ export default function App() {
                       }}
                     >
                       Língua Portuguesa
-                      <span className="pill-badge">
-                        {questoes.filter(q => (padraoBanca === 'Todas' || q.banca === padraoBanca) && q.materia === 'Língua Portuguesa').length} q.
-                      </span>
+                      <span className="pill-badge">1.135 q.</span>
                     </button>
                     <button
                       className={`btn-padrao-pill ${padraoMateria === 'Enfermagem' ? 'active' : ''}`}
@@ -1582,9 +1534,7 @@ export default function App() {
                       }}
                     >
                       Enfermagem
-                      <span className="pill-badge">
-                        {questoes.filter(q => (padraoBanca === 'Todas' || q.banca === padraoBanca) && q.materia === 'Enfermagem').length} q.
-                      </span>
+                      <span className="pill-badge">872 q.</span>
                     </button>
                   </div>
                 </div>
@@ -1603,22 +1553,22 @@ export default function App() {
                       className={`btn-padrao-pill ${padraoCargo === 'Todos' ? 'active' : ''}`}
                       onClick={() => setPadraoCargo('Todos')}
                     >
-                      Todos os Cargos ({questoes.filter(q => (padraoBanca === 'Todas' || q.banca === padraoBanca) && (padraoMateria === 'Todas' || q.materia === padraoMateria)).length})
+                      Todos os Cargos ({padraoMateria === 'Língua Portuguesa' ? '1.135 q.' : padraoMateria === 'Enfermagem' ? '872 q.' : '2.007 q.'})
                     </button>
 
                     {padraoMateria === 'Língua Portuguesa' ? (
                       <>
                         <button
-                          className={`btn-padrao-pill ${padraoCargo === 'Nível Médio / Técnico' ? 'active' : ''}`}
-                          onClick={() => setPadraoCargo('Nível Médio / Técnico')}
+                          className={`btn-padrao-pill ${padraoCargo === 'Técnico de Enfermagem' ? 'active' : ''}`}
+                          onClick={() => setPadraoCargo('Técnico de Enfermagem')}
                         >
-                          Nível Médio / Técnico
+                          Nível Médio / Técnico (174 q.)
                         </button>
                         <button
-                          className={`btn-padrao-pill ${padraoCargo === 'Nível Superior' ? 'active' : ''}`}
-                          onClick={() => setPadraoCargo('Nível Superior')}
+                          className={`btn-padrao-pill ${padraoCargo === 'Enfermeiro' ? 'active' : ''}`}
+                          onClick={() => setPadraoCargo('Enfermeiro')}
                         >
-                          Nível Superior
+                          Nível Superior (77 q.)
                         </button>
                       </>
                     ) : padraoMateria === 'Enfermagem' ? (
@@ -1627,13 +1577,13 @@ export default function App() {
                           className={`btn-padrao-pill ${padraoCargo === 'Técnico de Enfermagem' ? 'active' : ''}`}
                           onClick={() => setPadraoCargo('Técnico de Enfermagem')}
                         >
-                          Técnico de Enfermagem ({questoes.filter(q => (padraoBanca === 'Todas' || q.banca === padraoBanca) && q.cargo === 'Técnico de Enfermagem').length})
+                          Técnico de Enfermagem (343 q.)
                         </button>
                         <button
                           className={`btn-padrao-pill ${padraoCargo === 'Enfermeiro' ? 'active' : ''}`}
                           onClick={() => setPadraoCargo('Enfermeiro')}
                         >
-                          Enfermeiro Superior ({questoes.filter(q => (padraoBanca === 'Todas' || q.banca === padraoBanca) && q.cargo === 'Enfermeiro').length})
+                          Enfermeiro Superior (529 q.)
                         </button>
                       </>
                     ) : (
@@ -1642,25 +1592,13 @@ export default function App() {
                           className={`btn-padrao-pill ${padraoCargo === 'Técnico de Enfermagem' ? 'active' : ''}`}
                           onClick={() => setPadraoCargo('Técnico de Enfermagem')}
                         >
-                          Técnico de Enfermagem
+                          Técnico de Enfermagem (517 q.)
                         </button>
                         <button
                           className={`btn-padrao-pill ${padraoCargo === 'Enfermeiro' ? 'active' : ''}`}
                           onClick={() => setPadraoCargo('Enfermeiro')}
                         >
-                          Enfermeiro Superior
-                        </button>
-                        <button
-                          className={`btn-padrao-pill ${padraoCargo === 'Nível Médio / Técnico' ? 'active' : ''}`}
-                          onClick={() => setPadraoCargo('Nível Médio / Técnico')}
-                        >
-                          Nível Médio Geral
-                        </button>
-                        <button
-                          className={`btn-padrao-pill ${padraoCargo === 'Nível Superior' ? 'active' : ''}`}
-                          onClick={() => setPadraoCargo('Nível Superior')}
-                        >
-                          Nível Superior Geral
+                          Enfermeiro Superior (606 q.)
                         </button>
                       </>
                     )}
@@ -1670,7 +1608,7 @@ export default function App() {
             </div>
 
             {/* Caso a banca selecionada ainda não tenha questões importadas */}
-            {questoesPadrao.length === 0 ? (
+            {totalQuestoesPadrao === 0 ? (
               <div className="padrao-empty-state animate-fade-in">
                 <div className="padrao-empty-icon">
                   <Building2 size={28} />
@@ -1679,7 +1617,7 @@ export default function App() {
                   A banca <strong>{padraoBanca}</strong> está pré-configurada e pronta para receber questões!
                 </h3>
                 <p style={{ color: '#64748b', maxWidth: '580px', margin: '0 auto 1.5rem', fontSize: '0.92rem', lineHeight: '1.6' }}>
-                  Atualmente o acervo conta com <strong>{questoes.length > 0 ? questoes.length.toLocaleString('pt-BR') : '2.007'} questões auditadas da banca SELECON</strong> (sendo 1.135 de Língua Portuguesa e 872 de Enfermagem). Assim que você fizer upload dos cadernos de provas em PDF da <strong>{padraoBanca}</strong> na pasta <code>/01_PDFS_DE_REFERENCIA/prefeituras/</code>, o gráfico de pizza e o ranking ordenado de conteúdo serão calculados instantaneamente aqui!
+                  Atualmente o acervo conta com <strong>2.007 questões auditadas da banca SELECON</strong> (sendo 1.135 de Língua Portuguesa e 872 de Enfermagem). Assim que você fizer upload dos cadernos de provas em PDF da <strong>{padraoBanca}</strong> na pasta <code>/01_PDFS_DE_REFERENCIA/prefeituras/</code>, o gráfico de pizza e o ranking ordenado de conteúdo serão calculados instantaneamente aqui!
                 </p>
                 <div style={{ display: 'flex', gap: '0.75rem', justifyContent: 'center', flexWrap: 'wrap' }}>
                   <button
@@ -1690,7 +1628,7 @@ export default function App() {
                       setPadraoCargo('Todos');
                     }}
                   >
-                    Ver Raio-X da SELECON ({questoes.length > 0 ? questoes.length.toLocaleString('pt-BR') : '2.007'} Questões Auditadas)
+                    Ver Raio-X da SELECON (2.007 Questões Auditadas)
                   </button>
                   <button
                     className="btn-padrao-pill"
@@ -1708,17 +1646,17 @@ export default function App() {
                   <div className="padrao-card">
                     <h3 className="padrao-card-title">
                       <PieChart size={20} color="#0d9488" />
-                      Distribuição Percentual: {padraoBanca === 'Todas' ? 'Todas as Bancas' : padraoBanca}
+                      Distribuição Percentual: {padraoBanca === 'Todas' ? 'SELECON (Acervo Completo)' : padraoBanca}
                     </h3>
                     <p className="padrao-card-desc">
-                      Proporção de cada assunto no universo de {questoesPadrao.length} questões analisadas ({padraoCargo === 'Todos' ? 'Todos os Cargos' : padraoCargo}).
+                      Proporção de cada assunto no universo de {totalQuestoesPadrao.toLocaleString('pt-BR')} questões analisadas ({padraoCargo === 'Todos' ? 'Todos os Cargos' : padraoCargo}).
                     </p>
 
                     <div className="donut-container">
                       <div className="donut-chart-box">
                         <div className="donut-circle" style={donutStyle}></div>
                         <div className="donut-inner-hole">
-                          <span className="donut-inner-num">{questoesPadrao.length}</span>
+                          <span className="donut-inner-num">{totalQuestoesPadrao.toLocaleString('pt-BR')}</span>
                           <span className="donut-inner-label">Questões</span>
                         </div>
                       </div>
@@ -1771,7 +1709,7 @@ export default function App() {
                                 </span>
                                 <button
                                   className="btn-topic-action"
-                                  onClick={() => irParaQuestoesPorTema(item.nome)}
+                                  onClick={() => irParaQuestoesPorTema(item.nome, item.materia)}
                                   title={`Filtrar questões sobre ${item.nome} na banca ${padraoBanca}`}
                                 >
                                   Resolver
