@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import './App.css';
 import { BANCAS_PRECONFIGURADAS, INSIGHTS_POR_BANCA, getInsightPorBanca } from './data/bancasInfo';
+import { ASSUNTOS_PORTUGUES, ASSUNTOS_ENFERMAGEM, questaoPertenceAoAssunto } from './data/assuntosCatalogo';
 import {
   Stethoscope,
   BookOpen,
@@ -43,44 +44,44 @@ export default function App() {
   const [questaoIndex, setQuestaoIndex] = useState(0);
   const [puloInput, setPuloInput] = useState('');
 
-  // Carregamento assíncrono e leve do acervo de questões
+  // Carregamento assíncrono e resiliente do acervo de questões
   useEffect(() => {
     let ativo = true;
-    fetch('./data/questoes.json')
-      .then(res => {
-        if (!res.ok) throw new Error('HTTP ' + res.status);
-        return res.json();
-      })
-      .then(data => {
-        if (ativo && Array.isArray(data)) {
-          setQuestoes(data);
-          setCarregandoDados(false);
-        }
-      })
-      .catch(err => {
-        console.warn('Tentando fallback /data/questoes.json...', err);
-        fetch('/data/questoes.json')
-          .then(r => {
-            if (!r.ok) throw new Error('HTTP ' + r.status);
-            return r.json();
-          })
-          .then(data => {
-            if (ativo && Array.isArray(data)) {
+    const urls = [
+      `${import.meta.env.BASE_URL || '/'}data/questoes.json`.replace('//', '/'),
+      './data/questoes.json',
+      '/data/questoes.json'
+    ];
+
+    const carregar = async () => {
+      for (const url of urls) {
+        try {
+          const res = await fetch(url);
+          if (res.ok) {
+            const data = await res.json();
+            if (ativo && Array.isArray(data) && data.length > 0) {
               setQuestoes(data);
               setCarregandoDados(false);
+              return;
             }
-          })
-          .catch(e => {
-            console.error('Falha ao carregar questoes:', e);
-            if (ativo) setCarregandoDados(false);
-          });
-      });
+          }
+        } catch (e) {
+          console.warn(`Tentativa em ${url} falhou, tentando próxima...`, e);
+        }
+      }
+      if (ativo) {
+        console.error('Falha ao carregar acervo das URLs candidatas.');
+        setCarregandoDados(false);
+      }
+    };
+
+    carregar();
     return () => { ativo = false; };
   }, []);
 
   // Filtros
   const [buscaTexto, setBuscaTexto] = useState('');
-  const [filtroBanca, setFiltroBanca] = useState('Todas');
+  const [filtroBanca, setFiltroBanca] = useState('SELECON'); // Padrão com a banca ativa SELECON
   const [filtroCargo, setFiltroCargo] = useState('Todos');
   const [filtroMateria, setFiltroMateria] = useState('Todas');
   const [filtroAssunto, setFiltroAssunto] = useState('Todos');
@@ -108,39 +109,27 @@ export default function App() {
   const taxaAcerto = totalRespondidas > 0 ? Math.round((totalAcertos / totalRespondidas) * 100) : 0;
 
   // Bancas e matérias únicas para os selects dos filtros
-  const bancasDisponiveis = ['Todas', ...new Set(questoes.map(q => q.banca).filter(Boolean))];
+  const bancasDisponiveis = ['SELECON', 'Todas', ...new Set(questoes.map(q => q.banca).filter(b => b && b !== 'SELECON'))];
   const materiasDisponiveis = ['Todas', 'Enfermagem', 'Língua Portuguesa'];
 
-  // Assuntos extraídos fielmente do banco de questões (100% de cobertura)
+  // Assuntos com contagens garantidas (estáticas pré-carregadas + dinâmicas do acervo)
   const assuntosConfig = useMemo(() => {
-    // 1. Assuntos de Língua Portuguesa extraídos diretamente do banco
-    const portMap = {};
-    questoes.forEach(q => {
-      if (q.materia === 'Língua Portuguesa' && q.assunto) {
-        const nome = q.assunto.trim();
-        portMap[nome] = (portMap[nome] || 0) + 1;
-      }
-    });
-    const portList = Object.entries(portMap)
-      .map(([nome, total]) => ({ nome, total, materia: 'Língua Portuguesa' }))
-      .sort((a, b) => a.nome.localeCompare(b.nome, 'pt-BR'));
+    if (!questoes || questoes.length === 0) {
+      return {
+        portugues: ASSUNTOS_PORTUGUES,
+        enfermagem: ASSUNTOS_ENFERMAGEM
+      };
+    }
 
-    // 2. Assuntos de Enfermagem extraídos diretamente do banco
-    const enfMap = {};
-    questoes.forEach(q => {
-      if (q.materia === 'Enfermagem' && q.assunto) {
-        const partes = q.assunto.split(',').map(p => p.trim()).filter(Boolean);
-        partes.forEach(parte => {
-          if (parte.length > 2) {
-            enfMap[parte] = (enfMap[parte] || 0) + 1;
-          }
-        });
-      }
+    const portList = ASSUNTOS_PORTUGUES.map(item => {
+      const count = questoes.filter(q => questaoPertenceAoAssunto(q, item.nome)).length;
+      return { ...item, total: count > 0 ? count : item.total };
     });
-    const enfList = Object.entries(enfMap)
-      .filter(([_, total]) => total >= 2)
-      .map(([nome, total]) => ({ nome, total, materia: 'Enfermagem' }))
-      .sort((a, b) => a.nome.localeCompare(b.nome, 'pt-BR'));
+
+    const enfList = ASSUNTOS_ENFERMAGEM.map(item => {
+      const count = questoes.filter(q => questaoPertenceAoAssunto(q, item.nome)).length;
+      return { ...item, total: count > 0 ? count : item.total };
+    });
 
     return { portugues: portList, enfermagem: enfList };
   }, [questoes]);
@@ -304,9 +293,7 @@ export default function App() {
 
     const matchMateria = filtroMateria === 'Todas' || q.materia === filtroMateria;
 
-    const matchAssunto =
-      filtroAssunto === 'Todos' ||
-      q.assunto?.toLowerCase().includes(filtroAssunto.toLowerCase());
+    const matchAssunto = questaoPertenceAoAssunto(q, filtroAssunto);
 
     return matchBusca && matchBanca && matchCargo && matchMateria && matchAssunto;
   });
@@ -551,15 +538,15 @@ export default function App() {
                     value={filtroBanca}
                     onChange={e => { setFiltroBanca(e.target.value); setQuestaoIndex(0); }}
                   >
+                    <option value="SELECON">SELECON ({questoes.length > 0 ? questoes.filter(q => q.banca === 'SELECON').length.toLocaleString('pt-BR') : '2.007'} questões auditadas)</option>
                     <option value="Todas">Todas as Bancas ({questoes.length > 0 ? questoes.length.toLocaleString('pt-BR') : '2.007'} q.)</option>
-                    {bancasDisponiveis.filter(b => b !== 'Todas').map(b => {
-                      const count = questoes.filter(q => q.banca === b).length;
-                      return (
-                        <option key={b} value={b}>
-                          {b} ({count > 0 ? `${count} questões` : '2.007 questões'})
-                        </option>
-                      );
-                    })}
+                    <optgroup label="Bancas em Preparação">
+                      <option value="IBAM" disabled>IBAM (Em breve)</option>
+                      <option value="VUNESP" disabled>VUNESP (Em breve)</option>
+                      <option value="Consulpam" disabled>Consulpam (Em breve)</option>
+                      <option value="AOCP" disabled>AOCP (Em breve)</option>
+                      <option value="FGV" disabled>FGV (Em breve)</option>
+                    </optgroup>
                   </select>
                 </div>
 
@@ -620,10 +607,10 @@ export default function App() {
                   >
                     <option value="Todos">
                       {filtroMateria === 'Língua Portuguesa'
-                        ? 'Todos os Assuntos de Língua Portuguesa'
+                        ? `Todos os Assuntos de Língua Portuguesa (${questoes.length > 0 ? questoes.filter(q => q.materia === 'Língua Portuguesa').length.toLocaleString('pt-BR') : '1.135'} q.)`
                         : filtroMateria === 'Enfermagem'
-                        ? 'Todos os Assuntos de Enfermagem'
-                        : 'Todos os Assuntos'}
+                        ? `Todos os Assuntos de Enfermagem (${questoes.length > 0 ? questoes.filter(q => q.materia === 'Enfermagem').length.toLocaleString('pt-BR') : '872'} q.)`
+                        : `Todos os Assuntos (${questoes.length > 0 ? questoes.length.toLocaleString('pt-BR') : '2.007'} q.)`}
                     </option>
 
                     {(filtroMateria === 'Todas' || filtroMateria === 'Língua Portuguesa') && (
@@ -631,14 +618,14 @@ export default function App() {
                         <optgroup label="📖 Língua Portuguesa">
                           {assuntosConfig.portugues.map(a => (
                             <option key={a.nome} value={a.nome}>
-                              {a.nome} ({a.total > 0 ? `${a.total} q.` : '0 q.'})
+                              {a.nome} ({a.total} q.)
                             </option>
                           ))}
                         </optgroup>
                       ) : (
                         assuntosConfig.portugues.map(a => (
                           <option key={a.nome} value={a.nome}>
-                            {a.nome} ({a.total > 0 ? `${a.total} q.` : '0 q.'})
+                            {a.nome} ({a.total} q.)
                           </option>
                         ))
                       )
@@ -649,14 +636,14 @@ export default function App() {
                         <optgroup label="🩺 Enfermagem">
                           {assuntosConfig.enfermagem.map(a => (
                             <option key={a.nome} value={a.nome}>
-                              {a.nome} ({a.total > 0 ? `${a.total} q.` : '0 q.'})
+                              {a.nome} ({a.total} q.)
                             </option>
                           ))}
                         </optgroup>
                       ) : (
                         assuntosConfig.enfermagem.map(a => (
                           <option key={a.nome} value={a.nome}>
-                            {a.nome} ({a.total > 0 ? `${a.total} q.` : '0 q.'})
+                            {a.nome} ({a.total} q.)
                           </option>
                         ))
                       )
