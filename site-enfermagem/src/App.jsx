@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useMemo } from 'react';
+import React, { useState, useEffect } from 'react';
 import './App.css';
 import { BANCAS_PRECONFIGURADAS, getInsightPorBanca } from './data/bancasInfo';
 import { ASSUNTOS_PORTUGUES, ASSUNTOS_ENFERMAGEM, questaoPertenceAoAssunto, carregarQuestoesAssunto } from './data/assuntosCatalogo';
@@ -31,13 +31,22 @@ import {
   RotateCcw
 } from 'lucide-react';
 
+const CURRENT_YEAR = new Date().getFullYear();
+const TOTAL_ACERVO_AUDITADO = 2007;
+
+function embaralharLista(lista) {
+  const copia = [...lista];
+  for (let i = copia.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [copia[i], copia[j]] = [copia[j], copia[i]];
+  }
+  return copia;
+}
+
 export default function App() {
   const [activeTab, setActiveTab] = useState('questoes'); // 'questoes', 'padrao', 'simulados', 'materiais'
-  const [questoes, setQuestoes] = useState([]);
-  const [carregandoDados, setCarregandoDados] = useState(true);
 
-  // Modo de visualização de questões: 'individual' (1 por vez com máxima leveza e foco)
-  const [modoVisualizacao, setModoVisualizacao] = useState('individual');
+  // Navegação individual focada (1 questão por vez)
   const [questaoIndex, setQuestaoIndex] = useState(0);
   const [puloInput, setPuloInput] = useState('');
 
@@ -48,72 +57,55 @@ export default function App() {
   const [filtroMateria, setFiltroMateria] = useState('Enfermagem');
   const [filtroAssunto, setFiltroAssunto] = useState('Fundamentos e Procedimentos de Enfermagem');
 
-  // Carregamento sob demanda ultra-leve: carrega apenas as questões do assunto selecionado (sem pesar o navegador com 2.000 questões)
+  const chaveFiltroAtual = `${filtroMateria}::${filtroAssunto}`;
+  const [dadosCarregados, setDadosCarregados] = useState({ chave: '', itens: [] });
+  const carregandoDados = dadosCarregados.chave !== chaveFiltroAtual;
+  const questoes = dadosCarregados.itens;
+
+  // Carregamento sob demanda ultra-leve: carrega apenas as questões do assunto selecionado
   useEffect(() => {
     let ativo = true;
-    setCarregandoDados(true);
+    const chave = `${filtroMateria}::${filtroAssunto}`;
 
     carregarQuestoesAssunto(filtroMateria, filtroAssunto)
       .then(data => {
         if (ativo) {
-          if (Array.isArray(data) && data.length > 0) {
-            setQuestoes(data);
-          }
-          setCarregandoDados(false);
+          setDadosCarregados({
+            chave,
+            itens: Array.isArray(data) ? data : []
+          });
           setQuestaoIndex(0);
         }
       })
       .catch(err => {
         console.error('Erro ao carregar questões do assunto:', err);
-        if (ativo) setCarregandoDados(false);
+        if (ativo) {
+          setDadosCarregados({ chave, itens: [] });
+        }
       });
 
     return () => { ativo = false; };
   }, [filtroMateria, filtroAssunto]);
 
   // Estado das respostas do usuário na aba questões
-  const [respostas, setRespostas] = useState({}); // { [questionId]: { selecionada: 'A', confirmada: true } }
+  const [respostas, setRespostas] = useState({}); // { [questionId]: { selecionada: 'A', confirmada: true, acertou: true } }
 
   // Estado do Simulado
-  const [simuladoAtivo, setSimuladoAtivo] = useState(null); // null ou objeto do simulado
+  const [simuladoAtivo, setSimuladoAtivo] = useState(null);
+  const [carregandoSimulado, setCarregandoSimulado] = useState(false);
   const [simuladoIndex, setSimuladoIndex] = useState(0);
   const [simuladoRespostas, setSimuladoRespostas] = useState({});
-  const [tempoRestante, setTempoRestante] = useState(1800); // 30 min em seg
+  const [tempoRestante, setTempoRestante] = useState(900);
   const [simuladoFinalizado, setSimuladoFinalizado] = useState(false);
 
   // Modal VIP
   const [modalVipAberto, setModalVipAberto] = useState(false);
-  const [limiteExibicao, setLimiteExibicao] = useState(25);
 
-  // Estatísticas gerais
-  const totalRespondidas = Object.keys(respostas).length;
-  const totalAcertos = Object.entries(respostas).filter(([id, r]) => {
-    const q = questoes.find(item => item.id === id);
-    return q && r.selecionada === q.resposta_correta;
-  }).length;
+  // Estatísticas gerais (contabiliza apenas respostas confirmadas, preservando acertos entre assuntos)
+  const respostasConfirmadas = Object.values(respostas).filter(r => r.confirmada);
+  const totalRespondidas = respostasConfirmadas.length;
+  const totalAcertos = respostasConfirmadas.filter(r => r.acertou).length;
   const taxaAcerto = totalRespondidas > 0 ? Math.round((totalAcertos / totalRespondidas) * 100) : 0;
-
-  // Assuntos com contagens garantidas (estáticas pré-carregadas + dinâmicas do acervo)
-  const assuntosConfig = useMemo(() => {
-    if (!questoes || questoes.length === 0) {
-      return {
-        portugues: ASSUNTOS_PORTUGUES,
-        enfermagem: ASSUNTOS_ENFERMAGEM
-      };
-    }
-
-    const portList = ASSUNTOS_PORTUGUES.map(item => {
-      const count = questoes.filter(q => questaoPertenceAoAssunto(q, item.nome)).length;
-      return { ...item, total: count > 0 ? count : item.total };
-    });
-
-    const enfList = ASSUNTOS_ENFERMAGEM.map(item => {
-      const count = questoes.filter(q => questaoPertenceAoAssunto(q, item.nome)).length;
-      return { ...item, total: count > 0 ? count : item.total };
-    });
-
-    return { portugues: portList, enfermagem: enfList };
-  }, [questoes]);
 
   const nomeAssuntoAtivo = filtroAssunto !== 'Todos' ? filtroAssunto : null;
 
@@ -156,13 +148,16 @@ export default function App() {
       materia: item.materia,
       count: item.count,
       percent: item.percent,
-      cor: palette[idx % palette.length]
+      cor: palette[idx % palette.length],
+      isOutros: false
     })),
     ...(outrosTotal > 0 ? [{
       nome: 'Demais Conteúdos',
+      materia: padraoMateria,
       count: outrosTotal,
       percent: totalQuestoesPadrao > 0 ? ((outrosTotal / totalQuestoesPadrao) * 100).toFixed(1) : '0.0',
-      cor: palette[10]
+      cor: palette[10],
+      isOutros: true
     }] : [])
   ];
 
@@ -179,14 +174,20 @@ export default function App() {
     background: `conic-gradient(${gradientStops})`
   };
 
-  const irParaQuestoesPorTema = (temaNome, materiaTema) => {
-    let mat = materiaTema;
-    if (!mat || mat === 'Todas') {
-      const isPort = ASSUNTOS_PORTUGUES.some(a => a.nome === temaNome);
-      mat = isPort ? 'Língua Portuguesa' : 'Enfermagem';
+  const irParaQuestoesPorTema = (temaNome, materiaTema, isOutros = false) => {
+    if (isOutros) {
+      const matFallback = materiaTema && materiaTema !== 'Todas' ? materiaTema : 'Enfermagem';
+      setFiltroMateria(matFallback);
+      setFiltroAssunto('Todos');
+    } else {
+      let mat = materiaTema;
+      if (!mat || mat === 'Todas') {
+        const isPort = ASSUNTOS_PORTUGUES.some(a => a.nome === temaNome);
+        mat = isPort ? 'Língua Portuguesa' : 'Enfermagem';
+      }
+      setFiltroMateria(mat);
+      setFiltroAssunto(temaNome);
     }
-    setFiltroMateria(mat);
-    setFiltroAssunto(temaNome);
     setBuscaTexto('');
     if (padraoCargo === 'Técnico de Enfermagem' || padraoCargo === 'Enfermeiro') {
       setFiltroCargo(padraoCargo);
@@ -245,7 +246,7 @@ export default function App() {
     return matchBusca && matchBanca && matchCargo && matchMateria && matchAssunto;
   });
 
-  // Navegação de questões no Modo Individual (1 por vez com pre-loading leve)
+  // Navegação de questões no Modo Individual (1 por vez)
   const totalFiltradas = questoesFiltradas.length;
   const safeIndex = totalFiltradas > 0 ? Math.min(Math.max(0, questaoIndex), totalFiltradas - 1) : 0;
   const questaoAtual = totalFiltradas > 0 ? questoesFiltradas[safeIndex] : null;
@@ -293,10 +294,10 @@ export default function App() {
     }
   };
 
-  // Atalhos de teclado (← e →) para navegação fluida sem pesar a tela
+  // Atalhos de teclado (← e →) para navegação fluida
   useEffect(() => {
     const handleKeyDown = (e) => {
-      if (activeTab !== 'questoes' || modoVisualizacao !== 'individual') return;
+      if (activeTab !== 'questoes') return;
       if (['INPUT', 'SELECT', 'TEXTAREA'].includes(document.activeElement?.tagName)) return;
 
       if (e.key === 'ArrowRight') {
@@ -313,24 +314,22 @@ export default function App() {
     };
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
-  }, [activeTab, modoVisualizacao, safeIndex, totalFiltradas]);
+  }, [activeTab, safeIndex, totalFiltradas]);
 
-  // Temporizador do simulado
+  // Temporizador do simulado (estável, sem recriar intervalo a cada segundo)
   useEffect(() => {
-    let timer;
-    if (simuladoAtivo && !simuladoFinalizado && tempoRestante > 0) {
-      timer = setInterval(() => {
-        setTempoRestante(prev => {
-          if (prev <= 1) {
-            setSimuladoFinalizado(true);
-            return 0;
-          }
-          return prev - 1;
-        });
-      }, 1000);
-    }
+    if (!simuladoAtivo || simuladoFinalizado) return;
+    const timer = setInterval(() => {
+      setTempoRestante(prev => {
+        if (prev <= 1) {
+          setSimuladoFinalizado(true);
+          return 0;
+        }
+        return prev - 1;
+      });
+    }, 1000);
     return () => clearInterval(timer);
-  }, [simuladoAtivo, simuladoFinalizado, tempoRestante]);
+  }, [simuladoAtivo, simuladoFinalizado]);
 
   const formatarTempo = (segundos) => {
     const mins = Math.floor(segundos / 60);
@@ -342,34 +341,71 @@ export default function App() {
     if (respostas[questaoId]?.confirmada) return;
     setRespostas(prev => ({
       ...prev,
-      [questaoId]: { selecionada: letra, confirmada: false }
+      [questaoId]: { selecionada: letra, confirmada: false, acertou: false }
     }));
   };
 
-  const confirmarResposta = (questaoId) => {
+  const confirmarResposta = (questaoId, respostaCorreta) => {
     if (!respostas[questaoId]?.selecionada) return;
     setRespostas(prev => ({
       ...prev,
-      [questaoId]: { ...prev[questaoId], confirmada: true }
+      [questaoId]: {
+        ...prev[questaoId],
+        confirmada: true,
+        acertou: prev[questaoId].selecionada === respostaCorreta
+      }
     }));
   };
 
-  const iniciarSimulado = (tipo) => {
-    let lista;
-    if (tipo === 'prefeituras') {
-      lista = questoes.filter(q => q.orgao.toLowerCase().includes('prefeitura'));
-    } else {
-      lista = [...questoes];
+  const iniciarSimulado = async (tipo) => {
+    if (carregandoSimulado) return;
+    setCarregandoSimulado(true);
+    try {
+      const baseEnfermagem = await carregarQuestoesAssunto('Enfermagem', 'Todos');
+      const validas = (Array.isArray(baseEnfermagem) ? baseEnfermagem : []).filter(
+        q => q && q.enunciado && q.enunciado.trim().length > 10 && Array.isArray(q.alternativas) && q.alternativas.length >= 2
+      );
+
+      let candidatas;
+      let limite;
+      let titulo;
+      let duracaoSegundos;
+
+      if (tipo === 'prefeituras') {
+        candidatas = validas.filter(q => (q.orgao || '').toLowerCase().includes('prefeitura'));
+        limite = 6;
+        titulo = 'Simulado Rápido de Prefeituras (SELECON)';
+        duracaoSegundos = 15 * 60;
+      } else {
+        candidatas = validas.filter(q => q.cargo === 'Técnico de Enfermagem');
+        limite = 8;
+        titulo = 'Simulado Completo Técnico de Enfermagem (SELECON)';
+        duracaoSegundos = 20 * 60;
+      }
+
+      const pool = candidatas.length >= limite ? candidatas : validas;
+      const selecionadas = embaralharLista(pool).slice(0, limite);
+
+      if (selecionadas.length === 0) {
+        setCarregandoSimulado(false);
+        return;
+      }
+
+      setSimuladoAtivo({
+        titulo,
+        questoes: selecionadas
+      });
+      setSimuladoIndex(0);
+      setSimuladoRespostas({});
+      setTempoRestante(duracaoSegundos);
+      setSimuladoFinalizado(false);
+      setActiveTab('simulados');
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    } catch (err) {
+      console.error('Erro ao iniciar simulado:', err);
+    } finally {
+      setCarregandoSimulado(false);
     }
-    setSimuladoAtivo({
-      titulo: tipo === 'prefeituras' ? 'Simulado Foco Prefeituras Municipais' : 'Simulado Geral Enfermagem',
-      questoes: lista
-    });
-    setSimuladoIndex(0);
-    setSimuladoRespostas({});
-    setTempoRestante(lista.length * 150); // ~2.5 min por questão
-    setSimuladoFinalizado(false);
-    setActiveTab('simulados');
   };
 
   return (
@@ -377,7 +413,14 @@ export default function App() {
       {/* Navbar Superior */}
       <nav className="navbar">
         <div className="container nav-container">
-          <a href="#" className="nav-brand" onClick={() => setActiveTab('questoes')}>
+          <a
+            href="#questoes"
+            className="nav-brand"
+            onClick={(e) => {
+              e.preventDefault();
+              setActiveTab('questoes');
+            }}
+          >
             <Stethoscope size={28} color="#0d9488" strokeWidth={2.5} />
             <span>Enf<span style={{ color: '#0d9488' }}>Concursos</span></span>
             <span className="brand-badge hide-micro">Prefeituras & SUS</span>
@@ -431,12 +474,12 @@ export default function App() {
             O Banco de Questões e Simulados para sua <span className="hero-highlight">Aprovação em Enfermagem</span>
           </h1>
           <p className="hero-subtitle">
-            Mais de 10.000 questões comentadas com foco nas bancas de prefeituras (IBAM, VUNESP, Consulpam, AOCP) e grandes órgãos de saúde.
+            Questões comentadas alternativa por alternativa com foco nas bancas de prefeituras (SELECON, IBAM, VUNESP, Consulpam, AOCP) e grandes órgãos de saúde.
           </p>
 
           <div className="hero-stats">
             <div className="stat-item">
-              <span className="stat-num">{questoes.length > 0 ? questoes.length.toLocaleString('pt-BR') : '2.007'}</span>
+              <span className="stat-num">{TOTAL_ACERVO_AUDITADO.toLocaleString('pt-BR')}</span>
               <span className="stat-label">Questões Auditadas</span>
             </div>
             <div className="stat-item">
@@ -549,8 +592,8 @@ export default function App() {
 
                       // Ajusta automaticamente a Disciplina conforme o assunto escolhido se necessário
                       if (novoAssunto !== 'Todos') {
-                        const isPort = assuntosConfig.portugues.some(a => a.nome === novoAssunto);
-                        const isEnf = assuntosConfig.enfermagem.some(a => a.nome === novoAssunto);
+                        const isPort = ASSUNTOS_PORTUGUES.some(a => a.nome === novoAssunto);
+                        const isEnf = ASSUNTOS_ENFERMAGEM.some(a => a.nome === novoAssunto);
                         if (isPort && filtroMateria !== 'Língua Portuguesa') {
                           setFiltroMateria('Língua Portuguesa');
                         } else if (isEnf && filtroMateria !== 'Enfermagem') {
@@ -570,14 +613,14 @@ export default function App() {
                     {(filtroMateria === 'Todas' || filtroMateria === 'Língua Portuguesa') && (
                       filtroMateria === 'Todas' ? (
                         <optgroup label="📖 Língua Portuguesa">
-                          {assuntosConfig.portugues.map(a => (
+                          {ASSUNTOS_PORTUGUES.map(a => (
                             <option key={a.nome} value={a.nome}>
                               {a.nome} ({a.total} q.)
                             </option>
                           ))}
                         </optgroup>
                       ) : (
-                        assuntosConfig.portugues.map(a => (
+                        ASSUNTOS_PORTUGUES.map(a => (
                           <option key={a.nome} value={a.nome}>
                             {a.nome} ({a.total} q.)
                           </option>
@@ -588,14 +631,14 @@ export default function App() {
                     {(filtroMateria === 'Todas' || filtroMateria === 'Enfermagem') && (
                       filtroMateria === 'Todas' ? (
                         <optgroup label="🩺 Enfermagem">
-                          {assuntosConfig.enfermagem.map(a => (
+                          {ASSUNTOS_ENFERMAGEM.map(a => (
                             <option key={a.nome} value={a.nome}>
                               {a.nome} ({a.total} q.)
                             </option>
                           ))}
                         </optgroup>
                       ) : (
-                        assuntosConfig.enfermagem.map(a => (
+                        ASSUNTOS_ENFERMAGEM.map(a => (
                           <option key={a.nome} value={a.nome}>
                             {a.nome} ({a.total} q.)
                           </option>
@@ -638,8 +681,8 @@ export default function App() {
               </div>
             ) : (
               <>
-                {/* MODO 1: INDIVIDUAL (1 QUESTÃO POR VEZ COM PRE-LOADING INSTANTÂNEO) */}
-                {modoVisualizacao === 'individual' && questaoAtual && (() => {
+                {/* MODO INDIVIDUAL FOCADO (1 QUESTÃO POR VEZ) */}
+                {questaoAtual && (() => {
                   const q = questaoAtual;
                   const resp = respostas[q.id];
                   const confirmada = resp?.confirmada;
@@ -683,11 +726,11 @@ export default function App() {
                         </div>
 
                         <p className="question-text" style={{ fontSize: '1.08rem', lineHeight: '1.75' }}>
-                          <strong>Enunciado:</strong> {q.enunciado}
+                          <strong>Enunciado:</strong> {q.enunciado || 'Analise as alternativas abaixo e assinale a opção correta:'}
                         </p>
 
                         <div className="alternativas-list">
-                          {q.alternativas.map(alt => {
+                          {(q.alternativas || []).map(alt => {
                             const isSelected = resp?.selecionada === alt.id;
                             let altClass = 'alt-option';
                             if (isSelected) altClass += ' selected';
@@ -716,7 +759,7 @@ export default function App() {
                             <div style={{ display: 'flex', justifyContent: 'flex-end' }}>
                               <button
                                 className="btn-primary"
-                                onClick={() => confirmarResposta(q.id)}
+                                onClick={() => confirmarResposta(q.id, q.resposta_correta)}
                                 disabled={!resp?.selecionada}
                                 style={{
                                   padding: '0.9rem 2.5rem',
@@ -1047,141 +1090,6 @@ export default function App() {
                   );
                 })()}
 
-                {/* MODO 2: LISTA CORRIDA (OPCIONAL) */}
-                {modoVisualizacao === 'lista' && (
-                  <div className="list-mode-wrapper animate-fade-in">
-                    {(filtroAssunto !== 'Todos' ? questoesFiltradas : questoesFiltradas.slice(0, limiteExibicao)).map((q, index) => {
-                      const resp = respostas[q.id];
-                      const confirmada = resp?.confirmada;
-                      const acertou = confirmada && resp.selecionada === q.resposta_correta;
-
-                      return (
-                        <article key={q.id} className="question-card">
-                          <div className="question-meta">
-                            <span className="badge" style={{ background: '#0f172a', color: '#38bdf8', fontWeight: 800 }}>
-                              {q.id}
-                            </span>
-                            <span className="badge badge-banca">{q.banca}</span>
-                            <span className="badge badge-orgao">{q.orgao} • {q.ano}</span>
-                            <span className="badge badge-cargo">{q.cargo}</span>
-                            <span className="badge badge-materia">{q.assunto || q.materia}</span>
-                          </div>
-
-                          <p className="question-text">
-                            <strong>Questão {index + 1}:</strong> {q.enunciado}
-                          </p>
-
-                          <div className="alternativas-list">
-                            {q.alternativas.map(alt => {
-                              const isSelected = resp?.selecionada === alt.id;
-                              let altClass = 'alt-option';
-                              if (isSelected) altClass += ' selected';
-                              if (confirmada) {
-                                if (alt.id === q.resposta_correta) altClass += ' correct';
-                                else if (isSelected && !acertou) altClass += ' wrong';
-                              }
-
-                              return (
-                                <button
-                                  key={alt.id}
-                                  className={altClass}
-                                  onClick={() => selecionarOpcaoQuestao(q.id, alt.id)}
-                                  disabled={confirmada}
-                                >
-                                  <span className="alt-letter">{alt.id}</span>
-                                  <span style={{ flex: 1 }}>{alt.texto}</span>
-                                </button>
-                              );
-                            })}
-                          </div>
-
-                          <div className="question-actions">
-                            <div>
-                              {confirmada && (
-                                <span style={{
-                                  display: 'inline-flex',
-                                  alignItems: 'center',
-                                  gap: '0.4rem',
-                                  fontWeight: 700,
-                                  color: acertou ? '#059669' : '#dc2626'
-                                }}>
-                                  {acertou ? (
-                                    <>
-                                      <CheckCircle2 size={20} />
-                                      Parabéns! Resposta Correta
-                                    </>
-                                  ) : (
-                                    <>
-                                      <XCircle size={20} />
-                                      Resposta Incorreta. Gabarito: {q.resposta_correta}
-                                    </>
-                                  )}
-                                </span>
-                              )}
-                            </div>
-
-                            {!confirmada && (
-                              <button
-                                className="btn-primary"
-                                onClick={() => confirmarResposta(q.id)}
-                                disabled={!resp?.selecionada}
-                              >
-                                Responder Questão
-                              </button>
-                            )}
-                          </div>
-
-                          {/* Comentário do Professor */}
-                          {confirmada && (
-                            <div className="comment-box animate-fade-in">
-                              <div className="comment-section-correct">
-                                <div className="comment-title-correct">
-                                  <CheckCircle2 size={18} color="#166534" />
-                                  <span>Gabarito Oficial: Alternativa {q.resposta_correta} (Fundamentação Legal / Técnica)</span>
-                                </div>
-                                <p className="comment-text-correct">
-                                  {q.fundamentacao_correta || q.comentario}
-                                </p>
-                              </div>
-
-                              {q.analise_distratores && q.analise_distratores.length > 0 && (
-                                <div className="comment-section-wrong">
-                                  <div className="comment-title-wrong">
-                                    <XCircle size={17} color="#dc2626" />
-                                    <span>Análise dos Distratores (Por que as outras alternativas estão incorretas):</span>
-                                  </div>
-                                  <div className="distratores-list">
-                                    {q.analise_distratores.map(d => (
-                                      <div key={d.letra} className="distrator-item">
-                                        <span className="distrator-badge">{d.letra}</span>
-                                        <div>
-                                          <strong>Alternativa {d.letra}:</strong> {d.motivo}
-                                        </div>
-                                      </div>
-                                    ))}
-                                  </div>
-                                </div>
-                              )}
-                            </div>
-                          )}
-                        </article>
-                      );
-                    })}
-
-                    {/* Botão para carregar mais questões */}
-                    {filtroAssunto === 'Todos' && limiteExibicao < questoesFiltradas.length && (
-                      <div style={{ textAlign: 'center', margin: '2.5rem 0' }}>
-                        <button
-                          className="btn-primary"
-                          style={{ padding: '0.85rem 2.2rem', fontSize: '1rem', background: '#0f172a' }}
-                          onClick={() => setLimiteExibicao(prev => prev + 25)}
-                        >
-                          Carregar Mais 25 Questões ({questoesFiltradas.length - limiteExibicao} restantes)
-                        </button>
-                      </div>
-                    )}
-                  </div>
-                )}
               </>
             )}
           </section>
@@ -1210,10 +1118,14 @@ export default function App() {
                     <div className="simulado-info">
                       <span><strong>6</strong> Questões</span>
                       <span><strong>15</strong> Minutos</span>
-                      <span>Bancas: IBAM / VUNESP</span>
+                      <span>Banca: SELECON</span>
                     </div>
-                    <button className="btn-primary" onClick={() => iniciarSimulado('prefeituras')}>
-                      Iniciar Simulado Gratuito
+                    <button
+                      className="btn-primary"
+                      disabled={carregandoSimulado}
+                      onClick={() => iniciarSimulado('prefeituras')}
+                    >
+                      {carregandoSimulado ? 'Preparando Simulado...' : 'Iniciar Simulado Gratuito'}
                     </button>
                   </div>
 
@@ -1230,10 +1142,14 @@ export default function App() {
                     <div className="simulado-info">
                       <span><strong>8</strong> Questões</span>
                       <span><strong>20</strong> Minutos</span>
-                      <span>Bancas Municipais</span>
+                      <span>Banca: SELECON</span>
                     </div>
-                    <button className="btn-primary" onClick={() => iniciarSimulado('todos')}>
-                      Iniciar Simulado
+                    <button
+                      className="btn-primary"
+                      disabled={carregandoSimulado}
+                      onClick={() => iniciarSimulado('tecnico')}
+                    >
+                      {carregandoSimulado ? 'Preparando Simulado...' : 'Iniciar Simulado'}
                     </button>
                   </div>
 
@@ -1258,7 +1174,7 @@ export default function App() {
             ) : (
               /* MODO EXECUÇÃO DO SIMULADO */
               <div className="simulado-runner">
-                <div className="simulado-header-bar">
+                <div className="simulado-header-bar" style={{ flexWrap: 'wrap', gap: '0.75rem' }}>
                   <div>
                     <h3 style={{ fontSize: '1.2rem', color: '#0f172a' }}>{simuladoAtivo.titulo}</h3>
                     <span style={{ fontSize: '0.85rem', color: '#64748b' }}>
@@ -1266,9 +1182,28 @@ export default function App() {
                     </span>
                   </div>
 
-                  <div className="timer-box">
-                    <Timer size={20} />
-                    <span>{formatarTempo(tempoRestante)}</span>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
+                    <div className="timer-box">
+                      <Timer size={20} />
+                      <span>{formatarTempo(tempoRestante)}</span>
+                    </div>
+                    {!simuladoFinalizado && (
+                      <button
+                        type="button"
+                        onClick={() => setSimuladoAtivo(null)}
+                        style={{
+                          padding: '0.45rem 0.85rem',
+                          fontSize: '0.82rem',
+                          fontWeight: 700,
+                          background: '#f1f5f9',
+                          color: '#475569',
+                          borderRadius: '6px',
+                          border: '1px solid #cbd5e1'
+                        }}
+                      >
+                        Sair
+                      </button>
+                    )}
                   </div>
                 </div>
 
@@ -1276,32 +1211,34 @@ export default function App() {
                   <div>
                     {(() => {
                       const q = simuladoAtivo.questoes[simuladoIndex];
+                      if (!q) return null;
                       const selected = simuladoRespostas[q.id];
 
                       return (
                         <div className="question-card">
                           <div className="question-meta">
                             <span className="badge badge-banca">{q.banca}</span>
-                            <span className="badge badge-orgao">{q.orgao}</span>
+                            <span className="badge badge-orgao">{q.orgao} • {q.ano}</span>
                             <span className="badge badge-cargo">{q.cargo}</span>
+                            <span className="badge badge-materia">{q.assunto || q.materia}</span>
                           </div>
 
-                          <p className="question-text">{q.enunciado}</p>
+                          <p className="question-text">{q.enunciado || 'Analise as alternativas abaixo e assinale a opção correta:'}</p>
 
                           <div className="alternativas-list">
-                            {q.alternativas.map(alt => (
+                            {(q.alternativas || []).map(alt => (
                               <button
                                 key={alt.id}
                                 className={`alt-option ${selected === alt.id ? 'selected' : ''}`}
                                 onClick={() => setSimuladoRespostas({ ...simuladoRespostas, [q.id]: alt.id })}
                               >
                                 <span className="alt-letter">{alt.id}</span>
-                                <span>{alt.texto}</span>
+                                <span style={{ flex: 1 }}>{alt.texto}</span>
                               </button>
                             ))}
                           </div>
 
-                          <div style={{ display: 'flex', justifyContent: 'space-between', marginTop: '1.5rem' }}>
+                          <div style={{ display: 'flex', justifyContent: 'space-between', marginTop: '1.5rem', gap: '0.75rem', flexWrap: 'wrap' }}>
                             <button
                               className="btn-primary"
                               style={{ background: '#94a3b8' }}
@@ -1346,7 +1283,7 @@ export default function App() {
                       const acertos = simuladoAtivo.questoes.filter(
                         q => simuladoRespostas[q.id] === q.resposta_correta
                       ).length;
-                      const perc = Math.round((acertos / total) * 100);
+                      const perc = total > 0 ? Math.round((acertos / total) * 100) : 0;
 
                       return (
                         <div style={{ maxWidth: '400px', margin: '0 auto 2rem' }}>
@@ -1373,7 +1310,7 @@ export default function App() {
                       );
                     })()}
 
-                    <div style={{ display: 'flex', gap: '1rem', justifyContent: 'center' }}>
+                    <div style={{ display: 'flex', gap: '1rem', justifyContent: 'center', flexWrap: 'wrap' }}>
                       <button className="btn-primary" onClick={() => setSimuladoAtivo(null)}>
                         Voltar aos Simulados
                       </button>
@@ -1691,28 +1628,28 @@ export default function App() {
                         return (
                           <div key={item.nome} className="ranking-item">
                             <div className="ranking-label-row">
-                              <span className="ranking-name">
+                              <span className="ranking-name" title={item.nome}>
                                 <span
                                   className="ranking-pos"
                                   style={isTop1 ? { background: '#fef3c7', color: '#b45309', border: '1px solid #fde68a' } : {}}
                                 >
                                   {index + 1}º
                                 </span>
-                                <span style={{ maxWidth: '280px', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
+                                <span className="ranking-name-text">
                                   {item.nome}
                                 </span>
                               </span>
 
-                              <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
+                              <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', flexShrink: 0 }}>
                                 <span className="ranking-metrics">
                                   {item.count} q. ({item.percent}%)
                                 </span>
                                 <button
                                   className="btn-topic-action"
-                                  onClick={() => irParaQuestoesPorTema(item.nome, item.materia)}
-                                  title={`Filtrar questões sobre ${item.nome} na banca ${padraoBanca}`}
+                                  onClick={() => irParaQuestoesPorTema(item.nome, item.materia, item.isOutros)}
+                                  title={item.isOutros ? 'Abrir todas as questões desta disciplina' : `Filtrar questões sobre ${item.nome} na banca ${padraoBanca}`}
                                 >
-                                  Resolver
+                                  {item.isOutros ? 'Ver Todos' : 'Resolver'}
                                   <ChevronRight size={13} />
                                 </button>
                               </div>
@@ -1879,11 +1816,11 @@ export default function App() {
           <div>
             <strong style={{ color: '#0f172a' }}>EnfConcursos</strong> — Plataforma especializada em Concursos de Enfermagem para Prefeituras e SUS.
             <div style={{ marginTop: '0.35rem', fontSize: '0.8rem' }}>
-              Questões das bancas: IBAM • VUNESP • Consulpam • AOCP • FGV • Legalle • Avança SP
+              Questões das bancas: SELECON • IBAM • VUNESP • Consulpam • AOCP • FGV • Legalle • Avança SP
             </div>
           </div>
           <div>
-            © {new Date().getFullYear()} EnfConcursos. Todos os direitos reservados.
+            © {CURRENT_YEAR} EnfConcursos. Todos os direitos reservados.
           </div>
         </div>
       </footer>

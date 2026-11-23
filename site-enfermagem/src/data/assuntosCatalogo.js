@@ -229,7 +229,7 @@ export function getSlugPorAssunto(materia, nomeAssunto) {
   if (!nomeAssunto || nomeAssunto === 'Todos') {
     if (materia === 'Enfermagem') return 'enfermagem_todas';
     if (materia === 'Língua Portuguesa') return 'portugues_todas';
-    return 'fundamentos_e_procedimentos_de_enfermagem'; // Padrão mais comum
+    return 'todas_geral';
   }
   const item = [...ASSUNTOS_PORTUGUES, ...ASSUNTOS_ENFERMAGEM].find(a => a.nome === nomeAssunto);
   return item ? item.slug : 'fundamentos_e_procedimentos_de_enfermagem';
@@ -238,9 +238,7 @@ export function getSlugPorAssunto(materia, nomeAssunto) {
 // Cache em memória dos chunks carregados
 const cacheQuestoesChunks = new Map();
 
-// Carregamento sob demanda ultra-rápido por assunto selecionado
-export async function carregarQuestoesAssunto(materia, nomeAssunto) {
-  const slug = getSlugPorAssunto(materia, nomeAssunto);
+async function carregarChunkPorSlug(slug) {
   if (cacheQuestoesChunks.has(slug)) {
     return cacheQuestoesChunks.get(slug);
   }
@@ -289,22 +287,29 @@ export async function carregarQuestoesAssunto(materia, nomeAssunto) {
     console.warn('Import dinâmico de chunk falhou:', err3);
   }
 
-  // 4. Último fallback: tenta o arquivo completo questoes.json se disponível
-  try {
-    const modFull = await import('./questoes.json');
-    const all = modFull.default || modFull;
-    if (Array.isArray(all)) {
-      const filtradas = all.filter(q => questaoPertenceAoAssunto(q, nomeAssunto));
-      if (filtradas.length > 0) {
-        cacheQuestoesChunks.set(slug, filtradas);
-        return filtradas;
-      }
+  return [];
+}
+
+// Carregamento sob demanda ultra-rápido por assunto selecionado
+export async function carregarQuestoesAssunto(materia, nomeAssunto) {
+  const slug = getSlugPorAssunto(materia, nomeAssunto);
+
+  if (slug === 'todas_geral') {
+    if (cacheQuestoesChunks.has('todas_geral')) {
+      return cacheQuestoesChunks.get('todas_geral');
     }
-  } catch (errFull) {
-    console.error('Falha em todos os carregadores:', errFull);
+    const [enf, port] = await Promise.all([
+      carregarChunkPorSlug('enfermagem_todas'),
+      carregarChunkPorSlug('portugues_todas')
+    ]);
+    const combinado = [...enf, ...port];
+    if (combinado.length > 0) {
+      cacheQuestoesChunks.set('todas_geral', combinado);
+    }
+    return combinado;
   }
 
-  return [];
+  return carregarChunkPorSlug(slug);
 }
 
 // Helper para testar se uma questão corresponde ao assunto selecionado

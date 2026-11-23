@@ -288,7 +288,7 @@ export const PADRAO_SELECON_SALVO = {
       }
     ]
   },
-  "Todas_Tecnico de Enfermagem": {
+  "Todas_Técnico de Enfermagem": {
     "total": 517,
     "temas": [
       {
@@ -1624,9 +1624,10 @@ export function getPadraoSalvo(banca, materia, cargo) {
   }
   const matKey = materia || "Todas";
   let cargoKey = "Todos";
-  if (cargo === "Técnico de Enfermagem" || (cargo && cargo.includes("Técnico"))) {
+  const cargoNorm = (cargo || "").toLowerCase();
+  if (cargoNorm.includes("técnico") || cargoNorm.includes("tecnico")) {
     cargoKey = "Técnico de Enfermagem";
-  } else if (cargo === "Enfermeiro" || (cargo && cargo.includes("Enfermeir"))) {
+  } else if (cargoNorm.includes("enfermeir")) {
     cargoKey = "Enfermeiro";
   }
 
