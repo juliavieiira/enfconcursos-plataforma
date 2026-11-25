@@ -3,9 +3,11 @@ import './App.css';
 import { BANCAS_PRECONFIGURADAS, getInsightPorBanca } from './data/bancasInfo';
 import { ASSUNTOS_PORTUGUES, ASSUNTOS_ENFERMAGEM, questaoPertenceAoAssunto, carregarQuestoesAssunto } from './data/assuntosCatalogo';
 import { getPadraoSalvo } from './data/padraoBancaCatalogo';
+import { SIMULADOS_OFICIAIS } from './data/simuladosData';
 import {
   Stethoscope,
   BookOpen,
+  BookCheck,
   Timer,
   Award,
   CheckCircle2,
@@ -31,15 +33,6 @@ import {
 } from 'lucide-react';
 
 const CURRENT_YEAR = new Date().getFullYear();
-
-function embaralharLista(lista) {
-  const copia = [...lista];
-  for (let i = copia.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [copia[i], copia[j]] = [copia[j], copia[i]];
-  }
-  return copia;
-}
 
 export default function App() {
   const [activeTab, setActiveTab] = useState('questoes'); // 'questoes', 'padrao', 'simulados', 'materiais'
@@ -90,11 +83,11 @@ export default function App() {
 
   // Estado do Simulado
   const [simuladoAtivo, setSimuladoAtivo] = useState(null);
-  const [carregandoSimulado, setCarregandoSimulado] = useState(false);
   const [simuladoIndex, setSimuladoIndex] = useState(0);
   const [simuladoRespostas, setSimuladoRespostas] = useState({});
-  const [tempoRestante, setTempoRestante] = useState(900);
+  const [tempoRestante, setTempoRestante] = useState(10800);
   const [simuladoFinalizado, setSimuladoFinalizado] = useState(false);
+  const [filtroRevisaoSimulado, setFiltroRevisaoSimulado] = useState('todas'); // 'todas', 'erros', 'acertos'
 
   // Modal VIP
   const [modalVipAberto, setModalVipAberto] = useState(false);
@@ -335,8 +328,12 @@ export default function App() {
   }, [simuladoAtivo, simuladoFinalizado]);
 
   const formatarTempo = (segundos) => {
-    const mins = Math.floor(segundos / 60);
+    const horas = Math.floor(segundos / 3600);
+    const mins = Math.floor((segundos % 3600) / 60);
     const segs = segundos % 60;
+    if (horas > 0) {
+      return `${horas.toString().padStart(2, '0')}:${mins.toString().padStart(2, '0')}:${segs.toString().padStart(2, '0')}`;
+    }
     return `${mins.toString().padStart(2, '0')}:${segs.toString().padStart(2, '0')}`;
   };
 
@@ -360,55 +357,18 @@ export default function App() {
     }));
   };
 
-  const iniciarSimulado = async (tipo) => {
-    if (carregandoSimulado) return;
-    setCarregandoSimulado(true);
-    try {
-      const baseEnfermagem = await carregarQuestoesAssunto('Enfermagem', 'Todos');
-      const validas = (Array.isArray(baseEnfermagem) ? baseEnfermagem : []).filter(
-        q => q && q.enunciado && q.enunciado.trim().length > 10 && Array.isArray(q.alternativas) && q.alternativas.length >= 2
-      );
+  const iniciarSimulado = (simuladoId) => {
+    const sim = SIMULADOS_OFICIAIS.find(s => s.id === simuladoId) || SIMULADOS_OFICIAIS[0];
+    if (!sim) return;
 
-      let candidatas;
-      let limite;
-      let titulo;
-      let duracaoSegundos;
-
-      if (tipo === 'prefeituras') {
-        candidatas = validas.filter(q => (q.orgao || '').toLowerCase().includes('prefeitura'));
-        limite = 6;
-        titulo = 'Simulado Rápido de Prefeituras (SELECON)';
-        duracaoSegundos = 15 * 60;
-      } else {
-        candidatas = validas.filter(q => q.cargo === 'Técnico de Enfermagem');
-        limite = 8;
-        titulo = 'Simulado Completo Técnico de Enfermagem (SELECON)';
-        duracaoSegundos = 20 * 60;
-      }
-
-      const pool = candidatas.length >= limite ? candidatas : validas;
-      const selecionadas = embaralharLista(pool).slice(0, limite);
-
-      if (selecionadas.length === 0) {
-        setCarregandoSimulado(false);
-        return;
-      }
-
-      setSimuladoAtivo({
-        titulo,
-        questoes: selecionadas
-      });
-      setSimuladoIndex(0);
-      setSimuladoRespostas({});
-      setTempoRestante(duracaoSegundos);
-      setSimuladoFinalizado(false);
-      setActiveTab('simulados');
-      window.scrollTo({ top: 0, behavior: 'smooth' });
-    } catch (err) {
-      console.error('Erro ao iniciar simulado:', err);
-    } finally {
-      setCarregandoSimulado(false);
-    }
+    setSimuladoAtivo(sim);
+    setSimuladoIndex(0);
+    setSimuladoRespostas({});
+    setTempoRestante(sim.duracaoMinutos * 60); // 180 min * 60 = 10800s (3 horas)
+    setSimuladoFinalizado(false);
+    setFiltroRevisaoSimulado('todas');
+    setActiveTab('simulados');
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
   return (
@@ -1072,224 +1032,616 @@ export default function App() {
           <section className="animate-fade-in">
             {!simuladoAtivo ? (
               <div>
-                <div style={{ textAlign: 'center', maxWidth: '700px', margin: '0 auto 2rem' }}>
-                  <h2 style={{ fontSize: '1.8rem', marginBottom: '0.5rem' }}>Simulados Reais com Cronômetro</h2>
-                  <p style={{ color: '#64748b' }}>
-                    Treine no ritmo da prova real. Nossos simulados calculam seu tempo por questão e mostram se você estaria aprovado na nota de corte de prefeituras.
+                <div style={{ textAlign: 'center', maxWidth: '780px', margin: '0 auto 2.25rem' }}>
+                  <div className="hero-tag" style={{ margin: '0 auto 0.75rem', display: 'inline-flex' }}>
+                    <BookCheck size={15} color="#0d9488" />
+                    <span>Simulados Proporcionais no Padrão da Banca</span>
+                  </div>
+                  <h2 style={{ fontSize: '1.9rem', fontWeight: 800, color: '#0f172a', marginBottom: '0.65rem' }}>
+                    Simulados Oficiais no Padrão SELECON
+                  </h2>
+                  <p style={{ color: '#64748b', fontSize: '1rem', lineHeight: '1.6' }}>
+                    Provas completas cronometradas estruturadas rigorosamente de acordo com o padrão estatístico de cobrança da banca: <strong>20 questões de Língua Portuguesa</strong> e <strong>40 questões de Enfermagem</strong> (60 questões no total).
                   </p>
                 </div>
 
-                <div className="simulados-grid">
-                  <div className="simulado-card">
-                    <div className="simulado-header">
-                      <h3 className="simulado-title">Simulado Rápido de Prefeituras</h3>
-                      <p className="simulado-desc">
-                        Focado nas matérias mais repetidas em concursos municipais: SUS, Imunização e Código de Ética COFEN.
-                      </p>
-                    </div>
-                    <div className="simulado-info">
-                      <span><strong>6</strong> Questões</span>
-                      <span><strong>15</strong> Minutos</span>
-                      <span>Banca: SELECON</span>
-                    </div>
-                    <button
-                      className="btn-primary"
-                      disabled={carregandoSimulado}
-                      onClick={() => iniciarSimulado('prefeituras')}
+                <div className="simulados-grid" style={{ gridTemplateColumns: 'repeat(auto-fit, minmax(350px, 1fr))', gap: '1.75rem' }}>
+                  {SIMULADOS_OFICIAIS.map((sim, index) => (
+                    <div
+                      key={sim.id}
+                      className="simulado-card"
+                      style={{
+                        border: index === 0 ? '2px solid #0d9488' : '1px solid var(--border)',
+                        position: 'relative'
+                      }}
                     >
-                      {carregandoSimulado ? 'Preparando Simulado...' : 'Iniciar Simulado Gratuito'}
-                    </button>
-                  </div>
+                      <div className="simulado-header">
+                        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.85rem' }}>
+                          <span style={{
+                            display: 'inline-flex',
+                            alignItems: 'center',
+                            gap: '0.35rem',
+                            background: index === 0 ? '#ccfbf1' : '#f1f5f9',
+                            color: index === 0 ? '#0f766e' : '#334155',
+                            fontSize: '0.78rem',
+                            fontWeight: 800,
+                            padding: '0.25rem 0.65rem',
+                            borderRadius: '4px',
+                            textTransform: 'uppercase'
+                          }}>
+                            {index === 0 ? '⭐ Simulado #01 • Prova Completa' : 'Simulado #02 • Prova Inédita'}
+                          </span>
+                          <span style={{ fontSize: '0.8rem', color: '#0f766e', fontWeight: 700, background: '#f0fdfa', padding: '0.2rem 0.5rem', borderRadius: '4px' }}>
+                            Banca: {sim.banca}
+                          </span>
+                        </div>
 
-                  <div className="simulado-card" style={{ border: '2px solid #0d9488' }}>
-                    <div className="simulado-header">
-                      <div style={{ display: 'inline-block', background: '#ccfbf1', color: '#0f766e', fontSize: '0.75rem', fontWeight: 800, padding: '0.2rem 0.5rem', borderRadius: '4px', marginBottom: '0.5rem' }}>
-                        MAIS COBRADO
+                        <h3 className="simulado-title" style={{ fontSize: '1.3rem', fontWeight: 800, marginBottom: '0.45rem' }}>
+                          {sim.titulo}
+                        </h3>
+                        <p className="simulado-desc" style={{ marginBottom: '1.15rem' }}>
+                          {sim.subtitulo}
+                        </p>
+
+                        {/* Grade Proporcional Resumida */}
+                        <div style={{ background: '#f8fafc', borderRadius: '8px', padding: '0.95rem 1.15rem', border: '1px solid #e2e8f0', marginBottom: '1.25rem' }}>
+                          <div style={{ fontWeight: 800, fontSize: '0.85rem', color: '#1e293b', marginBottom: '0.45rem', display: 'flex', justifyContent: 'space-between' }}>
+                            <span>📖 Módulo I: Língua Portuguesa</span>
+                            <strong style={{ color: '#0d9488' }}>20 Questões</strong>
+                          </div>
+                          <div style={{ fontSize: '0.8rem', color: '#64748b', lineHeight: '1.45', marginBottom: '0.75rem' }}>
+                            Interpretação (8q), Sintaxe (4q), Verbos (2q), Classes Gramaticais (1q), Semântica (1q), Pontuação (1q), Tipologia (1q), Ortografia (1q), Pronomes (1q).
+                          </div>
+
+                          <div style={{ fontWeight: 800, fontSize: '0.85rem', color: '#1e293b', marginBottom: '0.45rem', display: 'flex', justifyContent: 'space-between', borderTop: '1px solid #e2e8f0', paddingTop: '0.65rem' }}>
+                            <span>🩺 Módulo II: Conhecimentos Específicos</span>
+                            <strong style={{ color: '#0d9488' }}>40 Questões</strong>
+                          </div>
+                          <div style={{ fontSize: '0.8rem', color: '#64748b', lineHeight: '1.45' }}>
+                            Infecciosas/Dengue/HIV (10q), Fundamentos (6q), SUS/Atenção Básica (4q), Segurança/Biossegurança (3q), Legislação/Ética (3q), Urgência/PCR (3q), HAS/Diabetes (2q), Epidemiologia (2q), Imunização (2q), CME (1q), Idoso (1q), Mulher (1q), Farmacologia (1q), Gestão (1q).
+                          </div>
+                        </div>
                       </div>
-                      <h3 className="simulado-title">Simulado Completo Técnico de Enfermagem</h3>
-                      <p className="simulado-desc">
-                        Mix de questões de cálculo de medicação, sinais vitais, urgência e emergência e SUS.
-                      </p>
-                    </div>
-                    <div className="simulado-info">
-                      <span><strong>8</strong> Questões</span>
-                      <span><strong>20</strong> Minutos</span>
-                      <span>Banca: SELECON</span>
-                    </div>
-                    <button
-                      className="btn-primary"
-                      disabled={carregandoSimulado}
-                      onClick={() => iniciarSimulado('tecnico')}
-                    >
-                      {carregandoSimulado ? 'Preparando Simulado...' : 'Iniciar Simulado'}
-                    </button>
-                  </div>
 
-                  <div className="simulado-card">
-                    <div className="simulado-header">
-                      <h3 className="simulado-title">Simulado EBSERH & Grandes Concursos</h3>
-                      <p className="simulado-desc">
-                        Questões de alto nível com perfil das bancas FGV, IBFC e Cebraspe para hospitais universitários.
-                      </p>
+                      <div className="simulado-info" style={{ marginTop: 'auto', marginBottom: '1.25rem' }}>
+                        <span><strong>60</strong> Questões</span>
+                        <span><strong>180</strong> Minutos (3h)</span>
+                        <span>Corte Mínimo: <strong>60%</strong></span>
+                      </div>
+
+                      <button
+                        className="btn-primary"
+                        style={{ width: '100%', justifyContent: 'center', padding: '0.85rem', fontSize: '1rem', fontWeight: 800 }}
+                        onClick={() => iniciarSimulado(sim.id)}
+                      >
+                        Iniciar Simulado #{sim.numero} (60 Questões)
+                      </button>
                     </div>
-                    <div className="simulado-info">
-                      <span><strong>10</strong> Questões</span>
-                      <span><strong>25</strong> Minutos</span>
-                      <span>Nível Superior & Médio</span>
-                    </div>
-                    <button className="btn-primary" onClick={() => setModalVipAberto(true)}>
-                      Desbloquear no Plano VIP
-                    </button>
-                  </div>
+                  ))}
                 </div>
               </div>
             ) : (
               /* MODO EXECUÇÃO DO SIMULADO */
               <div className="simulado-runner">
-                <div className="simulado-header-bar" style={{ flexWrap: 'wrap', gap: '0.75rem' }}>
-                  <div>
-                    <h3 style={{ fontSize: '1.2rem', color: '#0f172a' }}>{simuladoAtivo.titulo}</h3>
-                    <span style={{ fontSize: '0.85rem', color: '#64748b' }}>
-                      Questão {simuladoIndex + 1} de {simuladoAtivo.questoes.length}
-                    </span>
+                {/* Barra Superior do Simulado */}
+                <div className="simulado-header-bar" style={{ flexWrap: 'wrap', gap: '0.85rem' }}>
+                  <div style={{ flex: 1, minWidth: '240px' }}>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '0.25rem' }}>
+                      <span style={{
+                        fontSize: '0.75rem',
+                        fontWeight: 800,
+                        padding: '0.2rem 0.5rem',
+                        borderRadius: '4px',
+                        background: simuladoIndex < 20 ? '#dbeafe' : '#ccfbf1',
+                        color: simuladoIndex < 20 ? '#1e40af' : '#0f766e'
+                      }}>
+                        {simuladoIndex < 20 ? '📖 Módulo I: Português' : '🩺 Módulo II: Enfermagem'}
+                      </span>
+                      <span style={{ fontSize: '0.84rem', color: '#64748b', fontWeight: 600 }}>
+                        Questão {simuladoIndex + 1} de {simuladoAtivo.questoes.length}
+                      </span>
+                    </div>
+                    <h3 style={{ fontSize: '1.15rem', color: '#0f172a', margin: 0, fontWeight: 800 }}>
+                      {simuladoAtivo.titulo}
+                    </h3>
                   </div>
 
-                  <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
-                    <div className="timer-box">
-                      <Timer size={20} />
+                  <div style={{ display: 'flex', alignItems: 'center', gap: '0.85rem', flexWrap: 'wrap' }}>
+                    <span style={{ fontSize: '0.84rem', color: '#475569', fontWeight: 700, background: '#f1f5f9', padding: '0.35rem 0.75rem', borderRadius: '6px' }}>
+                      {Object.keys(simuladoRespostas).length}/60 Respondidas
+                    </span>
+
+                    <div className="timer-box" title="Tempo restante de prova">
+                      <Timer size={19} />
                       <span>{formatarTempo(tempoRestante)}</span>
                     </div>
+
                     {!simuladoFinalizado && (
-                      <button
-                        type="button"
-                        onClick={() => setSimuladoAtivo(null)}
-                        style={{
-                          padding: '0.45rem 0.85rem',
-                          fontSize: '0.82rem',
-                          fontWeight: 700,
-                          background: '#f1f5f9',
-                          color: '#475569',
-                          borderRadius: '6px',
-                          border: '1px solid #cbd5e1'
-                        }}
-                      >
-                        Sair
-                      </button>
+                      <div style={{ display: 'flex', gap: '0.5rem' }}>
+                        <button
+                          type="button"
+                          className="btn-primary"
+                          style={{ background: '#10b981', padding: '0.5rem 0.95rem', fontSize: '0.85rem', fontWeight: 700 }}
+                          onClick={() => {
+                            const faltam = simuladoAtivo.questoes.length - Object.keys(simuladoRespostas).length;
+                            const msg = faltam > 0
+                              ? `Você ainda tem ${faltam} questão(ões) sem resposta. Deseja realmente finalizar o simulado e ver seu resultado?`
+                              : 'Deseja finalizar o simulado e conferir sua pontuação e gabarito comentado?';
+                            if (window.confirm(msg)) {
+                              setSimuladoFinalizado(true);
+                              window.scrollTo({ top: 0, behavior: 'smooth' });
+                            }
+                          }}
+                        >
+                          Finalizar Simulado
+                        </button>
+                        <button
+                          type="button"
+                          onClick={() => {
+                            if (window.confirm('Tem certeza que deseja sair deste simulado? Seu progresso nesta tentativa será cancelado.')) {
+                              setSimuladoAtivo(null);
+                            }
+                          }}
+                          style={{
+                            padding: '0.5rem 0.85rem',
+                            fontSize: '0.82rem',
+                            fontWeight: 700,
+                            background: '#f8fafc',
+                            color: '#64748b',
+                            borderRadius: '6px',
+                            border: '1px solid #cbd5e1',
+                            cursor: 'pointer'
+                          }}
+                        >
+                          Sair
+                        </button>
+                      </div>
                     )}
                   </div>
                 </div>
 
                 {!simuladoFinalizado ? (
                   <div>
+                    {/* Paleta de Navegação das 60 Questões */}
+                    <div className="simulado-palette-box">
+                      {/* Bloco 1: Língua Portuguesa (1 a 20) */}
+                      <div style={{ marginBottom: '0.85rem' }}>
+                        <div className="palette-section-title">
+                          <span>📖 Módulo I: Língua Portuguesa (Questões 01 a 20)</span>
+                          <span style={{ fontSize: '0.75rem', color: '#0d9488' }}>
+                            {simuladoAtivo.questoes.slice(0, 20).filter(q => simuladoRespostas[q.id] !== undefined).length}/20 respondidas
+                          </span>
+                        </div>
+                        <div className="palette-grid">
+                          {simuladoAtivo.questoes.slice(0, 20).map((q, idx) => {
+                            const isCurrent = simuladoIndex === idx;
+                            const isAnswered = simuladoRespostas[q.id] !== undefined;
+                            return (
+                              <button
+                                key={q.id}
+                                type="button"
+                                className={`palette-btn ${isCurrent ? 'current' : ''} ${isAnswered ? 'answered' : ''}`}
+                                onClick={() => setSimuladoIndex(idx)}
+                                title={`Questão ${idx + 1}: ${q.assunto_proporcional || q.assunto}`}
+                              >
+                                {idx + 1}
+                              </button>
+                            );
+                          })}
+                        </div>
+                      </div>
+
+                      {/* Bloco 2: Conhecimentos Específicos em Enfermagem (21 a 60) */}
+                      <div>
+                        <div className="palette-section-title">
+                          <span>🩺 Módulo II: Conhecimentos Específicos em Enfermagem (Questões 21 a 60)</span>
+                          <span style={{ fontSize: '0.75rem', color: '#0d9488' }}>
+                            {simuladoAtivo.questoes.slice(20, 60).filter(q => simuladoRespostas[q.id] !== undefined).length}/40 respondidas
+                          </span>
+                        </div>
+                        <div className="palette-grid">
+                          {simuladoAtivo.questoes.slice(20, 60).map((q, idx) => {
+                            const realIdx = idx + 20;
+                            const isCurrent = simuladoIndex === realIdx;
+                            const isAnswered = simuladoRespostas[q.id] !== undefined;
+                            return (
+                              <button
+                                key={q.id}
+                                type="button"
+                                className={`palette-btn ${isCurrent ? 'current' : ''} ${isAnswered ? 'answered' : ''}`}
+                                onClick={() => setSimuladoIndex(realIdx)}
+                                title={`Questão ${realIdx + 1}: ${q.assunto_proporcional || q.assunto}`}
+                              >
+                                {realIdx + 1}
+                              </button>
+                            );
+                          })}
+                        </div>
+                      </div>
+                    </div>
+
+                    {/* Cartão da Questão Ativa */}
                     {(() => {
                       const q = simuladoAtivo.questoes[simuladoIndex];
                       if (!q) return null;
                       const selected = simuladoRespostas[q.id];
 
                       return (
-                        <div className="question-card">
-                          <div className="question-meta">
-                            <span className="badge badge-banca">{q.banca}</span>
-                            <span className="badge badge-orgao">{q.orgao} • {q.ano}</span>
-                            <span className="badge badge-cargo">{q.cargo}</span>
-                            <span className="badge badge-materia">{q.assunto || q.materia}</span>
+                        <div className="question-card" style={{ borderTop: '3px solid #0d9488' }}>
+                          <div className="question-meta" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '0.5rem' }}>
+                            <div style={{ display: 'flex', gap: '0.45rem', flexWrap: 'wrap', alignItems: 'center' }}>
+                              <span className="badge" style={{ background: '#0f172a', color: '#38bdf8', fontWeight: 800 }}>
+                                Questão {simuladoIndex + 1} de 60
+                              </span>
+                              <span className="badge badge-banca">{q.banca}</span>
+                              <span className="badge badge-orgao">{q.orgao} • {q.ano}</span>
+                              <span className="badge badge-cargo">{q.cargo}</span>
+                              <span className="badge badge-materia" style={{ background: '#ecfdf5', color: '#065f46', fontWeight: 700 }}>
+                                {q.assunto_proporcional || q.assunto}
+                              </span>
+                            </div>
+
+                            <div style={{ fontSize: '0.82rem', color: selected ? '#059669' : '#d97706', fontWeight: 700 }}>
+                              {selected ? `✓ Marcada: Letra ${selected}` : '⚠️ Ainda não respondida'}
+                            </div>
                           </div>
 
-                          <p className="question-text">{q.enunciado || 'Analise as alternativas abaixo e assinale a opção correta:'}</p>
+                          <p className="question-text" style={{ fontSize: '1.08rem', lineHeight: '1.75' }}>
+                            <strong>Enunciado:</strong> {q.enunciado || 'Analise as alternativas abaixo e assinale a opção correta:'}
+                          </p>
 
                           <div className="alternativas-list">
                             {(q.alternativas || []).map(alt => (
                               <button
                                 key={alt.id}
+                                type="button"
                                 className={`alt-option ${selected === alt.id ? 'selected' : ''}`}
                                 onClick={() => setSimuladoRespostas({ ...simuladoRespostas, [q.id]: alt.id })}
                               >
                                 <span className="alt-letter">{alt.id}</span>
-                                <span style={{ flex: 1 }}>{alt.texto}</span>
+                                <span style={{ flex: 1, textAlign: 'left' }}>{alt.texto}</span>
                               </button>
                             ))}
                           </div>
 
-                          <div style={{ display: 'flex', justifyContent: 'space-between', marginTop: '1.5rem', gap: '0.75rem', flexWrap: 'wrap' }}>
+                          <div style={{ display: 'flex', justifyContent: 'space-between', marginTop: '1.75rem', gap: '0.75rem', flexWrap: 'wrap' }}>
                             <button
+                              type="button"
                               className="btn-primary"
-                              style={{ background: '#94a3b8' }}
+                              style={{ background: '#64748b' }}
                               disabled={simuladoIndex === 0}
-                              onClick={() => setSimuladoIndex(simuladoIndex - 1)}
+                              onClick={() => {
+                                setSimuladoIndex(simuladoIndex - 1);
+                                window.scrollTo({ top: 180, behavior: 'smooth' });
+                              }}
                             >
-                              Anterior
+                              <ChevronLeft size={18} />
+                              <span>Anterior</span>
                             </button>
 
-                            {simuladoIndex < simuladoAtivo.questoes.length - 1 ? (
-                              <button
-                                className="btn-primary"
-                                onClick={() => setSimuladoIndex(simuladoIndex + 1)}
-                              >
-                                Próxima Questão
-                              </button>
-                            ) : (
-                              <button
-                                className="btn-primary"
-                                style={{ background: '#10b981' }}
-                                onClick={() => setSimuladoFinalizado(true)}
-                              >
-                                Finalizar e Ver Resultado
-                              </button>
-                            )}
+                            <div style={{ display: 'flex', gap: '0.75rem' }}>
+                              {simuladoIndex < simuladoAtivo.questoes.length - 1 ? (
+                                <button
+                                  type="button"
+                                  className="btn-primary"
+                                  onClick={() => {
+                                    setSimuladoIndex(simuladoIndex + 1);
+                                    window.scrollTo({ top: 180, behavior: 'smooth' });
+                                  }}
+                                >
+                                  <span>Próxima Questão</span>
+                                  <ChevronRight size={18} />
+                                </button>
+                              ) : (
+                                <button
+                                  type="button"
+                                  className="btn-primary"
+                                  style={{ background: '#10b981' }}
+                                  onClick={() => {
+                                    setSimuladoFinalizado(true);
+                                    window.scrollTo({ top: 0, behavior: 'smooth' });
+                                  }}
+                                >
+                                  <Award size={18} />
+                                  <span>Finalizar Prova e Ver Resultado</span>
+                                </button>
+                              )}
+                            </div>
                           </div>
                         </div>
                       );
                     })()}
                   </div>
                 ) : (
-                  /* RESULTADO DO SIMULADO */
-                  <div className="question-card" style={{ textAlign: 'center', padding: '3rem 2rem' }}>
-                    <Award size={64} color="#0d9488" style={{ margin: '0 auto 1rem' }} />
-                    <h2 style={{ fontSize: '2rem', marginBottom: '0.5rem' }}>Simulado Concluído!</h2>
-                    <p style={{ color: '#64748b', marginBottom: '2rem' }}>
-                      Confira abaixo o seu aproveitamento nesta simulação:
-                    </p>
-
+                  /* RESULTADO DETALHADO DO SIMULADO */
+                  <div className="animate-fade-in">
                     {(() => {
                       const total = simuladoAtivo.questoes.length;
-                      const acertos = simuladoAtivo.questoes.filter(
-                        q => simuladoRespostas[q.id] === q.resposta_correta
-                      ).length;
-                      const perc = total > 0 ? Math.round((acertos / total) * 100) : 0;
+                      const questoesPort = simuladoAtivo.questoes.slice(0, 20);
+                      const questoesEnf = simuladoAtivo.questoes.slice(20, 60);
+
+                      const acertosPort = questoesPort.filter(q => simuladoRespostas[q.id] === q.resposta_correta).length;
+                      const percPort = Math.round((acertosPort / 20) * 100);
+
+                      const acertosEnf = questoesEnf.filter(q => simuladoRespostas[q.id] === q.resposta_correta).length;
+                      const percEnf = Math.round((acertosEnf / 40) * 100);
+
+                      const totalAcertos = acertosPort + acertosEnf;
+                      const percTotal = Math.round((totalAcertos / total) * 100);
+
+                      const isAprovado = percTotal >= 60 && percPort >= 50 && percEnf >= 50;
+
+                      // Filtragem para revisão
+                      const questoesParaRevisao = simuladoAtivo.questoes.filter(q => {
+                        const acertou = simuladoRespostas[q.id] === q.resposta_correta;
+                        if (filtroRevisaoSimulado === 'erros') return !acertou;
+                        if (filtroRevisaoSimulado === 'acertos') return acertou;
+                        return true;
+                      });
 
                       return (
-                        <div style={{ maxWidth: '400px', margin: '0 auto 2rem' }}>
-                          <div style={{ fontSize: '3rem', fontWeight: 800, color: '#0d9488' }}>
-                            {perc}%
-                          </div>
-                          <p style={{ fontWeight: 600, color: '#334155' }}>
-                            Você acertou {acertos} de {total} questões
-                          </p>
+                        <div>
+                          <div className="question-card" style={{ textAlign: 'center', padding: '2.5rem 1.5rem', marginBottom: '2rem' }}>
+                            <Award size={60} color={isAprovado ? '#0d9488' : '#eab308'} style={{ margin: '0 auto 1rem' }} />
+                            <h2 style={{ fontSize: '1.9rem', fontWeight: 800, color: '#0f172a', marginBottom: '0.4rem' }}>
+                              Simulado Concluído com Sucesso!
+                            </h2>
+                            <p style={{ color: '#64748b', fontSize: '0.98rem', maxWidth: '600px', margin: '0 auto 1.5rem' }}>
+                              Resultado oficial apurado com base no gabarito das 60 questões proporcionais da banca SELECON.
+                            </p>
 
-                          <div style={{
-                            marginTop: '1rem',
-                            padding: '1rem',
-                            borderRadius: '8px',
-                            background: perc >= 70 ? '#ecfdf5' : '#fffbeb',
-                            color: perc >= 70 ? '#065f46' : '#92400e',
-                            fontWeight: 600
-                          }}>
-                            {perc >= 70
-                              ? 'Excelente! Você estaria classificado(a) na faixa de vagas da maioria das prefeituras!'
-                              : 'Atenção aos pontos fracos! Foque em Legislação do SUS e Farmacologia para subir sua nota.'}
+                            {/* Cards de Pontuação por Módulo */}
+                            <div className="simulado-score-grid">
+                              <div className="simulado-score-card main">
+                                <div className="simulado-score-num">{percTotal}%</div>
+                                <div className="simulado-score-label">Pontuação Geral ({totalAcertos}/60)</div>
+                              </div>
+                              <div className="simulado-score-card">
+                                <div className="simulado-score-num" style={{ color: percPort >= 50 ? '#0d9488' : '#dc2626' }}>
+                                  {percPort}%
+                                </div>
+                                <div className="simulado-score-label">Português ({acertosPort}/20)</div>
+                              </div>
+                              <div className="simulado-score-card">
+                                <div className="simulado-score-num" style={{ color: percEnf >= 50 ? '#0d9488' : '#dc2626' }}>
+                                  {percEnf}%
+                                </div>
+                                <div className="simulado-score-label">Enfermagem ({acertosEnf}/40)</div>
+                              </div>
+                            </div>
+
+                            {/* Diagnóstico de Nota de Corte */}
+                            <div style={{
+                              padding: '1.25rem',
+                              borderRadius: '8px',
+                              background: isAprovado ? '#ecfdf5' : '#fffbeb',
+                              border: isAprovado ? '1px solid #a7f3d0' : '1px solid #fde68a',
+                              color: isAprovado ? '#065f46' : '#92400e',
+                              textAlign: 'left',
+                              fontSize: '0.95rem',
+                              lineHeight: '1.6',
+                              marginBottom: '1.75rem'
+                            }}>
+                              <div style={{ fontWeight: 800, marginBottom: '0.25rem', display: 'flex', alignItems: 'center', gap: '0.45rem' }}>
+                                {isAprovado ? <CheckCircle2 size={19} color="#059669" /> : <XCircle size={19} color="#d97706" />}
+                                <span>{isAprovado ? '🎉 APROVADO(A) NA NOTA DE CORTE DE PREFEITURAS!' : '⚠️ ATENÇÃO: ABAIXO DA NOTA DE CORTE DE CONVOCAÇÃO'}</span>
+                              </div>
+                              {isAprovado ? (
+                                <p style={{ margin: 0 }}>
+                                  Parabéns! Sua nota atingiu os critérios de aprovação de concursos municipais (mínimo de 50% em cada disciplina e 60% geral). Você está muito bem preparado(a) para a prova real!
+                                </p>
+                              ) : (
+                                <p style={{ margin: 0 }}>
+                                  Nos editais de prefeituras organizados pela SELECON, a nota de corte exige no mínimo <strong>50% em Português (10/20)</strong>, <strong>50% em Enfermagem (20/40)</strong> e <strong>60% no cômputo geral (36/60)</strong>. Revise os comentários das questões que você errou logo abaixo para fechar essas lacunas!
+                                </p>
+                              )}
+                            </div>
+
+                            {/* Ações pós-simulado */}
+                            <div style={{ display: 'flex', gap: '0.85rem', justifyContent: 'center', flexWrap: 'wrap' }}>
+                              <button
+                                type="button"
+                                className="btn-primary"
+                                onClick={() => {
+                                  setSimuladoRespostas({});
+                                  setSimuladoIndex(0);
+                                  setTempoRestante(simuladoAtivo.duracaoMinutos * 60);
+                                  setSimuladoFinalizado(false);
+                                  window.scrollTo({ top: 0, behavior: 'smooth' });
+                                }}
+                              >
+                                <RotateCcw size={17} />
+                                <span>Refazer Este Simulado</span>
+                              </button>
+                              <button
+                                type="button"
+                                className="btn-primary"
+                                style={{ background: '#475569' }}
+                                onClick={() => {
+                                  setSimuladoAtivo(null);
+                                  window.scrollTo({ top: 0, behavior: 'smooth' });
+                                }}
+                              >
+                                <span>Escolher Outro Simulado</span>
+                              </button>
+                            </div>
+                          </div>
+
+                          {/* Seção de Revisão Completa com Gabarito e Comentários */}
+                          <div style={{ marginTop: '2.5rem' }}>
+                            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '0.85rem', marginBottom: '1.25rem' }}>
+                              <div>
+                                <h3 style={{ fontSize: '1.35rem', fontWeight: 800, color: '#0f172a' }}>
+                                  Revisão e Gabarito Oficial Comentado
+                                </h3>
+                                <p style={{ color: '#64748b', fontSize: '0.88rem' }}>
+                                  Analise alternativa por alternativa com fundamentação técnica e legal.
+                                </p>
+                              </div>
+
+                              <div style={{ display: 'flex', gap: '0.4rem', background: '#e2e8f0', padding: '0.25rem', borderRadius: '8px' }}>
+                                <button
+                                  type="button"
+                                  className={`btn-padrao-pill ${filtroRevisaoSimulado === 'todas' ? 'active' : ''}`}
+                                  onClick={() => setFiltroRevisaoSimulado('todas')}
+                                >
+                                  Todas (60)
+                                </button>
+                                <button
+                                  type="button"
+                                  className={`btn-padrao-pill ${filtroRevisaoSimulado === 'erros' ? 'active' : ''}`}
+                                  onClick={() => setFiltroRevisaoSimulado('erros')}
+                                >
+                                  Erros ({60 - totalAcertos})
+                                </button>
+                                <button
+                                  type="button"
+                                  className={`btn-padrao-pill ${filtroRevisaoSimulado === 'acertos' ? 'active' : ''}`}
+                                  onClick={() => setFiltroRevisaoSimulado('acertos')}
+                                >
+                                  Acertos ({totalAcertos})
+                                </button>
+                              </div>
+                            </div>
+
+                            {/* Lista das Questões em Revisão */}
+                            <div style={{ display: 'flex', flexDirection: 'column', gap: '1.25rem' }}>
+                              {questoesParaRevisao.map(q => {
+                                const respAluno = simuladoRespostas[q.id];
+                                const acertou = respAluno === q.resposta_correta;
+
+                                return (
+                                  <div
+                                    key={q.id}
+                                    className="simulado-review-card"
+                                    style={{
+                                      borderLeft: acertou ? '4px solid #10b981' : '4px solid #ef4444'
+                                    }}
+                                  >
+                                    <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '0.5rem', marginBottom: '0.75rem' }}>
+                                      <div style={{ display: 'flex', gap: '0.45rem', alignItems: 'center', flexWrap: 'wrap' }}>
+                                        <span className="badge" style={{ background: '#0f172a', color: '#fff', fontWeight: 800 }}>
+                                          Questão {q.numero_simulado}
+                                        </span>
+                                        <span className="badge badge-banca">{q.banca}</span>
+                                        <span className="badge badge-orgao">{q.orgao} • {q.ano}</span>
+                                        <span className="badge badge-materia">{q.assunto_proporcional || q.assunto}</span>
+                                      </div>
+
+                                      <div>
+                                        {acertou ? (
+                                          <span style={{ color: '#059669', fontWeight: 800, fontSize: '0.85rem', display: 'inline-flex', alignItems: 'center', gap: '0.35rem' }}>
+                                            <CheckCircle2 size={16} /> Você acertou (Letra {respAluno})
+                                          </span>
+                                        ) : (
+                                          <span style={{ color: '#dc2626', fontWeight: 800, fontSize: '0.85rem', display: 'inline-flex', alignItems: 'center', gap: '0.35rem' }}>
+                                            <XCircle size={16} /> {respAluno ? `Você marcou (${respAluno}), Gabarito (${q.resposta_correta})` : `Não respondida, Gabarito (${q.resposta_correta})`}
+                                          </span>
+                                        )}
+                                      </div>
+                                    </div>
+
+                                    <p style={{ fontSize: '1.02rem', lineHeight: '1.7', color: '#1e293b', marginBottom: '1rem' }}>
+                                      <strong>Enunciado:</strong> {q.enunciado}
+                                    </p>
+
+                                    {/* Alternativas */}
+                                    <div style={{ display: 'flex', flexDirection: 'column', gap: '0.45rem', marginBottom: '1.15rem' }}>
+                                      {(q.alternativas || []).map(alt => {
+                                        const isCorreta = alt.id === q.resposta_correta;
+                                        const isMarcadaAluno = respAluno === alt.id;
+                                        let bg = '#f8fafc';
+                                        let border = '#e2e8f0';
+                                        let textCol = '#334155';
+
+                                        if (isCorreta) {
+                                          bg = '#ecfdf5';
+                                          border = '#10b981';
+                                          textCol = '#065f46';
+                                        } else if (isMarcadaAluno && !acertou) {
+                                          bg = '#fef2f2';
+                                          border = '#ef4444';
+                                          textCol = '#991b1b';
+                                        }
+
+                                        return (
+                                          <div
+                                            key={alt.id}
+                                            style={{
+                                              padding: '0.65rem 0.95rem',
+                                              borderRadius: '6px',
+                                              border: `1.5px solid ${border}`,
+                                              background: bg,
+                                              color: textCol,
+                                              fontSize: '0.92rem',
+                                              display: 'flex',
+                                              alignItems: 'center',
+                                              gap: '0.65rem'
+                                            }}
+                                          >
+                                            <span style={{
+                                              width: '24px',
+                                              height: '24px',
+                                              borderRadius: '50%',
+                                              background: isCorreta ? '#10b981' : isMarcadaAluno ? '#ef4444' : '#cbd5e1',
+                                              color: '#ffffff',
+                                              display: 'flex',
+                                              alignItems: 'center',
+                                              justifyContent: 'center',
+                                              fontSize: '0.78rem',
+                                              fontWeight: 800,
+                                              flexShrink: 0
+                                            }}>
+                                              {alt.id}
+                                            </span>
+                                            <span style={{ flex: 1, fontWeight: (isCorreta || isMarcadaAluno) ? 700 : 500 }}>
+                                              {alt.texto}
+                                            </span>
+                                            {isCorreta && (
+                                              <span style={{ fontSize: '0.75rem', fontWeight: 800, color: '#059669', background: '#d1fae5', padding: '0.15rem 0.45rem', borderRadius: '4px' }}>
+                                                Gabarito Oficial
+                                              </span>
+                                            )}
+                                            {isMarcadaAluno && !isCorreta && (
+                                              <span style={{ fontSize: '0.75rem', fontWeight: 800, color: '#b91c1c', background: '#fee2e2', padding: '0.15rem 0.45rem', borderRadius: '4px' }}>
+                                                Sua Escolha
+                                              </span>
+                                            )}
+                                          </div>
+                                        );
+                                      })}
+                                    </div>
+
+                                    {/* Comentário / Fundamentação */}
+                                    <div style={{ background: '#f8fafc', borderLeft: '3px solid #0d9488', padding: '0.9rem 1.15rem', borderRadius: '4px', fontSize: '0.88rem', lineHeight: '1.6' }}>
+                                      <div style={{ fontWeight: 800, color: '#0f766e', marginBottom: '0.35rem', display: 'flex', alignItems: 'center', gap: '0.35rem' }}>
+                                        <CheckCircle2 size={16} /> Fundamentação Oficial (Gabarito {q.resposta_correta}):
+                                      </div>
+                                      <div style={{ color: '#334155' }}>
+                                        {q.fundamentacao_correta || q.comentario || 'Gabarito Oficial conferido pela banca examinadora.'}
+                                      </div>
+
+                                      {q.analise_distratores && q.analise_distratores.length > 0 && (
+                                        <div style={{ marginTop: '0.75rem', paddingTop: '0.75rem', borderTop: '1px dashed #cbd5e1' }}>
+                                          <div style={{ fontWeight: 700, color: '#64748b', fontSize: '0.82rem', marginBottom: '0.35rem' }}>
+                                            Por que as outras alternativas estão incorretas:
+                                          </div>
+                                          {q.analise_distratores.map(d => (
+                                            <div key={d.letra} style={{ fontSize: '0.82rem', color: '#475569', marginBottom: '0.2rem' }}>
+                                              <strong>Letra {d.letra}:</strong> {d.motivo}
+                                            </div>
+                                          ))}
+                                        </div>
+                                      )}
+                                    </div>
+                                  </div>
+                                );
+                              })}
+                            </div>
                           </div>
                         </div>
                       );
                     })()}
-
-                    <div style={{ display: 'flex', gap: '1rem', justifyContent: 'center', flexWrap: 'wrap' }}>
-                      <button className="btn-primary" onClick={() => setSimuladoAtivo(null)}>
-                        Voltar aos Simulados
-                      </button>
-                      <button className="btn-vip-cta" onClick={() => setModalVipAberto(true)}>
-                        Ver Gabarito Comentado Completo
-                      </button>
-                    </div>
                   </div>
                 )}
               </div>

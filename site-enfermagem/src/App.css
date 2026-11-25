@@ -510,6 +510,131 @@
   border-radius: var(--radius-sm);
 }
 
+/* Paleta de Navegação das 60 Questões */
+.simulado-palette-box {
+  background: #ffffff;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: 1.15rem 1.25rem;
+  margin-bottom: 1.5rem;
+  box-shadow: var(--shadow-sm);
+}
+
+.palette-section-title {
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #475569;
+  letter-spacing: 0.03em;
+  margin-bottom: 0.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.palette-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(36px, 1fr));
+  gap: 0.35rem;
+}
+
+.palette-btn {
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1.5px solid #cbd5e1;
+  background: #f8fafc;
+  border-radius: 6px;
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: #475569;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.palette-btn:hover {
+  border-color: #0d9488;
+  background: #f0fdfa;
+  color: #0f766e;
+}
+
+.palette-btn.current {
+  border-color: #0f172a;
+  background: #0f172a;
+  color: #38bdf8;
+  box-shadow: 0 0 0 2px rgba(13, 148, 136, 0.4);
+}
+
+.palette-btn.answered {
+  background: #ccfbf1;
+  border-color: #0d9488;
+  color: #0f766e;
+}
+
+.palette-btn.answered.current {
+  background: #0d9488;
+  border-color: #0f172a;
+  color: #ffffff;
+}
+
+/* Placar e Diagnóstico do Simulado */
+.simulado-score-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+@media (max-width: 640px) {
+  .simulado-score-grid {
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
+  }
+}
+
+.simulado-score-card {
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: var(--radius-md);
+  padding: 1rem;
+  text-align: center;
+}
+
+.simulado-score-card.main {
+  background: #f0fdfa;
+  border-color: #99f6e4;
+}
+
+.simulado-score-num {
+  font-size: 2rem;
+  font-weight: 800;
+  color: #0f172a;
+  line-height: 1.1;
+}
+
+.simulado-score-card.main .simulado-score-num {
+  color: #0d9488;
+}
+
+.simulado-score-label {
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #64748b;
+  margin-top: 0.35rem;
+}
+
+/* Lista de Revisão pós-simulado */
+.simulado-review-card {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: var(--radius-md);
+  padding: 1.5rem;
+  margin-bottom: 1.25rem;
+  text-align: left;
+}
+
 /* VIP / Sales Banner */
 .vip-banner {
   background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
