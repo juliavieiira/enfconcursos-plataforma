@@ -88,6 +88,8 @@ export default function App() {
   const [tempoRestante, setTempoRestante] = useState(10800);
   const [simuladoFinalizado, setSimuladoFinalizado] = useState(false);
   const [filtroRevisaoSimulado, setFiltroRevisaoSimulado] = useState('todas'); // 'todas', 'erros', 'acertos'
+  const [simuladoBanca, setSimuladoBanca] = useState('SELECON');
+  const [simuladoBancaDropdownAberto, setSimuladoBancaDropdownAberto] = useState(false);
 
   // Modal VIP
   const [modalVipAberto, setModalVipAberto] = useState(false);
@@ -106,6 +108,7 @@ export default function App() {
       if (!e.target.closest('.padrao-dropdown-container')) {
         setBancaDropdownAberto(false);
         setMateriaDropdownAberto(false);
+        setSimuladoBancaDropdownAberto(false);
       }
     };
     document.addEventListener('click', handleOutsideClick);
@@ -1038,87 +1041,166 @@ export default function App() {
                     <span>Simulados Proporcionais no Padrão da Banca</span>
                   </div>
                   <h2 style={{ fontSize: '1.9rem', fontWeight: 800, color: '#0f172a', marginBottom: '0.65rem' }}>
-                    Simulados Oficiais no Padrão SELECON
+                    Simulados Oficiais no Padrão {simuladoBanca}
                   </h2>
-                  <p style={{ color: '#64748b', fontSize: '1rem', lineHeight: '1.6' }}>
+                  <p style={{ color: '#64748b', fontSize: '1rem', lineHeight: '1.6', marginBottom: '1.5rem' }}>
                     Provas completas cronometradas estruturadas rigorosamente de acordo com o padrão estatístico de cobrança da banca: <strong>20 questões de Língua Portuguesa</strong> e <strong>40 questões de Enfermagem</strong> (60 questões no total).
                   </p>
-                </div>
 
-                <div className="simulados-grid" style={{ gridTemplateColumns: 'repeat(auto-fit, minmax(350px, 1fr))', gap: '1.75rem' }}>
-                  {SIMULADOS_OFICIAIS.map((sim, index) => (
-                    <div
-                      key={sim.id}
-                      className="simulado-card"
-                      style={{
-                        border: index === 0 ? '2px solid #0d9488' : '1px solid var(--border)',
-                        position: 'relative'
-                      }}
-                    >
-                      <div className="simulado-header">
-                        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.85rem' }}>
-                          <span style={{
-                            display: 'inline-flex',
-                            alignItems: 'center',
-                            gap: '0.35rem',
-                            background: index === 0 ? '#ccfbf1' : '#f1f5f9',
-                            color: index === 0 ? '#0f766e' : '#334155',
-                            fontSize: '0.78rem',
-                            fontWeight: 800,
-                            padding: '0.25rem 0.65rem',
-                            borderRadius: '4px',
-                            textTransform: 'uppercase'
-                          }}>
-                            {index === 0 ? '⭐ Simulado #01 • Prova Completa' : 'Simulado #02 • Prova Inédita'}
-                          </span>
-                          <span style={{ fontSize: '0.8rem', color: '#0f766e', fontWeight: 700, background: '#f0fdfa', padding: '0.2rem 0.5rem', borderRadius: '4px' }}>
-                            Banca: {sim.banca}
-                          </span>
-                        </div>
-
-                        <h3 className="simulado-title" style={{ fontSize: '1.3rem', fontWeight: 800, marginBottom: '0.45rem' }}>
-                          {sim.titulo}
-                        </h3>
-                        <p className="simulado-desc" style={{ marginBottom: '1.15rem' }}>
-                          {sim.subtitulo}
-                        </p>
-
-                        {/* Grade Proporcional Resumida */}
-                        <div style={{ background: '#f8fafc', borderRadius: '8px', padding: '0.95rem 1.15rem', border: '1px solid #e2e8f0', marginBottom: '1.25rem' }}>
-                          <div style={{ fontWeight: 800, fontSize: '0.85rem', color: '#1e293b', marginBottom: '0.45rem', display: 'flex', justifyContent: 'space-between' }}>
-                            <span>📖 Módulo I: Língua Portuguesa</span>
-                            <strong style={{ color: '#0d9488' }}>20 Questões</strong>
-                          </div>
-                          <div style={{ fontSize: '0.8rem', color: '#64748b', lineHeight: '1.45', marginBottom: '0.75rem' }}>
-                            Interpretação (8q), Sintaxe (4q), Verbos (2q), Classes Gramaticais (1q), Semântica (1q), Pontuação (1q), Tipologia (1q), Ortografia (1q), Pronomes (1q).
-                          </div>
-
-                          <div style={{ fontWeight: 800, fontSize: '0.85rem', color: '#1e293b', marginBottom: '0.45rem', display: 'flex', justifyContent: 'space-between', borderTop: '1px solid #e2e8f0', paddingTop: '0.65rem' }}>
-                            <span>🩺 Módulo II: Conhecimentos Específicos</span>
-                            <strong style={{ color: '#0d9488' }}>40 Questões</strong>
-                          </div>
-                          <div style={{ fontSize: '0.8rem', color: '#64748b', lineHeight: '1.45' }}>
-                            Infecciosas/Dengue/HIV (10q), Fundamentos (6q), SUS/Atenção Básica (4q), Segurança/Biossegurança (3q), Legislação/Ética (3q), Urgência/PCR (3q), HAS/Diabetes (2q), Epidemiologia (2q), Imunização (2q), CME (1q), Idoso (1q), Mulher (1q), Farmacologia (1q), Gestão (1q).
-                          </div>
-                        </div>
-                      </div>
-
-                      <div className="simulado-info" style={{ marginTop: 'auto', marginBottom: '1.25rem' }}>
-                        <span><strong>60</strong> Questões</span>
-                        <span><strong>180</strong> Minutos (3h)</span>
-                        <span>Corte Mínimo: <strong>60%</strong></span>
-                      </div>
-
+                  {/* Seletor em Funil: Escolha a Banca */}
+                  <div style={{ maxWidth: '340px', margin: '0 auto', textAlign: 'left' }}>
+                    <span className="padrao-filter-label" style={{ display: 'block', marginBottom: '0.35rem', textAlign: 'center' }}>
+                      (escolha a banca)
+                    </span>
+                    <div className="padrao-dropdown-container">
                       <button
-                        className="btn-primary"
-                        style={{ width: '100%', justifyContent: 'center', padding: '0.85rem', fontSize: '1rem', fontWeight: 800 }}
-                        onClick={() => iniciarSimulado(sim.id)}
+                        type="button"
+                        className={`btn-padrao-funnel ${simuladoBancaDropdownAberto ? 'active' : ''}`}
+                        onClick={() => setSimuladoBancaDropdownAberto(!simuladoBancaDropdownAberto)}
+                        title="Clique para escolher a banca dos simulados"
                       >
-                        Iniciar Simulado #{sim.numero} (60 Questões)
+                        <div className="funnel-left">
+                          <Filter size={16} className="funnel-icon" />
+                          <span className="funnel-text">{simuladoBanca}</span>
+                        </div>
+                        <div className="funnel-right">
+                          <span className="pill-badge">
+                            {simuladoBanca === 'SELECON' ? '2 Simulados' : 'Em Breve'}
+                          </span>
+                          <ChevronDown size={16} className={`funnel-arrow ${simuladoBancaDropdownAberto ? 'open' : ''}`} />
+                        </div>
                       </button>
+
+                      {simuladoBancaDropdownAberto && (
+                        <div className="padrao-dropdown-menu animate-fade-in">
+                          <button
+                            type="button"
+                            className={`padrao-dropdown-item ${simuladoBanca === 'SELECON' ? 'selected' : ''}`}
+                            onClick={() => {
+                              setSimuladoBanca('SELECON');
+                              setSimuladoBancaDropdownAberto(false);
+                            }}
+                          >
+                            <span className="item-name">SELECON</span>
+                            <span className="pill-badge">2 Simulados</span>
+                          </button>
+                          {BANCAS_PRECONFIGURADAS.filter(b => b !== 'SELECON').map(banca => (
+                            <button
+                              key={banca}
+                              type="button"
+                              className={`padrao-dropdown-item ${simuladoBanca === banca ? 'selected' : ''}`}
+                              onClick={() => {
+                                setSimuladoBanca(banca);
+                                setSimuladoBancaDropdownAberto(false);
+                              }}
+                            >
+                              <span className="item-name">{banca}</span>
+                              <span className="pill-badge">Em Breve</span>
+                            </button>
+                          ))}
+                        </div>
+                      )}
                     </div>
-                  ))}
+                  </div>
                 </div>
+
+                {simuladoBanca === 'SELECON' ? (
+                  <div className="simulados-grid" style={{ gridTemplateColumns: 'repeat(auto-fit, minmax(350px, 1fr))', gap: '1.75rem' }}>
+                    {SIMULADOS_OFICIAIS.map((sim, index) => (
+                      <div
+                        key={sim.id}
+                        className="simulado-card"
+                        style={{
+                          border: index === 0 ? '2px solid #0d9488' : '1px solid var(--border)',
+                          position: 'relative'
+                        }}
+                      >
+                        <div className="simulado-header">
+                          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.85rem' }}>
+                            <span style={{
+                              display: 'inline-flex',
+                              alignItems: 'center',
+                              gap: '0.35rem',
+                              background: index === 0 ? '#ccfbf1' : '#f1f5f9',
+                              color: index === 0 ? '#0f766e' : '#334155',
+                              fontSize: '0.78rem',
+                              fontWeight: 800,
+                              padding: '0.25rem 0.65rem',
+                              borderRadius: '4px',
+                              textTransform: 'uppercase'
+                            }}>
+                              {index === 0 ? '⭐ Simulado #01 • Prova Completa' : 'Simulado #02 • Prova Inédita'}
+                            </span>
+                            <span style={{ fontSize: '0.8rem', color: '#0f766e', fontWeight: 700, background: '#f0fdfa', padding: '0.2rem 0.5rem', borderRadius: '4px' }}>
+                              Banca: {sim.banca}
+                            </span>
+                          </div>
+
+                          <h3 className="simulado-title" style={{ fontSize: '1.3rem', fontWeight: 800, marginBottom: '0.45rem' }}>
+                            {sim.titulo}
+                          </h3>
+                          <p className="simulado-desc" style={{ marginBottom: '1.15rem' }}>
+                            {sim.subtitulo}
+                          </p>
+
+                          {/* Grade Proporcional Resumida */}
+                          <div style={{ background: '#f8fafc', borderRadius: '8px', padding: '0.95rem 1.15rem', border: '1px solid #e2e8f0', marginBottom: '1.25rem' }}>
+                            <div style={{ fontWeight: 800, fontSize: '0.85rem', color: '#1e293b', marginBottom: '0.45rem', display: 'flex', justifyContent: 'space-between' }}>
+                              <span>📖 Módulo I: Língua Portuguesa</span>
+                              <strong style={{ color: '#0d9488' }}>20 Questões</strong>
+                            </div>
+                            <div style={{ fontSize: '0.8rem', color: '#64748b', lineHeight: '1.45', marginBottom: '0.75rem' }}>
+                              Interpretação (8q), Sintaxe (4q), Verbos (2q), Classes Gramaticais (1q), Semântica (1q), Pontuação (1q), Tipologia (1q), Ortografia (1q), Pronomes (1q).
+                            </div>
+
+                            <div style={{ fontWeight: 800, fontSize: '0.85rem', color: '#1e293b', marginBottom: '0.45rem', display: 'flex', justifyContent: 'space-between', borderTop: '1px solid #e2e8f0', paddingTop: '0.65rem' }}>
+                              <span>🩺 Módulo II: Conhecimentos Específicos</span>
+                              <strong style={{ color: '#0d9488' }}>40 Questões</strong>
+                            </div>
+                            <div style={{ fontSize: '0.8rem', color: '#64748b', lineHeight: '1.45' }}>
+                              Infecciosas/Dengue/HIV (10q), Fundamentos (6q), SUS/Atenção Básica (4q), Segurança/Biossegurança (3q), Legislação/Ética (3q), Urgência/PCR (3q), HAS/Diabetes (2q), Epidemiologia (2q), Imunização (2q), CME (1q), Idoso (1q), Mulher (1q), Farmacologia (1q), Gestão (1q).
+                            </div>
+                          </div>
+                        </div>
+
+                        <div className="simulado-info" style={{ marginTop: 'auto', marginBottom: '1.25rem' }}>
+                          <span><strong>60</strong> Questões</span>
+                          <span><strong>180</strong> Minutos (3h)</span>
+                          <span>Corte Mínimo: <strong>60%</strong></span>
+                        </div>
+
+                        <button
+                          className="btn-primary"
+                          style={{ width: '100%', justifyContent: 'center', padding: '0.85rem', fontSize: '1rem', fontWeight: 800 }}
+                          onClick={() => iniciarSimulado(sim.id)}
+                        >
+                          Iniciar Simulado #{sim.numero} (60 Questões)
+                        </button>
+                      </div>
+                    ))}
+                  </div>
+                ) : (
+                  <div className="padrao-empty-state animate-fade-in" style={{ maxWidth: '640px', margin: '0 auto 2.5rem' }}>
+                    <div className="padrao-empty-icon" style={{ margin: '0 auto 1rem', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                      <BookOpen size={28} color="#0d9488" />
+                    </div>
+                    <h3 style={{ fontSize: '1.25rem', fontWeight: 800, color: '#0f172a', marginBottom: '0.5rem' }}>
+                      Simulados da banca {simuladoBanca} em preparação!
+                    </h3>
+                    <p style={{ color: '#64748b', fontSize: '0.95rem', lineHeight: '1.6', marginBottom: '1.5rem' }}>
+                      O acervo estatístico e as provas no padrão de cobrança da banca <strong>{simuladoBanca}</strong> estão sendo catalogados. Em breve teremos simulados completos cronometrados com 60 questões (20 Português + 40 Enfermagem) específicas para esta banca.
+                    </p>
+                    <button
+                      type="button"
+                      className="btn-primary"
+                      onClick={() => setSimuladoBanca('SELECON')}
+                      style={{ display: 'inline-flex', alignItems: 'center', gap: '0.5rem', padding: '0.75rem 1.5rem', fontWeight: 700 }}
+                    >
+                      <span>Ver Simulados Disponíveis (SELECON)</span>
+                      <ChevronRight size={16} />
+                    </button>
+                  </div>
+                )}
               </div>
             ) : (
               /* MODO EXECUÇÃO DO SIMULADO */
