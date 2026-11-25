@@ -586,75 +586,148 @@
   background: #ffffff;
   border: 1px solid var(--border);
   border-radius: var(--radius-lg);
-  padding: 1.5rem;
-  margin: 1.75rem auto 0;
-  box-shadow: var(--shadow-sm);
-  display: flex;
-  flex-direction: column;
+  padding: 1.25rem 1.5rem;
+  margin: 1.5rem auto 2.25rem;
+  box-shadow: 0 4px 14px -3px rgba(0, 0, 0, 0.06);
+  display: grid;
+  grid-template-columns: 1fr 1fr;
   gap: 1.25rem;
   text-align: left;
 }
 
-.padrao-filter-row {
+@media (max-width: 680px) {
+  .padrao-filters-card {
+    grid-template-columns: 1fr;
+    padding: 1rem;
+    gap: 1rem;
+  }
+}
+
+.padrao-filter-col {
   display: flex;
   flex-direction: column;
-  gap: 0.6rem;
+  gap: 0.4rem;
 }
 
-.padrao-filter-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  font-size: 0.85rem;
+.padrao-filter-label {
+  font-size: 0.84rem;
   font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
+  text-transform: lowercase;
   color: #475569;
+  letter-spacing: 0.02em;
 }
 
-.padrao-filter-title {
+.padrao-dropdown-container {
+  position: relative;
+  width: 100%;
+}
+
+.btn-padrao-funnel {
+  width: 100%;
   display: flex;
   align-items: center;
-  gap: 0.45rem;
-}
-
-.padrao-pills-row {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-  align-items: center;
-}
-
-.btn-padrao-pill {
-  padding: 0.5rem 0.95rem;
-  border-radius: var(--radius-full);
-  font-size: 0.85rem;
-  font-weight: 600;
+  justify-content: space-between;
+  padding: 0.75rem 1rem;
   background: #f8fafc;
-  border: 1px solid var(--border);
-  color: #334155;
+  border: 1.5px solid #cbd5e1;
+  border-radius: var(--radius-md);
   cursor: pointer;
-  display: inline-flex;
-  align-items: center;
-  gap: 0.45rem;
+  font-size: 0.94rem;
+  font-weight: 600;
+  color: #1e293b;
   transition: all 0.2s ease;
 }
 
-.btn-padrao-pill:hover {
+.btn-padrao-funnel:hover {
   border-color: var(--primary);
-  color: var(--primary);
   background: #f0fdfa;
 }
 
-.btn-padrao-pill.active {
-  background: var(--primary);
+.btn-padrao-funnel.active {
   border-color: var(--primary);
-  color: #ffffff;
-  font-weight: 700;
-  box-shadow: 0 4px 6px -1px rgba(13, 148, 136, 0.25);
+  background: #ffffff;
+  box-shadow: 0 0 0 3px rgba(13, 148, 136, 0.15);
 }
 
-.btn-padrao-pill .pill-badge {
+.funnel-left {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.funnel-icon {
+  color: var(--primary);
+  flex-shrink: 0;
+}
+
+.funnel-text {
+  font-weight: 700;
+  color: #0f172a;
+}
+
+.funnel-right {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.funnel-arrow {
+  color: #64748b;
+  transition: transform 0.2s ease;
+}
+
+.funnel-arrow.open {
+  transform: rotate(180deg);
+  color: var(--primary);
+}
+
+.padrao-dropdown-menu {
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 0;
+  right: 0;
+  background: #ffffff;
+  border: 1px solid #cbd5e1;
+  border-radius: var(--radius-md);
+  box-shadow: 0 12px 28px -4px rgba(0, 0, 0, 0.12), 0 4px 8px -2px rgba(0, 0, 0, 0.06);
+  z-index: 100;
+  max-height: 290px;
+  overflow-y: auto;
+  padding: 0.45rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.padrao-dropdown-item {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.65rem 0.85rem;
+  border: none;
+  background: transparent;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.88rem;
+  font-weight: 500;
+  color: #334155;
+  text-align: left;
+  transition: all 0.15s ease;
+}
+
+.padrao-dropdown-item:hover {
+  background: #f1f5f9;
+  color: #0f172a;
+}
+
+.padrao-dropdown-item.selected {
+  background: #ccfbf1;
+  color: #0f766e;
+  font-weight: 700;
+}
+
+.pill-badge {
   font-size: 0.72rem;
   font-weight: 700;
   padding: 0.15rem 0.45rem;
@@ -663,8 +736,8 @@
   color: #475569;
 }
 
-.btn-padrao-pill.active .pill-badge {
-  background: rgba(255, 255, 255, 0.25);
+.padrao-dropdown-item.selected .pill-badge {
+  background: #0d9488;
   color: #ffffff;
 }
 

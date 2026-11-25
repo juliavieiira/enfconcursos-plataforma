@@ -13,6 +13,7 @@ import {
   Search,
   Filter,
   Flame,
+  ChevronDown,
   ChevronRight,
   ChevronLeft,
   ChevronsLeft,
@@ -27,7 +28,6 @@ import {
   Lightbulb,
   Target,
   Building2,
-  Layers,
   RotateCcw
 } from 'lucide-react';
 
@@ -111,13 +111,24 @@ export default function App() {
 
   // Aba Padrão da Banca / Raio-X
   const [padraoMateria, setPadraoMateria] = useState('Todas'); // 'Todas', 'Língua Portuguesa', 'Enfermagem'
-  const [padraoCargo, setPadraoCargo] = useState('Todos'); // 'Todos', etc.
+  const [padraoCargo, setPadraoCargo] = useState('Todos'); // 'Todos'
   const [padraoBanca, setPadraoBanca] = useState('SELECON'); // 'Todas', 'SELECON', etc.
+  const [bancaDropdownAberto, setBancaDropdownAberto] = useState(false);
+  const [materiaDropdownAberto, setMateriaDropdownAberto] = useState(false);
+
+  useEffect(() => {
+    const handleOutsideClick = (e) => {
+      if (!e.target.closest('.padrao-dropdown-container')) {
+        setBancaDropdownAberto(false);
+        setMateriaDropdownAberto(false);
+      }
+    };
+    document.addEventListener('click', handleOutsideClick);
+    return () => document.removeEventListener('click', handleOutsideClick);
+  }, []);
 
   // Padrão estatístico auditado salvo (carregamento instantâneo de 2.007 questões da SELECON)
   const dadosPadraoSalvo = getPadraoSalvo(padraoBanca, padraoMateria, padraoCargo);
-
-  const todasBancasOpcoes = Array.from(new Set(['SELECON', ...BANCAS_PRECONFIGURADAS]));
 
   const palette = [
     '#0d9488', // teal
@@ -1387,157 +1398,143 @@ export default function App() {
                 Qual o Padrão da Banca <span style={{ color: '#0d9488' }}>{padraoBanca === 'Todas' ? 'em Concursos Públicos' : padraoBanca}</span>{padraoMateria !== 'Todas' ? ` (${padraoMateria})` : ''}?
               </h2>
               <p style={{ color: '#64748b', fontSize: '1rem', lineHeight: '1.6' }}>
-                Auditoria estatística em tempo real baseada em <strong>{totalQuestoesPadrao.toLocaleString('pt-BR')} questões auditadas</strong>. Selecione a banca examinadora, a disciplina e o cargo desejado para descobrir a probabilidade de cada tema cair na sua prova, ordenados do 1º ao último colocado.
+                Auditoria estatística em tempo real baseada em <strong>{totalQuestoesPadrao.toLocaleString('pt-BR')} questões auditadas</strong>. Escolha a banca e a disciplina para descobrir a probabilidade de cada tema cair na sua prova, ordenados do 1º ao último colocado.
               </p>
 
-              {/* Card de Filtros: Banca Examinadora + Disciplina + Cargo */}
+              {/* Filtros Compactos em Formato de Funil: Escolha a Banca e Escolha a Disciplina */}
               <div className="padrao-filters-card">
-                {/* Linha 1: Seleção de Bancas */}
-                <div className="padrao-filter-row">
-                  <div className="padrao-filter-header">
-                    <span className="padrao-filter-title">
-                      <Building2 size={16} color="#0d9488" />
-                      1. Escolha a Banca Examinadora para Analisar:
-                    </span>
-                    <span style={{ fontSize: '0.78rem', color: '#64748b', textTransform: 'none', fontWeight: 500 }}>
-                      {todasBancasOpcoes.length} bancas integradas ao sistema
-                    </span>
-                  </div>
-
-                  <div className="padrao-pills-row">
+                {/* 1. Escolha a Banca */}
+                <div className="padrao-filter-col">
+                  <span className="padrao-filter-label">(escolha a banca)</span>
+                  <div className="padrao-dropdown-container">
                     <button
-                      className={`btn-padrao-pill ${padraoBanca === 'SELECON' ? 'active' : ''}`}
-                      onClick={() => setPadraoBanca('SELECON')}
+                      type="button"
+                      className={`btn-padrao-funnel ${bancaDropdownAberto ? 'active' : ''}`}
+                      onClick={() => {
+                        setBancaDropdownAberto(!bancaDropdownAberto);
+                        setMateriaDropdownAberto(false);
+                      }}
+                      title="Clique para escolher a banca examinadora"
                     >
-                      SELECON
-                      <span className="pill-badge">2.007 q.</span>
-                    </button>
-                    <button
-                      className={`btn-padrao-pill ${padraoBanca === 'Todas' ? 'active' : ''}`}
-                      onClick={() => setPadraoBanca('Todas')}
-                    >
-                      Todas as Bancas
-                      <span className="pill-badge">2.007 q.</span>
+                      <div className="funnel-left">
+                        <Filter size={16} className="funnel-icon" />
+                        <span className="funnel-text">{padraoBanca === 'Todas' ? 'Todas as Bancas' : padraoBanca}</span>
+                      </div>
+                      <div className="funnel-right">
+                        <span className="pill-badge">
+                          {padraoBanca === 'SELECON' || padraoBanca === 'Todas' ? '2.007 q.' : 'Em Breve'}
+                        </span>
+                        <ChevronDown size={16} className={`funnel-arrow ${bancaDropdownAberto ? 'open' : ''}`} />
+                      </div>
                     </button>
 
-                    {BANCAS_PRECONFIGURADAS.filter(b => b !== 'SELECON').map(banca => (
-                      <button
-                        key={banca}
-                        className={`btn-padrao-pill ${padraoBanca === banca ? 'active' : ''}`}
-                        onClick={() => setPadraoBanca(banca)}
-                      >
-                        {banca}
-                        <span className="pill-badge">Em Breve</span>
-                      </button>
-                    ))}
+                    {bancaDropdownAberto && (
+                      <div className="padrao-dropdown-menu animate-fade-in">
+                        <button
+                          type="button"
+                          className={`padrao-dropdown-item ${padraoBanca === 'SELECON' ? 'selected' : ''}`}
+                          onClick={() => {
+                            setPadraoBanca('SELECON');
+                            setBancaDropdownAberto(false);
+                          }}
+                        >
+                          <span className="item-name">SELECON</span>
+                          <span className="pill-badge">2.007 q.</span>
+                        </button>
+                        <button
+                          type="button"
+                          className={`padrao-dropdown-item ${padraoBanca === 'Todas' ? 'selected' : ''}`}
+                          onClick={() => {
+                            setPadraoBanca('Todas');
+                            setBancaDropdownAberto(false);
+                          }}
+                        >
+                          <span className="item-name">Todas as Bancas</span>
+                          <span className="pill-badge">2.007 q.</span>
+                        </button>
+                        {BANCAS_PRECONFIGURADAS.filter(b => b !== 'SELECON').map(banca => (
+                          <button
+                            key={banca}
+                            type="button"
+                            className={`padrao-dropdown-item ${padraoBanca === banca ? 'selected' : ''}`}
+                            onClick={() => {
+                              setPadraoBanca(banca);
+                              setBancaDropdownAberto(false);
+                            }}
+                          >
+                            <span className="item-name">{banca}</span>
+                            <span className="pill-badge">Em Breve</span>
+                          </button>
+                        ))}
+                      </div>
+                    )}
                   </div>
                 </div>
 
-                {/* Linha 2: Seleção de Disciplina / Matéria */}
-                <div className="padrao-filter-row">
-                  <div className="padrao-filter-header">
-                    <span className="padrao-filter-title">
-                      <BookOpen size={16} color="#0d9488" />
-                      2. Disciplina / Matéria:
-                    </span>
-                  </div>
-
-                  <div className="padrao-pills-row">
+                {/* 2. Disciplina / Matéria */}
+                <div className="padrao-filter-col">
+                  <span className="padrao-filter-label">(escolha a matéria)</span>
+                  <div className="padrao-dropdown-container">
                     <button
-                      className={`btn-padrao-pill ${padraoMateria === 'Todas' ? 'active' : ''}`}
+                      type="button"
+                      className={`btn-padrao-funnel ${materiaDropdownAberto ? 'active' : ''}`}
                       onClick={() => {
-                        setPadraoMateria('Todas');
-                        setPadraoCargo('Todos');
+                        setMateriaDropdownAberto(!materiaDropdownAberto);
+                        setBancaDropdownAberto(false);
                       }}
+                      title="Clique para escolher a matéria"
                     >
-                      Todas as Matérias
-                      <span className="pill-badge">2.007 q.</span>
-                    </button>
-                    <button
-                      className={`btn-padrao-pill ${padraoMateria === 'Língua Portuguesa' ? 'active' : ''}`}
-                      onClick={() => {
-                        setPadraoMateria('Língua Portuguesa');
-                        setPadraoCargo('Todos');
-                      }}
-                    >
-                      Língua Portuguesa
-                      <span className="pill-badge">1.135 q.</span>
-                    </button>
-                    <button
-                      className={`btn-padrao-pill ${padraoMateria === 'Enfermagem' ? 'active' : ''}`}
-                      onClick={() => {
-                        setPadraoMateria('Enfermagem');
-                        setPadraoCargo('Todos');
-                      }}
-                    >
-                      Enfermagem
-                      <span className="pill-badge">872 q.</span>
-                    </button>
-                  </div>
-                </div>
-
-                {/* Linha 3: Seleção de Cargo / Nível */}
-                <div className="padrao-filter-row">
-                  <div className="padrao-filter-header">
-                    <span className="padrao-filter-title">
-                      <Layers size={16} color="#0d9488" />
-                      3. Nível de Escolaridade / Cargo:
-                    </span>
-                  </div>
-
-                  <div className="padrao-pills-row">
-                    <button
-                      className={`btn-padrao-pill ${padraoCargo === 'Todos' ? 'active' : ''}`}
-                      onClick={() => setPadraoCargo('Todos')}
-                    >
-                      Todos os Cargos ({padraoMateria === 'Língua Portuguesa' ? '1.135 q.' : padraoMateria === 'Enfermagem' ? '872 q.' : '2.007 q.'})
+                      <div className="funnel-left">
+                        <Filter size={16} className="funnel-icon" />
+                        <span className="funnel-text">{padraoMateria === 'Todas' ? 'Todas as Matérias' : padraoMateria}</span>
+                      </div>
+                      <div className="funnel-right">
+                        <span className="pill-badge">
+                          {padraoMateria === 'Língua Portuguesa' ? '1.135 q.' : padraoMateria === 'Enfermagem' ? '872 q.' : '2.007 q.'}
+                        </span>
+                        <ChevronDown size={16} className={`funnel-arrow ${materiaDropdownAberto ? 'open' : ''}`} />
+                      </div>
                     </button>
 
-                    {padraoMateria === 'Língua Portuguesa' ? (
-                      <>
+                    {materiaDropdownAberto && (
+                      <div className="padrao-dropdown-menu animate-fade-in">
                         <button
-                          className={`btn-padrao-pill ${padraoCargo === 'Técnico de Enfermagem' ? 'active' : ''}`}
-                          onClick={() => setPadraoCargo('Técnico de Enfermagem')}
+                          type="button"
+                          className={`padrao-dropdown-item ${padraoMateria === 'Todas' ? 'selected' : ''}`}
+                          onClick={() => {
+                            setPadraoMateria('Todas');
+                            setPadraoCargo('Todos');
+                            setMateriaDropdownAberto(false);
+                          }}
                         >
-                          Nível Médio / Técnico (174 q.)
+                          <span className="item-name">Todas as Matérias</span>
+                          <span className="pill-badge">2.007 q.</span>
                         </button>
                         <button
-                          className={`btn-padrao-pill ${padraoCargo === 'Enfermeiro' ? 'active' : ''}`}
-                          onClick={() => setPadraoCargo('Enfermeiro')}
+                          type="button"
+                          className={`padrao-dropdown-item ${padraoMateria === 'Língua Portuguesa' ? 'selected' : ''}`}
+                          onClick={() => {
+                            setPadraoMateria('Língua Portuguesa');
+                            setPadraoCargo('Todos');
+                            setMateriaDropdownAberto(false);
+                          }}
                         >
-                          Nível Superior (77 q.)
-                        </button>
-                      </>
-                    ) : padraoMateria === 'Enfermagem' ? (
-                      <>
-                        <button
-                          className={`btn-padrao-pill ${padraoCargo === 'Técnico de Enfermagem' ? 'active' : ''}`}
-                          onClick={() => setPadraoCargo('Técnico de Enfermagem')}
-                        >
-                          Técnico de Enfermagem (343 q.)
+                          <span className="item-name">Língua Portuguesa</span>
+                          <span className="pill-badge">1.135 q.</span>
                         </button>
                         <button
-                          className={`btn-padrao-pill ${padraoCargo === 'Enfermeiro' ? 'active' : ''}`}
-                          onClick={() => setPadraoCargo('Enfermeiro')}
+                          type="button"
+                          className={`padrao-dropdown-item ${padraoMateria === 'Enfermagem' ? 'selected' : ''}`}
+                          onClick={() => {
+                            setPadraoMateria('Enfermagem');
+                            setPadraoCargo('Todos');
+                            setMateriaDropdownAberto(false);
+                          }}
                         >
-                          Enfermeiro Superior (529 q.)
+                          <span className="item-name">Enfermagem</span>
+                          <span className="pill-badge">872 q.</span>
                         </button>
-                      </>
-                    ) : (
-                      <>
-                        <button
-                          className={`btn-padrao-pill ${padraoCargo === 'Técnico de Enfermagem' ? 'active' : ''}`}
-                          onClick={() => setPadraoCargo('Técnico de Enfermagem')}
-                        >
-                          Técnico de Enfermagem (517 q.)
-                        </button>
-                        <button
-                          className={`btn-padrao-pill ${padraoCargo === 'Enfermeiro' ? 'active' : ''}`}
-                          onClick={() => setPadraoCargo('Enfermeiro')}
-                        >
-                          Enfermeiro Superior (606 q.)
-                        </button>
-                      </>
+                      </div>
                     )}
                   </div>
                 </div>
@@ -1586,7 +1583,7 @@ export default function App() {
                       Distribuição Percentual: {padraoBanca === 'Todas' ? 'SELECON (Acervo Completo)' : padraoBanca}
                     </h3>
                     <p className="padrao-card-desc">
-                      Proporção de cada assunto no universo de {totalQuestoesPadrao.toLocaleString('pt-BR')} questões analisadas ({padraoCargo === 'Todos' ? 'Todos os Cargos' : padraoCargo}).
+                      Proporção de cada assunto no universo de {totalQuestoesPadrao.toLocaleString('pt-BR')} questões analisadas.
                     </p>
 
                     <div className="donut-container">
