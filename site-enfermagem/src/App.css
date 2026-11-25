@@ -147,7 +147,7 @@
 
 /* Main Content Area */
 .main-wrapper {
-  padding: 2.5rem 0 4rem;
+  padding: 1.5rem 0 3.5rem;
 }
 
 /* Filter Card */
@@ -587,7 +587,7 @@
   border: 1px solid var(--border);
   border-radius: var(--radius-lg);
   padding: 1.25rem 1.5rem;
-  margin: 1.5rem auto 2.25rem;
+  margin: 0 0 2rem;
   box-shadow: 0 4px 14px -3px rgba(0, 0, 0, 0.06);
   display: grid;
   grid-template-columns: 1fr 1fr;

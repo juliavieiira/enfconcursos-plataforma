@@ -12,7 +12,6 @@ import {
   XCircle,
   Search,
   Filter,
-  Flame,
   ChevronDown,
   ChevronRight,
   ChevronLeft,
@@ -32,7 +31,6 @@ import {
 } from 'lucide-react';
 
 const CURRENT_YEAR = new Date().getFullYear();
-const TOTAL_ACERVO_AUDITADO = 2007;
 
 function embaralharLista(lista) {
   const copia = [...lista];
@@ -100,12 +98,6 @@ export default function App() {
 
   // Modal VIP
   const [modalVipAberto, setModalVipAberto] = useState(false);
-
-  // Estatísticas gerais (contabiliza apenas respostas confirmadas, preservando acertos entre assuntos)
-  const respostasConfirmadas = Object.values(respostas).filter(r => r.confirmada);
-  const totalRespondidas = respostasConfirmadas.length;
-  const totalAcertos = respostasConfirmadas.filter(r => r.acertou).length;
-  const taxaAcerto = totalRespondidas > 0 ? Math.round((totalAcertos / totalRespondidas) * 100) : 0;
 
   const nomeAssuntoAtivo = filtroAssunto !== 'Todos' ? filtroAssunto : null;
 
@@ -473,37 +465,6 @@ export default function App() {
           </div>
         </div>
       </nav>
-
-      {/* Hero Section */}
-      <header className="hero-section">
-        <div className="container">
-          <div className="hero-tag">
-            <Flame size={15} color="#0d9488" />
-            <span>Foco Estratégico em Concursos de Prefeituras</span>
-          </div>
-          <h1 className="hero-title">
-            O Banco de Questões e Simulados para sua <span className="hero-highlight">Aprovação em Enfermagem</span>
-          </h1>
-          <p className="hero-subtitle">
-            Questões comentadas alternativa por alternativa com foco nas bancas de prefeituras (SELECON, IBAM, VUNESP, Consulpam, AOCP) e grandes órgãos de saúde.
-          </p>
-
-          <div className="hero-stats">
-            <div className="stat-item">
-              <span className="stat-num">{TOTAL_ACERVO_AUDITADO.toLocaleString('pt-BR')}</span>
-              <span className="stat-label">Questões Auditadas</span>
-            </div>
-            <div className="stat-item">
-              <span className="stat-num">100%</span>
-              <span className="stat-label">Gabaritos Comentados</span>
-            </div>
-            <div className="stat-item">
-              <span className="stat-num">{totalRespondidas > 0 ? `${taxaAcerto}%` : '2026'}</span>
-              <span className="stat-label">{totalRespondidas > 0 ? 'Sua Taxa de Acerto' : 'Provas Atualizadas'}</span>
-            </div>
-          </div>
-        </div>
-      </header>
 
       {/* Conteúdo Principal */}
       <main className="container main-wrapper">
@@ -1389,20 +1350,8 @@ export default function App() {
         {/* ABA: PADRÃO DA BANCA (RAIO-X MULTI-BANCAS) */}
         {activeTab === 'padrao' && (
           <section className="animate-fade-in">
-            <div className="padrao-hero">
-              <div className="hero-tag" style={{ margin: '0 auto 1rem', display: 'inline-flex' }}>
-                <Flame size={15} color="#0d9488" />
-                <span>Inteligência Estatística de Concursos</span>
-              </div>
-              <h2 style={{ fontSize: '2rem', fontWeight: 800, color: '#0f172a', marginBottom: '0.75rem' }}>
-                Qual o Padrão da Banca <span style={{ color: '#0d9488' }}>{padraoBanca === 'Todas' ? 'em Concursos Públicos' : padraoBanca}</span>{padraoMateria !== 'Todas' ? ` (${padraoMateria})` : ''}?
-              </h2>
-              <p style={{ color: '#64748b', fontSize: '1rem', lineHeight: '1.6' }}>
-                Auditoria estatística em tempo real baseada em <strong>{totalQuestoesPadrao.toLocaleString('pt-BR')} questões auditadas</strong>. Escolha a banca e a disciplina para descobrir a probabilidade de cada tema cair na sua prova, ordenados do 1º ao último colocado.
-              </p>
-
-              {/* Filtros Compactos em Formato de Funil: Escolha a Banca e Escolha a Disciplina */}
-              <div className="padrao-filters-card">
+            {/* Filtros Compactos em Formato de Funil: Escolha a Banca e Escolha a Disciplina */}
+            <div className="padrao-filters-card">
                 {/* 1. Escolha a Banca */}
                 <div className="padrao-filter-col">
                   <span className="padrao-filter-label">(escolha a banca)</span>
@@ -1539,7 +1488,6 @@ export default function App() {
                   </div>
                 </div>
               </div>
-            </div>
 
             {/* Caso a banca selecionada ainda não tenha questões importadas */}
             {totalQuestoesPadrao === 0 ? (
