@@ -463,8 +463,9 @@ export default function App() {
                     value={filtroBanca}
                     onChange={e => { setFiltroBanca(e.target.value); setQuestaoIndex(0); }}
                   >
-                    <option value="SELECON">SELECON (+2.000 questões auditadas)</option>
-                    <option value="Todas">Todas as Bancas (Acervo Auditado)</option>
+                    <option value="SELECON">SELECON (2.007 questões auditadas)</option>
+                    <option value="FCC">FCC (1.771 questões auditadas)</option>
+                    <option value="Todas">Todas as Bancas (3.778 questões auditadas)</option>
                     <optgroup label="Bancas em Preparação">
                       <option value="IBAM" disabled>IBAM (Em breve)</option>
                       <option value="VUNESP" disabled>VUNESP (Em breve)</option>
@@ -1065,7 +1066,7 @@ export default function App() {
                         </div>
                         <div className="funnel-right">
                           <span className="pill-badge">
-                            {simuladoBanca === 'SELECON' ? '2 Simulados' : 'Em Breve'}
+                            {simuladoBanca === 'SELECON' || simuladoBanca === 'FCC' ? '2 Simulados' : 'Em Breve'}
                           </span>
                           <ChevronDown size={16} className={`funnel-arrow ${simuladoBancaDropdownAberto ? 'open' : ''}`} />
                         </div>
@@ -1084,7 +1085,18 @@ export default function App() {
                             <span className="item-name">SELECON</span>
                             <span className="pill-badge">2 Simulados</span>
                           </button>
-                          {BANCAS_PRECONFIGURADAS.filter(b => b !== 'SELECON').map(banca => (
+                          <button
+                            type="button"
+                            className={`padrao-dropdown-item ${simuladoBanca === 'FCC' ? 'selected' : ''}`}
+                            onClick={() => {
+                              setSimuladoBanca('FCC');
+                              setSimuladoBancaDropdownAberto(false);
+                            }}
+                          >
+                            <span className="item-name">FCC</span>
+                            <span className="pill-badge">2 Simulados</span>
+                          </button>
+                          {BANCAS_PRECONFIGURADAS.filter(b => b !== 'SELECON' && b !== 'FCC').map(banca => (
                             <button
                               key={banca}
                               type="button"
@@ -1104,103 +1116,120 @@ export default function App() {
                   </div>
                 </div>
 
-                {simuladoBanca === 'SELECON' ? (
-                  <div className="simulados-grid" style={{ gridTemplateColumns: 'repeat(auto-fit, minmax(350px, 1fr))', gap: '1.75rem' }}>
-                    {SIMULADOS_OFICIAIS.map((sim, index) => (
-                      <div
-                        key={sim.id}
-                        className="simulado-card"
-                        style={{
-                          border: index === 0 ? '2px solid #0d9488' : '1px solid var(--border)',
-                          position: 'relative'
-                        }}
-                      >
-                        <div className="simulado-header">
-                          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.85rem' }}>
-                            <span style={{
-                              display: 'inline-flex',
-                              alignItems: 'center',
-                              gap: '0.35rem',
-                              background: index === 0 ? '#ccfbf1' : '#f1f5f9',
-                              color: index === 0 ? '#0f766e' : '#334155',
-                              fontSize: '0.78rem',
-                              fontWeight: 800,
-                              padding: '0.25rem 0.65rem',
-                              borderRadius: '4px',
-                              textTransform: 'uppercase'
-                            }}>
-                              {index === 0 ? '⭐ Simulado #01 • Prova Completa' : 'Simulado #02 • Prova Inédita'}
-                            </span>
-                            <span style={{ fontSize: '0.8rem', color: '#0f766e', fontWeight: 700, background: '#f0fdfa', padding: '0.2rem 0.5rem', borderRadius: '4px' }}>
-                              Banca: {sim.banca}
-                            </span>
+                {(() => {
+                  const simuladosDaBanca = SIMULADOS_OFICIAIS.filter(s => s.banca === simuladoBanca);
+                  if (simuladosDaBanca.length > 0) {
+                    return (
+                      <div className="simulados-grid" style={{ gridTemplateColumns: 'repeat(auto-fit, minmax(350px, 1fr))', gap: '1.75rem' }}>
+                        {simuladosDaBanca.map((sim, index) => (
+                          <div
+                            key={sim.id}
+                            className="simulado-card"
+                            style={{
+                              border: index === 0 ? '2px solid #0d9488' : '1px solid var(--border)',
+                              position: 'relative'
+                            }}
+                          >
+                            <div className="simulado-header">
+                              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.85rem' }}>
+                                <span style={{
+                                  display: 'inline-flex',
+                                  alignItems: 'center',
+                                  gap: '0.35rem',
+                                  background: index === 0 ? '#ccfbf1' : '#f1f5f9',
+                                  color: index === 0 ? '#0f766e' : '#334155',
+                                  fontSize: '0.78rem',
+                                  fontWeight: 800,
+                                  padding: '0.25rem 0.65rem',
+                                  borderRadius: '4px',
+                                  textTransform: 'uppercase'
+                                }}>
+                                  {index === 0 ? `⭐ Simulado #${sim.numero} • Prova Completa` : `Simulado #${sim.numero} • Prova Inédita`}
+                                </span>
+                                <span style={{ fontSize: '0.8rem', color: '#0f766e', fontWeight: 700, background: '#f0fdfa', padding: '0.2rem 0.5rem', borderRadius: '4px' }}>
+                                  Banca: {sim.banca}
+                                </span>
+                              </div>
+
+                              <h3 className="simulado-title" style={{ fontSize: '1.3rem', fontWeight: 800, marginBottom: '0.45rem' }}>
+                                {sim.titulo}
+                              </h3>
+                              <p className="simulado-desc" style={{ marginBottom: '1.15rem' }}>
+                                {sim.subtitulo}
+                              </p>
+
+                              {/* Grade Proporcional Resumida Dinâmica */}
+                              <div style={{ background: '#f8fafc', borderRadius: '8px', padding: '0.95rem 1.15rem', border: '1px solid #e2e8f0', marginBottom: '1.25rem' }}>
+                                <div style={{ fontWeight: 800, fontSize: '0.85rem', color: '#1e293b', marginBottom: '0.45rem', display: 'flex', justifyContent: 'space-between' }}>
+                                  <span>📖 Módulo I: Língua Portuguesa</span>
+                                  <strong style={{ color: '#0d9488' }}>{sim.distribuicao?.portugues || 20} Questões</strong>
+                                </div>
+                                <div style={{ fontSize: '0.8rem', color: '#64748b', lineHeight: '1.45', marginBottom: '0.75rem' }}>
+                                  {sim.gradeTemas?.portugues?.map(t => `${t.tema.split(' - ')[0]} (${t.questoes}q)`).join(', ') || 'Interpretação (8q), Sintaxe (4q), Verbos (2q)...'}
+                                </div>
+
+                                <div style={{ fontWeight: 800, fontSize: '0.85rem', color: '#1e293b', marginBottom: '0.45rem', display: 'flex', justifyContent: 'space-between', borderTop: '1px solid #e2e8f0', paddingTop: '0.65rem' }}>
+                                  <span>🩺 Módulo II: Conhecimentos Específicos</span>
+                                  <strong style={{ color: '#0d9488' }}>{sim.distribuicao?.enfermagem || 40} Questões</strong>
+                                </div>
+                                <div style={{ fontSize: '0.8rem', color: '#64748b', lineHeight: '1.45' }}>
+                                  {sim.gradeTemas?.enfermagem?.map(t => `${t.tema.split(' (')[0]} (${t.questoes}q)`).join(', ') || 'Fundamentos, SUS, Urgência, Farmacologia...'}
+                                </div>
+                              </div>
+                            </div>
+
+                            <div className="simulado-info" style={{ marginTop: 'auto', marginBottom: '1.25rem' }}>
+                              <span><strong>60</strong> Questões</span>
+                              <span><strong>180</strong> Minutos (3h)</span>
+                              <span>Corte Mínimo: <strong>60%</strong></span>
+                            </div>
+
+                            <button
+                              className="btn-primary"
+                              style={{ width: '100%', justifyContent: 'center', padding: '0.85rem', fontSize: '1rem', fontWeight: 800 }}
+                              onClick={() => iniciarSimulado(sim.id)}
+                            >
+                              Iniciar Simulado #{sim.numero} (60 Questões)
+                            </button>
                           </div>
-
-                          <h3 className="simulado-title" style={{ fontSize: '1.3rem', fontWeight: 800, marginBottom: '0.45rem' }}>
-                            {sim.titulo}
-                          </h3>
-                          <p className="simulado-desc" style={{ marginBottom: '1.15rem' }}>
-                            {sim.subtitulo}
-                          </p>
-
-                          {/* Grade Proporcional Resumida */}
-                          <div style={{ background: '#f8fafc', borderRadius: '8px', padding: '0.95rem 1.15rem', border: '1px solid #e2e8f0', marginBottom: '1.25rem' }}>
-                            <div style={{ fontWeight: 800, fontSize: '0.85rem', color: '#1e293b', marginBottom: '0.45rem', display: 'flex', justifyContent: 'space-between' }}>
-                              <span>📖 Módulo I: Língua Portuguesa</span>
-                              <strong style={{ color: '#0d9488' }}>20 Questões</strong>
-                            </div>
-                            <div style={{ fontSize: '0.8rem', color: '#64748b', lineHeight: '1.45', marginBottom: '0.75rem' }}>
-                              Interpretação (8q), Sintaxe (4q), Verbos (2q), Classes Gramaticais (1q), Semântica (1q), Pontuação (1q), Tipologia (1q), Ortografia (1q), Pronomes (1q).
-                            </div>
-
-                            <div style={{ fontWeight: 800, fontSize: '0.85rem', color: '#1e293b', marginBottom: '0.45rem', display: 'flex', justifyContent: 'space-between', borderTop: '1px solid #e2e8f0', paddingTop: '0.65rem' }}>
-                              <span>🩺 Módulo II: Conhecimentos Específicos</span>
-                              <strong style={{ color: '#0d9488' }}>40 Questões</strong>
-                            </div>
-                            <div style={{ fontSize: '0.8rem', color: '#64748b', lineHeight: '1.45' }}>
-                              Infecciosas/Dengue/HIV (10q), Fundamentos (6q), SUS/Atenção Básica (4q), Segurança/Biossegurança (3q), Legislação/Ética (3q), Urgência/PCR (3q), HAS/Diabetes (2q), Epidemiologia (2q), Imunização (2q), CME (1q), Idoso (1q), Mulher (1q), Farmacologia (1q), Gestão (1q).
-                            </div>
-                          </div>
-                        </div>
-
-                        <div className="simulado-info" style={{ marginTop: 'auto', marginBottom: '1.25rem' }}>
-                          <span><strong>60</strong> Questões</span>
-                          <span><strong>180</strong> Minutos (3h)</span>
-                          <span>Corte Mínimo: <strong>60%</strong></span>
-                        </div>
-
+                        ))}
+                      </div>
+                    );
+                  }
+                  return (
+                    <div className="padrao-empty-state animate-fade-in" style={{ maxWidth: '640px', margin: '0 auto 2.5rem' }}>
+                      <div className="padrao-empty-icon" style={{ margin: '0 auto 1rem', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                        <BookOpen size={28} color="#0d9488" />
+                      </div>
+                      <h3 style={{ fontSize: '1.25rem', fontWeight: 800, color: '#0f172a', marginBottom: '0.5rem' }}>
+                        Simulados da banca {simuladoBanca} em preparação!
+                      </h3>
+                      <p style={{ color: '#64748b', fontSize: '0.95rem', lineHeight: '1.6', marginBottom: '1.5rem' }}>
+                        O acervo estatístico e as provas no padrão de cobrança da banca <strong>{simuladoBanca}</strong> estão sendo catalogados. Em breve teremos simulados completos cronometrados com 60 questões (20 Português + 40 Enfermagem) específicas para esta banca.
+                      </p>
+                      <div style={{ display: 'flex', gap: '0.75rem', justifyContent: 'center', flexWrap: 'wrap' }}>
                         <button
+                          type="button"
                           className="btn-primary"
-                          style={{ width: '100%', justifyContent: 'center', padding: '0.85rem', fontSize: '1rem', fontWeight: 800 }}
-                          onClick={() => iniciarSimulado(sim.id)}
+                          onClick={() => setSimuladoBanca('SELECON')}
+                          style={{ display: 'inline-flex', alignItems: 'center', gap: '0.5rem', padding: '0.75rem 1.25rem', fontWeight: 700 }}
                         >
-                          Iniciar Simulado #{sim.numero} (60 Questões)
+                          <span>Simulados SELECON</span>
+                          <ChevronRight size={16} />
+                        </button>
+                        <button
+                          type="button"
+                          className="btn-secondary"
+                          onClick={() => setSimuladoBanca('FCC')}
+                          style={{ display: 'inline-flex', alignItems: 'center', gap: '0.5rem', padding: '0.75rem 1.25rem', fontWeight: 700 }}
+                        >
+                          <span>Simulados FCC</span>
+                          <ChevronRight size={16} />
                         </button>
                       </div>
-                    ))}
-                  </div>
-                ) : (
-                  <div className="padrao-empty-state animate-fade-in" style={{ maxWidth: '640px', margin: '0 auto 2.5rem' }}>
-                    <div className="padrao-empty-icon" style={{ margin: '0 auto 1rem', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-                      <BookOpen size={28} color="#0d9488" />
                     </div>
-                    <h3 style={{ fontSize: '1.25rem', fontWeight: 800, color: '#0f172a', marginBottom: '0.5rem' }}>
-                      Simulados da banca {simuladoBanca} em preparação!
-                    </h3>
-                    <p style={{ color: '#64748b', fontSize: '0.95rem', lineHeight: '1.6', marginBottom: '1.5rem' }}>
-                      O acervo estatístico e as provas no padrão de cobrança da banca <strong>{simuladoBanca}</strong> estão sendo catalogados. Em breve teremos simulados completos cronometrados com 60 questões (20 Português + 40 Enfermagem) específicas para esta banca.
-                    </p>
-                    <button
-                      type="button"
-                      className="btn-primary"
-                      onClick={() => setSimuladoBanca('SELECON')}
-                      style={{ display: 'inline-flex', alignItems: 'center', gap: '0.5rem', padding: '0.75rem 1.5rem', fontWeight: 700 }}
-                    >
-                      <span>Ver Simulados Disponíveis (SELECON)</span>
-                      <ChevronRight size={16} />
-                    </button>
-                  </div>
-                )}
+                  );
+                })()}
               </div>
             ) : (
               /* MODO EXECUÇÃO DO SIMULADO */
@@ -1805,7 +1834,7 @@ export default function App() {
                       </div>
                       <div className="funnel-right">
                         <span className="pill-badge">
-                          {padraoBanca === 'SELECON' || padraoBanca === 'Todas' ? '2.007 q.' : 'Em Breve'}
+                          {padraoBanca === 'SELECON' ? '2.007 q.' : padraoBanca === 'FCC' ? '1.771 q.' : padraoBanca === 'Todas' ? '3.778 q.' : 'Em Breve'}
                         </span>
                         <ChevronDown size={16} className={`funnel-arrow ${bancaDropdownAberto ? 'open' : ''}`} />
                       </div>
@@ -1826,6 +1855,17 @@ export default function App() {
                         </button>
                         <button
                           type="button"
+                          className={`padrao-dropdown-item ${padraoBanca === 'FCC' ? 'selected' : ''}`}
+                          onClick={() => {
+                            setPadraoBanca('FCC');
+                            setBancaDropdownAberto(false);
+                          }}
+                        >
+                          <span className="item-name">FCC</span>
+                          <span className="pill-badge">1.771 q.</span>
+                        </button>
+                        <button
+                          type="button"
                           className={`padrao-dropdown-item ${padraoBanca === 'Todas' ? 'selected' : ''}`}
                           onClick={() => {
                             setPadraoBanca('Todas');
@@ -1833,9 +1873,9 @@ export default function App() {
                           }}
                         >
                           <span className="item-name">Todas as Bancas</span>
-                          <span className="pill-badge">2.007 q.</span>
+                          <span className="pill-badge">3.778 q.</span>
                         </button>
-                        {BANCAS_PRECONFIGURADAS.filter(b => b !== 'SELECON').map(banca => (
+                        {BANCAS_PRECONFIGURADAS.filter(b => b !== 'SELECON' && b !== 'FCC').map(banca => (
                           <button
                             key={banca}
                             type="button"
@@ -1873,7 +1913,15 @@ export default function App() {
                       </div>
                       <div className="funnel-right">
                         <span className="pill-badge">
-                          {padraoMateria === 'Língua Portuguesa' ? '1.135 q.' : padraoMateria === 'Enfermagem' ? '872 q.' : '2.007 q.'}
+                          {(() => {
+                            if (padraoBanca === 'FCC') {
+                              return padraoMateria === 'Língua Portuguesa' ? '926 q.' : padraoMateria === 'Enfermagem' ? '845 q.' : '1.771 q.';
+                            }
+                            if (padraoBanca === 'Todas') {
+                              return padraoMateria === 'Língua Portuguesa' ? '2.061 q.' : padraoMateria === 'Enfermagem' ? '1.717 q.' : '3.778 q.';
+                            }
+                            return padraoMateria === 'Língua Portuguesa' ? '1.135 q.' : padraoMateria === 'Enfermagem' ? '872 q.' : '2.007 q.';
+                          })()}
                         </span>
                         <ChevronDown size={16} className={`funnel-arrow ${materiaDropdownAberto ? 'open' : ''}`} />
                       </div>
@@ -1891,7 +1939,9 @@ export default function App() {
                           }}
                         >
                           <span className="item-name">Todas as Matérias</span>
-                          <span className="pill-badge">2.007 q.</span>
+                          <span className="pill-badge">
+                            {padraoBanca === 'FCC' ? '1.771 q.' : padraoBanca === 'Todas' ? '3.778 q.' : '2.007 q.'}
+                          </span>
                         </button>
                         <button
                           type="button"
@@ -1903,7 +1953,9 @@ export default function App() {
                           }}
                         >
                           <span className="item-name">Língua Portuguesa</span>
-                          <span className="pill-badge">1.135 q.</span>
+                          <span className="pill-badge">
+                            {padraoBanca === 'FCC' ? '926 q.' : padraoBanca === 'Todas' ? '2.061 q.' : '1.135 q.'}
+                          </span>
                         </button>
                         <button
                           type="button"
@@ -1915,7 +1967,9 @@ export default function App() {
                           }}
                         >
                           <span className="item-name">Enfermagem</span>
-                          <span className="pill-badge">872 q.</span>
+                          <span className="pill-badge">
+                            {padraoBanca === 'FCC' ? '845 q.' : padraoBanca === 'Todas' ? '1.717 q.' : '872 q.'}
+                          </span>
                         </button>
                       </div>
                     )}

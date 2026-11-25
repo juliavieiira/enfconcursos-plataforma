@@ -1618,7 +1618,1317 @@ export const PADRAO_SELECON_SALVO = {
   }
 };
 
+export const PADRAO_FCC_SALVO = {
+  "Todas_Todos": {
+    "total": 1771,
+    "temas": [
+      {
+        "nome": "Interpretação e Compreensão de Textos",
+        "slug": "interpretacao_e_compreensao_de_textos",
+        "materia": "Língua Portuguesa",
+        "count": 368,
+        "percent": "20.8"
+      },
+      {
+        "nome": "Sintaxe da Oração e do Período",
+        "slug": "sintaxe_da_oracao_e_do_periodo",
+        "materia": "Língua Portuguesa",
+        "count": 232,
+        "percent": "13.1"
+      },
+      {
+        "nome": "Fundamentos e Procedimentos de Enfermagem",
+        "slug": "fundamentos_e_procedimentos_de_enfermagem",
+        "materia": "Enfermagem",
+        "count": 126,
+        "percent": "7.1"
+      },
+      {
+        "nome": "Saúde Pública, SUS e Atenção Básica",
+        "slug": "saude_publica_sus_e_atencao_basica",
+        "materia": "Enfermagem",
+        "count": 95,
+        "percent": "5.4"
+      },
+      {
+        "nome": "Semântica e Significação das Palavras",
+        "slug": "semantica_e_significacao_das_palavras",
+        "materia": "Língua Portuguesa",
+        "count": 87,
+        "percent": "4.9"
+      },
+      {
+        "nome": "Farmacologia, Cálculo e Administração de Medicamentos",
+        "slug": "farmacologia_calculo_e_administracao_de_medicamentos",
+        "materia": "Enfermagem",
+        "count": 85,
+        "percent": "4.8"
+      },
+      {
+        "nome": "Legislação de Enfermagem e Código de Ética",
+        "slug": "legislacao_de_enfermagem_e_codigo_de_etica",
+        "materia": "Enfermagem",
+        "count": 81,
+        "percent": "4.6"
+      },
+      {
+        "nome": "Morfologia - Tempos e Modos Verbais",
+        "slug": "morfologia_tempos_e_modos_verbais",
+        "materia": "Língua Portuguesa",
+        "count": 80,
+        "percent": "4.5"
+      },
+      {
+        "nome": "Urgência, Emergência e PCR",
+        "slug": "urgencia_emergencia_e_pcr",
+        "materia": "Enfermagem",
+        "count": 68,
+        "percent": "3.8"
+      },
+      {
+        "nome": "Segurança do Paciente e Biossegurança",
+        "slug": "seguranca_do_paciente_e_biosseguranca",
+        "materia": "Enfermagem",
+        "count": 66,
+        "percent": "3.7"
+      },
+      {
+        "nome": "Imunização e Calendário Vacinal (PNI)",
+        "slug": "imunizacao_e_calendario_vacinal_pni",
+        "materia": "Enfermagem",
+        "count": 63,
+        "percent": "3.6"
+      },
+      {
+        "nome": "Morfologia - Pronomes e Colocação Pronominal",
+        "slug": "morfologia_pronomes_e_colocacao_pronominal",
+        "materia": "Língua Portuguesa",
+        "count": 59,
+        "percent": "3.3"
+      },
+      {
+        "nome": "Epidemiologia e Vigilância em Saúde",
+        "slug": "epidemiologia_e_vigilancia_em_saude",
+        "materia": "Enfermagem",
+        "count": 56,
+        "percent": "3.2"
+      },
+      {
+        "nome": "Doenças Crônicas Não Transmissíveis (HAS, Diabetes)",
+        "slug": "doencas_cronicas_nao_transmissiveis_has_diabetes",
+        "materia": "Enfermagem",
+        "count": 52,
+        "percent": "2.9"
+      },
+      {
+        "nome": "Pontuação e Emprego da Vírgula",
+        "slug": "pontuacao_e_emprego_da_virgula",
+        "materia": "Língua Portuguesa",
+        "count": 47,
+        "percent": "2.7"
+      },
+      {
+        "nome": "Saúde da Mulher, Pré-Natal e Parto",
+        "slug": "saude_da_mulher_pre_natal_e_parto",
+        "materia": "Enfermagem",
+        "count": 27,
+        "percent": "1.5"
+      },
+      {
+        "nome": "Administração, Gestão e Auditoria",
+        "slug": "administracao_gestao_e_auditoria",
+        "materia": "Enfermagem",
+        "count": 21,
+        "percent": "1.2"
+      },
+      {
+        "nome": "Doenças Infecciosas e Parasitárias (Dengue, Tuberculose, HIV)",
+        "slug": "doencas_infecciosas_e_parasitarias_dengue_tuberculose_hiv",
+        "materia": "Enfermagem",
+        "count": 21,
+        "percent": "1.2"
+      },
+      {
+        "nome": "Coesão Textual e Referenciação",
+        "slug": "coesao_textual_e_referenciacao",
+        "materia": "Língua Portuguesa",
+        "count": 20,
+        "percent": "1.1"
+      },
+      {
+        "nome": "Saúde do Idoso e Cuidados Paliativos",
+        "slug": "saude_do_idoso_e_cuidados_paliativos",
+        "materia": "Enfermagem",
+        "count": 19,
+        "percent": "1.1"
+      },
+      {
+        "nome": "Saúde Mental e Atenção Psicossocial",
+        "slug": "saude_mental_e_atencao_psicossocial",
+        "materia": "Enfermagem",
+        "count": 19,
+        "percent": "1.1"
+      },
+      {
+        "nome": "Processo de Enfermagem e Sistematização (SAE)",
+        "slug": "processo_de_enfermagem_e_sistematizacao_sae",
+        "materia": "Enfermagem",
+        "count": 17,
+        "percent": "1.0"
+      },
+      {
+        "nome": "Centro Cirúrgico e CME (Esterilização)",
+        "slug": "centro_cirurgico_e_cme_esterilizacao",
+        "materia": "Enfermagem",
+        "count": 14,
+        "percent": "0.8"
+      },
+      {
+        "nome": "Conjunções e Relações Lógico-Discursivas",
+        "slug": "conjuncoes_e_relacoes_logico_discursivas",
+        "materia": "Língua Portuguesa",
+        "count": 12,
+        "percent": "0.7"
+      },
+      {
+        "nome": "Emprego do Sinal Indicativo de Crase",
+        "slug": "emprego_do_sinal_indicativo_de_crase",
+        "materia": "Língua Portuguesa",
+        "count": 11,
+        "percent": "0.6"
+      },
+      {
+        "nome": "Assistência em Feridas, Curativos e Queimados",
+        "slug": "assistencia_em_feridas_curativos_e_queimados",
+        "materia": "Enfermagem",
+        "count": 8,
+        "percent": "0.5"
+      },
+      {
+        "nome": "Saúde da Criança e do Adolescente (Pediatria)",
+        "slug": "saude_da_crianca_e_do_adolescente_pediatria",
+        "materia": "Enfermagem",
+        "count": 7,
+        "percent": "0.4"
+      },
+      {
+        "nome": "Morfologia - Classes Gramaticais",
+        "slug": "morfologia_classes_gramaticais",
+        "materia": "Língua Portuguesa",
+        "count": 7,
+        "percent": "0.4"
+      },
+      {
+        "nome": "Tipologia e Gêneros Textuais",
+        "slug": "tipologia_e_generos_textuais",
+        "materia": "Língua Portuguesa",
+        "count": 2,
+        "percent": "0.1"
+      },
+      {
+        "nome": "Ortografia Oficial e Acentuação Gráfica",
+        "slug": "ortografia_oficial_e_acentuacao_grafica",
+        "materia": "Língua Portuguesa",
+        "count": 1,
+        "percent": "0.1"
+      }
+    ]
+  },
+  "Todas_Enfermeiro": {
+    "total": 1322,
+    "temas": [
+      {
+        "nome": "Interpretação e Compreensão de Textos",
+        "slug": "interpretacao_e_compreensao_de_textos",
+        "materia": "Língua Portuguesa",
+        "count": 368,
+        "percent": "27.8"
+      },
+      {
+        "nome": "Sintaxe da Oração e do Período",
+        "slug": "sintaxe_da_oracao_e_do_periodo",
+        "materia": "Língua Portuguesa",
+        "count": 232,
+        "percent": "17.5"
+      },
+      {
+        "nome": "Semântica e Significação das Palavras",
+        "slug": "semantica_e_significacao_das_palavras",
+        "materia": "Língua Portuguesa",
+        "count": 87,
+        "percent": "6.6"
+      },
+      {
+        "nome": "Morfologia - Tempos e Modos Verbais",
+        "slug": "morfologia_tempos_e_modos_verbais",
+        "materia": "Língua Portuguesa",
+        "count": 80,
+        "percent": "6.1"
+      },
+      {
+        "nome": "Morfologia - Pronomes e Colocação Pronominal",
+        "slug": "morfologia_pronomes_e_colocacao_pronominal",
+        "materia": "Língua Portuguesa",
+        "count": 59,
+        "percent": "4.5"
+      },
+      {
+        "nome": "Saúde Pública, SUS e Atenção Básica",
+        "slug": "saude_publica_sus_e_atencao_basica",
+        "materia": "Enfermagem",
+        "count": 55,
+        "percent": "4.2"
+      },
+      {
+        "nome": "Fundamentos e Procedimentos de Enfermagem",
+        "slug": "fundamentos_e_procedimentos_de_enfermagem",
+        "materia": "Enfermagem",
+        "count": 52,
+        "percent": "3.9"
+      },
+      {
+        "nome": "Pontuação e Emprego da Vírgula",
+        "slug": "pontuacao_e_emprego_da_virgula",
+        "materia": "Língua Portuguesa",
+        "count": 47,
+        "percent": "3.6"
+      },
+      {
+        "nome": "Epidemiologia e Vigilância em Saúde",
+        "slug": "epidemiologia_e_vigilancia_em_saude",
+        "materia": "Enfermagem",
+        "count": 39,
+        "percent": "3.0"
+      },
+      {
+        "nome": "Urgência, Emergência e PCR",
+        "slug": "urgencia_emergencia_e_pcr",
+        "materia": "Enfermagem",
+        "count": 35,
+        "percent": "2.6"
+      },
+      {
+        "nome": "Farmacologia, Cálculo e Administração de Medicamentos",
+        "slug": "farmacologia_calculo_e_administracao_de_medicamentos",
+        "materia": "Enfermagem",
+        "count": 31,
+        "percent": "2.3"
+      },
+      {
+        "nome": "Legislação de Enfermagem e Código de Ética",
+        "slug": "legislacao_de_enfermagem_e_codigo_de_etica",
+        "materia": "Enfermagem",
+        "count": 31,
+        "percent": "2.3"
+      },
+      {
+        "nome": "Imunização e Calendário Vacinal (PNI)",
+        "slug": "imunizacao_e_calendario_vacinal_pni",
+        "materia": "Enfermagem",
+        "count": 28,
+        "percent": "2.1"
+      },
+      {
+        "nome": "Segurança do Paciente e Biossegurança",
+        "slug": "seguranca_do_paciente_e_biosseguranca",
+        "materia": "Enfermagem",
+        "count": 27,
+        "percent": "2.0"
+      },
+      {
+        "nome": "Doenças Crônicas Não Transmissíveis (HAS, Diabetes)",
+        "slug": "doencas_cronicas_nao_transmissiveis_has_diabetes",
+        "materia": "Enfermagem",
+        "count": 27,
+        "percent": "2.0"
+      },
+      {
+        "nome": "Coesão Textual e Referenciação",
+        "slug": "coesao_textual_e_referenciacao",
+        "materia": "Língua Portuguesa",
+        "count": 20,
+        "percent": "1.5"
+      },
+      {
+        "nome": "Administração, Gestão e Auditoria",
+        "slug": "administracao_gestao_e_auditoria",
+        "materia": "Enfermagem",
+        "count": 15,
+        "percent": "1.1"
+      },
+      {
+        "nome": "Saúde da Mulher, Pré-Natal e Parto",
+        "slug": "saude_da_mulher_pre_natal_e_parto",
+        "materia": "Enfermagem",
+        "count": 15,
+        "percent": "1.1"
+      },
+      {
+        "nome": "Processo de Enfermagem e Sistematização (SAE)",
+        "slug": "processo_de_enfermagem_e_sistematizacao_sae",
+        "materia": "Enfermagem",
+        "count": 12,
+        "percent": "0.9"
+      },
+      {
+        "nome": "Conjunções e Relações Lógico-Discursivas",
+        "slug": "conjuncoes_e_relacoes_logico_discursivas",
+        "materia": "Língua Portuguesa",
+        "count": 12,
+        "percent": "0.9"
+      },
+      {
+        "nome": "Emprego do Sinal Indicativo de Crase",
+        "slug": "emprego_do_sinal_indicativo_de_crase",
+        "materia": "Língua Portuguesa",
+        "count": 11,
+        "percent": "0.8"
+      },
+      {
+        "nome": "Saúde do Idoso e Cuidados Paliativos",
+        "slug": "saude_do_idoso_e_cuidados_paliativos",
+        "materia": "Enfermagem",
+        "count": 9,
+        "percent": "0.7"
+      },
+      {
+        "nome": "Morfologia - Classes Gramaticais",
+        "slug": "morfologia_classes_gramaticais",
+        "materia": "Língua Portuguesa",
+        "count": 7,
+        "percent": "0.5"
+      },
+      {
+        "nome": "Doenças Infecciosas e Parasitárias (Dengue, Tuberculose, HIV)",
+        "slug": "doencas_infecciosas_e_parasitarias_dengue_tuberculose_hiv",
+        "materia": "Enfermagem",
+        "count": 6,
+        "percent": "0.5"
+      },
+      {
+        "nome": "Saúde Mental e Atenção Psicossocial",
+        "slug": "saude_mental_e_atencao_psicossocial",
+        "materia": "Enfermagem",
+        "count": 6,
+        "percent": "0.5"
+      },
+      {
+        "nome": "Saúde da Criança e do Adolescente (Pediatria)",
+        "slug": "saude_da_crianca_e_do_adolescente_pediatria",
+        "materia": "Enfermagem",
+        "count": 5,
+        "percent": "0.4"
+      },
+      {
+        "nome": "Centro Cirúrgico e CME (Esterilização)",
+        "slug": "centro_cirurgico_e_cme_esterilizacao",
+        "materia": "Enfermagem",
+        "count": 3,
+        "percent": "0.2"
+      },
+      {
+        "nome": "Tipologia e Gêneros Textuais",
+        "slug": "tipologia_e_generos_textuais",
+        "materia": "Língua Portuguesa",
+        "count": 2,
+        "percent": "0.2"
+      },
+      {
+        "nome": "Ortografia Oficial e Acentuação Gráfica",
+        "slug": "ortografia_oficial_e_acentuacao_grafica",
+        "materia": "Língua Portuguesa",
+        "count": 1,
+        "percent": "0.1"
+      }
+    ]
+  },
+  "Todas_Técnico de Enfermagem": {
+    "total": 1375,
+    "temas": [
+      {
+        "nome": "Interpretação e Compreensão de Textos",
+        "slug": "interpretacao_e_compreensao_de_textos",
+        "materia": "Língua Portuguesa",
+        "count": 368,
+        "percent": "26.8"
+      },
+      {
+        "nome": "Sintaxe da Oração e do Período",
+        "slug": "sintaxe_da_oracao_e_do_periodo",
+        "materia": "Língua Portuguesa",
+        "count": 232,
+        "percent": "16.9"
+      },
+      {
+        "nome": "Semântica e Significação das Palavras",
+        "slug": "semantica_e_significacao_das_palavras",
+        "materia": "Língua Portuguesa",
+        "count": 87,
+        "percent": "6.3"
+      },
+      {
+        "nome": "Morfologia - Tempos e Modos Verbais",
+        "slug": "morfologia_tempos_e_modos_verbais",
+        "materia": "Língua Portuguesa",
+        "count": 80,
+        "percent": "5.8"
+      },
+      {
+        "nome": "Fundamentos e Procedimentos de Enfermagem",
+        "slug": "fundamentos_e_procedimentos_de_enfermagem",
+        "materia": "Enfermagem",
+        "count": 74,
+        "percent": "5.4"
+      },
+      {
+        "nome": "Morfologia - Pronomes e Colocação Pronominal",
+        "slug": "morfologia_pronomes_e_colocacao_pronominal",
+        "materia": "Língua Portuguesa",
+        "count": 59,
+        "percent": "4.3"
+      },
+      {
+        "nome": "Farmacologia, Cálculo e Administração de Medicamentos",
+        "slug": "farmacologia_calculo_e_administracao_de_medicamentos",
+        "materia": "Enfermagem",
+        "count": 54,
+        "percent": "3.9"
+      },
+      {
+        "nome": "Legislação de Enfermagem e Código de Ética",
+        "slug": "legislacao_de_enfermagem_e_codigo_de_etica",
+        "materia": "Enfermagem",
+        "count": 50,
+        "percent": "3.6"
+      },
+      {
+        "nome": "Pontuação e Emprego da Vírgula",
+        "slug": "pontuacao_e_emprego_da_virgula",
+        "materia": "Língua Portuguesa",
+        "count": 47,
+        "percent": "3.4"
+      },
+      {
+        "nome": "Saúde Pública, SUS e Atenção Básica",
+        "slug": "saude_publica_sus_e_atencao_basica",
+        "materia": "Enfermagem",
+        "count": 40,
+        "percent": "2.9"
+      },
+      {
+        "nome": "Segurança do Paciente e Biossegurança",
+        "slug": "seguranca_do_paciente_e_biosseguranca",
+        "materia": "Enfermagem",
+        "count": 39,
+        "percent": "2.8"
+      },
+      {
+        "nome": "Imunização e Calendário Vacinal (PNI)",
+        "slug": "imunizacao_e_calendario_vacinal_pni",
+        "materia": "Enfermagem",
+        "count": 35,
+        "percent": "2.5"
+      },
+      {
+        "nome": "Urgência, Emergência e PCR",
+        "slug": "urgencia_emergencia_e_pcr",
+        "materia": "Enfermagem",
+        "count": 33,
+        "percent": "2.4"
+      },
+      {
+        "nome": "Doenças Crônicas Não Transmissíveis (HAS, Diabetes)",
+        "slug": "doencas_cronicas_nao_transmissiveis_has_diabetes",
+        "materia": "Enfermagem",
+        "count": 25,
+        "percent": "1.8"
+      },
+      {
+        "nome": "Coesão Textual e Referenciação",
+        "slug": "coesao_textual_e_referenciacao",
+        "materia": "Língua Portuguesa",
+        "count": 20,
+        "percent": "1.5"
+      },
+      {
+        "nome": "Epidemiologia e Vigilância em Saúde",
+        "slug": "epidemiologia_e_vigilancia_em_saude",
+        "materia": "Enfermagem",
+        "count": 17,
+        "percent": "1.2"
+      },
+      {
+        "nome": "Doenças Infecciosas e Parasitárias (Dengue, Tuberculose, HIV)",
+        "slug": "doencas_infecciosas_e_parasitarias_dengue_tuberculose_hiv",
+        "materia": "Enfermagem",
+        "count": 15,
+        "percent": "1.1"
+      },
+      {
+        "nome": "Saúde Mental e Atenção Psicossocial",
+        "slug": "saude_mental_e_atencao_psicossocial",
+        "materia": "Enfermagem",
+        "count": 13,
+        "percent": "0.9"
+      },
+      {
+        "nome": "Saúde da Mulher, Pré-Natal e Parto",
+        "slug": "saude_da_mulher_pre_natal_e_parto",
+        "materia": "Enfermagem",
+        "count": 12,
+        "percent": "0.9"
+      },
+      {
+        "nome": "Conjunções e Relações Lógico-Discursivas",
+        "slug": "conjuncoes_e_relacoes_logico_discursivas",
+        "materia": "Língua Portuguesa",
+        "count": 12,
+        "percent": "0.9"
+      },
+      {
+        "nome": "Centro Cirúrgico e CME (Esterilização)",
+        "slug": "centro_cirurgico_e_cme_esterilizacao",
+        "materia": "Enfermagem",
+        "count": 11,
+        "percent": "0.8"
+      },
+      {
+        "nome": "Emprego do Sinal Indicativo de Crase",
+        "slug": "emprego_do_sinal_indicativo_de_crase",
+        "materia": "Língua Portuguesa",
+        "count": 11,
+        "percent": "0.8"
+      },
+      {
+        "nome": "Saúde do Idoso e Cuidados Paliativos",
+        "slug": "saude_do_idoso_e_cuidados_paliativos",
+        "materia": "Enfermagem",
+        "count": 10,
+        "percent": "0.7"
+      },
+      {
+        "nome": "Assistência em Feridas, Curativos e Queimados",
+        "slug": "assistencia_em_feridas_curativos_e_queimados",
+        "materia": "Enfermagem",
+        "count": 8,
+        "percent": "0.6"
+      },
+      {
+        "nome": "Morfologia - Classes Gramaticais",
+        "slug": "morfologia_classes_gramaticais",
+        "materia": "Língua Portuguesa",
+        "count": 7,
+        "percent": "0.5"
+      },
+      {
+        "nome": "Administração, Gestão e Auditoria",
+        "slug": "administracao_gestao_e_auditoria",
+        "materia": "Enfermagem",
+        "count": 6,
+        "percent": "0.4"
+      },
+      {
+        "nome": "Processo de Enfermagem e Sistematização (SAE)",
+        "slug": "processo_de_enfermagem_e_sistematizacao_sae",
+        "materia": "Enfermagem",
+        "count": 5,
+        "percent": "0.4"
+      },
+      {
+        "nome": "Saúde da Criança e do Adolescente (Pediatria)",
+        "slug": "saude_da_crianca_e_do_adolescente_pediatria",
+        "materia": "Enfermagem",
+        "count": 2,
+        "percent": "0.1"
+      },
+      {
+        "nome": "Tipologia e Gêneros Textuais",
+        "slug": "tipologia_e_generos_textuais",
+        "materia": "Língua Portuguesa",
+        "count": 2,
+        "percent": "0.1"
+      },
+      {
+        "nome": "Ortografia Oficial e Acentuação Gráfica",
+        "slug": "ortografia_oficial_e_acentuacao_grafica",
+        "materia": "Língua Portuguesa",
+        "count": 1,
+        "percent": "0.1"
+      }
+    ]
+  },
+  "Enfermagem_Todos": {
+    "total": 845,
+    "temas": [
+      {
+        "nome": "Fundamentos e Procedimentos de Enfermagem",
+        "slug": "fundamentos_e_procedimentos_de_enfermagem",
+        "materia": "Enfermagem",
+        "count": 126,
+        "percent": "14.9"
+      },
+      {
+        "nome": "Saúde Pública, SUS e Atenção Básica",
+        "slug": "saude_publica_sus_e_atencao_basica",
+        "materia": "Enfermagem",
+        "count": 95,
+        "percent": "11.2"
+      },
+      {
+        "nome": "Farmacologia, Cálculo e Administração de Medicamentos",
+        "slug": "farmacologia_calculo_e_administracao_de_medicamentos",
+        "materia": "Enfermagem",
+        "count": 85,
+        "percent": "10.1"
+      },
+      {
+        "nome": "Legislação de Enfermagem e Código de Ética",
+        "slug": "legislacao_de_enfermagem_e_codigo_de_etica",
+        "materia": "Enfermagem",
+        "count": 81,
+        "percent": "9.6"
+      },
+      {
+        "nome": "Urgência, Emergência e PCR",
+        "slug": "urgencia_emergencia_e_pcr",
+        "materia": "Enfermagem",
+        "count": 68,
+        "percent": "8.0"
+      },
+      {
+        "nome": "Segurança do Paciente e Biossegurança",
+        "slug": "seguranca_do_paciente_e_biosseguranca",
+        "materia": "Enfermagem",
+        "count": 66,
+        "percent": "7.8"
+      },
+      {
+        "nome": "Imunização e Calendário Vacinal (PNI)",
+        "slug": "imunizacao_e_calendario_vacinal_pni",
+        "materia": "Enfermagem",
+        "count": 63,
+        "percent": "7.5"
+      },
+      {
+        "nome": "Epidemiologia e Vigilância em Saúde",
+        "slug": "epidemiologia_e_vigilancia_em_saude",
+        "materia": "Enfermagem",
+        "count": 56,
+        "percent": "6.6"
+      },
+      {
+        "nome": "Doenças Crônicas Não Transmissíveis (HAS, Diabetes)",
+        "slug": "doencas_cronicas_nao_transmissiveis_has_diabetes",
+        "materia": "Enfermagem",
+        "count": 52,
+        "percent": "6.2"
+      },
+      {
+        "nome": "Saúde da Mulher, Pré-Natal e Parto",
+        "slug": "saude_da_mulher_pre_natal_e_parto",
+        "materia": "Enfermagem",
+        "count": 27,
+        "percent": "3.2"
+      },
+      {
+        "nome": "Administração, Gestão e Auditoria",
+        "slug": "administracao_gestao_e_auditoria",
+        "materia": "Enfermagem",
+        "count": 21,
+        "percent": "2.5"
+      },
+      {
+        "nome": "Doenças Infecciosas e Parasitárias (Dengue, Tuberculose, HIV)",
+        "slug": "doencas_infecciosas_e_parasitarias_dengue_tuberculose_hiv",
+        "materia": "Enfermagem",
+        "count": 21,
+        "percent": "2.5"
+      },
+      {
+        "nome": "Saúde do Idoso e Cuidados Paliativos",
+        "slug": "saude_do_idoso_e_cuidados_paliativos",
+        "materia": "Enfermagem",
+        "count": 19,
+        "percent": "2.2"
+      },
+      {
+        "nome": "Saúde Mental e Atenção Psicossocial",
+        "slug": "saude_mental_e_atencao_psicossocial",
+        "materia": "Enfermagem",
+        "count": 19,
+        "percent": "2.2"
+      },
+      {
+        "nome": "Processo de Enfermagem e Sistematização (SAE)",
+        "slug": "processo_de_enfermagem_e_sistematizacao_sae",
+        "materia": "Enfermagem",
+        "count": 17,
+        "percent": "2.0"
+      },
+      {
+        "nome": "Centro Cirúrgico e CME (Esterilização)",
+        "slug": "centro_cirurgico_e_cme_esterilizacao",
+        "materia": "Enfermagem",
+        "count": 14,
+        "percent": "1.7"
+      },
+      {
+        "nome": "Assistência em Feridas, Curativos e Queimados",
+        "slug": "assistencia_em_feridas_curativos_e_queimados",
+        "materia": "Enfermagem",
+        "count": 8,
+        "percent": "0.9"
+      },
+      {
+        "nome": "Saúde da Criança e do Adolescente (Pediatria)",
+        "slug": "saude_da_crianca_e_do_adolescente_pediatria",
+        "materia": "Enfermagem",
+        "count": 7,
+        "percent": "0.8"
+      }
+    ]
+  },
+  "Enfermagem_Enfermeiro": {
+    "total": 396,
+    "temas": [
+      {
+        "nome": "Saúde Pública, SUS e Atenção Básica",
+        "slug": "saude_publica_sus_e_atencao_basica",
+        "materia": "Enfermagem",
+        "count": 55,
+        "percent": "13.9"
+      },
+      {
+        "nome": "Fundamentos e Procedimentos de Enfermagem",
+        "slug": "fundamentos_e_procedimentos_de_enfermagem",
+        "materia": "Enfermagem",
+        "count": 52,
+        "percent": "13.1"
+      },
+      {
+        "nome": "Epidemiologia e Vigilância em Saúde",
+        "slug": "epidemiologia_e_vigilancia_em_saude",
+        "materia": "Enfermagem",
+        "count": 39,
+        "percent": "9.8"
+      },
+      {
+        "nome": "Urgência, Emergência e PCR",
+        "slug": "urgencia_emergencia_e_pcr",
+        "materia": "Enfermagem",
+        "count": 35,
+        "percent": "8.8"
+      },
+      {
+        "nome": "Farmacologia, Cálculo e Administração de Medicamentos",
+        "slug": "farmacologia_calculo_e_administracao_de_medicamentos",
+        "materia": "Enfermagem",
+        "count": 31,
+        "percent": "7.8"
+      },
+      {
+        "nome": "Legislação de Enfermagem e Código de Ética",
+        "slug": "legislacao_de_enfermagem_e_codigo_de_etica",
+        "materia": "Enfermagem",
+        "count": 31,
+        "percent": "7.8"
+      },
+      {
+        "nome": "Imunização e Calendário Vacinal (PNI)",
+        "slug": "imunizacao_e_calendario_vacinal_pni",
+        "materia": "Enfermagem",
+        "count": 28,
+        "percent": "7.1"
+      },
+      {
+        "nome": "Segurança do Paciente e Biossegurança",
+        "slug": "seguranca_do_paciente_e_biosseguranca",
+        "materia": "Enfermagem",
+        "count": 27,
+        "percent": "6.8"
+      },
+      {
+        "nome": "Doenças Crônicas Não Transmissíveis (HAS, Diabetes)",
+        "slug": "doencas_cronicas_nao_transmissiveis_has_diabetes",
+        "materia": "Enfermagem",
+        "count": 27,
+        "percent": "6.8"
+      },
+      {
+        "nome": "Administração, Gestão e Auditoria",
+        "slug": "administracao_gestao_e_auditoria",
+        "materia": "Enfermagem",
+        "count": 15,
+        "percent": "3.8"
+      },
+      {
+        "nome": "Saúde da Mulher, Pré-Natal e Parto",
+        "slug": "saude_da_mulher_pre_natal_e_parto",
+        "materia": "Enfermagem",
+        "count": 15,
+        "percent": "3.8"
+      },
+      {
+        "nome": "Processo de Enfermagem e Sistematização (SAE)",
+        "slug": "processo_de_enfermagem_e_sistematizacao_sae",
+        "materia": "Enfermagem",
+        "count": 12,
+        "percent": "3.0"
+      },
+      {
+        "nome": "Saúde do Idoso e Cuidados Paliativos",
+        "slug": "saude_do_idoso_e_cuidados_paliativos",
+        "materia": "Enfermagem",
+        "count": 9,
+        "percent": "2.3"
+      },
+      {
+        "nome": "Doenças Infecciosas e Parasitárias (Dengue, Tuberculose, HIV)",
+        "slug": "doencas_infecciosas_e_parasitarias_dengue_tuberculose_hiv",
+        "materia": "Enfermagem",
+        "count": 6,
+        "percent": "1.5"
+      },
+      {
+        "nome": "Saúde Mental e Atenção Psicossocial",
+        "slug": "saude_mental_e_atencao_psicossocial",
+        "materia": "Enfermagem",
+        "count": 6,
+        "percent": "1.5"
+      },
+      {
+        "nome": "Saúde da Criança e do Adolescente (Pediatria)",
+        "slug": "saude_da_crianca_e_do_adolescente_pediatria",
+        "materia": "Enfermagem",
+        "count": 5,
+        "percent": "1.3"
+      },
+      {
+        "nome": "Centro Cirúrgico e CME (Esterilização)",
+        "slug": "centro_cirurgico_e_cme_esterilizacao",
+        "materia": "Enfermagem",
+        "count": 3,
+        "percent": "0.8"
+      }
+    ]
+  },
+  "Enfermagem_Técnico de Enfermagem": {
+    "total": 449,
+    "temas": [
+      {
+        "nome": "Fundamentos e Procedimentos de Enfermagem",
+        "slug": "fundamentos_e_procedimentos_de_enfermagem",
+        "materia": "Enfermagem",
+        "count": 74,
+        "percent": "16.5"
+      },
+      {
+        "nome": "Farmacologia, Cálculo e Administração de Medicamentos",
+        "slug": "farmacologia_calculo_e_administracao_de_medicamentos",
+        "materia": "Enfermagem",
+        "count": 54,
+        "percent": "12.0"
+      },
+      {
+        "nome": "Legislação de Enfermagem e Código de Ética",
+        "slug": "legislacao_de_enfermagem_e_codigo_de_etica",
+        "materia": "Enfermagem",
+        "count": 50,
+        "percent": "11.1"
+      },
+      {
+        "nome": "Saúde Pública, SUS e Atenção Básica",
+        "slug": "saude_publica_sus_e_atencao_basica",
+        "materia": "Enfermagem",
+        "count": 40,
+        "percent": "8.9"
+      },
+      {
+        "nome": "Segurança do Paciente e Biossegurança",
+        "slug": "seguranca_do_paciente_e_biosseguranca",
+        "materia": "Enfermagem",
+        "count": 39,
+        "percent": "8.7"
+      },
+      {
+        "nome": "Imunização e Calendário Vacinal (PNI)",
+        "slug": "imunizacao_e_calendario_vacinal_pni",
+        "materia": "Enfermagem",
+        "count": 35,
+        "percent": "7.8"
+      },
+      {
+        "nome": "Urgência, Emergência e PCR",
+        "slug": "urgencia_emergencia_e_pcr",
+        "materia": "Enfermagem",
+        "count": 33,
+        "percent": "7.3"
+      },
+      {
+        "nome": "Doenças Crônicas Não Transmissíveis (HAS, Diabetes)",
+        "slug": "doencas_cronicas_nao_transmissiveis_has_diabetes",
+        "materia": "Enfermagem",
+        "count": 25,
+        "percent": "5.6"
+      },
+      {
+        "nome": "Epidemiologia e Vigilância em Saúde",
+        "slug": "epidemiologia_e_vigilancia_em_saude",
+        "materia": "Enfermagem",
+        "count": 17,
+        "percent": "3.8"
+      },
+      {
+        "nome": "Doenças Infecciosas e Parasitárias (Dengue, Tuberculose, HIV)",
+        "slug": "doencas_infecciosas_e_parasitarias_dengue_tuberculose_hiv",
+        "materia": "Enfermagem",
+        "count": 15,
+        "percent": "3.3"
+      },
+      {
+        "nome": "Saúde Mental e Atenção Psicossocial",
+        "slug": "saude_mental_e_atencao_psicossocial",
+        "materia": "Enfermagem",
+        "count": 13,
+        "percent": "2.9"
+      },
+      {
+        "nome": "Saúde da Mulher, Pré-Natal e Parto",
+        "slug": "saude_da_mulher_pre_natal_e_parto",
+        "materia": "Enfermagem",
+        "count": 12,
+        "percent": "2.7"
+      },
+      {
+        "nome": "Centro Cirúrgico e CME (Esterilização)",
+        "slug": "centro_cirurgico_e_cme_esterilizacao",
+        "materia": "Enfermagem",
+        "count": 11,
+        "percent": "2.4"
+      },
+      {
+        "nome": "Saúde do Idoso e Cuidados Paliativos",
+        "slug": "saude_do_idoso_e_cuidados_paliativos",
+        "materia": "Enfermagem",
+        "count": 10,
+        "percent": "2.2"
+      },
+      {
+        "nome": "Assistência em Feridas, Curativos e Queimados",
+        "slug": "assistencia_em_feridas_curativos_e_queimados",
+        "materia": "Enfermagem",
+        "count": 8,
+        "percent": "1.8"
+      },
+      {
+        "nome": "Administração, Gestão e Auditoria",
+        "slug": "administracao_gestao_e_auditoria",
+        "materia": "Enfermagem",
+        "count": 6,
+        "percent": "1.3"
+      },
+      {
+        "nome": "Processo de Enfermagem e Sistematização (SAE)",
+        "slug": "processo_de_enfermagem_e_sistematizacao_sae",
+        "materia": "Enfermagem",
+        "count": 5,
+        "percent": "1.1"
+      },
+      {
+        "nome": "Saúde da Criança e do Adolescente (Pediatria)",
+        "slug": "saude_da_crianca_e_do_adolescente_pediatria",
+        "materia": "Enfermagem",
+        "count": 2,
+        "percent": "0.4"
+      }
+    ]
+  },
+  "Língua Portuguesa_Todos": {
+    "total": 926,
+    "temas": [
+      {
+        "nome": "Interpretação e Compreensão de Textos",
+        "slug": "interpretacao_e_compreensao_de_textos",
+        "materia": "Língua Portuguesa",
+        "count": 368,
+        "percent": "39.7"
+      },
+      {
+        "nome": "Sintaxe da Oração e do Período",
+        "slug": "sintaxe_da_oracao_e_do_periodo",
+        "materia": "Língua Portuguesa",
+        "count": 232,
+        "percent": "25.1"
+      },
+      {
+        "nome": "Semântica e Significação das Palavras",
+        "slug": "semantica_e_significacao_das_palavras",
+        "materia": "Língua Portuguesa",
+        "count": 87,
+        "percent": "9.4"
+      },
+      {
+        "nome": "Morfologia - Tempos e Modos Verbais",
+        "slug": "morfologia_tempos_e_modos_verbais",
+        "materia": "Língua Portuguesa",
+        "count": 80,
+        "percent": "8.6"
+      },
+      {
+        "nome": "Morfologia - Pronomes e Colocação Pronominal",
+        "slug": "morfologia_pronomes_e_colocacao_pronominal",
+        "materia": "Língua Portuguesa",
+        "count": 59,
+        "percent": "6.4"
+      },
+      {
+        "nome": "Pontuação e Emprego da Vírgula",
+        "slug": "pontuacao_e_emprego_da_virgula",
+        "materia": "Língua Portuguesa",
+        "count": 47,
+        "percent": "5.1"
+      },
+      {
+        "nome": "Coesão Textual e Referenciação",
+        "slug": "coesao_textual_e_referenciacao",
+        "materia": "Língua Portuguesa",
+        "count": 20,
+        "percent": "2.2"
+      },
+      {
+        "nome": "Conjunções e Relações Lógico-Discursivas",
+        "slug": "conjuncoes_e_relacoes_logico_discursivas",
+        "materia": "Língua Portuguesa",
+        "count": 12,
+        "percent": "1.3"
+      },
+      {
+        "nome": "Emprego do Sinal Indicativo de Crase",
+        "slug": "emprego_do_sinal_indicativo_de_crase",
+        "materia": "Língua Portuguesa",
+        "count": 11,
+        "percent": "1.2"
+      },
+      {
+        "nome": "Morfologia - Classes Gramaticais",
+        "slug": "morfologia_classes_gramaticais",
+        "materia": "Língua Portuguesa",
+        "count": 7,
+        "percent": "0.8"
+      },
+      {
+        "nome": "Tipologia e Gêneros Textuais",
+        "slug": "tipologia_e_generos_textuais",
+        "materia": "Língua Portuguesa",
+        "count": 2,
+        "percent": "0.2"
+      },
+      {
+        "nome": "Ortografia Oficial e Acentuação Gráfica",
+        "slug": "ortografia_oficial_e_acentuacao_grafica",
+        "materia": "Língua Portuguesa",
+        "count": 1,
+        "percent": "0.1"
+      }
+    ]
+  },
+  "Língua Portuguesa_Enfermeiro": {
+    "total": 926,
+    "temas": [
+      {
+        "nome": "Interpretação e Compreensão de Textos",
+        "slug": "interpretacao_e_compreensao_de_textos",
+        "materia": "Língua Portuguesa",
+        "count": 368,
+        "percent": "39.7"
+      },
+      {
+        "nome": "Sintaxe da Oração e do Período",
+        "slug": "sintaxe_da_oracao_e_do_periodo",
+        "materia": "Língua Portuguesa",
+        "count": 232,
+        "percent": "25.1"
+      },
+      {
+        "nome": "Semântica e Significação das Palavras",
+        "slug": "semantica_e_significacao_das_palavras",
+        "materia": "Língua Portuguesa",
+        "count": 87,
+        "percent": "9.4"
+      },
+      {
+        "nome": "Morfologia - Tempos e Modos Verbais",
+        "slug": "morfologia_tempos_e_modos_verbais",
+        "materia": "Língua Portuguesa",
+        "count": 80,
+        "percent": "8.6"
+      },
+      {
+        "nome": "Morfologia - Pronomes e Colocação Pronominal",
+        "slug": "morfologia_pronomes_e_colocacao_pronominal",
+        "materia": "Língua Portuguesa",
+        "count": 59,
+        "percent": "6.4"
+      },
+      {
+        "nome": "Pontuação e Emprego da Vírgula",
+        "slug": "pontuacao_e_emprego_da_virgula",
+        "materia": "Língua Portuguesa",
+        "count": 47,
+        "percent": "5.1"
+      },
+      {
+        "nome": "Coesão Textual e Referenciação",
+        "slug": "coesao_textual_e_referenciacao",
+        "materia": "Língua Portuguesa",
+        "count": 20,
+        "percent": "2.2"
+      },
+      {
+        "nome": "Conjunções e Relações Lógico-Discursivas",
+        "slug": "conjuncoes_e_relacoes_logico_discursivas",
+        "materia": "Língua Portuguesa",
+        "count": 12,
+        "percent": "1.3"
+      },
+      {
+        "nome": "Emprego do Sinal Indicativo de Crase",
+        "slug": "emprego_do_sinal_indicativo_de_crase",
+        "materia": "Língua Portuguesa",
+        "count": 11,
+        "percent": "1.2"
+      },
+      {
+        "nome": "Morfologia - Classes Gramaticais",
+        "slug": "morfologia_classes_gramaticais",
+        "materia": "Língua Portuguesa",
+        "count": 7,
+        "percent": "0.8"
+      },
+      {
+        "nome": "Tipologia e Gêneros Textuais",
+        "slug": "tipologia_e_generos_textuais",
+        "materia": "Língua Portuguesa",
+        "count": 2,
+        "percent": "0.2"
+      },
+      {
+        "nome": "Ortografia Oficial e Acentuação Gráfica",
+        "slug": "ortografia_oficial_e_acentuacao_grafica",
+        "materia": "Língua Portuguesa",
+        "count": 1,
+        "percent": "0.1"
+      }
+    ]
+  },
+  "Língua Portuguesa_Técnico de Enfermagem": {
+    "total": 926,
+    "temas": [
+      {
+        "nome": "Interpretação e Compreensão de Textos",
+        "slug": "interpretacao_e_compreensao_de_textos",
+        "materia": "Língua Portuguesa",
+        "count": 368,
+        "percent": "39.7"
+      },
+      {
+        "nome": "Sintaxe da Oração e do Período",
+        "slug": "sintaxe_da_oracao_e_do_periodo",
+        "materia": "Língua Portuguesa",
+        "count": 232,
+        "percent": "25.1"
+      },
+      {
+        "nome": "Semântica e Significação das Palavras",
+        "slug": "semantica_e_significacao_das_palavras",
+        "materia": "Língua Portuguesa",
+        "count": 87,
+        "percent": "9.4"
+      },
+      {
+        "nome": "Morfologia - Tempos e Modos Verbais",
+        "slug": "morfologia_tempos_e_modos_verbais",
+        "materia": "Língua Portuguesa",
+        "count": 80,
+        "percent": "8.6"
+      },
+      {
+        "nome": "Morfologia - Pronomes e Colocação Pronominal",
+        "slug": "morfologia_pronomes_e_colocacao_pronominal",
+        "materia": "Língua Portuguesa",
+        "count": 59,
+        "percent": "6.4"
+      },
+      {
+        "nome": "Pontuação e Emprego da Vírgula",
+        "slug": "pontuacao_e_emprego_da_virgula",
+        "materia": "Língua Portuguesa",
+        "count": 47,
+        "percent": "5.1"
+      },
+      {
+        "nome": "Coesão Textual e Referenciação",
+        "slug": "coesao_textual_e_referenciacao",
+        "materia": "Língua Portuguesa",
+        "count": 20,
+        "percent": "2.2"
+      },
+      {
+        "nome": "Conjunções e Relações Lógico-Discursivas",
+        "slug": "conjuncoes_e_relacoes_logico_discursivas",
+        "materia": "Língua Portuguesa",
+        "count": 12,
+        "percent": "1.3"
+      },
+      {
+        "nome": "Emprego do Sinal Indicativo de Crase",
+        "slug": "emprego_do_sinal_indicativo_de_crase",
+        "materia": "Língua Portuguesa",
+        "count": 11,
+        "percent": "1.2"
+      },
+      {
+        "nome": "Morfologia - Classes Gramaticais",
+        "slug": "morfologia_classes_gramaticais",
+        "materia": "Língua Portuguesa",
+        "count": 7,
+        "percent": "0.8"
+      },
+      {
+        "nome": "Tipologia e Gêneros Textuais",
+        "slug": "tipologia_e_generos_textuais",
+        "materia": "Língua Portuguesa",
+        "count": 2,
+        "percent": "0.2"
+      },
+      {
+        "nome": "Ortografia Oficial e Acentuação Gráfica",
+        "slug": "ortografia_oficial_e_acentuacao_grafica",
+        "materia": "Língua Portuguesa",
+        "count": 1,
+        "percent": "0.1"
+      }
+    ]
+  }
+};
+
 export function getPadraoSalvo(banca, materia, cargo) {
+  if (banca === "FCC") {
+    const matKey = materia || "Todas";
+    let cargoKey = "Todos";
+    const cargoNorm = (cargo || "").toLowerCase();
+    if (cargoNorm.includes("técnico") || cargoNorm.includes("tecnico")) {
+      cargoKey = "Técnico de Enfermagem";
+    } else if (cargoNorm.includes("enfermeir")) {
+      cargoKey = "Enfermeiro";
+    }
+    const chave = `${matKey}_${cargoKey}`;
+    if (PADRAO_FCC_SALVO[chave]) {
+      return PADRAO_FCC_SALVO[chave];
+    }
+    return PADRAO_FCC_SALVO["Todas_Todos"];
+  }
+
   if (banca !== "SELECON" && banca !== "Todas") {
     return null;
   }
