@@ -193,7 +193,7 @@ export default function App() {
     } else {
       setFiltroCargo('Todos');
     }
-    setFiltroBanca('SELECON');
+    setFiltroBanca(padraoBanca === 'Todas' ? 'Todas' : padraoBanca);
     setQuestaoIndex(0);
     setActiveTab('questoes');
     window.scrollTo({ top: 250, behavior: 'smooth' });
@@ -463,9 +463,9 @@ export default function App() {
                     value={filtroBanca}
                     onChange={e => { setFiltroBanca(e.target.value); setQuestaoIndex(0); }}
                   >
-                    <option value="SELECON">SELECON (2.007 questões auditadas)</option>
-                    <option value="FCC">FCC (1.771 questões auditadas)</option>
-                    <option value="Todas">Todas as Bancas (3.778 questões auditadas)</option>
+                    <option value="SELECON">SELECON (2.019 questões auditadas)</option>
+                    <option value="FCC">FCC (1.865 questões auditadas)</option>
+                    <option value="Todas">Todas as Bancas (3.884 questões auditadas)</option>
                     <optgroup label="Bancas em Preparação">
                       <option value="IBAM" disabled>IBAM (Em breve)</option>
                       <option value="VUNESP" disabled>VUNESP (Em breve)</option>
@@ -539,11 +539,14 @@ export default function App() {
                     }}
                   >
                     <option value="Todos">
-                      {filtroMateria === 'Língua Portuguesa'
-                        ? 'Todos os Assuntos de Língua Portuguesa (1.135 q.)'
-                        : filtroMateria === 'Enfermagem'
-                        ? 'Todos os Assuntos de Enfermagem (872 q.)'
-                        : 'Todos os Assuntos (2.007 q.)'}
+                      {(() => {
+                        const port = filtroBanca === 'FCC' ? '968' : filtroBanca === 'Todas' ? '2.102' : '1.134';
+                        const enf = filtroBanca === 'FCC' ? '898' : filtroBanca === 'Todas' ? '1.782' : '885';
+                        const tot = filtroBanca === 'FCC' ? '1.865' : filtroBanca === 'Todas' ? '3.884' : '2.019';
+                        if (filtroMateria === 'Língua Portuguesa') return `Todos os Assuntos de Língua Portuguesa (${port} q.)`;
+                        if (filtroMateria === 'Enfermagem') return `Todos os Assuntos de Enfermagem (${enf} q.)`;
+                        return `Todos os Assuntos (${tot} q.)`;
+                      })()}
                     </option>
 
                     {(filtroMateria === 'Todas' || filtroMateria === 'Língua Portuguesa') && (
@@ -1834,7 +1837,7 @@ export default function App() {
                       </div>
                       <div className="funnel-right">
                         <span className="pill-badge">
-                          {padraoBanca === 'SELECON' ? '2.007 q.' : padraoBanca === 'FCC' ? '1.771 q.' : padraoBanca === 'Todas' ? '3.778 q.' : 'Em Breve'}
+                          {padraoBanca === 'SELECON' ? '2.019 q.' : padraoBanca === 'FCC' ? '1.865 q.' : padraoBanca === 'Todas' ? '3.884 q.' : 'Em Breve'}
                         </span>
                         <ChevronDown size={16} className={`funnel-arrow ${bancaDropdownAberto ? 'open' : ''}`} />
                       </div>
@@ -1851,7 +1854,7 @@ export default function App() {
                           }}
                         >
                           <span className="item-name">SELECON</span>
-                          <span className="pill-badge">2.007 q.</span>
+                          <span className="pill-badge">2.019 q.</span>
                         </button>
                         <button
                           type="button"
@@ -1862,7 +1865,7 @@ export default function App() {
                           }}
                         >
                           <span className="item-name">FCC</span>
-                          <span className="pill-badge">1.771 q.</span>
+                          <span className="pill-badge">1.865 q.</span>
                         </button>
                         <button
                           type="button"
@@ -1873,7 +1876,7 @@ export default function App() {
                           }}
                         >
                           <span className="item-name">Todas as Bancas</span>
-                          <span className="pill-badge">3.778 q.</span>
+                          <span className="pill-badge">3.884 q.</span>
                         </button>
                         {BANCAS_PRECONFIGURADAS.filter(b => b !== 'SELECON' && b !== 'FCC').map(banca => (
                           <button
@@ -1915,12 +1918,12 @@ export default function App() {
                         <span className="pill-badge">
                           {(() => {
                             if (padraoBanca === 'FCC') {
-                              return padraoMateria === 'Língua Portuguesa' ? '926 q.' : padraoMateria === 'Enfermagem' ? '845 q.' : '1.771 q.';
+                              return padraoMateria === 'Língua Portuguesa' ? '968 q.' : padraoMateria === 'Enfermagem' ? '898 q.' : '1.865 q.';
                             }
                             if (padraoBanca === 'Todas') {
-                              return padraoMateria === 'Língua Portuguesa' ? '2.061 q.' : padraoMateria === 'Enfermagem' ? '1.717 q.' : '3.778 q.';
+                              return padraoMateria === 'Língua Portuguesa' ? '2.102 q.' : padraoMateria === 'Enfermagem' ? '1.782 q.' : '3.884 q.';
                             }
-                            return padraoMateria === 'Língua Portuguesa' ? '1.135 q.' : padraoMateria === 'Enfermagem' ? '872 q.' : '2.007 q.';
+                            return padraoMateria === 'Língua Portuguesa' ? '1.134 q.' : padraoMateria === 'Enfermagem' ? '885 q.' : '2.019 q.';
                           })()}
                         </span>
                         <ChevronDown size={16} className={`funnel-arrow ${materiaDropdownAberto ? 'open' : ''}`} />
@@ -1940,7 +1943,7 @@ export default function App() {
                         >
                           <span className="item-name">Todas as Matérias</span>
                           <span className="pill-badge">
-                            {padraoBanca === 'FCC' ? '1.771 q.' : padraoBanca === 'Todas' ? '3.778 q.' : '2.007 q.'}
+                            {padraoBanca === 'FCC' ? '1.865 q.' : padraoBanca === 'Todas' ? '3.884 q.' : '2.019 q.'}
                           </span>
                         </button>
                         <button
@@ -1987,7 +1990,7 @@ export default function App() {
                   A banca <strong>{padraoBanca}</strong> está pré-configurada e pronta para receber questões!
                 </h3>
                 <p style={{ color: '#64748b', maxWidth: '580px', margin: '0 auto 1.5rem', fontSize: '0.92rem', lineHeight: '1.6' }}>
-                  Atualmente o acervo conta com <strong>2.007 questões auditadas da banca SELECON</strong> (sendo 1.135 de Língua Portuguesa e 872 de Enfermagem). Assim que você fizer upload dos cadernos de provas em PDF da <strong>{padraoBanca}</strong> na pasta <code>/01_PDFS_DE_REFERENCIA/prefeituras/</code>, o gráfico de pizza e o ranking ordenado de conteúdo serão calculados instantaneamente aqui!
+                  Atualmente o acervo conta com <strong>3.884 questões auditadas</strong> (2.019 da banca SELECON e 1.865 da FCC). Assim que você fizer upload dos cadernos de provas em PDF da <strong>{padraoBanca}</strong> na pasta <code>/01_PDFS_DE_REFERENCIA/prefeituras/</code>, o gráfico de pizza e o ranking ordenado de conteúdo serão calculados instantaneamente aqui!
                 </p>
                 <div style={{ display: 'flex', gap: '0.75rem', justifyContent: 'center', flexWrap: 'wrap' }}>
                   <button
@@ -1998,7 +2001,7 @@ export default function App() {
                       setPadraoCargo('Todos');
                     }}
                   >
-                    Ver Raio-X da SELECON (2.007 Questões Auditadas)
+                    Ver Raio-X da SELECON (2.019 Questões Auditadas)
                   </button>
                   <button
                     className="btn-padrao-pill"

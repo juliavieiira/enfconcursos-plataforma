@@ -6600,593 +6600,13 @@ export const SIMULADOS_OFICIAIS = [
     },
     "questoes": [
       {
-        "codigo_origem": "Q3954786",
-        "numero_original": 182,
-        "banca": "FCC",
-        "orgao": "SEFAZ-SP",
-        "ano": 2026,
-        "prova": "FCC - 2026 - SEFAZ-SP - Auditor Fiscal da Receita Estadual - AFRE - Gestão",
-        "cargo": "Geral",
-        "materia": "Língua Portuguesa",
-        "assunto": "Interpretação e Compreensão de Textos",
-        "enunciado": "Tributária - Conhecimentos Gerais (P1)",
-        "alternativas": [
-          {
-            "id": "A",
-            "texto": "afirmação O problema dos pentimentos é que eles esvaziam a vida que temos (4° parágrafo)"
-          },
-          {
-            "id": "A",
-            "texto": "tem como suporte lógico incontestável o fato de que todas as formas de pentimento nascem artificiais."
-          },
-          {
-            "id": "B",
-            "texto": "ressalta a impossibilidade que temos de apagar por completo quaisquer traços do passado."
-          },
-          {
-            "id": "C",
-            "texto": "justifica-se pelo fato de que eles nos fazem pouco esperançosos na formulação dos nossos ideais."
-          },
-          {
-            "id": "D",
-            "texto": "ganha ainda maior gravidade quando se reconhece que podemos inventá-los para disfarçar as derrotas. E é contraditada pela constatação de que as redes sociais potenciaram o mérito de um arrependimento."
-          }
-        ],
-        "resposta_correta": "D",
-        "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [D] ('ganha ainda maior gravidade quando se reconhece que podemos inventá-los para disfarçar as derrotas. E é contraditada pela constatação de que as redes sociais potenciaram o mérito de um arrependimento.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "analise_distratores": [
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'afirmação O problema dos pentimentos é que eles esvaziam a vida que temos (4° pa...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'tem como suporte lógico incontestável o fato de que todas as formas de pentiment...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "B",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'ressalta a impossibilidade que temos de apagar por completo quaisquer traços do ...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'justifica-se pelo fato de que eles nos fazem pouco esperançosos na formulação do...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          }
-        ],
-        "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [D] ('ganha ainda maior gravidade quando se reconhece que podemos inventá-los para disfarçar as derrotas. E é contraditada pela constatação de que as redes sociais potenciaram o mérito de um arrependimento.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "id": "FCC_LP0002",
-        "numero_ordem": 2,
-        "numero_simulado": 1
-      },
-      {
-        "codigo_origem": "Q3954783",
-        "numero_original": 183,
-        "banca": "FCC",
-        "orgao": "SEFAZ-SP",
-        "ano": 2026,
-        "prova": "FCC - 2026 - SEFAZ-SP - Auditor Fiscal da Receita Estadual - AFRE - Gestão",
-        "cargo": "Geral",
-        "materia": "Língua Portuguesa",
-        "assunto": "Interpretação e Compreensão de Textos",
-        "enunciado": "Tributária - Conhecimentos Gerais (P1)",
-        "alternativas": [
-          {
-            "id": "A",
-            "texto": "afirmação por não querermos perder nada, acabamos perdendo tudo (3ª parágrafo) reflete a enganosa crença de que"
-          },
-          {
-            "id": "A",
-            "texto": "os sacrifícios a se fazer são prescindíveis para a nossa plena realização."
-          },
-          {
-            "id": "B",
-            "texto": "o acesso às paixões e aos sonhos nossos é reconhecidamente custoso."
-          },
-          {
-            "id": "C",
-            "texto": "a busca de uma idealidade plena compensa com sobras o saldo da desilusão."
-          },
-          {
-            "id": "D",
-            "texto": "atingimos a plenitude de uma conquista quando nos submetemos aos nossos limites. E abandonamos nossos caminhos para o sucesso por falta de perseverança."
-          }
-        ],
-        "resposta_correta": "A",
-        "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [A] ('afirmação por não querermos perder nada, acabamos perdendo tudo (3ª parágrafo) reflete a enganosa crença de que') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "analise_distratores": [
-          {
-            "letra": "B",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'o acesso às paixões e aos sonhos nossos é reconhecidamente custoso....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'a busca de uma idealidade plena compensa com sobras o saldo da desilusão....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "D",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'atingimos a plenitude de uma conquista quando nos submetemos aos nossos limites....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          }
-        ],
-        "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [A] ('afirmação por não querermos perder nada, acabamos perdendo tudo (3ª parágrafo) reflete a enganosa crença de que') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "id": "FCC_LP0003",
-        "numero_ordem": 3,
-        "numero_simulado": 2
-      },
-      {
-        "codigo_origem": "Q3947141",
-        "numero_original": 185,
-        "banca": "FCC",
-        "orgao": "SEFAZ-MT",
-        "ano": 2026,
-        "prova": "FCC - 2026 - SEFAZ-MT - Fiscal de Tributos Estaduais",
-        "cargo": "Geral",
-        "materia": "Língua Portuguesa",
-        "assunto": "Interpretação e Compreensão de Textos",
-        "enunciado": "As frases do imperador Juliano e de Alexandre, o Grande, citadas no 3º parágrafo,",
-        "alternativas": [
-          {
-            "id": "A",
-            "texto": "acentuam o critério da verdade limpa que deve contar para o reconhecimento de alguma virtude."
-          },
-          {
-            "id": "B",
-            "texto": "condenam o desprendimento estoico que costuma marcar as relações de poder entre desiguais."
-          },
-          {
-            "id": "C",
-            "texto": "divergem quanto à importância que cada um deles atribui à submissão manifesta de seus comandados."
-          },
-          {
-            "id": "D",
-            "texto": "deixam ver que eram ambos generosamente sensíveis às louvações de seus comandados."
-          },
-          {
-            "id": "E",
-            "texto": "demonstram que suas reais virtudes eram amplamente reconhecidas por seus subordinados."
-          }
-        ],
-        "resposta_correta": "A",
-        "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [A] ('acentuam o critério da verdade limpa que deve contar para o reconhecimento de alguma virtude.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "analise_distratores": [
-          {
-            "letra": "B",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'condenam o desprendimento estoico que costuma marcar as relações de poder entre ...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'divergem quanto à importância que cada um deles atribui à submissão manifesta de...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "D",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'deixam ver que eram ambos generosamente sensíveis às louvações de seus comandado...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "E",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'demonstram que suas reais virtudes eram amplamente reconhecidas por seus subordi...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          }
-        ],
-        "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [A] ('acentuam o critério da verdade limpa que deve contar para o reconhecimento de alguma virtude.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "id": "FCC_LP0005",
-        "numero_ordem": 5,
-        "numero_simulado": 3
-      },
-      {
-        "codigo_origem": "Q3947138",
-        "numero_original": 188,
-        "banca": "FCC",
-        "orgao": "SEFAZ-MT",
-        "ano": 2026,
-        "prova": "FCC - 2026 - SEFAZ-MT - Fiscal de Tributos Estaduais",
-        "cargo": "Geral",
-        "materia": "Língua Portuguesa",
-        "assunto": "Interpretação e Compreensão de Textos",
-        "enunciado": "Ao afirmar que O espírito humano comporta tantos graus quantas braças vão daqui ao céu (1º parágrafo), Montaigne está considerando que",
-        "alternativas": [
-          {
-            "id": "A",
-            "texto": "os caprichos humanos nos afastam tanto uns dos outros que a distância entre nós faz lembrar a que há entre uma braça e outra no espaço celestial."
-          },
-          {
-            "id": "B",
-            "texto": "são tão variadas as especificidades da interioridade humana quanto são incontáveis as braças que se interpõem entre nós e o céu."
-          },
-          {
-            "id": "C",
-            "texto": "tem inteira razão o filósofo grego Plutarco, quando alude às incontáveis braças da distância que separa a nossa espécie das demais."
-          },
-          {
-            "id": "D",
-            "texto": "o espírito de cada ser humano tem tamanha largueza que ele admite em si mesmo distâncias como as das braças que o separam do céu."
-          },
-          {
-            "id": "E",
-            "texto": "a variação da diferença que pode haver entre um homem e outro é de tal ordem que o faz lembrar literalmente de uma frase de Plutarco."
-          }
-        ],
-        "resposta_correta": "B",
-        "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [B] ('são tão variadas as especificidades da interioridade humana quanto são incontáveis as braças que se interpõem entre nós e o céu.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "analise_distratores": [
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'os caprichos humanos nos afastam tanto uns dos outros que a distância entre nós ...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'tem inteira razão o filósofo grego Plutarco, quando alude às incontáveis braças ...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "D",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'o espírito de cada ser humano tem tamanha largueza que ele admite em si mesmo di...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "E",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'a variação da diferença que pode haver entre um homem e outro é de tal ordem que...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          }
-        ],
-        "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [B] ('são tão variadas as especificidades da interioridade humana quanto são incontáveis as braças que se interpõem entre nós e o céu.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "id": "FCC_LP0008",
-        "numero_ordem": 8,
-        "numero_simulado": 4
-      },
-      {
-        "codigo_origem": "Q3947133",
-        "numero_original": 192,
-        "banca": "FCC",
-        "orgao": "SEFAZ-MT",
-        "ano": 2026,
-        "prova": "FCC - 2026 - SEFAZ-MT - Fiscal de Tributos Estaduais",
-        "cargo": "Geral",
-        "materia": "Língua Portuguesa",
-        "assunto": "Interpretação e Compreensão de Textos",
-        "enunciado": "O autor exprime uma impressão sua por meio de um paradoxo ao se valer das seguintes expressões:",
-        "alternativas": [
-          {
-            "id": "A",
-            "texto": "hesitação na escolha dos detalhes //construção compensatória do meu imaginário (2º parágrafo)."
-          },
-          {
-            "id": "B",
-            "texto": "escancare os olhos // me deixe cegar com tanta iluminação (3º parágrafo)."
-          },
-          {
-            "id": "C",
-            "texto": "Fiquei entusiasmadíssimo // passei a ter acesso a imagens e sons de um passado (1º parágrafo)."
-          },
-          {
-            "id": "D",
-            "texto": "imagens nitidas //por meio de plataformas eletrónicas (1ª parágrafo)."
-          },
-          {
-            "id": "E",
-            "texto": "repertório inesgotável de sensações // eu podia repetir tanto quanto quisesse (2º parágrafo)."
-          }
-        ],
-        "resposta_correta": "B",
-        "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [B] ('escancare os olhos // me deixe cegar com tanta iluminação (3º parágrafo).') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "analise_distratores": [
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'hesitação na escolha dos detalhes //construção compensatória do meu imaginário (...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Fiquei entusiasmadíssimo // passei a ter acesso a imagens e sons de um passado (...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "D",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'imagens nitidas //por meio de plataformas eletrónicas (1ª parágrafo)....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "E",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'repertório inesgotável de sensações // eu podia repetir tanto quanto quisesse (2...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          }
-        ],
-        "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [B] ('escancare os olhos // me deixe cegar com tanta iluminação (3º parágrafo).') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "id": "FCC_LP0011",
-        "numero_ordem": 11,
-        "numero_simulado": 5
-      },
-      {
-        "codigo_origem": "Q3916796",
-        "numero_original": 193,
-        "banca": "FCC",
-        "orgao": "SEFAZ-SP",
-        "ano": 2026,
-        "prova": "FCC - 2026 - SEFAZ-SP - Auditor Fiscal da Receita Estadual - AFRE - Tecnologia",
-        "cargo": "Geral",
-        "materia": "Língua Portuguesa",
-        "assunto": "Interpretação e Compreensão de Textos",
-        "enunciado": "da Informação e Comunicação - Conhecimentos Gerais (P1) Atenção: Considere o texto a seguir para responder à questão. Mas o grande perigo da crítica é um dedutivismo ingênuo que, partindo de uma pré-noção, acha no seu campo de pesquisas apenas aquilo que procura. Veja-se, por exemplo, o caso de Taine. Já Edmond Schérer, num dos seus \"estudos\" mais felizes, apontava os lados fracos da interpretação tainiana da arte ou da história literária. Em vez de proceder por indução, Taine deduz forçosamente de uma ideia preconcebida as componentes que deverão formar o caráter de uma épоca оu o espírito de uma literatura. Sem dúvida, o crítico não pode prescindir de uma hipótese, como o cientista, para abrir uma picada no mato virgem dos fatos. Mas também não deve esquecer que, além da clareira mensurável, começa a exuberância das probabilidades, como uma floresta de interrogações. Respeitar o outro lado provável das coisas, admitir em tudo a parte do indeterminado é uma boa tática para quem não gosta de tropeçar em surpresas irônicas. (Adaptado de: MEYER, Augusto, \"Mas...\", Machado de Assis (1935-1958). Rio de Janeiro: Editora José Olympio, 2008, p. 65) Acerca das estratégias de argumentação no texto,",
-        "alternativas": [
-          {
-            "id": "A",
-            "texto": "a analogia com o cientista, no segundo parágrafo, é argumento que reitera o caráter ingênuo do uso da dedução na análise literária."
-          },
-          {
-            "id": "B",
-            "texto": "o primeiro parágrafo argumenta por meio do exemplo de Taine, alicerçado, por sua vez, em um argumento de autoridade, com a menção a Edmond Schérer."
-          },
-          {
-            "id": "C",
-            "texto": "o exemplo de Taine presta-se, enquanto argumento, para descartar o raciocínio dedutivo como método de compreensão no contexto das obras literárias."
-          },
-          {
-            "id": "D",
-            "texto": "o contraexemplo da mata virgem, opondo-se ao exemplo de Taine, no segundo parágrafo, é utilizado para ilustrar a escoIha do autor pelo raciocínio indutivo."
-          },
-          {
-            "id": "E",
-            "texto": "no segmento \"Respeitar o outro lado provável das coisas\", corrobora-se o compromisso com uma teoria a partir da qual se devem deduzir as características de uma obra de arte."
-          }
-        ],
-        "resposta_correta": "B",
-        "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [B] ('o primeiro parágrafo argumenta por meio do exemplo de Taine, alicerçado, por sua vez, em um argumento de autoridade, com a menção a Edmond Schérer.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "analise_distratores": [
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'a analogia com o cientista, no segundo parágrafo, é argumento que reitera o cará...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'o exemplo de Taine presta-se, enquanto argumento, para descartar o raciocínio de...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "D",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'o contraexemplo da mata virgem, opondo-se ao exemplo de Taine, no segundo parágr...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "E",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'no segmento \"Respeitar o outro lado provável das coisas\", corrobora-se o comprom...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          }
-        ],
-        "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [B] ('o primeiro parágrafo argumenta por meio do exemplo de Taine, alicerçado, por sua vez, em um argumento de autoridade, com a menção a Edmond Schérer.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "id": "FCC_LP0012",
-        "numero_ordem": 12,
-        "numero_simulado": 6
-      },
-      {
-        "codigo_origem": "Q3916784",
-        "numero_original": 195,
-        "banca": "FCC",
-        "orgao": "SEFAZ-SP",
-        "ano": 2026,
-        "prova": "FCC - 2026 - SEFAZ-SP - Auditor Fiscal da Receita Estadual - AFRE - Tecnologia",
-        "cargo": "Geral",
-        "materia": "Língua Portuguesa",
-        "assunto": "Interpretação e Compreensão de Textos",
-        "enunciado": "da Informação e Comunicação - Conhecimentos Gerais (P1) [...] Podemos interpretar a ciência como uит тара, como uma representação de como vemos a natureza (o território). Neste caso, Borges está criticando cientistas que acreditam, inocentemente, que o que fazem é produzir um mapa perfeito da realidade. A analogia é bem apropriada, dado que captura tanto os objetivos quanto as frustrações da pesquisa científica: queremos aprender o máximo possível sobre o mundo e traduzir o que aprendemos em um mapa que outros podem ler. Quanto mais aprendemos, mais detalhado fica o mapa. Entretanto, como o filósofo francês Bernard Le Bovier de Fontenelle já sabia em 1686, podemos ver apenas uma fração do que existe. Por consequência, qualquer mapa que produzimos é necessariamente incompleto. [...] (Marcelo Gleiser, 12/08/2018. Disponível em: Considere cinco pesquisas científicas fictícias cujos objetivos fossem desenvolver: I. uma droga capaz de curar todos os tipos de lesões cancerígenas. II. uma liga metálica capaz de resistir a temperaturas mais altas do que as ligas atuais. III. uma ferramenta de inteligência artificial capaz de compor uma sinfonia. IV. uma bateria para carros elétricos com vida útil dez vezes maior do que a das atuais. V. um robô humanoide capaz de conduzir um ônibus em uma grande cidade. Entre essas pesquisas científicas, aquela que poderia ser criticada usando um argumento análogo ao apresentado no texto de Marcelo Gleiser é",
-        "alternativas": [
-          {
-            "id": "A",
-            "texto": "I."
-          },
-          {
-            "id": "B",
-            "texto": "II."
-          },
-          {
-            "id": "C",
-            "texto": "III."
-          },
-          {
-            "id": "D",
-            "texto": "IV."
-          },
-          {
-            "id": "E",
-            "texto": "V."
-          }
-        ],
-        "resposta_correta": "A",
-        "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [A] ('I.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "analise_distratores": [
-          {
-            "letra": "B",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'II....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'III....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "D",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'IV....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "E",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'V....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          }
-        ],
-        "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [A] ('I.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "id": "FCC_LP0014",
-        "numero_ordem": 14,
-        "numero_simulado": 7
-      },
-      {
-        "codigo_origem": "Q3916783",
-        "numero_original": 196,
-        "banca": "FCC",
-        "orgao": "SEFAZ-SP",
-        "ano": 2026,
-        "prova": "FCC - 2026 - SEFAZ-SP - Auditor Fiscal da Receita Estadual - AFRE - Tecnologia",
-        "cargo": "Geral",
-        "materia": "Língua Portuguesa",
-        "assunto": "Interpretação e Compreensão de Textos",
-        "enunciado": "da Informação e Comunicação - Conhecimentos Gerais (P1)",
-        "alternativas": [
-          {
-            "id": "A",
-            "texto": "tática de Robert Kennedy Jr., o secretário de Saúde de Trump, para reduzir a lista de vacinas recomendadas pelo governo federal até que tem seu apelo. Ele diz que está apenas usando de bom senso e espelhando as recomendações da Dinamarca - uma nação rica da Europa que apresenta indicadores de saúde bem melhores que os dos EUA. Um incauto até poderia se sentir tentado a abraçar o argumento. Não só a Dinamarca, mas vários países europeus têm listas de vacinas da infância bem mais curtas que a dos EUA. E que no velho continente existem bons sistemas de saúde pública e as doenças infecciosas estão mais contidas do que no novo mundo. Ali, sai bem mais barato diagnosticar e tratar precocemente os poucos casos que surgirão do que vacinar todas as crianças contra moléstias que elas nunca pegarão. E as autoridades sanitárias europeias não padecem do antivacinismo ideológico. Se a situação epidemiológica mudar, as vacinas serão rapidamente incluídas no calendário de imunizações. (Hélio Schwartsman, 30/12/2025. Disponível em:"
-          },
-          {
-            "id": "A",
-            "texto": "crítica do articulista ao argumento de Robert Kennedy Jr. pode ser resumida pelo fato de que"
-          },
-          {
-            "id": "A",
-            "texto": "a redução da lista de vacinas recomendadas pelo governo federal não levaria a um barateamento do tratamento das moléstias infantis nos EUA."
-          },
-          {
-            "id": "B",
-            "texto": "a recomendação do secretário dificultaria o diagnóstico e o tratamento precoce de moléstias, prejudicando ainda mais os indicadores de saúde dos EUA."
-          },
-          {
-            "id": "C",
-            "texto": "a tática do secretário não prevê a rápida inclusão das vacinas no calendário de imunizações no caso de se agravar a situação epidemiológica nos EUA. D o discurso do secretário apresenta um viés ideológico contra as vacinas, carecendo de bom senso e ignorando as autoridades sanitárias dos EUA. E o secretário justifica sua decisão com base em práticas de sistemas de saúde com características muito diferentes daquelas encontradas nos EUA."
-          }
-        ],
-        "resposta_correta": "E",
-        "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [E] ('') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "analise_distratores": [
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'tática de Robert Kennedy Jr., o secretário de Saúde de Trump, para reduzir a lis...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'crítica do articulista ao argumento de Robert Kennedy Jr. pode ser resumida pelo...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'a redução da lista de vacinas recomendadas pelo governo federal não levaria a um...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "B",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'a recomendação do secretário dificultaria o diagnóstico e o tratamento precoce d...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'a tática do secretário não prevê a rápida inclusão das vacinas no calendário de ...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          }
-        ],
-        "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [E] ('') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "id": "FCC_LP0015",
-        "numero_ordem": 15,
-        "numero_simulado": 8
-      },
-      {
-        "codigo_origem": "Q3954790",
-        "numero_original": 181,
-        "banca": "FCC",
-        "orgao": "SEFAZ-SP",
-        "ano": 2026,
-        "prova": "FCC - 2026 - SEFAZ-SP - Auditor Fiscal da Receita Estadual - AFRE - Gestão",
-        "cargo": "Geral",
-        "materia": "Língua Portuguesa",
-        "assunto": "Sintaxe da Oração e do Período",
-        "enunciado": "Tributária - Conhecimentos Gerais (P1) Atenção: Para responder à questão, baseie-se no texto seguinte. Arrependimentos Pentimento é a palavra italiana para arrependimento, mas designa, em muitas línguas, uma pintura, um desenho ou um esboço encoberto pela versão final de um quadro. Ás vezes, com o passar do tempo, a tinta deixa transparecer uma composição em cima da qual o artista pintou uma nova versão. Outras vezes, os raios X dos restauradores desvendam opções anteriores, que permaneceram debaixo da obra final. Esses esboços ou pinturas, que o artista rejeitou e encobriu, são os pentimentos, que foram descartados sem ser propriamente apagados. Visível ou não, o pentimento faz parte do quadro, assim como fazem parte da nossa vida muitas tentações e muitos projetos dos quais desistimos. São restos do passado que, escondidos e não apagados, transparecem no presente, como potencialidades que não foram realizadas, mas que, mesmo assim, integram a nossa história.",
-        "alternativas": [
-          {
-            "id": "A",
-            "texto": "vida é abarrotada de caminhos que deixamos de trilhar; são todos pentimentos encobertos, histórias que não se realizaram. Por que não se realizaram? Em geral, pensamos que nos faltou coragem: não soubemos renunciar às coisas das quais era necessário abdicar para que outras escolhas tivessem uma chance. E é verdade que, quase sempre, desistimos de desejos, paixões e sonhos porque custamos a aceitar que nada se realiza sem perdas: por não querermos perder nada, acabamos perdendo tudo. O problema dos pentimentos é que eles esvaziam a vida que temos. O passado que não se realizou funciona como a miragem da felicidade que teria sido possível se tivéssemos feito a escolha \"certa\". Diante disso, de que adianta qualquer experiência presente? Os pentimentos podem ser maus conselheiros, até porque muitas vezes nós os inventamos como desculpas para OS fracassos do presente. Hoje, é fácil esbarrar em espectros do passado: as redes sociais proporcionam reencontros improváveis e, com isso, criam pentimentos artificiais. Por conta da ação das redes, uma história que foi realmente apagada da memória (não apenas encoberta) pode renascer, como se representasse uma grande potencialidade à qual teríamos renunciado. Os falsos pentimentos, revisitados, são pequenas receitas para o desastre. (Adaptado de: CALLIGARIS, Contardo. Aproveitara vida e suas dores. São Paulo: Planeta do Brasil, 2025, pp. 25-27, passim) Indica-se uma adequada alternativa de redação para o segmento sublinhado na frase:"
-          },
-          {
-            "id": "A",
-            "texto": "A vida é abarrotada de caminhos que deixamos de trilhar = aonde desistimos."
-          },
-          {
-            "id": "B",
-            "texto": "uma grande potencialidade à qual teríamos renunciado = da qual teríamos aberto mão."
-          },
-          {
-            "id": "C",
-            "texto": "a tinta deixa transparecer uma composição em cima da qual o artista pintou uma nova versão = sobre cuja."
-          },
-          {
-            "id": "D",
-            "texto": "fazem parte da nossa vida muitas tentações e muitos projetos dos quais desistimos = de que renunciamos. E coisas das quais era necessário abdicar = pelas quais era preciso abster-se."
-          }
-        ],
-        "resposta_correta": "B",
-        "fundamentacao_correta": "Segundo a sintaxe da norma-padrão (Evanildo Bechara e Celso Cunha), o padrão de cobrança da FCC prioriza a correlação entre regência verbal/nominal, concordância rigorosa com o núcleo do sujeito e transposição entre vozes verbais. A alternativa [B] ('uma grande potencialidade à qual teríamos renunciado = da qual teríamos aberto mão.') atende com exatidão à estrutura sintática correta sem incorrer em desvios de regência ou concordância.",
-        "analise_distratores": [
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'vida é abarrotada de caminhos que deixamos de trilhar; são todos pentimentos enc...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'A vida é abarrotada de caminhos que deixamos de trilhar = aonde desistimos....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'a tinta deixa transparecer uma composição em cima da qual o artista pintou uma n...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "D",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'fazem parte da nossa vida muitas tentações e muitos projetos dos quais desistimo...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          }
-        ],
-        "comentario": "Segundo a sintaxe da norma-padrão (Evanildo Bechara e Celso Cunha), o padrão de cobrança da FCC prioriza a correlação entre regência verbal/nominal, concordância rigorosa com o núcleo do sujeito e transposição entre vozes verbais. A alternativa [B] ('uma grande potencialidade à qual teríamos renunciado = da qual teríamos aberto mão.') atende com exatidão à estrutura sintática correta sem incorrer em desvios de regência ou concordância.",
-        "id": "FCC_LP0001",
-        "numero_ordem": 1,
-        "numero_simulado": 9
-      },
-      {
-        "codigo_origem": "Q3947139",
-        "numero_original": 187,
-        "banca": "FCC",
-        "orgao": "SEFAZ-MT",
-        "ano": 2026,
-        "prova": "FCC - 2026 - SEFAZ-MT - Fiscal de Tributos Estaduais",
-        "cargo": "Geral",
-        "materia": "Língua Portuguesa",
-        "assunto": "Sintaxe da Oração e do Período",
-        "enunciado": "No que concerne à apreciação das coisas, é espantoso que tudo julgando pelas suas qualidades específicas não nos encaremos da mesma maneira. Preservam-se o sentido e a correção da frase acima substituindo-se os elementos sublinhados, na ordem dada, por:",
-        "alternativas": [
-          {
-            "id": "A",
-            "texto": "Ao se falar sobre a - julgue-se tudo - nos juguemos"
-          },
-          {
-            "id": "B",
-            "texto": "Tendo em vista a - julguem a tudo - identificamo-nos"
-          },
-          {
-            "id": "C",
-            "texto": "Quando se trata da - ao julgarmos tudo - nos reconheçamos"
-          },
-          {
-            "id": "D",
-            "texto": "Ao que tange na - por julgar em tudo - admitimo-nos"
-          },
-          {
-            "id": "E",
-            "texto": "No respeito da - tendo tudo julgado - nos confrontemos"
-          }
-        ],
-        "resposta_correta": "C",
-        "fundamentacao_correta": "Segundo a sintaxe da norma-padrão (Evanildo Bechara e Celso Cunha), o padrão de cobrança da FCC prioriza a correlação entre regência verbal/nominal, concordância rigorosa com o núcleo do sujeito e transposição entre vozes verbais. A alternativa [C] ('Quando se trata da - ao julgarmos tudo - nos reconheçamos') atende com exatidão à estrutura sintática correta sem incorrer em desvios de regência ou concordância.",
-        "analise_distratores": [
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Ao se falar sobre a - julgue-se tudo - nos juguemos...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "B",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Tendo em vista a - julguem a tudo - identificamo-nos...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "D",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Ao que tange na - por julgar em tudo - admitimo-nos...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "E",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'No respeito da - tendo tudo julgado - nos confrontemos...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          }
-        ],
-        "comentario": "Segundo a sintaxe da norma-padrão (Evanildo Bechara e Celso Cunha), o padrão de cobrança da FCC prioriza a correlação entre regência verbal/nominal, concordância rigorosa com o núcleo do sujeito e transposição entre vozes verbais. A alternativa [C] ('Quando se trata da - ao julgarmos tudo - nos reconheçamos') atende com exatidão à estrutura sintática correta sem incorrer em desvios de regência ou concordância.",
-        "id": "FCC_LP0007",
-        "numero_ordem": 7,
-        "numero_simulado": 10
-      },
-      {
         "codigo_origem": "Q3916789",
         "numero_original": 194,
         "banca": "FCC",
         "orgao": "SEFAZ-SP",
         "ano": 2026,
         "prova": "FCC - 2026 - SEFAZ-SP - Auditor Fiscal da Receita Estadual - AFRE - Tecnologia",
-        "cargo": "Geral",
+        "cargo": "Cargos Diversos (Superior/Médio)",
         "materia": "Língua Portuguesa",
         "assunto": "Sintaxe da Oração e do Período",
         "enunciado": "da Informação e Comunicação - Conhecimentos Gerais (P1) O analfabetismo em matemática, uma incapacidade de lidar confortavelmente com as noções fundamentais de número e probabilidade, atormenta grande quantidade de cidadãos esclarecidos sob outros aspectos. As mesmas pessoas que têm arrepios quando palavras como \"implicar\" e “inferir” são confundidas, reagem sem o menor sinal de embaraço até aos mais egrégios solecismos numéricos. Lembro-me de que, certa noite, ouvi uma pessoa numa festa deitando falação sobre a diferença entre \"continuamente\" e \"ininterruptamente\". Mais tarde, naquela mesma noite, estávamos vendo o noticiário na tevê, e o serviço de previsão do tempo anunciou que havia uma probabilidade de 50% de chover no sábado e 50% de chover no domingo, concluindo que havia, portanto, 100% de probabilidade de chover no fim de semana. O comentário foi muito bem-aceito pelo pretenso gramático. Mesmo depois que lhe expliquei o erro, ele não ficou nem de longe tão indignado quanto teria ficado se o locutor tivesse cometido um erro com o sujeito de uma reduzida participial. De fato, ao contrário de outras deficiências, que são disfarçadas, o analfabetismo matemático é frequentemente alardeado: [...] \"Gosto de pessoas, não de números.\" Ou: \"Sempre odiei matemática.” Parte da razão desse orgulho obstinado pelo analfabetismo em matemática é que, em geral, suas consequências não são tão óbvias como as de outra natureza. Por isso, e porque acredito firmemente que as pessoas reagem melhor a detalhes ilustrativos do que a uma exposição geral, este livro examinará muitos exemplos reais de analfabetismo em matemática - entre eles, trapaças com ações, escolha de uma esposa, psicologia de jornal, afirmações sobre dieta e medicina, o risco do terrorismo, astrologia, recordes esportivos, eleições, [...] loterias e testes de drogas. (PAULOS, John Allen. Analfabetismo em matemática e suas consequências. Rio de Janeiro: Nova Fronteira, 1994) De acordo com a argumentação do autor, a causa do problema apresentado por ele no texto é",
@@ -7213,145 +6633,261 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "B",
-        "fundamentacao_correta": "Segundo a sintaxe da norma-padrão (Evanildo Bechara e Celso Cunha), o padrão de cobrança da FCC prioriza a correlação entre regência verbal/nominal, concordância rigorosa com o núcleo do sujeito e transposição entre vozes verbais. A alternativa [B] ('a dificuldade de perceber as implicações da falta de familiaridade de muitas pessoas com ideias matemáticas básicas.') atende com exatidão à estrutura sintática correta sem incorrer em desvios de regência ou concordância.",
+        "fundamentacao_correta": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('a dificuldade de perceber as implicações da falta de familiaridade de muitas pessoas com ideias matemáticas básicas.') constrói a estrutura sintática de forma impecável e harmoniosa.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'a preferência das pessoas por exposições gerais dos enganos matemáticos em lugar...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'a preferência das pessoas por exposições gerais dos enganos matemáticos em lugar...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'a incapacidade de parte da população com nível de escolaridade alto de compreend...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'a incapacidade de parte da população com nível de escolaridade alto de compreend...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'a rivalidade existente entre gramáticos e matemáticos, que tendem a considerar a...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'a rivalidade existente entre gramáticos e matemáticos, que tendem a considerar a...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'a arrogância das pessoas que dominam profundamente a língua, mas se envaidecem d...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'a arrogância das pessoas que dominam profundamente a língua, mas se envaidecem d...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           }
         ],
-        "comentario": "Segundo a sintaxe da norma-padrão (Evanildo Bechara e Celso Cunha), o padrão de cobrança da FCC prioriza a correlação entre regência verbal/nominal, concordância rigorosa com o núcleo do sujeito e transposição entre vozes verbais. A alternativa [B] ('a dificuldade de perceber as implicações da falta de familiaridade de muitas pessoas com ideias matemáticas básicas.') atende com exatidão à estrutura sintática correta sem incorrer em desvios de regência ou concordância.",
-        "id": "FCC_LP0013",
-        "numero_ordem": 13,
-        "numero_simulado": 11
+        "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('a dificuldade de perceber as implicações da falta de familiaridade de muitas pessoas com ideias matemáticas básicas.') constrói a estrutura sintática de forma impecável e harmoniosa.",
+        "id": "FCC_LP0014",
+        "numero_ordem": 14,
+        "numero_simulado": 1
       },
       {
-        "codigo_origem": "Q3916767",
-        "numero_original": 197,
+        "codigo_origem": "Q3883917",
+        "numero_original": 249,
         "banca": "FCC",
-        "orgao": "SEFAZ-SP",
+        "orgao": "ARTESP",
         "ano": 2026,
-        "prova": "FCC - 2026 - SEFAZ-SP - Auditor Fiscal da Receita Estadual - AFRE - Tecnologia",
-        "cargo": "Geral",
+        "prova": "FCC - 2026 - ARTESP - Agente de Fiscalização à Regulação do Transporte",
+        "cargo": "Cargos Diversos (Superior/Médio)",
         "materia": "Língua Portuguesa",
         "assunto": "Sintaxe da Oração e do Período",
-        "enunciado": "da Informação e Comunicação - Conhecimentos Gerais (P1) Atenção: Para responder à questão, baseie-se no texto seguinte. Uma escolha para viver Li em algum lugar uma fábula interessante. Sem ser literal, preservo o sentido que me ficou dela. Na Criação do mundo, um dos intendentes do Céu foi encarregado de definir o tempo de vida que cada espécie deveria ter. Disse o intendente para a Tartaruga: - Você se dá bem com essa couraça, com essa neutralidade, com essa indiferença aos homens... Vai durar muitos e muitos anos. Diante do Papagaio, sentenciou: – Essa ideia de plagiar os humanos, imitando-os e gozando-os, divertindo-os e divertindo-se, faz de você um malandrão... Bem merece uma vida longa.",
+        "enunciado": "As normas de concordância verbal estão plenamente observadas na frase:",
         "alternativas": [
+          {
+            "id": "A",
+            "texto": "De todas as vaidades que haveriam entre nós, a pior é a que se afirma sem razão de ser."
+          },
+          {
+            "id": "B",
+            "texto": "Não cabem às pessoas vaidosas buscarem se afirmar apenas pelo que se julgam ser."
+          },
+          {
+            "id": "C",
+            "texto": "Distinga-se, para a caracterização da vaidade, as razões que estariam na base desse sentimento."
+          },
+          {
+            "id": "D",
+            "texto": "A vaidade que a todos nos assalta é dos sentimentos o que mais nos aflige."
+          },
           {
             "id": "E",
-            "texto": "assim foi seguindo o intendente, dotando as criaturas da longevidade que lhe parecia justa, a partir do critério adotado. Chegou a vez do Cachorro. O intendente, surpreso, olhou bem nos olhos dele, avaliou seu temperamento, reconheceu suas intenções e não teve dúvida: - Quer dizer que você já decidiu ser amigo incondicional dos homens? Permanecerá como companheiro fiel até dos que pouсо venham a se importar com você? E seguirá os andarilhos nas estradas, se estreitará com os miseráveis nos cantos e nos becos, irá morar com os viciados sob as pontes? Pois então vou te aquinhoar com uns poucos anos: que tua virtude valha teu sacrifício. Assim sentenciado, o Cachorro abanou o rabo e olhou em volta, irrequieto, à procura de um amigo humano. Dispunha-se a ficar ao lado dele, fosse quem fosse: iria consolá-lo das aflições que viesse a sentir, compartilharia com ele as pequenas alegrias, enfrentaria com ele as chateações deste mundo. (Alarico Valado, a editar) As normas de concordância verbal estão plenamente observadas na frase:"
-          },
-          {
-            "id": "A",
-            "texto": "Avulta, entre as qualidades do Cachorro, a associação de virtudes como a generosidade, a empatia e o estoicismo."
-          },
-          {
-            "id": "B",
-            "texto": "São de rigor haver nos moldes clássicos de uma fábula passagens simbólicas de que resultam sua moralidade."
-          },
-          {
-            "id": "C",
-            "texto": "Não haverá de primar por justiça, tal como ocorre nessa fábula, critérios que abonem uma inclinação egoísta."
-          },
-          {
-            "id": "D",
-            "texto": "O que mais sobressaem nas virtudes com que se compromete o Cachorro é a incondicionalidade de que se nutrem. E Não interessam à Tartaruga e ao Papagaio, diferentemente do Cachorro, mostrar-se compassivos com o Homem."
-          }
-        ],
-        "resposta_correta": "A",
-        "fundamentacao_correta": "Segundo a sintaxe da norma-padrão (Evanildo Bechara e Celso Cunha), o padrão de cobrança da FCC prioriza a correlação entre regência verbal/nominal, concordância rigorosa com o núcleo do sujeito e transposição entre vozes verbais. A alternativa [A] ('Avulta, entre as qualidades do Cachorro, a associação de virtudes como a generosidade, a empatia e o estoicismo.') atende com exatidão à estrutura sintática correta sem incorrer em desvios de regência ou concordância.",
-        "analise_distratores": [
-          {
-            "letra": "E",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'assim foi seguindo o intendente, dotando as criaturas da longevidade que lhe par...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "B",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'São de rigor haver nos moldes clássicos de uma fábula passagens simbólicas de qu...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Não haverá de primar por justiça, tal como ocorre nessa fábula, critérios que ab...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "D",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'O que mais sobressaem nas virtudes com que se compromete o Cachorro é a incondic...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          }
-        ],
-        "comentario": "Segundo a sintaxe da norma-padrão (Evanildo Bechara e Celso Cunha), o padrão de cobrança da FCC prioriza a correlação entre regência verbal/nominal, concordância rigorosa com o núcleo do sujeito e transposição entre vozes verbais. A alternativa [A] ('Avulta, entre as qualidades do Cachorro, a associação de virtudes como a generosidade, a empatia e o estoicismo.') atende com exatidão à estrutura sintática correta sem incorrer em desvios de regência ou concordância.",
-        "id": "FCC_LP0016",
-        "numero_ordem": 16,
-        "numero_simulado": 12
-      },
-      {
-        "codigo_origem": "Q3916763",
-        "numero_original": 198,
-        "banca": "FCC",
-        "orgao": "SEFAZ-SP",
-        "ano": 2026,
-        "prova": "FCC - 2026 - SEFAZ-SP - Auditor Fiscal da Receita Estadual - AFRE - Tecnologia",
-        "cargo": "Geral",
-        "materia": "Língua Portuguesa",
-        "assunto": "Sintaxe da Oração e do Período",
-        "enunciado": "da Informação e Comunicação - Conhecimentos Gerais (P1) Atenção: Para responder à questão, baseie-se no texto seguinte. Ter atenção, poder analisar No latim, a palavra auditor indica \"o que ouve\", sobretudo aquele que ouve com atenção, derivada do verbo audio, que é estar com os ouvidos atentos. Numa acepção mais técnica, auditor indicava o responsável por ouvir e analisar os atos de um administrador, quando este expunha oralmente as atividades por que fosse responsável. Depois, o termo se estendeu para quem julga a documentação escrita de atividades financeiras, escolhas administrativas, relatórios, prestação de contas etc. Também se chama audição o momento em que alguém, desejando atuar numa peça teatral, num filme, num evento artístico, numa gravação, submete-se à comprovação de um talento específico desejável. Também aqui o auditor (produtor, diretor, responsável pelo futuro espetáculo) é aquele que olhará e ouvirá com atenção o desempenho do ou da postulante. Permanece a tarefa final de um veredito, com a responsabilidade implícita de uma avaliação criteriosa. O verbo audio, no dicionário latino, está muito perto do verbo audeo, que significa ousar, ter a audácia de aventurar-se.",
-        "alternativas": [
-          {
-            "id": "A",
-            "texto": "proximidade das palavras é caprichosa, mas também pode ser insinuante e provocadora. Neste caso de audio / audeo parece estar de algum modo presente uma advertência singela: a quem se empenha em julgar o que ouve ou vê, cabe ouvir e ver muito bem, de modo aplicado. Ainda para ficarmos no latim, podemos lembrar a conhecida expressão “sapere aude\", que significa “ouse saber”, isto é, “ouse pensar por si mesmo\" (Kant). Que aproveitemos, pois, a lição de ousadia do saber conhecer e do saber ouvir para bem analisar pessoas e fatos. As palavras podem ser sugestivas e inspiradoras em seus mais casuais entrelaçamentos. (Alcebíades Villares, a editar) Está correta a seguinte observação acerca do emprego de um elemento do texto:"
-          },
-          {
-            "id": "A",
-            "texto": "A expressão Ainda para ficarmos no latim (4º parágrafo) deve ser entendida como ao retificarmos esse uso do latim."
-          },
-          {
-            "id": "B",
-            "texto": "Transpondo para a voz passiva o verbo da frase Que aproveitemos, pois, a lição de ousadia, a forma resultante será tenhamos aproveitado."
-          },
-          {
-            "id": "C",
-            "texto": "Na expressão A proximidade das palavras é caprichosa (3º parágrafo), o termo sublinhado está no sentido de desleixada."
-          },
-          {
-            "id": "D",
-            "texto": "Em com a responsabilidade implícita de uma avaliação criteriosa (2º parágrafo), considera-se tácita a responsabilidade de se avaliar algo com critério. E Ao se atribuir à ordenação das palavras num dicionário qualidades como insinuante e provocadora (3º parágrafo), esses adjetivos estão empregados com valor denotativo, ou literal."
+            "texto": "Entre os clássicos tipos de vaidade seriam preciso distinguir os mais comprometedores."
           }
         ],
         "resposta_correta": "D",
-        "fundamentacao_correta": "Segundo a sintaxe da norma-padrão (Evanildo Bechara e Celso Cunha), o padrão de cobrança da FCC prioriza a correlação entre regência verbal/nominal, concordância rigorosa com o núcleo do sujeito e transposição entre vozes verbais. A alternativa [D] ('Em com a responsabilidade implícita de uma avaliação criteriosa (2º parágrafo), considera-se tácita a responsabilidade de se avaliar algo com critério. E Ao se atribuir à ordenação das palavras num dicionário qualidades como insinuante e provocadora (3º parágrafo), esses adjetivos estão empregados com valor denotativo, ou literal.') atende com exatidão à estrutura sintática correta sem incorrer em desvios de regência ou concordância.",
+        "fundamentacao_correta": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('A vaidade que a todos nos assalta é dos sentimentos o que mais nos aflige.') constrói a estrutura sintática de forma impecável e harmoniosa.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'proximidade das palavras é caprichosa, mas também pode ser insinuante e provocad...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'A expressão Ainda para ficarmos no latim (4º parágrafo) deve ser entendida como ...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'De todas as vaidades que haveriam entre nós, a pior é a que se afirma sem razão ...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Transpondo para a voz passiva o verbo da frase Que aproveitemos, pois, a lição d...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Não cabem às pessoas vaidosas buscarem se afirmar apenas pelo que se julgam ser....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Na expressão A proximidade das palavras é caprichosa (3º parágrafo), o termo sub...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Distinga-se, para a caracterização da vaidade, as razões que estariam na base de...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          },
+          {
+            "letra": "E",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Entre os clássicos tipos de vaidade seriam preciso distinguir os mais compromete...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           }
         ],
-        "comentario": "Segundo a sintaxe da norma-padrão (Evanildo Bechara e Celso Cunha), o padrão de cobrança da FCC prioriza a correlação entre regência verbal/nominal, concordância rigorosa com o núcleo do sujeito e transposição entre vozes verbais. A alternativa [D] ('Em com a responsabilidade implícita de uma avaliação criteriosa (2º parágrafo), considera-se tácita a responsabilidade de se avaliar algo com critério. E Ao se atribuir à ordenação das palavras num dicionário qualidades como insinuante e provocadora (3º parágrafo), esses adjetivos estão empregados com valor denotativo, ou literal.') atende com exatidão à estrutura sintática correta sem incorrer em desvios de regência ou concordância.",
-        "id": "FCC_LP0017",
-        "numero_ordem": 17,
-        "numero_simulado": 13
+        "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('A vaidade que a todos nos assalta é dos sentimentos o que mais nos aflige.') constrói a estrutura sintática de forma impecável e harmoniosa.",
+        "id": "FCC_LP0069",
+        "numero_ordem": 69,
+        "numero_simulado": 2
+      },
+      {
+        "codigo_origem": "Q3872082",
+        "numero_original": 279,
+        "banca": "FCC",
+        "orgao": "CPU-PE",
+        "ano": 2026,
+        "prova": "FCC - 2026 - CPU-PE - Assistente em Gestão Ambiental - Especialidade:",
+        "cargo": "Cargos Diversos (Superior/Médio)",
+        "materia": "Língua Portuguesa",
+        "assunto": "Sintaxe da Oração e do Período",
+        "enunciado": "Exerce a função sintática de sujeito o termo sublinhado na seguinte oração:",
+        "alternativas": [
+          {
+            "id": "A",
+            "texto": "Não precisaria de muitas ferramentas (3º parágrafo)."
+          },
+          {
+            "id": "B",
+            "texto": "Dirigiu-se à repartição (4º parágrafo)."
+          },
+          {
+            "id": "C",
+            "texto": "Esse dia finalmente chegou (2º parágrafo)."
+          },
+          {
+            "id": "D",
+            "texto": "Abílio tinha um sonho (1º parágrafo)."
+          },
+          {
+            "id": "E",
+            "texto": "Sobreveio uma infecção (4º parágrafo)."
+          }
+        ],
+        "resposta_correta": "E",
+        "fundamentacao_correta": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [E] ('Sobreveio uma infecção (4º parágrafo).') constrói a estrutura sintática de forma impecável e harmoniosa.",
+        "analise_distratores": [
+          {
+            "letra": "A",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Não precisaria de muitas ferramentas (3º parágrafo)....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          },
+          {
+            "letra": "B",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Dirigiu-se à repartição (4º parágrafo)....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          },
+          {
+            "letra": "C",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Esse dia finalmente chegou (2º parágrafo)....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          },
+          {
+            "letra": "D",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Abílio tinha um sonho (1º parágrafo)....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          }
+        ],
+        "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [E] ('Sobreveio uma infecção (4º parágrafo).') constrói a estrutura sintática de forma impecável e harmoniosa.",
+        "id": "FCC_LP0099",
+        "numero_ordem": 99,
+        "numero_simulado": 3
+      },
+      {
+        "codigo_origem": "Q3872074",
+        "numero_original": 287,
+        "banca": "FCC",
+        "orgao": "CPU-PE",
+        "ano": 2026,
+        "prova": "FCC - 2026 - CPU-PE - Assistente em Gestão Ambiental - Especialidade:",
+        "cargo": "Cargos Diversos (Superior/Médio)",
+        "materia": "Língua Portuguesa",
+        "assunto": "Sintaxe da Oração e do Período",
+        "enunciado": "um ou dois ajudantes resolveriam o problema (3º parágrafo). Ao se transpor o trecho acima para a voz passiva, a forma verbal resultante será:",
+        "alternativas": [
+          {
+            "id": "A",
+            "texto": "era resolvido."
+          },
+          {
+            "id": "B",
+            "texto": "fora resolvido."
+          },
+          {
+            "id": "C",
+            "texto": "seria resolvido."
+          },
+          {
+            "id": "D",
+            "texto": "foi resolvido."
+          },
+          {
+            "id": "E",
+            "texto": "fosse resolvido."
+          }
+        ],
+        "resposta_correta": "C",
+        "fundamentacao_correta": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [C] ('seria resolvido.') constrói a estrutura sintática de forma impecável e harmoniosa.",
+        "analise_distratores": [
+          {
+            "letra": "A",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'era resolvido....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          },
+          {
+            "letra": "B",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'fora resolvido....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          },
+          {
+            "letra": "D",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'foi resolvido....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          },
+          {
+            "letra": "E",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'fosse resolvido....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          }
+        ],
+        "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [C] ('seria resolvido.') constrói a estrutura sintática de forma impecável e harmoniosa.",
+        "id": "FCC_LP0107",
+        "numero_ordem": 107,
+        "numero_simulado": 4
+      },
+      {
+        "codigo_origem": "Q3871906",
+        "numero_original": 304,
+        "banca": "FCC",
+        "orgao": "CPU-PE",
+        "ano": 2026,
+        "prova": "FCC - 2026 - CPU-PE - Gestor Governamental - Especialidade: Planejamento,",
+        "cargo": "Cargos Diversos (Superior/Médio)",
+        "materia": "Língua Portuguesa",
+        "assunto": "Sintaxe da Oração e do Período",
+        "enunciado": "Orçamento e Gestão As normas de concordância verbal estão plenamente observadas na frase:",
+        "alternativas": [
+          {
+            "id": "A",
+            "texto": "Costumam ignorar as condições mínimas de sustentabilidade quem julga as finanças empresariais mais importantes do que a vida."
+          },
+          {
+            "id": "B",
+            "texto": "Planejar construções atendendo às condições de sustentabilidade deve constituir uma das prioridades da arquitetura."
+          },
+          {
+            "id": "C",
+            "texto": "Não devem faltar entre as preocupações dos urbanistas o essencial atendimento aos requisitos da sustentabilidade."
+          },
+          {
+            "id": "D",
+            "texto": "Desafiam os ambientalistas responsáveis o fato de que construtoras se valem de subterfúgios para burlarem as leis."
+          },
+          {
+            "id": "E",
+            "texto": "É costume que se acuse os ambientalistas de pretenderem frear o andamento dos passos que requerem a multiplicação do capital."
+          }
+        ],
+        "resposta_correta": "B",
+        "fundamentacao_correta": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('Planejar construções atendendo às condições de sustentabilidade deve constituir uma das prioridades da arquitetura.') constrói a estrutura sintática de forma impecável e harmoniosa.",
+        "analise_distratores": [
+          {
+            "letra": "A",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Costumam ignorar as condições mínimas de sustentabilidade quem julga as finanças...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          },
+          {
+            "letra": "C",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Não devem faltar entre as preocupações dos urbanistas o essencial atendimento ao...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          },
+          {
+            "letra": "D",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Desafiam os ambientalistas responsáveis o fato de que construtoras se valem de s...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          },
+          {
+            "letra": "E",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'É costume que se acuse os ambientalistas de pretenderem frear o andamento dos pa...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          }
+        ],
+        "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('Planejar construções atendendo às condições de sustentabilidade deve constituir uma das prioridades da arquitetura.') constrói a estrutura sintática de forma impecável e harmoniosa.",
+        "id": "FCC_LP0124",
+        "numero_ordem": 124,
+        "numero_simulado": 5
       },
       {
         "codigo_origem": "Q3947134",
@@ -7360,7 +6896,7 @@ export const SIMULADOS_OFICIAIS = [
         "orgao": "SEFAZ-MT",
         "ano": 2026,
         "prova": "FCC - 2026 - SEFAZ-MT - Fiscal de Tributos Estaduais",
-        "cargo": "Geral",
+        "cargo": "Cargos Diversos (Superior/Médio)",
         "materia": "Língua Portuguesa",
         "assunto": "Semântica e Significação das Palavras",
         "enunciado": "Considerando-se o contexto, traduz-se adequadamente o sentido de um segmento do texto em:",
@@ -7387,87 +6923,87 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "A",
-        "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [A] ('Fica comigo a memória da memória que era minha (3º parágrafo) = conservo a lembrança do meu modo de lembrar.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
+        "fundamentacao_correta": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('Fica comigo a memória da memória que era minha (3º parágrafo) = conservo a lembrança do meu modo de lembrar.') preserva o sentido original e a coerência semântica do trecho em análise.",
         "analise_distratores": [
           {
             "letra": "B",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'a digitalização computacional suprime as franjas e as sombras (3º parágrafo) = a...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'a digitalização computacional suprime as franjas e as sombras (3º parágrafo) = a...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'um passado que dava por perdido (1º parágrafo) = me ocorria por meio de uma perd...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'um passado que dava por perdido (1º parágrafo) = me ocorria por meio de uma perd...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'nesse repertório inesgotável de sensações (2º parágrafo) = em tal mostruário de ...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'nesse repertório inesgotável de sensações (2º parágrafo) = em tal mostruário de ...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Faltava às lembranças digitalizadas a hesitação (2º parágrafo) = não restava a d...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Faltava às lembranças digitalizadas a hesitação (2º parágrafo) = não restava a d...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           }
         ],
-        "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [A] ('Fica comigo a memória da memória que era minha (3º parágrafo) = conservo a lembrança do meu modo de lembrar.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "id": "FCC_LP0010",
-        "numero_ordem": 10,
-        "numero_simulado": 14
+        "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('Fica comigo a memória da memória que era minha (3º parágrafo) = conservo a lembrança do meu modo de lembrar.') preserva o sentido original e a coerência semântica do trecho em análise.",
+        "id": "FCC_LP0011",
+        "numero_ordem": 11,
+        "numero_simulado": 6
       },
       {
-        "codigo_origem": "Q3916742",
-        "numero_original": 212,
+        "codigo_origem": "Q3916761",
+        "numero_original": 200,
         "banca": "FCC",
         "orgao": "SEFAZ-SP",
         "ano": 2026,
         "prova": "FCC - 2026 - SEFAZ-SP - Auditor Fiscal da Receita Estadual - AFRE - Tecnologia",
-        "cargo": "Geral",
+        "cargo": "Cargos Diversos (Superior/Médio)",
         "materia": "Língua Portuguesa",
         "assunto": "Semântica e Significação das Palavras",
-        "enunciado": "da Informação e Comunicação - Conhecimentos Gerais (P1) Considerando-se o contexto, traduz-se adequadamente o sentido de um segmento do texto em:",
+        "enunciado": "da Informação e Comunicação - Conhecimentos Gerais (P1) [...] a quem se empenha em julgar o que ouve ou vê, cabe ouvir e ver muito bem, de modo aplicado. A frase acima permanecerá correta e terá seu sentido básico preservado caso se substituam os elementos sublinhados, ordem dada, por:",
         "alternativas": [
           {
             "id": "A",
-            "texto": "desvendam opções anteriores (1º parágrafo) = instituem escolhas prévias."
+            "texto": "com quem - demanda-se para que ouça e veja"
           },
           {
             "id": "B",
-            "texto": "potencialidades que não foram realizadas (2º parágrafo) = energias apenas disseminadas."
+            "texto": "por quem - que se cuide de ouvir e ver"
           },
           {
             "id": "C",
-            "texto": "para que outras escolhas tivessem uma chance (3º parágrafo) = em função de opções alternadas."
+            "texto": "para quem - há de se preocupar em que ouça e veja"
           },
           {
             "id": "D",
-            "texto": "funciona como a miragem da felicidade (4º parágrafo) = opera ao modo de uma insinuação feliz."
+            "texto": "de quem - espera-se que ouça e veja"
           },
           {
             "id": "E",
-            "texto": "é fácil esbarrar em espectros do passado (4º parágrafo) = é comum confrontar com antigos fantasmas."
+            "texto": "em quem obrigue-se de ouvir ou ver"
           }
         ],
-        "resposta_correta": "E",
-        "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [E] ('é fácil esbarrar em espectros do passado (4º parágrafo) = é comum confrontar com antigos fantasmas.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
+        "resposta_correta": "D",
+        "fundamentacao_correta": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('de quem - espera-se que ouça e veja') preserva o sentido original e a coerência semântica do trecho em análise.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'desvendam opções anteriores (1º parágrafo) = instituem escolhas prévias....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'com quem - demanda-se para que ouça e veja...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'potencialidades que não foram realizadas (2º parágrafo) = energias apenas dissem...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'por quem - que se cuide de ouvir e ver...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'para que outras escolhas tivessem uma chance (3º parágrafo) = em função de opçõe...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'para quem - há de se preocupar em que ouça e veja...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
-            "letra": "D",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'funciona como a miragem da felicidade (4º parágrafo) = opera ao modo de uma insi...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "letra": "E",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'em quem obrigue-se de ouvir ou ver...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           }
         ],
-        "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [E] ('é fácil esbarrar em espectros do passado (4º parágrafo) = é comum confrontar com antigos fantasmas.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "id": "FCC_LP0031",
-        "numero_ordem": 31,
-        "numero_simulado": 15
+        "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('de quem - espera-se que ouça e veja') preserva o sentido original e a coerência semântica do trecho em análise.",
+        "id": "FCC_LP0020",
+        "numero_ordem": 20,
+        "numero_simulado": 7
       },
       {
         "codigo_origem": "Q3947140",
@@ -7476,7 +7012,7 @@ export const SIMULADOS_OFICIAIS = [
         "orgao": "SEFAZ-MT",
         "ano": 2026,
         "prova": "FCC - 2026 - SEFAZ-MT - Fiscal de Tributos Estaduais",
-        "cargo": "Geral",
+        "cargo": "Cargos Diversos (Superior/Médio)",
         "materia": "Língua Portuguesa",
         "assunto": "Morfologia - Tempos e Modos Verbais",
         "enunciado": "Há adequada correlação entre os tempos e modos verbais na frase:",
@@ -7503,145 +7039,145 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "E",
-        "fundamentacao_correta": "A correlação verbal constitui um dos temas mais prestigiados pela FCC. Os tempos do indicativo e do subjuntivo devem harmonizar-se no período composto. A alternativa [E] ('Os cortesãos teriam elogiado o imperador Juliano pelas qualidades que este demonstrara.') expressa com precisão a atitude comunicativa e a correlação temporal exigida no enunciado.",
+        "fundamentacao_correta": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [E] ('Os cortesãos teriam elogiado o imperador Juliano pelas qualidades que este demonstrara.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Se um homem não tivesse valor próprio tampouco nem mesmo um império o valorizará...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Se um homem não tivesse valor próprio tampouco nem mesmo um império o valorizará...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'O valor das virtudes estará sempre na dependência de quem se sacrificasse ao exe...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'O valor das virtudes estará sempre na dependência de quem se sacrificasse ao exe...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Uma vez que não elogiemos um cavalo por seus arreios, não há por que nos coubess...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Uma vez que não elogiemos um cavalo por seus arreios, não há por que nos coubess...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Achareis grande esse homem tão somente pela altura do pedestal em que se apoiass...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Achareis grande esse homem tão somente pela altura do pedestal em que se apoiass...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           }
         ],
-        "comentario": "A correlação verbal constitui um dos temas mais prestigiados pela FCC. Os tempos do indicativo e do subjuntivo devem harmonizar-se no período composto. A alternativa [E] ('Os cortesãos teriam elogiado o imperador Juliano pelas qualidades que este demonstrara.') expressa com precisão a atitude comunicativa e a correlação temporal exigida no enunciado.",
+        "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [E] ('Os cortesãos teriam elogiado o imperador Juliano pelas qualidades que este demonstrara.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
         "id": "FCC_LP0006",
         "numero_ordem": 6,
-        "numero_simulado": 16
+        "numero_simulado": 8
       },
       {
-        "codigo_origem": "Q3916760",
-        "numero_original": 201,
+        "codigo_origem": "Q3916758",
+        "numero_original": 203,
         "banca": "FCC",
         "orgao": "SEFAZ-SP",
         "ano": 2026,
         "prova": "FCC - 2026 - SEFAZ-SP - Auditor Fiscal da Receita Estadual - AFRE - Tecnologia",
-        "cargo": "Geral",
+        "cargo": "Cargos Diversos (Superior/Médio)",
         "materia": "Língua Portuguesa",
         "assunto": "Morfologia - Tempos e Modos Verbais",
-        "enunciado": "da Informação e Comunicação - Conhecimentos Gerais (P1) Atenção: Para responder à questão, baseie-se no texto seguinte. Ter atenção, poder analisar No latim, a palavra auditor indica \"o que ouve\", sobretudo aquele que ouve com atenção, derivada do verbo audio, que é estar com os ouvidos atentos. Numa acepção mais técnica, auditor indicava o responsável por ouvir e analisar os atos de um administrador, quando este expunha oralmente as atividades por que fosse responsável. Depois, o termo se estendeu para quem julga a documentação escrita de atividades financeiras, escolhas administrativas, relatórios, prestação de contas etc. Também se chama audição o momento em que alguém, desejando atuar numa peça teatral, num filme, num evento artístico, numa gravação, submete-se à comprovação de um talento específico desejável. Também aqui o auditor (produtor, diretor, responsável pelo futuro espetáculo) é aquele que olhará e ouvirá com atenção o desempenho do ou da postulante. Permanece a tarefa final de um veredito, com a responsabilidade implícita de uma avaliação criteriosa. O verbo audio, no dicionário latino, está muito perto do verbo audeo, que significa ousar, ter a audácia de aventurar-se.",
+        "enunciado": "da Informação e Comunicação - Conhecimentos Gerais (P1) O verbo ouvir está empregado num sentido homólogo ao do desempenho funcional de um auditor em:",
         "alternativas": [
           {
             "id": "A",
-            "texto": "proximidade das palavras é caprichosa, mas também pode ser insinuante e provocadora. Neste caso de audio / audeo parece estar de algum modo presente uma advertência singela: a quem se empenha em julgar o que ouve ou vê, cabe ouvir e ver muito bem, de modo aplicado. Ainda para ficarmos no latim, podemos lembrar a conhecida expressão “sapere aude\", que significa “ouse saber”, isto é, “ouse pensar por si mesmo\" (Kant). Que aproveitemos, pois, a lição de ousadia do saber conhecer e do saber ouvir para bem analisar pessoas e fatos. As palavras podem ser sugestivas e inspiradoras em seus mais casuais entrelaçamentos. (Alcebíades Villares, a editar) Quando a expressão latina sapere aude (ouse saber) ganhou com Kant o sentido de ouse pensar por si mesmo, o filósofo acentuou a necessidade de que"
-          },
-          {
-            "id": "A",
-            "texto": "as ideias tenham a importância das palavras que as transportam."
+            "texto": "Seria preciso que se ouvissem as partes antes do encerramento da sessão."
           },
           {
             "id": "B",
-            "texto": "a consciência individual agencie a vitalidade da elaboração das ideias."
+            "texto": "Ele se dispõe a ouvir sonatas antes de se concentrar em seus cálculos."
           },
           {
             "id": "C",
-            "texto": "um auditor leal atente para o compartilhamento das razões assumidas."
+            "texto": "Minhas primas esperam ardentemente que suas preces sejam ouvidas."
           },
           {
             "id": "D",
-            "texto": "a ousadia de pensar por si mesmo suponha o plano das verdades insofismáveis. E a racionalidade preserve-se na objetividade de critérios defensáveis."
-          }
-        ],
-        "resposta_correta": "B",
-        "fundamentacao_correta": "A correlação verbal constitui um dos temas mais prestigiados pela FCC. Os tempos do indicativo e do subjuntivo devem harmonizar-se no período composto. A alternativa [B] ('a consciência individual agencie a vitalidade da elaboração das ideias.') expressa com precisão a atitude comunicativa e a correlação temporal exigida no enunciado.",
-        "analise_distratores": [
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'proximidade das palavras é caprichosa, mas também pode ser insinuante e provocad...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "texto": "Ele sempre deixou claro seu desinteresse em ouvir tais aconselhamentos."
           },
           {
-            "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'as ideias tenham a importância das palavras que as transportam....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "id": "E",
+            "texto": "A atenção com que ele nos ouve é um mero efeito de sua dissimulação."
+          }
+        ],
+        "resposta_correta": "A",
+        "fundamentacao_correta": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('Seria preciso que se ouvissem as partes antes do encerramento da sessão.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
+        "analise_distratores": [
+          {
+            "letra": "B",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Ele se dispõe a ouvir sonatas antes de se concentrar em seus cálculos....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'um auditor leal atente para o compartilhamento das razões assumidas....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Minhas primas esperam ardentemente que suas preces sejam ouvidas....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'a ousadia de pensar por si mesmo suponha o plano das verdades insofismáveis. E a...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Ele sempre deixou claro seu desinteresse em ouvir tais aconselhamentos....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          },
+          {
+            "letra": "E",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'A atenção com que ele nos ouve é um mero efeito de sua dissimulação....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           }
         ],
-        "comentario": "A correlação verbal constitui um dos temas mais prestigiados pela FCC. Os tempos do indicativo e do subjuntivo devem harmonizar-se no período composto. A alternativa [B] ('a consciência individual agencie a vitalidade da elaboração das ideias.') expressa com precisão a atitude comunicativa e a correlação temporal exigida no enunciado.",
-        "id": "FCC_LP0020",
-        "numero_ordem": 20,
-        "numero_simulado": 17
+        "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('Seria preciso que se ouvissem as partes antes do encerramento da sessão.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
+        "id": "FCC_LP0023",
+        "numero_ordem": 23,
+        "numero_simulado": 9
       },
       {
-        "codigo_origem": "Q3947142",
-        "numero_original": 184,
+        "codigo_origem": "Q3916749",
+        "numero_original": 208,
         "banca": "FCC",
-        "orgao": "SEFAZ-MT",
+        "orgao": "SEFAZ-SP",
         "ano": 2026,
-        "prova": "FCC - 2026 - SEFAZ-MT - Fiscal de Tributos Estaduais",
-        "cargo": "Geral",
+        "prova": "FCC - 2026 - SEFAZ-SP - Auditor Fiscal da Receita Estadual - AFRE - Tecnologia",
+        "cargo": "Cargos Diversos (Superior/Médio)",
         "materia": "Língua Portuguesa",
         "assunto": "Morfologia - Pronomes e Colocação Pronominal",
-        "enunciado": "Atenção: Para responder à questão, baseie-se no texto seguinte. Da desigualdade entre os homens Disse Plutarco que a diferença entre um animal e outro é menor do que a que vai de um a outro homem. Referia-se ele à alma e às qualidades intelectuais. Por mim, não hesitaria em ser mais peremptório, dizendo que a diferença entre tal e tal homem é maior do que entre tal homem e tal bicho. O espírito humano comporta tantos graus quantas braças vão daqui ao céu. No que concerne à apreciação das coisas, é espantoso que tudo julgando pelas suas qualidades específicas não nos encaremos da mesma maneira. Elogiamos um cavalo por ser vigoroso e ágil, e não por causa do arreio; elogiamos o galgo pela velocidade e não pela coleira; por que, pois, não apreciarmos o homem pelas suas qualidades especificas? É necessário julgar o homem em si e não pelos seus adornos. Como diz espirituosamente um filósofo do passado: \"Sabeis por que achais grande esse homem? Porque o medis com o pedestal.\" Os cortesãos elogiavam de uma feita o imperador Juliano porque se esforçava por ser justo. \"Orgulhar-me-ia de vossas louvações - disse se viessem de pessoas que ousassem denunciar e censurar meus atos, caso me conduzisse de outra maneira.\" Os aduladores de Alexandre, o Grande, repetiam-lhe sem descontinuar que ele era filho de Júpiter. Certa vez, olhando o sangue que Ihe escorria de um ferimento, disse ele: \"Então, que vos parece? Não achais que é um sangue vermelho como o de qualquer ser humano? Ou ele é da cor do sangue que o poeta Homero põe nos ferimentos dos deuses?\" Se um homem não tiver valor próprio não lho dará o império do mundo. Mesmo que as jovens o disputem, que por toda parte nasçam rosas sob seus pés, de que servirá tudo isso se tem a alma grosseira e o espírito lerdo? Sem vigor e sem espírito não se chega a sentira plena felicidade, sequer a volúpia. O valor das coisas depende de quem as possui: boas para os que sabem utilizá-las, são más para quem as emprega mal. Para saborear os bens, quaisquer que sejam os que nos outorga o destino, cumpre ter o bom sentimento que a sensação cria. (Adaptado de: MONTAIGNE, Michel. Ensaios. São Paulo: Editora 34, 2016. p. 287-294, passim) \"Sabeis por que achais grande esse homem? Porque o medis com o pedestal\" (22 parágrafo)",
+        "enunciado": "da Informação e Comunicação - Conhecimentos Gerais (P1) Aos que pleiteiam o poder, Maquiavel oferece a esses postulantes as vantagens de um método político, a principal vantagem desse método está na segura vitória de quem adota tal método de modo inteiramente pragmático. Evitam-se as viciosas repetições do período acima substituindo-se os elementos sublinhados, na ordem dada, por:",
         "alternativas": [
           {
             "id": "A",
-            "texto": "linguagem figurada do segmento sublinhado na frase acima tem como correspondência de sentido, em linguagem denotativa, este enunciado:"
-          },
-          {
-            "id": "A",
-            "texto": "A solidez de um homem tem por base suas discretas qualidades."
+            "texto": "lhes oferece - cuja principal vantagem - o adota"
           },
           {
             "id": "B",
-            "texto": "Avalia-se alguém de modo injusto quando seus defeitos humanos são realçados."
+            "texto": "oferece aos mesmos - onde a vantagem principal - adota a ele"
           },
           {
             "id": "C",
-            "texto": "Costuma-se coroar com louros um homem de evidentes predicados."
+            "texto": "os oferece - a sua principal vantagem - o adota"
           },
           {
             "id": "D",
-            "texto": "Há quem reconheça o mérito de alguém por conta de honra já concedida. E O prestígio público costuma decorrer de algum efetivo merecimento."
+            "texto": "oferece-lhes - na qual a principal vantagem - lhe adota"
+          },
+          {
+            "id": "E",
+            "texto": "oferece-os - a quem a vantagem principal - adota-lhe"
           }
         ],
-        "resposta_correta": "D",
-        "fundamentacao_correta": "Na colocação pronominal culta, palavras atrativas (negativas, advérbios, pronomes relativos) exigem próclise, ao passo que o início de período repele o pronome oblíquo átono. A alternativa [D] ('Há quem reconheça o mérito de alguém por conta de honra já concedida. E O prestígio público costuma decorrer de algum efetivo merecimento.') aplica as regras de colocação e seleção pronominal de forma impecável.",
+        "resposta_correta": "A",
+        "fundamentacao_correta": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [A] ('lhes oferece - cuja principal vantagem - o adota') respeita perfeitamente as regras de colocação e concordância pronominal.",
         "analise_distratores": [
           {
-            "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'linguagem figurada do segmento sublinhado na frase acima tem como correspondênci...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'A solidez de um homem tem por base suas discretas qualidades....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
             "letra": "B",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Avalia-se alguém de modo injusto quando seus defeitos humanos são realçados....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'oferece aos mesmos - onde a vantagem principal - adota a ele...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Costuma-se coroar com louros um homem de evidentes predicados....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'os oferece - a sua principal vantagem - o adota...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          },
+          {
+            "letra": "D",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'oferece-lhes - na qual a principal vantagem - lhe adota...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          },
+          {
+            "letra": "E",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'oferece-os - a quem a vantagem principal - adota-lhe...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           }
         ],
-        "comentario": "Na colocação pronominal culta, palavras atrativas (negativas, advérbios, pronomes relativos) exigem próclise, ao passo que o início de período repele o pronome oblíquo átono. A alternativa [D] ('Há quem reconheça o mérito de alguém por conta de honra já concedida. E O prestígio público costuma decorrer de algum efetivo merecimento.') aplica as regras de colocação e seleção pronominal de forma impecável.",
-        "id": "FCC_LP0004",
-        "numero_ordem": 4,
-        "numero_simulado": 18
+        "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [A] ('lhes oferece - cuja principal vantagem - o adota') respeita perfeitamente as regras de colocação e concordância pronominal.",
+        "id": "FCC_LP0028",
+        "numero_ordem": 28,
+        "numero_simulado": 10
       },
       {
         "codigo_origem": "Q3916762",
@@ -7650,7 +7186,7 @@ export const SIMULADOS_OFICIAIS = [
         "orgao": "SEFAZ-SP",
         "ano": 2026,
         "prova": "FCC - 2026 - SEFAZ-SP - Auditor Fiscal da Receita Estadual - AFRE - Tecnologia",
-        "cargo": "Geral",
+        "cargo": "Cargos Diversos (Superior/Médio)",
         "materia": "Língua Portuguesa",
         "assunto": "Pontuação e Emprego da Vírgula",
         "enunciado": "da Informação e Comunicação - Conhecimentos Gerais (P1) Observam-se plenamente as normas de pontuação no seguinte período:",
@@ -7677,87 +7213,87 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "E",
-        "fundamentacao_correta": "A pontuação na Língua Portuguesa delimita unidades sintáticas e assegura clareza semântica ao período. A vírgula é obrigatória para isolar termos deslocados ou orações subordinadas adverbiais antepostas e proibida entre sujeito e predicado ou entre verbo e complemento. A alternativa [E] ('Atente-se para as razões expostas por um grande filósofo: ainda quando controversas, provocam nosso senso crítico e testam os valores éticos, quando de fato presentes.') obedece rigorosamente às regras da sintaxe de pontuação.",
+        "fundamentacao_correta": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [E] ('Atente-se para as razões expostas por um grande filósofo: ainda quando controversas, provocam nosso senso crítico e testam os valores éticos, quando de fato presentes.') atende integralmente à norma culta de pontuação.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Não obstante possam, as palavras, apresentar semelhanças fônicas – isso não deve...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Não obstante possam, as palavras, apresentar semelhanças fônicas – isso não deve...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'É próprio dos grandes filósofos, como Kant - que alonguem o sentido das expressõ...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'É próprio dos grandes filósofos, como Kant - que alonguem o sentido das expressõ...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'O sentido das palavras é sim, esclarecido plenamente nos dicionários; mas, é pre...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'O sentido das palavras é sim, esclarecido plenamente nos dicionários; mas, é pre...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Uma vez articuladas, as palavras produzem uma frase: que, por sua vez, associada...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Uma vez articuladas, as palavras produzem uma frase: que, por sua vez, associada...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           }
         ],
-        "comentario": "A pontuação na Língua Portuguesa delimita unidades sintáticas e assegura clareza semântica ao período. A vírgula é obrigatória para isolar termos deslocados ou orações subordinadas adverbiais antepostas e proibida entre sujeito e predicado ou entre verbo e complemento. A alternativa [E] ('Atente-se para as razões expostas por um grande filósofo: ainda quando controversas, provocam nosso senso crítico e testam os valores éticos, quando de fato presentes.') obedece rigorosamente às regras da sintaxe de pontuação.",
-        "id": "FCC_LP0018",
-        "numero_ordem": 18,
-        "numero_simulado": 19
+        "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [E] ('Atente-se para as razões expostas por um grande filósofo: ainda quando controversas, provocam nosso senso crítico e testam os valores éticos, quando de fato presentes.') atende integralmente à norma culta de pontuação.",
+        "id": "FCC_LP0019",
+        "numero_ordem": 19,
+        "numero_simulado": 11
       },
       {
-        "codigo_origem": "Q3916748",
-        "numero_original": 209,
+        "codigo_origem": "Q3887596",
+        "numero_original": 232,
         "banca": "FCC",
-        "orgao": "SEFAZ-SP",
+        "orgao": "MPE-SE",
         "ano": 2026,
-        "prova": "FCC - 2026 - SEFAZ-SP - Auditor Fiscal da Receita Estadual - AFRE - Tecnologia",
-        "cargo": "Geral",
+        "prova": "FCC - 2026 - MPE-SE - Técnico do Ministério Público - Manutenção e Suporte",
+        "cargo": "Cargos Diversos (Superior/Médio)",
         "materia": "Língua Portuguesa",
         "assunto": "Conjunções e Relações Lógico-Discursivas",
-        "enunciado": "da Informação e Comunicação - Conhecimentos Gerais (P1) No terceiro parágrafo do texto, o autor pondera conclusivamente que as ideias políticas de Maquiavel,",
+        "enunciado": "de Equipamentos de Informática e Software No trecho embora a colega assistente da diretoria existisse, a conjunção introduz a idela de",
         "alternativas": [
           {
             "id": "A",
-            "texto": "aparentemente irrefutáveis, costumam sucumbir a uma objetiva análise histórica."
+            "texto": "conformidade."
           },
           {
             "id": "B",
-            "texto": "mesmo descartando uma idealidade abstrata, podem ir além de um pragmatismo estrito."
+            "texto": "concessão."
           },
           {
             "id": "C",
-            "texto": "ainda que brutais, apoiam-se num fundamento moral de caráter conservador."
+            "texto": "consequência."
           },
           {
             "id": "D",
-            "texto": "atraentes e sedutoras, sustentam uma amoralidade que as condena inapelavelmente."
+            "texto": "alternância."
           },
           {
             "id": "E",
-            "texto": "provocadoras em seu tempo, provaram-se equívocas e inoperantes ao longo da História."
+            "texto": "explicação."
           }
         ],
         "resposta_correta": "B",
-        "fundamentacao_correta": "Os conectivos oracionais estabelecem relações lógicas de causa, consequência, concessão, condição e finalidade entre os segmentos textuais. A alternativa [B] ('mesmo descartando uma idealidade abstrata, podem ir além de um pragmatismo estrito.') identifica com precisão o valor semântico-discursivo estabelecido pela conjunção no texto.",
+        "fundamentacao_correta": "Os conectivos oracionais marcam relações argumentativas de causa, consequência, concessão, oposição e finalidade no encadeamento textual. A alternativa [B] ('concessão.') expressa com fidelidade a relação lógico-discursiva pretendida pelo autor.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'aparentemente irrefutáveis, costumam sucumbir a uma objetiva análise histórica....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'conformidade....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'ainda que brutais, apoiam-se num fundamento moral de caráter conservador....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'consequência....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'atraentes e sedutoras, sustentam uma amoralidade que as condena inapelavelmente....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'alternância....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'provocadoras em seu tempo, provaram-se equívocas e inoperantes ao longo da Histó...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'explicação....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           }
         ],
-        "comentario": "Os conectivos oracionais estabelecem relações lógicas de causa, consequência, concessão, condição e finalidade entre os segmentos textuais. A alternativa [B] ('mesmo descartando uma idealidade abstrata, podem ir além de um pragmatismo estrito.') identifica com precisão o valor semântico-discursivo estabelecido pela conjunção no texto.",
-        "id": "FCC_LP0028",
-        "numero_ordem": 28,
-        "numero_simulado": 20
+        "comentario": "Os conectivos oracionais marcam relações argumentativas de causa, consequência, concessão, oposição e finalidade no encadeamento textual. A alternativa [B] ('concessão.') expressa com fidelidade a relação lógico-discursiva pretendida pelo autor.",
+        "id": "FCC_LP0052",
+        "numero_ordem": 52,
+        "numero_simulado": 12
       },
       {
         "codigo_origem": "Q2108265",
@@ -7793,29 +7329,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "E",
-        "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [E] ('fino e bradicárdico.') constitui a conduta técnica correta e fundamentada.",
+        "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [E] ('fino e bradicárdico.') configura a resposta correta e plenamente fundamentada.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'alto e arrítmico....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'alto e arrítmico....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'fino e taquicárdico....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'fino e taquicárdico....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'fraco e rítmico....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'fraco e rítmico....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'forte e rítmico....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'forte e rítmico....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [E] ('fino e bradicárdico.') constitui a conduta técnica correta e fundamentada.",
-        "id": "FCC0005",
+        "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [E] ('fino e bradicárdico.') configura a resposta correta e plenamente fundamentada.",
+        "id": "FCC_ENF0005",
         "numero_ordem": 5,
-        "numero_simulado": 21
+        "numero_simulado": 13
       },
       {
         "codigo_origem": "Q1971259",
@@ -7827,12 +7363,8 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Enfermeiro",
         "materia": "Enfermagem",
         "assunto": "Fundamentos e Procedimentos de Enfermagem",
-        "enunciado": "Apoio - Enfermagem do Trabalho",
+        "enunciado": "A Monkeypox é uma zoonose viral (vírus transmitido aos seres humanos a partir de animais). O período de erupção cutânea ocorre entre 1 e 3 dias após o início da febre, quando aparecem as diferentes fases da erupção cutânea, que evolui sequencialmente. As primeiras lesões a aparecerem são as",
         "alternativas": [
-          {
-            "id": "A",
-            "texto": "Monkeypox é uma zoonose viral (vírus transmitido aos seres humanos a partir de animais). O período de erupção cutânea ocorre entre 1 e 3 dias após o início da febre, quando aparecem as diferentes fases da erupção cutânea, que evolui sequencialmente. As primeiras lesões a aparecerem são as"
-          },
           {
             "id": "A",
             "texto": "crostas."
@@ -7847,91 +7379,37 @@ export const SIMULADOS_OFICIAIS = [
           },
           {
             "id": "D",
-            "texto": "máculas. E vesículas."
+            "texto": "máculas."
+          },
+          {
+            "id": "E",
+            "texto": "vesículas."
           }
         ],
         "resposta_correta": "D",
-        "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [D] ('máculas. E vesículas.') constitui a conduta técnica correta e fundamentada.",
+        "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('máculas.') configura a resposta correta e plenamente fundamentada.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Apresenta parâmetros numéricos/posológicos incorretos em desacordo com as diretrizes de referência: 'Monkeypox é uma zoonose viral (vírus transmitido aos seres humanos a partir de a...'."
-          },
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'crostas....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'crostas....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'pústulas....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'pústulas....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'pápulas....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'pápulas....' não corresponde à diretriz ou definição válida."
+          },
+          {
+            "letra": "E",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'vesículas....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [D] ('máculas. E vesículas.') constitui a conduta técnica correta e fundamentada.",
-        "id": "FCC0020",
+        "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('máculas.') configura a resposta correta e plenamente fundamentada.",
+        "id": "FCC_ENF0020",
         "numero_ordem": 20,
-        "numero_simulado": 22
-      },
-      {
-        "codigo_origem": "Q1971256",
-        "numero_original": 203,
-        "banca": "FCC",
-        "orgao": "TRT - 23ª REGIÃO (MT)",
-        "ano": 2022,
-        "prova": "FCC - 2022 - TRT - 23ª REGIÃO (MT) - Analista Judiciário - Área",
-        "cargo": "Enfermeiro",
-        "materia": "Enfermagem",
-        "assunto": "Fundamentos e Procedimentos de Enfermagem",
-        "enunciado": "Apoio - Enfermagem do Trabalho",
-        "alternativas": [
-          {
-            "id": "A",
-            "texto": "equipe de saúde ao monitorar no domicílio um paciente com Síndrome Gripal deve ficar atenta aos seguintes sinais de alerta de deterioração clínica sugestivos de evolução do quadro para Síndrome Respiratória Aguda Grave, tais como: I. Saturação de SpO2 < 95% em ar ambiente. II. Sinais de desconforto respiratório ou aumento da frequência respiratória avaliada de acordo com a idade. III. Estabilidade nas condições clínicas de doença de base. IV. Hipotensão. V. Batimentos da asa do nariz, em crianças. Está correto o que consta em"
-          },
-          {
-            "id": "A",
-            "texto": "I, II, III, IV e V."
-          },
-          {
-            "id": "B",
-            "texto": "I, II e III, apenas."
-          },
-          {
-            "id": "C",
-            "texto": "I, II, IV e V, apenas."
-          },
-          {
-            "id": "D",
-            "texto": "I, apenas. E II e V, apenas."
-          }
-        ],
-        "resposta_correta": "C",
-        "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [C] ('I, II, IV e V, apenas.') constitui a conduta técnica correta e fundamentada.",
-        "analise_distratores": [
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'equipe de saúde ao monitorar no domicílio um paciente com Síndrome Gripal deve f...' não representa a conduta indicada."
-          },
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'I, II, III, IV e V....' não representa a conduta indicada."
-          },
-          {
-            "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'I, II e III, apenas....' não representa a conduta indicada."
-          },
-          {
-            "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'I, apenas. E II e V, apenas....' não representa a conduta indicada."
-          }
-        ],
-        "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [C] ('I, II, IV e V, apenas.') constitui a conduta técnica correta e fundamentada.",
-        "id": "FCC0023",
-        "numero_ordem": 23,
-        "numero_simulado": 23
+        "numero_simulado": 14
       },
       {
         "codigo_origem": "Q1971254",
@@ -7943,7 +7421,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Enfermeiro",
         "materia": "Enfermagem",
         "assunto": "Fundamentos e Procedimentos de Enfermagem",
-        "enunciado": "Apoio - Enfermagem do Trabalho No ambulatório do Tribunal Regional do Trabalho foi atendido um colaborador com o diagnóstico de caxumba. Preocupada com a possibilidade de surgirem outros casos da doença, a enfermeira da unidade dentre as orientações repassadas à equipe deve esclarecer que",
+        "enunciado": "No ambulatório do Tribunal Regional do Trabalho foi atendido um colaborador com o diagnóstico de caxumba. Preocupada com a possibilidade de surgirem outros casos da doença, a enfermeira da unidade dentre as orientações repassadas à equipe deve esclarecer que",
         "alternativas": [
           {
             "id": "A",
@@ -7967,29 +7445,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "D",
-        "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [D] ('essa é uma doença viral aguda, de distribuição universal, de alta morbidade e baixa letalidade.') constitui a conduta técnica correta e fundamentada.",
+        "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('essa é uma doença viral aguda, de distribuição universal, de alta morbidade e baixa letalidade.') configura a resposta correta e plenamente fundamentada.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'o período de transmissibilidade ocorre a partir do 5o dia após o surgimento das ...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'o período de transmissibilidade ocorre a partir do 5o dia após o surgimento das ...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'essa é uma doença de notificação compulsória imediata em todo o território nacio...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'essa é uma doença de notificação compulsória imediata em todo o território nacio...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'o diagnóstico da doença é eminentemente laboratorial, os exames sorológicos de r...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'o diagnóstico da doença é eminentemente laboratorial, os exames sorológicos de r...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Apresenta parâmetros numéricos/posológicos incorretos em desacordo com as diretrizes de referência: 'o período de incubação da doença é de 4 a 5 dias, variando de 3 a 7 dias....'."
+            "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: 'o período de incubação da doença é de 4 a 5 dias, variando de 3 a 7 dias....' diverge das referências oficiais."
           }
         ],
-        "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [D] ('essa é uma doença viral aguda, de distribuição universal, de alta morbidade e baixa letalidade.') constitui a conduta técnica correta e fundamentada.",
-        "id": "FCC0025",
+        "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('essa é uma doença viral aguda, de distribuição universal, de alta morbidade e baixa letalidade.') configura a resposta correta e plenamente fundamentada.",
+        "id": "FCC_ENF0025",
         "numero_ordem": 25,
-        "numero_simulado": 24
+        "numero_simulado": 15
       },
       {
         "codigo_origem": "Q1970072",
@@ -8001,7 +7479,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Fundamentos e Procedimentos de Enfermagem",
-        "enunciado": "Apoio - Enfermagem do Trabalho Segundo o INCA, 2019, o câncer de próstata é o tipo de câncer mais frequente em homens no Brasil, depois do câncer de pele. O profissional de saúde deve reconhecer os sinais de alerta do câncer de próstata como, dentre outros,",
+        "enunciado": "Segundo o INCA, 2019, o câncer de próstata é o tipo de câncer mais frequente em homens no Brasil, depois do câncer de pele. O profissional de saúde deve reconhecer os sinais de alerta do câncer de próstata como, dentre outros,",
         "alternativas": [
           {
             "id": "A",
@@ -8025,29 +7503,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "E",
-        "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [E] ('demora em iniciar e finalizar o ato urinário.') constitui a conduta técnica correta e fundamentada.",
+        "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [E] ('demora em iniciar e finalizar o ato urinário.') configura a resposta correta e plenamente fundamentada.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'anúria....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'anúria....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'aumento de um testículo....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'aumento de um testículo....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'varicocele....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'varicocele....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'dor e sangramento após relação sexual....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'dor e sangramento após relação sexual....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [E] ('demora em iniciar e finalizar o ato urinário.') constitui a conduta técnica correta e fundamentada.",
-        "id": "FCC0029",
+        "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [E] ('demora em iniciar e finalizar o ato urinário.') configura a resposta correta e plenamente fundamentada.",
+        "id": "FCC_ENF0029",
         "numero_ordem": 29,
-        "numero_simulado": 25
+        "numero_simulado": 16
       },
       {
         "codigo_origem": "Q1970070",
@@ -8059,7 +7537,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Fundamentos e Procedimentos de Enfermagem",
-        "enunciado": "Apoio - Enfermagem do Trabalho Aos profissionais de enfermagem que atuam em ambulatórios com contato com pacientes, de acordo com o Anexo 14 da Norma Regulamentadora NR-15, deve ser atribuída a insalubridade de grau",
+        "enunciado": "Aos profissionais de enfermagem que atuam em ambulatórios com contato com pacientes, de acordo com o Anexo",
         "alternativas": [
           {
             "id": "A",
@@ -8083,29 +7561,87 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "B",
-        "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [B] ('médio.') constitui a conduta técnica correta e fundamentada.",
+        "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('médio.') configura a resposta correta e plenamente fundamentada.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'máximo....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'máximo....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'mínimo....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'mínimo....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'moderado....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'moderado....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'elevado....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'elevado....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [B] ('médio.') constitui a conduta técnica correta e fundamentada.",
-        "id": "FCC0031",
+        "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('médio.') configura a resposta correta e plenamente fundamentada.",
+        "id": "FCC_ENF0031",
         "numero_ordem": 31,
-        "numero_simulado": 26
+        "numero_simulado": 17
+      },
+      {
+        "codigo_origem": "Q1970068",
+        "numero_original": 213,
+        "banca": "FCC",
+        "orgao": "TRT - 23ª REGIÃO (MT)",
+        "ano": 2022,
+        "prova": "FCC - 2022 - TRT - 23ª REGIÃO (MT) - Técnico Judiciário - Área",
+        "cargo": "Técnico de Enfermagem",
+        "materia": "Enfermagem",
+        "assunto": "Fundamentos e Procedimentos de Enfermagem",
+        "enunciado": "A Comissão Interna de Prevenção de Acidentes (CIPA), de acordo com a Norma Regulamentadora NR-5,",
+        "alternativas": [
+          {
+            "id": "A",
+            "texto": "deve promover, a cada 02 anos, a Semana Interna de Prevenção de Acidentes do Trabalho (SIPAT), conforme programação definida."
+          },
+          {
+            "id": "B",
+            "texto": "é aplicável às organizações e aos órgãos públicos da administração direta e indireta, bem como aos órgãos dos Poderes Legislativo, Judiciário e Ministério Público, que possuam empregados regidos pela Consolidação das Leis do Trabalho (CLT)."
+          },
+          {
+            "id": "C",
+            "texto": "deve realizar a assistência nos programas relacionados à saúde no trabalho e emitir as Comunicações de Acidente de Trabalho (CAT)."
+          },
+          {
+            "id": "D",
+            "texto": "poderá ter seu número de representantes reduzido, bem como poderá ser desativada pela organização, antes do término do mandato de seus membros, quando houver redução do número de empregados do estabelecimento."
+          },
+          {
+            "id": "E",
+            "texto": "está vedada a dispensar de forma arbitrária ou sem justa causa, incluindo término do contrato de trabalho por prazo determinado, o empregado eleito para cargo de direção da CIPA desde o registro de sua candidatura até um ano após o final de seu mandato."
+          }
+        ],
+        "resposta_correta": "B",
+        "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('é aplicável às organizações e aos órgãos públicos da administração direta e indireta, bem como aos órgãos dos Poderes Legislativo, Judiciário e Ministério Público, que possuam empregados regidos pela Consolidação das Leis do Trabalho (CLT).') configura a resposta correta e plenamente fundamentada.",
+        "analise_distratores": [
+          {
+            "letra": "A",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'deve promover, a cada 02 anos, a Semana Interna de Prevenção de Acidentes do Tra...' não corresponde à diretriz ou definição válida."
+          },
+          {
+            "letra": "C",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'deve realizar a assistência nos programas relacionados à saúde no trabalho e emi...' não corresponde à diretriz ou definição válida."
+          },
+          {
+            "letra": "D",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'poderá ter seu número de representantes reduzido, bem como poderá ser desativada...' não corresponde à diretriz ou definição válida."
+          },
+          {
+            "letra": "E",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'está vedada a dispensar de forma arbitrária ou sem justa causa, incluindo términ...' não corresponde à diretriz ou definição válida."
+          }
+        ],
+        "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('é aplicável às organizações e aos órgãos públicos da administração direta e indireta, bem como aos órgãos dos Poderes Legislativo, Judiciário e Ministério Público, que possuam empregados regidos pela Consolidação das Leis do Trabalho (CLT).') configura a resposta correta e plenamente fundamentada.",
+        "id": "FCC_ENF0033",
+        "numero_ordem": 33,
+        "numero_simulado": 18
       },
       {
         "codigo_origem": "Q2108267",
@@ -8117,7 +7653,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Saúde Pública, SUS e Atenção Básica",
-        "enunciado": "Uma trabalhadora foi orientada a procurar um serviço público de saúde próximo à sua residência para agendar um exame de mamografia. Porém, foi informada que o único aparelho do município está quebrado. Sem previsão de conserto para os próximos meses foi orientada a realizar o exame na rede privada de saúde. A orientação nesse atendimento hipotético contrapõe-se ao seguinte princípio do Sistema Único de Saúde − SUS:",
+        "enunciado": "Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Uma trabalhadora foi orientada a procurar um serviço público de saúde próximo à sua residência para agendar um exame de mamografia. Porém, foi informada que o único aparelho do município está quebrado. Sem previsão de conserto para os próximos meses foi orientada a realizar o exame na rede privada de saúde. A orientação nesse atendimento hipotético contrapõe-se ao seguinte princípio do Sistema Único de Saúde − SUS:",
         "alternativas": [
           {
             "id": "A",
@@ -8141,29 +7677,87 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "B",
-        "fundamentacao_correta": "Com base na Constituição Federal (Art. 196 a 200) e na Lei Orgânica da Saúde (Leis nº 8.080/1990 e 8.142/1990), o Sistema Único de Saúde fundamenta-se nos princípios de universalidade, integralidade e equidade, garantindo o controle social e a descentralização político-administrativa. A alternativa [B] ('Universalidade.') enuncia com precisão os ditames legais e estruturais do SUS.",
+        "fundamentacao_correta": "Com base na Constituição Federal de 1988 (Artigos 196 a 200) e nas Leis Orgânicas da Saúde nº 8.080/1990 e 8.142/1990, o SUS rege-se pelos princípios doutrinários de Universalidade, Integralidade e Equidade, somados às diretrizes organizativas de Descentralização, Regionalização e Participação da Comunidade. A alternativa [B] ('Universalidade.') fundamenta-se nos preceitos constitucionais e infraconstitucionais vigentes.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Equidade....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Equidade....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Gratuidade...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Gratuidade...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Regionalização....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Regionalização....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Obrigatoriedade....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Obrigatoriedade....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Com base na Constituição Federal (Art. 196 a 200) e na Lei Orgânica da Saúde (Leis nº 8.080/1990 e 8.142/1990), o Sistema Único de Saúde fundamenta-se nos princípios de universalidade, integralidade e equidade, garantindo o controle social e a descentralização político-administrativa. A alternativa [B] ('Universalidade.') enuncia com precisão os ditames legais e estruturais do SUS.",
-        "id": "FCC0003",
+        "comentario": "Com base na Constituição Federal de 1988 (Artigos 196 a 200) e nas Leis Orgânicas da Saúde nº 8.080/1990 e 8.142/1990, o SUS rege-se pelos princípios doutrinários de Universalidade, Integralidade e Equidade, somados às diretrizes organizativas de Descentralização, Regionalização e Participação da Comunidade. A alternativa [B] ('Universalidade.') fundamenta-se nos preceitos constitucionais e infraconstitucionais vigentes.",
+        "id": "FCC_ENF0003",
         "numero_ordem": 3,
-        "numero_simulado": 27
+        "numero_simulado": 19
+      },
+      {
+        "codigo_origem": "Q1971256",
+        "numero_original": 203,
+        "banca": "FCC",
+        "orgao": "TRT - 23ª REGIÃO (MT)",
+        "ano": 2022,
+        "prova": "FCC - 2022 - TRT - 23ª REGIÃO (MT) - Analista Judiciário - Área",
+        "cargo": "Enfermeiro",
+        "materia": "Enfermagem",
+        "assunto": "Saúde Pública, SUS e Atenção Básica",
+        "enunciado": "Doenças Respiratórias , Exame Físico Doenças Infecciosas e parasitárias , Atenção Básica e Saúde da Família , Doenças Crônicas Não Transmissíveis , Outras Doenças Infecciosas e Parasitárias A equipe de saúde ao monitorar no domicílio um paciente com Síndrome Gripal deve ficar atenta aos seguintes sinais de alerta de deterioração clínica sugestivos de evolução do quadro para Síndrome Respiratória Aguda Grave, tais como: I. Saturação de SpO2 < 95% em ar ambiente. II. Sinais de desconforto respiratório ou aumento da frequência respiratória avaliada de acordo com a idade. III. Estabilidade nas condições clínicas de doença de base. IV. Hipotensão. V. Batimentos da asa do nariz, em crianças. Está correto o que consta em",
+        "alternativas": [
+          {
+            "id": "A",
+            "texto": "I, II, III, IV e V."
+          },
+          {
+            "id": "B",
+            "texto": "I, II e III, apenas."
+          },
+          {
+            "id": "C",
+            "texto": "I, II, IV e V, apenas."
+          },
+          {
+            "id": "D",
+            "texto": "I, apenas."
+          },
+          {
+            "id": "E",
+            "texto": "II e V, apenas."
+          }
+        ],
+        "resposta_correta": "C",
+        "fundamentacao_correta": "Com base na Constituição Federal de 1988 (Artigos 196 a 200) e nas Leis Orgânicas da Saúde nº 8.080/1990 e 8.142/1990, o SUS rege-se pelos princípios doutrinários de Universalidade, Integralidade e Equidade, somados às diretrizes organizativas de Descentralização, Regionalização e Participação da Comunidade. A alternativa [C] ('I, II, IV e V, apenas.') fundamenta-se nos preceitos constitucionais e infraconstitucionais vigentes.",
+        "analise_distratores": [
+          {
+            "letra": "A",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'I, II, III, IV e V....' não corresponde à diretriz ou definição válida."
+          },
+          {
+            "letra": "B",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'I, II e III, apenas....' não corresponde à diretriz ou definição válida."
+          },
+          {
+            "letra": "D",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'I, apenas....' não corresponde à diretriz ou definição válida."
+          },
+          {
+            "letra": "E",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'II e V, apenas....' não corresponde à diretriz ou definição válida."
+          }
+        ],
+        "comentario": "Com base na Constituição Federal de 1988 (Artigos 196 a 200) e nas Leis Orgânicas da Saúde nº 8.080/1990 e 8.142/1990, o SUS rege-se pelos princípios doutrinários de Universalidade, Integralidade e Equidade, somados às diretrizes organizativas de Descentralização, Regionalização e Participação da Comunidade. A alternativa [C] ('I, II, IV e V, apenas.') fundamenta-se nos preceitos constitucionais e infraconstitucionais vigentes.",
+        "id": "FCC_ENF0023",
+        "numero_ordem": 23,
+        "numero_simulado": 20
       },
       {
         "codigo_origem": "Q1971251",
@@ -8175,7 +7769,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Enfermeiro",
         "materia": "Enfermagem",
         "assunto": "Saúde Pública, SUS e Atenção Básica",
-        "enunciado": "Apoio - Enfermagem do Trabalho Durante o turno da manhã, em uma unidade de saúde, foram atendidos um caso de tentativa de suicídio, um caso de acidente de trabalho com exposição a material biológico, um caso confirmado de dengue, um caso suspeito de febre por Chikungunya, um caso de herpes zoster e um caso de sífilis em gestante. Nessa situação, a enfermeira deve notificar a Secretaria Municipal de Saúde em até 24 horas o caso",
+        "enunciado": "Durante o turno da manhã, em uma unidade de saúde, foram atendidos um caso de tentativa de suicídio, um caso de acidente de trabalho com exposição a material biológico, um caso confirmado de dengue, um caso suspeito de febre por Chikungunya, um caso de herpes zoster e um caso de sífilis em gestante. Nessa situação, a enfermeira deve notificar a Secretaria Municipal de Saúde em até 24 horas o caso",
         "alternativas": [
           {
             "id": "A",
@@ -8199,83 +7793,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "E",
-        "fundamentacao_correta": "Com base na Constituição Federal (Art. 196 a 200) e na Lei Orgânica da Saúde (Leis nº 8.080/1990 e 8.142/1990), o Sistema Único de Saúde fundamenta-se nos princípios de universalidade, integralidade e equidade, garantindo o controle social e a descentralização político-administrativa. A alternativa [E] ('de tentativa de suicídio.') enuncia com precisão os ditames legais e estruturais do SUS.",
+        "fundamentacao_correta": "Com base na Constituição Federal de 1988 (Artigos 196 a 200) e nas Leis Orgânicas da Saúde nº 8.080/1990 e 8.142/1990, o SUS rege-se pelos princípios doutrinários de Universalidade, Integralidade e Equidade, somados às diretrizes organizativas de Descentralização, Regionalização e Participação da Comunidade. A alternativa [E] ('de tentativa de suicídio.') fundamenta-se nos preceitos constitucionais e infraconstitucionais vigentes.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'confirmado de dengue....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'confirmado de dengue....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'confirmado de dengue e o caso suspeito de febre por Chikungunya....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'confirmado de dengue e o caso suspeito de febre por Chikungunya....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'de acidente de trabalho com exposição a material biológico....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'de acidente de trabalho com exposição a material biológico....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'confirmado de dengue, o caso de sífilis em gestante e o caso de herpes zoster....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'confirmado de dengue, o caso de sífilis em gestante e o caso de herpes zoster....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Com base na Constituição Federal (Art. 196 a 200) e na Lei Orgânica da Saúde (Leis nº 8.080/1990 e 8.142/1990), o Sistema Único de Saúde fundamenta-se nos princípios de universalidade, integralidade e equidade, garantindo o controle social e a descentralização político-administrativa. A alternativa [E] ('de tentativa de suicídio.') enuncia com precisão os ditames legais e estruturais do SUS.",
-        "id": "FCC0027",
+        "comentario": "Com base na Constituição Federal de 1988 (Artigos 196 a 200) e nas Leis Orgânicas da Saúde nº 8.080/1990 e 8.142/1990, o SUS rege-se pelos princípios doutrinários de Universalidade, Integralidade e Equidade, somados às diretrizes organizativas de Descentralização, Regionalização e Participação da Comunidade. A alternativa [E] ('de tentativa de suicídio.') fundamenta-se nos preceitos constitucionais e infraconstitucionais vigentes.",
+        "id": "FCC_ENF0027",
         "numero_ordem": 27,
-        "numero_simulado": 28
-      },
-      {
-        "codigo_origem": "Q1970065",
-        "numero_original": 216,
-        "banca": "FCC",
-        "orgao": "TRT - 23ª REGIÃO (MT)",
-        "ano": 2022,
-        "prova": "FCC - 2022 - TRT - 23ª REGIÃO (MT) - Técnico Judiciário - Área",
-        "cargo": "Técnico de Enfermagem",
-        "materia": "Enfermagem",
-        "assunto": "Saúde Pública, SUS e Atenção Básica",
-        "enunciado": "Apoio - Enfermagem do Trabalho",
-        "alternativas": [
-          {
-            "id": "A",
-            "texto": "Política Nacional de Humanização (PNH) atua a partir de orientações clínicas, éticas e políticas, que se traduzem em determinados arranjos de trabalho. Dentre as diretrizes da PNH, incluem-se criar espaços saudáveis, acolhedores e confortáveis, que respeitem a privacidade, propiciem mudanças no processo de trabalho e sejam lugares de encontro entre as pessoas, que é o conceito de"
-          },
-          {
-            "id": "A",
-            "texto": "ambiência."
-          },
-          {
-            "id": "B",
-            "texto": "clínica ampliada e compartilhada."
-          },
-          {
-            "id": "C",
-            "texto": "valorização do trabalhador."
-          },
-          {
-            "id": "D",
-            "texto": "acolhimento. E defesa dos direitos do usuário."
-          }
-        ],
-        "resposta_correta": "A",
-        "fundamentacao_correta": "Com base na Constituição Federal (Art. 196 a 200) e na Lei Orgânica da Saúde (Leis nº 8.080/1990 e 8.142/1990), o Sistema Único de Saúde fundamenta-se nos princípios de universalidade, integralidade e equidade, garantindo o controle social e a descentralização político-administrativa. A alternativa [A] ('Política Nacional de Humanização (PNH) atua a partir de orientações clínicas, éticas e políticas, que se traduzem em determinados arranjos de trabalho. Dentre as diretrizes da PNH, incluem-se criar espaços saudáveis, acolhedores e confortáveis, que respeitem a privacidade, propiciem mudanças no processo de trabalho e sejam lugares de encontro entre as pessoas, que é o conceito de') enuncia com precisão os ditames legais e estruturais do SUS.",
-        "analise_distratores": [
-          {
-            "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'clínica ampliada e compartilhada....' não representa a conduta indicada."
-          },
-          {
-            "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'valorização do trabalhador....' não representa a conduta indicada."
-          },
-          {
-            "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'acolhimento. E defesa dos direitos do usuário....' não representa a conduta indicada."
-          }
-        ],
-        "comentario": "Com base na Constituição Federal (Art. 196 a 200) e na Lei Orgânica da Saúde (Leis nº 8.080/1990 e 8.142/1990), o Sistema Único de Saúde fundamenta-se nos princípios de universalidade, integralidade e equidade, garantindo o controle social e a descentralização político-administrativa. A alternativa [A] ('Política Nacional de Humanização (PNH) atua a partir de orientações clínicas, éticas e políticas, que se traduzem em determinados arranjos de trabalho. Dentre as diretrizes da PNH, incluem-se criar espaços saudáveis, acolhedores e confortáveis, que respeitem a privacidade, propiciem mudanças no processo de trabalho e sejam lugares de encontro entre as pessoas, que é o conceito de') enuncia com precisão os ditames legais e estruturais do SUS.",
-        "id": "FCC0036",
-        "numero_ordem": 36,
-        "numero_simulado": 29
+        "numero_simulado": 21
       },
       {
         "codigo_origem": "Q1970049",
@@ -8287,12 +7827,8 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Saúde Pública, SUS e Atenção Básica",
-        "enunciado": "Apoio - Enfermagem do Trabalho",
+        "enunciado": "A equipe de saúde do Tribunal Regional do Trabalho, visando à promoção da saúde do colaborador e seus familiares, decidiu desenvolver ações para disseminar a cultura da alimentação saudável em consonância com os atributos e princípios do Guia Alimentar da População Brasileira do Ministério da Saúde. Dentre as orientações, a equipe deve ressaltar:",
         "alternativas": [
-          {
-            "id": "A",
-            "texto": "equipe de saúde do Tribunal Regional do Trabalho, visando à promoção da saúde do colaborador e seus familiares, decidiu desenvolver ações para disseminar a cultura da alimentação saudável em consonância com os atributos e princípios do Guia Alimentar da População Brasileira do Ministério da Saúde. Dentre as orientações, a equipe deve ressaltar:"
-          },
           {
             "id": "A",
             "texto": "Cereais polidos excessivamente, como o arroz branco e os grãos de trigo usados na confecção da maioria das farinhas de trigo, apresentam menor quantidade de fibras e micronutrientes."
@@ -8307,29 +7843,37 @@ export const SIMULADOS_OFICIAIS = [
           },
           {
             "id": "D",
-            "texto": "O chamado macarrão “instantâneo” é um alimento processado e seu consumo é recomendado. E Alimentos em conserva não preservam os nutrientes do alimento in natura e contêm pequena quantidade de sódio."
+            "texto": "O chamado macarrão “instantâneo” é um alimento processado e seu consumo é recomendado."
+          },
+          {
+            "id": "E",
+            "texto": "Alimentos em conserva não preservam os nutrientes do alimento in natura e contêm pequena quantidade de sódio."
           }
         ],
         "resposta_correta": "A",
-        "fundamentacao_correta": "Com base na Constituição Federal (Art. 196 a 200) e na Lei Orgânica da Saúde (Leis nº 8.080/1990 e 8.142/1990), o Sistema Único de Saúde fundamenta-se nos princípios de universalidade, integralidade e equidade, garantindo o controle social e a descentralização político-administrativa. A alternativa [A] ('equipe de saúde do Tribunal Regional do Trabalho, visando à promoção da saúde do colaborador e seus familiares, decidiu desenvolver ações para disseminar a cultura da alimentação saudável em consonância com os atributos e princípios do Guia Alimentar da População Brasileira do Ministério da Saúde. Dentre as orientações, a equipe deve ressaltar:') enuncia com precisão os ditames legais e estruturais do SUS.",
+        "fundamentacao_correta": "Com base na Constituição Federal de 1988 (Artigos 196 a 200) e nas Leis Orgânicas da Saúde nº 8.080/1990 e 8.142/1990, o SUS rege-se pelos princípios doutrinários de Universalidade, Integralidade e Equidade, somados às diretrizes organizativas de Descentralização, Regionalização e Participação da Comunidade. A alternativa [A] ('Cereais polidos excessivamente, como o arroz branco e os grãos de trigo usados na confecção da maioria das farinhas de trigo, apresentam menor quantidade de fibras e micronutrientes.') fundamenta-se nos preceitos constitucionais e infraconstitucionais vigentes.",
         "analise_distratores": [
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Alimentos in natura demoram a se deteriorar e esta é a principal razão para que ...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Alimentos in natura demoram a se deteriorar e esta é a principal razão para que ...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'O uso do limão em saladas reforça a necessidade de adição de sal e óleo....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'O uso do limão em saladas reforça a necessidade de adição de sal e óleo....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'O chamado macarrão “instantâneo” é um alimento processado e seu consumo é recome...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'O chamado macarrão “instantâneo” é um alimento processado e seu consumo é recome...' não corresponde à diretriz ou definição válida."
+          },
+          {
+            "letra": "E",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Alimentos em conserva não preservam os nutrientes do alimento in natura e contêm...' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Com base na Constituição Federal (Art. 196 a 200) e na Lei Orgânica da Saúde (Leis nº 8.080/1990 e 8.142/1990), o Sistema Único de Saúde fundamenta-se nos princípios de universalidade, integralidade e equidade, garantindo o controle social e a descentralização político-administrativa. A alternativa [A] ('equipe de saúde do Tribunal Regional do Trabalho, visando à promoção da saúde do colaborador e seus familiares, decidiu desenvolver ações para disseminar a cultura da alimentação saudável em consonância com os atributos e princípios do Guia Alimentar da População Brasileira do Ministério da Saúde. Dentre as orientações, a equipe deve ressaltar:') enuncia com precisão os ditames legais e estruturais do SUS.",
-        "id": "FCC0049",
+        "comentario": "Com base na Constituição Federal de 1988 (Artigos 196 a 200) e nas Leis Orgânicas da Saúde nº 8.080/1990 e 8.142/1990, o SUS rege-se pelos princípios doutrinários de Universalidade, Integralidade e Equidade, somados às diretrizes organizativas de Descentralização, Regionalização e Participação da Comunidade. A alternativa [A] ('Cereais polidos excessivamente, como o arroz branco e os grãos de trigo usados na confecção da maioria das farinhas de trigo, apresentam menor quantidade de fibras e micronutrientes.') fundamenta-se nos preceitos constitucionais e infraconstitucionais vigentes.",
+        "id": "FCC_ENF0049",
         "numero_ordem": 49,
-        "numero_simulado": 30
+        "numero_simulado": 22
       },
       {
         "codigo_origem": "Q1970046",
@@ -8341,7 +7885,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Saúde Pública, SUS e Atenção Básica",
-        "enunciado": "Apoio - Enfermagem do Trabalho Para uma colaboradora com 25 anos, o médico solicitou que fosse coletada amostra de sangue para a realização do exame de Beta hCG. Esse exame é realizado quando há suspeita de",
+        "enunciado": "Para uma colaboradora com 25 anos, o médico solicitou que fosse coletada amostra de sangue para a realização do exame de Beta hCG. Esse exame é realizado quando há suspeita de",
         "alternativas": [
           {
             "id": "A",
@@ -8365,29 +7909,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "D",
-        "fundamentacao_correta": "Com base na Constituição Federal (Art. 196 a 200) e na Lei Orgânica da Saúde (Leis nº 8.080/1990 e 8.142/1990), o Sistema Único de Saúde fundamenta-se nos princípios de universalidade, integralidade e equidade, garantindo o controle social e a descentralização político-administrativa. A alternativa [D] ('gravidez.') enuncia com precisão os ditames legais e estruturais do SUS.",
+        "fundamentacao_correta": "Com base na Constituição Federal de 1988 (Artigos 196 a 200) e nas Leis Orgânicas da Saúde nº 8.080/1990 e 8.142/1990, o SUS rege-se pelos princípios doutrinários de Universalidade, Integralidade e Equidade, somados às diretrizes organizativas de Descentralização, Regionalização e Participação da Comunidade. A alternativa [D] ('gravidez.') fundamenta-se nos preceitos constitucionais e infraconstitucionais vigentes.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'hepatite C....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'hepatite C....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'hipertireodismo....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'hipertireodismo....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'sífilis....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'sífilis....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'hepatite A....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'hepatite A....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Com base na Constituição Federal (Art. 196 a 200) e na Lei Orgânica da Saúde (Leis nº 8.080/1990 e 8.142/1990), o Sistema Único de Saúde fundamenta-se nos princípios de universalidade, integralidade e equidade, garantindo o controle social e a descentralização político-administrativa. A alternativa [D] ('gravidez.') enuncia com precisão os ditames legais e estruturais do SUS.",
-        "id": "FCC0052",
+        "comentario": "Com base na Constituição Federal de 1988 (Artigos 196 a 200) e nas Leis Orgânicas da Saúde nº 8.080/1990 e 8.142/1990, o SUS rege-se pelos princípios doutrinários de Universalidade, Integralidade e Equidade, somados às diretrizes organizativas de Descentralização, Regionalização e Participação da Comunidade. A alternativa [D] ('gravidez.') fundamenta-se nos preceitos constitucionais e infraconstitucionais vigentes.",
+        "id": "FCC_ENF0052",
         "numero_ordem": 52,
-        "numero_simulado": 31
+        "numero_simulado": 23
       },
       {
         "codigo_origem": "Q2108264",
@@ -8399,7 +7943,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Farmacologia, Cálculo e Administração de Medicamentos",
-        "enunciado": "Foram prescritos 600 mg de um antiviral via oral, duas vezes ao dia. A unidade dispõe de frasco (solução oral) com 240 mL (80 mg/mL). Para cada dose prescrita, o Técnico de Enfermagem deve administrar, em mL, o correspondente a",
+        "enunciado": "Foram prescritos 600 mg de um antiviral via oral, duas vezes ao dia. A unidade dispõe de frasco (solução oral) com a",
         "alternativas": [
           {
             "id": "A",
@@ -8419,33 +7963,33 @@ export const SIMULADOS_OFICIAIS = [
           },
           {
             "id": "E",
-            "texto": "6,"
+            "texto": "6,5"
           }
         ],
         "resposta_correta": "C",
-        "fundamentacao_correta": "A administração segura de medicamentos exige aplicação estrita dos 'certos' da enfermagem, além do domínio das fórmulas de gotejamento (gotas/min = V / (T x 3); microgotas/min = V / T) e equivalências de diluição. A alternativa [C] ('7,5') apresenta a resolução exata e o respaldo farmacológico preconizado.",
+        "fundamentacao_correta": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('7,5') apresenta a resposta matemática e clínica correta.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: '4,8...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '4,8...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: '15...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '15...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: '3,0...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '3,0...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: '6,...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '6,5...' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "A administração segura de medicamentos exige aplicação estrita dos 'certos' da enfermagem, além do domínio das fórmulas de gotejamento (gotas/min = V / (T x 3); microgotas/min = V / T) e equivalências de diluição. A alternativa [C] ('7,5') apresenta a resolução exata e o respaldo farmacológico preconizado.",
-        "id": "FCC0006",
+        "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('7,5') apresenta a resposta matemática e clínica correta.",
+        "id": "FCC_ENF0006",
         "numero_ordem": 6,
-        "numero_simulado": 32
+        "numero_simulado": 24
       },
       {
         "codigo_origem": "Q2108263",
@@ -8457,7 +8001,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Farmacologia, Cálculo e Administração de Medicamentos",
-        "enunciado": "O SF0,9% de 250 mL do senhor A.M.O. está correndo com 100 gotas por minuto. Sabendo que o soro foi instalado às 11 horas, a previsão de término da infusão será aproximadamente às",
+        "enunciado": "O SF0,9% de 250 mL do senhor A.M.O. está correndo com 100 gotas por minuto. Sabendo que o soro foi instalado às",
         "alternativas": [
           {
             "id": "A",
@@ -8481,29 +8025,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "D",
-        "fundamentacao_correta": "A administração segura de medicamentos exige aplicação estrita dos 'certos' da enfermagem, além do domínio das fórmulas de gotejamento (gotas/min = V / (T x 3); microgotas/min = V / T) e equivalências de diluição. A alternativa [D] ('11 horas e 50 minutos.') apresenta a resolução exata e o respaldo farmacológico preconizado.",
+        "fundamentacao_correta": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('11 horas e 50 minutos.') apresenta a resposta matemática e clínica correta.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Apresenta parâmetros numéricos/posológicos incorretos em desacordo com as diretrizes de referência: '11 horas e 25 minutos....'."
+            "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: '11 horas e 25 minutos....' diverge das referências oficiais."
           },
           {
             "letra": "B",
-            "motivo": "Apresenta parâmetros numéricos/posológicos incorretos em desacordo com as diretrizes de referência: '12 horas e 5 minutos....'."
+            "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: '12 horas e 5 minutos....' diverge das referências oficiais."
           },
           {
             "letra": "C",
-            "motivo": "Apresenta parâmetros numéricos/posológicos incorretos em desacordo com as diretrizes de referência: '11 horas e 15 minutos....'."
+            "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: '11 horas e 15 minutos....' diverge das referências oficiais."
           },
           {
             "letra": "E",
-            "motivo": "Apresenta parâmetros numéricos/posológicos incorretos em desacordo com as diretrizes de referência: '12 horas e 45 minutos....'."
+            "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: '12 horas e 45 minutos....' diverge das referências oficiais."
           }
         ],
-        "comentario": "A administração segura de medicamentos exige aplicação estrita dos 'certos' da enfermagem, além do domínio das fórmulas de gotejamento (gotas/min = V / (T x 3); microgotas/min = V / T) e equivalências de diluição. A alternativa [D] ('11 horas e 50 minutos.') apresenta a resolução exata e o respaldo farmacológico preconizado.",
-        "id": "FCC0007",
+        "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('11 horas e 50 minutos.') apresenta a resposta matemática e clínica correta.",
+        "id": "FCC_ENF0007",
         "numero_ordem": 7,
-        "numero_simulado": 33
+        "numero_simulado": 25
       },
       {
         "codigo_origem": "Q2108262",
@@ -8535,33 +8079,33 @@ export const SIMULADOS_OFICIAIS = [
           },
           {
             "id": "E",
-            "texto": ""
+            "texto": "55"
           }
         ],
         "resposta_correta": "A",
-        "fundamentacao_correta": "A administração segura de medicamentos exige aplicação estrita dos 'certos' da enfermagem, além do domínio das fórmulas de gotejamento (gotas/min = V / (T x 3); microgotas/min = V / T) e equivalências de diluição. A alternativa [A] ('45') apresenta a resolução exata e o respaldo farmacológico preconizado.",
+        "fundamentacao_correta": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('45') apresenta a resposta matemática e clínica correta.",
         "analise_distratores": [
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: '15...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '15...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: '41...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '41...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: '16...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '16...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: '...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '55...' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "A administração segura de medicamentos exige aplicação estrita dos 'certos' da enfermagem, além do domínio das fórmulas de gotejamento (gotas/min = V / (T x 3); microgotas/min = V / T) e equivalências de diluição. A alternativa [A] ('45') apresenta a resolução exata e o respaldo farmacológico preconizado.",
-        "id": "FCC0008",
+        "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('45') apresenta a resposta matemática e clínica correta.",
+        "id": "FCC_ENF0008",
         "numero_ordem": 8,
-        "numero_simulado": 34
+        "numero_simulado": 26
       },
       {
         "codigo_origem": "Q2108261",
@@ -8573,12 +8117,8 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Farmacologia, Cálculo e Administração de Medicamentos",
-        "enunciado": "Especializado - Especialidade Enfermagem do Trabalho",
+        "enunciado": "Medicação Subcutânea , Medicação Intramuscular A administração de medicamentos é uma das atividades que o Técnico de Enfermagem realiza com muita frequência. Dentre as vias de administração enteral de medicamentos, está a via",
         "alternativas": [
-          {
-            "id": "A",
-            "texto": "administração de medicamentos é uma das atividades que o Técnico de Enfermagem realiza com muita frequência. Dentre as vias de administração enteral de medicamentos, está a via"
-          },
           {
             "id": "A",
             "texto": "intranasal."
@@ -8593,33 +8133,37 @@ export const SIMULADOS_OFICIAIS = [
           },
           {
             "id": "D",
-            "texto": "intratecal. E transmucosa."
+            "texto": "intratecal."
+          },
+          {
+            "id": "E",
+            "texto": "transmucosa."
           }
         ],
         "resposta_correta": "B",
-        "fundamentacao_correta": "A administração segura de medicamentos exige aplicação estrita dos 'certos' da enfermagem, além do domínio das fórmulas de gotejamento (gotas/min = V / (T x 3); microgotas/min = V / T) e equivalências de diluição. A alternativa [B] ('retal.') apresenta a resolução exata e o respaldo farmacológico preconizado.",
+        "fundamentacao_correta": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('retal.') apresenta a resposta matemática e clínica correta.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'administração de medicamentos é uma das atividades que o Técnico de Enfermagem r...' não representa a conduta indicada."
-          },
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'intranasal....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'intranasal....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'otológica....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'otológica....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'intratecal. E transmucosa....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'intratecal....' não corresponde à diretriz ou definição válida."
+          },
+          {
+            "letra": "E",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'transmucosa....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "A administração segura de medicamentos exige aplicação estrita dos 'certos' da enfermagem, além do domínio das fórmulas de gotejamento (gotas/min = V / (T x 3); microgotas/min = V / T) e equivalências de diluição. A alternativa [B] ('retal.') apresenta a resolução exata e o respaldo farmacológico preconizado.",
-        "id": "FCC0009",
+        "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('retal.') apresenta a resposta matemática e clínica correta.",
+        "id": "FCC_ENF0009",
         "numero_ordem": 9,
-        "numero_simulado": 35
+        "numero_simulado": 27
       },
       {
         "codigo_origem": "Q2108268",
@@ -8655,29 +8199,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "D",
-        "fundamentacao_correta": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem), a atuação profissional deve pautar-se pela autonomia, competência técnica e respeito aos direitos da pessoa humana. A alternativa [D] ('de duas testemunhas.') reflete com fidelidade os direitos, deveres ou proibições ético-legais da categoria.",
+        "fundamentacao_correta": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('de duas testemunhas.') traduz com precisão o comando ético-legal correspondente.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'do diretor da unidade de trabalho....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'do diretor da unidade de trabalho....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'de dois profissionais da empresa da mesma categoria....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'de dois profissionais da empresa da mesma categoria....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'do delator....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'do delator....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'do oficial de justiça....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'do oficial de justiça....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem), a atuação profissional deve pautar-se pela autonomia, competência técnica e respeito aos direitos da pessoa humana. A alternativa [D] ('de duas testemunhas.') reflete com fidelidade os direitos, deveres ou proibições ético-legais da categoria.",
-        "id": "FCC0002",
+        "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('de duas testemunhas.') traduz com precisão o comando ético-legal correspondente.",
+        "id": "FCC_ENF0002",
         "numero_ordem": 2,
-        "numero_simulado": 36
+        "numero_simulado": 28
       },
       {
         "codigo_origem": "Q1971248",
@@ -8689,7 +8233,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Enfermeiro",
         "materia": "Enfermagem",
         "assunto": "Legislação de Enfermagem e Código de Ética",
-        "enunciado": "Apoio - Enfermagem do Trabalho Considerando a atuação do enfermeiro na Saúde Digital, a Resolução do Conselho Regional de Enfermagem − Cofen nº 696 de 2022, estabelece que a consulta de enfermagem mediada por Tecnologia de Informação e Comunicação",
+        "enunciado": "Considerando a atuação do enfermeiro na Saúde Digital, a Resolução do Conselho Regional de Enfermagem − Cofen nº 696 de 2022, estabelece que a consulta de enfermagem mediada por Tecnologia de Informação e Comunicação",
         "alternativas": [
           {
             "id": "A",
@@ -8709,33 +8253,33 @@ export const SIMULADOS_OFICIAIS = [
           },
           {
             "id": "E",
-            "texto": "contempla o escopo de atendimento pré-hospitalar, que é regido por Resolução Cofen nº 655/2020, desde que autorizado pelo paciente e realizado por equipe devidamente treinada e supervisionada."
+            "texto": "contempla o escopo de atendimento pré-hospitalar, que é regido por Resolução Cofen nº"
           }
         ],
         "resposta_correta": "C",
-        "fundamentacao_correta": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem), a atuação profissional deve pautar-se pela autonomia, competência técnica e respeito aos direitos da pessoa humana. A alternativa [C] ('poderá gerar prescrição de medicamentos, solicitação de exames e encaminhamentos desde que previstos em protocolos, diretrizes clínicas e terapêuticas, ou outras normativas técnicas estabelecidas no âmbito do SUS, bem como na saúde suplementar e privada.') reflete com fidelidade os direitos, deveres ou proibições ético-legais da categoria.",
+        "fundamentacao_correta": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('poderá gerar prescrição de medicamentos, solicitação de exames e encaminhamentos desde que previstos em protocolos, diretrizes clínicas e terapêuticas, ou outras normativas técnicas estabelecidas no âmbito do SUS, bem como na saúde suplementar e privada.') traduz com precisão o comando ético-legal correspondente.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Apresenta termo restritivo ('é realizada para atendimento de situações de urgência ou emergência, e...'), generalizando indevidamente uma situação que admite exceções clínicas ou normativas."
+            "motivo": "Apresenta termo restritivo ('é realizada para atendimento de situações de urgência ou emergência, exclusivame...'), generalizando indevidamente uma situação assistencial que comporta exceções clínicas ou normativas."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'deve ser realizada pela equipe de enfermagem de forma assíncrona com base na Sis...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'deve ser realizada pela equipe de enfermagem de forma assíncrona com base na Sis...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'ocorre pela interação através de mensagens por texto e/ou áudio (assíncronas), e...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'ocorre pela interação através de mensagens por texto e/ou áudio (assíncronas), e...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'contempla o escopo de atendimento pré-hospitalar, que é regido por Resolução Cof...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'contempla o escopo de atendimento pré-hospitalar, que é regido por Resolução Cof...' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem), a atuação profissional deve pautar-se pela autonomia, competência técnica e respeito aos direitos da pessoa humana. A alternativa [C] ('poderá gerar prescrição de medicamentos, solicitação de exames e encaminhamentos desde que previstos em protocolos, diretrizes clínicas e terapêuticas, ou outras normativas técnicas estabelecidas no âmbito do SUS, bem como na saúde suplementar e privada.') reflete com fidelidade os direitos, deveres ou proibições ético-legais da categoria.",
-        "id": "FCC0028",
+        "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('poderá gerar prescrição de medicamentos, solicitação de exames e encaminhamentos desde que previstos em protocolos, diretrizes clínicas e terapêuticas, ou outras normativas técnicas estabelecidas no âmbito do SUS, bem como na saúde suplementar e privada.') traduz com precisão o comando ético-legal correspondente.",
+        "id": "FCC_ENF0028",
         "numero_ordem": 28,
-        "numero_simulado": 37
+        "numero_simulado": 29
       },
       {
         "codigo_origem": "Q1970069",
@@ -8747,7 +8291,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Legislação de Enfermagem e Código de Ética",
-        "enunciado": "Apoio - Enfermagem do Trabalho Um profissional do Tribunal Regional do Trabalho foi transferido do setor onde atuava como escriturário para exercer nova função em outro departamento. Nessa situação hipotética, considerando a Norma Regulamentadora NR-7 que trata do Programa de Controle Médico de Saúde Ocupacional (PCMSO), quando requerido, o exame médico",
+        "enunciado": "Um profissional do Tribunal Regional do Trabalho foi transferido do setor onde atuava como escriturário para exercer nova função em outro departamento. Nessa situação hipotética, considerando a Norma Regulamentadora NR-7 que trata do Programa de Controle Médico de Saúde Ocupacional (PCMSO), quando requerido, o exame médico",
         "alternativas": [
           {
             "id": "A",
@@ -8771,33 +8315,33 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "C",
-        "fundamentacao_correta": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem), a atuação profissional deve pautar-se pela autonomia, competência técnica e respeito aos direitos da pessoa humana. A alternativa [C] ('de mudança de risco ocupacional deve, obrigatoriamente, ser realizado antes da data da sua mudança, adequando-se o controle médico aos novos riscos.') reflete com fidelidade os direitos, deveres ou proibições ético-legais da categoria.",
+        "fundamentacao_correta": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('de mudança de risco ocupacional deve, obrigatoriamente, ser realizado antes da data da sua mudança, adequando-se o controle médico aos novos riscos.') traduz com precisão o comando ético-legal correspondente.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Apresenta parâmetros numéricos/posológicos incorretos em desacordo com as diretrizes de referência: 'demissional deve ser realizado em até 10 (dez) dias contados do término da mudan...'."
+            "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: 'demissional deve ser realizado em até 10 (dez) dias contados do término da mudan...' diverge das referências oficiais."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'admissional deve ser realizado antes que o profissional assuma suas atividades n...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'admissional deve ser realizado antes que o profissional assuma suas atividades n...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'de retorno ao trabalho deve ser realizado após o profissional reassumir suas fun...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'de retorno ao trabalho deve ser realizado após o profissional reassumir suas fun...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Apresenta parâmetros numéricos/posológicos incorretos em desacordo com as diretrizes de referência: 'de mudança de função pode ser dispensado, caso o profissional tenha realizado o ...'."
+            "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: 'de mudança de função pode ser dispensado, caso o profissional tenha realizado o ...' diverge das referências oficiais."
           }
         ],
-        "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem), a atuação profissional deve pautar-se pela autonomia, competência técnica e respeito aos direitos da pessoa humana. A alternativa [C] ('de mudança de risco ocupacional deve, obrigatoriamente, ser realizado antes da data da sua mudança, adequando-se o controle médico aos novos riscos.') reflete com fidelidade os direitos, deveres ou proibições ético-legais da categoria.",
-        "id": "FCC0032",
+        "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('de mudança de risco ocupacional deve, obrigatoriamente, ser realizado antes da data da sua mudança, adequando-se o controle médico aos novos riscos.') traduz com precisão o comando ético-legal correspondente.",
+        "id": "FCC_ENF0032",
         "numero_ordem": 32,
-        "numero_simulado": 38
+        "numero_simulado": 30
       },
       {
-        "codigo_origem": "Q1970062",
-        "numero_original": 218,
+        "codigo_origem": "Q1970065",
+        "numero_original": 216,
         "banca": "FCC",
         "orgao": "TRT - 23ª REGIÃO (MT)",
         "ano": 2022,
@@ -8805,53 +8349,53 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Legislação de Enfermagem e Código de Ética",
-        "enunciado": "Apoio - Enfermagem do Trabalho José, um dos seguranças do Tribunal que permanece em pé no controle de acesso durante toda sua jornada de trabalho, foi diagnosticado com Dorsalgia (CID 10 M54) pelo médico do ambulatório. O Técnico de Enfermagem, nessa situação hipotética, reconhece que essa doença relacionada ao trabalho tem como agente e/ou fator de risco, de acordo com o Anexo da Portaria no 2.309, de 28 de Agosto de 2020 do Ministério da Saúde, dentre outros,",
+        "enunciado": "A Política Nacional de Humanização (PNH) atua a partir de orientações clínicas, éticas e políticas, que se traduzem em determinados arranjos de trabalho. Dentre as diretrizes da PNH, incluem-se criar espaços saudáveis, acolhedores e confortáveis, que respeitem a privacidade, propiciem mudanças no processo de trabalho e sejam lugares de encontro entre as pessoas, que é o conceito de",
         "alternativas": [
           {
             "id": "A",
-            "texto": "as varizes dos membros inferiores."
+            "texto": "ambiência."
           },
           {
             "id": "B",
-            "texto": "o ortostatismo prolongado."
+            "texto": "clínica ampliada e compartilhada."
           },
           {
             "id": "C",
-            "texto": "o transtorno dos discos cervicais."
+            "texto": "valorização do trabalhador."
           },
           {
             "id": "D",
-            "texto": "a variação de pressão ambiental no trabalho."
+            "texto": "acolhimento."
           },
           {
             "id": "E",
-            "texto": "a dor lombar baixa."
+            "texto": "defesa dos direitos do usuário."
           }
         ],
-        "resposta_correta": "B",
-        "fundamentacao_correta": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem), a atuação profissional deve pautar-se pela autonomia, competência técnica e respeito aos direitos da pessoa humana. A alternativa [B] ('o ortostatismo prolongado.') reflete com fidelidade os direitos, deveres ou proibições ético-legais da categoria.",
+        "resposta_correta": "A",
+        "fundamentacao_correta": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('ambiência.') traduz com precisão o comando ético-legal correspondente.",
         "analise_distratores": [
           {
-            "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'as varizes dos membros inferiores....' não representa a conduta indicada."
+            "letra": "B",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'clínica ampliada e compartilhada....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'o transtorno dos discos cervicais....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'valorização do trabalhador....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'a variação de pressão ambiental no trabalho....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'acolhimento....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'a dor lombar baixa....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'defesa dos direitos do usuário....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem), a atuação profissional deve pautar-se pela autonomia, competência técnica e respeito aos direitos da pessoa humana. A alternativa [B] ('o ortostatismo prolongado.') reflete com fidelidade os direitos, deveres ou proibições ético-legais da categoria.",
-        "id": "FCC0038",
-        "numero_ordem": 38,
-        "numero_simulado": 39
+        "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('ambiência.') traduz com precisão o comando ético-legal correspondente.",
+        "id": "FCC_ENF0036",
+        "numero_ordem": 36,
+        "numero_simulado": 31
       },
       {
         "codigo_origem": "Q1971264",
@@ -8863,7 +8407,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Enfermeiro",
         "materia": "Enfermagem",
         "assunto": "Urgência, Emergência e PCR",
-        "enunciado": "Apoio - Enfermagem do Trabalho Durante uma consulta de rotina, um colaborador de 55 anos realizou um exame de eletrocardiograma. O traçado identificado no momento da monitorização está identificado na figura abaixo. Esse traçado indica",
+        "enunciado": "Durante uma consulta de rotina, um colaborador de 55 anos realizou um exame de eletrocardiograma. O traçado identificado no momento da monitorização está identificado na figura abaixo. Esse traçado indica",
         "alternativas": [
           {
             "id": "A",
@@ -8887,29 +8431,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "B",
-        "fundamentacao_correta": "Em conformidade com as Diretrizes de Ressuscitação Cardiopulmonar e Cuidados Cardiovasculares de Emergência da American Heart Association (AHA) e protocolos do SAMU/MS, a priorização das manobras de suporte básico e avançado de vida visa à perfusão coronariana e cerebral precoce e de alta qualidade. A alternativa [B] ('ritmo sinusal.') é a conduta correta respaldada pelos consensos de urgência e emergência.",
+        "fundamentacao_correta": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('ritmo sinusal.') traduz a conduta prioritária e tecnicamente fundamentada.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'flutter atrial....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'flutter atrial....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'fibrilação atrial....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'fibrilação atrial....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'fibrilação ventricular....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'fibrilação ventricular....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'taquicardia supraventricular....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'taquicardia supraventricular....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Em conformidade com as Diretrizes de Ressuscitação Cardiopulmonar e Cuidados Cardiovasculares de Emergência da American Heart Association (AHA) e protocolos do SAMU/MS, a priorização das manobras de suporte básico e avançado de vida visa à perfusão coronariana e cerebral precoce e de alta qualidade. A alternativa [B] ('ritmo sinusal.') é a conduta correta respaldada pelos consensos de urgência e emergência.",
-        "id": "FCC0015",
+        "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('ritmo sinusal.') traduz a conduta prioritária e tecnicamente fundamentada.",
+        "id": "FCC_ENF0015",
         "numero_ordem": 15,
-        "numero_simulado": 40
+        "numero_simulado": 32
       },
       {
         "codigo_origem": "Q1971258",
@@ -8921,7 +8465,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Enfermeiro",
         "materia": "Enfermagem",
         "assunto": "Urgência, Emergência e PCR",
-        "enunciado": "Apoio - Enfermagem do Trabalho Em caso de Acidente Vascular Cerebral isquêmico agudo, a equipe de saúde deve estar atenta ao período crítico para a administração das terapias de reperfusão. Com o tempo marcado desde o início dos sintomas, a administração de tratamento fibrinolítico deve ocorrer em até",
+        "enunciado": "Em caso de Acidente Vascular Cerebral isquêmico agudo, a equipe de saúde deve estar atenta ao período crítico para a administração das terapias de reperfusão. Com o tempo marcado desde o início dos sintomas, a administração de tratamento fibrinolítico deve ocorrer em até",
         "alternativas": [
           {
             "id": "A",
@@ -8945,29 +8489,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "E",
-        "fundamentacao_correta": "Em conformidade com as Diretrizes de Ressuscitação Cardiopulmonar e Cuidados Cardiovasculares de Emergência da American Heart Association (AHA) e protocolos do SAMU/MS, a priorização das manobras de suporte básico e avançado de vida visa à perfusão coronariana e cerebral precoce e de alta qualidade. A alternativa [E] ('3 horas ou 4,5 horas em determinados pacientes.') é a conduta correta respaldada pelos consensos de urgência e emergência.",
+        "fundamentacao_correta": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('3 horas ou 4,5 horas em determinados pacientes.') traduz a conduta prioritária e tecnicamente fundamentada.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Apresenta parâmetros numéricos/posológicos incorretos em desacordo com as diretrizes de referência: '45 minutos....'."
+            "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: '45 minutos....' diverge das referências oficiais."
           },
           {
             "letra": "B",
-            "motivo": "Apresenta parâmetros numéricos/posológicos incorretos em desacordo com as diretrizes de referência: '5 horas em pacientes acima de 50 anos....'."
+            "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: '5 horas em pacientes acima de 50 anos....' diverge das referências oficiais."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: '1,5 hora de acordo com o peso e a idade do paciente....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '1,5 hora de acordo com o peso e a idade do paciente....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Apresenta parâmetros numéricos/posológicos incorretos em desacordo com as diretrizes de referência: '5 horas ou 8 horas dependendo do grau de hemiplegia do paciente....'."
+            "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: '5 horas ou 8 horas dependendo do grau de hemiplegia do paciente....' diverge das referências oficiais."
           }
         ],
-        "comentario": "Em conformidade com as Diretrizes de Ressuscitação Cardiopulmonar e Cuidados Cardiovasculares de Emergência da American Heart Association (AHA) e protocolos do SAMU/MS, a priorização das manobras de suporte básico e avançado de vida visa à perfusão coronariana e cerebral precoce e de alta qualidade. A alternativa [E] ('3 horas ou 4,5 horas em determinados pacientes.') é a conduta correta respaldada pelos consensos de urgência e emergência.",
-        "id": "FCC0021",
+        "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('3 horas ou 4,5 horas em determinados pacientes.') traduz a conduta prioritária e tecnicamente fundamentada.",
+        "id": "FCC_ENF0021",
         "numero_ordem": 21,
-        "numero_simulado": 41
+        "numero_simulado": 33
       },
       {
         "codigo_origem": "Q1970059",
@@ -8979,7 +8523,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Urgência, Emergência e PCR",
-        "enunciado": "Apoio - Enfermagem do Trabalho Ao identificar um indivíduo caído com suspeita de intoxicação por opioide em um ambiente extra hospitalar, de acordo com as recomendações da American Heart Association 2020 para o Suporte Básico de Vida, o profissional de saúde deve, dentre outras condutas:",
+        "enunciado": "Ao identificar um indivíduo caído com suspeita de intoxicação por opioide em um ambiente extra hospitalar, de acordo com as recomendações da American Heart Association 2020 para o Suporte Básico de Vida, o profissional de saúde deve, dentre outras condutas:",
         "alternativas": [
           {
             "id": "A",
@@ -9003,29 +8547,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "E",
-        "fundamentacao_correta": "Em conformidade com as Diretrizes de Ressuscitação Cardiopulmonar e Cuidados Cardiovasculares de Emergência da American Heart Association (AHA) e protocolos do SAMU/MS, a priorização das manobras de suporte básico e avançado de vida visa à perfusão coronariana e cerebral precoce e de alta qualidade. A alternativa [E] ('Tocar o ombro, chamar em voz alta, abrir a via aérea e reposicionar o indivíduo, caso esteja respirando normalmente.') é a conduta correta respaldada pelos consensos de urgência e emergência.",
+        "fundamentacao_correta": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('Tocar o ombro, chamar em voz alta, abrir a via aérea e reposicionar o indivíduo, caso esteja respirando normalmente.') traduz a conduta prioritária e tecnicamente fundamentada.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Administrar naloxona via sublingual seguida de duas ventilações, se o pulso esti...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Administrar naloxona via sublingual seguida de duas ventilações, se o pulso esti...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Avaliar a presença de pulso em até 20 segundos, se não estiver respirando normal...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Avaliar a presença de pulso em até 20 segundos, se não estiver respirando normal...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Abrir a via aérea, reposicionar o indivíduo e transportá-lo para hospital, se nã...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Abrir a via aérea, reposicionar o indivíduo e transportá-lo para hospital, se nã...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Apresenta parâmetros numéricos/posológicos incorretos em desacordo com as diretrizes de referência: 'Comprimir o tórax com força em pelo menos 3 cm de profundidade e entre 80 a 100 ...'."
+            "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: 'Comprimir o tórax com força em pelo menos 3 cm de profundidade e entre 80 a 100 ...' diverge das referências oficiais."
           }
         ],
-        "comentario": "Em conformidade com as Diretrizes de Ressuscitação Cardiopulmonar e Cuidados Cardiovasculares de Emergência da American Heart Association (AHA) e protocolos do SAMU/MS, a priorização das manobras de suporte básico e avançado de vida visa à perfusão coronariana e cerebral precoce e de alta qualidade. A alternativa [E] ('Tocar o ombro, chamar em voz alta, abrir a via aérea e reposicionar o indivíduo, caso esteja respirando normalmente.') é a conduta correta respaldada pelos consensos de urgência e emergência.",
-        "id": "FCC0041",
+        "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('Tocar o ombro, chamar em voz alta, abrir a via aérea e reposicionar o indivíduo, caso esteja respirando normalmente.') traduz a conduta prioritária e tecnicamente fundamentada.",
+        "id": "FCC_ENF0041",
         "numero_ordem": 41,
-        "numero_simulado": 42
+        "numero_simulado": 34
       },
       {
         "codigo_origem": "Q2108269",
@@ -9037,12 +8581,8 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Segurança do Paciente e Biossegurança",
-        "enunciado": "Especializado - Especialidade Enfermagem do Trabalho",
+        "enunciado": "A NR-32 dedicou especial atenção ao tratamento de resíduos, por suas implicações na biossegurança pessoal e no meio ambiente. Dentre as recomendações, consta que os sacos plásticos utilizados no acondicionamento dos resíduos de saúde devem",
         "alternativas": [
-          {
-            "id": "A",
-            "texto": "NR-32 dedicou especial atenção ao tratamento de resíduos, por suas implicações na biossegurança pessoal e no meio ambiente. Dentre as recomendações, consta que os sacos plásticos utilizados no acondicionamento dos resíduos de saúde devem"
-          },
           {
             "id": "A",
             "texto": "ser mantidos íntegros até o tratamento final ou a disposição final do resíduo."
@@ -9057,29 +8597,37 @@ export const SIMULADOS_OFICIAIS = [
           },
           {
             "id": "D",
-            "texto": "atender às especificidades definidas por cada instituição, considerando o custo-benefício do material. E ser retirados do local de geração, no máximo uma hora após o seu preenchimento e fechamento."
+            "texto": "atender às especificidades definidas por cada instituição, considerando o custo-benefício do material."
+          },
+          {
+            "id": "E",
+            "texto": "ser retirados do local de geração, no máximo uma hora após o seu preenchimento e fechamento."
           }
         ],
         "resposta_correta": "A",
-        "fundamentacao_correta": "Segundo as diretrizes da NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e da RDC ANVISA nº 36/2013 (Segurança do Paciente), o controle de riscos biológicos, o uso correto de EPIs e as práticas preventivas de eventos adversos são deveres indelegáveis da equipe assistencial. A alternativa [A] ('NR-32 dedicou especial atenção ao tratamento de resíduos, por suas implicações na biossegurança pessoal e no meio ambiente. Dentre as recomendações, consta que os sacos plásticos utilizados no acondicionamento dos resíduos de saúde devem') traduz com rigor os parâmetros normativos e preventivos exigidos pela banca.",
+        "fundamentacao_correta": "De acordo com a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e diretrizes da ANVISA (RDC nº 222/2018 e RDC nº 36/2013), as medidas de contenção de risco biológico, manuseio seguro de resíduos perfurocortantes e uso de equipamentos de proteção são de observância obrigatória. A alternativa [A] ('ser mantidos íntegros até o tratamento final ou a disposição final do resíduo.') enuncia a diretriz preventiva e regulamentar correta.",
         "analise_distratores": [
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'ser fechados de tal forma que não se permita o seu derramamento, a não ser quand...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'ser fechados de tal forma que não se permita o seu derramamento, a não ser quand...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'ser preenchidos até a altura de 2 dedos da borda superior do saco plástico....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'ser preenchidos até a altura de 2 dedos da borda superior do saco plástico....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'atender às especificidades definidas por cada instituição, considerando o custo-...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'atender às especificidades definidas por cada instituição, considerando o custo-...' não corresponde à diretriz ou definição válida."
+          },
+          {
+            "letra": "E",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'ser retirados do local de geração, no máximo uma hora após o seu preenchimento e...' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Segundo as diretrizes da NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e da RDC ANVISA nº 36/2013 (Segurança do Paciente), o controle de riscos biológicos, o uso correto de EPIs e as práticas preventivas de eventos adversos são deveres indelegáveis da equipe assistencial. A alternativa [A] ('NR-32 dedicou especial atenção ao tratamento de resíduos, por suas implicações na biossegurança pessoal e no meio ambiente. Dentre as recomendações, consta que os sacos plásticos utilizados no acondicionamento dos resíduos de saúde devem') traduz com rigor os parâmetros normativos e preventivos exigidos pela banca.",
-        "id": "FCC0001",
+        "comentario": "De acordo com a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e diretrizes da ANVISA (RDC nº 222/2018 e RDC nº 36/2013), as medidas de contenção de risco biológico, manuseio seguro de resíduos perfurocortantes e uso de equipamentos de proteção são de observância obrigatória. A alternativa [A] ('ser mantidos íntegros até o tratamento final ou a disposição final do resíduo.') enuncia a diretriz preventiva e regulamentar correta.",
+        "id": "FCC_ENF0001",
         "numero_ordem": 1,
-        "numero_simulado": 43
+        "numero_simulado": 35
       },
       {
         "codigo_origem": "Q1971287",
@@ -9091,11 +8639,11 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Enfermeiro",
         "materia": "Enfermagem",
         "assunto": "Segurança do Paciente e Biossegurança",
-        "enunciado": "Apoio - Enfermagem do Trabalho No ambiente de trabalho, considerando o manejo de resíduos sólidos de saúde (RSS), de acordo com a RDC nº 222/2018, o enfermeiro deve saber que",
+        "enunciado": "No ambiente de trabalho, considerando o manejo de resíduos sólidos de saúde (RSS), de acordo com a RDC nº",
         "alternativas": [
           {
             "id": "A",
-            "texto": "os sacos para acondicionamento de RSS do grupo A devem ser substituídos ao atingirem o limite de 2/3 (dois terços) de sua capacidade ou então a cada 48 horas, independentemente do volume, visando o conforto ambiental e a segurança dos usuários e profissionais."
+            "texto": "os sacos para acondicionamento de RSS do grupo A devem ser substituídos ao atingirem o limite de"
           },
           {
             "id": "B",
@@ -9111,91 +8659,91 @@ export const SIMULADOS_OFICIAIS = [
           },
           {
             "id": "E",
-            "texto": "os sacos para acondicionamento de RSS que em 24 horas atingiram apenas 1/3 de sua capacidade e estiverem íntegros podem ser esvaziados e reaproveitados."
+            "texto": "os sacos para acondicionamento de RSS que em 24 horas atingiram apenas"
           }
         ],
         "resposta_correta": "A",
-        "fundamentacao_correta": "Segundo as diretrizes da NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e da RDC ANVISA nº 36/2013 (Segurança do Paciente), o controle de riscos biológicos, o uso correto de EPIs e as práticas preventivas de eventos adversos são deveres indelegáveis da equipe assistencial. A alternativa [A] ('os sacos para acondicionamento de RSS do grupo A devem ser substituídos ao atingirem o limite de 2/3 (dois terços) de sua capacidade ou então a cada 48 horas, independentemente do volume, visando o conforto ambiental e a segurança dos usuários e profissionais.') traduz com rigor os parâmetros normativos e preventivos exigidos pela banca.",
+        "fundamentacao_correta": "De acordo com a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e diretrizes da ANVISA (RDC nº 222/2018 e RDC nº 36/2013), as medidas de contenção de risco biológico, manuseio seguro de resíduos perfurocortantes e uso de equipamentos de proteção são de observância obrigatória. A alternativa [A] ('os sacos para acondicionamento de RSS do grupo A devem ser substituídos ao atingirem o limite de') enuncia a diretriz preventiva e regulamentar correta.",
         "analise_distratores": [
           {
             "letra": "B",
-            "motivo": "Apresenta termo restritivo ('o coletor do saco para acondicionamento dos RSS não necessitará de tam...'), generalizando indevidamente uma situação que admite exceções clínicas ou normativas."
+            "motivo": "Apresenta termo restritivo ('o coletor do saco para acondicionamento dos RSS não necessitará de tampa para fe...'), generalizando indevidamente uma situação assistencial que comporta exceções clínicas ou normativas."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'a identificação dos RSS deve estar afixada nos carros de coleta, nos locais de a...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'a identificação dos RSS deve estar afixada nos carros de coleta, nos locais de a...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'o compartilhamento da sala de utilidades ou expurgo com o armazenamento temporár...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'o compartilhamento da sala de utilidades ou expurgo com o armazenamento temporár...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Apresenta parâmetros numéricos/posológicos incorretos em desacordo com as diretrizes de referência: 'os sacos para acondicionamento de RSS que em 24 horas atingiram apenas 1/3 de su...'."
+            "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: 'os sacos para acondicionamento de RSS que em 24 horas atingiram apenas...' diverge das referências oficiais."
           }
         ],
-        "comentario": "Segundo as diretrizes da NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e da RDC ANVISA nº 36/2013 (Segurança do Paciente), o controle de riscos biológicos, o uso correto de EPIs e as práticas preventivas de eventos adversos são deveres indelegáveis da equipe assistencial. A alternativa [A] ('os sacos para acondicionamento de RSS do grupo A devem ser substituídos ao atingirem o limite de 2/3 (dois terços) de sua capacidade ou então a cada 48 horas, independentemente do volume, visando o conforto ambiental e a segurança dos usuários e profissionais.') traduz com rigor os parâmetros normativos e preventivos exigidos pela banca.",
-        "id": "FCC0010",
+        "comentario": "De acordo com a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e diretrizes da ANVISA (RDC nº 222/2018 e RDC nº 36/2013), as medidas de contenção de risco biológico, manuseio seguro de resíduos perfurocortantes e uso de equipamentos de proteção são de observância obrigatória. A alternativa [A] ('os sacos para acondicionamento de RSS do grupo A devem ser substituídos ao atingirem o limite de') enuncia a diretriz preventiva e regulamentar correta.",
+        "id": "FCC_ENF0010",
         "numero_ordem": 10,
-        "numero_simulado": 44
+        "numero_simulado": 36
       },
       {
-        "codigo_origem": "Q1956235",
-        "numero_original": 248,
+        "codigo_origem": "Q1970064",
+        "numero_original": 217,
         "banca": "FCC",
-        "orgao": "TRT - 4ª REGIÃO (RS)",
+        "orgao": "TRT - 23ª REGIÃO (MT)",
         "ano": 2022,
-        "prova": "FCC - 2022 - TRT - 4ª REGIÃO (RS) - Técnico Judiciário - Área Apoio",
+        "prova": "FCC - 2022 - TRT - 23ª REGIÃO (MT) - Técnico Judiciário - Área",
         "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Segurança do Paciente e Biossegurança",
-        "enunciado": "Dentre as medidas de proteção à segurança e à saúde dos trabalhadores dos serviços de saúde relacionadas ao risco químico no ambiente de trabalho consta:",
+        "enunciado": "A Norma Regulamentadora NR-32, dentre as medidas de proteção à segurança e à saúde dos trabalhadores dos serviços de saúde relacionadas aos riscos químicos, determina que",
         "alternativas": [
           {
             "id": "A",
-            "texto": "Manter a rotulagem do fabricante na embalagem original dos produtos químicos utilizados."
+            "texto": "a reutilização das embalagens de produtos químicos ocorra somente após reprocessamento e esterilização."
           },
           {
             "id": "B",
-            "texto": "Reutilizar embalagens de produtos químicos somente após processo de esterilização das mesmas."
+            "texto": "a rotulagem do fabricante na embalagem original dos produtos químicos seja substituída por etiqueta com o nome do produto, data de envase e de validade, e nome do responsável pela manipulação."
           },
           {
             "id": "C",
-            "texto": "Dispor de local para a manipulação ou fracionamento de produtos químicos que disponha de equipamento tipo coifa que garanta a exaustão dos produtos químicos."
+            "texto": "as áreas de armazenamento de produtos químicos devem ser ventiladas e sinalizadas e que devem ser previstas áreas de armazenamento próprias para produtos químicos incompatíveis."
           },
           {
             "id": "D",
-            "texto": "Utilizar cilindros de oxigênio sem a válvula de retenção a fim de impedir o fluxo reverso e a dispersão de gases no ambiente."
+            "texto": "a preparação de medicamentos para administração imediata aos pacientes ocorra em local apropriado para a manipulação ou fracionamento de produtos químicos."
           },
           {
             "id": "E",
-            "texto": "Manter as áreas de armazenamento de produtos químicos fechadas e vedadas a fim de evitar pontos de vazamentos para o ambiente de trabalho."
+            "texto": "a manipulação ou fracionamento de produtos químicos seja realizada em local que disponha de equipamento tipo coifa para garantir a exaustão dos mesmos."
           }
         ],
-        "resposta_correta": "A",
-        "fundamentacao_correta": "Segundo as diretrizes da NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e da RDC ANVISA nº 36/2013 (Segurança do Paciente), o controle de riscos biológicos, o uso correto de EPIs e as práticas preventivas de eventos adversos são deveres indelegáveis da equipe assistencial. A alternativa [A] ('Manter a rotulagem do fabricante na embalagem original dos produtos químicos utilizados.') traduz com rigor os parâmetros normativos e preventivos exigidos pela banca.",
+        "resposta_correta": "C",
+        "fundamentacao_correta": "De acordo com a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e diretrizes da ANVISA (RDC nº 222/2018 e RDC nº 36/2013), as medidas de contenção de risco biológico, manuseio seguro de resíduos perfurocortantes e uso de equipamentos de proteção são de observância obrigatória. A alternativa [C] ('as áreas de armazenamento de produtos químicos devem ser ventiladas e sinalizadas e que devem ser previstas áreas de armazenamento próprias para produtos químicos incompatíveis.') enuncia a diretriz preventiva e regulamentar correta.",
         "analise_distratores": [
           {
-            "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Reutilizar embalagens de produtos químicos somente após processo de esterilizaçã...' não representa a conduta indicada."
+            "letra": "A",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'a reutilização das embalagens de produtos químicos ocorra somente após reprocess...' não corresponde à diretriz ou definição válida."
           },
           {
-            "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Dispor de local para a manipulação ou fracionamento de produtos químicos que dis...' não representa a conduta indicada."
+            "letra": "B",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'a rotulagem do fabricante na embalagem original dos produtos químicos seja subst...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Utilizar cilindros de oxigênio sem a válvula de retenção a fim de impedir o flux...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'a preparação de medicamentos para administração imediata aos pacientes ocorra em...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Manter as áreas de armazenamento de produtos químicos fechadas e vedadas a fim d...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'a manipulação ou fracionamento de produtos químicos seja realizada em local que ...' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Segundo as diretrizes da NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e da RDC ANVISA nº 36/2013 (Segurança do Paciente), o controle de riscos biológicos, o uso correto de EPIs e as práticas preventivas de eventos adversos são deveres indelegáveis da equipe assistencial. A alternativa [A] ('Manter a rotulagem do fabricante na embalagem original dos produtos químicos utilizados.') traduz com rigor os parâmetros normativos e preventivos exigidos pela banca.",
-        "id": "FCC0068",
-        "numero_ordem": 68,
-        "numero_simulado": 45
+        "comentario": "De acordo com a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e diretrizes da ANVISA (RDC nº 222/2018 e RDC nº 36/2013), as medidas de contenção de risco biológico, manuseio seguro de resíduos perfurocortantes e uso de equipamentos de proteção são de observância obrigatória. A alternativa [C] ('as áreas de armazenamento de produtos químicos devem ser ventiladas e sinalizadas e que devem ser previstas áreas de armazenamento próprias para produtos químicos incompatíveis.') enuncia a diretriz preventiva e regulamentar correta.",
+        "id": "FCC_ENF0037",
+        "numero_ordem": 37,
+        "numero_simulado": 37
       },
       {
         "codigo_origem": "Q2108266",
@@ -9207,12 +8755,8 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Imunização e Calendário Vacinal (PNI)",
-        "enunciado": "Especializado - Especialidade Enfermagem do Trabalho",
+        "enunciado": "A equipe de saúde do ambulatório do Tribunal Regional do Trabalho organizou uma campanha de vacinação contra Papiloma-Vírus Humano − HPV para os filhos dos trabalhadores. Considerando o Calendário Nacional de Vacinação, a primeira dose da vacina de HPV é recomendada para meninos",
         "alternativas": [
-          {
-            "id": "A",
-            "texto": "equipe de saúde do ambulatório do Tribunal Regional do Trabalho organizou uma campanha de vacinação contra Papiloma-Vírus Humano − HPV para os filhos dos trabalhadores. Considerando o Calendário Nacional de Vacinação, a primeira dose da vacina de HPV é recomendada para meninos"
-          },
           {
             "id": "A",
             "texto": "de 8 a 16 anos e meninas de 6 a 11 anos."
@@ -9227,37 +8771,37 @@ export const SIMULADOS_OFICIAIS = [
           },
           {
             "id": "D",
-            "texto": "de 11 a 18 anos e meninas de 5 a 13 anos. E e meninas de 9 a 14 anos."
+            "texto": "de 11 a 18 anos e meninas de 5 a 13 anos."
+          },
+          {
+            "id": "E",
+            "texto": "e meninas de 9 a 14 anos."
           }
         ],
         "resposta_correta": "E",
-        "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as vias de administração, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica. A alternativa [E] ('') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
+        "fundamentacao_correta": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [E] ('e meninas de 9 a 14 anos.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'equipe de saúde do ambulatório do Tribunal Regional do Trabalho organizou uma ca...' não representa a conduta indicada."
-          },
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'de 8 a 16 anos e meninas de 6 a 11 anos....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'de 8 a 16 anos e meninas de 6 a 11 anos....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'e meninas de 5 a 10 anos....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'e meninas de 5 a 10 anos....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'e meninas de 10 a 17 anos....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'e meninas de 10 a 17 anos....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'de 11 a 18 anos e meninas de 5 a 13 anos. E e meninas de 9 a 14 anos....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'de 11 a 18 anos e meninas de 5 a 13 anos....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as vias de administração, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica. A alternativa [E] ('') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
-        "id": "FCC0004",
+        "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [E] ('e meninas de 9 a 14 anos.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
+        "id": "FCC_ENF0004",
         "numero_ordem": 4,
-        "numero_simulado": 46
+        "numero_simulado": 38
       },
       {
         "codigo_origem": "Q1971255",
@@ -9269,7 +8813,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Enfermeiro",
         "materia": "Enfermagem",
         "assunto": "Imunização e Calendário Vacinal (PNI)",
-        "enunciado": "Apoio - Enfermagem do Trabalho Dentre as vacinas recomendadas pelo Ministério da Saúde para os profissionais da saúde consta a vacina",
+        "enunciado": "Dentre as vacinas recomendadas pelo Ministério da Saúde para os profissionais da saúde consta a vacina",
         "alternativas": [
           {
             "id": "A",
@@ -9293,29 +8837,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "A",
-        "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as vias de administração, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica. A alternativa [A] ('Influenza.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
+        "fundamentacao_correta": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('Influenza.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
         "analise_distratores": [
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'SCR....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'SCR....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'VIP....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'VIP....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'HPV....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'HPV....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Febre Tifoide....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Febre Tifoide....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as vias de administração, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica. A alternativa [A] ('Influenza.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
-        "id": "FCC0024",
+        "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('Influenza.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
+        "id": "FCC_ENF0024",
         "numero_ordem": 24,
-        "numero_simulado": 47
+        "numero_simulado": 39
       },
       {
         "codigo_origem": "Q1971252",
@@ -9327,7 +8871,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Enfermeiro",
         "materia": "Enfermagem",
         "assunto": "Imunização e Calendário Vacinal (PNI)",
-        "enunciado": "Apoio - Enfermagem do Trabalho Em situação de erro de imunização relacionado a administração de dosagem incorreta da vacina, cabe ressaltar que",
+        "enunciado": "Em situação de erro de imunização relacionado a administração de dosagem incorreta da vacina, cabe ressaltar que",
         "alternativas": [
           {
             "id": "A",
@@ -9351,29 +8895,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "D",
-        "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as vias de administração, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica. A alternativa [D] ('a administração de doses superiores à recomendada não afeta a resposta de produção de anticorpos, sendo somente aconselhável informar os pacientes sobre a possibilidade de um risco aumentado de reações locais.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
+        "fundamentacao_correta": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('a administração de doses superiores à recomendada não afeta a resposta de produção de anticorpos, sendo somente aconselhável informar os pacientes sobre a possibilidade de um risco aumentado de reações locais.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'quando administrada em doses inferiores à recomendada, as vacinas inativadas dev...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'quando administrada em doses inferiores à recomendada, as vacinas inativadas dev...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'quando administrada em doses inferiores à recomendada, a vacinação não deve ser ...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'quando administrada em doses inferiores à recomendada, a vacinação não deve ser ...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Apresenta parâmetros numéricos/posológicos incorretos em desacordo com as diretrizes de referência: 'quando administrada em doses inferiores à recomendada, as vacinas vivas devem se...'."
+            "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: 'quando administrada em doses inferiores à recomendada, as vacinas vivas devem se...' diverge das referências oficiais."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'para qualquer tipo de vacina, na impossibilidade de reaplicação no mesmo dia, é ...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'para qualquer tipo de vacina, na impossibilidade de reaplicação no mesmo dia, é ...' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as vias de administração, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica. A alternativa [D] ('a administração de doses superiores à recomendada não afeta a resposta de produção de anticorpos, sendo somente aconselhável informar os pacientes sobre a possibilidade de um risco aumentado de reações locais.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
-        "id": "FCC0026",
+        "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('a administração de doses superiores à recomendada não afeta a resposta de produção de anticorpos, sendo somente aconselhável informar os pacientes sobre a possibilidade de um risco aumentado de reações locais.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
+        "id": "FCC_ENF0026",
         "numero_ordem": 26,
-        "numero_simulado": 48
+        "numero_simulado": 40
       },
       {
         "codigo_origem": "Q1971267",
@@ -9385,7 +8929,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Enfermeiro",
         "materia": "Enfermagem",
         "assunto": "Epidemiologia e Vigilância em Saúde",
-        "enunciado": "Apoio - Enfermagem do Trabalho Visando levantar subsídios para realizar o planejamento dos programas de saúde e de prevenção de doenças ocupacionais de um determinado serviço, a equipe de saúde realizou um estudo para traçar o perfil epidemiológico dos 800 funcionários daquela unidade. O estudo identificou que 120 colaboradores passaram a usar aparelhos auditivos, quando até então não havia casos registrados. Nessa situação, o valor absoluto da prevalência de problemas relacionados à necessidade de dispositivo para audição é de",
+        "enunciado": "Visando levantar subsídios para realizar o planejamento dos programas de saúde e de prevenção de doenças ocupacionais de um determinado serviço, a equipe de saúde realizou um estudo para traçar o perfil epidemiológico dos 800 funcionários daquela unidade. O estudo identificou que 120 colaboradores passaram a usar aparelhos auditivos, quando até então não havia casos registrados. Nessa situação, o valor absoluto da prevalência de problemas relacionados à necessidade de dispositivo para audição é de",
         "alternativas": [
           {
             "id": "A",
@@ -9409,29 +8953,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "C",
-        "fundamentacao_correta": "De acordo com os conceitos basilares de Epidemiologia e Vigilância em Saúde (Ministério da Saúde), os coeficientes populacionais e a lista nacional de notificação compulsória orientam o planejamento de ações preventivas e intervenções sanitárias tempestivas. A alternativa [C] ('120.') aplica com precisão a definição e metodologia epidemiológica oficial.",
+        "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('120.') configura a resposta correta e plenamente fundamentada.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: '0,15....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '0,15....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: '10....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '10....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: '66....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '66....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: '60....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '60....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "De acordo com os conceitos basilares de Epidemiologia e Vigilância em Saúde (Ministério da Saúde), os coeficientes populacionais e a lista nacional de notificação compulsória orientam o planejamento de ações preventivas e intervenções sanitárias tempestivas. A alternativa [C] ('120.') aplica com precisão a definição e metodologia epidemiológica oficial.",
-        "id": "FCC0012",
+        "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('120.') configura a resposta correta e plenamente fundamentada.",
+        "id": "FCC_ENF0012",
         "numero_ordem": 12,
-        "numero_simulado": 49
+        "numero_simulado": 41
       },
       {
         "codigo_origem": "Q1971266",
@@ -9443,7 +8987,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Enfermeiro",
         "materia": "Enfermagem",
         "assunto": "Epidemiologia e Vigilância em Saúde",
-        "enunciado": "Apoio - Enfermagem do Trabalho Este indicador é elaborado utilizando-se o número de óbitos por uma doença e o número total de doentes que sofrem dessa doença, ao longo de um determinado período de tempo. Esse cálculo corresponde à taxa de",
+        "enunciado": "Este indicador é elaborado utilizando-se o número de óbitos por uma doença e o número total de doentes que sofrem dessa doença, ao longo de um determinado período de tempo. Esse cálculo corresponde à taxa de",
         "alternativas": [
           {
             "id": "A",
@@ -9467,29 +9011,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "A",
-        "fundamentacao_correta": "A administração segura de medicamentos exige aplicação estrita dos 'certos' da enfermagem, além do domínio das fórmulas de gotejamento (gotas/min = V / (T x 3); microgotas/min = V / T) e equivalências de diluição. A alternativa [A] ('Letalidade.') apresenta a resolução exata e o respaldo farmacológico preconizado.",
+        "fundamentacao_correta": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('Letalidade.') apresenta a resposta matemática e clínica correta.",
         "analise_distratores": [
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Mortalidade....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Mortalidade....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Incidência....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Incidência....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Morbidade....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Morbidade....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Comorbidade....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Comorbidade....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "A administração segura de medicamentos exige aplicação estrita dos 'certos' da enfermagem, além do domínio das fórmulas de gotejamento (gotas/min = V / (T x 3); microgotas/min = V / T) e equivalências de diluição. A alternativa [A] ('Letalidade.') apresenta a resolução exata e o respaldo farmacológico preconizado.",
-        "id": "FCC0013",
+        "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('Letalidade.') apresenta a resposta matemática e clínica correta.",
+        "id": "FCC_ENF0013",
         "numero_ordem": 13,
-        "numero_simulado": 50
+        "numero_simulado": 42
       },
       {
         "codigo_origem": "Q1971265",
@@ -9501,7 +9045,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Enfermeiro",
         "materia": "Enfermagem",
         "assunto": "Epidemiologia e Vigilância em Saúde",
-        "enunciado": "Apoio - Enfermagem do Trabalho Considerando a segurança e a saúde do trabalhador do Centro de Material e Esterilização, a Agência Nacional de Vigilância Sanitária por meio da RDC nº 15/2012 recomenda:",
+        "enunciado": "Considerando a segurança e a saúde do trabalhador do Centro de Material e Esterilização, a Agência Nacional de Vigilância Sanitária por meio da RDC nº 15/2012 recomenda:",
         "alternativas": [
           {
             "id": "A",
@@ -9525,29 +9069,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "E",
-        "fundamentacao_correta": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [E] ('Quando não especificado, o equipamento de proteção deve ser compatível com o risco inerente à atividade.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.",
+        "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [E] ('Quando não especificado, o equipamento de proteção deve ser compatível com o risco inerente à atividade.') configura a resposta correta e plenamente fundamentada.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Apresenta parâmetros numéricos/posológicos incorretos em desacordo com as diretrizes de referência: 'Os trabalhadores podem deixar o local de trabalho com os equipamentos de proteçã...'."
+            "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: 'Os trabalhadores podem deixar o local de trabalho com os equipamentos de proteçã...' diverge das referências oficiais."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Na sala de recepção e limpeza, é dispensável o uso de máscara e óculos....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Na sala de recepção e limpeza, é dispensável o uso de máscara e óculos....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Em todas as áreas técnicas e restritas devem ser utilizados touca e calçado fech...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Em todas as áreas técnicas e restritas devem ser utilizados touca e calçado fech...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Para a descarga de secadoras e termodesinfetadoras e carga e descarga de autocla...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Para a descarga de secadoras e termodesinfetadoras e carga e descarga de autocla...' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [E] ('Quando não especificado, o equipamento de proteção deve ser compatível com o risco inerente à atividade.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.",
-        "id": "FCC0014",
+        "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [E] ('Quando não especificado, o equipamento de proteção deve ser compatível com o risco inerente à atividade.') configura a resposta correta e plenamente fundamentada.",
+        "id": "FCC_ENF0014",
         "numero_ordem": 14,
-        "numero_simulado": 51
+        "numero_simulado": 43
       },
       {
         "codigo_origem": "Q1971268",
@@ -9559,7 +9103,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Enfermeiro",
         "materia": "Enfermagem",
         "assunto": "Doenças Crônicas Não Transmissíveis (HAS, Diabetes)",
-        "enunciado": "Apoio - Enfermagem do Trabalho Ao atender um paciente com hipoglicemia, o enfermeiro deve estar atento às manifestações de liberação do sistema simpático como, dentre elas,",
+        "enunciado": "Fundamentos e Procedimentos de Enfermagem Exame Físico Ao atender um paciente com hipoglicemia, o enfermeiro deve estar atento às manifestações de liberação do sistema simpático como, dentre elas,",
         "alternativas": [
           {
             "id": "A",
@@ -9583,29 +9127,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "B",
-        "fundamentacao_correta": "Conforme os Cadernos de Atenção Básica do Ministério da Saúde e as Diretrizes da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento, acompanhamento longitudinal, estratificação de risco cardiovascular e manejo clínico constituem o cerne da consulta de enfermagem. A assertiva [B] ('o tremor.') reflete o padrão clínico e terapêutico recomendado.",
+        "fundamentacao_correta": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('o tremor.') expressa a abordagem terapêutica recomendada.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'a disúria....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'a disúria....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'a dor de cabeça....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'a dor de cabeça....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'a nictúria....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'a nictúria....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'a convulsão....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'a convulsão....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Conforme os Cadernos de Atenção Básica do Ministério da Saúde e as Diretrizes da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento, acompanhamento longitudinal, estratificação de risco cardiovascular e manejo clínico constituem o cerne da consulta de enfermagem. A assertiva [B] ('o tremor.') reflete o padrão clínico e terapêutico recomendado.",
-        "id": "FCC0011",
+        "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('o tremor.') expressa a abordagem terapêutica recomendada.",
+        "id": "FCC_ENF0011",
         "numero_ordem": 11,
-        "numero_simulado": 52
+        "numero_simulado": 44
       },
       {
         "codigo_origem": "Q1971263",
@@ -9617,7 +9161,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Enfermeiro",
         "materia": "Enfermagem",
         "assunto": "Doenças Crônicas Não Transmissíveis (HAS, Diabetes)",
-        "enunciado": "Apoio - Enfermagem do Trabalho Após realizar uma campanha interna de rastreio precoce de câncer de colo de útero nas colaboradoras do Tribunal Regional do Trabalho, a enfermeira da unidade ambulatorial deve providenciar a reposição do material de consumo utilizado. Essa etapa do gerenciamento de materiais é denominada de",
+        "enunciado": "Administração em Enfermagem , Gestão em Saúde Após realizar uma campanha interna de rastreio precoce de câncer de colo de útero nas colaboradoras do Tribunal Regional do Trabalho, a enfermeira da unidade ambulatorial deve providenciar a reposição do material de consumo utilizado. Essa etapa do gerenciamento de materiais é denominada de",
         "alternativas": [
           {
             "id": "A",
@@ -9641,29 +9185,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "D",
-        "fundamentacao_correta": "Conforme os Cadernos de Atenção Básica do Ministério da Saúde e as Diretrizes da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento, acompanhamento longitudinal, estratificação de risco cardiovascular e manejo clínico constituem o cerne da consulta de enfermagem. A assertiva [D] ('Provisão.') reflete o padrão clínico e terapêutico recomendado.",
+        "fundamentacao_correta": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('Provisão.') expressa a abordagem terapêutica recomendada.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Previsão....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Previsão....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Planejamento....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Planejamento....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Controle....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Controle....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Organização....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Organização....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Conforme os Cadernos de Atenção Básica do Ministério da Saúde e as Diretrizes da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento, acompanhamento longitudinal, estratificação de risco cardiovascular e manejo clínico constituem o cerne da consulta de enfermagem. A assertiva [D] ('Provisão.') reflete o padrão clínico e terapêutico recomendado.",
-        "id": "FCC0016",
+        "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('Provisão.') expressa a abordagem terapêutica recomendada.",
+        "id": "FCC_ENF0016",
         "numero_ordem": 16,
-        "numero_simulado": 53
+        "numero_simulado": 45
       },
       {
         "codigo_origem": "Q1956215",
@@ -9699,33 +9243,33 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "D",
-        "fundamentacao_correta": "A administração segura de medicamentos exige aplicação estrita dos 'certos' da enfermagem, além do domínio das fórmulas de gotejamento (gotas/min = V / (T x 3); microgotas/min = V / T) e equivalências de diluição. A alternativa [D] ('tratar o companheiro simultaneamente, para evitar reinfecção.') apresenta a resolução exata e o respaldo farmacológico preconizado.",
+        "fundamentacao_correta": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('tratar o companheiro simultaneamente, para evitar reinfecção.') apresenta a resposta matemática e clínica correta.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Inverte a correlação clínica/normativa preconizada pelos protocolos oficiais da saúde: 'permanecer com área genital umedecida, ajuda a diminuir a proliferação da infecç...'."
+            "motivo": "Inverte a correlação clínica ou a indicação terapêutica oficial: 'permanecer com área genital umedecida, ajuda a diminuir a proliferação da infecç...'."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'usar roupas mais apertadas, preferencialmente....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'usar roupas mais apertadas, preferencialmente....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'coçar a área afetada antes da aplicação do creme vaginal prescrito....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'coçar a área afetada antes da aplicação do creme vaginal prescrito....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'intensificar o uso de duchas vaginais....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'intensificar o uso de duchas vaginais....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "A administração segura de medicamentos exige aplicação estrita dos 'certos' da enfermagem, além do domínio das fórmulas de gotejamento (gotas/min = V / (T x 3); microgotas/min = V / T) e equivalências de diluição. A alternativa [D] ('tratar o companheiro simultaneamente, para evitar reinfecção.') apresenta a resolução exata e o respaldo farmacológico preconizado.",
-        "id": "FCC0082",
+        "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('tratar o companheiro simultaneamente, para evitar reinfecção.') apresenta a resposta matemática e clínica correta.",
+        "id": "FCC_ENF0082",
         "numero_ordem": 82,
-        "numero_simulado": 54
+        "numero_simulado": 46
       },
       {
-        "codigo_origem": "Q1309006",
-        "numero_original": 284,
+        "codigo_origem": "Q1309012",
+        "numero_original": 278,
         "banca": "FCC",
         "orgao": "AL-AP",
         "ano": 2020,
@@ -9733,53 +9277,53 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Enfermeiro",
         "materia": "Enfermagem",
         "assunto": "Saúde da Mulher, Pré-Natal e Parto",
-        "enunciado": "Uma enfermeira foi convidada para dar uma aula, a um grupo de mulheres que fazem uso de pílula anticoncepcional, e o tema escolhido foi interação medicamentosa. Nesse momento, foi ressaltado que algumas drogas interagem com o anticoncepcional, modificando seus efeitos e sua eficácia. Dentre as drogas mais importantes listadas pelo Ministério da Saúde consta:",
+        "enunciado": "A Secretaria Extraordinária de Políticas para as Mulheres (SEPM) do Estado do Amapá, em seu trabalho de conscientização da população a respeito das atuais reivindicações e problemas enfrentados pelas mulheres, desenvolveu, no ano de 2019, um projeto que consiste na realização de cursos com técnicas de lutas adaptadas para defesa pessoal de mulheres em situações de assédio, abuso e agressão. Esse projeto é denominado:",
         "alternativas": [
           {
             "id": "A",
-            "texto": "Fluconazol."
+            "texto": "“Mulher, Viver Sem Violência”."
           },
           {
             "id": "B",
-            "texto": "Dimeticona."
+            "texto": "“Namoro Sem Violência”."
           },
           {
             "id": "C",
-            "texto": "Paracetamol."
+            "texto": "“Papo de Homem: quebrando paradigmas”."
           },
           {
             "id": "D",
-            "texto": "Primidona."
+            "texto": "“Denuncie Mulher Amapá”."
           },
           {
             "id": "E",
-            "texto": "Nistatina."
+            "texto": "“Cravo não Brigue com a Rosa”."
           }
         ],
-        "resposta_correta": "D",
-        "fundamentacao_correta": "A administração segura de medicamentos exige aplicação estrita dos 'certos' da enfermagem, além do domínio das fórmulas de gotejamento (gotas/min = V / (T x 3); microgotas/min = V / T) e equivalências de diluição. A alternativa [D] ('Primidona.') apresenta a resolução exata e o respaldo farmacológico preconizado.",
+        "resposta_correta": "E",
+        "fundamentacao_correta": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco e Atenção ao Parto e Puerpério (Ministério da Saúde), a assistência obstétrica de enfermagem visa à humanização do cuidado, vigilância materno-fetal qualificada e identificação precoce de intercorrências. A alternativa [E] ('“Cravo não Brigue com a Rosa”.') descreve a conduta clínica e preventiva preconizada.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Fluconazol....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '“Mulher, Viver Sem Violência”....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Dimeticona....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '“Namoro Sem Violência”....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Paracetamol....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '“Papo de Homem: quebrando paradigmas”....' não corresponde à diretriz ou definição válida."
           },
           {
-            "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Nistatina....' não representa a conduta indicada."
+            "letra": "D",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '“Denuncie Mulher Amapá”....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "A administração segura de medicamentos exige aplicação estrita dos 'certos' da enfermagem, além do domínio das fórmulas de gotejamento (gotas/min = V / (T x 3); microgotas/min = V / T) e equivalências de diluição. A alternativa [D] ('Primidona.') apresenta a resolução exata e o respaldo farmacológico preconizado.",
-        "id": "FCC0102",
-        "numero_ordem": 102,
-        "numero_simulado": 55
+        "comentario": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco e Atenção ao Parto e Puerpério (Ministério da Saúde), a assistência obstétrica de enfermagem visa à humanização do cuidado, vigilância materno-fetal qualificada e identificação precoce de intercorrências. A alternativa [E] ('“Cravo não Brigue com a Rosa”.') descreve a conduta clínica e preventiva preconizada.",
+        "id": "FCC_ENF0098",
+        "numero_ordem": 98,
+        "numero_simulado": 47
       },
       {
         "codigo_origem": "Q1252165",
@@ -9815,29 +9359,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "D",
-        "fundamentacao_correta": "Segundo os Manuais de Vigilância em Saúde e Manejo Clínico do Ministério da Saúde, o reconhecimento dos sinais de alarme, diagnóstico precoce e medidas de biossegurança/precauções reduzem a morbimortalidade e bloqueiam a cadeia de transmissão comunitária e hospitalar. A alternativa [D] ('não está recomendado devido ao risco de transmissão vertical ao recém-nascido.') é a resposta correta de acordo com as normas técnicas vigentes.",
+        "fundamentacao_correta": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco e Atenção ao Parto e Puerpério (Ministério da Saúde), a assistência obstétrica de enfermagem visa à humanização do cuidado, vigilância materno-fetal qualificada e identificação precoce de intercorrências. A alternativa [D] ('não está recomendado devido ao risco de transmissão vertical ao recém-nascido.') descreve a conduta clínica e preventiva preconizada.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'está permitido quando a carga viral for indetectável....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'está permitido quando a carga viral for indetectável....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'está permitido se os níveis de linfócitos T CD4 estiverem elevados....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'está permitido se os níveis de linfócitos T CD4 estiverem elevados....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'está permitido se a puérpera estiver em uso de terapia com antirretrovirais....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'está permitido se a puérpera estiver em uso de terapia com antirretrovirais....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Inverte a correlação clínica/normativa preconizada pelos protocolos oficiais da saúde: 'não está indicado quando os níveis de linfócitos CD8 estiverem elevados....'."
+            "motivo": "Inverte a correlação clínica ou a indicação terapêutica oficial: 'não está indicado quando os níveis de linfócitos CD8 estiverem elevados....'."
           }
         ],
-        "comentario": "Segundo os Manuais de Vigilância em Saúde e Manejo Clínico do Ministério da Saúde, o reconhecimento dos sinais de alarme, diagnóstico precoce e medidas de biossegurança/precauções reduzem a morbimortalidade e bloqueiam a cadeia de transmissão comunitária e hospitalar. A alternativa [D] ('não está recomendado devido ao risco de transmissão vertical ao recém-nascido.') é a resposta correta de acordo com as normas técnicas vigentes.",
-        "id": "FCC0178",
-        "numero_ordem": 178,
-        "numero_simulado": 56
+        "comentario": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco e Atenção ao Parto e Puerpério (Ministério da Saúde), a assistência obstétrica de enfermagem visa à humanização do cuidado, vigilância materno-fetal qualificada e identificação precoce de intercorrências. A alternativa [D] ('não está recomendado devido ao risco de transmissão vertical ao recém-nascido.') descreve a conduta clínica e preventiva preconizada.",
+        "id": "FCC_ENF0182",
+        "numero_ordem": 182,
+        "numero_simulado": 48
       },
       {
         "codigo_origem": "Q1956230",
@@ -9873,29 +9417,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "D",
-        "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [D] ('trabalho em equipe.') constitui a conduta técnica correta e fundamentada.",
+        "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('trabalho em equipe.') configura a resposta correta e plenamente fundamentada.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'trabalho individualizado....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'trabalho individualizado....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'empreendedorismo....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'empreendedorismo....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'relacionamento individual....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'relacionamento individual....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'suporte tecnológico....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'suporte tecnológico....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [D] ('trabalho em equipe.') constitui a conduta técnica correta e fundamentada.",
-        "id": "FCC0073",
+        "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('trabalho em equipe.') configura a resposta correta e plenamente fundamentada.",
+        "id": "FCC_ENF0073",
         "numero_ordem": 73,
-        "numero_simulado": 57
+        "numero_simulado": 49
       },
       {
         "codigo_origem": "Q1970057",
@@ -9907,12 +9451,8 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Saúde do Idoso e Cuidados Paliativos",
-        "enunciado": "Apoio - Enfermagem do Trabalho",
+        "enunciado": "A queda representa um grande problema para as pessoas idosas devido às suas consequências. Nesse contexto, o os fatores de riscos extrínsecos, está",
         "alternativas": [
-          {
-            "id": "A",
-            "texto": "queda representa um grande problema para as pessoas idosas devido às suas consequências. Nesse contexto, o Técnico de Enfermagem deve estar atento aos fatores de risco intrínsecos e extrínsecos relacionados à queda. Dentre os fatores de riscos extrínsecos, está"
-          },
           {
             "id": "A",
             "texto": "doença de Parkinson."
@@ -9927,33 +9467,37 @@ export const SIMULADOS_OFICIAIS = [
           },
           {
             "id": "D",
-            "texto": "marcha lenta e com passos curtos. E idade superior a 80 anos."
+            "texto": "marcha lenta e com passos curtos."
+          },
+          {
+            "id": "E",
+            "texto": "idade superior a 80 anos."
           }
         ],
         "resposta_correta": "B",
-        "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [B] ('ambiente inseguro e mal iluminado.') constitui a conduta técnica correta e fundamentada.",
+        "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('ambiente inseguro e mal iluminado.') configura a resposta correta e plenamente fundamentada.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'queda representa um grande problema para as pessoas idosas devido às suas conseq...' não representa a conduta indicada."
-          },
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'doença de Parkinson....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'doença de Parkinson....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'polifarmácia....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'polifarmácia....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'marcha lenta e com passos curtos. E idade superior a 80 anos....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'marcha lenta e com passos curtos....' não corresponde à diretriz ou definição válida."
+          },
+          {
+            "letra": "E",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'idade superior a 80 anos....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [B] ('ambiente inseguro e mal iluminado.') constitui a conduta técnica correta e fundamentada.",
-        "id": "FCC0043",
+        "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('ambiente inseguro e mal iluminado.') configura a resposta correta e plenamente fundamentada.",
+        "id": "FCC_ENF0043",
         "numero_ordem": 43,
-        "numero_simulado": 58
+        "numero_simulado": 50
       },
       {
         "codigo_origem": "Q1970053",
@@ -9965,7 +9509,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Saúde Mental e Atenção Psicossocial",
-        "enunciado": "Apoio - Enfermagem do Trabalho Segundo a Organização Mundial da Saúde (OMS), a depressão é a principal causa de incapacidade para o trabalho e é um quadro caracterizado por uma tríade de sinais e sintomas, dentre eles, a falta de prazer em especial com as coisas que antes lhe davam prazer, que é conhecida como",
+        "enunciado": "Segundo a Organização Mundial da Saúde (OMS), a depressão é a principal causa de incapacidade para o trabalho e é um quadro caracterizado por uma tríade de sinais e sintomas, dentre eles, a falta de prazer em especial com as coisas que antes lhe davam prazer, que é conhecida como",
         "alternativas": [
           {
             "id": "A",
@@ -9989,29 +9533,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "C",
-        "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [C] ('anedonia.') constitui a conduta técnica correta e fundamentada.",
+        "fundamentacao_correta": "Em consonância com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas) e diretrizes de estomaterapia, a avaliação sistemática do leito lesional, etiologia, exsudato e controle de bordas define a indicação de coberturas ativas e medidas preventivas. A alternativa [C] ('anedonia.') indica a conduta apropriada e embasada.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'miastenia....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'miastenia....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'ataxia....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'ataxia....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'pessimismo....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'pessimismo....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'redução da concentração....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'redução da concentração....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [C] ('anedonia.') constitui a conduta técnica correta e fundamentada.",
-        "id": "FCC0046",
+        "comentario": "Em consonância com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas) e diretrizes de estomaterapia, a avaliação sistemática do leito lesional, etiologia, exsudato e controle de bordas define a indicação de coberturas ativas e medidas preventivas. A alternativa [C] ('anedonia.') indica a conduta apropriada e embasada.",
+        "id": "FCC_ENF0046",
         "numero_ordem": 46,
-        "numero_simulado": 59
+        "numero_simulado": 51
       },
       {
         "codigo_origem": "Q1970036",
@@ -10023,7 +9567,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Centro Cirúrgico e CME (Esterilização)",
-        "enunciado": "Apoio - Enfermagem do Trabalho Na Central de Material e Esterilização um dos indicadores químicos utilizados para a monitorização do processo de esterilização dos materiais utilizados na unidade é a fita zebrada, que é indicada para utilização em todos os pacotes. Esse indicador de processo evidencia que o material",
+        "enunciado": "Na Central de Material e Esterilização um dos indicadores químicos utilizados para a monitorização do processo de esterilização dos materiais utilizados na unidade é a fita zebrada, que é indicada para utilização em todos os pacotes. Esse indicador de processo evidencia que o material",
         "alternativas": [
           {
             "id": "A",
@@ -10047,29 +9591,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "C",
-        "fundamentacao_correta": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [C] ('passou pelo processo.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.",
+        "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('passou pelo processo.') configura a resposta correta e plenamente fundamentada.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'ainda precisa passar pelo processo de secagem....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'ainda precisa passar pelo processo de secagem....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'está esterilizado....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'está esterilizado....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Apresenta parâmetros numéricos/posológicos incorretos em desacordo com as diretrizes de referência: 'está pronto para ser utilizado, após duas horas....'."
+            "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: 'está pronto para ser utilizado, após duas horas....' diverge das referências oficiais."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'está livre de microrganismos patogênicos....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'está livre de microrganismos patogênicos....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [C] ('passou pelo processo.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.",
-        "id": "FCC0062",
+        "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('passou pelo processo.') configura a resposta correta e plenamente fundamentada.",
+        "id": "FCC_ENF0062",
         "numero_ordem": 62,
-        "numero_simulado": 60
+        "numero_simulado": 52
       }
     ]
   },
@@ -10181,62 +9725,294 @@ export const SIMULADOS_OFICIAIS = [
     },
     "questoes": [
       {
-        "codigo_origem": "Q3916759",
-        "numero_original": 202,
+        "codigo_origem": "Q3735529",
+        "numero_original": 323,
         "banca": "FCC",
-        "orgao": "SEFAZ-SP",
-        "ano": 2026,
-        "prova": "FCC - 2026 - SEFAZ-SP - Auditor Fiscal da Receita Estadual - AFRE - Tecnologia",
-        "cargo": "Geral",
+        "orgao": "MPE-PI",
+        "ano": 2025,
+        "prova": "FCC - 2025 - MPE-PI - Técnico Ministerial",
+        "cargo": "Cargos Diversos (Superior/Médio)",
         "materia": "Língua Portuguesa",
-        "assunto": "Interpretação e Compreensão de Textos",
-        "enunciado": "da Informação e Comunicação - Conhecimentos Gerais (P1) No contexto do 3º parágrafo, ao se constatar que A proximidade das palavras é caprichosa, segue-se como inferência que",
+        "assunto": "Sintaxe da Oração e do Período",
+        "enunciado": "Identifica-se emprego da voz passiva no trecho:",
         "alternativas": [
           {
             "id": "A",
-            "texto": "a ordenação usual dos vocábulos num dicionário parece às vezes aleatória."
+            "texto": "escancarou-se uma controversa realidade social."
           },
           {
             "id": "B",
-            "texto": "são raras as palavras cuja aproximação se imponha pela presença de um mesmo radical."
+            "texto": "já que esses profissionais têm total liberdade."
           },
           {
             "id": "C",
-            "texto": "pode ser bastante sugestiva uma semelhança casual entre palavras de campos semânticos distintos."
+            "texto": "A revolução tecnológica do século XXI modificou toda a configuração da economia global."
           },
           {
             "id": "D",
-            "texto": "se registre grande semelhança de sentido entre palavras com sons assemelhados."
+            "texto": "há autonomia e independência desses trabalhadores."
           },
           {
             "id": "E",
-            "texto": "vocábulos fonicamente assemelhados supõem um compartilhamento de sentido."
+            "texto": "provocando uma verdadeira ruptura nas relações trabalhistas."
           }
         ],
-        "resposta_correta": "C",
-        "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [C] ('pode ser bastante sugestiva uma semelhança casual entre palavras de campos semânticos distintos.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
+        "resposta_correta": "A",
+        "fundamentacao_correta": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('escancarou-se uma controversa realidade social.') constrói a estrutura sintática de forma impecável e harmoniosa.",
         "analise_distratores": [
           {
-            "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'a ordenação usual dos vocábulos num dicionário parece às vezes aleatória....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "letra": "B",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'já que esses profissionais têm total liberdade....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
-            "letra": "B",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'são raras as palavras cuja aproximação se imponha pela presença de um mesmo radi...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "letra": "C",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'A revolução tecnológica do século XXI modificou toda a configuração da economia ...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'se registre grande semelhança de sentido entre palavras com sons assemelhados....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'há autonomia e independência desses trabalhadores....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'vocábulos fonicamente assemelhados supõem um compartilhamento de sentido....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'provocando uma verdadeira ruptura nas relações trabalhistas....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           }
         ],
-        "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [C] ('pode ser bastante sugestiva uma semelhança casual entre palavras de campos semânticos distintos.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "id": "FCC_LP0021",
-        "numero_ordem": 21,
+        "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('escancarou-se uma controversa realidade social.') constrói a estrutura sintática de forma impecável e harmoniosa.",
+        "id": "FCC_LP0142",
+        "numero_ordem": 142,
         "numero_simulado": 1
+      },
+      {
+        "codigo_origem": "Q3660476",
+        "numero_original": 336,
+        "banca": "FCC",
+        "orgao": "TRT - 2ª REGIÃO (SP)",
+        "ano": 2025,
+        "prova": "FCC - 2025 - TRT - 2ª REGIÃO (SP) - Analista Judiciário - Área",
+        "cargo": "Cargos Diversos (Superior/Médio)",
+        "materia": "Língua Portuguesa",
+        "assunto": "Sintaxe da Oração e do Período",
+        "enunciado": "Judiciária - Oficial de Justiça Avaliador Federal As normas de concordância verbal estão plenamente observadas na frase:",
+        "alternativas": [
+          {
+            "id": "A",
+            "texto": "É comum haverem no mundo das crônicas de jornal hábitos de trocas de autorias que não podem leitor nenhum desconfiar."
+          },
+          {
+            "id": "B",
+            "texto": "Não cabem aos cronistas amigos recusar essa troca de crônicas quando lhes falte a inspiração de textos criativos."
+          },
+          {
+            "id": "C",
+            "texto": "São de se supor que os cronistas dediquem-se sempre a escrever textos originais, eximindo-se de repeti-los."
+          },
+          {
+            "id": "D",
+            "texto": "Inclui-se entre os hábitos dos cronistas camaradas a possibilidade de virem a se valer de um banco comum de crônicas."
+          },
+          {
+            "id": "E",
+            "texto": "Veem-se nas reações espantadas de Sabino o inconformismo diante das ambivalências do seu amigo Castellinho."
+          }
+        ],
+        "resposta_correta": "D",
+        "fundamentacao_correta": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('Inclui-se entre os hábitos dos cronistas camaradas a possibilidade de virem a se valer de um banco comum de crônicas.') constrói a estrutura sintática de forma impecável e harmoniosa.",
+        "analise_distratores": [
+          {
+            "letra": "A",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'É comum haverem no mundo das crônicas de jornal hábitos de trocas de autorias qu...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          },
+          {
+            "letra": "B",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Não cabem aos cronistas amigos recusar essa troca de crônicas quando lhes falte ...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          },
+          {
+            "letra": "C",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'São de se supor que os cronistas dediquem-se sempre a escrever textos originais,...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          },
+          {
+            "letra": "E",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Veem-se nas reações espantadas de Sabino o inconformismo diante das ambivalência...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          }
+        ],
+        "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('Inclui-se entre os hábitos dos cronistas camaradas a possibilidade de virem a se valer de um banco comum de crônicas.') constrói a estrutura sintática de forma impecável e harmoniosa.",
+        "id": "FCC_LP0155",
+        "numero_ordem": 155,
+        "numero_simulado": 2
+      },
+      {
+        "codigo_origem": "Q3538742",
+        "numero_original": 369,
+        "banca": "FCC",
+        "orgao": "TRF - 4ª REGIÃO",
+        "ano": 2025,
+        "prova": "FCC - 2025 - TRF - 4ª REGIÃO - Analista Judiciário - Área Judiciária",
+        "cargo": "Cargos Diversos (Superior/Médio)",
+        "materia": "Língua Portuguesa",
+        "assunto": "Sintaxe da Oração e do Período",
+        "enunciado": "Estes escritos não constituem uma história do mundo, embora a levem em conta. Transpondo-se a frase acima para a voz passiva, as formas verbais deverão ficar, na ordem dada,",
+        "alternativas": [
+          {
+            "id": "A",
+            "texto": "não é constituída - seja levada"
+          },
+          {
+            "id": "B",
+            "texto": "não se constituem - se levasse"
+          },
+          {
+            "id": "C",
+            "texto": "não venham a constituir - seja levado"
+          },
+          {
+            "id": "D",
+            "texto": "não têm constituído - deva ser levado"
+          },
+          {
+            "id": "E",
+            "texto": "não seria constituída - fosse levada"
+          }
+        ],
+        "resposta_correta": "A",
+        "fundamentacao_correta": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('não é constituída - seja levada') constrói a estrutura sintática de forma impecável e harmoniosa.",
+        "analise_distratores": [
+          {
+            "letra": "B",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'não se constituem - se levasse...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          },
+          {
+            "letra": "C",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'não venham a constituir - seja levado...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          },
+          {
+            "letra": "D",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'não têm constituído - deva ser levado...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          },
+          {
+            "letra": "E",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'não seria constituída - fosse levada...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          }
+        ],
+        "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('não é constituída - seja levada') constrói a estrutura sintática de forma impecável e harmoniosa.",
+        "id": "FCC_LP0188",
+        "numero_ordem": 188,
+        "numero_simulado": 3
+      },
+      {
+        "codigo_origem": "Q3538737",
+        "numero_original": 374,
+        "banca": "FCC",
+        "orgao": "TRF - 4ª REGIÃO",
+        "ano": 2025,
+        "prova": "FCC - 2025 - TRF - 4ª REGIÃO - Analista Judiciário - Área Judiciária",
+        "cargo": "Cargos Diversos (Superior/Médio)",
+        "materia": "Língua Portuguesa",
+        "assunto": "Sintaxe da Oração e do Período",
+        "enunciado": "É regular o emprego do elemento sublinhado na seguinte construção:",
+        "alternativas": [
+          {
+            "id": "A",
+            "texto": "Ao contrário do que se imagina, teme-se de que nossos computadores orgânicos sejam afetados pelos eletrônicos."
+          },
+          {
+            "id": "B",
+            "texto": "Da interação com os computadores, de cuja somos os responsáveis, podem resultar vários prejuízos."
+          },
+          {
+            "id": "C",
+            "texto": "Os benefícios em que resultam do emprego sensato do nosso cérebro podem ser comprometidos pelo sistema digital."
+          },
+          {
+            "id": "D",
+            "texto": "Uma vez que deixemos de cultivar os valores porque deveríamos nos orgulhar, não seremos mais que simples autômatos."
+          },
+          {
+            "id": "E",
+            "texto": "As virtudes humanas, a que deveríamos dedicar todaa nossa atenção, vêm sendo confrontadas com os vícios digitais."
+          }
+        ],
+        "resposta_correta": "E",
+        "fundamentacao_correta": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [E] ('As virtudes humanas, a que deveríamos dedicar todaa nossa atenção, vêm sendo confrontadas com os vícios digitais.') constrói a estrutura sintática de forma impecável e harmoniosa.",
+        "analise_distratores": [
+          {
+            "letra": "A",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Ao contrário do que se imagina, teme-se de que nossos computadores orgânicos sej...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          },
+          {
+            "letra": "B",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Da interação com os computadores, de cuja somos os responsáveis, podem resultar ...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          },
+          {
+            "letra": "C",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Os benefícios em que resultam do emprego sensato do nosso cérebro podem ser comp...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          },
+          {
+            "letra": "D",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Uma vez que deixemos de cultivar os valores porque deveríamos nos orgulhar, não ...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          }
+        ],
+        "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [E] ('As virtudes humanas, a que deveríamos dedicar todaa nossa atenção, vêm sendo confrontadas com os vícios digitais.') constrói a estrutura sintática de forma impecável e harmoniosa.",
+        "id": "FCC_LP0193",
+        "numero_ordem": 193,
+        "numero_simulado": 4
+      },
+      {
+        "codigo_origem": "Q3538736",
+        "numero_original": 375,
+        "banca": "FCC",
+        "orgao": "TRF - 4ª REGIÃO",
+        "ano": 2025,
+        "prova": "FCC - 2025 - TRF - 4ª REGIÃO - Analista Judiciário - Área Judiciária",
+        "cargo": "Cargos Diversos (Superior/Médio)",
+        "materia": "Língua Portuguesa",
+        "assunto": "Sintaxe da Oração e do Período",
+        "enunciado": "As normas de concordância verbal encontram-se bem observadas na frase:",
+        "alternativas": [
+          {
+            "id": "A",
+            "texto": "Podem submeter-se aos sinais externos dos computadores o que consideramos nossos principais atributos."
+          },
+          {
+            "id": "B",
+            "texto": "Acabarão por provocar graves riscos aos nossos principios humanos a simbiose que estabelecemos com os computadores."
+          },
+          {
+            "id": "C",
+            "texto": "São de se imaginar que recompensas maiores seriam auferidas por conta da nossa interação com os meios digitais."
+          },
+          {
+            "id": "D",
+            "texto": "Não se constituem na mecânica de uma programação eletrônica os valores em que se faz reconhecer a nossa humanidade."
+          },
+          {
+            "id": "E",
+            "texto": "Deixam de figurar nos anseios da nossa civilização a produção de utopias que removessem as nossas frustrações."
+          }
+        ],
+        "resposta_correta": "D",
+        "fundamentacao_correta": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('Não se constituem na mecânica de uma programação eletrônica os valores em que se faz reconhecer a nossa humanidade.') constrói a estrutura sintática de forma impecável e harmoniosa.",
+        "analise_distratores": [
+          {
+            "letra": "A",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Podem submeter-se aos sinais externos dos computadores o que consideramos nossos...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          },
+          {
+            "letra": "B",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Acabarão por provocar graves riscos aos nossos principios humanos a simbiose que...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          },
+          {
+            "letra": "C",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'São de se imaginar que recompensas maiores seriam auferidas por conta da nossa i...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          },
+          {
+            "letra": "E",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Deixam de figurar nos anseios da nossa civilização a produção de utopias que rem...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          }
+        ],
+        "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('Não se constituem na mecânica de uma programação eletrônica os valores em que se faz reconhecer a nossa humanidade.') constrói a estrutura sintática de forma impecável e harmoniosa.",
+        "id": "FCC_LP0194",
+        "numero_ordem": 194,
+        "numero_simulado": 5
       },
       {
         "codigo_origem": "Q3916755",
@@ -10245,15 +10021,11 @@ export const SIMULADOS_OFICIAIS = [
         "orgao": "SEFAZ-SP",
         "ano": 2026,
         "prova": "FCC - 2026 - SEFAZ-SP - Auditor Fiscal da Receita Estadual - AFRE - Tecnologia",
-        "cargo": "Geral",
+        "cargo": "Cargos Diversos (Superior/Médio)",
         "materia": "Língua Portuguesa",
-        "assunto": "Interpretação e Compreensão de Textos",
-        "enunciado": "da Informação e Comunicação - Conhecimentos Gerais (P1)",
+        "assunto": "Semântica e Significação das Palavras",
+        "enunciado": "da Informação e Comunicação - Conhecimentos Gerais (P1) A expressão em linguagem figurada aquilo que bota o motor pra rodar, no contexto do 2º parágrafo, encontra equivalência de sentido numa linguagem denotativa em",
         "alternativas": [
-          {
-            "id": "A",
-            "texto": "expressão em linguagem figurada aquilo que bota o motor pra rodar, no contexto do 2º parágrafo, encontra equivalência de sentido numa linguagem denotativa em"
-          },
           {
             "id": "A",
             "texto": "o elemento que move esse moinho."
@@ -10268,609 +10040,37 @@ export const SIMULADOS_OFICIAIS = [
           },
           {
             "id": "D",
-            "texto": "o fator que aciona a atividade escritural. E o que estabiliza a usina da linguagem."
-          }
-        ],
-        "resposta_correta": "D",
-        "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [D] ('o fator que aciona a atividade escritural. E o que estabiliza a usina da linguagem.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "analise_distratores": [
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'expressão em linguagem figurada aquilo que bota o motor pra rodar, no contexto d...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'o elemento que move esse moinho....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "B",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'a causa da vertigem criativa....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'as asas ativas da criação....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          }
-        ],
-        "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [D] ('o fator que aciona a atividade escritural. E o que estabiliza a usina da linguagem.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "id": "FCC_LP0024",
-        "numero_ordem": 24,
-        "numero_simulado": 2
-      },
-      {
-        "codigo_origem": "Q3916753",
-        "numero_original": 206,
-        "banca": "FCC",
-        "orgao": "SEFAZ-SP",
-        "ano": 2026,
-        "prova": "FCC - 2026 - SEFAZ-SP - Auditor Fiscal da Receita Estadual - AFRE - Tecnologia",
-        "cargo": "Geral",
-        "materia": "Língua Portuguesa",
-        "assunto": "Interpretação e Compreensão de Textos",
-        "enunciado": "da Informação e Comunicação - Conhecimentos Gerais (P1) Diante da afirmativa do romancista americano E. L. Doctorow (3º parágrafo), o autor do texto",
-        "alternativas": [
-          {
-            "id": "A",
-            "texto": "recusa-a de todo, por julgá-la uma metáfora improcedente no caso dos grandes escritores."
-          },
-          {
-            "id": "B",
-            "texto": "referenda-a, uma vez que ela se aplica exemplarmente ao caso dos escritores de índole romântica."
-          },
-          {
-            "id": "C",
-            "texto": "relativiza-a de pronto, por não aceitar que se tome a arte literária como sintoma de desajuste psíquico."
-          },
-          {
-            "id": "D",
-            "texto": "julga-a equívoca, uma vez que nenhuma arte que problematiza a vida é aceita socialmente."
+            "texto": "o fator que aciona a atividade escritural."
           },
           {
             "id": "E",
-            "texto": "considera-a oportuna, por considerar que a arte literária deve ser aceita como uma proposta messiânica."
+            "texto": "o que estabiliza a usina da linguagem."
           }
         ],
-        "resposta_correta": "C",
-        "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [C] ('relativiza-a de pronto, por não aceitar que se tome a arte literária como sintoma de desajuste psíquico.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
+        "resposta_correta": "D",
+        "fundamentacao_correta": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('o fator que aciona a atividade escritural.') preserva o sentido original e a coerência semântica do trecho em análise.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'recusa-a de todo, por julgá-la uma metáfora improcedente no caso dos grandes esc...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'o elemento que move esse moinho....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'referenda-a, uma vez que ela se aplica exemplarmente ao caso dos escritores de í...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'a causa da vertigem criativa....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
-            "letra": "D",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'julga-a equívoca, uma vez que nenhuma arte que problematiza a vida é aceita soci...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "letra": "C",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'as asas ativas da criação....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'considera-a oportuna, por considerar que a arte literária deve ser aceita como u...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'o que estabiliza a usina da linguagem....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           }
         ],
-        "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [C] ('relativiza-a de pronto, por não aceitar que se tome a arte literária como sintoma de desajuste psíquico.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
+        "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('o fator que aciona a atividade escritural.') preserva o sentido original e a coerência semântica do trecho em análise.",
         "id": "FCC_LP0025",
         "numero_ordem": 25,
-        "numero_simulado": 3
-      },
-      {
-        "codigo_origem": "Q3916738",
-        "numero_original": 214,
-        "banca": "FCC",
-        "orgao": "SEFAZ-SP",
-        "ano": 2026,
-        "prova": "FCC - 2026 - SEFAZ-SP - Auditor Fiscal da Receita Estadual - AFRE - Tecnologia",
-        "cargo": "Geral",
-        "materia": "Língua Portuguesa",
-        "assunto": "Interpretação e Compreensão de Textos",
-        "enunciado": "da Informação e Comunicação - Conhecimentos Gerais (P1) Ao se afirmar que Visível ou não, o pentimento faz parte do quadro (2º parágrafo), está-se considerando que",
-        "alternativas": [
-          {
-            "id": "A",
-            "texto": "o fenômeno moral do arrependimento já está incluído na perspectiva visual adotada pelo artista."
-          },
-          {
-            "id": "B",
-            "texto": "aquilo que nunca fez parte física de uma tela não deixa de ser parte de sua trajetória estética."
-          },
-          {
-            "id": "C",
-            "texto": "há em certas pinturas camadas de expressão que subsistem às formas que as encobriram."
-          },
-          {
-            "id": "D",
-            "texto": "é essencial na arte da pintura esboçar fora das telas figuras que depois serão centrais."
-          },
-          {
-            "id": "E",
-            "texto": "os traços originais de uma tela avariada podem ser recompostos mesmo depois de apagados."
-          }
-        ],
-        "resposta_correta": "C",
-        "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [C] ('há em certas pinturas camadas de expressão que subsistem às formas que as encobriram.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "analise_distratores": [
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'o fenômeno moral do arrependimento já está incluído na perspectiva visual adotad...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "B",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'aquilo que nunca fez parte física de uma tela não deixa de ser parte de sua traj...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "D",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'é essencial na arte da pintura esboçar fora das telas figuras que depois serão c...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "E",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'os traços originais de uma tela avariada podem ser recompostos mesmo depois de a...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          }
-        ],
-        "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [C] ('há em certas pinturas camadas de expressão que subsistem às formas que as encobriram.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "id": "FCC_LP0033",
-        "numero_ordem": 33,
-        "numero_simulado": 4
-      },
-      {
-        "codigo_origem": "Q3910521",
-        "numero_original": 217,
-        "banca": "FCC",
-        "orgao": "ARTESP",
-        "ano": 2026,
-        "prova": "FCC - 2026 - ARTESP - Analista de Superte à Regulação de Transporte I",
-        "cargo": "Geral",
-        "materia": "Língua Portuguesa",
-        "assunto": "Interpretação e Compreensão de Textos",
-        "enunciado": "Da leitura do texto deduz-se que seu autor",
-        "alternativas": [
-          {
-            "id": "A",
-            "texto": "acatou plenamente a observação do amigo quanto à necessidade de por vezes sermos impiedosos disciplinadores."
-          },
-          {
-            "id": "B",
-            "texto": "concordou com a prática virtuosa da sinceridade do conselho, mas julgou que este poderia se aplicar mais extensivamente."
-          },
-          {
-            "id": "C",
-            "texto": "acolheu a específica sugestão do amigo, mas contestou a possibilidade de ela prosperar num âmbito maior."
-          },
-          {
-            "id": "D",
-            "texto": "ponderou bem a sugestão de seu colega, concluindo que ela poderia parecer um momento de deslealdade."
-          },
-          {
-            "id": "E",
-            "texto": "refletiu sobre o aconselhamento do soturno colega e concluiu que a recomendação não se aplicava a um artista brasileiro."
-          }
-        ],
-        "resposta_correta": "B",
-        "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [B] ('concordou com a prática virtuosa da sinceridade do conselho, mas julgou que este poderia se aplicar mais extensivamente.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "analise_distratores": [
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'acatou plenamente a observação do amigo quanto à necessidade de por vezes sermos...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'acolheu a específica sugestão do amigo, mas contestou a possibilidade de ela pro...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "D",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'ponderou bem a sugestão de seu colega, concluindo que ela poderia parecer um mom...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "E",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'refletiu sobre o aconselhamento do soturno colega e concluiu que a recomendação ...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          }
-        ],
-        "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [B] ('concordou com a prática virtuosa da sinceridade do conselho, mas julgou que este poderia se aplicar mais extensivamente.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "id": "FCC_LP0036",
-        "numero_ordem": 36,
-        "numero_simulado": 5
-      },
-      {
-        "codigo_origem": "Q3910517",
-        "numero_original": 221,
-        "banca": "FCC",
-        "orgao": "ARTESP",
-        "ano": 2026,
-        "prova": "FCC - 2026 - ARTESP - Analista de Superte à Regulação de Transporte I",
-        "cargo": "Geral",
-        "materia": "Língua Portuguesa",
-        "assunto": "Interpretação e Compreensão de Textos",
-        "enunciado": "Atenção: Para responder às questão, baseie-se no texto a seguir. O mar, a terra, o homem O mar não é apenas adversário do homem que o desconhece, mas é também inimigo de suas próprias crias. Comо uma tigresa selvagem que abalada na selva esmaga os próprios filhotes, assim também o mar atira contra os rochedos até mesmo as baleias mais poderosas. Nem misericórdia, nem força nenhuma senão a do próprio mar governa. Considere a sutileza do mar, como as suas criaturas mais temidas deslizam sob as águas, invisíveis na maior parte, traiçoeiramente ocultas sob os matizes mais encantadores do azul. Considere também o brilho e a beleza diabólica de suas hordas sem piedade, como a forma delicadamente adornada de muitas espécies de tubarão. Considere, uma vez mais, também о canibalismo universal do mar, cujas criaturas se devoram umas às outras, continuando a guerra eterna desde o início do mundo. Considere tudo isso; e então se volte para esta terra tão verde, suave e dócil; ambos considere, o mar e a terra; e você não acha que existe uma analogia estranha com algo dentro de você? Pois, tal como o oceano aterrador cerca a terra verdejante, tambéт há na alma do homem um terreno insular, cheio de paz e alegria, mas rodeado por todos os horrores da metade desconhecida da vida, aquela sobre a qual não temos nenhum controle. Que você não se afaste dessa ilha, pois poderá não mais voltar. (Adaptado de: MELVILLE, Herman. Moby Dick. São Paulo: Cosac Naify, 2013, p. 299) Nos dois primeiros parágrafos desenvolve-se uma figuração segundo a qual o mar",
-        "alternativas": [
-          {
-            "id": "A",
-            "texto": "chega a ameaçar até mesmo a selva que lhe é próxima, com a fúria de um animal que se faz presa do canibalismo."
-          },
-          {
-            "id": "B",
-            "texto": "se vale da sua aparência aterrorizante para intimidar a todos que pretendam se aventurar em suas águas turbulentas."
-          },
-          {
-            "id": "C",
-            "texto": "ostenta na superfície a mesma fúria que abriga nas profundezas, onde se batem e se devoram as criaturas que nele vivem."
-          },
-          {
-            "id": "D",
-            "texto": "faz visíveis todas as ameaças que ele dirige a quem ousa enfrentar as criaturas que mantém sob a sua guarda."
-          },
-          {
-            "id": "E",
-            "texto": "oculta sob suas tonalidades mais sedutoras a violência de criaturas impiedosas, que chegam a se entredevorar."
-          }
-        ],
-        "resposta_correta": "E",
-        "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [E] ('oculta sob suas tonalidades mais sedutoras a violência de criaturas impiedosas, que chegam a se entredevorar.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "analise_distratores": [
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'chega a ameaçar até mesmo a selva que lhe é próxima, com a fúria de um animal qu...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "B",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'se vale da sua aparência aterrorizante para intimidar a todos que pretendam se a...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'ostenta na superfície a mesma fúria que abriga nas profundezas, onde se batem e ...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "D",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'faz visíveis todas as ameaças que ele dirige a quem ousa enfrentar as criaturas ...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          }
-        ],
-        "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [E] ('oculta sob suas tonalidades mais sedutoras a violência de criaturas impiedosas, que chegam a se entredevorar.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "id": "FCC_LP0040",
-        "numero_ordem": 40,
         "numero_simulado": 6
-      },
-      {
-        "codigo_origem": "Q3910516",
-        "numero_original": 222,
-        "banca": "FCC",
-        "orgao": "ARTESP",
-        "ano": 2026,
-        "prova": "FCC - 2026 - ARTESP - Analista de Superte à Regulação de Transporte I",
-        "cargo": "Geral",
-        "materia": "Língua Portuguesa",
-        "assunto": "Interpretação e Compreensão de Textos",
-        "enunciado": "Na analogia estranha que o texto propõe, entende-se que",
-        "alternativas": [
-          {
-            "id": "A",
-            "texto": "o mar e a terra são igualmente atraentes para o homem que se aventura e triunfa nos espaços desses elementos."
-          },
-          {
-            "id": "B",
-            "texto": "o homem, assim como o mar e a terra, conserva seus mais afáveis encantos nas regiões que se ocultam ao olhar de fora."
-          },
-          {
-            "id": "C",
-            "texto": "as ameaças do mar, que cercam a bela terra insulada, lembram os perigos que rondam a interioridade anímica do homem."
-          },
-          {
-            "id": "D",
-            "texto": "o homem serve-se da terra verdejante e das potências do mar sem se acautelar contra os perigos que ambos representam."
-          },
-          {
-            "id": "E",
-            "texto": "a terra e o mar, quando desenvolvem a fúria que lhes é própria, lembram a ferocidade das turbulências humanas."
-          }
-        ],
-        "resposta_correta": "C",
-        "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [C] ('as ameaças do mar, que cercam a bela terra insulada, lembram os perigos que rondam a interioridade anímica do homem.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "analise_distratores": [
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'o mar e a terra são igualmente atraentes para o homem que se aventura e triunfa ...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "B",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'o homem, assim como o mar e a terra, conserva seus mais afáveis encantos nas reg...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "D",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'o homem serve-se da terra verdejante e das potências do mar sem se acautelar con...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "E",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'a terra e o mar, quando desenvolvem a fúria que lhes é própria, lembram a feroci...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          }
-        ],
-        "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [C] ('as ameaças do mar, que cercam a bela terra insulada, lembram os perigos que rondam a interioridade anímica do homem.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "id": "FCC_LP0041",
-        "numero_ordem": 41,
-        "numero_simulado": 7
-      },
-      {
-        "codigo_origem": "Q3887601",
-        "numero_original": 227,
-        "banca": "FCC",
-        "orgao": "MPE-SE",
-        "ano": 2026,
-        "prova": "FCC - 2026 - MPE-SE - Técnico do Ministério Público - Manutenção e Suporte",
-        "cargo": "Geral",
-        "materia": "Língua Portuguesa",
-        "assunto": "Interpretação e Compreensão de Textos",
-        "enunciado": "de Equipamentos de Informática e Software Atenção: Leia o poema de Cecilia Meirelles, extraído do livro Viagem, para responder à questão. Serenata Permite que feche os meus olhos, pois é muito longe e tão tarde! Pensei que era apenas demora, e cantando pus-me a esperar-te. Permite que agora emudeça: que me conforme em ser sozinha. Há uma doce luz no siléncio e a dor é de origem divina. Permite que volte o meu rosto para um céu maior que este mundo, e aprenda a ser dócil no sonho como as estrelas no seu rumo. Considerando o contexto do poema, está coerente a frase que completa o trecho: O eu lírico pediu ao seu interlocutor permissão para",
-        "alternativas": [
-          {
-            "id": "A",
-            "texto": "buscar uma luz dócil no silêncio."
-          },
-          {
-            "id": "B",
-            "texto": "esperá-lo cantar."
-          },
-          {
-            "id": "C",
-            "texto": "conformá-lo com a solidão."
-          },
-          {
-            "id": "D",
-            "texto": "voltar o seu rosto para um céu maior que este mundo."
-          },
-          {
-            "id": "E",
-            "texto": "ensiná-lo a ser dócil como as estrelas."
-          }
-        ],
-        "resposta_correta": "D",
-        "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [D] ('voltar o seu rosto para um céu maior que este mundo.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "analise_distratores": [
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'buscar uma luz dócil no silêncio....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "B",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'esperá-lo cantar....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'conformá-lo com a solidão....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "E",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'ensiná-lo a ser dócil como as estrelas....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          }
-        ],
-        "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [D] ('voltar o seu rosto para um céu maior que este mundo.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "id": "FCC_LP0045",
-        "numero_ordem": 45,
-        "numero_simulado": 8
-      },
-      {
-        "codigo_origem": "Q3916761",
-        "numero_original": 200,
-        "banca": "FCC",
-        "orgao": "SEFAZ-SP",
-        "ano": 2026,
-        "prova": "FCC - 2026 - SEFAZ-SP - Auditor Fiscal da Receita Estadual - AFRE - Tecnologia",
-        "cargo": "Geral",
-        "materia": "Língua Portuguesa",
-        "assunto": "Sintaxe da Oração e do Período",
-        "enunciado": "da Informação e Comunicação - Conhecimentos Gerais (P1) [...] a quem se empenha em julgar o que ouve ou vê, cabe ouvir e ver muito bem, de modo aplicado.",
-        "alternativas": [
-          {
-            "id": "A",
-            "texto": "frase acima permanecerá correta e terá seu sentido básico preservado caso se substituam os elementos sublinhados, ordem dada, por:"
-          },
-          {
-            "id": "A",
-            "texto": "com quem - demanda-se para que ouça e veja"
-          },
-          {
-            "id": "B",
-            "texto": "por quem - que se cuide de ouvir e ver"
-          },
-          {
-            "id": "C",
-            "texto": "para quem - há de se preocupar em que ouça e veja"
-          },
-          {
-            "id": "D",
-            "texto": "de quem - espera-se que ouça e veja E em quem obrigue-se de ouvir ou ver"
-          }
-        ],
-        "resposta_correta": "D",
-        "fundamentacao_correta": "Segundo a sintaxe da norma-padrão (Evanildo Bechara e Celso Cunha), o padrão de cobrança da FCC prioriza a correlação entre regência verbal/nominal, concordância rigorosa com o núcleo do sujeito e transposição entre vozes verbais. A alternativa [D] ('de quem - espera-se que ouça e veja E em quem obrigue-se de ouvir ou ver') atende com exatidão à estrutura sintática correta sem incorrer em desvios de regência ou concordância.",
-        "analise_distratores": [
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'frase acima permanecerá correta e terá seu sentido básico preservado caso se sub...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'com quem - demanda-se para que ouça e veja...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "B",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'por quem - que se cuide de ouvir e ver...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'para quem - há de se preocupar em que ouça e veja...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          }
-        ],
-        "comentario": "Segundo a sintaxe da norma-padrão (Evanildo Bechara e Celso Cunha), o padrão de cobrança da FCC prioriza a correlação entre regência verbal/nominal, concordância rigorosa com o núcleo do sujeito e transposição entre vozes verbais. A alternativa [D] ('de quem - espera-se que ouça e veja E em quem obrigue-se de ouvir ou ver') atende com exatidão à estrutura sintática correta sem incorrer em desvios de regência ou concordância.",
-        "id": "FCC_LP0019",
-        "numero_ordem": 19,
-        "numero_simulado": 9
-      },
-      {
-        "codigo_origem": "Q3916751",
-        "numero_original": 207,
-        "banca": "FCC",
-        "orgao": "SEFAZ-SP",
-        "ano": 2026,
-        "prova": "FCC - 2026 - SEFAZ-SP - Auditor Fiscal da Receita Estadual - AFRE - Tecnologia",
-        "cargo": "Geral",
-        "materia": "Língua Portuguesa",
-        "assunto": "Sintaxe da Oração e do Período",
-        "enunciado": "da Informação e Comunicação - Conhecimentos Gerais (P1) Atenção: Para responder à questão, baseie-se no texto seguinte. Acerca do pensamento político de Maquiavel Na Itália do Renascimento, reinava grande confusão. A tirania imperava em pequenos principados. É nesse panorama de crise econômica e política que Nicolau Maquiavel nasceu (1469). De formação erudita, ele deixará como legado principal de seu pensamento o livro O Príncipe, no qual distingue e analisa pragmaticamente as formas objetivas pelas quais se manifesta o poder da política. Até então, o estudo dos assuntos de Estado vinculava-se à moral e à religião, descarnados de uma base mais concreta, impondo-se como modelos ideais do bom governante de uma sociedade justa. Maquiavel mudou o curso do pensamento político. Passou a vê-lo associado às ações efetivas do poderoso, que deveriam vir à luz longe de qualquer abstração. Assim, seu conceito de virtude distingue, na política, a qualidade do homem que sabe aproveitar o momento exato criado pela fortuna, entendendo-se por esta o momento histórico que propicia a ocasião na qual o homem faz valer sua real inclinação política, conduzindo suas ações com método rigoroso, para alcançar o êxito pretendido: chegar ao poder e mantê-lo. O carisma da virtude é próprio de quem se adapta à natureza de seu tempo, de quem apreende seu sentido e se capacita para realizar na prática a necessidade latente de sua época. Maquiavel oferece aos pleiteantes do poder um modelo pragmático e astucioso de bem orientada ação política. É lícito discordar das ideias de Maquiavel, mas é difícil demonstrar que o convívio político entre os homens, ao longo dos séculos, tenha sido outro. Se existem boas teorias políticas, a prática é sempre diferente. Maquiavel simplesmente fez da prática uma teoria. O enunciado brutal dos princípios do maquiavelismo, com sua chocante amoralidade, explicitaria a realidade interna do poder político. E isso talvez seja uma contribuição preciosa, até hoje, para a superação desse amoralismo. (Adaptado de: MARTINS, Carlos Estevam. Encarte a Maquiavel (passim) - Os pensadores. São Paulo: Ed. Abril, 1973) É lícito discordar das ideias de Maquiavel, mas é difícil demonstrar que o convívio político entre os homens, ao longo dos séculos, tenha sido outro.",
-        "alternativas": [
-          {
-            "id": "A",
-            "texto": "redação da frase acima permanecerá correta e coerente com a substituição do elemento sublinhado por:"
-          },
-          {
-            "id": "A",
-            "texto": "ainda que fosse para"
-          },
-          {
-            "id": "B",
-            "texto": "conquanto seja difícil"
-          },
-          {
-            "id": "C",
-            "texto": "porquanto seria difícil"
-          },
-          {
-            "id": "D",
-            "texto": "se o que se visasse fosse E sendo portanto difícil"
-          }
-        ],
-        "resposta_correta": "B",
-        "fundamentacao_correta": "Segundo a sintaxe da norma-padrão (Evanildo Bechara e Celso Cunha), o padrão de cobrança da FCC prioriza a correlação entre regência verbal/nominal, concordância rigorosa com o núcleo do sujeito e transposição entre vozes verbais. A alternativa [B] ('conquanto seja difícil') atende com exatidão à estrutura sintática correta sem incorrer em desvios de regência ou concordância.",
-        "analise_distratores": [
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'redação da frase acima permanecerá correta e coerente com a substituição do elem...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'ainda que fosse para...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'porquanto seria difícil...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "D",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'se o que se visasse fosse E sendo portanto difícil...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          }
-        ],
-        "comentario": "Segundo a sintaxe da norma-padrão (Evanildo Bechara e Celso Cunha), o padrão de cobrança da FCC prioriza a correlação entre regência verbal/nominal, concordância rigorosa com o núcleo do sujeito e transposição entre vozes verbais. A alternativa [B] ('conquanto seja difícil') atende com exatidão à estrutura sintática correta sem incorrer em desvios de regência ou concordância.",
-        "id": "FCC_LP0026",
-        "numero_ordem": 26,
-        "numero_simulado": 10
-      },
-      {
-        "codigo_origem": "Q3916749",
-        "numero_original": 208,
-        "banca": "FCC",
-        "orgao": "SEFAZ-SP",
-        "ano": 2026,
-        "prova": "FCC - 2026 - SEFAZ-SP - Auditor Fiscal da Receita Estadual - AFRE - Tecnologia",
-        "cargo": "Geral",
-        "materia": "Língua Portuguesa",
-        "assunto": "Sintaxe da Oração e do Período",
-        "enunciado": "da Informação e Comunicação - Conhecimentos Gerais (P1) Aos que pleiteiam o poder, Maquiavel oferece a esses postulantes as vantagens de um método político, a principal vantagem desse método está na segura vitória de quem adota tal método de modo inteiramente pragmático. Evitam-se as viciosas repetições do período acima substituindo-se os elementos sublinhados, na ordem dada, por:",
-        "alternativas": [
-          {
-            "id": "A",
-            "texto": "lhes oferece - cuja principal vantagem - o adota"
-          },
-          {
-            "id": "B",
-            "texto": "oferece aos mesmos - onde a vantagem principal - adota a ele"
-          },
-          {
-            "id": "C",
-            "texto": "os oferece - a sua principal vantagem - o adota"
-          },
-          {
-            "id": "D",
-            "texto": "oferece-lhes - na qual a principal vantagem - lhe adota"
-          },
-          {
-            "id": "E",
-            "texto": "oferece-os - a quem a vantagem principal - adota-lhe"
-          }
-        ],
-        "resposta_correta": "A",
-        "fundamentacao_correta": "Segundo a sintaxe da norma-padrão (Evanildo Bechara e Celso Cunha), o padrão de cobrança da FCC prioriza a correlação entre regência verbal/nominal, concordância rigorosa com o núcleo do sujeito e transposição entre vozes verbais. A alternativa [A] ('lhes oferece - cuja principal vantagem - o adota') atende com exatidão à estrutura sintática correta sem incorrer em desvios de regência ou concordância.",
-        "analise_distratores": [
-          {
-            "letra": "B",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'oferece aos mesmos - onde a vantagem principal - adota a ele...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'os oferece - a sua principal vantagem - o adota...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "D",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'oferece-lhes - na qual a principal vantagem - lhe adota...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "E",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'oferece-os - a quem a vantagem principal - adota-lhe...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          }
-        ],
-        "comentario": "Segundo a sintaxe da norma-padrão (Evanildo Bechara e Celso Cunha), o padrão de cobrança da FCC prioriza a correlação entre regência verbal/nominal, concordância rigorosa com o núcleo do sujeito e transposição entre vozes verbais. A alternativa [A] ('lhes oferece - cuja principal vantagem - o adota') atende com exatidão à estrutura sintática correta sem incorrer em desvios de regência ou concordância.",
-        "id": "FCC_LP0027",
-        "numero_ordem": 27,
-        "numero_simulado": 11
-      },
-      {
-        "codigo_origem": "Q3916745",
-        "numero_original": 210,
-        "banca": "FCC",
-        "orgao": "SEFAZ-SP",
-        "ano": 2026,
-        "prova": "FCC - 2026 - SEFAZ-SP - Auditor Fiscal da Receita Estadual - AFRE - Tecnologia",
-        "cargo": "Geral",
-        "materia": "Língua Portuguesa",
-        "assunto": "Sintaxe da Oração e do Período",
-        "enunciado": "da Informação e Comunicação - Conhecimentos Gerais (P1) Atenção: Para responder à questão, baseie-se no texto seguinte. Arrependimentos Pentimento é a palavra italiana para arrependimento, mas designa, em muitas línguas, uma pintura, um desenho ou um esboço encoberto pela versão final de um quadro. Âs vezes, com o passar do tempo, a tinta deixa transparecer uma composição em cima da qual o artista pintou uma nova versão. Outras vezes, os raios X dos restauradores desvendam opções anteriores, que permaneceram debaixo da obra final. Esses esboços ou pinturas, que o artista rejeitou e encobriu, são os pentimentos, que foram descartados sem ser propriamente apagados. Visível ou não, o pentimento faz parte do quadro, assim como fazem parte da nossa vida muitas tentações e muitos projetos dos quais desistimos. São restos do passado que, escondidos e não apagados, transparecem no presente, como potencialidades que não foram realizadas, mas que, mesmo assim, integram a nossa história.",
-        "alternativas": [
-          {
-            "id": "A",
-            "texto": "vida é abarrotada de caminhos que deixamos de trilhar; são todos pentimentos encobertos, histórias que não se realizaram. Por que não se realizaram? Em geral, pensamos que nos faltou coragem: não soubemos renunciar às coisas das quais era necessário abdicar para que outras escolhas tivessem uma chance. E é verdade que, quase sempre, desistimos de desejos, paixões e sonhos porque custamos a aceitar que nada se realiza sem perdas: por não querermos perder nada, acabamos perdendo tudo. O problema dos pentimentos é que eles esvaziam a vida que temos. O passado que não se realizou funciona como a miragem da felicidade que teria sido possível se tivéssemos feito a escolha \"certa\". Diante disso, de que adianta qualquer experiência presente? Os pentimentos podem ser maus conselheiros, até porque muitas vezes nós os inventamos como desculpas para os fracassos do presente. Hoje, é fácil esbarrar em espectros do passado: as redes sociais proporcionam reencontros improváveis e, com isso, criam pentimentos artificiais. Por conta da ação das redes, uma história que foi realmente apagada da memória (não apenas encoberta) pode renascer, como se representasse uma grande potencialidade à qual teríamos renunciado. Os falsos pentimentos, revisitados, são pequenas receitas para o desastre. (Adaptado de: CALLIGARIS, Contardo. Aproveitar a vida e suas dores. São Paulo: Planeta do Brasil, 2025, pp. 25-27, passim) As normas de concordância verbal estão plenamente observadas na frase:"
-          },
-          {
-            "id": "A",
-            "texto": "Não seja uma escolha de nossa vida nenhuma das decisões que se constituirão ao modo de dolorosos pentimentos."
-          },
-          {
-            "id": "B",
-            "texto": "É comum que conste como um malogro da nossa história as virtudes potenciais que não desenvolvemos."
-          },
-          {
-            "id": "C",
-            "texto": "Têm equivalência com os fenômenos dos pentimentos artísticos a paixão dos nossos ideais não cumpridos."
-          },
-          {
-            "id": "D",
-            "texto": "Podem haver nos pentimentos os maus conselhos, que provavelmente nos levarão a grandes frustrações. E Devem-se às redes sociais a multiplicação incontrolável de reminiscências inteiramente artificiais."
-          }
-        ],
-        "resposta_correta": "A",
-        "fundamentacao_correta": "Segundo a sintaxe da norma-padrão (Evanildo Bechara e Celso Cunha), o padrão de cobrança da FCC prioriza a correlação entre regência verbal/nominal, concordância rigorosa com o núcleo do sujeito e transposição entre vozes verbais. A alternativa [A] ('vida é abarrotada de caminhos que deixamos de trilhar; são todos pentimentos encobertos, histórias que não se realizaram. Por que não se realizaram? Em geral, pensamos que nos faltou coragem: não soubemos renunciar às coisas das quais era necessário abdicar para que outras escolhas tivessem uma chance. E é verdade que, quase sempre, desistimos de desejos, paixões e sonhos porque custamos a aceitar que nada se realiza sem perdas: por não querermos perder nada, acabamos perdendo tudo. O problema dos pentimentos é que eles esvaziam a vida que temos. O passado que não se realizou funciona como a miragem da felicidade que teria sido possível se tivéssemos feito a escolha \"certa\". Diante disso, de que adianta qualquer experiência presente? Os pentimentos podem ser maus conselheiros, até porque muitas vezes nós os inventamos como desculpas para os fracassos do presente. Hoje, é fácil esbarrar em espectros do passado: as redes sociais proporcionam reencontros improváveis e, com isso, criam pentimentos artificiais. Por conta da ação das redes, uma história que foi realmente apagada da memória (não apenas encoberta) pode renascer, como se representasse uma grande potencialidade à qual teríamos renunciado. Os falsos pentimentos, revisitados, são pequenas receitas para o desastre. (Adaptado de: CALLIGARIS, Contardo. Aproveitar a vida e suas dores. São Paulo: Planeta do Brasil, 2025, pp. 25-27, passim) As normas de concordância verbal estão plenamente observadas na frase:') atende com exatidão à estrutura sintática correta sem incorrer em desvios de regência ou concordância.",
-        "analise_distratores": [
-          {
-            "letra": "B",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'É comum que conste como um malogro da nossa história as virtudes potenciais que ...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Têm equivalência com os fenômenos dos pentimentos artísticos a paixão dos nossos...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "D",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Podem haver nos pentimentos os maus conselhos, que provavelmente nos levarão a g...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          }
-        ],
-        "comentario": "Segundo a sintaxe da norma-padrão (Evanildo Bechara e Celso Cunha), o padrão de cobrança da FCC prioriza a correlação entre regência verbal/nominal, concordância rigorosa com o núcleo do sujeito e transposição entre vozes verbais. A alternativa [A] ('vida é abarrotada de caminhos que deixamos de trilhar; são todos pentimentos encobertos, histórias que não se realizaram. Por que não se realizaram? Em geral, pensamos que nos faltou coragem: não soubemos renunciar às coisas das quais era necessário abdicar para que outras escolhas tivessem uma chance. E é verdade que, quase sempre, desistimos de desejos, paixões e sonhos porque custamos a aceitar que nada se realiza sem perdas: por não querermos perder nada, acabamos perdendo tudo. O problema dos pentimentos é que eles esvaziam a vida que temos. O passado que não se realizou funciona como a miragem da felicidade que teria sido possível se tivéssemos feito a escolha \"certa\". Diante disso, de que adianta qualquer experiência presente? Os pentimentos podem ser maus conselheiros, até porque muitas vezes nós os inventamos como desculpas para os fracassos do presente. Hoje, é fácil esbarrar em espectros do passado: as redes sociais proporcionam reencontros improváveis e, com isso, criam pentimentos artificiais. Por conta da ação das redes, uma história que foi realmente apagada da memória (não apenas encoberta) pode renascer, como se representasse uma grande potencialidade à qual teríamos renunciado. Os falsos pentimentos, revisitados, são pequenas receitas para o desastre. (Adaptado de: CALLIGARIS, Contardo. Aproveitar a vida e suas dores. São Paulo: Planeta do Brasil, 2025, pp. 25-27, passim) As normas de concordância verbal estão plenamente observadas na frase:') atende com exatidão à estrutura sintática correta sem incorrer em desvios de regência ou concordância.",
-        "id": "FCC_LP0029",
-        "numero_ordem": 29,
-        "numero_simulado": 12
       },
       {
         "codigo_origem": "Q3916743",
@@ -10879,9 +10079,9 @@ export const SIMULADOS_OFICIAIS = [
         "orgao": "SEFAZ-SP",
         "ano": 2026,
         "prova": "FCC - 2026 - SEFAZ-SP - Auditor Fiscal da Receita Estadual - AFRE - Tecnologia",
-        "cargo": "Geral",
+        "cargo": "Cargos Diversos (Superior/Médio)",
         "materia": "Língua Portuguesa",
-        "assunto": "Sintaxe da Oração e do Período",
+        "assunto": "Semântica e Significação das Palavras",
         "enunciado": "da Informação e Comunicação - Conhecimentos Gerais (P1) O passado que não se realizou funciona como a miragem da felicidade que teria sido possível se tivéssemos feito a escolha \"certa\". Mantêm-se o sentido, a correção e a coerência do período acima substituindo-se o segmento sublinhado por",
         "alternativas": [
           {
@@ -10906,203 +10106,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "B",
-        "fundamentacao_correta": "Segundo a sintaxe da norma-padrão (Evanildo Bechara e Celso Cunha), o padrão de cobrança da FCC prioriza a correlação entre regência verbal/nominal, concordância rigorosa com o núcleo do sujeito e transposição entre vozes verbais. A alternativa [B] ('possibilitada pela opção que tivéssemos considerado como correta.') atende com exatidão à estrutura sintática correta sem incorrer em desvios de regência ou concordância.",
+        "fundamentacao_correta": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('possibilitada pela opção que tivéssemos considerado como correta.') preserva o sentido original e a coerência semântica do trecho em análise.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'para a qual a possibilidade de acerto seria plenamente legítima....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'para a qual a possibilidade de acerto seria plenamente legítima....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'cuja possível escolha fosse dada por nós como a mais perfeita....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'cuja possível escolha fosse dada por nós como a mais perfeita....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'dada como certa no caso de decorrer de uma melhor seleção....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'dada como certa no caso de decorrer de uma melhor seleção....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'em que sua plena realização ensejaria a correção da escolha....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'em que sua plena realização ensejaria a correção da escolha....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           }
         ],
-        "comentario": "Segundo a sintaxe da norma-padrão (Evanildo Bechara e Celso Cunha), o padrão de cobrança da FCC prioriza a correlação entre regência verbal/nominal, concordância rigorosa com o núcleo do sujeito e transposição entre vozes verbais. A alternativa [B] ('possibilitada pela opção que tivéssemos considerado como correta.') atende com exatidão à estrutura sintática correta sem incorrer em desvios de regência ou concordância.",
-        "id": "FCC_LP0030",
-        "numero_ordem": 30,
-        "numero_simulado": 13
-      },
-      {
-        "codigo_origem": "Q3916739",
-        "numero_original": 213,
-        "banca": "FCC",
-        "orgao": "SEFAZ-SP",
-        "ano": 2026,
-        "prova": "FCC - 2026 - SEFAZ-SP - Auditor Fiscal da Receita Estadual - AFRE - Tecnologia",
-        "cargo": "Geral",
-        "materia": "Língua Portuguesa",
-        "assunto": "Semântica e Significação das Palavras",
-        "enunciado": "da Informação e Comunicação - Conhecimentos Gerais (P1) Ao associar o sentido pictórico de pentimento ao plano dos projetos pessoais não realizados em nossa vida, o autor está considerando como elemento comum a esses dois processos uma",
-        "alternativas": [
-          {
-            "id": "A",
-            "texto": "potencialidade que não foi desenvolvida."
-          },
-          {
-            "id": "B",
-            "texto": "ilusão que o tempo apagou em definitivo."
-          },
-          {
-            "id": "C",
-            "texto": "fantasia cuja permanência se sobrepõe aos fatos."
-          },
-          {
-            "id": "D",
-            "texto": "forma crítica de atualização do passado."
-          },
-          {
-            "id": "E",
-            "texto": "intenção de se redimir dos fracassos."
-          }
-        ],
-        "resposta_correta": "A",
-        "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [A] ('potencialidade que não foi desenvolvida.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "analise_distratores": [
-          {
-            "letra": "B",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'ilusão que o tempo apagou em definitivo....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'fantasia cuja permanência se sobrepõe aos fatos....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "D",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'forma crítica de atualização do passado....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "E",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'intenção de se redimir dos fracassos....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          }
-        ],
-        "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [A] ('potencialidade que não foi desenvolvida.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "id": "FCC_LP0032",
-        "numero_ordem": 32,
-        "numero_simulado": 14
-      },
-      {
-        "codigo_origem": "Q3910518",
-        "numero_original": 220,
-        "banca": "FCC",
-        "orgao": "ARTESP",
-        "ano": 2026,
-        "prova": "FCC - 2026 - ARTESP - Analista de Superte à Regulação de Transporte I",
-        "cargo": "Geral",
-        "materia": "Língua Portuguesa",
-        "assunto": "Semântica e Significação das Palavras",
-        "enunciado": "Considerando-se o contexto, traduz-se adequadamente o sentido de um segmento do texto em:",
-        "alternativas": [
-          {
-            "id": "A",
-            "texto": "inimigo de suas próprias crias (1ª parágrafo) = postulante de suas criações."
-          },
-          {
-            "id": "B",
-            "texto": "ocultas sob os matizes mais encantadores (2º parágrafo) = encobertas pelas mais sedutoras nuances."
-          },
-          {
-            "id": "C",
-            "texto": "a beleza diabólica de suas hordas (2° parágrafo) = a simetria infernal de suas hostes."
-          },
-          {
-            "id": "D",
-            "texto": "existe uma analogia estranha (3º parágrafo) = ocorre um paralelismo crônico."
-          },
-          {
-            "id": "E",
-            "texto": "há na alma do homem um terreno insular (3º parágrafo) = tem no espírito humano uma área ignota."
-          }
-        ],
-        "resposta_correta": "B",
-        "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [B] ('ocultas sob os matizes mais encantadores (2º parágrafo) = encobertas pelas mais sedutoras nuances.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "analise_distratores": [
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'inimigo de suas próprias crias (1ª parágrafo) = postulante de suas criações....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'a beleza diabólica de suas hordas (2° parágrafo) = a simetria infernal de suas h...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "D",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'existe uma analogia estranha (3º parágrafo) = ocorre um paralelismo crônico....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "E",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'há na alma do homem um terreno insular (3º parágrafo) = tem no espírito humano u...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          }
-        ],
-        "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [B] ('ocultas sob os matizes mais encantadores (2º parágrafo) = encobertas pelas mais sedutoras nuances.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.",
-        "id": "FCC_LP0039",
-        "numero_ordem": 39,
-        "numero_simulado": 15
-      },
-      {
-        "codigo_origem": "Q3916758",
-        "numero_original": 203,
-        "banca": "FCC",
-        "orgao": "SEFAZ-SP",
-        "ano": 2026,
-        "prova": "FCC - 2026 - SEFAZ-SP - Auditor Fiscal da Receita Estadual - AFRE - Tecnologia",
-        "cargo": "Geral",
-        "materia": "Língua Portuguesa",
-        "assunto": "Morfologia - Tempos e Modos Verbais",
-        "enunciado": "da Informação e Comunicação - Conhecimentos Gerais (P1) O verbo ouvir está empregado num sentido homólogo ao do desempenho funcional de um auditor em:",
-        "alternativas": [
-          {
-            "id": "A",
-            "texto": "Seria preciso que se ouvissem as partes antes do encerramento da sessão."
-          },
-          {
-            "id": "B",
-            "texto": "Ele se dispõe a ouvir sonatas antes de se concentrar em seus cálculos."
-          },
-          {
-            "id": "C",
-            "texto": "Minhas primas esperam ardentemente que suas preces sejam ouvidas."
-          },
-          {
-            "id": "D",
-            "texto": "Ele sempre deixou claro seu desinteresse em ouvir tais aconselhamentos."
-          },
-          {
-            "id": "E",
-            "texto": "A atenção com que ele nos ouve é um mero efeito de sua dissimulação."
-          }
-        ],
-        "resposta_correta": "A",
-        "fundamentacao_correta": "A correlação verbal constitui um dos temas mais prestigiados pela FCC. Os tempos do indicativo e do subjuntivo devem harmonizar-se no período composto. A alternativa [A] ('Seria preciso que se ouvissem as partes antes do encerramento da sessão.') expressa com precisão a atitude comunicativa e a correlação temporal exigida no enunciado.",
-        "analise_distratores": [
-          {
-            "letra": "B",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Ele se dispõe a ouvir sonatas antes de se concentrar em seus cálculos....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Minhas primas esperam ardentemente que suas preces sejam ouvidas....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "D",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Ele sempre deixou claro seu desinteresse em ouvir tais aconselhamentos....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "E",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'A atenção com que ele nos ouve é um mero efeito de sua dissimulação....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          }
-        ],
-        "comentario": "A correlação verbal constitui um dos temas mais prestigiados pela FCC. Os tempos do indicativo e do subjuntivo devem harmonizar-se no período composto. A alternativa [A] ('Seria preciso que se ouvissem as partes antes do encerramento da sessão.') expressa com precisão a atitude comunicativa e a correlação temporal exigida no enunciado.",
-        "id": "FCC_LP0022",
-        "numero_ordem": 22,
-        "numero_simulado": 16
+        "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('possibilitada pela opção que tivéssemos considerado como correta.') preserva o sentido original e a coerência semântica do trecho em análise.",
+        "id": "FCC_LP0031",
+        "numero_ordem": 31,
+        "numero_simulado": 7
       },
       {
         "codigo_origem": "Q3888379",
@@ -11111,7 +10137,7 @@ export const SIMULADOS_OFICIAIS = [
         "orgao": "MPE-AP",
         "ano": 2026,
         "prova": "FCC - 2026 - MPE-AP - Analista Ministerial - Especialidade: Administração",
-        "cargo": "Geral",
+        "cargo": "Cargos Diversos (Superior/Médio)",
         "materia": "Língua Portuguesa",
         "assunto": "Morfologia - Tempos e Modos Verbais",
         "enunciado": "Nos versos \"espero mesmo /que a gente continue se desencontrando\", a correlação verbal expressa",
@@ -11138,261 +10164,261 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "B",
-        "fundamentacao_correta": "A correlação verbal constitui um dos temas mais prestigiados pela FCC. Os tempos do indicativo e do subjuntivo devem harmonizar-se no período composto. A alternativa [B] ('continuidade de uma ação reiterativa, reforçando o conflito afetivo presente no poema.') expressa com precisão a atitude comunicativa e a correlação temporal exigida no enunciado.",
+        "fundamentacao_correta": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('continuidade de uma ação reiterativa, reforçando o conflito afetivo presente no poema.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'incompletude, sugerindo o início do desencontro que o poema tematiza....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'incompletude, sugerindo o início do desencontro que o poema tematiza....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'ação pontual e concluída, representando o fim do vínculo afetivo entre os sujeit...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'ação pontual e concluída, representando o fim do vínculo afetivo entre os sujeit...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'habitualidade neutra, evidenciando o distanciamento emocional do enunciador....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'habitualidade neutra, evidenciando o distanciamento emocional do enunciador....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'ação condicional, subordinada à aceitação melancólica da perda vivida....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'ação condicional, subordinada à aceitação melancólica da perda vivida....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           }
         ],
-        "comentario": "A correlação verbal constitui um dos temas mais prestigiados pela FCC. Os tempos do indicativo e do subjuntivo devem harmonizar-se no período composto. A alternativa [B] ('continuidade de uma ação reiterativa, reforçando o conflito afetivo presente no poema.') expressa com precisão a atitude comunicativa e a correlação temporal exigida no enunciado.",
-        "id": "FCC_LP0043",
-        "numero_ordem": 43,
-        "numero_simulado": 17
+        "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('continuidade de uma ação reiterativa, reforçando o conflito afetivo presente no poema.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
+        "id": "FCC_LP0044",
+        "numero_ordem": 44,
+        "numero_simulado": 8
       },
       {
-        "codigo_origem": "Q3947137",
-        "numero_original": 189,
+        "codigo_origem": "Q3887598",
+        "numero_original": 230,
         "banca": "FCC",
-        "orgao": "SEFAZ-MT",
+        "orgao": "MPE-SE",
         "ano": 2026,
-        "prova": "FCC - 2026 - SEFAZ-MT - Fiscal de Tributos Estaduais",
-        "cargo": "Geral",
+        "prova": "FCC - 2026 - MPE-SE - Técnico do Ministério Público - Manutenção e Suporte",
+        "cargo": "Cargos Diversos (Superior/Médio)",
+        "materia": "Língua Portuguesa",
+        "assunto": "Morfologia - Tempos e Modos Verbais",
+        "enunciado": "de Equipamentos de Informática e Software O verbo empregado nos mesmos tempo e modo que o sublinhado no verso Permite que feche os meus olhos está também sublinhado em:",
+        "alternativas": [
+          {
+            "id": "A",
+            "texto": "e cantando pus-mea esperar-te"
+          },
+          {
+            "id": "B",
+            "texto": "Pensei que era apenas demora"
+          },
+          {
+            "id": "C",
+            "texto": "Pensei que era apenas demora"
+          },
+          {
+            "id": "D",
+            "texto": "e aprenda a ser dócil no sonho"
+          },
+          {
+            "id": "E",
+            "texto": "Há uma doce luz no siléncio"
+          }
+        ],
+        "resposta_correta": "D",
+        "fundamentacao_correta": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('e aprenda a ser dócil no sonho') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
+        "analise_distratores": [
+          {
+            "letra": "A",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'e cantando pus-mea esperar-te...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          },
+          {
+            "letra": "B",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Pensei que era apenas demora...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          },
+          {
+            "letra": "C",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Pensei que era apenas demora...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          },
+          {
+            "letra": "E",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Há uma doce luz no siléncio...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          }
+        ],
+        "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('e aprenda a ser dócil no sonho') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
+        "id": "FCC_LP0050",
+        "numero_ordem": 50,
+        "numero_simulado": 9
+      },
+      {
+        "codigo_origem": "Q3872084",
+        "numero_original": 277,
+        "banca": "FCC",
+        "orgao": "CPU-PE",
+        "ano": 2026,
+        "prova": "FCC - 2026 - CPU-PE - Assistente em Gestão Ambiental - Especialidade:",
+        "cargo": "Cargos Diversos (Superior/Médio)",
         "materia": "Língua Portuguesa",
         "assunto": "Morfologia - Pronomes e Colocação Pronominal",
-        "enunciado": "Atenção: Para responder à questão, baseie-se no texto seguinte. Memórias sem imaginação Fiquei entusiasmadíssimo com recursos da internet, quando finalmente comecei a me valer deles, tempos atrás. Pois não é que de repente passei a ter acesso a imagens e sons de um passado que dava por perdido? Ruas antigas, objetos da casa desaparecida, ingênuos anúncios, canções marcantes, utensílios domésticos carregados de magia - tudo se estampava agora em imagens nitidas e voltava em sons precisos, por meio de plataformas eletrônicas. O mundo das imagens e das ondas sonoras da minha infância e de antes dela estava ali, a um toque do milagre digital. Mas de repente... Mas de repente comecei a me afogar nesse repertório inesgotável de sensações, que eu podia repetir tanto quanto quisesse. E comecei a dar pela falta de um elemento fundamental para a vida da memória afetiva: o imaginário nosso que parte dela. A força mecânica das coisas recuperadas num buscador digital não trazia consigo a alma da minha imaginação, aquela de quando eu ia me lembrando de algo contando apenas com minha memória interiorizada, sem signos ostensivos. De repente, exposição iluminada das coisas mágicas do meu passado era solar demais, impunha suas imagens à minha imaginação, a riqueza do passado me aparecia agora esbanjada, perdulária, barateada... Faltava às lembranças digitalizadas a hesitação na escolha dos detalhes, a invenção necessária para cobrir lacunas, a dificuldade laboriosa da tentativa de remontagem das antigas experiências. Faltava, em cada imagem exibida e inconteste, a construção compensatória do meu imaginário. Não estou sendo ingrato. Aos canais de música não tenho como agradecer por abrir um leque incomensurável das composições que o mundo já conheceu e está conhecendo. Mas no campo da memória pessoal, a contundência dos arquivos implacáveis da internet suprime os vazios humanizantes da nossa memória que, segundo Bergson, corta e costura o passado segundo convocações do presente - convocações pessoais e intransferíveis. Colocando diante de nós as marcas físicas de nosso passado, а digitalização computacional suprime as franjas e as sombras que eram parte fundamental de cada lembrança afetiva. Para me proporcionar todas as visões do passado, o computador precisa que eu escancare os olhos e me deixe cegar com tanta iluminação. Fica comigo, no entanto, a saudade da memória que eu praticava misturando lembrança e imaginação, me valendo da riqueza comovente dos vazios que eu me esmerava em preencher. Fica comigo a memória da memória que era a minha. (Almino Valares, a editar) Em nova redação de uma frase do texto, está adequada a substituição do elemento sublinhado em:",
+        "enunciado": "Mas havia, sim, os aspectos legais, como lhe explicou um vizinho contabilista. Abílio teria de conseguir um alvará. Para isso, seriam necessários 107 passos. Ele não entendeu bem aquela história de passos. São providências que você necessariamente precisa tomar, explicou o vizinho. (3º parágrafo) No trecho acima, os pronomes sublinhados referem-se, respectivamente, a",
         "alternativas": [
           {
             "id": "A",
-            "texto": "a contundência dos arquivos implacáveis da internet suprime os vazios = supre-se dos"
+            "texto": "\"vizinho contabilista\" e \"você\"."
           },
           {
             "id": "B",
-            "texto": "a saudade da memória que eu praticava misturando lembrança = com que eu me valia"
+            "texto": "\"Abílio\" e \"você”."
           },
           {
             "id": "C",
-            "texto": "Faltava às lembranças digitalizadas a hesitação na escolha dos detalhes = Careciam as lembranças digitalizadas da"
+            "texto": "\"aspectos legais\" e \"providências\"."
           },
           {
             "id": "D",
-            "texto": "passei a ter acesso a imagens e sons de um passado = Comecei a tangenciar com"
+            "texto": "\"vizinho contabilista\" e \"providências\"."
           },
           {
             "id": "E",
-            "texto": "E comecei a dar pela falta de um elemento fundamental = Passei a ressentir em"
+            "texto": "\"Abílio\" e \"providências\"."
           }
         ],
-        "resposta_correta": "C",
-        "fundamentacao_correta": "Na colocação pronominal culta, palavras atrativas (negativas, advérbios, pronomes relativos) exigem próclise, ao passo que o início de período repele o pronome oblíquo átono. A alternativa [C] ('Faltava às lembranças digitalizadas a hesitação na escolha dos detalhes = Careciam as lembranças digitalizadas da') aplica as regras de colocação e seleção pronominal de forma impecável.",
+        "resposta_correta": "E",
+        "fundamentacao_correta": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [E] ('\"Abílio\" e \"providências\".') respeita perfeitamente as regras de colocação e concordância pronominal.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'a contundência dos arquivos implacáveis da internet suprime os vazios = supre-se...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: '\"vizinho contabilista\" e \"você\"....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'a saudade da memória que eu praticava misturando lembrança = com que eu me valia...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: '\"Abílio\" e \"você”....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          },
+          {
+            "letra": "C",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: '\"aspectos legais\" e \"providências\"....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'passei a ter acesso a imagens e sons de um passado = Comecei a tangenciar com...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "E",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'E comecei a dar pela falta de um elemento fundamental = Passei a ressentir em...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: '\"vizinho contabilista\" e \"providências\"....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           }
         ],
-        "comentario": "Na colocação pronominal culta, palavras atrativas (negativas, advérbios, pronomes relativos) exigem próclise, ao passo que o início de período repele o pronome oblíquo átono. A alternativa [C] ('Faltava às lembranças digitalizadas a hesitação na escolha dos detalhes = Careciam as lembranças digitalizadas da') aplica as regras de colocação e seleção pronominal de forma impecável.",
-        "id": "FCC_LP0009",
-        "numero_ordem": 9,
-        "numero_simulado": 18
+        "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [E] ('\"Abílio\" e \"providências\".') respeita perfeitamente as regras de colocação e concordância pronominal.",
+        "id": "FCC_LP0097",
+        "numero_ordem": 97,
+        "numero_simulado": 10
       },
       {
-        "codigo_origem": "Q3910524",
-        "numero_original": 215,
+        "codigo_origem": "Q3879943",
+        "numero_original": 254,
         "banca": "FCC",
-        "orgao": "ARTESP",
+        "orgao": "MPE-SE",
         "ano": 2026,
-        "prova": "FCC - 2026 - ARTESP - Analista de Superte à Regulação de Transporte I",
-        "cargo": "Geral",
+        "prova": "FCC - 2026 - MPE-SE - Técnico do Ministério Público - Área: Administrativa",
+        "cargo": "Cargos Diversos (Superior/Médio)",
         "materia": "Língua Portuguesa",
         "assunto": "Pontuação e Emprego da Vírgula",
-        "enunciado": "Atenção: Para responder à questão, baseie-se no texto a seguir. Amigo de verdade",
+        "enunciado": "Observa-se o emprego de vírgula para isolar um vocativo no seguinte trecho:",
         "alternativas": [
           {
             "id": "A",
-            "texto": "madrugada ia alta na redação da revista quando o meu colega Jairo, sentado à minha frente, interrompeu a crítica de teatro de que estava se incumbindo, levantou os olhos e me propôs uma grave questão: - Sabe qual é o maior problema do artista brasileiro? Preparei-me para ouvir mais uma de suas sábias reflexões sobre as vicissitudes do gênero humano, mais uma de suas tiradas que costumava proferir a horas mortas, como súmulas conclusivas. Não me decepcionei: - É não ter um amigo que diga a ele: fulano, não faça isso... Todos os que estimam o valor inalienável da franqueza incondicional concordarão com ele. Mas, acrescento eu, que a recomendação não precisa se limitar ao caso do artista brasileiro. (Adaptado de: WERNECK, Humberto. Esse inferno vai acabar. Porto Alegre: Arquipélago Editorial, 2011, p. 159)"
-          },
-          {
-            "id": "A",
-            "texto": "supressão da vírgula altera o sentido da frase:"
-          },
-          {
-            "id": "A",
-            "texto": "Mesmo que se queira, não é fácil cultivar a plena sinceridade."
+            "texto": "Raul (o mais crescido) obedeceu, mas Serginho manteve-se reservado. (5º parágrafo)"
           },
           {
             "id": "B",
-            "texto": "Evidentemente, a recomendação do amigo não excluía outras profissões."
+            "texto": "A bem dizer, não cabia nem o pessoal que se espremia lá dentro em estado de sardinha. (1º parágrafo)"
           },
           {
             "id": "C",
-            "texto": "O colega cuidava do artista brasileiro, que não leva a sério suas escolhas. D Ao escrever a crítica da peça, talvez lhe tivesse ocorrido tal recomendação. E Ao que tudo indica, meu colega estava preocupado com o desempenho dos atores."
-          }
-        ],
-        "resposta_correta": "C",
-        "fundamentacao_correta": "A pontuação na Língua Portuguesa delimita unidades sintáticas e assegura clareza semântica ao período. A vírgula é obrigatória para isolar termos deslocados ou orações subordinadas adverbiais antepostas e proibida entre sujeito e predicado ou entre verbo e complemento. A alternativa [C] ('O colega cuidava do artista brasileiro, que não leva a sério suas escolhas. D Ao escrever a crítica da peça, talvez lhe tivesse ocorrido tal recomendação. E Ao que tudo indica, meu colega estava preocupado com o desempenho dos atores.') obedece rigorosamente às regras da sintaxe de pontuação.",
-        "analise_distratores": [
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'madrugada ia alta na redação da revista quando o meu colega Jairo, sentado à min...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'supressão da vírgula altera o sentido da frase:...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Mesmo que se queira, não é fácil cultivar a plena sinceridade....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          },
-          {
-            "letra": "B",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Evidentemente, a recomendação do amigo não excluía outras profissões....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
-          }
-        ],
-        "comentario": "A pontuação na Língua Portuguesa delimita unidades sintáticas e assegura clareza semântica ao período. A vírgula é obrigatória para isolar termos deslocados ou orações subordinadas adverbiais antepostas e proibida entre sujeito e predicado ou entre verbo e complemento. A alternativa [C] ('O colega cuidava do artista brasileiro, que não leva a sério suas escolhas. D Ao escrever a crítica da peça, talvez lhe tivesse ocorrido tal recomendação. E Ao que tudo indica, meu colega estava preocupado com o desempenho dos atores.') obedece rigorosamente às regras da sintaxe de pontuação.",
-        "id": "FCC_LP0034",
-        "numero_ordem": 34,
-        "numero_simulado": 19
-      },
-      {
-        "codigo_origem": "Q3910522",
-        "numero_original": 216,
-        "banca": "FCC",
-        "orgao": "ARTESP",
-        "ano": 2026,
-        "prova": "FCC - 2026 - ARTESP - Analista de Superte à Regulação de Transporte I",
-        "cargo": "Geral",
-        "materia": "Língua Portuguesa",
-        "assunto": "Conjunções e Relações Lógico-Discursivas",
-        "enunciado": "No contexto, a expressão súmulas conclusivas",
-        "alternativas": [
-          {
-            "id": "A",
-            "texto": "refere-se, precisamente, às vicissitudes do gênero humano."
-          },
-          {
-            "id": "B",
-            "texto": "atesta uma formalização das sábias reflexões do colega de redação."
-          },
-          {
-            "id": "C",
-            "texto": "contraria plenamente a importância de uma grave questão."
+            "texto": "- Este menino é impossível. Desculpe, cavalheiro. (11º parágrafo)"
           },
           {
             "id": "D",
-            "texto": "ironiza o valor inalienável atribuído à franqueza da recomendação."
+            "texto": "Sorrio para este, enquanto retribuo: (12º parágrafo)"
           },
           {
             "id": "E",
-            "texto": "contradiz o valor atribuído às tiradas proferidas pelo colega."
+            "texto": "A mãe ferra outro em Serginho, que dispara a chorar. (13º parágrafo)"
           }
         ],
-        "resposta_correta": "B",
-        "fundamentacao_correta": "Os conectivos oracionais estabelecem relações lógicas de causa, consequência, concessão, condição e finalidade entre os segmentos textuais. A alternativa [B] ('atesta uma formalização das sábias reflexões do colega de redação.') identifica com precisão o valor semântico-discursivo estabelecido pela conjunção no texto.",
+        "resposta_correta": "C",
+        "fundamentacao_correta": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('- Este menino é impossível. Desculpe, cavalheiro. (11º parágrafo)') atende integralmente à norma culta de pontuação.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'refere-se, precisamente, às vicissitudes do gênero humano....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Raul (o mais crescido) obedeceu, mas Serginho manteve-se reservado. (5º parágraf...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
-            "letra": "C",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'contraria plenamente a importância de uma grave questão....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "letra": "B",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'A bem dizer, não cabia nem o pessoal que se espremia lá dentro em estado de sard...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'ironiza o valor inalienável atribuído à franqueza da recomendação....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Sorrio para este, enquanto retribuo: (12º parágrafo)...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'contradiz o valor atribuído às tiradas proferidas pelo colega....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'A mãe ferra outro em Serginho, que dispara a chorar. (13º parágrafo)...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           }
         ],
-        "comentario": "Os conectivos oracionais estabelecem relações lógicas de causa, consequência, concessão, condição e finalidade entre os segmentos textuais. A alternativa [B] ('atesta uma formalização das sábias reflexões do colega de redação.') identifica com precisão o valor semântico-discursivo estabelecido pela conjunção no texto.",
-        "id": "FCC_LP0035",
-        "numero_ordem": 35,
-        "numero_simulado": 20
+        "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('- Este menino é impossível. Desculpe, cavalheiro. (11º parágrafo)') atende integralmente à norma culta de pontuação.",
+        "id": "FCC_LP0074",
+        "numero_ordem": 74,
+        "numero_simulado": 11
       },
       {
-        "codigo_origem": "Q1970068",
-        "numero_original": 213,
+        "codigo_origem": "Q3538920",
+        "numero_original": 364,
         "banca": "FCC",
-        "orgao": "TRT - 23ª REGIÃO (MT)",
-        "ano": 2022,
-        "prova": "FCC - 2022 - TRT - 23ª REGIÃO (MT) - Técnico Judiciário - Área",
-        "cargo": "Técnico de Enfermagem",
-        "materia": "Enfermagem",
-        "assunto": "Fundamentos e Procedimentos de Enfermagem",
-        "enunciado": "Apoio - Enfermagem do Trabalho",
+        "orgao": "TRF - 4ª REGIÃO",
+        "ano": 2025,
+        "prova": "FCC - 2025 - TRF - 4ª REGIÃO - Técnico Judiciário - Área Administrativa",
+        "cargo": "Cargos Diversos (Superior/Médio)",
+        "materia": "Língua Portuguesa",
+        "assunto": "Conjunções e Relações Lógico-Discursivas",
+        "enunciado": "Do ponto de vista da coesão textual, a construção Por um lado [...] por outro (3º parágrafo) tem como função:",
         "alternativas": [
           {
             "id": "A",
-            "texto": "Comissão Interna de Prevenção de Acidentes (CIPA), de acordo com a Norma Regulamentadora NR-5,"
-          },
-          {
-            "id": "A",
-            "texto": "deve promover, a cada 02 anos, a Semana Interna de Prevenção de Acidentes do Trabalho (SIPAT), conforme programação definida."
+            "texto": "Contrapor o passado idealizado à presente degradação social."
           },
           {
             "id": "B",
-            "texto": "é aplicável às organizações e aos órgãos públicos da administração direta e indireta, bem como aos órgãos dos Poderes Legislativo, Judiciário e Ministério Público, que possuam empregados regidos pela Consolidação das Leis do Trabalho (CLT)."
+            "texto": "Estabelecer oposição entre os benefícios e os prejuízos da interatividade."
           },
           {
             "id": "C",
-            "texto": "deve realizar a assistência nos programas relacionados à saúde no trabalho e emitir as Comunicações de Acidente de Trabalho (CAT)."
+            "texto": "Retomar uma enumeração iniciada no parágrafo anterior."
           },
           {
             "id": "D",
-            "texto": "poderá ter seu número de representantes reduzido, bem como poderá ser desativada pela organização, antes do término do mandato de seus membros, quando houver redução do número de empregados do estabelecimento. E está vedada a dispensar de forma arbitrária ou sem justa causa, incluindo término do contrato de trabalho por prazo determinado, o empregado eleito para cargo de direção da CIPA desde o registro de sua candidatura até um ano após o final de seu mandato."
+            "texto": "Enfatizar a importância de ouvir todas as vozes da sociedade."
+          },
+          {
+            "id": "E",
+            "texto": "Introduzir uma sequência de ações contrárias à modernização."
           }
         ],
         "resposta_correta": "B",
-        "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [B] ('é aplicável às organizações e aos órgãos públicos da administração direta e indireta, bem como aos órgãos dos Poderes Legislativo, Judiciário e Ministério Público, que possuam empregados regidos pela Consolidação das Leis do Trabalho (CLT).') constitui a conduta técnica correta e fundamentada.",
+        "fundamentacao_correta": "Os conectivos oracionais marcam relações argumentativas de causa, consequência, concessão, oposição e finalidade no encadeamento textual. A alternativa [B] ('Estabelecer oposição entre os benefícios e os prejuízos da interatividade.') expressa com fidelidade a relação lógico-discursiva pretendida pelo autor.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Comissão Interna de Prevenção de Acidentes (CIPA), de acordo com a Norma Regulam...' não representa a conduta indicada."
-          },
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'deve promover, a cada 02 anos, a Semana Interna de Prevenção de Acidentes do Tra...' não representa a conduta indicada."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Contrapor o passado idealizado à presente degradação social....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'deve realizar a assistência nos programas relacionados à saúde no trabalho e emi...' não representa a conduta indicada."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Retomar uma enumeração iniciada no parágrafo anterior....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'poderá ter seu número de representantes reduzido, bem como poderá ser desativada...' não representa a conduta indicada."
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Enfatizar a importância de ouvir todas as vozes da sociedade....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+          },
+          {
+            "letra": "E",
+            "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Introduzir uma sequência de ações contrárias à modernização....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
           }
         ],
-        "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [B] ('é aplicável às organizações e aos órgãos públicos da administração direta e indireta, bem como aos órgãos dos Poderes Legislativo, Judiciário e Ministério Público, que possuam empregados regidos pela Consolidação das Leis do Trabalho (CLT).') constitui a conduta técnica correta e fundamentada.",
-        "id": "FCC0033",
-        "numero_ordem": 33,
-        "numero_simulado": 21
+        "comentario": "Os conectivos oracionais marcam relações argumentativas de causa, consequência, concessão, oposição e finalidade no encadeamento textual. A alternativa [B] ('Estabelecer oposição entre os benefícios e os prejuízos da interatividade.') expressa com fidelidade a relação lógico-discursiva pretendida pelo autor.",
+        "id": "FCC_LP0183",
+        "numero_ordem": 183,
+        "numero_simulado": 12
       },
       {
         "codigo_origem": "Q1970067",
@@ -11404,7 +10430,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Fundamentos e Procedimentos de Enfermagem",
-        "enunciado": "Apoio - Enfermagem do Trabalho Considerando os riscos associados à técnica de punção venosa para coleta de sangue, recomenda-se, dentre outros Equipamentos de Proteção Individual (EPI) previstos na Norma Regulamentadora NR-6, o uso de",
+        "enunciado": "Considerando os riscos associados à técnica de punção venosa para coleta de sangue, recomenda-se, dentre outros Equipamentos de Proteção Individual (EPI) previstos na Norma Regulamentadora NR-6, o uso de",
         "alternativas": [
           {
             "id": "A",
@@ -11428,29 +10454,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "D",
-        "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [D] ('óculos para proteção dos olhos contra impactos de partículas volantes.') constitui a conduta técnica correta e fundamentada.",
+        "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('óculos para proteção dos olhos contra impactos de partículas volantes.') configura a resposta correta e plenamente fundamentada.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'protetor facial para proteção da face contra riscos de origem térmica....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'protetor facial para proteção da face contra riscos de origem térmica....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'luvas para proteção específica para caracterizar a proteção especial das mãos co...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'luvas para proteção específica para caracterizar a proteção especial das mãos co...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'luvas para proteção das mãos contra agentes cortantes e perfurantes....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'luvas para proteção das mãos contra agentes cortantes e perfurantes....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'peça semifacial filtrante (PFF2) para proteção das vias respiratórias contra poe...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'peça semifacial filtrante (PFF2) para proteção das vias respiratórias contra poe...' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [D] ('óculos para proteção dos olhos contra impactos de partículas volantes.') constitui a conduta técnica correta e fundamentada.",
-        "id": "FCC0034",
+        "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('óculos para proteção dos olhos contra impactos de partículas volantes.') configura a resposta correta e plenamente fundamentada.",
+        "id": "FCC_ENF0034",
         "numero_ordem": 34,
-        "numero_simulado": 22
+        "numero_simulado": 13
       },
       {
         "codigo_origem": "Q1970066",
@@ -11462,7 +10488,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Fundamentos e Procedimentos de Enfermagem",
-        "enunciado": "Apoio - Enfermagem do Trabalho O Técnico de Enfermagem do Trabalho, de acordo com a Norma Regulamentadora NR-4, deve saber que compete aos profissionais integrantes dos Serviços Especializados em Engenharia de Segurança e em Medicina do Trabalho, dentre outros,",
+        "enunciado": "O Técnico de Enfermagem do Trabalho, de acordo com a Norma Regulamentadora NR-4, deve saber que compete aos profissionais integrantes dos Serviços Especializados em Engenharia de Segurança e em Medicina do Trabalho, dentre outros,",
         "alternativas": [
           {
             "id": "A",
@@ -11486,87 +10512,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "E",
-        "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [E] ('aplicar os conhecimentos de engenharia de segurança e de medicina do trabalho ao ambiente de trabalho e a todos os seus componentes, de modo a reduzir, até eliminar, os riscos ali existentes à saúde do trabalhador.') constitui a conduta técnica correta e fundamentada.",
+        "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [E] ('aplicar os conhecimentos de engenharia de segurança e de medicina do trabalho ao ambiente de trabalho e a todos os seus componentes, de modo a reduzir, até eliminar, os riscos ali existentes à saúde do trabalhador.') configura a resposta correta e plenamente fundamentada.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'realizar atividades de educação e treinar trabalhadores, pacientes e acompanhant...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'realizar atividades de educação e treinar trabalhadores, pacientes e acompanhant...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'determinar a utilização, pelo trabalhador, de Equipamentos de Proteção Coletiva ...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'determinar a utilização, pelo trabalhador, de Equipamentos de Proteção Coletiva ...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'exercer atividades prevencionistas, assistenciais e de voluntariado, junto à equ...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'exercer atividades prevencionistas, assistenciais e de voluntariado, junto à equ...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'definir e executar os projetos arquitetônicos para a implantação de novas instal...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'definir e executar os projetos arquitetônicos para a implantação de novas instal...' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [E] ('aplicar os conhecimentos de engenharia de segurança e de medicina do trabalho ao ambiente de trabalho e a todos os seus componentes, de modo a reduzir, até eliminar, os riscos ali existentes à saúde do trabalhador.') constitui a conduta técnica correta e fundamentada.",
-        "id": "FCC0035",
+        "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [E] ('aplicar os conhecimentos de engenharia de segurança e de medicina do trabalho ao ambiente de trabalho e a todos os seus componentes, de modo a reduzir, até eliminar, os riscos ali existentes à saúde do trabalhador.') configura a resposta correta e plenamente fundamentada.",
+        "id": "FCC_ENF0035",
         "numero_ordem": 35,
-        "numero_simulado": 23
-      },
-      {
-        "codigo_origem": "Q1970064",
-        "numero_original": 217,
-        "banca": "FCC",
-        "orgao": "TRT - 23ª REGIÃO (MT)",
-        "ano": 2022,
-        "prova": "FCC - 2022 - TRT - 23ª REGIÃO (MT) - Técnico Judiciário - Área",
-        "cargo": "Técnico de Enfermagem",
-        "materia": "Enfermagem",
-        "assunto": "Fundamentos e Procedimentos de Enfermagem",
-        "enunciado": "Apoio - Enfermagem do Trabalho",
-        "alternativas": [
-          {
-            "id": "A",
-            "texto": "Norma Regulamentadora NR-32, dentre as medidas de proteção à segurança e à saúde dos trabalhadores dos serviços de saúde relacionadas aos riscos químicos, determina que"
-          },
-          {
-            "id": "A",
-            "texto": "a reutilização das embalagens de produtos químicos ocorra somente após reprocessamento e esterilização."
-          },
-          {
-            "id": "B",
-            "texto": "a rotulagem do fabricante na embalagem original dos produtos químicos seja substituída por etiqueta com o nome do produto, data de envase e de validade, e nome do responsável pela manipulação."
-          },
-          {
-            "id": "C",
-            "texto": "as áreas de armazenamento de produtos químicos devem ser ventiladas e sinalizadas e que devem ser previstas áreas de armazenamento próprias para produtos químicos incompatíveis."
-          },
-          {
-            "id": "D",
-            "texto": "a preparação de medicamentos para administração imediata aos pacientes ocorra em local apropriado para a manipulação ou fracionamento de produtos químicos. E a manipulação ou fracionamento de produtos químicos seja realizada em local que disponha de equipamento tipo coifa para garantir a exaustão dos mesmos."
-          }
-        ],
-        "resposta_correta": "C",
-        "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [C] ('as áreas de armazenamento de produtos químicos devem ser ventiladas e sinalizadas e que devem ser previstas áreas de armazenamento próprias para produtos químicos incompatíveis.') constitui a conduta técnica correta e fundamentada.",
-        "analise_distratores": [
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Norma Regulamentadora NR-32, dentre as medidas de proteção à segurança e à saúde...' não representa a conduta indicada."
-          },
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'a reutilização das embalagens de produtos químicos ocorra somente após reprocess...' não representa a conduta indicada."
-          },
-          {
-            "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'a rotulagem do fabricante na embalagem original dos produtos químicos seja subst...' não representa a conduta indicada."
-          },
-          {
-            "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'a preparação de medicamentos para administração imediata aos pacientes ocorra em...' não representa a conduta indicada."
-          }
-        ],
-        "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [C] ('as áreas de armazenamento de produtos químicos devem ser ventiladas e sinalizadas e que devem ser previstas áreas de armazenamento próprias para produtos químicos incompatíveis.') constitui a conduta técnica correta e fundamentada.",
-        "id": "FCC0037",
-        "numero_ordem": 37,
-        "numero_simulado": 24
+        "numero_simulado": 14
       },
       {
         "codigo_origem": "Q1970061",
@@ -11578,7 +10546,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Fundamentos e Procedimentos de Enfermagem",
-        "enunciado": "Apoio - Enfermagem do Trabalho Para o diagnóstico de uma dermatose relacionada ao trabalho, é importante considerar, dentre outros fatores, o teste epicutâneo positivo nos casos de dermatites de contato por sensibilização, uma vez que os testes epicutâneos constituem uma ferramenta auxiliar para a investigação de processos",
+        "enunciado": "Para o diagnóstico de uma dermatose relacionada ao trabalho, é importante considerar, dentre outros fatores, o teste epicutâneo positivo nos casos de dermatites de contato por sensibilização, uma vez que os testes epicutâneos constituem uma ferramenta auxiliar para a investigação de processos",
         "alternativas": [
           {
             "id": "A",
@@ -11602,29 +10570,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "E",
-        "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [E] ('alérgicos.') constitui a conduta técnica correta e fundamentada.",
+        "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [E] ('alérgicos.') configura a resposta correta e plenamente fundamentada.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'vasculares....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'vasculares....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'cancerígenos....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'cancerígenos....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'trombogênicos....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'trombogênicos....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'infectocontagiosos....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'infectocontagiosos....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [E] ('alérgicos.') constitui a conduta técnica correta e fundamentada.",
-        "id": "FCC0039",
+        "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [E] ('alérgicos.') configura a resposta correta e plenamente fundamentada.",
+        "id": "FCC_ENF0039",
         "numero_ordem": 39,
-        "numero_simulado": 25
+        "numero_simulado": 15
       },
       {
         "codigo_origem": "Q1970060",
@@ -11636,7 +10604,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Fundamentos e Procedimentos de Enfermagem",
-        "enunciado": "Apoio - Enfermagem do Trabalho Dentre as medidas de prevenção de infecção de corrente sanguínea relacionadas a cateteres intravenosos, de acordo com a ANVISA 2017, deve-se considerar que:",
+        "enunciado": "Dentre as medidas de prevenção de infecção de corrente sanguínea relacionadas a cateteres intravenosos, de acordo com a ANVISA 2017, deve-se considerar que:",
         "alternativas": [
           {
             "id": "A",
@@ -11660,29 +10628,145 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "D",
-        "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [D] ('No preparo da pele para a venopunção, indica-se a aplicação da clorexidina realizada por meio de movimentos de vai e vem e do PVPI com movimentos circulares (dentro para fora).') constitui a conduta técnica correta e fundamentada.",
+        "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('No preparo da pele para a venopunção, indica-se a aplicação da clorexidina realizada por meio de movimentos de vai e vem e do PVPI com movimentos circulares (dentro para fora).') configura a resposta correta e plenamente fundamentada.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Na necessidade de palpação do sítio de inserção do cateter intravascular após a ...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Na necessidade de palpação do sítio de inserção do cateter intravascular após a ...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Os cateteres intravenosos periféricos com maior calibre causam menos flebite mec...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Os cateteres intravenosos periféricos com maior calibre causam menos flebite mec...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Um cateter periférico pode ser utilizado em até três tentativas de punção no mes...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Um cateter periférico pode ser utilizado em até três tentativas de punção no mes...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'A estabilização do cateter periférico, quando houver lesões de pele na área peri...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'A estabilização do cateter periférico, quando houver lesões de pele na área peri...' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [D] ('No preparo da pele para a venopunção, indica-se a aplicação da clorexidina realizada por meio de movimentos de vai e vem e do PVPI com movimentos circulares (dentro para fora).') constitui a conduta técnica correta e fundamentada.",
-        "id": "FCC0040",
+        "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('No preparo da pele para a venopunção, indica-se a aplicação da clorexidina realizada por meio de movimentos de vai e vem e do PVPI com movimentos circulares (dentro para fora).') configura a resposta correta e plenamente fundamentada.",
+        "id": "FCC_ENF0040",
         "numero_ordem": 40,
-        "numero_simulado": 26
+        "numero_simulado": 16
+      },
+      {
+        "codigo_origem": "Q1970056",
+        "numero_original": 224,
+        "banca": "FCC",
+        "orgao": "TRT - 23ª REGIÃO (MT)",
+        "ano": 2022,
+        "prova": "FCC - 2022 - TRT - 23ª REGIÃO (MT) - Técnico Judiciário - Área",
+        "cargo": "Técnico de Enfermagem",
+        "materia": "Enfermagem",
+        "assunto": "Fundamentos e Procedimentos de Enfermagem",
+        "enunciado": "Uma trabalhadora do Tribunal Regional do Trabalho compareceu ao ambulatório com queixa de alterações urinárias. Nesse caso, o Técnico de Enfermagem, enquanto componente da equipe multidisciplinar, deve estar atento à presença de sinais sistêmicos, como, por exemplo,",
+        "alternativas": [
+          {
+            "id": "A",
+            "texto": "urgência miccional."
+          },
+          {
+            "id": "B",
+            "texto": "dor ao urinar."
+          },
+          {
+            "id": "C",
+            "texto": "taquicardia."
+          },
+          {
+            "id": "D",
+            "texto": "nictúria."
+          },
+          {
+            "id": "E",
+            "texto": "aumento da frequência urinária."
+          }
+        ],
+        "resposta_correta": "C",
+        "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('taquicardia.') configura a resposta correta e plenamente fundamentada.",
+        "analise_distratores": [
+          {
+            "letra": "A",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'urgência miccional....' não corresponde à diretriz ou definição válida."
+          },
+          {
+            "letra": "B",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'dor ao urinar....' não corresponde à diretriz ou definição válida."
+          },
+          {
+            "letra": "D",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'nictúria....' não corresponde à diretriz ou definição válida."
+          },
+          {
+            "letra": "E",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'aumento da frequência urinária....' não corresponde à diretriz ou definição válida."
+          }
+        ],
+        "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('taquicardia.') configura a resposta correta e plenamente fundamentada.",
+        "id": "FCC_ENF0044",
+        "numero_ordem": 44,
+        "numero_simulado": 17
+      },
+      {
+        "codigo_origem": "Q1970054",
+        "numero_original": 225,
+        "banca": "FCC",
+        "orgao": "TRT - 23ª REGIÃO (MT)",
+        "ano": 2022,
+        "prova": "FCC - 2022 - TRT - 23ª REGIÃO (MT) - Técnico Judiciário - Área",
+        "cargo": "Técnico de Enfermagem",
+        "materia": "Enfermagem",
+        "assunto": "Fundamentos e Procedimentos de Enfermagem",
+        "enunciado": "A precedência das ações de promoção, proteção e prevenção sobre as ações de assistência, reabilitação e reparação é um dos princípios da Política Nacional de",
+        "alternativas": [
+          {
+            "id": "A",
+            "texto": "Segurança e Saúde no Trabalho."
+          },
+          {
+            "id": "B",
+            "texto": "Prevenção Ocupacional."
+          },
+          {
+            "id": "C",
+            "texto": "Segurança do Paciente."
+          },
+          {
+            "id": "D",
+            "texto": "Gestão do Trabalho."
+          },
+          {
+            "id": "E",
+            "texto": "Proteção do Profissional de Saúde."
+          }
+        ],
+        "resposta_correta": "A",
+        "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('Segurança e Saúde no Trabalho.') configura a resposta correta e plenamente fundamentada.",
+        "analise_distratores": [
+          {
+            "letra": "B",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Prevenção Ocupacional....' não corresponde à diretriz ou definição válida."
+          },
+          {
+            "letra": "C",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Segurança do Paciente....' não corresponde à diretriz ou definição válida."
+          },
+          {
+            "letra": "D",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Gestão do Trabalho....' não corresponde à diretriz ou definição válida."
+          },
+          {
+            "letra": "E",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Proteção do Profissional de Saúde....' não corresponde à diretriz ou definição válida."
+          }
+        ],
+        "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('Segurança e Saúde no Trabalho.') configura a resposta correta e plenamente fundamentada.",
+        "id": "FCC_ENF0045",
+        "numero_ordem": 45,
+        "numero_simulado": 18
       },
       {
         "codigo_origem": "Q1970034",
@@ -11694,7 +10778,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Saúde Pública, SUS e Atenção Básica",
-        "enunciado": "Apoio - Enfermagem do Trabalho Durante o atendimento realizado a uma paciente, o médico solicita que ela sorria e em seguida que feche os olhos e mantenha os braços estendidos à frente. Essa conduta é indicada quando o profissional de saúde suspeita da ocorrência de",
+        "enunciado": "Durante o atendimento realizado a uma paciente, o médico solicita que ela sorria e em seguida que feche os olhos e mantenha os braços estendidos à frente. Essa conduta é indicada quando o profissional de saúde suspeita da ocorrência de",
         "alternativas": [
           {
             "id": "A",
@@ -11718,29 +10802,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "A",
-        "fundamentacao_correta": "Com base na Constituição Federal (Art. 196 a 200) e na Lei Orgânica da Saúde (Leis nº 8.080/1990 e 8.142/1990), o Sistema Único de Saúde fundamenta-se nos princípios de universalidade, integralidade e equidade, garantindo o controle social e a descentralização político-administrativa. A alternativa [A] ('acidente vascular encefálico.') enuncia com precisão os ditames legais e estruturais do SUS.",
+        "fundamentacao_correta": "Com base na Constituição Federal de 1988 (Artigos 196 a 200) e nas Leis Orgânicas da Saúde nº 8.080/1990 e 8.142/1990, o SUS rege-se pelos princípios doutrinários de Universalidade, Integralidade e Equidade, somados às diretrizes organizativas de Descentralização, Regionalização e Participação da Comunidade. A alternativa [A] ('acidente vascular encefálico.') fundamenta-se nos preceitos constitucionais e infraconstitucionais vigentes.",
         "analise_distratores": [
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'infarto agudo do miocárdio....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'infarto agudo do miocárdio....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'déficit de atenção....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'déficit de atenção....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'lesão do plexo braquial....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'lesão do plexo braquial....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'dislalia....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'dislalia....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Com base na Constituição Federal (Art. 196 a 200) e na Lei Orgânica da Saúde (Leis nº 8.080/1990 e 8.142/1990), o Sistema Único de Saúde fundamenta-se nos princípios de universalidade, integralidade e equidade, garantindo o controle social e a descentralização político-administrativa. A alternativa [A] ('acidente vascular encefálico.') enuncia com precisão os ditames legais e estruturais do SUS.",
-        "id": "FCC0064",
+        "comentario": "Com base na Constituição Federal de 1988 (Artigos 196 a 200) e nas Leis Orgânicas da Saúde nº 8.080/1990 e 8.142/1990, o SUS rege-se pelos princípios doutrinários de Universalidade, Integralidade e Equidade, somados às diretrizes organizativas de Descentralização, Regionalização e Participação da Comunidade. A alternativa [A] ('acidente vascular encefálico.') fundamenta-se nos preceitos constitucionais e infraconstitucionais vigentes.",
+        "id": "FCC_ENF0064",
         "numero_ordem": 64,
-        "numero_simulado": 27
+        "numero_simulado": 19
       },
       {
         "codigo_origem": "Q1956234",
@@ -11776,29 +10860,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "D",
-        "fundamentacao_correta": "Com base na Constituição Federal (Art. 196 a 200) e na Lei Orgânica da Saúde (Leis nº 8.080/1990 e 8.142/1990), o Sistema Único de Saúde fundamenta-se nos princípios de universalidade, integralidade e equidade, garantindo o controle social e a descentralização político-administrativa. A alternativa [D] ('fatores psicossociais relacionados a gestão organizacional e característica das relações sociais no trabalho.') enuncia com precisão os ditames legais e estruturais do SUS.",
+        "fundamentacao_correta": "Com base na Constituição Federal de 1988 (Artigos 196 a 200) e nas Leis Orgânicas da Saúde nº 8.080/1990 e 8.142/1990, o SUS rege-se pelos princípios doutrinários de Universalidade, Integralidade e Equidade, somados às diretrizes organizativas de Descentralização, Regionalização e Participação da Comunidade. A alternativa [D] ('fatores psicossociais relacionados a gestão organizacional e característica das relações sociais no trabalho.') fundamenta-se nos preceitos constitucionais e infraconstitucionais vigentes.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'exposição a drogas em contato com a pele....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'exposição a drogas em contato com a pele....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'exposição a álcoois e derivados e/ou ésteres orgânicos em atividades de trabalho...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'exposição a álcoois e derivados e/ou ésteres orgânicos em atividades de trabalho...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'variação de pressão ambiental no trabalho....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'variação de pressão ambiental no trabalho....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'biomecânica do trabalho com posições forçadas....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'biomecânica do trabalho com posições forçadas....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Com base na Constituição Federal (Art. 196 a 200) e na Lei Orgânica da Saúde (Leis nº 8.080/1990 e 8.142/1990), o Sistema Único de Saúde fundamenta-se nos princípios de universalidade, integralidade e equidade, garantindo o controle social e a descentralização político-administrativa. A alternativa [D] ('fatores psicossociais relacionados a gestão organizacional e característica das relações sociais no trabalho.') enuncia com precisão os ditames legais e estruturais do SUS.",
-        "id": "FCC0069",
+        "comentario": "Com base na Constituição Federal de 1988 (Artigos 196 a 200) e nas Leis Orgânicas da Saúde nº 8.080/1990 e 8.142/1990, o SUS rege-se pelos princípios doutrinários de Universalidade, Integralidade e Equidade, somados às diretrizes organizativas de Descentralização, Regionalização e Participação da Comunidade. A alternativa [D] ('fatores psicossociais relacionados a gestão organizacional e característica das relações sociais no trabalho.') fundamenta-se nos preceitos constitucionais e infraconstitucionais vigentes.",
+        "id": "FCC_ENF0069",
         "numero_ordem": 69,
-        "numero_simulado": 28
+        "numero_simulado": 20
       },
       {
         "codigo_origem": "Q1309022",
@@ -11834,29 +10918,87 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "D",
-        "fundamentacao_correta": "Com base na Constituição Federal (Art. 196 a 200) e na Lei Orgânica da Saúde (Leis nº 8.080/1990 e 8.142/1990), o Sistema Único de Saúde fundamenta-se nos princípios de universalidade, integralidade e equidade, garantindo o controle social e a descentralização político-administrativa. A alternativa [D] ('os pacientes transferidos de outros hospitais devem ser colocados em “precaução de contato”.') enuncia com precisão os ditames legais e estruturais do SUS.",
+        "fundamentacao_correta": "Com base na Constituição Federal de 1988 (Artigos 196 a 200) e nas Leis Orgânicas da Saúde nº 8.080/1990 e 8.142/1990, o SUS rege-se pelos princípios doutrinários de Universalidade, Integralidade e Equidade, somados às diretrizes organizativas de Descentralização, Regionalização e Participação da Comunidade. A alternativa [D] ('os pacientes transferidos de outros hospitais devem ser colocados em “precaução de contato”.') fundamenta-se nos preceitos constitucionais e infraconstitucionais vigentes.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'o uso correto de antimicrobianos em ambiente domiciliar não previne as infecções...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'o uso correto de antimicrobianos em ambiente domiciliar não previne as infecções...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'a responsabilidade por instituir as medidas para prevenir riscos e reduzir os da...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'a responsabilidade por instituir as medidas para prevenir riscos e reduzir os da...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'as superfícies e equipamentos, como mesas de cabeceira, bombas de infusão e este...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'as superfícies e equipamentos, como mesas de cabeceira, bombas de infusão e este...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'no pós-operatório, após a alta hospitalar, sinais como dor, sensibilidade e verm...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'no pós-operatório, após a alta hospitalar, sinais como dor, sensibilidade e verm...' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Com base na Constituição Federal (Art. 196 a 200) e na Lei Orgânica da Saúde (Leis nº 8.080/1990 e 8.142/1990), o Sistema Único de Saúde fundamenta-se nos princípios de universalidade, integralidade e equidade, garantindo o controle social e a descentralização político-administrativa. A alternativa [D] ('os pacientes transferidos de outros hospitais devem ser colocados em “precaução de contato”.') enuncia com precisão os ditames legais e estruturais do SUS.",
-        "id": "FCC0090",
+        "comentario": "Com base na Constituição Federal de 1988 (Artigos 196 a 200) e nas Leis Orgânicas da Saúde nº 8.080/1990 e 8.142/1990, o SUS rege-se pelos princípios doutrinários de Universalidade, Integralidade e Equidade, somados às diretrizes organizativas de Descentralização, Regionalização e Participação da Comunidade. A alternativa [D] ('os pacientes transferidos de outros hospitais devem ser colocados em “precaução de contato”.') fundamenta-se nos preceitos constitucionais e infraconstitucionais vigentes.",
+        "id": "FCC_ENF0090",
         "numero_ordem": 90,
-        "numero_simulado": 29
+        "numero_simulado": 21
+      },
+      {
+        "codigo_origem": "Q1308999",
+        "numero_original": 290,
+        "banca": "FCC",
+        "orgao": "AL-AP",
+        "ano": 2020,
+        "prova": "FCC - 2020 - AL-AP - Analista Legislativo - Enfermeiro",
+        "cargo": "Enfermeiro",
+        "materia": "Enfermagem",
+        "assunto": "Saúde Pública, SUS e Atenção Básica",
+        "enunciado": "Sistema Único de Saúde - SUS: Constituição Federal, Lei Orgânica da Saúde - Lei nº 8.080 de 1990 e outras normas Em 2017, a Carta dos Direitos e Deveres da Pessoa Usuária da Saúde foi atualizada. Dentre os direitos assegurados, consta que toda pessoa",
+        "alternativas": [
+          {
+            "id": "A",
+            "texto": "está desobrigada de assumir a responsabilidade formal pela recusa a procedimentos, exames ou tratamentos recomendados pelo profissional ou equipe de saúde."
+          },
+          {
+            "id": "B",
+            "texto": "tem o dever absoluto e exclusivo de procurar acesso em outra unidade de saúde, nas situações em que ocorrer a interrupção temporária da oferta de procedimentos como consultas e exames."
+          },
+          {
+            "id": "C",
+            "texto": "tem o direito de decidir se seus familiares e acompanhantes deverão ser informados sobre o seu estado de saúde."
+          },
+          {
+            "id": "D",
+            "texto": "tem direito à promoção e à proteção da saúde nos serviços especializados, estando na dependência da sua condição financeira."
+          },
+          {
+            "id": "E",
+            "texto": "possui o direito de ser acolhida no momento em que chegar ao serviço, de acordo com a sua senha de acesso, independente da sua necessidade de saúde."
+          }
+        ],
+        "resposta_correta": "C",
+        "fundamentacao_correta": "Com base na Constituição Federal de 1988 (Artigos 196 a 200) e nas Leis Orgânicas da Saúde nº 8.080/1990 e 8.142/1990, o SUS rege-se pelos princípios doutrinários de Universalidade, Integralidade e Equidade, somados às diretrizes organizativas de Descentralização, Regionalização e Participação da Comunidade. A alternativa [C] ('tem o direito de decidir se seus familiares e acompanhantes deverão ser informados sobre o seu estado de saúde.') fundamenta-se nos preceitos constitucionais e infraconstitucionais vigentes.",
+        "analise_distratores": [
+          {
+            "letra": "A",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'está desobrigada de assumir a responsabilidade formal pela recusa a procedimento...' não corresponde à diretriz ou definição válida."
+          },
+          {
+            "letra": "B",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'tem o dever absoluto e exclusivo de procurar acesso em outra unidade de saúde, n...' não corresponde à diretriz ou definição válida."
+          },
+          {
+            "letra": "D",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'tem direito à promoção e à proteção da saúde nos serviços especializados, estand...' não corresponde à diretriz ou definição válida."
+          },
+          {
+            "letra": "E",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'possui o direito de ser acolhida no momento em que chegar ao serviço, de acordo ...' não corresponde à diretriz ou definição válida."
+          }
+        ],
+        "comentario": "Com base na Constituição Federal de 1988 (Artigos 196 a 200) e nas Leis Orgânicas da Saúde nº 8.080/1990 e 8.142/1990, o SUS rege-se pelos princípios doutrinários de Universalidade, Integralidade e Equidade, somados às diretrizes organizativas de Descentralização, Regionalização e Participação da Comunidade. A alternativa [C] ('tem o direito de decidir se seus familiares e acompanhantes deverão ser informados sobre o seu estado de saúde.') fundamenta-se nos preceitos constitucionais e infraconstitucionais vigentes.",
+        "id": "FCC_ENF0110",
+        "numero_ordem": 110,
+        "numero_simulado": 22
       },
       {
         "codigo_origem": "Q1279087",
@@ -11892,91 +11034,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "A",
-        "fundamentacao_correta": "Com base na Constituição Federal (Art. 196 a 200) e na Lei Orgânica da Saúde (Leis nº 8.080/1990 e 8.142/1990), o Sistema Único de Saúde fundamenta-se nos princípios de universalidade, integralidade e equidade, garantindo o controle social e a descentralização político-administrativa. A alternativa [A] ('está correta e de acordo com o HumanizaSUS.') enuncia com precisão os ditames legais e estruturais do SUS.",
+        "fundamentacao_correta": "Com base na Constituição Federal de 1988 (Artigos 196 a 200) e nas Leis Orgânicas da Saúde nº 8.080/1990 e 8.142/1990, o SUS rege-se pelos princípios doutrinários de Universalidade, Integralidade e Equidade, somados às diretrizes organizativas de Descentralização, Regionalização e Participação da Comunidade. A alternativa [A] ('está correta e de acordo com o HumanizaSUS.') fundamenta-se nos preceitos constitucionais e infraconstitucionais vigentes.",
         "analise_distratores": [
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'está incorreta, porque trará conflitos de ideias....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'está incorreta, porque trará conflitos de ideias....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'vai contra a privacidade das famílias que têm todos os direitos dentro da sua mo...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'vai contra a privacidade das famílias que têm todos os direitos dentro da sua mo...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'está correta se ele ficar sozinho com as famílias e não envolver outros profissi...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'está correta se ele ficar sozinho com as famílias e não envolver outros profissi...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'é desaconselhada e ele deve tomar medidas enérgicas contra as famílias que têm e...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'é desaconselhada e ele deve tomar medidas enérgicas contra as famílias que têm e...' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Com base na Constituição Federal (Art. 196 a 200) e na Lei Orgânica da Saúde (Leis nº 8.080/1990 e 8.142/1990), o Sistema Único de Saúde fundamenta-se nos princípios de universalidade, integralidade e equidade, garantindo o controle social e a descentralização político-administrativa. A alternativa [A] ('está correta e de acordo com o HumanizaSUS.') enuncia com precisão os ditames legais e estruturais do SUS.",
-        "id": "FCC0107",
-        "numero_ordem": 107,
-        "numero_simulado": 30
-      },
-      {
-        "codigo_origem": "Q1279085",
-        "numero_original": 292,
-        "banca": "FCC",
-        "orgao": "Prefeitura de São José do Rio Preto - SP",
-        "ano": 2019,
-        "prova": "FCC - 2019 - Prefeitura de São José do Rio",
-        "cargo": "Enfermeiro",
-        "materia": "Enfermagem",
-        "assunto": "Saúde Pública, SUS e Atenção Básica",
-        "enunciado": "Preto - SP - Agente de Combate às Endemias",
-        "alternativas": [
-          {
-            "id": "A",
-            "texto": "Educação Permanente dentro da Política de Atenção Básica do Sistema Único de Saúde refere-se"
-          },
-          {
-            "id": "A",
-            "texto": "aos cursos realizados pelo profissional da saúde em outras instituições, sem apoio do Ministério ou Secretarias da Saúde."
-          },
-          {
-            "id": "B",
-            "texto": "à formação de indivíduos da comunidade que querem se tornar profissionais da saúde."
-          },
-          {
-            "id": "C",
-            "texto": "à oportunidade de liberação de funcionários públicos de nível médio para realizar um curso de nível superior."
-          },
-          {
-            "id": "D",
-            "texto": "aos cursos dados para os usuários de uma Unidade Básica de Saúde. E à formação de profissionais da saúde, com apoio do Ministério, Secretarias Municipais e Estaduais da Saúde."
-          }
-        ],
-        "resposta_correta": "E",
-        "fundamentacao_correta": "Com base na Constituição Federal (Art. 196 a 200) e na Lei Orgânica da Saúde (Leis nº 8.080/1990 e 8.142/1990), o Sistema Único de Saúde fundamenta-se nos princípios de universalidade, integralidade e equidade, garantindo o controle social e a descentralização político-administrativa. A alternativa [E] ('') enuncia com precisão os ditames legais e estruturais do SUS.",
-        "analise_distratores": [
-          {
-            "letra": "A",
-            "motivo": "Apresenta termo restritivo ('Educação Permanente dentro da Política de Atenção Básica do Sistema Ún...'), generalizando indevidamente uma situação que admite exceções clínicas ou normativas."
-          },
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'aos cursos realizados pelo profissional da saúde em outras instituições, sem apo...' não representa a conduta indicada."
-          },
-          {
-            "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'à formação de indivíduos da comunidade que querem se tornar profissionais da saú...' não representa a conduta indicada."
-          },
-          {
-            "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'à oportunidade de liberação de funcionários públicos de nível médio para realiza...' não representa a conduta indicada."
-          },
-          {
-            "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'aos cursos dados para os usuários de uma Unidade Básica de Saúde. E à formação d...' não representa a conduta indicada."
-          }
-        ],
-        "comentario": "Com base na Constituição Federal (Art. 196 a 200) e na Lei Orgânica da Saúde (Leis nº 8.080/1990 e 8.142/1990), o Sistema Único de Saúde fundamenta-se nos princípios de universalidade, integralidade e equidade, garantindo o controle social e a descentralização político-administrativa. A alternativa [E] ('') enuncia com precisão os ditames legais e estruturais do SUS.",
-        "id": "FCC0108",
-        "numero_ordem": 108,
-        "numero_simulado": 31
+        "comentario": "Com base na Constituição Federal de 1988 (Artigos 196 a 200) e nas Leis Orgânicas da Saúde nº 8.080/1990 e 8.142/1990, o SUS rege-se pelos princípios doutrinários de Universalidade, Integralidade e Equidade, somados às diretrizes organizativas de Descentralização, Regionalização e Participação da Comunidade. A alternativa [A] ('está correta e de acordo com o HumanizaSUS.') fundamenta-se nos preceitos constitucionais e infraconstitucionais vigentes.",
+        "id": "FCC_ENF0111",
+        "numero_ordem": 111,
+        "numero_simulado": 23
       },
       {
         "codigo_origem": "Q1971262",
@@ -11988,7 +11068,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Enfermeiro",
         "materia": "Enfermagem",
         "assunto": "Farmacologia, Cálculo e Administração de Medicamentos",
-        "enunciado": "Apoio - Enfermagem do Trabalho Na orientação ao trabalhador que faz uso de vários medicamentos, a enfermeira alerta sobre os riscos de interação medicamentosa e esclarece que",
+        "enunciado": "Na orientação ao trabalhador que faz uso de vários medicamentos, a enfermeira alerta sobre os riscos de interação medicamentosa e esclarece que",
         "alternativas": [
           {
             "id": "A",
@@ -12012,29 +11092,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "C",
-        "fundamentacao_correta": "A administração segura de medicamentos exige aplicação estrita dos 'certos' da enfermagem, além do domínio das fórmulas de gotejamento (gotas/min = V / (T x 3); microgotas/min = V / T) e equivalências de diluição. A alternativa [C] ('ácido acetilsalicílico pode diminuir a ação anti-hipertensiva do captopril.') apresenta a resolução exata e o respaldo farmacológico preconizado.",
+        "fundamentacao_correta": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('ácido acetilsalicílico pode diminuir a ação anti-hipertensiva do captopril.') apresenta a resposta matemática e clínica correta.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Inverte a correlação clínica/normativa preconizada pelos protocolos oficiais da saúde: 'ácido acetilsalicílico pode aumentar a ação anti-hipertensiva do captopril....'."
+            "motivo": "Inverte a correlação clínica ou a indicação terapêutica oficial: 'ácido acetilsalicílico pode aumentar a ação anti-hipertensiva do captopril....'."
           },
           {
             "letra": "B",
-            "motivo": "Inverte a correlação clínica/normativa preconizada pelos protocolos oficiais da saúde: 'ácido acetilsalicílico pode aumentar a ação hiperglicemiante da insulina....'."
+            "motivo": "Inverte a correlação clínica ou a indicação terapêutica oficial: 'ácido acetilsalicílico pode aumentar a ação hiperglicemiante da insulina....'."
           },
           {
             "letra": "D",
-            "motivo": "Inverte a correlação clínica/normativa preconizada pelos protocolos oficiais da saúde: 'omeprazol usado com fenobarbital pode diminuir a ação do barbitúrico....'."
+            "motivo": "Inverte a correlação clínica ou a indicação terapêutica oficial: 'omeprazol usado com fenobarbital pode diminuir a ação do barbitúrico....'."
           },
           {
             "letra": "E",
-            "motivo": "Inverte a correlação clínica/normativa preconizada pelos protocolos oficiais da saúde: 'omeprazol pode diminuir a ação da varfarina e aumentar a ação do clopidogrel....'."
+            "motivo": "Inverte a correlação clínica ou a indicação terapêutica oficial: 'omeprazol pode diminuir a ação da varfarina e aumentar a ação do clopidogrel....'."
           }
         ],
-        "comentario": "A administração segura de medicamentos exige aplicação estrita dos 'certos' da enfermagem, além do domínio das fórmulas de gotejamento (gotas/min = V / (T x 3); microgotas/min = V / T) e equivalências de diluição. A alternativa [C] ('ácido acetilsalicílico pode diminuir a ação anti-hipertensiva do captopril.') apresenta a resolução exata e o respaldo farmacológico preconizado.",
-        "id": "FCC0017",
+        "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('ácido acetilsalicílico pode diminuir a ação anti-hipertensiva do captopril.') apresenta a resposta matemática e clínica correta.",
+        "id": "FCC_ENF0017",
         "numero_ordem": 17,
-        "numero_simulado": 32
+        "numero_simulado": 24
       },
       {
         "codigo_origem": "Q1970044",
@@ -12046,7 +11126,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Farmacologia, Cálculo e Administração de Medicamentos",
-        "enunciado": "Apoio - Enfermagem do Trabalho Durante a passagem do plantão o Técnico de Enfermagem foi informado que havia uma paciente na sala de medicação, recebendo um antibiótico diluído em 100 mL de soro fisiológico a 0,9%, a um gotejamento de 50 gotas por minuto, por via endovenosa. Nesse contexto, o soro está previsto para ser infundido em",
+        "enunciado": "Durante a passagem do plantão o Técnico de Enfermagem foi informado que havia uma paciente na sala de medicação, recebendo um antibiótico diluído em 100 mL de soro fisiológico a 0,9%, a um gotejamento de 50 gotas por minuto, por via endovenosa. Nesse contexto, o soro está previsto para ser infundido em",
         "alternativas": [
           {
             "id": "A",
@@ -12070,29 +11150,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "E",
-        "fundamentacao_correta": "A administração segura de medicamentos exige aplicação estrita dos 'certos' da enfermagem, além do domínio das fórmulas de gotejamento (gotas/min = V / (T x 3); microgotas/min = V / T) e equivalências de diluição. A alternativa [E] ('40 minutos.') apresenta a resolução exata e o respaldo farmacológico preconizado.",
+        "fundamentacao_correta": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('40 minutos.') apresenta a resposta matemática e clínica correta.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Apresenta parâmetros numéricos/posológicos incorretos em desacordo com as diretrizes de referência: '90 minutos....'."
+            "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: '90 minutos....' diverge das referências oficiais."
           },
           {
             "letra": "B",
-            "motivo": "Apresenta parâmetros numéricos/posológicos incorretos em desacordo com as diretrizes de referência: '20 minutos....'."
+            "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: '20 minutos....' diverge das referências oficiais."
           },
           {
             "letra": "C",
-            "motivo": "Apresenta parâmetros numéricos/posológicos incorretos em desacordo com as diretrizes de referência: '60 minutos....'."
+            "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: '60 minutos....' diverge das referências oficiais."
           },
           {
             "letra": "D",
-            "motivo": "Apresenta parâmetros numéricos/posológicos incorretos em desacordo com as diretrizes de referência: '120 minutos....'."
+            "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: '120 minutos....' diverge das referências oficiais."
           }
         ],
-        "comentario": "A administração segura de medicamentos exige aplicação estrita dos 'certos' da enfermagem, além do domínio das fórmulas de gotejamento (gotas/min = V / (T x 3); microgotas/min = V / T) e equivalências de diluição. A alternativa [E] ('40 minutos.') apresenta a resolução exata e o respaldo farmacológico preconizado.",
-        "id": "FCC0054",
+        "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('40 minutos.') apresenta a resposta matemática e clínica correta.",
+        "id": "FCC_ENF0054",
         "numero_ordem": 54,
-        "numero_simulado": 33
+        "numero_simulado": 25
       },
       {
         "codigo_origem": "Q1970043",
@@ -12104,7 +11184,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Farmacologia, Cálculo e Administração de Medicamentos",
-        "enunciado": "Apoio - Enfermagem do Trabalho Para um paciente foi prescrito 6 mg por via oral de um determinado medicamento. A unidade dispõe de frascos contendo 4 mg/mL. Para atender à prescrição, o Técnico de Enfermagem deve administrar, em gotas, o equivalente a",
+        "enunciado": "Para um paciente foi prescrito 6 mg por via oral de um determinado medicamento. A unidade dispõe de frascos contendo 4 mg/mL. Para atender à prescrição, o Técnico de Enfermagem deve administrar, em gotas, o equivalente a",
         "alternativas": [
           {
             "id": "A",
@@ -12124,33 +11204,33 @@ export const SIMULADOS_OFICIAIS = [
           },
           {
             "id": "E",
-            "texto": ""
+            "texto": "40"
           }
         ],
         "resposta_correta": "C",
-        "fundamentacao_correta": "A administração segura de medicamentos exige aplicação estrita dos 'certos' da enfermagem, além do domínio das fórmulas de gotejamento (gotas/min = V / (T x 3); microgotas/min = V / T) e equivalências de diluição. A alternativa [C] ('30') apresenta a resolução exata e o respaldo farmacológico preconizado.",
+        "fundamentacao_correta": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('30') apresenta a resposta matemática e clínica correta.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: '10...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '10...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: '20...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '20...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: '15...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '15...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: '...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '40...' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "A administração segura de medicamentos exige aplicação estrita dos 'certos' da enfermagem, além do domínio das fórmulas de gotejamento (gotas/min = V / (T x 3); microgotas/min = V / T) e equivalências de diluição. A alternativa [C] ('30') apresenta a resolução exata e o respaldo farmacológico preconizado.",
-        "id": "FCC0055",
+        "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('30') apresenta a resposta matemática e clínica correta.",
+        "id": "FCC_ENF0055",
         "numero_ordem": 55,
-        "numero_simulado": 34
+        "numero_simulado": 26
       },
       {
         "codigo_origem": "Q1956219",
@@ -12186,29 +11266,87 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "D",
-        "fundamentacao_correta": "A administração segura de medicamentos exige aplicação estrita dos 'certos' da enfermagem, além do domínio das fórmulas de gotejamento (gotas/min = V / (T x 3); microgotas/min = V / T) e equivalências de diluição. A alternativa [D] ('0,1.') apresenta a resolução exata e o respaldo farmacológico preconizado.",
+        "fundamentacao_correta": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('0,1.') apresenta a resposta matemática e clínica correta.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: '0,2....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '0,2....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: '1,0....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '1,0....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: '0,5....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '0,5....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: '1,5....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '1,5....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "A administração segura de medicamentos exige aplicação estrita dos 'certos' da enfermagem, além do domínio das fórmulas de gotejamento (gotas/min = V / (T x 3); microgotas/min = V / T) e equivalências de diluição. A alternativa [D] ('0,1.') apresenta a resolução exata e o respaldo farmacológico preconizado.",
-        "id": "FCC0078",
+        "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('0,1.') apresenta a resposta matemática e clínica correta.",
+        "id": "FCC_ENF0078",
         "numero_ordem": 78,
-        "numero_simulado": 35
+        "numero_simulado": 27
+      },
+      {
+        "codigo_origem": "Q1970062",
+        "numero_original": 218,
+        "banca": "FCC",
+        "orgao": "TRT - 23ª REGIÃO (MT)",
+        "ano": 2022,
+        "prova": "FCC - 2022 - TRT - 23ª REGIÃO (MT) - Técnico Judiciário - Área",
+        "cargo": "Técnico de Enfermagem",
+        "materia": "Enfermagem",
+        "assunto": "Legislação de Enfermagem e Código de Ética",
+        "enunciado": "José, um dos seguranças do Tribunal que permanece em pé no controle de acesso durante toda sua jornada de trabalho, foi diagnosticado com Dorsalgia (CID 10 M54) pelo médico do ambulatório. O Técnico de Enfermagem, nessa situação hipotética, reconhece que essa doença relacionada ao trabalho tem como agente e/ou fator de risco, de acordo com o Anexo da Portaria no 2.309, de 28 de Agosto de 2020 do Ministério da Saúde, dentre outros,",
+        "alternativas": [
+          {
+            "id": "A",
+            "texto": "as varizes dos membros inferiores."
+          },
+          {
+            "id": "B",
+            "texto": "o ortostatismo prolongado."
+          },
+          {
+            "id": "C",
+            "texto": "o transtorno dos discos cervicais."
+          },
+          {
+            "id": "D",
+            "texto": "a variação de pressão ambiental no trabalho."
+          },
+          {
+            "id": "E",
+            "texto": "a dor lombar baixa."
+          }
+        ],
+        "resposta_correta": "B",
+        "fundamentacao_correta": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('o ortostatismo prolongado.') traduz com precisão o comando ético-legal correspondente.",
+        "analise_distratores": [
+          {
+            "letra": "A",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'as varizes dos membros inferiores....' não corresponde à diretriz ou definição válida."
+          },
+          {
+            "letra": "C",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'o transtorno dos discos cervicais....' não corresponde à diretriz ou definição válida."
+          },
+          {
+            "letra": "D",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'a variação de pressão ambiental no trabalho....' não corresponde à diretriz ou definição válida."
+          },
+          {
+            "letra": "E",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'a dor lombar baixa....' não corresponde à diretriz ou definição válida."
+          }
+        ],
+        "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('o ortostatismo prolongado.') traduz com precisão o comando ético-legal correspondente.",
+        "id": "FCC_ENF0038",
+        "numero_ordem": 38,
+        "numero_simulado": 28
       },
       {
         "codigo_origem": "Q1970052",
@@ -12220,7 +11358,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Legislação de Enfermagem e Código de Ética",
-        "enunciado": "Apoio - Enfermagem do Trabalho Ao ser escalado para apoiar na realização do exame ginecológico, o Técnico de Enfermagem é orientado a respeitar o pudor, a privacidade e a intimidade da paciente. No Código de Ética dos profissionais de Enfermagem, essa orientação é prevista no capítulo",
+        "enunciado": "Ao ser escalado para apoiar na realização do exame ginecológico, o Técnico de Enfermagem é orientado a respeitar o pudor, a privacidade e a intimidade da paciente. No Código de Ética dos profissionais de Enfermagem, essa orientação é prevista no capítulo",
         "alternativas": [
           {
             "id": "A",
@@ -12244,29 +11382,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "B",
-        "fundamentacao_correta": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem), a atuação profissional deve pautar-se pela autonomia, competência técnica e respeito aos direitos da pessoa humana. A alternativa [B] ('dos deveres.') reflete com fidelidade os direitos, deveres ou proibições ético-legais da categoria.",
+        "fundamentacao_correta": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('dos deveres.') traduz com precisão o comando ético-legal correspondente.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'dos direitos....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'dos direitos....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'das proibições....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'das proibições....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'das preocupações....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'das preocupações....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'das obrigações....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'das obrigações....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem), a atuação profissional deve pautar-se pela autonomia, competência técnica e respeito aos direitos da pessoa humana. A alternativa [B] ('dos deveres.') reflete com fidelidade os direitos, deveres ou proibições ético-legais da categoria.",
-        "id": "FCC0047",
+        "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('dos deveres.') traduz com precisão o comando ético-legal correspondente.",
+        "id": "FCC_ENF0047",
         "numero_ordem": 47,
-        "numero_simulado": 36
+        "numero_simulado": 29
       },
       {
         "codigo_origem": "Q1956237",
@@ -12302,29 +11440,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "A",
-        "fundamentacao_correta": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem), a atuação profissional deve pautar-se pela autonomia, competência técnica e respeito aos direitos da pessoa humana. A alternativa [A] ('o conjunto de políticas e práticas a fim de reduzir os danos associados ao uso de drogas psicoativas em pessoas que não podem ou não querem parar de usar drogas, visando minimizar as consequências negativas à saúde, aspectos sociais e econômicos decorrentes de substâncias que alteram o comportamento para os usuários de álcool e drogas, suas famílias e comunidade.') reflete com fidelidade os direitos, deveres ou proibições ético-legais da categoria.",
+        "fundamentacao_correta": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('o conjunto de políticas e práticas a fim de reduzir os danos associados ao uso de drogas psicoativas em pessoas que não podem ou não querem parar de usar drogas, visando minimizar as consequências negativas à saúde, aspectos sociais e econômicos decorrentes de substâncias que alteram o comportamento para os usuários de álcool e drogas, suas famílias e comunidade.') traduz com precisão o comando ético-legal correspondente.",
         "analise_distratores": [
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'a forma de atenção à saúde, de caráter assistencial ou educativo, oferecida no d...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'a forma de atenção à saúde, de caráter assistencial ou educativo, oferecida no d...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'a intervenção para o usuário em situação de vulnerabilidade, considerando os rec...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'a intervenção para o usuário em situação de vulnerabilidade, considerando os rec...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'o conjunto de procedimentos terapêuticos e sociais visando o fortalecimento dos ...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'o conjunto de procedimentos terapêuticos e sociais visando o fortalecimento dos ...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'o cuidado baseado na singularidade do sujeito de forma interdisciplinar num proc...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'o cuidado baseado na singularidade do sujeito de forma interdisciplinar num proc...' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem), a atuação profissional deve pautar-se pela autonomia, competência técnica e respeito aos direitos da pessoa humana. A alternativa [A] ('o conjunto de políticas e práticas a fim de reduzir os danos associados ao uso de drogas psicoativas em pessoas que não podem ou não querem parar de usar drogas, visando minimizar as consequências negativas à saúde, aspectos sociais e econômicos decorrentes de substâncias que alteram o comportamento para os usuários de álcool e drogas, suas famílias e comunidade.') reflete com fidelidade os direitos, deveres ou proibições ético-legais da categoria.",
-        "id": "FCC0066",
+        "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('o conjunto de políticas e práticas a fim de reduzir os danos associados ao uso de drogas psicoativas em pessoas que não podem ou não querem parar de usar drogas, visando minimizar as consequências negativas à saúde, aspectos sociais e econômicos decorrentes de substâncias que alteram o comportamento para os usuários de álcool e drogas, suas famílias e comunidade.') traduz com precisão o comando ético-legal correspondente.",
+        "id": "FCC_ENF0066",
         "numero_ordem": 66,
-        "numero_simulado": 37
+        "numero_simulado": 30
       },
       {
         "codigo_origem": "Q1956236",
@@ -12360,87 +11498,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "C",
-        "fundamentacao_correta": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem), a atuação profissional deve pautar-se pela autonomia, competência técnica e respeito aos direitos da pessoa humana. A alternativa [C] ('privativas do enfermeiro.') reflete com fidelidade os direitos, deveres ou proibições ético-legais da categoria.",
+        "fundamentacao_correta": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('privativas do enfermeiro.') traduz com precisão o comando ético-legal correspondente.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'privativas do enfermeiro ou do técnico de enfermagem na ausência do enfermeiro....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'privativas do enfermeiro ou do técnico de enfermagem na ausência do enfermeiro....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'de responsabilidade do enfermeiro e do auxiliar de enfermagem sob sua supervisão...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'de responsabilidade do enfermeiro e do auxiliar de enfermagem sob sua supervisão...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'de responsabilidade do enfermeiro em grau auxiliar....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'de responsabilidade do enfermeiro em grau auxiliar....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'prioritárias do enfermeiro, técnico de enfermagem e auxiliar de enfermagem....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'prioritárias do enfermeiro, técnico de enfermagem e auxiliar de enfermagem....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem), a atuação profissional deve pautar-se pela autonomia, competência técnica e respeito aos direitos da pessoa humana. A alternativa [C] ('privativas do enfermeiro.') reflete com fidelidade os direitos, deveres ou proibições ético-legais da categoria.",
-        "id": "FCC0067",
+        "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('privativas do enfermeiro.') traduz com precisão o comando ético-legal correspondente.",
+        "id": "FCC_ENF0067",
         "numero_ordem": 67,
-        "numero_simulado": 38
-      },
-      {
-        "codigo_origem": "Q1956223",
-        "numero_original": 256,
-        "banca": "FCC",
-        "orgao": "TRT - 4ª REGIÃO (RS)",
-        "ano": 2022,
-        "prova": "FCC - 2022 - TRT - 4ª REGIÃO (RS) - Técnico Judiciário - Área Apoio",
-        "cargo": "Técnico de Enfermagem",
-        "materia": "Enfermagem",
-        "assunto": "Legislação de Enfermagem e Código de Ética",
-        "enunciado": "O Técnico de Enfermagem recebeu uma ligação no posto de enfermagem de um desconhecido solicitando informações a respeito de um paciente que está sob seus cuidados no ambulatório do trabalho. O profissional, absteve-se de revelar informações confidenciais do paciente as quais teve conhecimento durante seu exercício profissional, de acordo com o Código de Ética dos Profissionais de Enfermagem, esse é",
-        "alternativas": [
-          {
-            "id": "A",
-            "texto": "seu direito."
-          },
-          {
-            "id": "B",
-            "texto": "seu dever."
-          },
-          {
-            "id": "C",
-            "texto": "sua proibição."
-          },
-          {
-            "id": "D",
-            "texto": "sua liberdade."
-          },
-          {
-            "id": "E",
-            "texto": "sua obrigação."
-          }
-        ],
-        "resposta_correta": "A",
-        "fundamentacao_correta": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem), a atuação profissional deve pautar-se pela autonomia, competência técnica e respeito aos direitos da pessoa humana. A alternativa [A] ('seu direito.') reflete com fidelidade os direitos, deveres ou proibições ético-legais da categoria.",
-        "analise_distratores": [
-          {
-            "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'seu dever....' não representa a conduta indicada."
-          },
-          {
-            "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'sua proibição....' não representa a conduta indicada."
-          },
-          {
-            "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'sua liberdade....' não representa a conduta indicada."
-          },
-          {
-            "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'sua obrigação....' não representa a conduta indicada."
-          }
-        ],
-        "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e a Resolução COFEN nº 564/2017 (Código de Ética dos Profissionais de Enfermagem), a atuação profissional deve pautar-se pela autonomia, competência técnica e respeito aos direitos da pessoa humana. A alternativa [A] ('seu direito.') reflete com fidelidade os direitos, deveres ou proibições ético-legais da categoria.",
-        "id": "FCC0076",
-        "numero_ordem": 76,
-        "numero_simulado": 39
+        "numero_simulado": 31
       },
       {
         "codigo_origem": "Q1970058",
@@ -12452,7 +11532,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Urgência, Emergência e PCR",
-        "enunciado": "Apoio - Enfermagem do Trabalho Um trabalhador procurou o ambulatório do Tribunal com queixa de alterações visuais e diminuição do volume urinário. O Técnico de Enfermagem aferiu sua pressão arterial (PA) e constatou uma pressão arterial sistólica de 210 mmHg e pressão arterial diastólica de 130 mmHg. Considerando, nessa situação hipotética, um quadro sugestivo de crise hipertensiva com lesão aguda de órgão alvo, recomenda-se, de acordo com a Linha de Cuidado do adulto com hipertensão arterial sistêmica do Ministério da Saúde 2021, no manejo do paciente: I. Acionar Serviço de Atendimento Móvel para transferência até a Unidade de Pronto Atendimento (UPA) ou emergência de unidade hospitalar, conforme regulação local. II. Medir a PA nos dois braços (no mínimo, 2 medidas), frequência cardíaca e saturação de oxigênio. III. Acomodar o paciente em local calmo e tranquilo para afastar casos de pseudocrise. IV. Reduzir imediatamente a PA para 120 × 80 mmHg e encaminhar paciente para acompanhamento médico ambulatorial. Está correto o que se afirma em",
+        "enunciado": "Um trabalhador procurou o ambulatório do Tribunal com queixa de alterações visuais e diminuição do volume urinário. O Técnico de Enfermagem aferiu sua pressão arterial (PA) e constatou uma pressão arterial sistólica de 210 mmHg e pressão arterial diastólica de 130 mmHg. Considerando, nessa situação hipotética, um quadro sugestivo de crise hipertensiva com lesão aguda de órgão alvo, recomenda-se, de acordo com a Linha de Cuidado do adulto com hipertensão arterial sistêmica do Ministério da Saúde 2021, no manejo do paciente: I. Acionar Serviço de Atendimento Móvel para transferência até a Unidade de Pronto Atendimento (UPA) ou emergência de unidade hospitalar, conforme regulação local. II. Medir a PA nos dois braços (no mínimo, 2 medidas), frequência cardíaca e saturação de oxigênio. III. Acomodar o paciente em local calmo e tranquilo para afastar casos de pseudocrise. IV. Reduzir imediatamente a PA para 120 × 80 mmHg e encaminhar paciente para acompanhamento médico ambulatorial. Está correto o que se afirma em",
         "alternativas": [
           {
             "id": "A",
@@ -12476,29 +11556,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "A",
-        "fundamentacao_correta": "Em conformidade com as Diretrizes de Ressuscitação Cardiopulmonar e Cuidados Cardiovasculares de Emergência da American Heart Association (AHA) e protocolos do SAMU/MS, a priorização das manobras de suporte básico e avançado de vida visa à perfusão coronariana e cerebral precoce e de alta qualidade. A alternativa [A] ('I, II e III, apenas.') é a conduta correta respaldada pelos consensos de urgência e emergência.",
+        "fundamentacao_correta": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('I, II e III, apenas.') traduz a conduta prioritária e tecnicamente fundamentada.",
         "analise_distratores": [
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'II e IV, apenas....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'II e IV, apenas....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'I e III, apenas....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'I e III, apenas....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'III e IV, apenas....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'III e IV, apenas....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'I, II, III e IV....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'I, II, III e IV....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Em conformidade com as Diretrizes de Ressuscitação Cardiopulmonar e Cuidados Cardiovasculares de Emergência da American Heart Association (AHA) e protocolos do SAMU/MS, a priorização das manobras de suporte básico e avançado de vida visa à perfusão coronariana e cerebral precoce e de alta qualidade. A alternativa [A] ('I, II e III, apenas.') é a conduta correta respaldada pelos consensos de urgência e emergência.",
-        "id": "FCC0042",
+        "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('I, II e III, apenas.') traduz a conduta prioritária e tecnicamente fundamentada.",
+        "id": "FCC_ENF0042",
         "numero_ordem": 42,
-        "numero_simulado": 40
+        "numero_simulado": 32
       },
       {
         "codigo_origem": "Q1956216",
@@ -12534,29 +11614,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "E",
-        "fundamentacao_correta": "Em conformidade com as Diretrizes de Ressuscitação Cardiopulmonar e Cuidados Cardiovasculares de Emergência da American Heart Association (AHA) e protocolos do SAMU/MS, a priorização das manobras de suporte básico e avançado de vida visa à perfusão coronariana e cerebral precoce e de alta qualidade. A alternativa [E] ('focar na ressuscitação maternal, com a preparação para uma cesariana de emergência, se necessário.') é a conduta correta respaldada pelos consensos de urgência e emergência.",
+        "fundamentacao_correta": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('focar na ressuscitação maternal, com a preparação para uma cesariana de emergência, se necessário.') traduz a conduta prioritária e tecnicamente fundamentada.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'evitar a desfibrilação, em qualquer situação....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'evitar a desfibrilação, em qualquer situação....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'priorizar o monitoramento do feto, devido a possível interferência na ressuscita...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'priorizar o monitoramento do feto, devido a possível interferência na ressuscita...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'ignorar inicialmente a oxigenação e o manejo das vias aéreas da mãe, pois pacien...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'ignorar inicialmente a oxigenação e o manejo das vias aéreas da mãe, pois pacien...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'estabelecer imediatamente o acesso intravenoso, se o acesso intraósseo em região...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'estabelecer imediatamente o acesso intravenoso, se o acesso intraósseo em região...' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Em conformidade com as Diretrizes de Ressuscitação Cardiopulmonar e Cuidados Cardiovasculares de Emergência da American Heart Association (AHA) e protocolos do SAMU/MS, a priorização das manobras de suporte básico e avançado de vida visa à perfusão coronariana e cerebral precoce e de alta qualidade. A alternativa [E] ('focar na ressuscitação maternal, com a preparação para uma cesariana de emergência, se necessário.') é a conduta correta respaldada pelos consensos de urgência e emergência.",
-        "id": "FCC0081",
+        "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('focar na ressuscitação maternal, com a preparação para uma cesariana de emergência, se necessário.') traduz a conduta prioritária e tecnicamente fundamentada.",
+        "id": "FCC_ENF0081",
         "numero_ordem": 81,
-        "numero_simulado": 41
+        "numero_simulado": 33
       },
       {
         "codigo_origem": "Q1309017",
@@ -12592,29 +11672,87 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "D",
-        "fundamentacao_correta": "Em conformidade com as Diretrizes de Ressuscitação Cardiopulmonar e Cuidados Cardiovasculares de Emergência da American Heart Association (AHA) e protocolos do SAMU/MS, a priorização das manobras de suporte básico e avançado de vida visa à perfusão coronariana e cerebral precoce e de alta qualidade. A alternativa [D] ('detecta o DNA do bacilo causador da doença em duas horas.') é a conduta correta respaldada pelos consensos de urgência e emergência.",
+        "fundamentacao_correta": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('detecta o DNA do bacilo causador da doença em duas horas.') traduz a conduta prioritária e tecnicamente fundamentada.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'identifica se há resistência ao antibiótico ciclosporina....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'identifica se há resistência ao antibiótico ciclosporina....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'utiliza a baciloscopia para o diagnóstico da tuberculose latente....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'utiliza a baciloscopia para o diagnóstico da tuberculose latente....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'auxilia no diagnóstico da infecção ativa por meio do teste tuberculínico....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'auxilia no diagnóstico da infecção ativa por meio do teste tuberculínico....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'diagnostica se a tuberculose é ativa ou latente e o grau de resistência do bacil...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'diagnostica se a tuberculose é ativa ou latente e o grau de resistência do bacil...' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Em conformidade com as Diretrizes de Ressuscitação Cardiopulmonar e Cuidados Cardiovasculares de Emergência da American Heart Association (AHA) e protocolos do SAMU/MS, a priorização das manobras de suporte básico e avançado de vida visa à perfusão coronariana e cerebral precoce e de alta qualidade. A alternativa [D] ('detecta o DNA do bacilo causador da doença em duas horas.') é a conduta correta respaldada pelos consensos de urgência e emergência.",
-        "id": "FCC0093",
+        "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('detecta o DNA do bacilo causador da doença em duas horas.') traduz a conduta prioritária e tecnicamente fundamentada.",
+        "id": "FCC_ENF0093",
         "numero_ordem": 93,
-        "numero_simulado": 42
+        "numero_simulado": 34
+      },
+      {
+        "codigo_origem": "Q1956235",
+        "numero_original": 248,
+        "banca": "FCC",
+        "orgao": "TRT - 4ª REGIÃO (RS)",
+        "ano": 2022,
+        "prova": "FCC - 2022 - TRT - 4ª REGIÃO (RS) - Técnico Judiciário - Área Apoio",
+        "cargo": "Técnico de Enfermagem",
+        "materia": "Enfermagem",
+        "assunto": "Segurança do Paciente e Biossegurança",
+        "enunciado": "Dentre as medidas de proteção à segurança e à saúde dos trabalhadores dos serviços de saúde relacionadas ao risco químico no ambiente de trabalho consta:",
+        "alternativas": [
+          {
+            "id": "A",
+            "texto": "Manter a rotulagem do fabricante na embalagem original dos produtos químicos utilizados."
+          },
+          {
+            "id": "B",
+            "texto": "Reutilizar embalagens de produtos químicos somente após processo de esterilização das mesmas."
+          },
+          {
+            "id": "C",
+            "texto": "Dispor de local para a manipulação ou fracionamento de produtos químicos que disponha de equipamento tipo coifa que garanta a exaustão dos produtos químicos."
+          },
+          {
+            "id": "D",
+            "texto": "Utilizar cilindros de oxigênio sem a válvula de retenção a fim de impedir o fluxo reverso e a dispersão de gases no ambiente."
+          },
+          {
+            "id": "E",
+            "texto": "Manter as áreas de armazenamento de produtos químicos fechadas e vedadas a fim de evitar pontos de vazamentos para o ambiente de trabalho."
+          }
+        ],
+        "resposta_correta": "A",
+        "fundamentacao_correta": "De acordo com a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e diretrizes da ANVISA (RDC nº 222/2018 e RDC nº 36/2013), as medidas de contenção de risco biológico, manuseio seguro de resíduos perfurocortantes e uso de equipamentos de proteção são de observância obrigatória. A alternativa [A] ('Manter a rotulagem do fabricante na embalagem original dos produtos químicos utilizados.') enuncia a diretriz preventiva e regulamentar correta.",
+        "analise_distratores": [
+          {
+            "letra": "B",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Reutilizar embalagens de produtos químicos somente após processo de esterilizaçã...' não corresponde à diretriz ou definição válida."
+          },
+          {
+            "letra": "C",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Dispor de local para a manipulação ou fracionamento de produtos químicos que dis...' não corresponde à diretriz ou definição válida."
+          },
+          {
+            "letra": "D",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Utilizar cilindros de oxigênio sem a válvula de retenção a fim de impedir o flux...' não corresponde à diretriz ou definição válida."
+          },
+          {
+            "letra": "E",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Manter as áreas de armazenamento de produtos químicos fechadas e vedadas a fim d...' não corresponde à diretriz ou definição válida."
+          }
+        ],
+        "comentario": "De acordo com a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e diretrizes da ANVISA (RDC nº 222/2018 e RDC nº 36/2013), as medidas de contenção de risco biológico, manuseio seguro de resíduos perfurocortantes e uso de equipamentos de proteção são de observância obrigatória. A alternativa [A] ('Manter a rotulagem do fabricante na embalagem original dos produtos químicos utilizados.') enuncia a diretriz preventiva e regulamentar correta.",
+        "id": "FCC_ENF0068",
+        "numero_ordem": 68,
+        "numero_simulado": 35
       },
       {
         "codigo_origem": "Q1956227",
@@ -12650,29 +11788,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "C",
-        "fundamentacao_correta": "Segundo as diretrizes da NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e da RDC ANVISA nº 36/2013 (Segurança do Paciente), o controle de riscos biológicos, o uso correto de EPIs e as práticas preventivas de eventos adversos são deveres indelegáveis da equipe assistencial. A alternativa [C] ('biológicos e físicos.') traduz com rigor os parâmetros normativos e preventivos exigidos pela banca.",
+        "fundamentacao_correta": "De acordo com a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e diretrizes da ANVISA (RDC nº 222/2018 e RDC nº 36/2013), as medidas de contenção de risco biológico, manuseio seguro de resíduos perfurocortantes e uso de equipamentos de proteção são de observância obrigatória. A alternativa [C] ('biológicos e físicos.') enuncia a diretriz preventiva e regulamentar correta.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'biológicos e químicos....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'biológicos e químicos....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'químicos e térmicos....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'químicos e térmicos....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'físicos e radiantes....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'físicos e radiantes....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'toxicológicos e químicos....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'toxicológicos e químicos....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Segundo as diretrizes da NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e da RDC ANVISA nº 36/2013 (Segurança do Paciente), o controle de riscos biológicos, o uso correto de EPIs e as práticas preventivas de eventos adversos são deveres indelegáveis da equipe assistencial. A alternativa [C] ('biológicos e físicos.') traduz com rigor os parâmetros normativos e preventivos exigidos pela banca.",
-        "id": "FCC0075",
+        "comentario": "De acordo com a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e diretrizes da ANVISA (RDC nº 222/2018 e RDC nº 36/2013), as medidas de contenção de risco biológico, manuseio seguro de resíduos perfurocortantes e uso de equipamentos de proteção são de observância obrigatória. A alternativa [C] ('biológicos e físicos.') enuncia a diretriz preventiva e regulamentar correta.",
+        "id": "FCC_ENF0075",
         "numero_ordem": 75,
-        "numero_simulado": 43
+        "numero_simulado": 36
       },
       {
         "codigo_origem": "Q1956211",
@@ -12708,87 +11846,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "E",
-        "fundamentacao_correta": "Segundo as diretrizes da NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e da RDC ANVISA nº 36/2013 (Segurança do Paciente), o controle de riscos biológicos, o uso correto de EPIs e as práticas preventivas de eventos adversos são deveres indelegáveis da equipe assistencial. A alternativa [E] ('óxido de etileno.') traduz com rigor os parâmetros normativos e preventivos exigidos pela banca.",
+        "fundamentacao_correta": "De acordo com a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e diretrizes da ANVISA (RDC nº 222/2018 e RDC nº 36/2013), as medidas de contenção de risco biológico, manuseio seguro de resíduos perfurocortantes e uso de equipamentos de proteção são de observância obrigatória. A alternativa [E] ('óxido de etileno.') enuncia a diretriz preventiva e regulamentar correta.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'lavadora ultrassônica....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'lavadora ultrassônica....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'autoclave....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'autoclave....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'estufa....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'estufa....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'desinfecção de nível intermediário....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'desinfecção de nível intermediário....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Segundo as diretrizes da NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e da RDC ANVISA nº 36/2013 (Segurança do Paciente), o controle de riscos biológicos, o uso correto de EPIs e as práticas preventivas de eventos adversos são deveres indelegáveis da equipe assistencial. A alternativa [E] ('óxido de etileno.') traduz com rigor os parâmetros normativos e preventivos exigidos pela banca.",
-        "id": "FCC0086",
+        "comentario": "De acordo com a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e diretrizes da ANVISA (RDC nº 222/2018 e RDC nº 36/2013), as medidas de contenção de risco biológico, manuseio seguro de resíduos perfurocortantes e uso de equipamentos de proteção são de observância obrigatória. A alternativa [E] ('óxido de etileno.') enuncia a diretriz preventiva e regulamentar correta.",
+        "id": "FCC_ENF0086",
         "numero_ordem": 86,
-        "numero_simulado": 44
-      },
-      {
-        "codigo_origem": "Q1956208",
-        "numero_original": 269,
-        "banca": "FCC",
-        "orgao": "TRT - 4ª REGIÃO (RS)",
-        "ano": 2022,
-        "prova": "FCC - 2022 - TRT - 4ª REGIÃO (RS) - Técnico Judiciário - Área Apoio",
-        "cargo": "Técnico de Enfermagem",
-        "materia": "Enfermagem",
-        "assunto": "Segurança do Paciente e Biossegurança",
-        "enunciado": "Um homem adulto ao cair da bicicleta sofreu uma lesão leve no membro inferior direito e foi orientado pelo médico para fazer uso de uma bengala por 30 dias. Visando a segurança do paciente e o uso correto da bengala, o Técnico de Enfermagem deve orientar o paciente a",
-        "alternativas": [
-          {
-            "id": "A",
-            "texto": "subir a escada dando o primeiro passo com a perna lesionada apoiada na bengala, trazer a outra perna para o mesmo degrau, desta forma terá maior equilíbrio."
-          },
-          {
-            "id": "B",
-            "texto": "utilizar a bengala ao caminhar, apoiando a bengala junto a outra perna ao dar um passo a frente, o que dará a sensação de ser a extensão natural do seu corpo."
-          },
-          {
-            "id": "C",
-            "texto": "segurar a bengala com a mão oposta ao membro lesionado, permitindo que a bengala absorva mais tensão do que o membro lesionado."
-          },
-          {
-            "id": "D",
-            "texto": "adequar o comprimento da bengala para que fique curvado com o cotovelo em extensão, assim evitará lesões na coluna."
-          },
-          {
-            "id": "E",
-            "texto": "utilizar a bengala no mesmo lado do membro lesionado, evitando que o membro receba uma carga excessiva e possa sofrer lesões ao longo do tempo."
-          }
-        ],
-        "resposta_correta": "C",
-        "fundamentacao_correta": "Segundo as diretrizes da NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e da RDC ANVISA nº 36/2013 (Segurança do Paciente), o controle de riscos biológicos, o uso correto de EPIs e as práticas preventivas de eventos adversos são deveres indelegáveis da equipe assistencial. A alternativa [C] ('segurar a bengala com a mão oposta ao membro lesionado, permitindo que a bengala absorva mais tensão do que o membro lesionado.') traduz com rigor os parâmetros normativos e preventivos exigidos pela banca.",
-        "analise_distratores": [
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'subir a escada dando o primeiro passo com a perna lesionada apoiada na bengala, ...' não representa a conduta indicada."
-          },
-          {
-            "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'utilizar a bengala ao caminhar, apoiando a bengala junto a outra perna ao dar um...' não representa a conduta indicada."
-          },
-          {
-            "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'adequar o comprimento da bengala para que fique curvado com o cotovelo em extens...' não representa a conduta indicada."
-          },
-          {
-            "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'utilizar a bengala no mesmo lado do membro lesionado, evitando que o membro rece...' não representa a conduta indicada."
-          }
-        ],
-        "comentario": "Segundo as diretrizes da NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e da RDC ANVISA nº 36/2013 (Segurança do Paciente), o controle de riscos biológicos, o uso correto de EPIs e as práticas preventivas de eventos adversos são deveres indelegáveis da equipe assistencial. A alternativa [C] ('segurar a bengala com a mão oposta ao membro lesionado, permitindo que a bengala absorva mais tensão do que o membro lesionado.') traduz com rigor os parâmetros normativos e preventivos exigidos pela banca.",
-        "id": "FCC0089",
-        "numero_ordem": 89,
-        "numero_simulado": 45
+        "numero_simulado": 37
       },
       {
         "codigo_origem": "Q1970038",
@@ -12800,7 +11880,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Imunização e Calendário Vacinal (PNI)",
-        "enunciado": "Apoio - Enfermagem do Trabalho De acordo com o calendário nacional de vacinação, a vacina dTpa adulto deve ser aplicada em gestante",
+        "enunciado": "De acordo com o calendário nacional de vacinação, a vacina dTpa adulto deve ser aplicada em gestante",
         "alternativas": [
           {
             "id": "A",
@@ -12824,29 +11904,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "A",
-        "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as vias de administração, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica. A alternativa [A] ('a partir da 20ª semana de gestação.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
+        "fundamentacao_correta": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('a partir da 20ª semana de gestação.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
         "analise_distratores": [
           {
             "letra": "B",
-            "motivo": "Apresenta parâmetros numéricos/posológicos incorretos em desacordo com as diretrizes de referência: 'nas primeiras 24 horas antes do parto....'."
+            "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: 'nas primeiras 24 horas antes do parto....' diverge das referências oficiais."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'no primeiro trimestre de gestação....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'no primeiro trimestre de gestação....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'em dose de reforço a cada duas gestações....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'em dose de reforço a cada duas gestações....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'no primeiro mês de gestação....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'no primeiro mês de gestação....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as vias de administração, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica. A alternativa [A] ('a partir da 20ª semana de gestação.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
-        "id": "FCC0060",
+        "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('a partir da 20ª semana de gestação.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
+        "id": "FCC_ENF0060",
         "numero_ordem": 60,
-        "numero_simulado": 46
+        "numero_simulado": 38
       },
       {
         "codigo_origem": "Q1956213",
@@ -12882,29 +11962,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "B",
-        "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as vias de administração, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica. A alternativa [B] ('seis meses a menores de 5 anos (4 anos 11 meses e 29 dias).') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
+        "fundamentacao_correta": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('seis meses a menores de 5 anos (4 anos 11 meses e 29 dias).') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Apresenta parâmetros numéricos/posológicos incorretos em desacordo com as diretrizes de referência: 'quatro meses a menores de 15 meses (14 meses e 29 dias)...'."
+            "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: 'quatro meses a menores de 15 meses (14 meses e 29 dias)...' diverge das referências oficiais."
           },
           {
             "letra": "C",
-            "motivo": "Apresenta parâmetros numéricos/posológicos incorretos em desacordo com as diretrizes de referência: 'um mês a menores de 3 anos (2 anos 11 meses e 29 dias)....'."
+            "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: 'um mês a menores de 3 anos (2 anos 11 meses e 29 dias)....' diverge das referências oficiais."
           },
           {
             "letra": "D",
-            "motivo": "Apresenta parâmetros numéricos/posológicos incorretos em desacordo com as diretrizes de referência: 'quinze meses a menores de 24 meses (23 meses e 29 dias)....'."
+            "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: 'quinze meses a menores de 24 meses (23 meses e 29 dias)....' diverge das referências oficiais."
           },
           {
             "letra": "E",
-            "motivo": "Apresenta parâmetros numéricos/posológicos incorretos em desacordo com as diretrizes de referência: 'doze meses a menores de 7 anos (6 anos 11 meses e 29 dias)....'."
+            "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: 'doze meses a menores de 7 anos (6 anos 11 meses e 29 dias)....' diverge das referências oficiais."
           }
         ],
-        "comentario": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as vias de administração, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica. A alternativa [B] ('seis meses a menores de 5 anos (4 anos 11 meses e 29 dias).') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
-        "id": "FCC0084",
+        "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('seis meses a menores de 5 anos (4 anos 11 meses e 29 dias).') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
+        "id": "FCC_ENF0084",
         "numero_ordem": 84,
-        "numero_simulado": 47
+        "numero_simulado": 39
       },
       {
         "codigo_origem": "Q1309008",
@@ -12940,29 +12020,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "D",
-        "fundamentacao_correta": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as vias de administração, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica. A alternativa [D] ('6 meses.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
+        "fundamentacao_correta": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('6 meses.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: '1 ano....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '1 ano....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Apresenta parâmetros numéricos/posológicos incorretos em desacordo com as diretrizes de referência: '45 dias....'."
+            "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: '45 dias....' diverge das referências oficiais."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: '2 meses....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '2 meses....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: '5 anos....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '5 anos....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Conforme o Manual de Normas e Procedimentos para Vacinação do Programa Nacional de Imunizações (PNI/Ministério da Saúde), as vias de administração, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica. A alternativa [D] ('6 meses.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
-        "id": "FCC0100",
-        "numero_ordem": 100,
-        "numero_simulado": 48
+        "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('6 meses.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
+        "id": "FCC_ENF0102",
+        "numero_ordem": 102,
+        "numero_simulado": 40
       },
       {
         "codigo_origem": "Q1971260",
@@ -12974,7 +12054,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Enfermeiro",
         "materia": "Enfermagem",
         "assunto": "Epidemiologia e Vigilância em Saúde",
-        "enunciado": "Apoio - Enfermagem do Trabalho Uma colaboradora informa que teve contato com um uma pessoa com diagnóstico confirmado de Monkeypox durante o período infeccioso, em diferentes contextos. Nesse caso, de acordo com a Agência Nacional de Vigilância Sanitária, o serviço de saúde deve definir estratégias para o monitoramento do colaborador. É estratégia recomendada:",
+        "enunciado": "Uma colaboradora informa que teve contato com um uma pessoa com diagnóstico confirmado de Monkeypox durante o período infeccioso, em diferentes contextos. Nesse caso, de acordo com a Agência Nacional de Vigilância Sanitária, o serviço de saúde deve definir estratégias para o monitoramento do colaborador. É estratégia recomendada:",
         "alternativas": [
           {
             "id": "A",
@@ -12998,29 +12078,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "B",
-        "fundamentacao_correta": "Segundo os Manuais de Vigilância em Saúde e Manejo Clínico do Ministério da Saúde, o reconhecimento dos sinais de alarme, diagnóstico precoce e medidas de biossegurança/precauções reduzem a morbimortalidade e bloqueiam a cadeia de transmissão comunitária e hospitalar. A alternativa [B] ('monitoramento do aparecimento de sinais e sintomas por um período de 21 dias desde o último contato com o paciente infectado.') é a resposta correta de acordo com as normas técnicas vigentes.",
+        "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('monitoramento do aparecimento de sinais e sintomas por um período de 21 dias desde o último contato com o paciente infectado.') configura a resposta correta e plenamente fundamentada.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Apresenta parâmetros numéricos/posológicos incorretos em desacordo com as diretrizes de referência: 'monitoramento a cada 48 horas....'."
+            "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: 'monitoramento a cada 48 horas....' diverge das referências oficiais."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'verificação da temperatura pelo menos uma vez ao dia....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'verificação da temperatura pelo menos uma vez ao dia....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'monitoramento diário do aparecimento de sangue na urina ou nas fezes....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'monitoramento diário do aparecimento de sangue na urina ou nas fezes....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'liberação da colaboradora assintomática, durante o período do monitoramento, par...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'liberação da colaboradora assintomática, durante o período do monitoramento, par...' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Segundo os Manuais de Vigilância em Saúde e Manejo Clínico do Ministério da Saúde, o reconhecimento dos sinais de alarme, diagnóstico precoce e medidas de biossegurança/precauções reduzem a morbimortalidade e bloqueiam a cadeia de transmissão comunitária e hospitalar. A alternativa [B] ('monitoramento do aparecimento de sinais e sintomas por um período de 21 dias desde o último contato com o paciente infectado.') é a resposta correta de acordo com as normas técnicas vigentes.",
-        "id": "FCC0019",
+        "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('monitoramento do aparecimento de sinais e sintomas por um período de 21 dias desde o último contato com o paciente infectado.') configura a resposta correta e plenamente fundamentada.",
+        "id": "FCC_ENF0019",
         "numero_ordem": 19,
-        "numero_simulado": 49
+        "numero_simulado": 41
       },
       {
         "codigo_origem": "Q1970045",
@@ -13032,7 +12112,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Epidemiologia e Vigilância em Saúde",
-        "enunciado": "Apoio - Enfermagem do Trabalho Para os casos de Monkeypox, de acordo com as recomendações do Ministério da Saúde:",
+        "enunciado": "Outras Doenças Infecciosas e Parasitárias Para os casos de Monkeypox, de acordo com as recomendações do Ministério da Saúde:",
         "alternativas": [
           {
             "id": "A",
@@ -13056,29 +12136,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "A",
-        "fundamentacao_correta": "De acordo com os conceitos basilares de Epidemiologia e Vigilância em Saúde (Ministério da Saúde), os coeficientes populacionais e a lista nacional de notificação compulsória orientam o planejamento de ações preventivas e intervenções sanitárias tempestivas. A alternativa [A] ('Durante o transporte do paciente, as lesões devem estar cobertas, preferencialmente.') aplica com precisão a definição e metodologia epidemiológica oficial.",
+        "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('Durante o transporte do paciente, as lesões devem estar cobertas, preferencialmente.') configura a resposta correta e plenamente fundamentada.",
         "analise_distratores": [
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Durante o transporte, o uso de máscara cirúrgica pelo paciente não é necessário....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Durante o transporte, o uso de máscara cirúrgica pelo paciente não é necessário....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'As roupas utilizadas pelo paciente e que tiveram contato com as lesões devem ser...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'As roupas utilizadas pelo paciente e que tiveram contato com as lesões devem ser...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Apresenta termo restritivo ('Durante a assistência a pacientes suspeitos ou confirmados, devem ser ...'), generalizando indevidamente uma situação que admite exceções clínicas ou normativas."
+            "motivo": "Apresenta termo restritivo ('Durante a assistência a pacientes suspeitos ou confirmados, devem ser adotadas a...'), generalizando indevidamente uma situação assistencial que comporta exceções clínicas ou normativas."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Pacientes infectados devem permanecer em isolamento até o desaparecimento da feb...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Pacientes infectados devem permanecer em isolamento até o desaparecimento da feb...' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "De acordo com os conceitos basilares de Epidemiologia e Vigilância em Saúde (Ministério da Saúde), os coeficientes populacionais e a lista nacional de notificação compulsória orientam o planejamento de ações preventivas e intervenções sanitárias tempestivas. A alternativa [A] ('Durante o transporte do paciente, as lesões devem estar cobertas, preferencialmente.') aplica com precisão a definição e metodologia epidemiológica oficial.",
-        "id": "FCC0053",
+        "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('Durante o transporte do paciente, as lesões devem estar cobertas, preferencialmente.') configura a resposta correta e plenamente fundamentada.",
+        "id": "FCC_ENF0053",
         "numero_ordem": 53,
-        "numero_simulado": 50
+        "numero_simulado": 42
       },
       {
         "codigo_origem": "Q1970037",
@@ -13090,7 +12170,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Epidemiologia e Vigilância em Saúde",
-        "enunciado": "Apoio - Enfermagem do Trabalho Para a escolha do processo de desinfecção ou esterilização a ser utilizado nos artigos hospitalares da unidade de saúde, o Técnico de Enfermagem deve classificar os artigos de acordo com o grau de risco para infecção conforme determina a Agência Nacional de Vigilância Sanitária. Na categoria de artigos semicríticos estão incluídos, dentre outros,",
+        "enunciado": "Fundamentos e Procedimentos de Enfermagem Para a escolha do processo de desinfecção ou esterilização a ser utilizado nos artigos hospitalares da unidade de saúde, o Técnico de Enfermagem deve classificar os artigos de acordo com o grau de risco para infecção conforme determina a Agência Nacional de Vigilância Sanitária. Na categoria de artigos semicríticos estão incluídos, dentre outros,",
         "alternativas": [
           {
             "id": "A",
@@ -13114,29 +12194,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "D",
-        "fundamentacao_correta": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [D] ('lâmina de laringoscópio sem lâmpada e máscara de ambu.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.",
+        "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('lâmina de laringoscópio sem lâmpada e máscara de ambu.') configura a resposta correta e plenamente fundamentada.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'mamadeira e fibra ótica de endoscópio....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'mamadeira e fibra ótica de endoscópio....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'termômetro e cânula endotraqueal....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'termômetro e cânula endotraqueal....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'comadre e espéculo vaginal de metal....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'comadre e espéculo vaginal de metal....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'espéculo otológico de metal e instrumental cirúrgico....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'espéculo otológico de metal e instrumental cirúrgico....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [D] ('lâmina de laringoscópio sem lâmpada e máscara de ambu.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.",
-        "id": "FCC0061",
+        "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('lâmina de laringoscópio sem lâmpada e máscara de ambu.') configura a resposta correta e plenamente fundamentada.",
+        "id": "FCC_ENF0061",
         "numero_ordem": 61,
-        "numero_simulado": 51
+        "numero_simulado": 43
       },
       {
         "codigo_origem": "Q1971257",
@@ -13148,7 +12228,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Enfermeiro",
         "materia": "Enfermagem",
         "assunto": "Doenças Crônicas Não Transmissíveis (HAS, Diabetes)",
-        "enunciado": "Apoio - Enfermagem do Trabalho Durante a consulta de enfermagem a uma colaboradora de 62 anos, a enfermeira coletou os seguintes dados: hipertensão, sarcopenia, queixas de fraqueza muscular com histórico de queda recente, perda de peso não intencional de 6 kg no último ano, a paciente reside sozinha após ter ficado viúva. Nesse contexto, de acordo com a Taxonomia II da NANDA-I, considerando os fatores de risco e as condições associadas, a enfermeira deve identificar o seguinte diagnóstico de enfermagem:",
+        "enunciado": "Diagnósticos de Enfermagem - NIC-NOC/CIPE/NANDA Durante a consulta de enfermagem a uma colaboradora de 62 anos, a enfermeira coletou os seguintes dados: hipertensão, sarcopenia, queixas de fraqueza muscular com histórico de queda recente, perda de peso não intencional de 6 kg no último ano, a paciente reside sozinha após ter ficado viúva. Nesse contexto, de acordo com a Taxonomia II da NANDA-I, considerando os fatores de risco e as condições associadas, a enfermeira deve identificar o seguinte diagnóstico de enfermagem:",
         "alternativas": [
           {
             "id": "A",
@@ -13172,29 +12252,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "B",
-        "fundamentacao_correta": "Conforme os Cadernos de Atenção Básica do Ministério da Saúde e as Diretrizes da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento, acompanhamento longitudinal, estratificação de risco cardiovascular e manejo clínico constituem o cerne da consulta de enfermagem. A assertiva [B] ('Risco de síndrome do idoso frágil.') reflete o padrão clínico e terapêutico recomendado.",
+        "fundamentacao_correta": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('Risco de síndrome do idoso frágil.') expressa a abordagem terapêutica recomendada.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Inverte a correlação clínica/normativa preconizada pelos protocolos oficiais da saúde: 'Fragilidade do idoso aumentada....'."
+            "motivo": "Inverte a correlação clínica ou a indicação terapêutica oficial: 'Fragilidade do idoso aumentada....'."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Risco de síndrome pré-geriátrica....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Risco de síndrome pré-geriátrica....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Síndrome do idoso pré-frágil....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Síndrome do idoso pré-frágil....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Síndrome do imobilismo do idoso. Enfermagem > Processo de Enfermagem e Sistemati...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Síndrome do imobilismo do idoso. Enfermagem > Processo de Enfermagem e Sistemati...' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Conforme os Cadernos de Atenção Básica do Ministério da Saúde e as Diretrizes da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento, acompanhamento longitudinal, estratificação de risco cardiovascular e manejo clínico constituem o cerne da consulta de enfermagem. A assertiva [B] ('Risco de síndrome do idoso frágil.') reflete o padrão clínico e terapêutico recomendado.",
-        "id": "FCC0022",
+        "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('Risco de síndrome do idoso frágil.') expressa a abordagem terapêutica recomendada.",
+        "id": "FCC_ENF0022",
         "numero_ordem": 22,
-        "numero_simulado": 52
+        "numero_simulado": 44
       },
       {
         "codigo_origem": "Q1970071",
@@ -13206,7 +12286,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Doenças Crônicas Não Transmissíveis (HAS, Diabetes)",
-        "enunciado": "Apoio - Enfermagem do Trabalho Um dos objetivos da Norma Regulamentadora NR-1 é estabelecer os requisitos para o gerenciamento de riscos ocupacionais e as medidas de prevenção em Segurança e Saúde no Trabalho. De acordo com a NR-1, os riscos ocupacionais podem ser definidos como",
+        "enunciado": "Um dos objetivos da Norma Regulamentadora NR-1 é estabelecer os requisitos para o gerenciamento de riscos ocupacionais e as medidas de prevenção em Segurança e Saúde no Trabalho. De acordo com a NR-1, os riscos ocupacionais podem ser definidos como",
         "alternativas": [
           {
             "id": "A",
@@ -13230,29 +12310,87 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "D",
-        "fundamentacao_correta": "Conforme os Cadernos de Atenção Básica do Ministério da Saúde e as Diretrizes da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento, acompanhamento longitudinal, estratificação de risco cardiovascular e manejo clínico constituem o cerne da consulta de enfermagem. A assertiva [D] ('combinação da probabilidade de ocorrer lesão ou agravo à saúde causados por um evento perigoso, exposição a agente nocivo ou exigência da atividade de trabalho e da severidade dessa lesão ou agravo à saúde.') reflete o padrão clínico e terapêutico recomendado.",
+        "fundamentacao_correta": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('combinação da probabilidade de ocorrer lesão ou agravo à saúde causados por um evento perigoso, exposição a agente nocivo ou exigência da atividade de trabalho e da severidade dessa lesão ou agravo à saúde.') expressa a abordagem terapêutica recomendada.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'o elemento que isoladamente ou em combinação com outros tem o potencial intrínse...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'o elemento que isoladamente ou em combinação com outros tem o potencial intrínse...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'o conjunto das disposições ou medidas tomadas ou previstas em todas as fases da ...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'o conjunto das disposições ou medidas tomadas ou previstas em todas as fases da ...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'fonte com o potencial de causar lesões ou agravos à saúde....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'fonte com o potencial de causar lesões ou agravos à saúde....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'a ocorrência ou acontecimento com o potencial de causar lesões ou agravos à saúd...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'a ocorrência ou acontecimento com o potencial de causar lesões ou agravos à saúd...' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Conforme os Cadernos de Atenção Básica do Ministério da Saúde e as Diretrizes da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento, acompanhamento longitudinal, estratificação de risco cardiovascular e manejo clínico constituem o cerne da consulta de enfermagem. A assertiva [D] ('combinação da probabilidade de ocorrer lesão ou agravo à saúde causados por um evento perigoso, exposição a agente nocivo ou exigência da atividade de trabalho e da severidade dessa lesão ou agravo à saúde.') reflete o padrão clínico e terapêutico recomendado.",
-        "id": "FCC0030",
+        "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('combinação da probabilidade de ocorrer lesão ou agravo à saúde causados por um evento perigoso, exposição a agente nocivo ou exigência da atividade de trabalho e da severidade dessa lesão ou agravo à saúde.') expressa a abordagem terapêutica recomendada.",
+        "id": "FCC_ENF0030",
         "numero_ordem": 30,
-        "numero_simulado": 53
+        "numero_simulado": 45
+      },
+      {
+        "codigo_origem": "Q1309006",
+        "numero_original": 284,
+        "banca": "FCC",
+        "orgao": "AL-AP",
+        "ano": 2020,
+        "prova": "FCC - 2020 - AL-AP - Analista Legislativo - Enfermeiro",
+        "cargo": "Enfermeiro",
+        "materia": "Enfermagem",
+        "assunto": "Saúde da Mulher, Pré-Natal e Parto",
+        "enunciado": "Uma enfermeira foi convidada para dar uma aula, a um grupo de mulheres que fazem uso de pílula anticoncepcional, e o tema escolhido foi interação medicamentosa. Nesse momento, foi ressaltado que algumas drogas interagem com o anticoncepcional, modificando seus efeitos e sua eficácia. Dentre as drogas mais importantes listadas pelo Ministério da Saúde consta:",
+        "alternativas": [
+          {
+            "id": "A",
+            "texto": "Fluconazol."
+          },
+          {
+            "id": "B",
+            "texto": "Dimeticona."
+          },
+          {
+            "id": "C",
+            "texto": "Paracetamol."
+          },
+          {
+            "id": "D",
+            "texto": "Primidona."
+          },
+          {
+            "id": "E",
+            "texto": "Nistatina."
+          }
+        ],
+        "resposta_correta": "D",
+        "fundamentacao_correta": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('Primidona.') apresenta a resposta matemática e clínica correta.",
+        "analise_distratores": [
+          {
+            "letra": "A",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Fluconazol....' não corresponde à diretriz ou definição válida."
+          },
+          {
+            "letra": "B",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Dimeticona....' não corresponde à diretriz ou definição válida."
+          },
+          {
+            "letra": "C",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Paracetamol....' não corresponde à diretriz ou definição válida."
+          },
+          {
+            "letra": "E",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Nistatina....' não corresponde à diretriz ou definição válida."
+          }
+        ],
+        "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('Primidona.') apresenta a resposta matemática e clínica correta.",
+        "id": "FCC_ENF0104",
+        "numero_ordem": 104,
+        "numero_simulado": 46
       },
       {
         "codigo_origem": "Q1252244",
@@ -13261,7 +12399,7 @@ export const SIMULADOS_OFICIAIS = [
         "orgao": "Prefeitura de São José do Rio Preto - SP",
         "ano": 2019,
         "prova": "FCC - 2019 - Prefeitura de São José do Rio",
-        "cargo": "Enfermeiro",
+        "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Saúde da Mulher, Pré-Natal e Parto",
         "enunciado": "Preto - SP - Técnico em Enfermagem Na Região Amazônica, o Ministério da Saúde recomenda a realização do exame da gota espessa em todas as consultas do pré-natal. Esse exame é indicado para diagnostica",
@@ -13288,91 +12426,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "A",
-        "fundamentacao_correta": "Em consonância com as Diretrizes Nacionais de Assistência ao Parto Normal e Atenção ao Pré-Natal do Ministério da Saúde, a assistência de enfermagem obstétrica fundamenta-se em boas práticas baseadas em evidências científicas, humanização e segurança materno-infantil. A assertiva [A] ('malária.') descreve com exatidão o procedimento assistencial indicado.",
+        "fundamentacao_correta": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco e Atenção ao Parto e Puerpério (Ministério da Saúde), a assistência obstétrica de enfermagem visa à humanização do cuidado, vigilância materno-fetal qualificada e identificação precoce de intercorrências. A alternativa [A] ('malária.') descreve a conduta clínica e preventiva preconizada.",
         "analise_distratores": [
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'sífilis....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'sífilis....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'infecção urinária....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'infecção urinária....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'placenta prévia....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'placenta prévia....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'diabetes gestacional....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'diabetes gestacional....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Em consonância com as Diretrizes Nacionais de Assistência ao Parto Normal e Atenção ao Pré-Natal do Ministério da Saúde, a assistência de enfermagem obstétrica fundamenta-se em boas práticas baseadas em evidências científicas, humanização e segurança materno-infantil. A assertiva [A] ('malária.') descreve com exatidão o procedimento assistencial indicado.",
-        "id": "FCC0156",
-        "numero_ordem": 156,
-        "numero_simulado": 54
-      },
-      {
-        "codigo_origem": "Q1252158",
-        "numero_original": 369,
-        "banca": "FCC",
-        "orgao": "Prefeitura de São José do Rio Preto - SP",
-        "ano": 2019,
-        "prova": "FCC - 2019 - Prefeitura de São José do Rio",
-        "cargo": "Enfermeiro",
-        "materia": "Enfermagem",
-        "assunto": "Saúde da Mulher, Pré-Natal e Parto",
-        "enunciado": "Preto - SP - Enfermeiro",
-        "alternativas": [
-          {
-            "id": "A",
-            "texto": "prevenção secundária do câncer cérvico-uterino é realizada pelo exame citopatológico ou Papanicolau. Em relação ao exame de Papanicolau, o Ministério da Saúde recomenda"
-          },
-          {
-            "id": "A",
-            "texto": "dispensar gestantes da coleta do exame durante o período da gestação, pois nesse período a incidência de câncer cérvico-uterino é desprezível."
-          },
-          {
-            "id": "B",
-            "texto": "respeitar o intervalo de 4 anos entre os exames, após dois exames negativos."
-          },
-          {
-            "id": "C",
-            "texto": "realizar o exame semestralmente nas mulheres acima de 65 anos, independente dos resultados anteriores."
-          },
-          {
-            "id": "D",
-            "texto": "iniciar a coleta a partir dos 30 anos nas mulheres sem histórico de atividade sexual. E iniciar a coleta a partir dos 25 anos de idade nas mulheres que já tiveram atividade sexual."
-          }
-        ],
-        "resposta_correta": "E",
-        "fundamentacao_correta": "Em consonância com as Diretrizes Nacionais de Assistência ao Parto Normal e Atenção ao Pré-Natal do Ministério da Saúde, a assistência de enfermagem obstétrica fundamenta-se em boas práticas baseadas em evidências científicas, humanização e segurança materno-infantil. A assertiva [E] ('') descreve com exatidão o procedimento assistencial indicado.",
-        "analise_distratores": [
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'prevenção secundária do câncer cérvico-uterino é realizada pelo exame citopatoló...' não representa a conduta indicada."
-          },
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'dispensar gestantes da coleta do exame durante o período da gestação, pois nesse...' não representa a conduta indicada."
-          },
-          {
-            "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'respeitar o intervalo de 4 anos entre os exames, após dois exames negativos....' não representa a conduta indicada."
-          },
-          {
-            "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'realizar o exame semestralmente nas mulheres acima de 65 anos, independente dos ...' não representa a conduta indicada."
-          },
-          {
-            "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'iniciar a coleta a partir dos 30 anos nas mulheres sem histórico de atividade se...' não representa a conduta indicada."
-          }
-        ],
-        "comentario": "Em consonância com as Diretrizes Nacionais de Assistência ao Parto Normal e Atenção ao Pré-Natal do Ministério da Saúde, a assistência de enfermagem obstétrica fundamenta-se em boas práticas baseadas em evidências científicas, humanização e segurança materno-infantil. A assertiva [E] ('') descreve com exatidão o procedimento assistencial indicado.",
-        "id": "FCC0185",
-        "numero_ordem": 185,
-        "numero_simulado": 55
+        "comentario": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco e Atenção ao Parto e Puerpério (Ministério da Saúde), a assistência obstétrica de enfermagem visa à humanização do cuidado, vigilância materno-fetal qualificada e identificação precoce de intercorrências. A alternativa [A] ('malária.') descreve a conduta clínica e preventiva preconizada.",
+        "id": "FCC_ENF0160",
+        "numero_ordem": 160,
+        "numero_simulado": 47
       },
       {
         "codigo_origem": "Q4156591",
@@ -13384,7 +12460,7 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Doenças Infecciosas e Parasitárias (Dengue, Tuberculose, HIV)",
-        "enunciado": "Para o acompanhamento de um paciente em tratamento de tuberculose pulmonar foi solicitada a coleta mensal de amostra de escarro para realização de baciloscopia de controle. Considerando as orientações corretas para a coleta de escarro, o profissional de enfermagem deve instruir ao paciente que:",
+        "enunciado": "Fundamentos e Procedimentos de Enfermagem Doenças Infecciosas e parasitárias Para o acompanhamento de um paciente em tratamento de tuberculose pulmonar foi solicitada a coleta mensal de amostra de escarro para realização de baciloscopia de controle. Considerando as orientações corretas para a coleta de escarro, o profissional de enfermagem deve instruir ao paciente que:",
         "alternativas": [
           {
             "id": "A",
@@ -13408,33 +12484,33 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "D",
-        "fundamentacao_correta": "Segundo os Manuais de Vigilância em Saúde e Manejo Clínico do Ministério da Saúde, o reconhecimento dos sinais de alarme, diagnóstico precoce e medidas de biossegurança/precauções reduzem a morbimortalidade e bloqueiam a cadeia de transmissão comunitária e hospitalar. A alternativa [D] ('deve realizar respirações profundas, reter o ar por alguns segundos e, após repetir o procedimento três vezes, tossir para produzir o escarro.') é a resposta correta de acordo com as normas técnicas vigentes.",
+        "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('deve realizar respirações profundas, reter o ar por alguns segundos e, após repetir o procedimento três vezes, tossir para produzir o escarro.') configura a resposta correta e plenamente fundamentada.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'a coleta pode ser realizada em qualquer ambiente, desde que o frasco esteja esté...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'a coleta pode ser realizada em qualquer ambiente, desde que o frasco esteja esté...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'antes da coleta, deve higienizar a cavidade oral apenas com água, sem uso de cre...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'antes da coleta, deve higienizar a cavidade oral apenas com água, sem uso de cre...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'a coleta deve ser realizada preferencialmente em ambiente fechado, para evitar d...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'a coleta deve ser realizada preferencialmente em ambiente fechado, para evitar d...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'após tossir, deve aproximar bem o recipiente da boca, podendo encostar os lábios...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'após tossir, deve aproximar bem o recipiente da boca, podendo encostar os lábios...' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Segundo os Manuais de Vigilância em Saúde e Manejo Clínico do Ministério da Saúde, o reconhecimento dos sinais de alarme, diagnóstico precoce e medidas de biossegurança/precauções reduzem a morbimortalidade e bloqueiam a cadeia de transmissão comunitária e hospitalar. A alternativa [D] ('deve realizar respirações profundas, reter o ar por alguns segundos e, após repetir o procedimento três vezes, tossir para produzir o escarro.') é a resposta correta de acordo com as normas técnicas vigentes.",
-        "id": "FCC0202",
-        "numero_ordem": 202,
-        "numero_simulado": 56
+        "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('deve realizar respirações profundas, reter o ar por alguns segundos e, após repetir o procedimento três vezes, tossir para produzir o escarro.') configura a resposta correta e plenamente fundamentada.",
+        "id": "FCC_ENF0206",
+        "numero_ordem": 206,
+        "numero_simulado": 48
       },
       {
-        "codigo_origem": "Q1309009",
-        "numero_original": 281,
+        "codigo_origem": "Q1309010",
+        "numero_original": 280,
         "banca": "FCC",
         "orgao": "AL-AP",
         "ano": 2020,
@@ -13442,53 +12518,53 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Enfermeiro",
         "materia": "Enfermagem",
         "assunto": "Administração, Gestão e Auditoria",
-        "enunciado": "Em uma unidade de saúde, as equipes de trabalho possuem o seguinte perfil: são constituídas por um titular e seus subordinados, que geralmente são profissionais de uma mesma área, que trabalham juntos em um mesmo departamento e o relacionamento interpessoal e as relações de autoridade, liderança e tomada de decisão tendem a ser diretos e normatizados formal ou informalmente. Considerando as características descritas, as equipes de saúde dessa unidade são classificadas como equipes",
+        "enunciado": "A gestora de enfermagem de uma unidade de saúde adotou o Balanced Scorecard (BSC) como ferramenta da gestão estratégica. Essa metodologia se fundamenta no balanceamento entre quatro perspectivas de objetivos, que são:",
         "alternativas": [
           {
             "id": "A",
-            "texto": "autogerenciávies."
+            "texto": "dos insumos, do planejamento estratégico, dos colaboradores e dos resultados."
           },
           {
             "id": "B",
-            "texto": "interfuncionais."
+            "texto": "de recursos, do cliente externo, da demanda e da educação permanente."
           },
           {
             "id": "C",
-            "texto": "de alto desempenho."
+            "texto": "financeira, do cliente, dos processos internos e da inovação e aprendizagem."
           },
           {
             "id": "D",
-            "texto": "virtuais."
+            "texto": "dos impactos, dos recursos humanos, dos resultados alcançados e da qualidade da assistência."
           },
           {
             "id": "E",
-            "texto": "funcionais."
+            "texto": "do desempenho, da missão da instituição, dos protocolos institucionais e das metas."
           }
         ],
-        "resposta_correta": "E",
-        "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [E] ('funcionais.') constitui a conduta técnica correta e fundamentada.",
+        "resposta_correta": "C",
+        "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('financeira, do cliente, dos processos internos e da inovação e aprendizagem.') configura a resposta correta e plenamente fundamentada.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'autogerenciávies....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'dos insumos, do planejamento estratégico, dos colaboradores e dos resultados....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'interfuncionais....' não representa a conduta indicada."
-          },
-          {
-            "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'de alto desempenho....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'de recursos, do cliente externo, da demanda e da educação permanente....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'virtuais....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'dos impactos, dos recursos humanos, dos resultados alcançados e da qualidade da ...' não corresponde à diretriz ou definição válida."
+          },
+          {
+            "letra": "E",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'do desempenho, da missão da instituição, dos protocolos institucionais e das met...' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [E] ('funcionais.') constitui a conduta técnica correta e fundamentada.",
-        "id": "FCC0099",
-        "numero_ordem": 99,
-        "numero_simulado": 57
+        "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('financeira, do cliente, dos processos internos e da inovação e aprendizagem.') configura a resposta correta e plenamente fundamentada.",
+        "id": "FCC_ENF0100",
+        "numero_ordem": 100,
+        "numero_simulado": 49
       },
       {
         "codigo_origem": "Q1956214",
@@ -13524,29 +12600,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "A",
-        "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [A] ('estimular, orientar, supervisionar e auxiliar a pessoa cuidada a fazer sua higiene, só fazendo aquilo que ela não é capaz de fazer.') constitui a conduta técnica correta e fundamentada.",
+        "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('estimular, orientar, supervisionar e auxiliar a pessoa cuidada a fazer sua higiene, só fazendo aquilo que ela não é capaz de fazer.') configura a resposta correta e plenamente fundamentada.",
         "analise_distratores": [
           {
             "letra": "B",
-            "motivo": "Apresenta parâmetros numéricos/posológicos incorretos em desacordo com as diretrizes de referência: 'colocar a pessoa no banho e a deixar sozinha por no máximo 15 minutos, para que ...'."
+            "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: 'colocar a pessoa no banho e a deixar sozinha por no máximo 15 minutos, para que ...' diverge das referências oficiais."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'manter a porta e janela do banheiro semiaberta, para que as correntes de ar evit...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'manter a porta e janela do banheiro semiaberta, para que as correntes de ar evit...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'manter o olhar fixo no corpo despido do idoso, a fim de observar alguma alteraçã...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'manter o olhar fixo no corpo despido do idoso, a fim de observar alguma alteraçã...' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'deixar a idosa se enxugar sozinha, principalmente as partes íntimas, dobras de j...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'deixar a idosa se enxugar sozinha, principalmente as partes íntimas, dobras de j...' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [A] ('estimular, orientar, supervisionar e auxiliar a pessoa cuidada a fazer sua higiene, só fazendo aquilo que ela não é capaz de fazer.') constitui a conduta técnica correta e fundamentada.",
-        "id": "FCC0083",
+        "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('estimular, orientar, supervisionar e auxiliar a pessoa cuidada a fazer sua higiene, só fazendo aquilo que ela não é capaz de fazer.') configura a resposta correta e plenamente fundamentada.",
+        "id": "FCC_ENF0083",
         "numero_ordem": 83,
-        "numero_simulado": 58
+        "numero_simulado": 50
       },
       {
         "codigo_origem": "Q1956232",
@@ -13558,12 +12634,8 @@ export const SIMULADOS_OFICIAIS = [
         "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Saúde Mental e Atenção Psicossocial",
-        "enunciado": "Especializado - Especialidade: Enfermagem do Trabalho",
+        "enunciado": "A Síndrome de Burnout passou a ser reconhecida, pela Organização Mundial de Saúde (OMS), como uma condição ocupacional. Essa doença, que tem como principal causa o excesso de trabalho, é também denominada pelo Ministério da Saúde como Síndrome",
         "alternativas": [
-          {
-            "id": "A",
-            "texto": "Síndrome de Burnout passou a ser reconhecida, pela Organização Mundial de Saúde (OMS), como uma condição ocupacional. Essa doença, que tem como principal causa o excesso de trabalho, é também denominada pelo Ministério da Saúde como Síndrome"
-          },
           {
             "id": "A",
             "texto": "do Trabalho Excessivo."
@@ -13578,33 +12650,37 @@ export const SIMULADOS_OFICIAIS = [
           },
           {
             "id": "D",
-            "texto": "da Fadiga Trabalhista. E da Sobrecarga de Trabalho."
+            "texto": "da Fadiga Trabalhista."
+          },
+          {
+            "id": "E",
+            "texto": "da Sobrecarga de Trabalho."
           }
         ],
         "resposta_correta": "B",
-        "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [B] ('do Esgotamento Profissional.') constitui a conduta técnica correta e fundamentada.",
+        "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('do Esgotamento Profissional.') configura a resposta correta e plenamente fundamentada.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Síndrome de Burnout passou a ser reconhecida, pela Organização Mundial de Saúde ...' não representa a conduta indicada."
-          },
-          {
-            "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'do Trabalho Excessivo....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'do Trabalho Excessivo....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'do Cansaço Profissional....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'do Cansaço Profissional....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "D",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'da Fadiga Trabalhista. E da Sobrecarga de Trabalho....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'da Fadiga Trabalhista....' não corresponde à diretriz ou definição válida."
+          },
+          {
+            "letra": "E",
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'da Sobrecarga de Trabalho....' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [B] ('do Esgotamento Profissional.') constitui a conduta técnica correta e fundamentada.",
-        "id": "FCC0071",
+        "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('do Esgotamento Profissional.') configura a resposta correta e plenamente fundamentada.",
+        "id": "FCC_ENF0071",
         "numero_ordem": 71,
-        "numero_simulado": 59
+        "numero_simulado": 51
       },
       {
         "codigo_origem": "Q1252227",
@@ -13613,7 +12689,7 @@ export const SIMULADOS_OFICIAIS = [
         "orgao": "Prefeitura de São José do Rio Preto - SP",
         "ano": 2019,
         "prova": "FCC - 2019 - Prefeitura de São José do Rio",
-        "cargo": "Enfermeiro",
+        "cargo": "Técnico de Enfermagem",
         "materia": "Enfermagem",
         "assunto": "Centro Cirúrgico e CME (Esterilização)",
         "enunciado": "Preto - SP - Técnico em Enfermagem O profissional de enfermagem que atua na Central de Material e Esterilização de uma unidade de saúde recebeu de um setor artigos classificados como não-críticos e sem a presença de matéria orgânica. Nessa situação, os artigos recebidos devem ser submetidos, apenas, ao processo de",
@@ -13640,29 +12716,29 @@ export const SIMULADOS_OFICIAIS = [
           }
         ],
         "resposta_correta": "D",
-        "fundamentacao_correta": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [D] ('limpeza.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.",
+        "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('limpeza.') configura a resposta correta e plenamente fundamentada.",
         "analise_distratores": [
           {
             "letra": "A",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'desinfecção de baixo nível....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'desinfecção de baixo nível....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "B",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'limpeza e desinfecção de nível baixo....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'limpeza e desinfecção de nível baixo....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "C",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'desinfecção de alto nível....' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'desinfecção de alto nível....' não corresponde à diretriz ou definição válida."
           },
           {
             "letra": "E",
-            "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'limpeza e esterilização de nível intermediário...' não representa a conduta indicada."
+            "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'limpeza e esterilização de nível intermediário...' não corresponde à diretriz ou definição válida."
           }
         ],
-        "comentario": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [D] ('limpeza.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.",
-        "id": "FCC0170",
-        "numero_ordem": 170,
-        "numero_simulado": 60
+        "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('limpeza.') configura a resposta correta e plenamente fundamentada.",
+        "id": "FCC_ENF0174",
+        "numero_ordem": 174,
+        "numero_simulado": 52
       }
     ]
   }

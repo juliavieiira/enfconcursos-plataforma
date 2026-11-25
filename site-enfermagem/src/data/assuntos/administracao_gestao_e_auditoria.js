@@ -1,2 +1,2261 @@
-// Chunk gerado automaticamente para Administração, Gestão e Auditoria (21 questões)
-export default [{"codigo_origem": "Q1956230", "numero_original": 253, "banca": "FCC", "orgao": "TRT - 4ª REGIÃO (RS)", "ano": 2022, "prova": "FCC - 2022 - TRT - 4ª REGIÃO (RS) - Técnico Judiciário - Área Apoio", "cargo": "Técnico de Enfermagem", "materia": "Enfermagem", "assunto": "Administração, Gestão e Auditoria", "enunciado": "O Técnico de Enfermagem, enquanto profissional de saúde, deve saber que a integralidade da atenção à saúde, numa perspectiva colaborativa e interprofissional, pode ser alcançada por meio do efetivo", "alternativas": [{"id": "A", "texto": "trabalho individualizado."}, {"id": "B", "texto": "empreendedorismo."}, {"id": "C", "texto": "relacionamento individual."}, {"id": "D", "texto": "trabalho em equipe."}, {"id": "E", "texto": "suporte tecnológico."}], "resposta_correta": "D", "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [D] ('trabalho em equipe.') constitui a conduta técnica correta e fundamentada.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'trabalho individualizado....' não representa a conduta indicada."}, {"letra": "B", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'empreendedorismo....' não representa a conduta indicada."}, {"letra": "C", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'relacionamento individual....' não representa a conduta indicada."}, {"letra": "E", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'suporte tecnológico....' não representa a conduta indicada."}], "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [D] ('trabalho em equipe.') constitui a conduta técnica correta e fundamentada.", "id": "FCC0073", "numero_ordem": 73}, {"codigo_origem": "Q1309009", "numero_original": 281, "banca": "FCC", "orgao": "AL-AP", "ano": 2020, "prova": "FCC - 2020 - AL-AP - Analista Legislativo - Enfermeiro", "cargo": "Enfermeiro", "materia": "Enfermagem", "assunto": "Administração, Gestão e Auditoria", "enunciado": "Em uma unidade de saúde, as equipes de trabalho possuem o seguinte perfil: são constituídas por um titular e seus subordinados, que geralmente são profissionais de uma mesma área, que trabalham juntos em um mesmo departamento e o relacionamento interpessoal e as relações de autoridade, liderança e tomada de decisão tendem a ser diretos e normatizados formal ou informalmente. Considerando as características descritas, as equipes de saúde dessa unidade são classificadas como equipes", "alternativas": [{"id": "A", "texto": "autogerenciávies."}, {"id": "B", "texto": "interfuncionais."}, {"id": "C", "texto": "de alto desempenho."}, {"id": "D", "texto": "virtuais."}, {"id": "E", "texto": "funcionais."}], "resposta_correta": "E", "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [E] ('funcionais.') constitui a conduta técnica correta e fundamentada.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'autogerenciávies....' não representa a conduta indicada."}, {"letra": "B", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'interfuncionais....' não representa a conduta indicada."}, {"letra": "C", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'de alto desempenho....' não representa a conduta indicada."}, {"letra": "D", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'virtuais....' não representa a conduta indicada."}], "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [E] ('funcionais.') constitui a conduta técnica correta e fundamentada.", "id": "FCC0099", "numero_ordem": 99}, {"codigo_origem": "Q1252235", "numero_original": 348, "banca": "FCC", "orgao": "Prefeitura de São José do Rio Preto - SP", "ano": 2019, "prova": "FCC - 2019 - Prefeitura de São José do Rio", "cargo": "Enfermeiro", "materia": "Enfermagem", "assunto": "Administração, Gestão e Auditoria", "enunciado": "Preto - SP - Técnico em Enfermagem O técnico de enfermagem de uma unidade de saúde é indicado para auxiliar o enfermeiro na gestão de materiais de consumo. Para desenvolver essa atividade, é preciso saber que a quantidade a ser requisitada pela unidade ao almoxarifado é determinada pelo perfil de consumo, estabelecendo-se uma cota de materiais que representa uma estimativa de gastos por determinado período. Essa etapa do processo é chamada de", "alternativas": [{"id": "A", "texto": "Provisão."}, {"id": "B", "texto": "Previsão."}, {"id": "C", "texto": "Especificação."}, {"id": "D", "texto": "Abastecimento."}, {"id": "E", "texto": "Estocagem de segurança."}], "resposta_correta": "B", "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [B] ('Previsão.') constitui a conduta técnica correta e fundamentada.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Provisão....' não representa a conduta indicada."}, {"letra": "C", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Especificação....' não representa a conduta indicada."}, {"letra": "D", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Abastecimento....' não representa a conduta indicada."}, {"letra": "E", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Estocagem de segurança....' não representa a conduta indicada."}], "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [B] ('Previsão.') constitui a conduta técnica correta e fundamentada.", "id": "FCC0164", "numero_ordem": 164}, {"codigo_origem": "Q1252159", "numero_original": 368, "banca": "FCC", "orgao": "Prefeitura de São José do Rio Preto - SP", "ano": 2019, "prova": "FCC - 2019 - Prefeitura de São José do Rio", "cargo": "Enfermeiro", "materia": "Enfermagem", "assunto": "Administração, Gestão e Auditoria", "enunciado": "Preto - SP - Enfermeiro Um paciente está recebendo 1 g de dipirona IV de 6/6h. O enfermeiro, ao verificar os sinais vitais do paciente às 13h, observou que o mesmo encontrava-se febril e que a dipirona das 12h não estava checada na prescrição médica e nem havia na anotação de enfermagem justificativa para a não administração do medicamento. Ao informar ao paciente que iria administrar a dose de dipirona que não havia sido checada às 12h, o mesmo relata que recebeu a dose desse medicamento no horário prescrito. São medidas que podem ser instituídas pelo enfermeiro para prevenir especificamente esse erro de omissão, dentre elas,", "alternativas": [{"id": "A", "texto": "checar a administração do medicamento na prescrição médica imediatamente após a realização da medicação."}, {"id": "B", "texto": "efetivar a prática da verificação dos certos da terapia medicamentosa e medir doses com exatidão."}, {"id": "C", "texto": "medir doses com exatidão e possuir habilidade na realização de cálculos de diluição."}, {"id": "D", "texto": "supervisionar técnicos e/ou auxiliares de enfermagem na dispensação dos medicamentos."}, {"id": "E", "texto": "relatar e registrar a omissão adequadamente, e possuir habilidade na realização de cálculos de diluição."}], "resposta_correta": "A", "fundamentacao_correta": "A administração segura de medicamentos exige aplicação estrita dos 'certos' da enfermagem, além do domínio das fórmulas de gotejamento (gotas/min = V / (T x 3); microgotas/min = V / T) e equivalências de diluição. A alternativa [A] ('checar a administração do medicamento na prescrição médica imediatamente após a realização da medicação.') apresenta a resolução exata e o respaldo farmacológico preconizado.", "analise_distratores": [{"letra": "B", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'efetivar a prática da verificação dos certos da terapia medicamentosa e medir do...' não representa a conduta indicada."}, {"letra": "C", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'medir doses com exatidão e possuir habilidade na realização de cálculos de dilui...' não representa a conduta indicada."}, {"letra": "D", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'supervisionar técnicos e/ou auxiliares de enfermagem na dispensação dos medicame...' não representa a conduta indicada."}, {"letra": "E", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'relatar e registrar a omissão adequadamente, e possuir habilidade na realização ...' não representa a conduta indicada."}], "comentario": "A administração segura de medicamentos exige aplicação estrita dos 'certos' da enfermagem, além do domínio das fórmulas de gotejamento (gotas/min = V / (T x 3); microgotas/min = V / T) e equivalências de diluição. A alternativa [A] ('checar a administração do medicamento na prescrição médica imediatamente após a realização da medicação.') apresenta a resolução exata e o respaldo farmacológico preconizado.", "id": "FCC0184", "numero_ordem": 184}, {"codigo_origem": "Q1129542", "numero_original": 392, "banca": "FCC", "orgao": "METRÔ-SP", "ano": 2019, "prova": "FCC - 2019 - METRÔ-SP - Enfermeiro do Trabalho", "cargo": "Enfermeiro", "materia": "Enfermagem", "assunto": "Administração, Gestão e Auditoria", "enunciado": "Para implantar um novo processo de trabalho, a enfermeira da unidade utiliza a Matriz SWOT como modelo de apoio à decisão. Essa metodologia realiza a abordagem baseada em", "alternativas": [{"id": "A", "texto": "análise."}, {"id": "B", "texto": "experiência."}, {"id": "C", "texto": "procedimento."}, {"id": "D", "texto": "conceitos."}, {"id": "E", "texto": "inclusões."}], "resposta_correta": "A", "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [A] ('análise.') constitui a conduta técnica correta e fundamentada.", "analise_distratores": [{"letra": "B", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'experiência....' não representa a conduta indicada."}, {"letra": "C", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'procedimento....' não representa a conduta indicada."}, {"letra": "D", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'conceitos....' não representa a conduta indicada."}, {"letra": "E", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'inclusões....' não representa a conduta indicada."}], "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [A] ('análise.') constitui a conduta técnica correta e fundamentada.", "id": "FCC0225", "numero_ordem": 225}, {"codigo_origem": "Q1023310", "numero_original": 426, "banca": "FCC", "orgao": "ALESE", "ano": 2018, "prova": "FCC - 2018 - ALESE - Analista Legislativo - Enfermagem", "cargo": "Enfermeiro", "materia": "Enfermagem", "assunto": "Administração, Gestão e Auditoria", "enunciado": "O Enfermeiro Auditor no exercício da sua função", "alternativas": [{"id": "A", "texto": "tem o direito de realizar registros no prontuário do paciente, desde que conste na sua identificação o número da sua inscrição no conselho da categoria."}, {"id": "B", "texto": "deve, preferencialmente, estar inscrito no Conselho Regional de Enfermagem da jurisdição em que presta serviço."}, {"id": "C", "texto": "está impedido de realizar visita/entrevista a pacientes com o objetivo de constatar a satisfação com o serviço de enfermagem prestado no estabelecimento de saúde auditado."}, {"id": "D", "texto": "tem autonomia para exercer suas atividades sem depender de prévia autorização por parte de outro membro auditor, enfermeiro ou multiprofissional."}, {"id": "E", "texto": "deve impor medidas administrativas aos profissionais de enfermagem, quando constatar quebra de técnica padronizada e que comprometa o bem-estar do paciente."}], "resposta_correta": "D", "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [D] ('tem autonomia para exercer suas atividades sem depender de prévia autorização por parte de outro membro auditor, enfermeiro ou multiprofissional.') constitui a conduta técnica correta e fundamentada.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'tem o direito de realizar registros no prontuário do paciente, desde que conste ...' não representa a conduta indicada."}, {"letra": "B", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'deve, preferencialmente, estar inscrito no Conselho Regional de Enfermagem da ju...' não representa a conduta indicada."}, {"letra": "C", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'está impedido de realizar visita/entrevista a pacientes com o objetivo de consta...' não representa a conduta indicada."}, {"letra": "E", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'deve impor medidas administrativas aos profissionais de enfermagem, quando const...' não representa a conduta indicada."}], "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [D] ('tem autonomia para exercer suas atividades sem depender de prévia autorização por parte de outro membro auditor, enfermeiro ou multiprofissional.') constitui a conduta técnica correta e fundamentada.", "id": "FCC0255", "numero_ordem": 255}, {"codigo_origem": "Q1023303", "numero_original": 432, "banca": "FCC", "orgao": "ALESE", "ano": 2018, "prova": "FCC - 2018 - ALESE - Analista Legislativo - Enfermagem", "cargo": "Enfermeiro", "materia": "Enfermagem", "assunto": "Administração, Gestão e Auditoria", "enunciado": "Um gestor de enfermagem, no processo de negociação e solução de conflito na sua equipe, adota o estilo denominado colaborativo, que é indicado quando", "alternativas": [{"id": "A", "texto": "a situação exige ações decisivas e rápidas, a exemplo das emergências, ou quando há um índice considerável de rejeição de propostas e interesses das pessoas envolvidas."}, {"id": "B", "texto": "é muito importante encontrar soluções nas quais os dois lados tenham seus interesses preservados, requerendo um compromisso mútuo."}, {"id": "C", "texto": "o interesse da outra parte do conflito é muito mais importante, ou quando se pretende obter um crédito para negociação futura."}, {"id": "D", "texto": "tende a ser mais apropriado para uma questão mais trivial, ou quando o benefício de não enfrentar um conflito prevalece sobre o enfrentamento naquele momento."}, {"id": "E", "texto": "os objetivos têm importância relativa, que não justifiquem confronto, ou quando as pressões de tempo não se fazem presentes e permitem aguardar situação oportuna de negociação."}], "resposta_correta": "B", "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [B] ('é muito importante encontrar soluções nas quais os dois lados tenham seus interesses preservados, requerendo um compromisso mútuo.') constitui a conduta técnica correta e fundamentada.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'a situação exige ações decisivas e rápidas, a exemplo das emergências, ou quando...' não representa a conduta indicada."}, {"letra": "C", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'o interesse da outra parte do conflito é muito mais importante, ou quando se pre...' não representa a conduta indicada."}, {"letra": "D", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'tende a ser mais apropriado para uma questão mais trivial, ou quando o benefício...' não representa a conduta indicada."}, {"letra": "E", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'os objetivos têm importância relativa, que não justifiquem confronto, ou quando ...' não representa a conduta indicada."}], "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [B] ('é muito importante encontrar soluções nas quais os dois lados tenham seus interesses preservados, requerendo um compromisso mútuo.') constitui a conduta técnica correta e fundamentada.", "id": "FCC0261", "numero_ordem": 261}, {"codigo_origem": "Q937542", "numero_original": 448, "banca": "FCC", "orgao": "Câmara Legislativa do Distrito Federal", "ano": 2018, "prova": "FCC - 2018 - Câmara Legislativa do Distrito", "cargo": "Enfermeiro", "materia": "Enfermagem", "assunto": "Administração, Gestão e Auditoria", "enunciado": "Federal - Consultor Técnico-Legislativo - Enfermeiro No dimensionamento de enfermagem, o índice de segurança técnica consiste em um acréscimo no quantitativo de pessoal por categoria para cobertura das ausências previstas e não previstas ao serviço. São consideradas ausências NÃO previstas:", "alternativas": [{"id": "A", "texto": "ausências por feriado."}, {"id": "B", "texto": "férias."}, {"id": "C", "texto": "faltas abonadas."}, {"id": "D", "texto": "folgas semanais."}, {"id": "E", "texto": "descansos remunerados."}], "resposta_correta": "C", "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [C] ('faltas abonadas.') constitui a conduta técnica correta e fundamentada.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'ausências por feriado....' não representa a conduta indicada."}, {"letra": "B", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'férias....' não representa a conduta indicada."}, {"letra": "D", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'folgas semanais....' não representa a conduta indicada."}, {"letra": "E", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'descansos remunerados....' não representa a conduta indicada."}], "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [C] ('faltas abonadas.') constitui a conduta técnica correta e fundamentada.", "id": "FCC0277", "numero_ordem": 277}, {"codigo_origem": "Q937534", "numero_original": 455, "banca": "FCC", "orgao": "Câmara Legislativa do Distrito Federal", "ano": 2018, "prova": "FCC - 2018 - Câmara Legislativa do Distrito", "cargo": "Enfermeiro", "materia": "Enfermagem", "assunto": "Administração, Gestão e Auditoria", "enunciado": "Federal - Consultor Técnico-Legislativo - Enfermeiro", "alternativas": [{"id": "A", "texto": "equipe de auditoria, após constatar irregularidade em uma conta hospitalar de um paciente X, verifica que há um motivo para aplicação de glosa total. De acordo o Sistema Nacional de Auditoria (SNA) – Federal, um dos motivos para glosa total é:"}, {"id": "A", "texto": "pacientes com registros de internados, porém não encontrados no hospital."}, {"id": "B", "texto": "procedimento cobrado difere do tratamento realizado."}, {"id": "C", "texto": "internação para investigação diagnóstica."}, {"id": "D", "texto": "alta a pedido ou transferência para outro hospital com período de internação igual ou inferior a 24 horas. E internação desnecessária na UTI."}], "resposta_correta": "A", "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [A] ('equipe de auditoria, após constatar irregularidade em uma conta hospitalar de um paciente X, verifica que há um motivo para aplicação de glosa total. De acordo o Sistema Nacional de Auditoria (SNA) – Federal, um dos motivos para glosa total é:') constitui a conduta técnica correta e fundamentada.", "analise_distratores": [{"letra": "B", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'procedimento cobrado difere do tratamento realizado....' não representa a conduta indicada."}, {"letra": "C", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'internação para investigação diagnóstica....' não representa a conduta indicada."}, {"letra": "D", "motivo": "Apresenta parâmetros numéricos/posológicos incorretos em desacordo com as diretrizes de referência: 'alta a pedido ou transferência para outro hospital com período de internação igu...'."}], "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [A] ('equipe de auditoria, após constatar irregularidade em uma conta hospitalar de um paciente X, verifica que há um motivo para aplicação de glosa total. De acordo o Sistema Nacional de Auditoria (SNA) – Federal, um dos motivos para glosa total é:') constitui a conduta técnica correta e fundamentada.", "id": "FCC0284", "numero_ordem": 284}, {"codigo_origem": "Q931009", "numero_original": 547, "banca": "FCC", "orgao": "Prefeitura de Macapá - AP", "ano": 2018, "prova": "FCC - 2018 - Prefeitura de Macapá - AP - Técnico em", "cargo": "Técnico de Enfermagem", "materia": "Enfermagem", "assunto": "Administração, Gestão e Auditoria", "enunciado": "Enfermagem Abaixo descreve-se uma situação encontrada no hospital de 58 leitos. Problema: O enfermeiro supervisor do plantão noturno entrou de licença médica por 19 dias. Solução do problema: O técnico de enfermagem, habilitado na área administrativa pelo estabelecimento de saúde, substitui esse enfermeiro supervisor durante o período de licença médica do enfermeiro. Ao analisar o problema, a solução do problema está", "alternativas": [{"id": "A", "texto": "correta, de acordo com o parecer técnico do Coren do Amapá."}, {"id": "B", "texto": "incorreta, porque ela é aceitável nos hospitais com, no máximo, 50 leitos."}, {"id": "C", "texto": "incorreta, de acordo com as legislações de enfermagem."}, {"id": "D", "texto": "correta, se essa conduta estiver descrita no Regimento Interno da instituição."}, {"id": "E", "texto": "correta, se essa conduta estiver descrita no Estatuto do Sindicato de Hospitais, Clínicas e Laboratórios do Estado do Amapá."}], "resposta_correta": "C", "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [C] ('incorreta, de acordo com as legislações de enfermagem.') constitui a conduta técnica correta e fundamentada.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'correta, de acordo com o parecer técnico do Coren do Amapá....' não representa a conduta indicada."}, {"letra": "B", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'incorreta, porque ela é aceitável nos hospitais com, no máximo, 50 leitos....' não representa a conduta indicada."}, {"letra": "D", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'correta, se essa conduta estiver descrita no Regimento Interno da instituição....' não representa a conduta indicada."}, {"letra": "E", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'correta, se essa conduta estiver descrita no Estatuto do Sindicato de Hospitais,...' não representa a conduta indicada."}], "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [C] ('incorreta, de acordo com as legislações de enfermagem.') constitui a conduta técnica correta e fundamentada.", "id": "FCC0370", "numero_ordem": 370}, {"codigo_origem": "Q4155344", "numero_original": 42, "banca": "FCC", "orgao": "AL-RR", "ano": 2026, "prova": "FCC - 2026 - AL-RR - Analista Legislativo - Enfermeiro", "cargo": "Enfermeiro", "materia": "Enfermagem", "assunto": "Administração, Gestão e Auditoria", "enunciado": "O documento que retrata as atividades internas no âmbito do Serviço de Enfermagem, define a finalidade, estabelece a estrutura organizacional, requisitos, competências e atribuições do quadro funcional e normatizações é o", "alternativas": [{"id": "A", "texto": "procedimento administrativo."}, {"id": "B", "texto": "procedimento operacional padrão."}, {"id": "C", "texto": "procedimento técnico."}, {"id": "D", "texto": "planejamento estratégico."}, {"id": "E", "texto": "regimento."}], "resposta_correta": "E", "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [E] ('regimento.') constitui a conduta técnica correta e fundamentada.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'procedimento administrativo....' não representa a conduta indicada."}, {"letra": "B", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'procedimento operacional padrão....' não representa a conduta indicada."}, {"letra": "C", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'procedimento técnico....' não representa a conduta indicada."}, {"letra": "D", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'planejamento estratégico....' não representa a conduta indicada."}], "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [E] ('regimento.') constitui a conduta técnica correta e fundamentada.", "id": "FCC0384", "numero_ordem": 384}, {"codigo_origem": "Q920279", "numero_original": 591, "banca": "FCC", "orgao": "TRT - 15ª Região (SP)", "ano": 2018, "prova": "FCC - 2018 - TRT - 15ª Região (SP) - Técnico Judiciário -", "cargo": "Técnico de Enfermagem", "materia": "Enfermagem", "assunto": "Administração, Gestão e Auditoria", "enunciado": "Enfermagem Em um ambulatório, o técnico de enfermagem que auxilia o enfermeiro na gestão de materiais realizou a provisão de materiais de consumo, que corresponde a", "alternativas": [{"id": "A", "texto": "estabelecer a estimativa de material necessário para o funcionamento da unidade."}, {"id": "B", "texto": "realizar o levantamento das necessidades de recursos, identificando a quantidade e a especificação."}, {"id": "C", "texto": "repor os materiais necessários para a realização das atividades da unidade."}, {"id": "D", "texto": "atualizar a cota de material previsto para as necessidades diárias da unidade."}, {"id": "E", "texto": "sistematizar o mapeamento de consumo de material."}], "resposta_correta": "C", "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [C] ('repor os materiais necessários para a realização das atividades da unidade.') constitui a conduta técnica correta e fundamentada.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'estabelecer a estimativa de material necessário para o funcionamento da unidade....' não representa a conduta indicada."}, {"letra": "B", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'realizar o levantamento das necessidades de recursos, identificando a quantidade...' não representa a conduta indicada."}, {"letra": "D", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'atualizar a cota de material previsto para as necessidades diárias da unidade....' não representa a conduta indicada."}, {"letra": "E", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'sistematizar o mapeamento de consumo de material....' não representa a conduta indicada."}], "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [C] ('repor os materiais necessários para a realização das atividades da unidade.') constitui a conduta técnica correta e fundamentada.", "id": "FCC0410", "numero_ordem": 410}, {"codigo_origem": "Q918272", "numero_original": 610, "banca": "FCC", "orgao": "TRT - 2ª REGIÃO (SP)", "ano": 2018, "prova": "FCC - 2018 - TRT - 2ª REGIÃO (SP) - Técnico Judiciário -", "cargo": "Técnico de Enfermagem", "materia": "Enfermagem", "assunto": "Administração, Gestão e Auditoria", "enunciado": "Enfermagem O profissional de enfermagem ao solicitar que os dispositivos de ajuste mecânico dos leitos sejam submetidos a manutenção preventiva, assegurando a lubrificação permanente, está adotando, dentre outros, o princípio da", "alternativas": [{"id": "A", "texto": "farmacovigilância."}, {"id": "B", "texto": "ergonomia ocupacional."}, {"id": "C", "texto": "antropometria de segurança."}, {"id": "D", "texto": "tecnicocalibração preventiva."}, {"id": "E", "texto": "prevenção de riscos biológicos."}], "resposta_correta": "B", "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [B] ('ergonomia ocupacional.') constitui a conduta técnica correta e fundamentada.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'farmacovigilância....' não representa a conduta indicada."}, {"letra": "C", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'antropometria de segurança....' não representa a conduta indicada."}, {"letra": "D", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'tecnicocalibração preventiva....' não representa a conduta indicada."}, {"letra": "E", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'prevenção de riscos biológicos....' não representa a conduta indicada."}], "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [B] ('ergonomia ocupacional.') constitui a conduta técnica correta e fundamentada.", "id": "FCC0428", "numero_ordem": 428}, {"codigo_origem": "Q918266", "numero_original": 615, "banca": "FCC", "orgao": "TRT - 2ª REGIÃO (SP)", "ano": 2018, "prova": "FCC - 2018 - TRT - 2ª REGIÃO (SP) - Técnico Judiciário -", "cargo": "Técnico de Enfermagem", "materia": "Enfermagem", "assunto": "Administração, Gestão e Auditoria", "enunciado": "Enfermagem Na enfermagem dois tipos de trabalho em equipe são identificados: a equipe integração e a equipe agrupamento. Considerando as características de cada equipe, relacione o número da coluna da esquerda (Tipo de Equipe) com a característica correspondente da coluna da direita (Características). Tipo de Equipe 1. Equipe integração 2. Equipe agrupamento Características ( ) A articulação das ações gera sinergia positiva através de um esforço coordenado. ( ) Interação, principalmente, para partilhar informação e tomar decisões que auxiliem cada membro a desempenhar suas tarefas individualmente. ( ) Ocorre a soma das contribuições de cada membro do grupo separadamente e a responsabilidade permanece individualizada. ( ) A comunicação entre seus componentes é orientada para o entendimento. ( ) O desempenho é coletivo e o resultado é maior que a soma das partes individuais.", "alternativas": [{"id": "A", "texto": "sequência correta, de cima para baixo, é:"}, {"id": "A", "texto": "1, 2, 2, 1, 1."}, {"id": "B", "texto": "1, 1, 2, 1, 2."}, {"id": "C", "texto": "2, 1, 1, 2, 2."}, {"id": "D", "texto": "2, 1, 2, 1, 2. E 1, 2, 1, 2, 1."}], "resposta_correta": "A", "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [A] ('sequência correta, de cima para baixo, é:') constitui a conduta técnica correta e fundamentada.", "analise_distratores": [{"letra": "B", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: '1, 1, 2, 1, 2....' não representa a conduta indicada."}, {"letra": "C", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: '2, 1, 1, 2, 2....' não representa a conduta indicada."}, {"letra": "D", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: '2, 1, 2, 1, 2. E 1, 2, 1, 2, 1....' não representa a conduta indicada."}], "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [A] ('sequência correta, de cima para baixo, é:') constitui a conduta técnica correta e fundamentada.", "id": "FCC0433", "numero_ordem": 433}, {"codigo_origem": "Q918195", "numero_original": 625, "banca": "FCC", "orgao": "TRT - 2ª REGIÃO (SP)", "ano": 2018, "prova": "FCC - 2018 - TRT - 2ª REGIÃO (SP) - Analista Judiciário -", "cargo": "Enfermeiro", "materia": "Enfermagem", "assunto": "Administração, Gestão e Auditoria", "enunciado": "Enfermagem Uma equipe multiprofissional de saúde decidiu elaborar o Plano Terapêutico Singular (PTS) para os casos mais complexos atendidos na unidade. A equipe de saúde rotineiramente discute a evolução e faz as devidas correções de rumo no PTS, sendo esse momento denominado:", "alternativas": [{"id": "A", "texto": "Ajuste de Indicador Singular."}, {"id": "B", "texto": "Definição de Metas."}, {"id": "C", "texto": "Diagnóstico Terapêutico."}, {"id": "D", "texto": "Divisão de Responsabilidade Terapêutica."}, {"id": "E", "texto": "Reavaliação."}], "resposta_correta": "E", "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [E] ('Reavaliação.') constitui a conduta técnica correta e fundamentada.", "analise_distratores": [{"letra": "A", "motivo": "Inverte a correlação clínica/normativa preconizada pelos protocolos oficiais da saúde: 'Ajuste de Indicador Singular....'."}, {"letra": "B", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Definição de Metas....' não representa a conduta indicada."}, {"letra": "C", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Diagnóstico Terapêutico....' não representa a conduta indicada."}, {"letra": "D", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Divisão de Responsabilidade Terapêutica....' não representa a conduta indicada."}], "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [E] ('Reavaliação.') constitui a conduta técnica correta e fundamentada.", "id": "FCC0439", "numero_ordem": 439}, {"codigo_origem": "Q918192", "numero_original": 627, "banca": "FCC", "orgao": "TRT - 2ª REGIÃO (SP)", "ano": 2018, "prova": "FCC - 2018 - TRT - 2ª REGIÃO (SP) - Analista Judiciário -", "cargo": "Enfermeiro", "materia": "Enfermagem", "assunto": "Administração, Gestão e Auditoria", "enunciado": "Enfermagem Devido ao custo de se manter estoques elevados, uma unidade de saúde adotou a classificação desenvolvida por Pareto e adaptada à administração de materiais. Na unidade um dos itens corresponde a mais de 50% do total do estoque e, embora em maior número, são os de menor custo ou investimento. De acordo com a classificação de Pareto, esse item corresponde aos de classe", "alternativas": [{"id": "A", "texto": "C"}, {"id": "B", "texto": "A"}, {"id": "C", "texto": "B"}, {"id": "D", "texto": "X1"}, {"id": "E", "texto": "Y"}], "resposta_correta": "A", "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [A] ('C') constitui a conduta técnica correta e fundamentada.", "analise_distratores": [{"letra": "B", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'A...' não representa a conduta indicada."}, {"letra": "C", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'B...' não representa a conduta indicada."}, {"letra": "D", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'X1...' não representa a conduta indicada."}, {"letra": "E", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Y...' não representa a conduta indicada."}], "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [A] ('C') constitui a conduta técnica correta e fundamentada.", "id": "FCC0441", "numero_ordem": 441}, {"codigo_origem": "Q918191", "numero_original": 628, "banca": "FCC", "orgao": "TRT - 2ª REGIÃO (SP)", "ano": 2018, "prova": "FCC - 2018 - TRT - 2ª REGIÃO (SP) - Analista Judiciário -", "cargo": "Enfermeiro", "materia": "Enfermagem", "assunto": "Administração, Gestão e Auditoria", "enunciado": "Enfermagem Um profissional de enfermagem ao participar do treinamento admissional foi informado que, anualmente, todos os gestores das unidades realizam a avaliação de desempenho da sua equipe. No modelo adotado pela instituição, a avaliação é realizada em conjunto entre avaliador e avaliado, a ferramenta de avaliação é analisada ao mesmo tempo e discutida pelos dois. De acordo com Chiavenato, 2010, esse modelo é chamado de avaliação de desempenho", "alternativas": [{"id": "A", "texto": "por objetivo."}, {"id": "B", "texto": "90 graus."}, {"id": "C", "texto": "360 graus."}, {"id": "D", "texto": "180 graus."}, {"id": "E", "texto": "direta e com apoio dos recursos humanos."}], "resposta_correta": "D", "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [D] ('180 graus.') constitui a conduta técnica correta e fundamentada.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'por objetivo....' não representa a conduta indicada."}, {"letra": "B", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: '90 graus....' não representa a conduta indicada."}, {"letra": "C", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: '360 graus....' não representa a conduta indicada."}, {"letra": "E", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'direta e com apoio dos recursos humanos....' não representa a conduta indicada."}], "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [D] ('180 graus.') constitui a conduta técnica correta e fundamentada.", "id": "FCC0442", "numero_ordem": 442}, {"codigo_origem": "Q839924", "numero_original": 684, "banca": "FCC", "orgao": "TRT - 24ª REGIÃO (MS)", "ano": 2017, "prova": "FCC - 2017 - TRT - 24ª REGIÃO (MS) - Técnico Judiciário -", "cargo": "Técnico de Enfermagem", "materia": "Enfermagem", "assunto": "Administração, Gestão e Auditoria", "enunciado": "Enfermagem É delegado ao Técnico de Enfermagem realizar o levantamento das necessidades de material de consumo da sua unidade de trabalho, devendo ser identificada a quantidade e a especificação do material para suprir essas necessidades. Considerando a Gestão de Materiais, esta ação corresponde a função de", "alternativas": [{"id": "A", "texto": "Provisão."}, {"id": "B", "texto": "Reposição."}, {"id": "C", "texto": "Previsão."}, {"id": "D", "texto": "Estocagem."}, {"id": "E", "texto": "Controle de Consumo."}], "resposta_correta": "C", "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [C] ('Previsão.') constitui a conduta técnica correta e fundamentada.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Provisão....' não representa a conduta indicada."}, {"letra": "B", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Reposição....' não representa a conduta indicada."}, {"letra": "D", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Estocagem....' não representa a conduta indicada."}, {"letra": "E", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Controle de Consumo....' não representa a conduta indicada."}], "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [C] ('Previsão.') constitui a conduta técnica correta e fundamentada.", "id": "FCC0492", "numero_ordem": 492}, {"codigo_origem": "Q764302", "numero_original": 853, "banca": "FCC", "orgao": "TRT - 20ª REGIÃO (SE)", "ano": 2016, "prova": "FCC - 2016 - TRT - 20ª REGIÃO (SE) - Analista Judiciário -", "cargo": "Enfermeiro", "materia": "Enfermagem", "assunto": "Administração, Gestão e Auditoria", "enunciado": "Enfermagem No processo de avaliação de desempenho da sua equipe, o enfermeiro deve planejar o momento da entrevista de avaliação, considerando o(s) seguinte(s) aspecto(s):", "alternativas": [{"id": "A", "texto": "ambiente tranquilo, livre de interrupções ou distrações."}, {"id": "B", "texto": "o avaliador, em especial, deve ser colocado à vontade."}, {"id": "C", "texto": "a entrevista deve ser iniciada pela abordagem das atitudes negativas."}, {"id": "D", "texto": "os pontos problemáticos não necessitam de justificativas concretas."}, {"id": "E", "texto": "o diálogo deve ser prioritariamente crítico e com base em avaliações anteriores."}], "resposta_correta": "A", "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [A] ('ambiente tranquilo, livre de interrupções ou distrações.') constitui a conduta técnica correta e fundamentada.", "analise_distratores": [{"letra": "B", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'o avaliador, em especial, deve ser colocado à vontade....' não representa a conduta indicada."}, {"letra": "C", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'a entrevista deve ser iniciada pela abordagem das atitudes negativas....' não representa a conduta indicada."}, {"letra": "D", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'os pontos problemáticos não necessitam de justificativas concretas....' não representa a conduta indicada."}, {"letra": "E", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'o diálogo deve ser prioritariamente crítico e com base em avaliações anteriores....' não representa a conduta indicada."}], "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [A] ('ambiente tranquilo, livre de interrupções ou distrações.') constitui a conduta técnica correta e fundamentada.", "id": "FCC0649", "numero_ordem": 649}, {"codigo_origem": "Q764301", "numero_original": 854, "banca": "FCC", "orgao": "TRT - 20ª REGIÃO (SE)", "ano": 2016, "prova": "FCC - 2016 - TRT - 20ª REGIÃO (SE) - Analista Judiciário -", "cargo": "Enfermeiro", "materia": "Enfermagem", "assunto": "Administração, Gestão e Auditoria", "enunciado": "Enfermagem Atualmente, para que as organizações consigam conquistar bons resultados, é essencial o gestor investir em atividades que visem à melhoria da qualidade de vida dos colaboradores e do ambiente de trabalho. Ao realizar um levantamento que caracteriza as percepções dos colaboradores internos sobre temas e itens que, caso apresentem distorções indesejáveis, afetam negativamente o nível de satisfação dos colaboradores na situação de trabalho, o gestor, de acordo com Chiavenato, estará realizando", "alternativas": [{"id": "A", "texto": "Observatório da Saúde."}, {"id": "B", "texto": "Estudo de Desempenho Técnico."}, {"id": "C", "texto": "Avaliação Reacional Objetiva."}, {"id": "D", "texto": "Pesquisa Qualitativa de Conteúdos."}, {"id": "E", "texto": "Pesquisa de Clima Organizacional."}], "resposta_correta": "E", "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [E] ('Pesquisa de Clima Organizacional.') constitui a conduta técnica correta e fundamentada.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Observatório da Saúde....' não representa a conduta indicada."}, {"letra": "B", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Estudo de Desempenho Técnico....' não representa a conduta indicada."}, {"letra": "C", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Avaliação Reacional Objetiva....' não representa a conduta indicada."}, {"letra": "D", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'Pesquisa Qualitativa de Conteúdos....' não representa a conduta indicada."}], "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [E] ('Pesquisa de Clima Organizacional.') constitui a conduta técnica correta e fundamentada.", "id": "FCC0650", "numero_ordem": 650}, {"codigo_origem": "Q764300", "numero_original": 855, "banca": "FCC", "orgao": "TRT - 20ª REGIÃO (SE)", "ano": 2016, "prova": "FCC - 2016 - TRT - 20ª REGIÃO (SE) - Analista Judiciário -", "cargo": "Enfermeiro", "materia": "Enfermagem", "assunto": "Administração, Gestão e Auditoria", "enunciado": "Enfermagem O dimensionamento de profissionais de enfermagem é considerado um instrumento gerencial. Para operacionalizar este processo o Conselho Federal de Enfermagem, indicou parâmetros para dimensionar o quantitativo mínimo dos diferentes níveis de formação dos profissionais de enfermagem para a cobertura assistencial nas instituições de saúde. Um desses parâmetros é", "alternativas": [{"id": "A", "texto": "o cálculo da carga horária relativa ao tempo efetivo de descanso noturno."}, {"id": "B", "texto": "o cálculo da quantidade média mensal de pacientes assistidos segundo o tipo de cuidado."}, {"id": "C", "texto": "o Sistema de Classificação de Pacientes."}, {"id": "D", "texto": "a distribuição da média do absenteísmo por categoria profissional."}, {"id": "E", "texto": "o Índice de Segurança Técnica para a cobertura das folgas por descanso semanal remunerado."}], "resposta_correta": "C", "fundamentacao_correta": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [C] ('o Sistema de Classificação de Pacientes.') constitui a conduta técnica correta e fundamentada.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'o cálculo da carga horária relativa ao tempo efetivo de descanso noturno....' não representa a conduta indicada."}, {"letra": "B", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'o cálculo da quantidade média mensal de pacientes assistidos segundo o tipo de c...' não representa a conduta indicada."}, {"letra": "D", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'a distribuição da média do absenteísmo por categoria profissional....' não representa a conduta indicada."}, {"letra": "E", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'o Índice de Segurança Técnica para a cobertura das folgas por descanso semanal r...' não representa a conduta indicada."}], "comentario": "Com base na literatura clássica de propedêutica e fundamentos de enfermagem (Potter & Perry; Brunner & Suddarth) e nos protocolos assistenciais oficiais, a execução técnica correta, o embasamento científico e a avaliação clínica constante orientam a conduta do profissional de enfermagem. A alternativa [C] ('o Sistema de Classificação de Pacientes.') constitui a conduta técnica correta e fundamentada.", "id": "FCC0651", "numero_ordem": 651}];
+export const questoes = [
+  {
+    "codigo_origem": "Q3974334",
+    "numero_original": 99,
+    "banca": "SELECON",
+    "orgao": "EMGEPRON Prova: SELECON - 2026 - EMGEPRON - Enfermeiro",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - EMGEPRON - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "No contexto da gestão de enfermagem, o enfermeiro estimula a participação ativa da equipe nas decisões assistenciais, incentiva o desenvolvimento profissional, promove feedback contínuo e mobiliza os profissionais em torno de uma visão compartilhada para melhoria dos resultados. Esse estilo de liderança corresponde ao modelo",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "autocrático"
+      },
+      {
+        "id": "B",
+        "texto": "burocrático"
+      },
+      {
+        "id": "C",
+        "texto": "laissez-faire"
+      },
+      {
+        "id": "D",
+        "texto": "transformacional"
+      }
+    ],
+    "resposta_correta": "D",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('transformacional') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'autocrático...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'burocrático...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'laissez-faire...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('transformacional') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0099",
+    "numero_ordem": 99
+  },
+  {
+    "codigo_origem": "Q3265170",
+    "numero_original": 15,
+    "banca": "SELECON",
+    "orgao": "SELECON",
+    "ano": 2025,
+    "prova": "",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "A gerência em enfermagem envolve a coordenação e a supervisão de equipes, além da gestão de recursos e de processos de trabalho. Evidenciando as responsabilidades do enfermeiro gerente, é coerente afirmar que:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "a avaliação de desempenho da equipe de enfermagem é uma responsabilidade do enfermeiro gerente, que deve utilizar critérios objetivos e subjetivos para promover o desenvolvimento profissional e a qualidade da assistência"
+      },
+      {
+        "id": "B",
+        "texto": "o enfermeiro gerente é responsável exclusivamente pela supervisão direta da assistência prestada, não se envolvendo na gestão de recursos materiais e financeiros da unidade"
+      },
+      {
+        "id": "C",
+        "texto": "a elaboração de escalas de trabalho é uma atribuição que deve ser realizada de maneira fixa e imutável, sem considerar as necessidades individuais dos profissionais e as demandas da unidade"
+      },
+      {
+        "id": "D",
+        "texto": "a comunicação eficaz é irrelevante para a gerência em enfermagem, uma vez que as decisões gerenciais são tomadas exclusivamente pelo enfermeiro gerente sem a necessidade de interação com a equipe"
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('a avaliação de desempenho da equipe de enfermagem é uma responsabilidade do enfermeiro gerente, que deve utilizar critérios objetivos e subjetivos para promover o desenvolvimento profissional e a qualidade da assistência') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Apresenta termo restritivo ('o enfermeiro gerente é responsável exclusivamente pela supervisão direta da assi...'), generalizando indevidamente uma situação assistencial que comporta exceções clínicas ou normativas."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'a elaboração de escalas de trabalho é uma atribuição que deve ser realizada de m...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Apresenta termo restritivo ('a comunicação eficaz é irrelevante para a gerência em enfermagem, uma vez que as...'), generalizando indevidamente uma situação assistencial que comporta exceções clínicas ou normativas."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('a avaliação de desempenho da equipe de enfermagem é uma responsabilidade do enfermeiro gerente, que deve utilizar critérios objetivos e subjetivos para promover o desenvolvimento profissional e a qualidade da assistência') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0175",
+    "numero_ordem": 175
+  },
+  {
+    "codigo_origem": "Q3265157",
+    "numero_original": 5,
+    "banca": "SELECON",
+    "orgao": "HEMOMINAS Prova: SELECON - 2025 - HEMOMINAS - Analista de Hematologia e Hemoterapia -",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - HEMOMINAS - Analista de Hematologia e Hemoterapia -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "Durante a infusão de hemoderivados, a identificação e a conduta frente a reações transfusionais são fundamentais para evitar desfechos adversos. Considerando os protocolos preconizados, é preciso afirmar que:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "ao suspeitar de uma reação transfusional, a infusão deve ser imediatamente suspensa e a bolsa de sangue descartada"
+      },
+      {
+        "id": "B",
+        "texto": "cefaleia, febre e prurido leve são indicações para continuar a transfusão, com monitoramento a cada 5 minutos"
+      },
+      {
+        "id": "C",
+        "texto": "o sangue e o equipo utilizados na transfusão devem ser mantidos e enviados para análise laboratorial em casos de reações adversas"
+      },
+      {
+        "id": "D",
+        "texto": "a principal conduta ao identificar uma reação transfusional é realizar um acesso venoso secundário para seguir com a transfusão"
+      }
+    ],
+    "resposta_correta": "C",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('o sangue e o equipo utilizados na transfusão devem ser mantidos e enviados para análise laboratorial em casos de reações adversas') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'ao suspeitar de uma reação transfusional, a infusão deve ser imediatamente suspe...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: 'cefaleia, febre e prurido leve são indicações para continuar a transfusão, com m...' diverge das referências oficiais."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'a principal conduta ao identificar uma reação transfusional é realizar um acesso...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('o sangue e o equipo utilizados na transfusão devem ser mantidos e enviados para análise laboratorial em casos de reações adversas') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0185",
+    "numero_ordem": 185
+  },
+  {
+    "codigo_origem": "Q3265156",
+    "numero_original": 6,
+    "banca": "SELECON",
+    "orgao": "SELECON",
+    "ano": 2025,
+    "prova": "",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "A liderança exercida nos serviços de enfermagem é essencial para promover a qualidade e garantir a continuidade do cuidado. Sobre o papel da enfermagem na organização das equipes, afirma-se corretamente que:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "o enfermeiro atua como líder técnico, delegando atividades sem a necessidade de supervisão sistemática"
+      },
+      {
+        "id": "B",
+        "texto": "a organização dos serviços reduz o papel do enfermeiro a ações operacionais, restringindo sua atuação no processo de planejamento"
+      },
+      {
+        "id": "C",
+        "texto": "o trabalho em equipe em enfermagem ocorre exclusivamente em ambientes hospitalares, sem importância nos serviços comunitários"
+      },
+      {
+        "id": "D",
+        "texto": "a liderança em enfermagem envolve o estímulo ao trabalho em equipe, a tomada de decisão compartilhada e a gestão eficaz dos conflitos"
+      }
+    ],
+    "resposta_correta": "D",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('a liderança em enfermagem envolve o estímulo ao trabalho em equipe, a tomada de decisão compartilhada e a gestão eficaz dos conflitos') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'o enfermeiro atua como líder técnico, delegando atividades sem a necessidade de ...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'a organização dos serviços reduz o papel do enfermeiro a ações operacionais, res...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Apresenta termo restritivo ('o trabalho em equipe em enfermagem ocorre exclusivamente em ambientes hospitalar...'), generalizando indevidamente uma situação assistencial que comporta exceções clínicas ou normativas."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('a liderança em enfermagem envolve o estímulo ao trabalho em equipe, a tomada de decisão compartilhada e a gestão eficaz dos conflitos') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0186",
+    "numero_ordem": 186
+  },
+  {
+    "codigo_origem": "Q2472190",
+    "numero_original": 431,
+    "banca": "SELECON",
+    "orgao": "SAD-MS Prova: SELECON - 2024 - SAD-MS - Auxiliar de Serviços Hospitalares",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Auxiliar de Serviços Hospitalares",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "Lilian trabalha em ambiente hospitalar e acredita na importância de preservar suas relações interpessoais para construir um ambiente de trabalho agradável e respeitoso. Alguns comportamentos corriqueiros podem auxiliar no vínculo e qualidade das relações no cotidiano. Um exemplo de comunicação não verbal útil que pode impactar positivamente nas relações interpessoais é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "sorrir"
+      },
+      {
+        "id": "B",
+        "texto": "elogiar"
+      },
+      {
+        "id": "C",
+        "texto": "dar bons conselhos"
+      },
+      {
+        "id": "D",
+        "texto": "oferecer ajuda prática"
+      },
+      {
+        "id": "E",
+        "texto": "perguntar como está sendo o dia da pessoa"
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('sorrir') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'elogiar...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'dar bons conselhos...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'oferecer ajuda prática...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'perguntar como está sendo o dia da pessoa...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('sorrir') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0349",
+    "numero_ordem": 349
+  },
+  {
+    "codigo_origem": "Q2472177",
+    "numero_original": 1,
+    "banca": "SELECON",
+    "orgao": "SAD-MS Prova: SELECON - 2024 - SAD-MS - Auxiliar de Serviços Hospitalares",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Auxiliar de Serviços Hospitalares",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "O trabalho em equipe requer que todos exercitem suas habilidades de comunicação, evitando ruídos que possam causar conflitos nas relações. Para isso, é importante comunicar-se de forma assertiva, tendo em vista algumas habilidades de comportamento comunicacional que facilitem a compreensão da mensagem pelo outro e tornem o processo mais claro, objetivo e honesto. Uma maneira de certificar-se de que a mensagem foi entendida conforme esperado é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "falar mais alto até ser entendido"
+      },
+      {
+        "id": "B",
+        "texto": "fazer perguntas retóricas sempre que necessário"
+      },
+      {
+        "id": "C",
+        "texto": "solicitar que outras pessoas falem a sua mensagem"
+      },
+      {
+        "id": "D",
+        "texto": "fazer leitura facial da pessoa que está ouvindo a mensagem"
+      },
+      {
+        "id": "E",
+        "texto": "verificar o que foi entendido pelo outro, através da repetição"
+      }
+    ],
+    "resposta_correta": "E",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [E] ('verificar o que foi entendido pelo outro, através da repetição') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'falar mais alto até ser entendido...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Apresenta termo restritivo ('fazer perguntas retóricas sempre que necessário...'), generalizando indevidamente uma situação assistencial que comporta exceções clínicas ou normativas."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'solicitar que outras pessoas falem a sua mensagem...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'fazer leitura facial da pessoa que está ouvindo a mensagem...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [E] ('verificar o que foi entendido pelo outro, através da repetição') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0359",
+    "numero_ordem": 359
+  },
+  {
+    "codigo_origem": "Q2467333",
+    "numero_original": 9,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Água Boa - MT Prova: SELECON - 2024 - Prefeitura de Água Boa - MT - Agente",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Água Boa - MT - Agente",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "Administrativo - Saúde/40h Um hospital referência em doenças infecto-parasitárias recebe um paciente com quadro clínico grave, apresentando febre alta, icterícia, náuseas, vômitos e dor abdominal intensa. Ao realizar a anamnese, a equipe obtém informações sobre os hábitos alimentares do paciente, que incluem o consumo frequente de carne suína mal cozida e a ingestão de água de poço sem tratamento. Com base no quadro clínico e nas informações coletadas, a doença infecto-parasitária mais provável de estar afetando o paciente é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "dengue"
+      },
+      {
+        "id": "B",
+        "texto": "malária"
+      },
+      {
+        "id": "C",
+        "texto": "ascaridíase"
+      },
+      {
+        "id": "D",
+        "texto": "leptospirose"
+      }
+    ],
+    "resposta_correta": "D",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('leptospirose') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'dengue...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'malária...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'ascaridíase...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('leptospirose') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0387",
+    "numero_ordem": 387
+  },
+  {
+    "codigo_origem": "Q2341569",
+    "numero_original": 5,
+    "banca": "SELECON",
+    "orgao": "Empresa Cuiabana de Saúde Pública - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Empresa Cuiabana de Saúde",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "Pública - MT - Enfermeiro Assistencial Os serviços de saúde dos mais variados níveis de complexidade estão, constantemente, buscando estratégias científicas que contribuam com a segurança do cuidado prestado aos usuários, como a utilização de protocolos e checklists, para realizar intervenções que possibilitem a assistência livre de danos aos pacientes, mais segura e com maior qualidade. O profissional",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "cuidado"
+      },
+      {
+        "id": "B",
+        "texto": "consulta"
+      },
+      {
+        "id": "C",
+        "texto": "gerência"
+      },
+      {
+        "id": "D",
+        "texto": "processo"
+      }
+    ],
+    "resposta_correta": "D",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('processo') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'cuidado...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'consulta...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'gerência...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('processo') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0482",
+    "numero_ordem": 482
+  },
+  {
+    "codigo_origem": "Q2341563",
+    "numero_original": 11,
+    "banca": "SELECON",
+    "orgao": "Empresa Cuiabana de Saúde Pública - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Empresa Cuiabana de Saúde",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "Pública - MT - Enfermeiro Assistencial O enfermeiro, líder nato da equipe de enfermagem, deve trabalhar suas potencialidades de forma a desenvolver as habilidades necessárias relacionadas com liderança. Segundo Guirardello (1998), existem quatro competências inseparáveis dos grandes líderes, que são:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "visão, autoconfiança, autoestima e consciência"
+      },
+      {
+        "id": "B",
+        "texto": "consciência, confiança, autoestima e comunicação"
+      },
+      {
+        "id": "C",
+        "texto": "visão, confiança, autoestima positiva e comunicação"
+      },
+      {
+        "id": "D",
+        "texto": "consciência, autoconfiança, autoestima positiva e comunicação"
+      }
+    ],
+    "resposta_correta": "C",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('visão, confiança, autoestima positiva e comunicação') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'visão, autoconfiança, autoestima e consciência...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'consciência, confiança, autoestima e comunicação...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'consciência, autoconfiança, autoestima positiva e comunicação...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('visão, confiança, autoestima positiva e comunicação') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0488",
+    "numero_ordem": 488
+  },
+  {
+    "codigo_origem": "Q2341561",
+    "numero_original": 13,
+    "banca": "SELECON",
+    "orgao": "Empresa Cuiabana de Saúde Pública - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Empresa Cuiabana de Saúde",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "Pública - MT - Enfermeiro Auditor A tendência da função do enfermeiro auditor, em torno de uma concepção mesclada de controle de custo e de melhoria da qualidade, pode resultar de um panorama de reestruturação da produção em saúde demarcada por uma nova lógica de gestão das organizações, denominada atenção:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "gerenciada"
+      },
+      {
+        "id": "B",
+        "texto": "assistencial"
+      },
+      {
+        "id": "C",
+        "texto": "normatizada"
+      },
+      {
+        "id": "D",
+        "texto": "integralizada"
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('gerenciada') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'assistencial...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'normatizada...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'integralizada...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('gerenciada') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0490",
+    "numero_ordem": 490
+  },
+  {
+    "codigo_origem": "Q2341559",
+    "numero_original": 15,
+    "banca": "SELECON",
+    "orgao": "Empresa Cuiabana de Saúde Pública - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Empresa Cuiabana de Saúde",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "Pública - MT - Enfermeiro Auditor No processo de auditoria em enfermagem, a etapa que aponta problemas administrativos, sejam eles diagnósticos de",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "avaliação"
+      },
+      {
+        "id": "B",
+        "texto": "diagnóstico"
+      },
+      {
+        "id": "C",
+        "texto": "implantação"
+      },
+      {
+        "id": "D",
+        "texto": "coleta de dados"
+      }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('diagnóstico') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'avaliação...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'implantação...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'coleta de dados...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('diagnóstico') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0492",
+    "numero_ordem": 492
+  },
+  {
+    "codigo_origem": "Q2341558",
+    "numero_original": 16,
+    "banca": "SELECON",
+    "orgao": "Empresa Cuiabana de Saúde Pública - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Empresa Cuiabana de Saúde",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "Pública - MT - Enfermeiro Auditor Durante uma auditoria, o profissional de enfermagem identifica uma infração cometida por um enfermeiro. A conduta adequada do enfermeiro auditor deverá ser:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "aplicar advertência verbal ao infrator, de forma reservada, que será registrada em seu prontuário, na presença de duas testemunhas"
+      },
+      {
+        "id": "B",
+        "texto": "aplicar multa de pagamento de 1 (um) a 10 (dez) vezes o valor da anuidade da categoria profissional à qual pertence o infrator, em vigor no ato do pagamento"
+      },
+      {
+        "id": "C",
+        "texto": "apurar a infração em processo instaurado e conduzido nos termos do Código de Processo Ético-Disciplinar vigente, aprovado pelo Conselho Federal de Enfermagem"
+      },
+      {
+        "id": "D",
+        "texto": "suspender e cassar o profissional, que terá sua carteira retida no ato da notificação, em todas as categorias em que for inscrito, sendo devolvida após o cumprimento da pena e, no caso da cassação, após o processo de reabilitação"
+      }
+    ],
+    "resposta_correta": "C",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('apurar a infração em processo instaurado e conduzido nos termos do Código de Processo Ético-Disciplinar vigente, aprovado pelo Conselho Federal de Enfermagem') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'aplicar advertência verbal ao infrator, de forma reservada, que será registrada ...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'aplicar multa de pagamento de 1 (um) a 10 (dez) vezes o valor da anuidade da cat...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'suspender e cassar o profissional, que terá sua carteira retida no ato da notifi...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('apurar a infração em processo instaurado e conduzido nos termos do Código de Processo Ético-Disciplinar vigente, aprovado pelo Conselho Federal de Enfermagem') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0493",
+    "numero_ordem": 493
+  },
+  {
+    "codigo_origem": "Q2341557",
+    "numero_original": 17,
+    "banca": "SELECON",
+    "orgao": "Empresa Cuiabana de Saúde Pública - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Empresa Cuiabana de Saúde",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "Pública - MT - Enfermeiro Auditor Determinado profissional deve ter conhecimento técnico sobre o assunto a ser discutido, sobre os insumos utilizados, ter visão holística do processo assistencial, como qualidade de gestão clínica, qualidade de assistência por linha de cuidado e quântico-econômico-financeiro, tendo sempre em vista o bemestar do ser humano enquanto paciente/cliente. Tal conjunto de ações refere-se a atividades:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "de gestores em saúde"
+      },
+      {
+        "id": "B",
+        "texto": "privativas do(a) enfermeiro(a)"
+      },
+      {
+        "id": "C",
+        "texto": "de membros da equipe de enfermagem"
+      },
+      {
+        "id": "D",
+        "texto": "do enfermeiro como integrante da equipe multidisciplinar de auditoria"
+      }
+    ],
+    "resposta_correta": "D",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('do enfermeiro como integrante da equipe multidisciplinar de auditoria') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'de gestores em saúde...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'privativas do(a) enfermeiro(a)...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'de membros da equipe de enfermagem...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('do enfermeiro como integrante da equipe multidisciplinar de auditoria') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0494",
+    "numero_ordem": 494
+  },
+  {
+    "codigo_origem": "Q2341556",
+    "numero_original": 18,
+    "banca": "SELECON",
+    "orgao": "Empresa Cuiabana de Saúde Pública - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Empresa Cuiabana de Saúde",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "Pública - MT - Enfermeiro Auditor Quanto aos métodos, conforme Marquis e Huston (2005), uma auditoria pode ser prospectiva, operacional ou retrospectiva. O tipo de auditoria que consiste na análise da relação entre os critérios estabelecidos e os dados encontrados na revisão dos registros após a saída do cliente denomina-se:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "avaliativa"
+      },
+      {
+        "id": "B",
+        "texto": "prospectiva"
+      },
+      {
+        "id": "C",
+        "texto": "operacional"
+      },
+      {
+        "id": "D",
+        "texto": "retrospectiva"
+      }
+    ],
+    "resposta_correta": "D",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('retrospectiva') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'avaliativa...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'prospectiva...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'operacional...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('retrospectiva') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0495",
+    "numero_ordem": 495
+  },
+  {
+    "codigo_origem": "Q2341553",
+    "numero_original": 1,
+    "banca": "SELECON",
+    "orgao": "Empresa Cuiabana de Saúde Pública - MT",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Empresa Cuiabana de Saúde",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "Pública - MT - Enfermeiro Auditor Como atividade privativa do(a) enfermeiro(a) auditor(a), destaca-se:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "atuar no planejamento, na execução e na avaliação da proposta assistencial"
+      },
+      {
+        "id": "B",
+        "texto": "atuar na elaboração de programas e atividades da educação permanente, visando à melhoria da Saúde do indivíduo, da família e da população em geral"
+      },
+      {
+        "id": "C",
+        "texto": "acessar os contratos e adendos pertinentes à instituição a ser auditada, bem como o prontuário do paciente e toda documentação que se fizer necessária, no desempenho de suas atribuições"
+      },
+      {
+        "id": "D",
+        "texto": "organizar, dirigir, planejar, coordenar, avaliar, prestar consultorias, atuar em todas as etapas do processo de auditorias e contra auditorias (recursos de glosas), além de emitir pareceres sobre os serviços de auditoria de enfermagem"
+      }
+    ],
+    "resposta_correta": "D",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('organizar, dirigir, planejar, coordenar, avaliar, prestar consultorias, atuar em todas as etapas do processo de auditorias e contra auditorias (recursos de glosas), além de emitir pareceres sobre os serviços de auditoria de enfermagem') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'atuar no planejamento, na execução e na avaliação da proposta assistencial...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'atuar na elaboração de programas e atividades da educação permanente, visando à ...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'acessar os contratos e adendos pertinentes à instituição a ser auditada, bem com...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('organizar, dirigir, planejar, coordenar, avaliar, prestar consultorias, atuar em todas as etapas do processo de auditorias e contra auditorias (recursos de glosas), além de emitir pareceres sobre os serviços de auditoria de enfermagem') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0498",
+    "numero_ordem": 498
+  },
+  {
+    "codigo_origem": "Q1953153",
+    "numero_original": 14,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Pontes e Lacerda - MT Prova: SELECON - 2022 - Prefeitura de Pontes e Lacerda - MT -",
+    "ano": 2020,
+    "prova": "SELECON - 2022 - Prefeitura de Pontes e Lacerda - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "O enfermeiro adquire, em sua formação profissional, o saber de várias ciências, inclusive sobre a administração e as suas teorias. Sobre esse último aspecto, podemos afirmar que as teorias administrativas versam sobre as seguintes variáveis básicas:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "processos; salários; estruturas; ambiente e tecnologia"
+      },
+      {
+        "id": "B",
+        "texto": "tarefas; pessoas; estruturas; ambiente e tecnologia"
+      },
+      {
+        "id": "C",
+        "texto": "protocolos; pessoas; estruturas; ambiente e padrões"
+      },
+      {
+        "id": "D",
+        "texto": "carga horária; pessoas; estruturas; ambiente e tecnologia"
+      }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('tarefas; pessoas; estruturas; ambiente e tecnologia') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'processos; salários; estruturas; ambiente e tecnologia...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'protocolos; pessoas; estruturas; ambiente e padrões...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'carga horária; pessoas; estruturas; ambiente e tecnologia...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('tarefas; pessoas; estruturas; ambiente e tecnologia') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0651",
+    "numero_ordem": 651
+  },
+  {
+    "codigo_origem": "Q2710374",
+    "numero_original": 6,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Campo Grande - MS Prova: SELECON - 2019 - Prefeitura de Campo Grande - MS -",
+    "ano": 2019,
+    "prova": "SELECON - 2019 - Prefeitura de Campo Grande - MS -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "A qualidade do cuidado em saúde é composta por diversos atributos e/ou fundamentos oriundos da gestão da qualidade total. Quando o resultado do cuidado, que pode ser positivo ou negativo, foi obtido em uma situação real é definido como:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "efetividade"
+      },
+      {
+        "id": "B",
+        "texto": "eficiência"
+      },
+      {
+        "id": "C",
+        "texto": "eficácia"
+      },
+      {
+        "id": "D",
+        "texto": "equidade"
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('efetividade') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'eficiência...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'eficácia...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'equidade...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('efetividade') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0743",
+    "numero_ordem": 743
+  },
+  {
+    "codigo_origem": "Q2710368",
+    "numero_original": 12,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Campo Grande - MS Prova: SELECON - 2019 - Prefeitura de Campo Grande - MS -",
+    "ano": 2019,
+    "prova": "SELECON - 2019 - Prefeitura de Campo Grande - MS -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "A enfermagem utiliza conhecimento das teorias da Administração na formação do enfermeiro com objetivo de aperfeiçoar a liderança e a prática profissional. Sobre a teoria científica de Taylor, pode-se afirmar que são características dessa teoria:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "ausência de organização racional do trabalho; caráter prescritivo; visa a eficiência da instituição pela adoção de uma estrutura adequada"
+      },
+      {
+        "id": "B",
+        "texto": "ênfase na tarefa e na divisão do trabalho; padronização das atividades e especialização dos profissionais"
+      },
+      {
+        "id": "C",
+        "texto": "promoção do empregado; necessidade de humanização e democratização no ambiente de trabalho; e, por fim, impessoalidade no relacionamento profissional"
+      },
+      {
+        "id": "D",
+        "texto": "exagerado apego a normas e regras; os sistemas são abertos; caráter punitivo e abordagem contingencia"
+      }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('ênfase na tarefa e na divisão do trabalho; padronização das atividades e especialização dos profissionais') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'ausência de organização racional do trabalho; caráter prescritivo; visa a eficiê...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'promoção do empregado; necessidade de humanização e democratização no ambiente d...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'exagerado apego a normas e regras; os sistemas são abertos; caráter punitivo e a...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('ênfase na tarefa e na divisão do trabalho; padronização das atividades e especialização dos profissionais') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0749",
+    "numero_ordem": 749
+  },
+  {
+    "codigo_origem": "Q1242247",
+    "numero_original": 1,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR Prova: SELECON - 2019 - Prefeitura de Boa Vista - RR - Assistente",
+    "ano": 2019,
+    "prova": "SELECON - 2019 - Prefeitura de Boa Vista - RR - Assistente",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "Segundo o Ministério da Saúde, a troca do equipo como parte integrante do sistema de infusão é uma medida para prevenção de infecção relacionada à assistência a saúde. A troca do equipo que está sendo utilizada para infusões intermitentes é a cada:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "96 horas"
+      },
+      {
+        "id": "B",
+        "texto": "24 horas"
+      },
+      {
+        "id": "C",
+        "texto": "36 horas"
+      },
+      {
+        "id": "D",
+        "texto": "12 horas"
+      }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('24 horas') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: '96 horas...' diverge das referências oficiais."
+      },
+      {
+        "letra": "C",
+        "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: '36 horas...' diverge das referências oficiais."
+      },
+      {
+        "letra": "D",
+        "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: '12 horas...' diverge das referências oficiais."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('24 horas') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0798",
+    "numero_ordem": 798
+  },
+  {
+    "codigo_origem": "Q1956230",
+    "numero_original": 253,
+    "banca": "FCC",
+    "orgao": "TRT - 4ª REGIÃO (RS)",
+    "ano": 2022,
+    "prova": "FCC - 2022 - TRT - 4ª REGIÃO (RS) - Técnico Judiciário - Área Apoio",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "O Técnico de Enfermagem, enquanto profissional de saúde, deve saber que a integralidade da atenção à saúde, numa perspectiva colaborativa e interprofissional, pode ser alcançada por meio do efetivo",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "trabalho individualizado."
+      },
+      {
+        "id": "B",
+        "texto": "empreendedorismo."
+      },
+      {
+        "id": "C",
+        "texto": "relacionamento individual."
+      },
+      {
+        "id": "D",
+        "texto": "trabalho em equipe."
+      },
+      {
+        "id": "E",
+        "texto": "suporte tecnológico."
+      }
+    ],
+    "resposta_correta": "D",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('trabalho em equipe.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'trabalho individualizado....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'empreendedorismo....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'relacionamento individual....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'suporte tecnológico....' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('trabalho em equipe.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0073",
+    "numero_ordem": 73
+  },
+  {
+    "codigo_origem": "Q1309010",
+    "numero_original": 280,
+    "banca": "FCC",
+    "orgao": "AL-AP",
+    "ano": 2020,
+    "prova": "FCC - 2020 - AL-AP - Analista Legislativo - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "A gestora de enfermagem de uma unidade de saúde adotou o Balanced Scorecard (BSC) como ferramenta da gestão estratégica. Essa metodologia se fundamenta no balanceamento entre quatro perspectivas de objetivos, que são:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "dos insumos, do planejamento estratégico, dos colaboradores e dos resultados."
+      },
+      {
+        "id": "B",
+        "texto": "de recursos, do cliente externo, da demanda e da educação permanente."
+      },
+      {
+        "id": "C",
+        "texto": "financeira, do cliente, dos processos internos e da inovação e aprendizagem."
+      },
+      {
+        "id": "D",
+        "texto": "dos impactos, dos recursos humanos, dos resultados alcançados e da qualidade da assistência."
+      },
+      {
+        "id": "E",
+        "texto": "do desempenho, da missão da instituição, dos protocolos institucionais e das metas."
+      }
+    ],
+    "resposta_correta": "C",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('financeira, do cliente, dos processos internos e da inovação e aprendizagem.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'dos insumos, do planejamento estratégico, dos colaboradores e dos resultados....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'de recursos, do cliente externo, da demanda e da educação permanente....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'dos impactos, dos recursos humanos, dos resultados alcançados e da qualidade da ...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'do desempenho, da missão da instituição, dos protocolos institucionais e das met...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('financeira, do cliente, dos processos internos e da inovação e aprendizagem.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0100",
+    "numero_ordem": 100
+  },
+  {
+    "codigo_origem": "Q1309009",
+    "numero_original": 281,
+    "banca": "FCC",
+    "orgao": "AL-AP",
+    "ano": 2020,
+    "prova": "FCC - 2020 - AL-AP - Analista Legislativo - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "Em uma unidade de saúde, as equipes de trabalho possuem o seguinte perfil: são constituídas por um titular e seus subordinados, que geralmente são profissionais de uma mesma área, que trabalham juntos em um mesmo departamento e o relacionamento interpessoal e as relações de autoridade, liderança e tomada de decisão tendem a ser diretos e normatizados formal ou informalmente. Considerando as características descritas, as equipes de saúde dessa unidade são classificadas como equipes",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "autogerenciávies."
+      },
+      {
+        "id": "B",
+        "texto": "interfuncionais."
+      },
+      {
+        "id": "C",
+        "texto": "de alto desempenho."
+      },
+      {
+        "id": "D",
+        "texto": "virtuais."
+      },
+      {
+        "id": "E",
+        "texto": "funcionais."
+      }
+    ],
+    "resposta_correta": "E",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [E] ('funcionais.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'autogerenciávies....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'interfuncionais....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'de alto desempenho....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'virtuais....' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [E] ('funcionais.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0101",
+    "numero_ordem": 101
+  },
+  {
+    "codigo_origem": "Q1252235",
+    "numero_original": 348,
+    "banca": "FCC",
+    "orgao": "Prefeitura de São José do Rio Preto - SP",
+    "ano": 2019,
+    "prova": "FCC - 2019 - Prefeitura de São José do Rio",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "Preto - SP - Técnico em Enfermagem O técnico de enfermagem de uma unidade de saúde é indicado para auxiliar o enfermeiro na gestão de materiais de consumo. Para desenvolver essa atividade, é preciso saber que a quantidade a ser requisitada pela unidade ao almoxarifado é determinada pelo perfil de consumo, estabelecendo-se uma cota de materiais que representa uma estimativa de gastos por determinado período. Essa etapa do processo é chamada de",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Provisão."
+      },
+      {
+        "id": "B",
+        "texto": "Previsão."
+      },
+      {
+        "id": "C",
+        "texto": "Especificação."
+      },
+      {
+        "id": "D",
+        "texto": "Abastecimento."
+      },
+      {
+        "id": "E",
+        "texto": "Estocagem de segurança."
+      }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('Previsão.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Provisão....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Especificação....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Abastecimento....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Estocagem de segurança....' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('Previsão.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0168",
+    "numero_ordem": 168
+  },
+  {
+    "codigo_origem": "Q1252159",
+    "numero_original": 368,
+    "banca": "FCC",
+    "orgao": "Prefeitura de São José do Rio Preto - SP",
+    "ano": 2019,
+    "prova": "FCC - 2019 - Prefeitura de São José do Rio",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "Preto - SP - Enfermeiro Um paciente está recebendo 1 g de dipirona IV de 6/6h. O enfermeiro, ao verificar os sinais vitais do paciente às 13h, observou que o mesmo encontrava-se febril e que a dipirona das 12h não estava checada na prescrição médica e nem havia na anotação de enfermagem justificativa para a não administração do medicamento. Ao informar ao paciente que iria administrar a dose de dipirona que não havia sido checada às 12h, o mesmo relata que recebeu a dose desse medicamento no horário prescrito. São medidas que podem ser instituídas pelo enfermeiro para prevenir especificamente esse erro de omissão, dentre elas,",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "checar a administração do medicamento na prescrição médica imediatamente após a realização da medicação."
+      },
+      {
+        "id": "B",
+        "texto": "efetivar a prática da verificação dos certos da terapia medicamentosa e medir doses com exatidão."
+      },
+      {
+        "id": "C",
+        "texto": "medir doses com exatidão e possuir habilidade na realização de cálculos de diluição."
+      },
+      {
+        "id": "D",
+        "texto": "supervisionar técnicos e/ou auxiliares de enfermagem na dispensação dos medicamentos."
+      },
+      {
+        "id": "E",
+        "texto": "relatar e registrar a omissão adequadamente, e possuir habilidade na realização de cálculos de diluição."
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('checar a administração do medicamento na prescrição médica imediatamente após a realização da medicação.') apresenta a resposta matemática e clínica correta.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'efetivar a prática da verificação dos certos da terapia medicamentosa e medir do...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'medir doses com exatidão e possuir habilidade na realização de cálculos de dilui...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'supervisionar técnicos e/ou auxiliares de enfermagem na dispensação dos medicame...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'relatar e registrar a omissão adequadamente, e possuir habilidade na realização ...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('checar a administração do medicamento na prescrição médica imediatamente após a realização da medicação.') apresenta a resposta matemática e clínica correta.",
+    "id": "FCC_ENF0188",
+    "numero_ordem": 188
+  },
+  {
+    "codigo_origem": "Q1129542",
+    "numero_original": 392,
+    "banca": "FCC",
+    "orgao": "METRÔ-SP",
+    "ano": 2019,
+    "prova": "FCC - 2019 - METRÔ-SP - Enfermeiro do Trabalho",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "Para implantar um novo processo de trabalho, a enfermeira da unidade utiliza a Matriz SWOT como modelo de apoio à decisão. Essa metodologia realiza a abordagem baseada em",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "análise."
+      },
+      {
+        "id": "B",
+        "texto": "experiência."
+      },
+      {
+        "id": "C",
+        "texto": "procedimento."
+      },
+      {
+        "id": "D",
+        "texto": "conceitos."
+      },
+      {
+        "id": "E",
+        "texto": "inclusões."
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('análise.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'experiência....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'procedimento....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'conceitos....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'inclusões....' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('análise.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0232",
+    "numero_ordem": 232
+  },
+  {
+    "codigo_origem": "Q1023310",
+    "numero_original": 426,
+    "banca": "FCC",
+    "orgao": "ALESE",
+    "ano": 2018,
+    "prova": "FCC - 2018 - ALESE - Analista Legislativo - Enfermagem",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "O Enfermeiro Auditor no exercício da sua função",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "tem o direito de realizar registros no prontuário do paciente, desde que conste na sua identificação o número da sua inscrição no conselho da categoria."
+      },
+      {
+        "id": "B",
+        "texto": "deve, preferencialmente, estar inscrito no Conselho Regional de Enfermagem da jurisdição em que presta serviço."
+      },
+      {
+        "id": "C",
+        "texto": "está impedido de realizar visita/entrevista a pacientes com o objetivo de constatar a satisfação com o serviço de enfermagem prestado no estabelecimento de saúde auditado."
+      },
+      {
+        "id": "D",
+        "texto": "tem autonomia para exercer suas atividades sem depender de prévia autorização por parte de outro membro auditor, enfermeiro ou multiprofissional."
+      },
+      {
+        "id": "E",
+        "texto": "deve impor medidas administrativas aos profissionais de enfermagem, quando constatar quebra de técnica padronizada e que comprometa o bem-estar do paciente."
+      }
+    ],
+    "resposta_correta": "D",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('tem autonomia para exercer suas atividades sem depender de prévia autorização por parte de outro membro auditor, enfermeiro ou multiprofissional.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'tem o direito de realizar registros no prontuário do paciente, desde que conste ...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'deve, preferencialmente, estar inscrito no Conselho Regional de Enfermagem da ju...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'está impedido de realizar visita/entrevista a pacientes com o objetivo de consta...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'deve impor medidas administrativas aos profissionais de enfermagem, quando const...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('tem autonomia para exercer suas atividades sem depender de prévia autorização por parte de outro membro auditor, enfermeiro ou multiprofissional.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0266",
+    "numero_ordem": 266
+  },
+  {
+    "codigo_origem": "Q1023303",
+    "numero_original": 432,
+    "banca": "FCC",
+    "orgao": "ALESE",
+    "ano": 2018,
+    "prova": "FCC - 2018 - ALESE - Analista Legislativo - Enfermagem",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "Um gestor de enfermagem, no processo de negociação e solução de conflito na sua equipe, adota o estilo denominado colaborativo, que é indicado quando",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "a situação exige ações decisivas e rápidas, a exemplo das emergências, ou quando há um índice considerável de rejeição de propostas e interesses das pessoas envolvidas."
+      },
+      {
+        "id": "B",
+        "texto": "é muito importante encontrar soluções nas quais os dois lados tenham seus interesses preservados, requerendo um compromisso mútuo."
+      },
+      {
+        "id": "C",
+        "texto": "o interesse da outra parte do conflito é muito mais importante, ou quando se pretende obter um crédito para negociação futura."
+      },
+      {
+        "id": "D",
+        "texto": "tende a ser mais apropriado para uma questão mais trivial, ou quando o benefício de não enfrentar um conflito prevalece sobre o enfrentamento naquele momento."
+      },
+      {
+        "id": "E",
+        "texto": "os objetivos têm importância relativa, que não justifiquem confronto, ou quando as pressões de tempo não se fazem presentes e permitem aguardar situação oportuna de negociação."
+      }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('é muito importante encontrar soluções nas quais os dois lados tenham seus interesses preservados, requerendo um compromisso mútuo.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'a situação exige ações decisivas e rápidas, a exemplo das emergências, ou quando...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'o interesse da outra parte do conflito é muito mais importante, ou quando se pre...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'tende a ser mais apropriado para uma questão mais trivial, ou quando o benefício...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'os objetivos têm importância relativa, que não justifiquem confronto, ou quando ...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('é muito importante encontrar soluções nas quais os dois lados tenham seus interesses preservados, requerendo um compromisso mútuo.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0272",
+    "numero_ordem": 272
+  },
+  {
+    "codigo_origem": "Q937542",
+    "numero_original": 448,
+    "banca": "FCC",
+    "orgao": "Câmara Legislativa do Distrito Federal",
+    "ano": 2018,
+    "prova": "FCC - 2018 - Câmara Legislativa do Distrito",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "Federal - Consultor Técnico-Legislativo - Enfermeiro No dimensionamento de enfermagem, o índice de segurança técnica consiste em um acréscimo no quantitativo de pessoal por categoria para cobertura das ausências previstas e não previstas ao serviço. São consideradas ausências NÃO previstas:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "ausências por feriado."
+      },
+      {
+        "id": "B",
+        "texto": "férias."
+      },
+      {
+        "id": "C",
+        "texto": "faltas abonadas."
+      },
+      {
+        "id": "D",
+        "texto": "folgas semanais."
+      },
+      {
+        "id": "E",
+        "texto": "descansos remunerados."
+      }
+    ],
+    "resposta_correta": "C",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('faltas abonadas.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'ausências por feriado....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'férias....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'folgas semanais....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'descansos remunerados....' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('faltas abonadas.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0288",
+    "numero_ordem": 288
+  },
+  {
+    "codigo_origem": "Q937534",
+    "numero_original": 455,
+    "banca": "FCC",
+    "orgao": "Câmara Legislativa do Distrito Federal",
+    "ano": 2018,
+    "prova": "FCC - 2018 - Câmara Legislativa do Distrito",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "Federal - Consultor Técnico-Legislativo - Enfermeiro A equipe de auditoria, após constatar irregularidade em uma conta hospitalar de um paciente X, verifica que há um motivo para aplicação de glosa total. De acordo o Sistema Nacional de Auditoria (SNA) – Federal, um dos motivos para glosa total é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "pacientes com registros de internados, porém não encontrados no hospital."
+      },
+      {
+        "id": "B",
+        "texto": "procedimento cobrado difere do tratamento realizado."
+      },
+      {
+        "id": "C",
+        "texto": "internação para investigação diagnóstica."
+      },
+      {
+        "id": "D",
+        "texto": "alta a pedido ou transferência para outro hospital com período de internação igual ou inferior a 24 horas."
+      },
+      {
+        "id": "E",
+        "texto": "internação desnecessária na UTI."
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('pacientes com registros de internados, porém não encontrados no hospital.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'procedimento cobrado difere do tratamento realizado....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'internação para investigação diagnóstica....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: 'alta a pedido ou transferência para outro hospital com período de internação igu...' diverge das referências oficiais."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'internação desnecessária na UTI....' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('pacientes com registros de internados, porém não encontrados no hospital.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0295",
+    "numero_ordem": 295
+  },
+  {
+    "codigo_origem": "Q931009",
+    "numero_original": 547,
+    "banca": "FCC",
+    "orgao": "Prefeitura de Macapá - AP",
+    "ano": 2018,
+    "prova": "FCC - 2018 - Prefeitura de Macapá - AP - Técnico em",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "Abaixo descreve-se uma situação encontrada no hospital de 58 leitos. Problema: O enfermeiro supervisor do plantão noturno entrou de licença médica por 19 dias. Solução do problema: O técnico de enfermagem, habilitado na área administrativa pelo estabelecimento de saúde, substitui esse problema está",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "correta, de acordo com o parecer técnico do Coren do Amapá."
+      },
+      {
+        "id": "B",
+        "texto": "incorreta, porque ela é aceitável nos hospitais com, no máximo, 50 leitos."
+      },
+      {
+        "id": "C",
+        "texto": "incorreta, de acordo com as legislações de enfermagem."
+      },
+      {
+        "id": "D",
+        "texto": "correta, se essa conduta estiver descrita no Regimento Interno da instituição."
+      },
+      {
+        "id": "E",
+        "texto": "correta, se essa conduta estiver descrita no Estatuto do Sindicato de Hospitais, Clínicas e Laboratórios do Estado do Amapá."
+      }
+    ],
+    "resposta_correta": "C",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('incorreta, de acordo com as legislações de enfermagem.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'correta, de acordo com o parecer técnico do Coren do Amapá....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'incorreta, porque ela é aceitável nos hospitais com, no máximo, 50 leitos....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'correta, se essa conduta estiver descrita no Regimento Interno da instituição....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'correta, se essa conduta estiver descrita no Estatuto do Sindicato de Hospitais,...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('incorreta, de acordo com as legislações de enfermagem.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0385",
+    "numero_ordem": 385
+  },
+  {
+    "codigo_origem": "Q4155344",
+    "numero_original": 42,
+    "banca": "FCC",
+    "orgao": "AL-RR",
+    "ano": 2026,
+    "prova": "FCC - 2026 - AL-RR - Analista Legislativo - Enfermeiro",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "O documento que retrata as atividades internas no âmbito do Serviço de Enfermagem, define a finalidade, estabelece a estrutura organizacional, requisitos, competências e atribuições do quadro funcional e normatizações é o",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "procedimento administrativo."
+      },
+      {
+        "id": "B",
+        "texto": "procedimento operacional padrão."
+      },
+      {
+        "id": "C",
+        "texto": "procedimento técnico."
+      },
+      {
+        "id": "D",
+        "texto": "planejamento estratégico."
+      },
+      {
+        "id": "E",
+        "texto": "regimento."
+      }
+    ],
+    "resposta_correta": "E",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [E] ('regimento.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'procedimento administrativo....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'procedimento operacional padrão....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'procedimento técnico....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'planejamento estratégico....' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [E] ('regimento.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0400",
+    "numero_ordem": 400
+  },
+  {
+    "codigo_origem": "Q2723517",
+    "numero_original": 59,
+    "banca": "FCC",
+    "orgao": "TRT - 15ª Região (SP)",
+    "ano": 2023,
+    "prova": "FCC - 2023 - TRT - 15ª Região (SP) - Técnico Judiciário - Área Apoio",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "A combinação de hidróxido de alumínio e hidróxido de magnésio é um antiácido indicado para o alívio sintomático de hiperacidez, azia e má digestão, pois neutraliza a acidez gástrica. Após o uso prolongado desse medicamento, as reações adversas mais comuns que podem ocorrer devido ao alumínio e ao magnésio, respectivamente, são",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "obstipação e diarreia."
+      },
+      {
+        "id": "B",
+        "texto": "anosmia e refluxo."
+      },
+      {
+        "id": "C",
+        "texto": "tontura e cálculo renal."
+      },
+      {
+        "id": "D",
+        "texto": "inapetência e edema."
+      },
+      {
+        "id": "E",
+        "texto": "anorexia e disgeusia."
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('obstipação e diarreia.') apresenta a resposta matemática e clínica correta.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'anosmia e refluxo....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'tontura e cálculo renal....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'inapetência e edema....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'anorexia e disgeusia....' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('obstipação e diarreia.') apresenta a resposta matemática e clínica correta.",
+    "id": "FCC_ENF0417",
+    "numero_ordem": 417
+  },
+  {
+    "codigo_origem": "Q920279",
+    "numero_original": 591,
+    "banca": "FCC",
+    "orgao": "TRT - 15ª Região (SP)",
+    "ano": 2018,
+    "prova": "FCC - 2018 - TRT - 15ª Região (SP) - Técnico Judiciário -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "Em um ambulatório, o técnico de enfermagem que auxilia o enfermeiro na gestão de materiais realizou a provisão de materiais de consumo, que corresponde a",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "estabelecer a estimativa de material necessário para o funcionamento da unidade."
+      },
+      {
+        "id": "B",
+        "texto": "realizar o levantamento das necessidades de recursos, identificando a quantidade e a especificação."
+      },
+      {
+        "id": "C",
+        "texto": "repor os materiais necessários para a realização das atividades da unidade."
+      },
+      {
+        "id": "D",
+        "texto": "atualizar a cota de material previsto para as necessidades diárias da unidade."
+      },
+      {
+        "id": "E",
+        "texto": "sistematizar o mapeamento de consumo de material."
+      }
+    ],
+    "resposta_correta": "C",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('repor os materiais necessários para a realização das atividades da unidade.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'estabelecer a estimativa de material necessário para o funcionamento da unidade....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'realizar o levantamento das necessidades de recursos, identificando a quantidade...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'atualizar a cota de material previsto para as necessidades diárias da unidade....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'sistematizar o mapeamento de consumo de material....' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('repor os materiais necessários para a realização das atividades da unidade.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0428",
+    "numero_ordem": 428
+  },
+  {
+    "codigo_origem": "Q918272",
+    "numero_original": 610,
+    "banca": "FCC",
+    "orgao": "TRT - 2ª REGIÃO (SP)",
+    "ano": 2018,
+    "prova": "FCC - 2018 - TRT - 2ª REGIÃO (SP) - Técnico Judiciário -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "O profissional de enfermagem ao solicitar que os dispositivos de ajuste mecânico dos leitos sejam submetidos a manutenção preventiva, assegurando a lubrificação permanente, está adotando, dentre outros, o princípio da",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "farmacovigilância."
+      },
+      {
+        "id": "B",
+        "texto": "ergonomia ocupacional."
+      },
+      {
+        "id": "C",
+        "texto": "antropometria de segurança."
+      },
+      {
+        "id": "D",
+        "texto": "tecnicocalibração preventiva."
+      },
+      {
+        "id": "E",
+        "texto": "prevenção de riscos biológicos."
+      }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('ergonomia ocupacional.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'farmacovigilância....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'antropometria de segurança....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'tecnicocalibração preventiva....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'prevenção de riscos biológicos....' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('ergonomia ocupacional.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0447",
+    "numero_ordem": 447
+  },
+  {
+    "codigo_origem": "Q918266",
+    "numero_original": 615,
+    "banca": "FCC",
+    "orgao": "TRT - 2ª REGIÃO (SP)",
+    "ano": 2018,
+    "prova": "FCC - 2018 - TRT - 2ª REGIÃO (SP) - Técnico Judiciário -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "Na enfermagem dois tipos de trabalho em equipe são identificados: a equipe integração e a equipe agrupamento. Considerando as características de cada equipe, relacione o número da coluna da esquerda (Tipo de Equipe) com a característica correspondente da coluna da direita (Características). Tipo de Equipe Características ( ) A articulação das ações gera sinergia positiva através de um esforço coordenado. ( ) Interação, principalmente, para partilhar informação e tomar decisões que auxiliem cada membro a desempenhar suas tarefas individualmente. ( ) Ocorre a soma das contribuições de cada membro do grupo separadamente e a responsabilidade permanece individualizada. ( ) A comunicação entre seus componentes é orientada para o entendimento. ( ) O desempenho é coletivo e o resultado é maior que a soma das partes individuais. A sequência correta, de cima para baixo, é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "1, 2, 2, 1, 1."
+      },
+      {
+        "id": "B",
+        "texto": "1, 1, 2, 1, 2."
+      },
+      {
+        "id": "C",
+        "texto": "2, 1, 1, 2, 2."
+      },
+      {
+        "id": "D",
+        "texto": "2, 1, 2, 1, 2."
+      },
+      {
+        "id": "E",
+        "texto": "1, 2, 1, 2, 1."
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('1, 2, 2, 1, 1.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '1, 1, 2, 1, 2....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '2, 1, 1, 2, 2....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '2, 1, 2, 1, 2....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '1, 2, 1, 2, 1....' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('1, 2, 2, 1, 1.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0452",
+    "numero_ordem": 452
+  },
+  {
+    "codigo_origem": "Q918195",
+    "numero_original": 625,
+    "banca": "FCC",
+    "orgao": "TRT - 2ª REGIÃO (SP)",
+    "ano": 2018,
+    "prova": "FCC - 2018 - TRT - 2ª REGIÃO (SP) - Analista Judiciário -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "Uma equipe multiprofissional de saúde decidiu elaborar o Plano Terapêutico Singular (PTS) para os casos mais complexos atendidos na unidade. A equipe de saúde rotineiramente discute a evolução e faz as devidas correções de rumo no PTS, sendo esse momento denominado:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Ajuste de Indicador Singular."
+      },
+      {
+        "id": "B",
+        "texto": "Definição de Metas."
+      },
+      {
+        "id": "C",
+        "texto": "Diagnóstico Terapêutico."
+      },
+      {
+        "id": "D",
+        "texto": "Divisão de Responsabilidade Terapêutica."
+      },
+      {
+        "id": "E",
+        "texto": "Reavaliação."
+      }
+    ],
+    "resposta_correta": "E",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [E] ('Reavaliação.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Inverte a correlação clínica ou a indicação terapêutica oficial: 'Ajuste de Indicador Singular....'."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Definição de Metas....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Diagnóstico Terapêutico....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Divisão de Responsabilidade Terapêutica....' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [E] ('Reavaliação.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0461",
+    "numero_ordem": 461
+  },
+  {
+    "codigo_origem": "Q918192",
+    "numero_original": 627,
+    "banca": "FCC",
+    "orgao": "TRT - 2ª REGIÃO (SP)",
+    "ano": 2018,
+    "prova": "FCC - 2018 - TRT - 2ª REGIÃO (SP) - Analista Judiciário -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "Devido ao custo de se manter estoques elevados, uma unidade de saúde adotou a classificação desenvolvida por Pareto e adaptada à administração de materiais. Na unidade um dos itens corresponde a mais de 50% do total do estoque e, embora em maior número, são os de menor custo ou investimento. De acordo com a classificação de Pareto, esse item corresponde aos de classe",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "C"
+      },
+      {
+        "id": "B",
+        "texto": "A"
+      },
+      {
+        "id": "C",
+        "texto": "B"
+      },
+      {
+        "id": "D",
+        "texto": "X1"
+      },
+      {
+        "id": "E",
+        "texto": "Y2"
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('C') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'A...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'B...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'X1...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Y2...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('C') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0463",
+    "numero_ordem": 463
+  },
+  {
+    "codigo_origem": "Q918191",
+    "numero_original": 628,
+    "banca": "FCC",
+    "orgao": "TRT - 2ª REGIÃO (SP)",
+    "ano": 2018,
+    "prova": "FCC - 2018 - TRT - 2ª REGIÃO (SP) - Analista Judiciário -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "Um profissional de enfermagem ao participar do treinamento admissional foi informado que, anualmente, todos os gestores das unidades realizam a avaliação de desempenho da sua equipe. No modelo adotado pela instituição, a avaliação é realizada em conjunto entre avaliador e avaliado, a ferramenta de avaliação é analisada ao mesmo tempo e discutida pelos dois. De acordo com Chiavenato, 2010, esse modelo é chamado de avaliação de desempenho",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "por objetivo."
+      },
+      {
+        "id": "B",
+        "texto": "90 graus."
+      },
+      {
+        "id": "C",
+        "texto": "360 graus."
+      },
+      {
+        "id": "D",
+        "texto": "180 graus."
+      },
+      {
+        "id": "E",
+        "texto": "direta e com apoio dos recursos humanos."
+      }
+    ],
+    "resposta_correta": "D",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('180 graus.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'por objetivo....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '90 graus....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '360 graus....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'direta e com apoio dos recursos humanos....' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('180 graus.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0464",
+    "numero_ordem": 464
+  },
+  {
+    "codigo_origem": "Q839924",
+    "numero_original": 684,
+    "banca": "FCC",
+    "orgao": "TRT - 24ª REGIÃO (MS)",
+    "ano": 2017,
+    "prova": "FCC - 2017 - TRT - 24ª REGIÃO (MS) - Técnico Judiciário -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "É delegado ao Técnico de Enfermagem realizar o levantamento das necessidades de material de consumo da sua unidade de trabalho, devendo ser identificada a quantidade e a especificação do material para suprir essas necessidades. Considerando a Gestão de Materiais, esta ação corresponde a função de",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Provisão."
+      },
+      {
+        "id": "B",
+        "texto": "Reposição."
+      },
+      {
+        "id": "C",
+        "texto": "Previsão."
+      },
+      {
+        "id": "D",
+        "texto": "Estocagem."
+      },
+      {
+        "id": "E",
+        "texto": "Controle de Consumo."
+      }
+    ],
+    "resposta_correta": "C",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('Previsão.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Provisão....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Reposição....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Estocagem....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Controle de Consumo....' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('Previsão.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0519",
+    "numero_ordem": 519
+  },
+  {
+    "codigo_origem": "Q764302",
+    "numero_original": 853,
+    "banca": "FCC",
+    "orgao": "TRT - 20ª REGIÃO (SE)",
+    "ano": 2016,
+    "prova": "FCC - 2016 - TRT - 20ª REGIÃO (SE) - Analista Judiciário -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "No processo de avaliação de desempenho da sua equipe, o enfermeiro deve planejar o momento da entrevista de avaliação, considerando o(s) seguinte(s) aspecto(s):",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "ambiente tranquilo, livre de interrupções ou distrações."
+      },
+      {
+        "id": "B",
+        "texto": "o avaliador, em especial, deve ser colocado à vontade."
+      },
+      {
+        "id": "C",
+        "texto": "a entrevista deve ser iniciada pela abordagem das atitudes negativas."
+      },
+      {
+        "id": "D",
+        "texto": "os pontos problemáticos não necessitam de justificativas concretas."
+      },
+      {
+        "id": "E",
+        "texto": "o diálogo deve ser prioritariamente crítico e com base em avaliações anteriores."
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('ambiente tranquilo, livre de interrupções ou distrações.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'o avaliador, em especial, deve ser colocado à vontade....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'a entrevista deve ser iniciada pela abordagem das atitudes negativas....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'os pontos problemáticos não necessitam de justificativas concretas....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'o diálogo deve ser prioritariamente crítico e com base em avaliações anteriores....' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('ambiente tranquilo, livre de interrupções ou distrações.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0688",
+    "numero_ordem": 688
+  },
+  {
+    "codigo_origem": "Q764301",
+    "numero_original": 854,
+    "banca": "FCC",
+    "orgao": "TRT - 20ª REGIÃO (SE)",
+    "ano": 2016,
+    "prova": "FCC - 2016 - TRT - 20ª REGIÃO (SE) - Analista Judiciário -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "Atualmente, para que as organizações consigam conquistar bons resultados, é essencial o gestor investir em atividades que visem à melhoria da qualidade de vida dos colaboradores e do ambiente de trabalho. Ao realizar um levantamento que caracteriza as percepções dos colaboradores internos sobre temas e itens que, caso apresentem distorções indesejáveis, afetam negativamente o nível de satisfação dos colaboradores na situação de trabalho, o gestor, de acordo com Chiavenato, estará realizando",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Observatório da Saúde."
+      },
+      {
+        "id": "B",
+        "texto": "Estudo de Desempenho Técnico."
+      },
+      {
+        "id": "C",
+        "texto": "Avaliação Reacional Objetiva."
+      },
+      {
+        "id": "D",
+        "texto": "Pesquisa Qualitativa de Conteúdos."
+      },
+      {
+        "id": "E",
+        "texto": "Pesquisa de Clima Organizacional."
+      }
+    ],
+    "resposta_correta": "E",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [E] ('Pesquisa de Clima Organizacional.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Observatório da Saúde....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Estudo de Desempenho Técnico....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Avaliação Reacional Objetiva....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Pesquisa Qualitativa de Conteúdos....' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [E] ('Pesquisa de Clima Organizacional.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0689",
+    "numero_ordem": 689
+  },
+  {
+    "codigo_origem": "Q764300",
+    "numero_original": 855,
+    "banca": "FCC",
+    "orgao": "TRT - 20ª REGIÃO (SE)",
+    "ano": 2016,
+    "prova": "FCC - 2016 - TRT - 20ª REGIÃO (SE) - Analista Judiciário -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Administração, Gestão e Auditoria",
+    "enunciado": "O dimensionamento de profissionais de enfermagem é considerado um instrumento gerencial. Para operacionalizar este processo o Conselho Federal de Enfermagem, indicou parâmetros para dimensionar o quantitativo mínimo dos diferentes níveis de formação dos profissionais de enfermagem para a cobertura assistencial nas instituições de saúde. Um desses parâmetros é",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "o cálculo da carga horária relativa ao tempo efetivo de descanso noturno."
+      },
+      {
+        "id": "B",
+        "texto": "o cálculo da quantidade média mensal de pacientes assistidos segundo o tipo de cuidado."
+      },
+      {
+        "id": "C",
+        "texto": "o Sistema de Classificação de Pacientes."
+      },
+      {
+        "id": "D",
+        "texto": "a distribuição da média do absenteísmo por categoria profissional."
+      },
+      {
+        "id": "E",
+        "texto": "o Índice de Segurança Técnica para a cobertura das folgas por descanso semanal remunerado."
+      }
+    ],
+    "resposta_correta": "C",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('o Sistema de Classificação de Pacientes.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'o cálculo da carga horária relativa ao tempo efetivo de descanso noturno....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'o cálculo da quantidade média mensal de pacientes assistidos segundo o tipo de c...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'a distribuição da média do absenteísmo por categoria profissional....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'o Índice de Segurança Técnica para a cobertura das folgas por descanso semanal r...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('o Sistema de Classificação de Pacientes.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0690",
+    "numero_ordem": 690
+  }
+];
+export default questoes;
