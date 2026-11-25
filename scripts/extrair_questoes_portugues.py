@@ -21,8 +21,10 @@ import unicodedata
 from pathlib import Path
 from collections import Counter
 
-BASE_DIR = Path("/home/antigravity")
-PDF_DIR = BASE_DIR / "01_PDFS_DE_REFERENCIA" / "prefeituras" / "portugues"
+BASE_DIR = Path(__file__).resolve().parent.parent if "__file__" in locals() else Path("/home/antigravity")
+PDF_DIR = BASE_DIR / "01_PDFS_DE_REFERENCIA" / "prefeituras" / "portugues_selecon"
+if not PDF_DIR.exists():
+    PDF_DIR = BASE_DIR / "01_PDFS_DE_REFERENCIA" / "prefeituras" / "portugues"
 BANCO_DIR = BASE_DIR / "02_BANCO_DE_QUESTOES"
 MATERIA_DIR = BANCO_DIR / "por_materia" / "portugues"
 EXPORT_DIR = BASE_DIR / "04_EXPORTACOES_E_BACKUPS"

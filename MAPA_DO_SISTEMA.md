@@ -11,8 +11,10 @@ Tudo foi estruturado em pastas numeradas, limpas e de fácil acesso para você e
 │
 ├── 📂 01_PDFS_DE_REFERENCIA/                 <-- Onde ficam seus PDFs originais
 │   ├── 📁 prefeituras/
-│   │   ├── 📁 enfermagem/                   (47 Cadernos e Provas de Enfermagem SELECON)
-│   │   └── 📁 portugues/                    (57 Cadernos e Provas de Língua Portuguesa SELECON)
+│   │   ├── 📁 enfermagem_selecon/           (Cadernos e Provas de Enfermagem SELECON)
+│   │   ├── 📁 portugues_selecon/            (Cadernos e Provas de Língua Portuguesa SELECON)
+│   │   ├── 📁 enfermagem_fcc/               (Provas de Enfermagem da FCC)
+│   │   └── 📁 portugues_fcc/                (Provas de Língua Portuguesa da FCC)
 │   ├── 📁 concursos_maiores/                (EBSERH, Federais, Fiocruz)
 │   └── 📁 cadernos_simulados/               (Apostilas e simulados prontos em PDF)
 │
@@ -54,4 +56,5 @@ Tudo foi estruturado em pastas numeradas, limpas e de fácil acesso para você e
 2. **Para abrir no Excel ou Google Planilhas:**
    * Basta abrir o arquivo `04_EXPORTACOES_E_BACKUPS/questoes_backup_completo.csv`.
 3. **Para colocar novas provas em PDF:**
-   * Basta colocar em `01_PDFS_DE_REFERENCIA/prefeituras/enfermagem/` ou `01_PDFS_DE_REFERENCIA/prefeituras/portugues/`.
+   * Provas SELECON: `01_PDFS_DE_REFERENCIA/prefeituras/enfermagem_selecon/` ou `portugues_selecon/`.
+   * Provas FCC: `01_PDFS_DE_REFERENCIA/prefeituras/enfermagem_fcc/` ou `portugues_fcc/`.

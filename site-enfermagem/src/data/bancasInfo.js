@@ -5,6 +5,7 @@
 
 export const BANCAS_PRECONFIGURADAS = [
   'SELECON',
+  'FCC',
   'VUNESP',
   'IBAM',
   'Instituto AOCP',
@@ -81,6 +82,75 @@ export const INSIGHTS_POR_BANCA = {
         tag: 'Padrão da Banca',
         title: 'Consistência das Respostas Oficiais',
         text: 'A SELECON mantém fidelidade estrita à norma culta tradicional (Cegalla/Bechara) e às diretrizes consolidadas do Ministério da Saúde.'
+      }
+    }
+  },
+  FCC: {
+    nome: 'FCC (Fundação Carlos Chagas)',
+    Enfermagem: {
+      foco1: {
+        tag: 'Padrão Clássico FCC',
+        title: 'Casos Clínicos & Protocolos Assistenciais',
+        text: 'A FCC é reconhecida por enunciados estruturados em casos clínicos completos, cobrando a conduta imediata do profissional de enfermagem e os protocolos ministeriais atualizados.'
+      },
+      ponto: {
+        tag: 'Ponto Garantido',
+        title: 'Legislação SUS & Imunização PNI',
+        text: 'Cobrança tradicional dos artigos da Lei 8.080/90 e 8.142/90, além dos esquemas vacinais do Calendário Nacional do Ministério da Saúde.'
+      },
+      perfil: {
+        tag: 'Diferencial de Pontuação',
+        title: 'Urgência, Emergência e UTI',
+        text: 'A FCC valoriza raciocínio de suporte básico e avançado de vida (diretrizes AHA), parada cardiorrespiratória e farmacologia aplicada.'
+      },
+      sus: {
+        tag: 'Atenção Primária',
+        title: 'Estratégia Saúde da Família',
+        text: 'Atenção Básica, visitas domiciliares, acompanhamento de pré-natal e doenças crônicas (HAS e Diabetes).'
+      }
+    },
+    'Língua Portuguesa': {
+      foco1: {
+        tag: 'Estilo Inconfundível FCC',
+        title: 'Concordância, Regência e Voz Passiva',
+        text: 'A FCC é famosa por cobrar a correta transposição de voz ativa para passiva e a identificação precisa do verbo concordando com o núcleo do sujeito.'
+      },
+      ponto: {
+        tag: 'Ponto Garantido',
+        title: 'Pronomes & Redação Oficial',
+        text: 'Colocação pronominal refinada, emprego de pronomes relativos e adequação frasal.'
+      },
+      perfil: {
+        tag: 'Sintaxe e Pontuação',
+        title: 'Sentido e Correção Gramatical',
+        text: 'Questões onde se pede para reescrever o período mantendo a correção e o sentido original.'
+      },
+      sus: {
+        tag: 'Interpretação Textual',
+        title: 'Artigos de Opinião e Filosofia',
+        text: 'Textos reflexivos, filosóficos ou jornalísticos, exigindo apreensão da linha argumentativa.'
+      }
+    },
+    Todas: {
+      foco1: {
+        tag: 'Perfil da Prova FCC',
+        title: 'Rigor Conceitual e Casos Concretos',
+        text: 'Provas equilibradas, com alto rigor técnico e enunciados bem elaborados, sem dubiedades.'
+      },
+      ponto: {
+        tag: 'Ponto Garantido',
+        title: 'Gramática Aplicada e Legislação do SUS',
+        text: 'Garantir pontuação máxima em legislação de saúde pública e morfossintaxe é decisivo para alcançar as primeiras colocações.'
+      },
+      perfil: {
+        tag: 'Critério de Desempate',
+        title: 'Atenção aos Detalhes de Cada Alternativa',
+        text: 'A FCC trabalha com distratores sutis. Leia atentamente cada alternativa identificando o desvio pontual.'
+      },
+      sus: {
+        tag: 'Referência Bibliográfica',
+        title: 'Manuais do Ministério da Saúde e COFEN',
+        text: 'Fidelidade estrita aos cadernos de atenção básica e às resoluções do COFEN/COREN.'
       }
     }
   },

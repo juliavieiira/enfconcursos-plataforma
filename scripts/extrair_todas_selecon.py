@@ -10,8 +10,11 @@ import re
 import json
 from pathlib import Path
 
-PDF_DIR = Path("/home/antigravity/01_PDFS_DE_REFERENCIA/prefeituras/enfermagem")
-OUTPUT_JSON = Path("/home/antigravity/02_BANCO_DE_QUESTOES/questoes_selecon_brutas.json")
+BASE_DIR = Path(__file__).resolve().parent.parent if "__file__" in locals() else Path("/home/antigravity")
+PDF_DIR = BASE_DIR / "01_PDFS_DE_REFERENCIA" / "prefeituras" / "enfermagem_selecon"
+if not PDF_DIR.exists():
+    PDF_DIR = BASE_DIR / "01_PDFS_DE_REFERENCIA" / "prefeituras" / "enfermagem"
+OUTPUT_JSON = BASE_DIR / "02_BANCO_DE_QUESTOES" / "questoes_selecon_brutas.json"
 
 def extrair_numero_pagina(caminho):
     m = re.search(r'(?:Página|_0?)\s*(\d+)', str(caminho))
