@@ -33,6 +33,7 @@ import { useAuth } from './context/useAuth.js';
 import UserHeaderMenu from './components/UserHeaderMenu.jsx';
 import AuthModal from './components/AuthModal.jsx';
 import UpgradeModal from './components/UpgradeModal.jsx';
+import TextoEnunciado from './components/TextoEnunciado.jsx';
 
 const CURRENT_YEAR = new Date().getFullYear();
 
@@ -689,9 +690,7 @@ export default function App() {
                           </div>
                         </div>
 
-                        <p className="question-text" style={{ fontSize: '1.08rem', lineHeight: '1.75' }}>
-                          <strong>Enunciado:</strong> {q.enunciado || 'Analise as alternativas abaixo e assinale a opção correta:'}
-                        </p>
+                        <TextoEnunciado enunciado={q.enunciado} questaoId={q.id} />
 
                         <div className="alternativas-list">
                           {(q.alternativas || []).map(alt => {
@@ -1439,9 +1438,7 @@ export default function App() {
                             </div>
                           </div>
 
-                          <p className="question-text" style={{ fontSize: '1.08rem', lineHeight: '1.75' }}>
-                            <strong>Enunciado:</strong> {q.enunciado || 'Analise as alternativas abaixo e assinale a opção correta:'}
-                          </p>
+                          <TextoEnunciado enunciado={q.enunciado} questaoId={q.id} />
 
                           <div className="alternativas-list">
                             {(q.alternativas || []).map(alt => (
@@ -1694,9 +1691,7 @@ export default function App() {
                                       </div>
                                     </div>
 
-                                    <p style={{ fontSize: '1.02rem', lineHeight: '1.7', color: '#1e293b', marginBottom: '1rem' }}>
-                                      <strong>Enunciado:</strong> {q.enunciado}
-                                    </p>
+                                    <TextoEnunciado enunciado={q.enunciado} questaoId={`rev-${q.id}`} />
 
                                     {/* Alternativas */}
                                     <div style={{ display: 'flex', flexDirection: 'column', gap: '0.45rem', marginBottom: '1.15rem' }}>
