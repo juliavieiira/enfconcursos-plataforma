@@ -30,6 +30,10 @@ import {
   Building2,
   RotateCcw
 } from 'lucide-react';
+import { useAuth } from './context/useAuth.js';
+import UserHeaderMenu from './components/UserHeaderMenu.jsx';
+import AuthModal from './components/AuthModal.jsx';
+import UpgradeModal from './components/UpgradeModal.jsx';
 
 const CURRENT_YEAR = new Date().getFullYear();
 
@@ -90,8 +94,16 @@ export default function App() {
   const [simuladoBanca, setSimuladoBanca] = useState('SELECON');
   const [simuladoBancaDropdownAberto, setSimuladoBancaDropdownAberto] = useState(false);
 
-  // Modal VIP
-  const [modalVipAberto, setModalVipAberto] = useState(false);
+  // Contexto de Autenticação, Usuário e Limites
+  const {
+    isVip,
+    questoesRespondidasHoje,
+    limiteDiario,
+    questoesRestantesHoje,
+    podeResponderQuestao,
+    registrarResposta,
+    abrirModalUpgrade
+  } = useAuth();
 
   const nomeAssuntoAtivo = filtroAssunto !== 'Todos' ? filtroAssunto : null;
 
@@ -349,14 +361,23 @@ export default function App() {
 
   const confirmarResposta = (questaoId, respostaCorreta) => {
     if (!respostas[questaoId]?.selecionada) return;
+
+    if (!podeResponderQuestao()) {
+      abrirModalUpgrade();
+      return;
+    }
+
+    const acertou = respostas[questaoId].selecionada === respostaCorreta;
     setRespostas(prev => ({
       ...prev,
       [questaoId]: {
         ...prev[questaoId],
         confirmada: true,
-        acertou: prev[questaoId].selecionada === respostaCorreta
+        acertou
       }
     }));
+
+    registrarResposta(questaoId, acertou);
   };
 
   const iniciarSimulado = (simuladoId) => {
@@ -420,10 +441,7 @@ export default function App() {
               <FolderOpen size={17} />
               <span>PDFs & Provas</span>
             </button>
-            <button className="btn-vip-nav" onClick={() => setModalVipAberto(true)}>
-              <Sparkles size={16} />
-              <span>Acesso VIP R$37</span>
-            </button>
+            <UserHeaderMenu />
           </div>
         </div>
       </nav>
@@ -619,6 +637,22 @@ export default function App() {
               </div>
             ) : (
               <>
+                {/* Banner de Cota Diária para Usuários do Plano Gratuito */}
+                {!isVip && (
+                  <div className="quota-banner animate-fade-in">
+                    <div className="quota-banner-left">
+                      <Zap size={16} color="#0d9488" />
+                      <span>
+                        Cota Diária Gratuita: <strong>{questoesRespondidasHoje} de {limiteDiario}</strong> questões respondidas hoje ({questoesRestantesHoje} restantes)
+                      </span>
+                    </div>
+                    <button type="button" className="quota-banner-btn" onClick={abrirModalUpgrade}>
+                      <Sparkles size={12} />
+                      <span>Ser VIP Ilimitado</span>
+                    </button>
+                  </div>
+                )}
+
                 {/* MODO INDIVIDUAL FOCADO (1 QUESTÃO POR VEZ) */}
                 {questaoAtual && (() => {
                   const q = questaoAtual;
@@ -694,27 +728,54 @@ export default function App() {
 
                         <div className="question-actions" style={{ marginTop: '1.25rem' }}>
                           {!confirmada ? (
-                            <div style={{ display: 'flex', justifyContent: 'flex-end' }}>
-                              <button
-                                className="btn-primary"
-                                onClick={() => confirmarResposta(q.id, q.resposta_correta)}
-                                disabled={!resp?.selecionada}
-                                style={{
-                                  padding: '0.9rem 2.5rem',
-                                  fontSize: '1.05rem',
-                                  fontWeight: 700,
-                                  background: resp?.selecionada ? '#0d9488' : '#94a3b8',
-                                  cursor: resp?.selecionada ? 'pointer' : 'not-allowed',
-                                  boxShadow: resp?.selecionada ? '0 4px 14px rgba(13, 148, 136, 0.3)' : 'none',
-                                  display: 'inline-flex',
-                                  alignItems: 'center',
-                                  gap: '0.5rem'
-                                }}
-                              >
-                                <CheckCircle2 size={20} />
-                                <span>Responder Questão</span>
-                              </button>
-                            </div>
+                            !podeResponderQuestao() ? (
+                              <div className="quota-limit-box animate-fade-in" style={{ margin: '0 0 1rem' }}>
+                                <div style={{ fontSize: '1.8rem', marginBottom: '0.25rem' }}>⚡</div>
+                                <h4>Você atingiu o limite de {limiteDiario} questões gratuitas de hoje!</h4>
+                                <p>
+                                  Sua cota diária renova automaticamente à meia-noite. Assine o <strong>Plano VIP PRO</strong> para ter acesso ilimitado a todas as 3.884 questões com gabarito comentado, simulados cronometrados e cadernos em PDF.
+                                </p>
+                                <button
+                                  type="button"
+                                  className="btn-primary"
+                                  onClick={abrirModalUpgrade}
+                                  style={{
+                                    padding: '0.85rem 1.75rem',
+                                    background: '#d97706',
+                                    fontSize: '0.98rem',
+                                    boxShadow: '0 4px 14px rgba(217, 119, 6, 0.35)',
+                                    display: 'inline-flex',
+                                    alignItems: 'center',
+                                    gap: '0.5rem'
+                                  }}
+                                >
+                                  <Sparkles size={18} />
+                                  <span>Desbloquear Acesso Ilimitado VIP</span>
+                                </button>
+                              </div>
+                            ) : (
+                              <div style={{ display: 'flex', justifyContent: 'flex-end' }}>
+                                <button
+                                  className="btn-primary"
+                                  onClick={() => confirmarResposta(q.id, q.resposta_correta)}
+                                  disabled={!resp?.selecionada}
+                                  style={{
+                                    padding: '0.9rem 2.5rem',
+                                    fontSize: '1.05rem',
+                                    fontWeight: 700,
+                                    background: resp?.selecionada ? '#0d9488' : '#94a3b8',
+                                    cursor: resp?.selecionada ? 'pointer' : 'not-allowed',
+                                    boxShadow: resp?.selecionada ? '0 4px 14px rgba(13, 148, 136, 0.3)' : 'none',
+                                    display: 'inline-flex',
+                                    alignItems: 'center',
+                                    gap: '0.5rem'
+                                  }}
+                                >
+                                  <CheckCircle2 size={20} />
+                                  <span>Responder Questão</span>
+                                </button>
+                              </div>
+                            )
                           ) : (
                             <div className="feedback-result-card animate-fade-in" style={{
                               display: 'flex',
@@ -2169,68 +2230,16 @@ export default function App() {
             <div style={{ textDecoration: 'line-through', color: '#94a3b8', fontSize: '0.9rem' }}>De R$ 97,00 por</div>
             <div className="vip-price">R$ 37,90</div>
             <div style={{ fontSize: '0.8rem', color: '#cbd5e1', marginBottom: '1rem' }}>Pagamento único • Acesso Vitalício</div>
-            <button className="btn-vip-cta" onClick={() => setModalVipAberto(true)}>
+            <button className="btn-vip-cta" onClick={abrirModalUpgrade}>
               Garantir Minha Vaga VIP
             </button>
           </div>
         </section>
       </main>
 
-      {/* MODAL DE CHECKOUT VIP */}
-      {modalVipAberto && (
-        <div className="modal-overlay" onClick={() => setModalVipAberto(false)}>
-          <div className="modal-content animate-fade-in" onClick={e => e.stopPropagation()}>
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1.25rem' }}>
-              <h3 style={{ fontSize: '1.3rem' }}>Acesso VIP EnfConcursos</h3>
-              <button
-                onClick={() => setModalVipAberto(false)}
-                style={{ background: 'none', border: 'none', fontSize: '1.3rem', cursor: 'pointer', color: '#64748b' }}
-              >
-                ✕
-              </button>
-            </div>
-
-            <p style={{ color: '#475569', fontSize: '0.92rem', marginBottom: '1.25rem' }}>
-              Desbloqueie agora todo o potencial da plataforma com garantia incondicional de 7 dias:
-            </p>
-
-            <ul style={{ listStyle: 'none', display: 'flex', flexDirection: 'column', gap: '0.65rem', marginBottom: '1.5rem', fontSize: '0.9rem' }}>
-              <li style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', color: '#166534' }}>
-                <CheckCircle2 size={18} color="#10b981" />
-                Mais de 10.000 questões comentadas alternativa por alternativa
-              </li>
-              <li style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', color: '#166534' }}>
-                <CheckCircle2 size={18} color="#10b981" />
-                Simulados cronometrados com nota de corte por município
-              </li>
-              <li style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', color: '#166534' }}>
-                <CheckCircle2 size={18} color="#10b981" />
-                Download de cadernos de questões em PDF para imprimir
-              </li>
-              <li style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', color: '#166534' }}>
-                <CheckCircle2 size={18} color="#10b981" />
-                Atualizações com novos editais e provas de 2024 a 2026
-              </li>
-            </ul>
-
-            <div style={{ background: '#f8fafc', border: '1px dashed #cbd5e1', borderRadius: '8px', padding: '1rem', textAlign: 'center', marginBottom: '1.25rem' }}>
-              <div style={{ fontSize: '0.8rem', color: '#64748b', textTransform: 'uppercase', fontWeight: 700 }}>Chave Pix Instantânea</div>
-              <div style={{ fontSize: '1.4rem', fontWeight: 800, color: '#0d9488', margin: '0.25rem 0' }}>R$ 37,90</div>
-              <div style={{ fontSize: '0.75rem', color: '#10b981', fontWeight: 600 }}>Liberação automática imediata após o pagamento</div>
-            </div>
-
-            <button
-              className="btn-primary"
-              style={{ width: '100%', justifyContent: 'center', padding: '0.85rem' }}
-              onClick={() => {
-                alert('Integração de checkout pronta! Podemos conectar com sua conta Kiwify, Mercado Pago ou Hotmart.');
-              }}
-            >
-              Copiar Código Pix & Desbloquear
-            </button>
-          </div>
-        </div>
-      )}
+      {/* Modais Globais: Autenticação / Cadastro e Upgrade VIP */}
+      <AuthModal />
+      <UpgradeModal />
 
       {/* Footer com Links SEO */}
       <footer className="footer">
