@@ -1,5 +1,6 @@
 // Catálogo auditado de disciplinas e assuntos para EnfConcursos
 // Baseado fielmente no acervo de 3.884 questões auditadas (SELECON & FCC)
+import { supabase, isSupabaseConfigured } from '../lib/supabaseClient';
 
 export const ASSUNTOS_PORTUGUES = [
   {
@@ -291,8 +292,33 @@ async function carregarChunkPorSlug(slug) {
   return [];
 }
 
-// Carregamento sob demanda ultra-rápido por assunto selecionado
+// Carregamento sob demanda ultra-rápido por assunto selecionado (suporta Supabase em nuvem e Chunks locais)
 export async function carregarQuestoesAssunto(materia, nomeAssunto) {
+  // 1. Se o Supabase estiver configurado com credenciais reais, consulta direto a nuvem (+20.000 questões)
+  if (typeof isSupabaseConfigured === 'function' && isSupabaseConfigured() && supabase) {
+    try {
+      const cacheKey = `sb::${materia}::${nomeAssunto || 'Todos'}`;
+      if (cacheQuestoesChunks.has(cacheKey)) {
+        return cacheQuestoesChunks.get(cacheKey);
+      }
+      let query = supabase.from('questoes').select('*').eq('ativo', true);
+      if (materia && materia !== 'Todas') {
+        query = query.eq('materia', materia);
+      }
+      if (nomeAssunto && nomeAssunto !== 'Todos') {
+        query = query.eq('assunto', nomeAssunto);
+      }
+      const { data, error } = await query.order('id', { ascending: true });
+      if (!error && Array.isArray(data) && data.length > 0) {
+        cacheQuestoesChunks.set(cacheKey, data);
+        return data;
+      }
+    } catch (err) {
+      console.warn('Consulta ao Supabase falhou, utilizando chunks estáticos como fallback:', err);
+    }
+  }
+
+  // 2. Fallback de alta performance via chunks modulares estáticos
   const slug = getSlugPorAssunto(materia, nomeAssunto);
 
   if (slug === 'todas_geral') {
@@ -312,6 +338,7 @@ export async function carregarQuestoesAssunto(materia, nomeAssunto) {
 
   return carregarChunkPorSlug(slug);
 }
+
 
 // Helper para testar se uma questão corresponde ao assunto selecionado
 export function questaoPertenceAoAssunto(questao, nomeAssunto) {
