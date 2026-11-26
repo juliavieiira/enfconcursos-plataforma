@@ -210,12 +210,9 @@ def classificar_assunto_enfermagem(assunto_raw, enunciado, prova):
     return 'Fundamentos e Procedimentos de Enfermagem'
 
 
-def resumo_alternativa(texto, limite=110):
-    t = texto.strip()
-    if len(t) <= limite:
-        return t
-    corte = t[:limite].rsplit(' ', 1)[0]
-    return corte + '...'
+def resumo_alternativa(texto, limite=None):
+    return texto.strip().rstrip('.')
+
 
 
 def gerar_explicacao_enfermagem(q):

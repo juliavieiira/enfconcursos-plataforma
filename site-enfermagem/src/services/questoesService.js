@@ -1,7 +1,7 @@
 import { supabase, isSupabaseConfigured } from '../lib/supabaseClient';
 
 const PAGE_SIZE_DEFAULT = 20;
-const STATS_CACHE_KEY = 'enfconcursos_supabase_stats_v1';
+const STATS_CACHE_KEY = 'enfconcursos_supabase_stats_v2';
 const STATS_TTL_MS = 5 * 60 * 1000; // 5 minutos
 
 // Cache em memória de páginas já buscadas (evita re-fetch ao avançar/voltar)
@@ -119,7 +119,7 @@ export async function buscarQuestoesPaginadas({
  * Usa RPC `obter_estatisticas_acervo` se disponível, com fallback paginado superleve automático.
  */
 export async function carregarEstatisticasAcervo() {
-  if (statsMemoryCache) {
+  if (statsMemoryCache && statsMemoryCache.totalGeral > 0) {
     return statsMemoryCache;
   }
 
@@ -127,7 +127,13 @@ export async function carregarEstatisticasAcervo() {
     const cachedRaw = sessionStorage.getItem(STATS_CACHE_KEY);
     if (cachedRaw) {
       const parsed = JSON.parse(cachedRaw);
-      if (parsed && parsed.timestamp && Date.now() - parsed.timestamp < STATS_TTL_MS && Array.isArray(parsed.rows)) {
+      if (
+        parsed &&
+        parsed.timestamp &&
+        Date.now() - parsed.timestamp < STATS_TTL_MS &&
+        Array.isArray(parsed.rows) &&
+        parsed.rows.length > 0
+      ) {
         statsMemoryCache = construirResumoEstatisticas(parsed.rows);
         return statsMemoryCache;
       }
@@ -140,6 +146,19 @@ export async function carregarEstatisticasAcervo() {
     return construirResumoEstatisticas([]);
   }
 
+  const salvarCache = (rows) => {
+    const resumo = construirResumoEstatisticas(rows);
+    if (resumo.totalGeral > 0) {
+      statsMemoryCache = resumo;
+      try {
+        sessionStorage.setItem(STATS_CACHE_KEY, JSON.stringify({ timestamp: Date.now(), rows }));
+      } catch {
+        // ignore storage quota
+      }
+    }
+    return resumo;
+  };
+
   // Tentativa 1: RPC ultra-rápida no servidor PostgreSQL (1 única chamada < 20ms mesmo com 100.000 questões)
   try {
     const { data, error } = await supabase.rpc('obter_estatisticas_acervo');
@@ -151,43 +170,50 @@ export async function carregarEstatisticasAcervo() {
         cargo: r.cargo,
         total: Number(r.total) || 0
       }));
-      statsMemoryCache = construirResumoEstatisticas(rows);
-      try {
-        sessionStorage.setItem(STATS_CACHE_KEY, JSON.stringify({ timestamp: Date.now(), rows }));
-      } catch {
-        // ignore storage quota
-      }
-      return statsMemoryCache;
+      return salvarCache(rows);
     }
   } catch {
     // Fallback abaixo
   }
 
-  // Tentativa 2 (Fallback automático): varredura leve paginada apenas das 4 colunas de metadados
-  const mapaAgregado = new Map();
+  // Tentativa 2 (Fallback automático): 1ª página + demais páginas em paralelo (4x mais rápido)
   const batchSize = 1000;
-  let offset = 0;
+  const firstRes = await supabase
+    .from('questoes')
+    .select('banca,materia,assunto,cargo', { count: 'exact' })
+    .eq('ativo', true)
+    .range(0, batchSize - 1);
 
-  while (true) {
-    const { data, error } = await supabase
-      .from('questoes')
-      .select('banca,materia,assunto,cargo')
-      .eq('ativo', true)
-      .range(offset, offset + batchSize - 1);
+  if (firstRes.error || !Array.isArray(firstRes.data) || firstRes.data.length === 0) {
+    return construirResumoEstatisticas([]);
+  }
 
-    if (error || !Array.isArray(data) || data.length === 0) {
-      break;
+  const allMeta = [...firstRes.data];
+  const totalCount = typeof firstRes.count === 'number' ? firstRes.count : firstRes.data.length;
+
+  if (totalCount > batchSize) {
+    const promises = [];
+    for (let offset = batchSize; offset < totalCount; offset += batchSize) {
+      promises.push(
+        supabase
+          .from('questoes')
+          .select('banca,materia,assunto,cargo')
+          .eq('ativo', true)
+          .range(offset, offset + batchSize - 1)
+      );
     }
-
-    for (const q of data) {
-      const key = `${q.banca}||${q.materia}||${q.assunto}||${q.cargo || ''}`;
-      mapaAgregado.set(key, (mapaAgregado.get(key) || 0) + 1);
+    const results = await Promise.all(promises);
+    for (const r of results) {
+      if (!r.error && Array.isArray(r.data)) {
+        allMeta.push(...r.data);
+      }
     }
+  }
 
-    if (data.length < batchSize) {
-      break;
-    }
-    offset += batchSize;
+  const mapaAgregado = new Map();
+  for (const q of allMeta) {
+    const key = `${q.banca}||${q.materia}||${q.assunto}||${q.cargo || ''}`;
+    mapaAgregado.set(key, (mapaAgregado.get(key) || 0) + 1);
   }
 
   const rows = [];
@@ -196,14 +222,7 @@ export async function carregarEstatisticasAcervo() {
     rows.push({ banca, materia, assunto, cargo, total });
   }
 
-  statsMemoryCache = construirResumoEstatisticas(rows);
-  try {
-    sessionStorage.setItem(STATS_CACHE_KEY, JSON.stringify({ timestamp: Date.now(), rows }));
-  } catch {
-    // ignore storage quota
-  }
-
-  return statsMemoryCache;
+  return salvarCache(rows);
 }
 
 function construirResumoEstatisticas(rows) {

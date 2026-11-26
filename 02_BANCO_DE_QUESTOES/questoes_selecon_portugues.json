@@ -503,7 +503,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"vincula a passagem do eclipse à cobertura integral da Europa, destacando sua extensão por todo o continente...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"vincula a passagem do eclipse à cobertura integral da Europa, destacando sua extensão por todo o continente europeu\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0010",
@@ -1625,7 +1625,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"substitui a atuação docente por mecanismos automatizados de identificação das necessidades dos estudantes 38...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"substitui a atuação docente por mecanismos automatizados de identificação das necessidades dos estudantes 38 Ano: 2026\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0032",
@@ -3198,11 +3198,11 @@
     "analise_distratores": [
       {
         "letra": "B",
-        "motivo": "Incorreta: \"têm pronúncia idêntica e grafia diferente, enquanto homônimos têm grafia idêntica e pronúncia diferente,...\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"têm pronúncia idêntica e grafia diferente, enquanto homônimos têm grafia idêntica e pronúncia diferente, sendo a distinção entre eles estritamente ortográfica\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: \"têm significados opostos e grafia idêntica, podendo ser substituídas uma pela outra sem prejuízo semântico em...\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"têm significados opostos e grafia idêntica, podendo ser substituídas uma pela outra sem prejuízo semântico em determinados contextos\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "D",
@@ -3249,15 +3249,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: \"metáfora e eufemismo, pois \"gritou\" transfere ao silêncio uma propriedade alheia e \"mais alto do que qualquer...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"metáfora e eufemismo, pois \"gritou\" transfere ao silêncio uma propriedade alheia e \"mais alto do que qualquer palavra\" suaviza a afirmação de que o silêncio foi absoluto\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: \"sinestesia e gradação, pois combina-se a percepção auditiva de \"gritou\" com a espacial de \"mais alto\",...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"sinestesia e gradação, pois combina-se a percepção auditiva de \"gritou\" com a espacial de \"mais alto\", criando progressão ascendente de intensidade\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: \"hipérbole e antítese, pois exagera-se a intensidade do silêncio e opõem-se os termos \"silêncio\" e \"palavra\"...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"hipérbole e antítese, pois exagera-se a intensidade do silêncio e opõem-se os termos \"silêncio\" e \"palavra\" como conceitos contrários\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       }
     ],
     "id": "PT0064",
@@ -3300,11 +3300,11 @@
     "analise_distratores": [
       {
         "letra": "B",
-        "motivo": "Incorreta: \"solecismo de regência, uma vez que o verbo \"ver\" exige objeto direto preposicionado, e a forma \"ela\" deveria...\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"solecismo de regência, uma vez que o verbo \"ver\" exige objeto direto preposicionado, e a forma \"ela\" deveria ser substituída por \"a ela\"\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: \"solecismo de concordância, pois o pronome \"ela\" não concorda em caso com a função de objeto direto exigida...\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"solecismo de concordância, pois o pronome \"ela\" não concorda em caso com a função de objeto direto exigida pelo verbo \"ver\"\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "D",
@@ -3351,15 +3351,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: \"narrativo, pois relata cronologicamente a trajetória de declínio e retomada da escrita cursiva em diferentes...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"narrativo, pois relata cronologicamente a trajetória de declínio e retomada da escrita cursiva em diferentes países, organizando os fatos em sequência temporal\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: \"descritivo, pois se dedica a caracterizar detalhadamente as propriedades neurológicas da escrita cursiva e os...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"descritivo, pois se dedica a caracterizar detalhadamente as propriedades neurológicas da escrita cursiva e os contextos educacionais em que ela é ou não adotada\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: \"injuntivo, pois, ao apresentar os benefícios da escrita cursiva e as experiências bem-sucedidas de Ontário e...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"injuntivo, pois, ao apresentar os benefícios da escrita cursiva e as experiências bem-sucedidas de Ontário e da Califórnia, orienta implicitamente professores e gestores a adotarem a prática em seus currículos, por meio de sugestões e comandos\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       }
     ],
     "id": "PT0066",
@@ -3453,15 +3453,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: a estrutura em \"incorreto, pois \"comparação\" não admite complemento, sendo \"à digitação\" um adjunto adverbial que rejeita...\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"incorreto, pois \"comparação\" não admite complemento, sendo \"à digitação\" um adjunto adverbial que rejeita crase\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: a estrutura em \"incorreto, pois, embora \"comparação\" reja a preposição \"a\", substantivos abstratos como \"digitação\" não...\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"incorreto, pois, embora \"comparação\" reja a preposição \"a\", substantivos abstratos como \"digitação\" não admitem artigo definido feminino, inviabilizando a fusão\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a estrutura em \"correto apenas se \"digitação\" vier acompanhada de adjunto adnominal, pois substantivos femininos comuns só...\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"correto apenas se \"digitação\" vier acompanhada de adjunto adnominal, pois substantivos femininos comuns só admitem crase quando determinados por um modificador que torne o artigo obrigatório\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       }
     ],
     "id": "PT0068",
@@ -3508,11 +3508,11 @@
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: \"de oposição absoluta, sugerindo que as dificuldades dos professores são irrelevantes para avaliar a política...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"de oposição absoluta, sugerindo que as dificuldades dos professores são irrelevantes para avaliar a política educacional californiana\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: \"de adição, introduzindo argumento complementar à ideia de que professores terão dificuldades para integrar a...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"de adição, introduzindo argumento complementar à ideia de que professores terão dificuldades para integrar a escrita cursiva às aulas\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       }
     ],
     "id": "PT0069",
@@ -3555,15 +3555,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: \"exemplificação, suficiente apenas no contexto californiano e não generalizável aos demais Estados americanos...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"exemplificação, suficiente apenas no contexto californiano e não generalizável aos demais Estados americanos mencionados no texto\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: \"oposição, insuficiente porque o “então” poderia ser substituído por “mas”, indicando que a autora confunde...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"oposição, insuficiente porque o “então” poderia ser substituído por “mas”, indicando que a autora confunde adversidade com consequência\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: \"adição, insuficiente para sustentar a conclusão por faltarem dados comparativos entre Estados que financiam e...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"adição, insuficiente para sustentar a conclusão por faltarem dados comparativos entre Estados que financiam e os que não financiam o ensino da cursiva\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       }
     ],
     "id": "PT0070",
@@ -4371,15 +4371,15 @@
     "analise_distratores": [
       {
         "letra": "B",
-        "motivo": "Incorreta: a leitura sugerida em \"poética, pois a alternância entre vozes diferentes cria um efeito rítmico que torna o texto mais atraente ao...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"poética, pois a alternância entre vozes diferentes cria um efeito rítmico que torna o texto mais atraente ao leitor leigo\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: a leitura sugerida em \"fática, pois as citações de especialistas servem para manter o canal de comunicação aberto entre o jornalista...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"fática, pois as citações de especialistas servem para manter o canal de comunicação aberto entre o jornalista e o público-alvo\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"conativa, pois as falas dos especialistas têm como objetivo primário persuadir o leitor a mudar seus hábitos...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"conativa, pois as falas dos especialistas têm como objetivo primário persuadir o leitor a mudar seus hábitos alimentares de forma imediata\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0086",
@@ -4524,15 +4524,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: \"sentido preservado, pois “portanto” também pode introduzir uma ideia que se opõe à afirmação anterior em...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"sentido preservado, pois “portanto” também pode introduzir uma ideia que se opõe à afirmação anterior em contextos informais\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: \"texto mais formal, mas o argumento central permaneceria intacto, pois a ideia de limitação do consumo...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"texto mais formal, mas o argumento central permaneceria intacto, pois a ideia de limitação do consumo proteico independe do conectivo utilizado\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: \"mudança aceitável apenas se acompanhada da inversão da ordem das orações, já que “portanto” exige que a...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"mudança aceitável apenas se acompanhada da inversão da ordem das orações, já que “portanto” exige que a conclusão venha antes da premissa\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       }
     ],
     "id": "PT0089",
@@ -4575,15 +4575,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: \"o modo descritivo predomina no texto inteiro, uma vez que o autor está focado em caracterizar os hábitos...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"o modo descritivo predomina no texto inteiro, uma vez que o autor está focado em caracterizar os hábitos alimentares da população americana sem emitir juízo de valor\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: \"o modo injuntivo organiza a abertura do texto, prescrevendo comportamentos alimentares; o expositivo...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"o modo injuntivo organiza a abertura do texto, prescrevendo comportamentos alimentares; o expositivo desenvolve os dados científicos; o narrativo conclui com recomendações dos especialistas\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: \"o modo narrativo é dominante, pois o texto relata cronologicamente a evolução do consumo de proteína nos...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"o modo narrativo é dominante, pois o texto relata cronologicamente a evolução do consumo de proteína nos Estados Unidos desde 2022, organizando os fatos em sequência temporal linear, sem sobressaltos ou interrupções\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       }
     ],
     "id": "PT0090",
@@ -4630,11 +4630,11 @@
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: \"as políticas alimentares do governo estadunidense contradizem frontalmente todas as pesquisas científicas...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"as políticas alimentares do governo estadunidense contradizem frontalmente todas as pesquisas científicas sobre proteína disponíveis atualmente\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: \"pesquisas recentes comprovam que qualquer quantidade de proteína acima da recomendação diária causa doenças...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"pesquisas recentes comprovam que qualquer quantidade de proteína acima da recomendação diária causa doenças cardíacas e diabetes tipo 2 102 Ano: 2026\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       }
     ],
     "id": "PT0091",
@@ -4728,15 +4728,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: \"indica uma ação futura decorrente da acusação formulada pela União Europeia, projetando para adiante os...\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"indica uma ação futura decorrente da acusação formulada pela União Europeia, projetando para adiante os efeitos atribuídos às práticas investigadas\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: \"caracteriza uma ação concluída antes da aplicação da multa, enfatizando que os efeitos sobre a concorrência...\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"caracteriza uma ação concluída antes da aplicação da multa, enfatizando que os efeitos sobre a concorrência pertencem a um momento anterior ao da notícia\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: \"expressa uma situação dependente da confi rmação das investigações, conferindo ao prejuízo mencionado um...\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"expressa uma situação dependente da confi rmação das investigações, conferindo ao prejuízo mencionado um valor eventual e condicionado ao resultado do processo\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       }
     ],
     "id": "PT0093",
@@ -4779,7 +4779,7 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: \"finalidade entre a atuação do conjunto dos países da União Europeia e a reação esperada do governo dos...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"finalidade entre a atuação do conjunto dos países da União Europeia e a reação esperada do governo dos Estados Unidos\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "C",
@@ -5136,15 +5136,15 @@
     "analise_distratores": [
       {
         "letra": "B",
-        "motivo": "Incorreta: a leitura sugerida em \"as cidades localizadas fora do nosso país contam com infraestrutura de segurança superior à das cidades...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"as cidades localizadas fora do nosso país contam com infraestrutura de segurança superior à das cidades brasileiras\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: a leitura sugerida em \"a autora considera o comportamento dos brasileiros mais saudável do que o dos europeus em relação às redes...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"a autora considera o comportamento dos brasileiros mais saudável do que o dos europeus em relação às redes sociais\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"os brasileiros são culturalmente menos dependentes de tecnologia que os europeus, especialmente em visita a...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"os brasileiros são culturalmente menos dependentes de tecnologia que os europeus, especialmente em visita a lugares turísticos 114 Ano: 2026\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0101",
@@ -5242,7 +5242,7 @@
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: \"concessão, reconhecendo um fator secundário que não invalida a tese central do pesquisador.\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"concessão, reconhecendo um fator secundário que não invalida a tese central do pesquisador\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "D",
@@ -5297,7 +5297,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: \"comparação implícita entre o comportamento dos microplásticos no ar e o seu comportamento nos rios, descrito...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"comparação implícita entre o comportamento dos microplásticos no ar e o seu comportamento nos rios, descrito no parágrafo anterior\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       }
     ],
     "id": "PT0104",
@@ -5544,15 +5544,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: \"O arquiteto propôs soluções inéditas para áreas suscetiveis à frequentes alagamentos.\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"O arquiteto propôs soluções inéditas para áreas suscetiveis à frequentes alagamentos\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: \"O funcionario preencheu corretamente o formulário e entregou-o após à conferência.\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"O funcionario preencheu corretamente o formulário e entregou-o após à conferência\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: \"O caráter dúbio da declaração gerou inúmeras idéias ruins entre os especialistas.\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"O caráter dúbio da declaração gerou inúmeras idéias ruins entre os especialistas\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       }
     ],
     "id": "PT0109",
@@ -8612,7 +8612,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a estrutura em \"apresentar uma informação central ao leitor brasileiro, que normalmente desconhece o presidente dos EUA 192...\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"apresentar uma informação central ao leitor brasileiro, que normalmente desconhece o presidente dos EUA 192 Ano: 2026\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       }
     ],
     "id": "PT0169",
@@ -9934,11 +9934,11 @@
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: a estrutura em \"adornar o texto, pois são facultativas e sua retirada não compromete em nada a correção ou mesmo o sentido do...\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"adornar o texto, pois são facultativas e sua retirada não compromete em nada a correção ou mesmo o sentido do texto\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a estrutura em \"indicar uma pausa enfática e obrigatória após cada substantivo da oração, garantindo que o leitor identifique...\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"indicar uma pausa enfática e obrigatória após cada substantivo da oração, garantindo que o leitor identifique com clareza os sujeitos e os verbos por elas separados\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       }
     ],
     "id": "PT0195",
@@ -10032,11 +10032,11 @@
     "analise_distratores": [
       {
         "letra": "B",
-        "motivo": "Incorreta: \"...pela mobilidade social, é comprometida a alimentação infantil...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"...pela mobilidade social, é comprometida a alimentação infantil\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: \"...uma má alimentação compromete a mobilidade futura...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"...uma má alimentação compromete a mobilidade futura\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "D",
@@ -10134,15 +10134,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: a estrutura em \"Começou à estudar muito tarde.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"Começou à estudar muito tarde\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: a estrutura em \"Entreguei o trabalho à ele ontem.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"Entreguei o trabalho à ele ontem\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: a estrutura em \"Ela viajou à Brasília no ano passado.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"Ela viajou à Brasília no ano passado\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       }
     ],
     "id": "PT0199",
@@ -10593,15 +10593,15 @@
     "analise_distratores": [
       {
         "letra": "B",
-        "motivo": "Incorreta: a estrutura em \"antes de \"agregando\", mas poderia ser suprimida sem prejuízo, pois não se trata de uma oração reduzida, mas...\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"antes de \"agregando\", mas poderia ser suprimida sem prejuízo, pois não se trata de uma oração reduzida, mas apenas de um adjunto adverbial\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: a estrutura em \"de modo facultativo, pois o termo \"agregando valor para indivíduos e empresas\" funciona como oração...\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"de modo facultativo, pois o termo \"agregando valor para indivíduos e empresas\" funciona como oração subordinada adjetiva com sentido restritivo\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a estrutura em \"para atender ao estilo do autor, pois a ausência dessa vírgula não alteraria o sentido da frase, tornando a...\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"para atender ao estilo do autor, pois a ausência dessa vírgula não alteraria o sentido da frase, tornando a oração reduzida de gerúndio de caráter restritivo, e não mais explicativo 250 Ano: 2025\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       }
     ],
     "id": "PT0208",
@@ -11205,11 +11205,11 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: \"Maria fez um concerto na roupa do esposo.\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"Maria fez um concerto na roupa do esposo\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: \"O célebro das pessoas anda mais atrofiado.\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"O célebro das pessoas anda mais atrofiado\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "D",
@@ -11256,11 +11256,11 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: a estrutura em \"Doe leite materno ou cada gota faz a diferença.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"Doe leite materno ou cada gota faz a diferença\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: a estrutura em \"Doe leite materno, contudo cada gota faz a diferença.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"Doe leite materno, contudo cada gota faz a diferença\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "D",
@@ -11307,15 +11307,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: a estrutura em \"Amor constroe um mundo mais justo para todos.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"Amor constroe um mundo mais justo para todos\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: a estrutura em \"Amor constróe um mundo mais justo para todos.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"Amor constróe um mundo mais justo para todos\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: a estrutura em \"Amor constroi um mundo mais justo para todos.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"Amor constroi um mundo mais justo para todos\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       }
     ],
     "id": "PT0222",
@@ -12386,7 +12386,7 @@
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: a leitura sugerida em \"a opinião do autor sobre as limitações de políticas ambientais sustentáveis, em tom predominantemente...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"a opinião do autor sobre as limitações de políticas ambientais sustentáveis, em tom predominantemente subjetivo\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0243",
@@ -12888,15 +12888,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: a estrutura em \"Eu vou à festa mas, meu pai ficará em casa.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"Eu vou à festa mas, meu pai ficará em casa\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: a estrutura em \"Eu vou à festa mas, meu pai, ficará em casa.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"Eu vou à festa mas, meu pai, ficará em casa\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a estrutura em \"Maria foi ao supermercado mas, volta daqui a pouco.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"Maria foi ao supermercado mas, volta daqui a pouco\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       }
     ],
     "id": "PT0253",
@@ -13857,15 +13857,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: a leitura sugerida em \"“O desenvolvimento de fitoterápicos baseados em espécies nativas contribui à valorização da Amazônia e à...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"“O desenvolvimento de fitoterápicos baseados em espécies nativas contribui à valorização da Amazônia e à fortalecimento da ciência brasileira.”\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: a leitura sugerida em \"“O desenvolvimento de fitoterápicos baseados em espécies nativas contribui a valorização da Amazônia e ao...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"“O desenvolvimento de fitoterápicos baseados em espécies nativas contribui a valorização da Amazônia e ao fortalecimento da ciência brasileira.”\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"“O desenvolvimento de fitoterápicos baseados em espécies nativas colabora para à valorização da Amazônia e...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"“O desenvolvimento de fitoterápicos baseados em espécies nativas colabora para à valorização da Amazônia e para o fortalecimento da ciência brasileira.”\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0272",
@@ -14069,7 +14069,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: \"uma ressalva sobre a fragilidade dos resultados apresentados, o que é muito comum nesse campo científico 340...\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"uma ressalva sobre a fragilidade dos resultados apresentados, o que é muito comum nesse campo científico 340 Ano: 2025\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       }
     ],
     "id": "PT0276",
@@ -14630,7 +14630,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"Pandora recebeu dons de vários deuses, como beleza, inteligência e habilidades manuais muito originais e...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"Pandora recebeu dons de vários deuses, como beleza, inteligência e habilidades manuais muito originais e poderosas 359 Ano: 2025\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0287",
@@ -17478,15 +17478,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: a leitura sugerida em \"a infraestrutura civil será utilizada exclusivamente para fins humanitários, não havendo menção a aspectos...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"a infraestrutura civil será utilizada exclusivamente para fins humanitários, não havendo menção a aspectos militares, uma vez que a Organização do Tratado do Atlântico Norte não lida com essas questões\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: a leitura sugerida em \"o investimento em infraestrutura civil visa apenas ao desenvolvimento econômico dos países-membros, sem...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"o investimento em infraestrutura civil visa apenas ao desenvolvimento econômico dos países-membros, sem relação direta com a mobilização militar\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"o financiamento de infraestrutura civil não está previsto no acordo divulgado pela Otan, sendo...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"o financiamento de infraestrutura civil não está previsto no acordo divulgado pela Otan, sendo responsabilidade exclusiva de cada país 425 Ano: 2025\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0343",
@@ -18098,7 +18098,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"uma proposta de exclusão definitiva das tecnologias digitais na formação das crianças, dos jovens e dos...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"uma proposta de exclusão definitiva das tecnologias digitais na formação das crianças, dos jovens e dos adultos, devido aos seus riscos 438 Ano: 2025\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0355",
@@ -18149,7 +18149,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"à transformação dos ambientes escolares em espaços autoritários e muito dependentes da tecnologia 439 Ano:...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"à transformação dos ambientes escolares em espaços autoritários e muito dependentes da tecnologia 439 Ano: 2025\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0356",
@@ -18557,7 +18557,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"a causa dos déficits cognitivos e dos maiores riscos de demência das pessoas que dormem menos de cinco horas...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"a causa dos déficits cognitivos e dos maiores riscos de demência das pessoas que dormem menos de cinco horas por dia 448 Ano: 2025\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0364",
@@ -18812,7 +18812,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"política, com foco na regulamentação de uma indústria têxtil mais produtiva e focada na arrecadação de...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"política, com foco na regulamentação de uma indústria têxtil mais produtiva e focada na arrecadação de impostos 454 Ano: 2025\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0369",
@@ -19730,7 +19730,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"a utilização de IA garantirá vantagem competitiva na seleção para a premiação, desde que aprovada pela...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"a utilização de IA garantirá vantagem competitiva na seleção para a premiação, desde que aprovada pela organização 476 Ano: 2025\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0387",
@@ -19934,7 +19934,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a estrutura em \"avaliar uma peça histórica, no caso, uma bandeja retangular chanfrada heráldica do período Qianlong da...\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"avaliar uma peça histórica, no caso, uma bandeja retangular chanfrada heráldica do período Qianlong da dinastia Qing\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       }
     ],
     "id": "PT0391",
@@ -20436,11 +20436,11 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: \"Já estamos intimos do juíz deste tribunal.\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"Já estamos intimos do juíz deste tribunal\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: \"O vôo do pássaro causou surpresa em todos.\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"O vôo do pássaro causou surpresa em todos\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "D",
@@ -20495,7 +20495,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: \"apesar de os dois conterem uma justificativa, o primeiro apresenta um convite, e o segundo, um agradecimento...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"apesar de os dois conterem uma justificativa, o primeiro apresenta um convite, e o segundo, um agradecimento 493 Ano: 2025\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       }
     ],
     "id": "PT0402",
@@ -20640,15 +20640,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: \"Tu deves sempre fazer o bem.\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"Tu deves sempre fazer o bem\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: \"O ônibus chegou pontualmente no horário.\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"O ônibus chegou pontualmente no horário\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: \"Eles vão passar por aquela rocha, através do túnel.\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"Eles vão passar por aquela rocha, através do túnel\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       }
     ],
     "id": "PT0405",
@@ -21303,15 +21303,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: a leitura sugerida em \"todos os testes já foram feitos, e a vacina já está pronta para ser distribuída gratuitamente à população...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"todos os testes já foram feitos, e a vacina já está pronta para ser distribuída gratuitamente à população russa\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: a leitura sugerida em \"esse é ainda um projeto inicial, considerando que uma vacina dessa natureza ainda é algo impossível de ser...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"esse é ainda um projeto inicial, considerando que uma vacina dessa natureza ainda é algo impossível de ser desenvolvido\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"esse é um projeto bastante inovador e avançado, desenvolvido em laboratórios brasileiros, além de permitir...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"esse é um projeto bastante inovador e avançado, desenvolvido em laboratórios brasileiros, além de permitir avanços no tratamento oncológico 515 Ano: 2025\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0418",
@@ -21354,15 +21354,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: a estrutura em \"“Deram à ela duzentos reais”.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"“Deram à ela duzentos reais”\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: a estrutura em \"“Vamos à São Paulo amanhã”.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"“Vamos à São Paulo amanhã”\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: a estrutura em \"“Começaram à andar pelas estradas”.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"“Começaram à andar pelas estradas”\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       }
     ],
     "id": "PT0419",
@@ -22272,11 +22272,11 @@
     "analise_distratores": [
       {
         "letra": "B",
-        "motivo": "Incorreta: a estrutura em \"“Os doadores devem se dirigir à hospitais do SUS”.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"“Os doadores devem se dirigir à hospitais do SUS”\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: a estrutura em \"“Cada doador de sangue salva de uma à quatro vidas”.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"“Cada doador de sangue salva de uma à quatro vidas”\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "D",
@@ -22684,15 +22684,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: a estrutura em \"Elas acompanham a situação no dia-à-dia.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"Elas acompanham a situação no dia-à-dia\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: a estrutura em \"Todos voltarão à Santos para analisar o problema.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"Todos voltarão à Santos para analisar o problema\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a estrutura em \"Eu vou fazer um discurso à todas as pessoas presentes.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"Eu vou fazer um discurso à todas as pessoas presentes\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "E",
@@ -22743,15 +22743,15 @@
     "analise_distratores": [
       {
         "letra": "B",
-        "motivo": "Incorreta: \"Já fizemos todas as análizes do caso.\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"Já fizemos todas as análizes do caso\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: \"Faremos um chá beneficiente para os mais pobres.\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"Faremos um chá beneficiente para os mais pobres\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: \"A compania de quem amamos é sempre fundamental.\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"A compania de quem amamos é sempre fundamental\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "E",
@@ -22802,15 +22802,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: \"Eu gosto do gosto dessa fruta exótica.\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"Eu gosto do gosto dessa fruta exótica\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: \"Caiu uma manga na manga da minha camisa.\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"Caiu uma manga na manga da minha camisa\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: \"Devemos prosseguir, ainda que tristes ou felizes.\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"Devemos prosseguir, ainda que tristes ou felizes\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "E",
@@ -23510,19 +23510,19 @@
     "analise_distratores": [
       {
         "letra": "B",
-        "motivo": "Incorreta: \"Nesta semana, houvem audiências com a participação de pesquisadores e representantes de diferentes áreas da...\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"Nesta semana, houvem audiências com a participação de pesquisadores e representantes de diferentes áreas da sociedade civil\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: \"Nesta semana, houveram audiências com a participação de pesquisadores e representantes de diferentes áreas da...\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"Nesta semana, houveram audiências com a participação de pesquisadores e representantes de diferentes áreas da sociedade civil\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: \"Nesta semana, haveriam audiências com a participação de pesquisadores e representantes de diferentes áreas da...\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"Nesta semana, haveriam audiências com a participação de pesquisadores e representantes de diferentes áreas da sociedade civil\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "E",
-        "motivo": "Incorreta: \"Nesta semana, houvessem audiências com a participação de pesquisadores e representantes de diferentes áreas...\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"Nesta semana, houvessem audiências com a participação de pesquisadores e representantes de diferentes áreas da sociedade civil 560 Ano: 2025\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       }
     ],
     "id": "PT0459",
@@ -23687,19 +23687,19 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: a estrutura em \"“e os países se vê em desafios para enfrentar o que ele chama de ‘colonialismo digital’”.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"“e os países se vê em desafios para enfrentar o que ele chama de ‘colonialismo digital’”\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: a estrutura em \"“e os países se vêem em desafios para enfrentar o que ele chama de ‘colonialismo digital’”.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"“e os países se vêem em desafios para enfrentar o que ele chama de ‘colonialismo digital’”\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a estrutura em \"“e os países se veêm em desafios para enfrentar o que ele chama de ‘colonialismo digital’”.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"“e os países se veêm em desafios para enfrentar o que ele chama de ‘colonialismo digital’”\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "E",
-        "motivo": "Incorreta: a estrutura em \"“e os países se vêm em desafios para enfrentar o que ele chama de ‘colonialismo digital’”.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"“e os países se vêm em desafios para enfrentar o que ele chama de ‘colonialismo digital’”\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       }
     ],
     "id": "PT0462",
@@ -23805,11 +23805,11 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: \"As vulnerabilidades são aumentadas pela internet que já existe no ambiente offline.\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"As vulnerabilidades são aumentadas pela internet que já existe no ambiente offline\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: \"No ambiente offline, as vulnerabilidades são aumentadas pela internet que já existe.\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"No ambiente offline, as vulnerabilidades são aumentadas pela internet que já existe\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "C",
@@ -23817,7 +23817,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: \"As vulnerabilidades no ambiente offline são aumentadas pela internet que já existe.\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"As vulnerabilidades no ambiente offline são aumentadas pela internet que já existe\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       }
     ],
     "id": "PT0464",
@@ -24241,11 +24241,11 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: a estrutura em \"A prova precisa ser feita à lápis.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"A prova precisa ser feita à lápis\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: a estrutura em \"Todos precisam se esforçar no dia à dia.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"Todos precisam se esforçar no dia à dia\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "D",
@@ -24343,11 +24343,11 @@
     "analise_distratores": [
       {
         "letra": "B",
-        "motivo": "Incorreta: \"Todos os que crêem em Deus estão aqui.\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"Todos os que crêem em Deus estão aqui\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: \"Os passageiros sentiram grande enjôo no vôo.\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"Os passageiros sentiram grande enjôo no vôo\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "D",
@@ -25771,11 +25771,11 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: \"A informação confirmou a Universidade Federal de Viçosa.\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"A informação confirmou a Universidade Federal de Viçosa\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: \"A Universidade Federal de Viçosa informou a confirmação.\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"A Universidade Federal de Viçosa informou a confirmação\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "D",
@@ -25881,7 +25881,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a estrutura em \"mostrar que o Estado de Minas Gerais se destaca no Brasil pelos seus índices de aprendizagem no Ensino...\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"mostrar que o Estado de Minas Gerais se destaca no Brasil pelos seus índices de aprendizagem no Ensino Fundamental e Médio\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       }
     ],
     "id": "PT0504",
@@ -26187,7 +26187,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"uma apreciação técnica da situação, considerando o conhecimento do internauta acerca das funções daquele...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"uma apreciação técnica da situação, considerando o conhecimento do internauta acerca das funções daquele veículo 623 Ano: 2025\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0510",
@@ -26740,15 +26740,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: \"Não existiam,...\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"Não existiam,\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: \"Não tinham ocorrido,...\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"Não tinham ocorrido,\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: \"Não vinham ocorrendo,...\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"Não vinham ocorrendo,\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       }
     ],
     "id": "PT0521",
@@ -27258,7 +27258,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"era acompanhada, com muito zelo e cuidado, pelos órgãos públicos, que impediram a continuidade dos trabalhos...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"era acompanhada, com muito zelo e cuidado, pelos órgãos públicos, que impediram a continuidade dos trabalhos da mineradora\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0531",
@@ -28015,15 +28015,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: \"O Banco Mundial, no fim do ano passado, no Brasil, reconheceu a nona maior economia do planeta.\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"O Banco Mundial, no fim do ano passado, no Brasil, reconheceu a nona maior economia do planeta\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: \"A nona maior economia do planeta, no fim do ano passado, reconheceu o Brasil por meio do Banco Mundial.\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"A nona maior economia do planeta, no fim do ano passado, reconheceu o Brasil por meio do Banco Mundial\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: \"A nona maior economia do planeta, no fim do ano passado, foi reconhecida pelo Brasil, por meio do Banco...\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"A nona maior economia do planeta, no fim do ano passado, foi reconhecida pelo Brasil, por meio do Banco Mundial. 659 Ano: 2024\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       }
     ],
     "id": "PT0546",
@@ -29035,15 +29035,15 @@
     "analise_distratores": [
       {
         "letra": "B",
-        "motivo": "Incorreta: \"O prefixo piro- tem origem no latim e está associado ao tempo, caracterizando épocas ou períodos históricos.\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"O prefixo piro- tem origem no latim e está associado ao tempo, caracterizando épocas ou períodos históricos\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: \"O prefixo piro- está relacionado à ideia de crise, sendo usado para definir períodos marcados por conflitos...\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"O prefixo piro- está relacionado à ideia de crise, sendo usado para definir períodos marcados por conflitos ambientais\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: \"O prefixo piro- refere-se à humanidade, destacando o papel dos seres humanos em períodos históricos marcantes.\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"O prefixo piro- refere-se à humanidade, destacando o papel dos seres humanos em períodos históricos marcantes\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       }
     ],
     "id": "PT0566",
@@ -29086,11 +29086,11 @@
     "analise_distratores": [
       {
         "letra": "B",
-        "motivo": "Incorreta: a estrutura em \"Não há necessidade da crase, pois a palavra \"Agência\" não admite o uso do artigo definido feminino.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"Não há necessidade da crase, pois a palavra \"Agência\" não admite o uso do artigo definido feminino\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: a estrutura em \"A crase ocorre apenas para indicar ênfase na palavra \"Agência Brasil\".\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"A crase ocorre apenas para indicar ênfase na palavra \"Agência Brasil\"\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "D",
@@ -29137,15 +29137,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: a estrutura em \"A palavra Estado e estado são sinônimos e podem ser usadas de forma intercambiável na frase.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"A palavra Estado e estado são sinônimos e podem ser usadas de forma intercambiável na frase\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: a estrutura em \"Tanto Estado quanto estado referem-se à mesma ideia, que é a condição de emergência ambiental em determinada...\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"Tanto Estado quanto estado referem-se à mesma ideia, que é a condição de emergência ambiental em determinada região\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a estrutura em \"A palavra Estado e estado indicam o mesmo significado, mas a primeira está em maiúsculo por estar no início...\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"A palavra Estado e estado indicam o mesmo significado, mas a primeira está em maiúsculo por estar no início da frase\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       }
     ],
     "id": "PT0568",
@@ -29243,11 +29243,11 @@
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: a leitura sugerida em \"mais fácil o relacionamento entre os representantes de diferentes gerações (adolescentes, adultos e crianças)...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"mais fácil o relacionamento entre os representantes de diferentes gerações (adolescentes, adultos e crianças) no ambiente escolar\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"mais profunda a abordagem de determinados temas, como o excessivo apelo ao consumo e a indiferença quanto aos...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"mais profunda a abordagem de determinados temas, como o excessivo apelo ao consumo e a indiferença quanto aos problemas humanos e sociais\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0570",
@@ -29290,15 +29290,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: a leitura sugerida em \"perder a capacidade de se distinguir do outro, de diferenciar o dentro e o fora de si, aceitando-se nesse...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"perder a capacidade de se distinguir do outro, de diferenciar o dentro e o fora de si, aceitando-se nesse entrelugar de transição\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: a leitura sugerida em \"confrontar os olhares que lhe indicam que não é mais o mesmo, sem perder a ingenuidade e a docilidade da...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"confrontar os olhares que lhe indicam que não é mais o mesmo, sem perder a ingenuidade e a docilidade da infância\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"violar regras sociais, como forma única de expressar sua insatisfação consigo mesmo e com os outros 687 Ano:...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"violar regras sociais, como forma única de expressar sua insatisfação consigo mesmo e com os outros 687 Ano: 2024\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0571",
@@ -29392,15 +29392,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: a estrutura em \"Finalmente chegamos à essa cidade dos meus sonhos.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"Finalmente chegamos à essa cidade dos meus sonhos\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: a estrutura em \"Todos foram à Taubaté, assim que o dia raiou.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"Todos foram à Taubaté, assim que o dia raiou\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: a estrutura em \"Devemos sempre oferecer nossa ajuda à ela.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"Devemos sempre oferecer nossa ajuda à ela\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       }
     ],
     "id": "PT0573",
@@ -30063,7 +30063,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"avaliam técnicas de maquiagem e o tema do meio ambiente como pontos importantes para uma vida saudável 702...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"avaliam técnicas de maquiagem e o tema do meio ambiente como pontos importantes para uma vida saudável 702 Ano: 2024\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0586",
@@ -30114,7 +30114,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"as pessoas devem abandonar as redes sociais, pois são ambientes altamente tóxicos para a saúde mental 703...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"as pessoas devem abandonar as redes sociais, pois são ambientes altamente tóxicos para a saúde mental 703 Ano: 2024\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0587",
@@ -30314,11 +30314,11 @@
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: \"a palavra destacada admite duas grafias na variedade padrão da língua portuguesa, podendo ser “pelos” ou...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"a palavra destacada admite duas grafias na variedade padrão da língua portuguesa, podendo ser “pelos” ou “pêlos”\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: \"o texto foi escrito em uma linguagem mais informal, o que justifica o uso de termos mais simples, fora do...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"o texto foi escrito em uma linguagem mais informal, o que justifica o uso de termos mais simples, fora do padrão normativo da língua portuguesa 708 Ano: 2024\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       }
     ],
     "id": "PT0591",
@@ -31614,7 +31614,7 @@
       },
       {
         "letra": "E",
-        "motivo": "Incorreta: a leitura sugerida em \"são personagens, visto que todos os animais, objetos ou coisas sempre são personagens em textos literários...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"são personagens, visto que todos os animais, objetos ou coisas sempre são personagens em textos literários 734 Ano: 2024\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0615",
@@ -31669,11 +31669,11 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"não há uma opinião, pois o trecho indica apenas um fato ou constatação, ou seja, não há nenhuma avaliação...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"não há uma opinião, pois o trecho indica apenas um fato ou constatação, ou seja, não há nenhuma avaliação pessoal\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       },
       {
         "letra": "E",
-        "motivo": "Incorreta: a leitura sugerida em \"não há uma opinião, pois animais e coisas não podem apresentar pontos de vista, nem mesmo em textos...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"não há uma opinião, pois animais e coisas não podem apresentar pontos de vista, nem mesmo em textos literários 735 Ano: 2024\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0616",
@@ -32263,7 +32263,7 @@
       },
       {
         "letra": "E",
-        "motivo": "Incorreta: \"conotação, haja vista a mescla entre recursos metafóricos e expressões marcadas pela objetividade 751 Ano:...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"conotação, haja vista a mescla entre recursos metafóricos e expressões marcadas pela objetividade 751 Ano: 2024\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       }
     ],
     "id": "PT0626",
@@ -32369,19 +32369,19 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: \"Um sistema alternativo de pagamentos transfronteiriços foi preparado pela Rússia em proposta detalhada.\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"Um sistema alternativo de pagamentos transfronteiriços foi preparado pela Rússia em proposta detalhada\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: \"Um sistema alternativo de pagamentos transfronteiriços foram preparados pela Rússia em proposta detalhada.\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"Um sistema alternativo de pagamentos transfronteiriços foram preparados pela Rússia em proposta detalhada\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: \"Uma proposta detalhada para um sistema alternativo de pagamentos transfronteiriços foram preparados pela...\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"Uma proposta detalhada para um sistema alternativo de pagamentos transfronteiriços foram preparados pela Rússia\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "E",
-        "motivo": "Incorreta: \"Uma proposta detalhada para um sistema alternativo de pagamentos transfronteiriços foram preparadas pela...\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"Uma proposta detalhada para um sistema alternativo de pagamentos transfronteiriços foram preparadas pela Rússia. 753 Ano: 2024\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       }
     ],
     "id": "PT0628",
@@ -32754,7 +32754,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"o Instituto Brasileiro de Geografia e Estatística é o responsável por políticas públicas em prol das mulheres...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"o Instituto Brasileiro de Geografia e Estatística é o responsável por políticas públicas em prol das mulheres brasileiras 762 Ano: 2024\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0635",
@@ -33009,7 +33009,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"informar quem foi Yili Liu, um estadunidense que visitou todos os países do mundo em 3 anos e 3 meses 767...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"informar quem foi Yili Liu, um estadunidense que visitou todos os países do mundo em 3 anos e 3 meses 767 Ano: 2024\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0640",
@@ -34127,11 +34127,11 @@
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: \"“As montadoras chinesas BYD, Geely e SAIC serão tarifadas em 17%, 18,8% e 35,3%, respectivamente” (3º...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"“As montadoras chinesas BYD, Geely e SAIC serão tarifadas em 17%, 18,8% e 35,3%, respectivamente” (3º parágrafo)\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: \"“Após uma solicitação fundamentada relacionada a um exame individual, a Tesla receberá uma taxa de 7,8%, diz...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"“Após uma solicitação fundamentada relacionada a um exame individual, a Tesla receberá uma taxa de 7,8%, diz o comunicado” (3º parágrafo)\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       }
     ],
     "id": "PT0662",
@@ -34174,15 +34174,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: a leitura sugerida em \"de ampliar os conhecimentos e repertório de cada aluno.\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"de ampliar os conhecimentos e repertório de cada aluno\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: a leitura sugerida em \"dos conteúdos e habilidades a serem desenvolvidas nos alunos.\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"dos conteúdos e habilidades a serem desenvolvidas nos alunos\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: a leitura sugerida em \"dos alunos de adquirirem conhecimentos de acordo com o ano letivo.\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"dos alunos de adquirirem conhecimentos de acordo com o ano letivo\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0663",
@@ -34233,7 +34233,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"intertextual a um importante político norte-americano, reconhecido pelas suas ações concretas em prol dos...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"intertextual a um importante político norte-americano, reconhecido pelas suas ações concretas em prol dos desvalidos\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0664",
@@ -34284,7 +34284,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"ao modo como a sociedade é egoísta e agressiva ao violentar os menores abandonados, em termos físicos e...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"ao modo como a sociedade é egoísta e agressiva ao violentar os menores abandonados, em termos físicos e psicológicos\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0665",
@@ -34378,15 +34378,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: a estrutura em \"A pasta destaca que houveram doenças que cresceu especialmente nas regiões Sudeste e Sul.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"A pasta destaca que houveram doenças que cresceu especialmente nas regiões Sudeste e Sul\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: a estrutura em \"A pasta destaca que houveram doenças que cresceram especialmente nas regiões Sudeste e Sul.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"A pasta destaca que houveram doenças que cresceram especialmente nas regiões Sudeste e Sul\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: a estrutura em \"A pasta destaca que houve doenças que cresceu especialmente nas regiões Sudeste e Sul.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"A pasta destaca que houve doenças que cresceu especialmente nas regiões Sudeste e Sul\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       }
     ],
     "id": "PT0667",
@@ -34535,11 +34535,11 @@
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: \"alertar a população com respeito à importância do isolamento social, para o devido controle das epidemias...\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"alertar a população com respeito à importância do isolamento social, para o devido controle das epidemias respiratórias\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: \"explicar que as infecções musculares podem evoluir para diferentes formas de síndromes respiratórias agudas...\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"explicar que as infecções musculares podem evoluir para diferentes formas de síndromes respiratórias agudas graves 800 Ano: 2024\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       }
     ],
     "id": "PT0670",
@@ -35096,7 +35096,7 @@
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: \"Não sei por quê ninguém chegou ainda.\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"Não sei por quê ninguém chegou ainda\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "D",
@@ -36273,7 +36273,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"defender que as startups de impactos socioambientais, baseadas na sociedade 5.0, são as reais soluções para...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"defender que as startups de impactos socioambientais, baseadas na sociedade 5.0, são as reais soluções para os problemas humanos atuais 848 Ano: 2024\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0704",
@@ -36630,7 +36630,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a estrutura em \"eles só podiam usar o telefone fixo para falar com os avós e, por conta disso, não aprenderam a usar o...\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"eles só podiam usar o telefone fixo para falar com os avós e, por conta disso, não aprenderam a usar o celular para ligações 856 Ano: 2024\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       }
     ],
     "id": "PT0711",
@@ -36787,11 +36787,11 @@
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: \"“Paralelo a isso, a fiscalização territorial foi vilipendiada, o que prejudica a segurança pública dessas...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"“Paralelo a isso, a fiscalização territorial foi vilipendiada, o que prejudica a segurança pública dessas áreas”\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "E",
-        "motivo": "Incorreta: \"“Paralelo a isso, a fiscalização territorial foi prejudicada, o que desfavorece a segurança pública dessas...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"“Paralelo a isso, a fiscalização territorial foi prejudicada, o que desfavorece a segurança pública dessas áreas” 859 Ano: 2024\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       }
     ],
     "id": "PT0714",
@@ -37365,15 +37365,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: \"pesquisas da Universidade de Galway são conclusões contraditas alcançadas no passado.\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"pesquisas da Universidade de Galway são conclusões contraditas alcançadas no passado\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: \"pesquisas da Universidade de Galway são contraditas pelas conclusões alcançadas no passado.\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"pesquisas da Universidade de Galway são contraditas pelas conclusões alcançadas no passado\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: \"conclusões são contraditas pela pesquisa alcançada no passado, na Universidade de Galway.\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"conclusões são contraditas pela pesquisa alcançada no passado, na Universidade de Galway\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       }
     ],
     "id": "PT0724",
@@ -37926,11 +37926,11 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: \"órgão.\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"órgão\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: \"cônsul.\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"cônsul\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "D",
@@ -37977,15 +37977,15 @@
     "analise_distratores": [
       {
         "letra": "B",
-        "motivo": "Incorreta: \"houve um erro na revisão do texto publicado pelo veículo jornalístico.\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"houve um erro na revisão do texto publicado pelo veículo jornalístico\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: \"há duas alternativas para a escrita dessa palavra: “infantojuvenil” ou “infantojuvenil”.\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"há duas alternativas para a escrita dessa palavra: “infantojuvenil” ou “infantojuvenil”\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: \"o autor da matéria quis empregar um tom mais inovador e original ao seu estilo de redação.\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"o autor da matéria quis empregar um tom mais inovador e original ao seu estilo de redação\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       }
     ],
     "id": "PT0736",
@@ -38028,15 +38028,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: \"explicar o que são os mitos brasileiros.\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"explicar o que são os mitos brasileiros\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: \"informar sobre a origem da famosa obra “O Menino Maluquinho”.\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"informar sobre a origem da famosa obra “O Menino Maluquinho”\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: \"defender a tese de que estudar não é tão importante, já que a leitura sempre será algo mais valioso. 884 Ano:...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"defender a tese de que estudar não é tão importante, já que a leitura sempre será algo mais valioso. 884 Ano: 2024\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       }
     ],
     "id": "PT0737",
@@ -38079,11 +38079,11 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: a leitura sugerida em \"elogiar com grande intensidade.\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"elogiar com grande intensidade\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: a leitura sugerida em \"fazer ordem de pagamento a alguém.\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"fazer ordem de pagamento a alguém\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       },
       {
         "letra": "D",
@@ -38130,15 +38130,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: a estrutura em \"autor.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"autor\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: a estrutura em \"O autor.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"O autor\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: a estrutura em \"O autor do personagem.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"O autor do personagem\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       }
     ],
     "id": "PT0739",
@@ -38181,11 +38181,11 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: \"pretérito perfeito do indicativo.\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"pretérito perfeito do indicativo\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: \"pretérito imperfeito do subjuntivo.\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"pretérito imperfeito do subjuntivo\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "D",
@@ -38232,11 +38232,11 @@
     "analise_distratores": [
       {
         "letra": "B",
-        "motivo": "Incorreta: \"advérbio – conjunção – preposição.\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"advérbio – conjunção – preposição\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: \"pronome – preposição – conjunção.\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"pronome – preposição – conjunção\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "D",
@@ -38283,11 +38283,11 @@
     "analise_distratores": [
       {
         "letra": "B",
-        "motivo": "Incorreta: a estrutura em \"um trecho famoso de uma obra literária oriental.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"um trecho famoso de uma obra literária oriental\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: a estrutura em \"o título de uma revista brasileira muito conhecida.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"o título de uma revista brasileira muito conhecida\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "D",
@@ -38903,7 +38903,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"está cientificamente comprovado que a câmera fechada dos interlocutores, ao longo de videoconferências, evita...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"está cientificamente comprovado que a câmera fechada dos interlocutores, ao longo de videoconferências, evita qualquer tipo de fadiga mental 903 Ano: 2024\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0754",
@@ -39354,11 +39354,11 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: \"Nós desenvolvia a tecnologia de inteligência artificial por trás da função.\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"Nós desenvolvia a tecnologia de inteligência artificial por trás da função\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: \"Nós desenvolveu a tecnologia de inteligência artificial por trás da função.\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"Nós desenvolveu a tecnologia de inteligência artificial por trás da função\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "D",
@@ -39660,15 +39660,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: a leitura sugerida em \"ambos propõem uma reflexão sobre as competências da administração pública na resolução de problemas...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"ambos propõem uma reflexão sobre as competências da administração pública na resolução de problemas envolvendo as enchentes\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: a leitura sugerida em \"os dois textos apresentam recursos distintos para a apresentação da temática: enquanto o primeiro apresenta...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"os dois textos apresentam recursos distintos para a apresentação da temática: enquanto o primeiro apresenta elementos não verbais, o segundo apresenta elementos visuais\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: a leitura sugerida em \"os conteúdos dos textos minimizam a ideia de que as enchentes causam muitos estragos, prejudicando as pessoas...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"os conteúdos dos textos minimizam a ideia de que as enchentes causam muitos estragos, prejudicando as pessoas envolvidas, pois as consequências nem sempre voltam para a população\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0769",
@@ -39915,15 +39915,15 @@
     "analise_distratores": [
       {
         "letra": "B",
-        "motivo": "Incorreta: a leitura sugerida em \"“O prefeito Passos, que tanto se interessou pelo embelezamento da cidade, descurou completamente de...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"“O prefeito Passos, que tanto se interessou pelo embelezamento da cidade, descurou completamente de solucionar esse defeito do nosso Rio.” (3º parágrafo)\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: a leitura sugerida em \"“Infelizmente, porém, nos preocupamos muito com os aspectos externos, com as fachadas, e não com o que há de...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"“Infelizmente, porém, nos preocupamos muito com os aspectos externos, com as fachadas, e não com o que há de essencial nos problemas da nossa vida urbana, econômica, financeira e social.” (4º parágrafo)\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"“Além da suspensão total do tráfego, com uma prejudicial interrupção das comunicações entre os vários pontos...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"“Além da suspensão total do tráfego, com uma prejudicial interrupção das comunicações entre os vários pontos da cidade, essas inundações causam desastres pessoais lamentáveis, muitas perdas de haveres e destruição de imóveis.” (1º parágrafo)\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0774",
@@ -40382,7 +40382,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"“Caminhar, passear, andar a pé, observando as coisas ao redor.\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"“Caminhar, passear, andar a pé, observando as coisas ao redor\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0783",
@@ -40986,15 +40986,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: \"“Entre os feitos do britânico C.S. Lewis estão ter sobrevivido às trincheiras da Primeira Guerra Mundial e...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"“Entre os feitos do britânico C.S. Lewis estão ter sobrevivido às trincheiras da Primeira Guerra Mundial e ser o autor das ‘Crônicas de Nárnia’” (1º parágrafo)\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: \"“Em 1939, portanto às vésperas do conflito mundial seguinte, ele deu uma palestra na Universidade de Oxford”...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"“Em 1939, portanto às vésperas do conflito mundial seguinte, ele deu uma palestra na Universidade de Oxford” (1º parágrafo)\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: \"“Historiadores já calcularam que, ao longo de toda a trajetória humana, tivemos até hoje míseros 29 anos sem...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"“Historiadores já calcularam que, ao longo de toda a trajetória humana, tivemos até hoje míseros 29 anos sem que alguma guerra estivesse em curso em algum ou em vários pontos do planeta” (4º parágrafo) 950 Ano: 2024\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       }
     ],
     "id": "PT0795",
@@ -41649,11 +41649,11 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: \"“Os direitos autorais são espécies de direitos de propriedade intelectual, que conferem retribuição...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"“Os direitos autorais são espécies de direitos de propriedade intelectual, que conferem retribuição financeira e reconhecimento a criadores de determinados bens artísticos, científicos e culturais” (1º parágrafo)\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: \"“Quanto aos artistas e às suas criações, os direitos autorais acompanham a história da arte no Ocidente,...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"“Quanto aos artistas e às suas criações, os direitos autorais acompanham a história da arte no Ocidente, fundamentandose na valorização da expressão do espírito humano e na originalidade da obra de arte, vista em sua singularidade” (2º parágrafo)\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "C",
@@ -42105,7 +42105,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"divertimento, considerando que são imagens capazes de atingir a todos os públicos, inclusive as crianças 972...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"divertimento, considerando que são imagens capazes de atingir a todos os públicos, inclusive as crianças 972 Ano: 2024\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0816",
@@ -42207,7 +42207,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: \"realizar uma propaganda de serviços públicos especializados no combate às drogas lícitas e ilícitas 975 Ano:...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"realizar uma propaganda de serviços públicos especializados no combate às drogas lícitas e ilícitas 975 Ano: 2024\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       }
     ],
     "id": "PT0818",
@@ -42525,11 +42525,11 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a estrutura em \"“Raramente se dirá que seus próprios pais tiveram tempos fáceis apesar de alguém apontar a fraqueza dos...\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"“Raramente se dirá que seus próprios pais tiveram tempos fáceis apesar de alguém apontar a fraqueza dos filhos”\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "E",
-        "motivo": "Incorreta: a estrutura em \"“Raramente se dirá que seus próprios pais tiveram tempos fáceis, em consequência de hoje alguém apontar a...\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"“Raramente se dirá que seus próprios pais tiveram tempos fáceis, em consequência de hoje alguém apontar a fraqueza dos filhos” 983 Ano: 2024\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       }
     ],
     "id": "PT0824",
@@ -42706,7 +42706,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"elogiar a mudança atestada nas últimas décadas, que propõe inovações no processo de contratação para o...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"elogiar a mudança atestada nas últimas décadas, que propõe inovações no processo de contratação para o trabalho\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0827",
@@ -42902,15 +42902,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: a estrutura em \"escavações do século 18 foram recuperadas por mais de mil pergaminhos do lote.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"escavações do século 18 foram recuperadas por mais de mil pergaminhos do lote\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: a estrutura em \"mais de mil pergaminhos foram recuperados por escavações do lote do século 18.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"mais de mil pergaminhos foram recuperados por escavações do lote do século 18\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: a estrutura em \"escavações do século 18 recuperaram-se por meio de mais de mil pergaminhos do lote.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"escavações do século 18 recuperaram-se por meio de mais de mil pergaminhos do lote\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       }
     ],
     "id": "PT0831",
@@ -43004,11 +43004,11 @@
     "analise_distratores": [
       {
         "letra": "B",
-        "motivo": "Incorreta: \"A Arqueologia têm uma nova aliada: a inteligência artificial.\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"A Arqueologia têm uma nova aliada: a inteligência artificial\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: \"A Arqueologia tém uma nova aliada: a inteligência artificial.\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"A Arqueologia tém uma nova aliada: a inteligência artificial\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "D",
@@ -43986,7 +43986,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"aumento do preço do gás - derretimento do reator de Fukushima - fechamento das usinas nucleares japonesas...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"aumento do preço do gás - derretimento do reator de Fukushima - fechamento das usinas nucleares japonesas 1012 Ano: 2024\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0851",
@@ -44037,7 +44037,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"passaram a adotar uma economia de baixo carbono, o que permitiu o crescente investimento em extração de gás...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"passaram a adotar uma economia de baixo carbono, o que permitiu o crescente investimento em extração de gás natural 1013 Ano: 2024\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0852",
@@ -44343,7 +44343,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"se não desenvolvermos táticas específicas no modo multitarefa, será impossível conseguir bons empregos 1020...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"se não desenvolvermos táticas específicas no modo multitarefa, será impossível conseguir bons empregos 1020 Ano: 2024\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0858",
@@ -44590,11 +44590,11 @@
     "analise_distratores": [
       {
         "letra": "B",
-        "motivo": "Incorreta: \"Houveram 715 mortes - a maior parte delas no Distrito Federal, com 152 vítimas fatais.\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"Houveram 715 mortes - a maior parte delas no Distrito Federal, com 152 vítimas fatais\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: \"Tiveram 715 mortes - a maior parte delas no Distrito Federal, com 152 vítimas fatais.\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"Tiveram 715 mortes - a maior parte delas no Distrito Federal, com 152 vítimas fatais\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "D",
@@ -45355,15 +45355,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: a leitura sugerida em \"Nasa adia missões para enviar astronautas à Marte e à Júpiter.\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"Nasa adia missões para enviar astronautas à Marte e à Júpiter\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: a leitura sugerida em \"Nasa adia missões para enviar astronautas a Marte e à Júpiter.\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"Nasa adia missões para enviar astronautas a Marte e à Júpiter\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"Nasa adia missões para enviar astronautas à Marte e a Júpiter.\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"Nasa adia missões para enviar astronautas à Marte e a Júpiter\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0878",
@@ -45661,11 +45661,11 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: a estrutura em \"“As missões devem ser comandada por Reid Wiseman”.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"“As missões devem ser comandada por Reid Wiseman”\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: a estrutura em \"“As missões devem serem comandada por Reid Wiseman”.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"“As missões devem serem comandada por Reid Wiseman”\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "D",
@@ -46120,7 +46120,7 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: a estrutura em \"Ela foi à São Paulo para visitar os avós.\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"Ela foi à São Paulo para visitar os avós\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "C",
@@ -46528,7 +46528,7 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: a leitura sugerida em \"grande parte das descobertas científicas na área da Paleontologia é baseada em materiais falsos ou...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"grande parte das descobertas científicas na área da Paleontologia é baseada em materiais falsos ou falsificados\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       },
       {
         "letra": "C",
@@ -46579,15 +46579,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: a leitura sugerida em \"Hão relações dessa diferença com o fato de as mulheres se dedicarem mais às tarefas de cuidados e afazeres...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"Hão relações dessa diferença com o fato de as mulheres se dedicarem mais às tarefas de cuidados e afazeres domésticos\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: a leitura sugerida em \"Têm relações dessa diferença com o fato de as mulheres se dedicarem mais às tarefas de cuidados e afazeres...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"Têm relações dessa diferença com o fato de as mulheres se dedicarem mais às tarefas de cuidados e afazeres domésticos\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: a leitura sugerida em \"Tem relações dessa diferença com o fato de as mulheres se dedicarem mais às tarefas de cuidados e afazeres...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"Tem relações dessa diferença com o fato de as mulheres se dedicarem mais às tarefas de cuidados e afazeres domésticos\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0902",
@@ -47038,7 +47038,7 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: \"“Entre a última quarta-feira, 6, e sexta, 8, o município registrou um acumulado de chuva de 380 mm, 22% a...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"“Entre a última quarta-feira, 6, e sexta, 8, o município registrou um acumulado de chuva de 380 mm, 22% a mais do que a média prevista para o mês de março” (1º parágrafo)\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       },
       {
         "letra": "B",
@@ -47211,7 +47211,7 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: \"“Essa interação entre o meio ambiente e a saúde pública aborda aspectos que influenciam o bem-estar e inclui...\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"“Essa interação entre o meio ambiente e a saúde pública aborda aspectos que influenciam o bem-estar e inclui fatores físicos, químicos e biológicos” (1º parágrafo)\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "B",
@@ -47219,11 +47219,11 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: \"“A Organização Pan-Americana destaca que aproximadamente 28 milhões de pessoas não têm acesso a uma fonte de...\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"“A Organização Pan-Americana destaca que aproximadamente 28 milhões de pessoas não têm acesso a uma fonte de água adequada” (4º parágrafo)\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "E",
-        "motivo": "Incorreta: \"“Os fatores relacionados ao clima estão afetando cada vez mais a saúde e o bem-estar da população...\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"“Os fatores relacionados ao clima estão afetando cada vez mais a saúde e o bem-estar da população latino-americana” (6º parágrafo) 1080 Ano: 2024\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       }
     ],
     "id": "PT0914",
@@ -47577,7 +47577,7 @@
       },
       {
         "letra": "E",
-        "motivo": "Incorreta: a leitura sugerida em \"ora denotativa ora conotativa, pois mescla figuras de linguagem amplamente utilizadas com linguagem...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"ora denotativa ora conotativa, pois mescla figuras de linguagem amplamente utilizadas com linguagem rebuscada. 1086 Ano: 2024\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0920",
@@ -47636,7 +47636,7 @@
       },
       {
         "letra": "E",
-        "motivo": "Incorreta: \"indicar quais doenças transmissíveis e não transmissíveis podem ser disseminadas por conta da falta de saúde...\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
+        "motivo": "Incorreta: \"indicar quais doenças transmissíveis e não transmissíveis podem ser disseminadas por conta da falta de saúde ambiental\" apresenta impropriedade semântica, textual ou gramatical frente ao que foi solicitado pela banca."
       }
     ],
     "id": "PT0921",
@@ -47695,7 +47695,7 @@
       },
       {
         "letra": "E",
-        "motivo": "Incorreta: a leitura sugerida em \"os dados da Organização Mundial da Saúde divergem muito dos apresentados pela Organização Pan-Americana de...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"os dados da Organização Mundial da Saúde divergem muito dos apresentados pela Organização Pan-Americana de Saúde\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0922",
@@ -47840,15 +47840,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: \"Uma série de estradas enterradas e montes de terra no Equador, pela primeira vez, há mais de duas décadas,...\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"Uma série de estradas enterradas e montes de terra no Equador, pela primeira vez, há mais de duas décadas, foram notadas pelo arqueólogo Stéphen Rostain\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "B",
-        "motivo": "Incorreta: \"Uma série de estradas enterradas e montes de terra no Equador, pela primeira vez, há mais de duas décadas,...\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"Uma série de estradas enterradas e montes de terra no Equador, pela primeira vez, há mais de duas décadas, tinham sido notadas pelo arqueólogo Stéphen Rostain\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: \"O arqueólogo Stéphen Rostain, pela primeira vez, há mais de duas décadas, passou a notar uma série de...\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"O arqueólogo Stéphen Rostain, pela primeira vez, há mais de duas décadas, passou a notar uma série de estradas enterradas e montes de terra no Equador\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       }
     ],
     "id": "PT0925",
@@ -48146,15 +48146,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: a estrutura em \"Houve uma ocorrência na rede elétrica da Light, na quintafeira, devido ao impacto no sistema de climatização...\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"Houve uma ocorrência na rede elétrica da Light, na quintafeira, devido ao impacto no sistema de climatização do Galeão\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: a estrutura em \"Apesar de ocorrência na rede elétrica da Light, na quinta-feira, o sistema de climatização do Galeão foi...\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"Apesar de ocorrência na rede elétrica da Light, na quinta-feira, o sistema de climatização do Galeão foi impactado\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a estrutura em \"Antes da ocorrência na rede elétrica da Light, na quinta-feira, o sistema de climatização do Galeão foi...\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"Antes da ocorrência na rede elétrica da Light, na quinta-feira, o sistema de climatização do Galeão foi impactado. 1099 Ano: 2024\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       }
     ],
     "id": "PT0931",
@@ -48409,7 +48409,7 @@
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a leitura sugerida em \"divulgar os serviços profissionais dos advogados que trabalham com questões relacionadas a bancos 1106 Ano:...\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
+        "motivo": "Incorreta: a leitura sugerida em \"divulgar os serviços profissionais dos advogados que trabalham com questões relacionadas a bancos 1106 Ano: 2024\" extrapola, restringe ou contradiz as informações sustentadas pelo texto-base."
       }
     ],
     "id": "PT0936",
@@ -48613,7 +48613,7 @@
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: \"“Diversos projetos voltados para a inclusão das Pessoas com Deficiência tinham sido desenvolvidos pela...\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
+        "motivo": "Incorreta: \"“Diversos projetos voltados para a inclusão das Pessoas com Deficiência tinham sido desenvolvidos pela prefeitura.”\" não corresponde à classificação, flexão ou emprego morfológico exigido pela norma culta."
       }
     ],
     "id": "PT0940",
@@ -48911,15 +48911,15 @@
     "analise_distratores": [
       {
         "letra": "A",
-        "motivo": "Incorreta: a estrutura em \"“Os encontros em São Vicente e Granadinas é promovido pela Comunidade dos Estados Latino-Americanos e...\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"“Os encontros em São Vicente e Granadinas é promovido pela Comunidade dos Estados Latino-Americanos e Caribenhos (CELAC) e pela Comunidade do Caribe (CARICOM)”\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "C",
-        "motivo": "Incorreta: a estrutura em \"“Os encontros em São Vicente e Granadinas são promovido pela Comunidade dos Estados Latino-Americanos e...\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"“Os encontros em São Vicente e Granadinas são promovido pela Comunidade dos Estados Latino-Americanos e Caribenhos (CELAC) e pela Comunidade do Caribe (CARICOM)”\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       },
       {
         "letra": "D",
-        "motivo": "Incorreta: a estrutura em \"“Os encontros em São Vicente e Granadinas é promovidos pela Comunidade dos Estados Latino-Americanos e...\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
+        "motivo": "Incorreta: a estrutura em \"“Os encontros em São Vicente e Granadinas é promovidos pela Comunidade dos Estados Latino-Americanos e Caribenhos (CELAC) e pela Comunidade do Caribe (CARICOM)”. 1118 Ano: 2024\" apresenta inadequação sintática ou desvio em relação à norma-padrão cobrada no comando."
       }
     ],
     "id": "PT0946",

@@ -65,16 +65,19 @@ export default function App() {
 
   // Estatísticas em tempo real do Supabase (atualizam automaticamente para +20.000 questões)
   const [statsAcervo, setStatsAcervo] = useState(null);
+  const [retryToken, setRetryToken] = useState(0);
 
   useEffect(() => {
     let ativo = true;
     carregarEstatisticasAcervo()
       .then(res => {
-        if (ativo) setStatsAcervo(res);
+        if (ativo && res && res.totalGeral > 0) {
+          setStatsAcervo(res);
+        }
       })
       .catch(err => console.error('Erro ao carregar estatísticas do Supabase:', err));
     return () => { ativo = false; };
-  }, []);
+  }, [retryToken]);
 
   const totalGeralAcervo = statsAcervo?.totalGeral || 0;
 
@@ -108,7 +111,6 @@ export default function App() {
     total: 0,
     erro: null
   });
-  const [retryToken, setRetryToken] = useState(0);
 
   const chaveConsultaAtual = JSON.stringify({
     banca: filtroBanca,
@@ -480,8 +482,10 @@ export default function App() {
     }
   };
 
-  // Helpers de exibição de contagem em tempo real
-  const fmtQ = (n) => (statsAcervo ? `${n.toLocaleString('pt-BR')} q.` : '...');
+  // Helpers de exibição de contagem em tempo real (sem exibir "(...)" enquanto carrega)
+  const temStats = Boolean(statsAcervo && statsAcervo.totalGeral > 0);
+  const fmtQPar = (n) => (temStats ? ` (${n.toLocaleString('pt-BR')} q.)` : '');
+  const fmtQPill = (n) => (temStats ? `${n.toLocaleString('pt-BR')} q.` : 'Atualizando');
   const totalSelecon = contarPorFiltro(statsAcervo, { banca: 'SELECON' });
   const totalFcc = contarPorFiltro(statsAcervo, { banca: 'FCC' });
   const bancasAtivas = new Set(Object.keys(statsAcervo?.porBanca || {}));
@@ -548,7 +552,7 @@ export default function App() {
                 <Search size={18} color="#94a3b8" style={{ position: 'absolute', left: '12px', top: '12px' }} />
                 <input
                   type="text"
-                  placeholder="Pesquise por prefeitura, assunto ou código (ex: SUS, Imunização, Crase, PCR, EF0010)..."
+                  placeholder="Pesquise por prefeitura, assunto ou código (ex: SUS, Imunização, Crase, PCR, EF0010)"
                   className="filter-input"
                   style={{ width: '100%', paddingLeft: '2.5rem' }}
                   value={buscaTexto}
@@ -565,15 +569,15 @@ export default function App() {
                     value={filtroBanca}
                     onChange={e => { setFiltroBanca(e.target.value); setQuestaoIndex(0); }}
                   >
-                    <option value="SELECON">SELECON ({fmtQ(totalSelecon)})</option>
-                    <option value="FCC">FCC ({fmtQ(totalFcc)})</option>
-                    <option value="Todas">Todas as Bancas ({fmtQ(totalGeralAcervo)})</option>
+                    <option value="SELECON">SELECON{fmtQPar(totalSelecon)}</option>
+                    <option value="FCC">FCC{fmtQPar(totalFcc)}</option>
+                    <option value="Todas">Todas as Bancas{fmtQPar(totalGeralAcervo)}</option>
                     <optgroup label="Bancas em Preparação">
                       {BANCAS_PRECONFIGURADAS.filter(b => b !== 'SELECON' && b !== 'FCC').map(b => {
                         const qtd = contarPorFiltro(statsAcervo, { banca: b });
                         return (
                           <option key={b} value={b} disabled={qtd === 0}>
-                            {b} ({qtd > 0 ? fmtQ(qtd) : 'Em breve'})
+                            {b}{qtd > 0 ? fmtQPar(qtd) : ' (Em breve)'}
                           </option>
                         );
                       })}
@@ -620,13 +624,13 @@ export default function App() {
                     }}
                   >
                     <option value="Enfermagem">
-                      Enfermagem ({fmtQ(contarPorFiltro(statsAcervo, { banca: filtroBanca, materia: 'Enfermagem' }))})
+                      Enfermagem{fmtQPar(contarPorFiltro(statsAcervo, { banca: filtroBanca, materia: 'Enfermagem' }))}
                     </option>
                     <option value="Língua Portuguesa">
-                      Língua Portuguesa ({fmtQ(contarPorFiltro(statsAcervo, { banca: filtroBanca, materia: 'Língua Portuguesa' }))})
+                      Língua Portuguesa{fmtQPar(contarPorFiltro(statsAcervo, { banca: filtroBanca, materia: 'Língua Portuguesa' }))}
                     </option>
                     <option value="Todas">
-                      Todas as Disciplinas ({fmtQ(contarPorFiltro(statsAcervo, { banca: filtroBanca }))})
+                      Todas as Disciplinas{fmtQPar(contarPorFiltro(statsAcervo, { banca: filtroBanca }))}
                     </option>
                   </select>
                 </div>
@@ -657,9 +661,9 @@ export default function App() {
                     <option value="Todos">
                       {(() => {
                         const qtd = contarPorFiltro(statsAcervo, { banca: filtroBanca, materia: filtroMateria });
-                        if (filtroMateria === 'Língua Portuguesa') return `Todos os Assuntos de Língua Portuguesa (${fmtQ(qtd)})`;
-                        if (filtroMateria === 'Enfermagem') return `Todos os Assuntos de Enfermagem (${fmtQ(qtd)})`;
-                        return `Todos os Assuntos (${fmtQ(qtd)})`;
+                        if (filtroMateria === 'Língua Portuguesa') return `Todos os Assuntos de Língua Portuguesa${fmtQPar(qtd)}`;
+                        if (filtroMateria === 'Enfermagem') return `Todos os Assuntos de Enfermagem${fmtQPar(qtd)}`;
+                        return `Todos os Assuntos${fmtQPar(qtd)}`;
                       })()}
                     </option>
 
@@ -670,7 +674,7 @@ export default function App() {
                             const qtd = contarPorFiltro(statsAcervo, { banca: filtroBanca, materia: 'Língua Portuguesa', assunto: a.nome });
                             return (
                               <option key={a.nome} value={a.nome}>
-                                {a.nome} ({fmtQ(qtd)})
+                                {a.nome}{fmtQPar(qtd)}
                               </option>
                             );
                           })}
@@ -680,7 +684,7 @@ export default function App() {
                           const qtd = contarPorFiltro(statsAcervo, { banca: filtroBanca, materia: 'Língua Portuguesa', assunto: a.nome });
                           return (
                             <option key={a.nome} value={a.nome}>
-                              {a.nome} ({fmtQ(qtd)})
+                              {a.nome}{fmtQPar(qtd)}
                             </option>
                           );
                         })
@@ -694,7 +698,7 @@ export default function App() {
                             const qtd = contarPorFiltro(statsAcervo, { banca: filtroBanca, materia: 'Enfermagem', assunto: a.nome });
                             return (
                               <option key={a.nome} value={a.nome}>
-                                {a.nome} ({fmtQ(qtd)})
+                                {a.nome}{fmtQPar(qtd)}
                               </option>
                             );
                           })}
@@ -704,7 +708,7 @@ export default function App() {
                           const qtd = contarPorFiltro(statsAcervo, { banca: filtroBanca, materia: 'Enfermagem', assunto: a.nome });
                           return (
                             <option key={a.nome} value={a.nome}>
-                              {a.nome} ({fmtQ(qtd)})
+                              {a.nome}{fmtQPar(qtd)}
                             </option>
                           );
                         })
@@ -1833,10 +1837,10 @@ export default function App() {
                     <div className="funnel-right">
                       <span className="pill-badge">
                         {padraoBanca === 'Todas'
-                          ? fmtQ(totalGeralAcervo)
+                          ? fmtQPill(totalGeralAcervo)
                           : contarPorFiltro(statsAcervo, { banca: padraoBanca }) > 0
-                            ? fmtQ(contarPorFiltro(statsAcervo, { banca: padraoBanca }))
-                            : 'Em Breve'}
+                            ? fmtQPill(contarPorFiltro(statsAcervo, { banca: padraoBanca }))
+                            : temStats ? 'Em Breve' : 'Atualizando'}
                       </span>
                       <ChevronDown size={16} className={`funnel-arrow ${bancaDropdownAberto ? 'open' : ''}`} />
                     </div>
@@ -1850,7 +1854,7 @@ export default function App() {
                         onClick={() => { setPadraoBanca('SELECON'); setBancaDropdownAberto(false); }}
                       >
                         <span className="item-name">SELECON</span>
-                        <span className="pill-badge">{fmtQ(totalSelecon)}</span>
+                        <span className="pill-badge">{fmtQPill(totalSelecon)}</span>
                       </button>
                       <button
                         type="button"
@@ -1858,7 +1862,7 @@ export default function App() {
                         onClick={() => { setPadraoBanca('FCC'); setBancaDropdownAberto(false); }}
                       >
                         <span className="item-name">FCC</span>
-                        <span className="pill-badge">{fmtQ(totalFcc)}</span>
+                        <span className="pill-badge">{fmtQPill(totalFcc)}</span>
                       </button>
                       <button
                         type="button"
@@ -1866,7 +1870,7 @@ export default function App() {
                         onClick={() => { setPadraoBanca('Todas'); setBancaDropdownAberto(false); }}
                       >
                         <span className="item-name">Todas as Bancas</span>
-                        <span className="pill-badge">{fmtQ(totalGeralAcervo)}</span>
+                        <span className="pill-badge">{fmtQPill(totalGeralAcervo)}</span>
                       </button>
                       {BANCAS_PRECONFIGURADAS.filter(b => b !== 'SELECON' && b !== 'FCC').map(banca => {
                         const qtd = contarPorFiltro(statsAcervo, { banca });
@@ -1878,7 +1882,7 @@ export default function App() {
                             onClick={() => { setPadraoBanca(banca); setBancaDropdownAberto(false); }}
                           >
                             <span className="item-name">{banca}</span>
-                            <span className="pill-badge">{qtd > 0 ? fmtQ(qtd) : 'Em Breve'}</span>
+                            <span className="pill-badge">{qtd > 0 ? fmtQPill(qtd) : 'Em Breve'}</span>
                           </button>
                         );
                       })}
@@ -1906,7 +1910,7 @@ export default function App() {
                     </div>
                     <div className="funnel-right">
                       <span className="pill-badge">
-                        {fmtQ(contarPorFiltro(statsAcervo, { banca: padraoBanca, materia: padraoMateria }))}
+                        {fmtQPill(contarPorFiltro(statsAcervo, { banca: padraoBanca, materia: padraoMateria }))}
                       </span>
                       <ChevronDown size={16} className={`funnel-arrow ${materiaDropdownAberto ? 'open' : ''}`} />
                     </div>
@@ -1920,7 +1924,7 @@ export default function App() {
                         onClick={() => { setPadraoMateria('Todas'); setMateriaDropdownAberto(false); }}
                       >
                         <span className="item-name">Todas as Matérias</span>
-                        <span className="pill-badge">{fmtQ(contarPorFiltro(statsAcervo, { banca: padraoBanca }))}</span>
+                        <span className="pill-badge">{fmtQPill(contarPorFiltro(statsAcervo, { banca: padraoBanca }))}</span>
                       </button>
                       <button
                         type="button"
@@ -1928,7 +1932,7 @@ export default function App() {
                         onClick={() => { setPadraoMateria('Língua Portuguesa'); setMateriaDropdownAberto(false); }}
                       >
                         <span className="item-name">Língua Portuguesa</span>
-                        <span className="pill-badge">{fmtQ(contarPorFiltro(statsAcervo, { banca: padraoBanca, materia: 'Língua Portuguesa' }))}</span>
+                        <span className="pill-badge">{fmtQPill(contarPorFiltro(statsAcervo, { banca: padraoBanca, materia: 'Língua Portuguesa' }))}</span>
                       </button>
                       <button
                         type="button"
@@ -1936,7 +1940,7 @@ export default function App() {
                         onClick={() => { setPadraoMateria('Enfermagem'); setMateriaDropdownAberto(false); }}
                       >
                         <span className="item-name">Enfermagem</span>
-                        <span className="pill-badge">{fmtQ(contarPorFiltro(statsAcervo, { banca: padraoBanca, materia: 'Enfermagem' }))}</span>
+                        <span className="pill-badge">{fmtQPill(contarPorFiltro(statsAcervo, { banca: padraoBanca, materia: 'Enfermagem' }))}</span>
                       </button>
                     </div>
                   )}
@@ -1944,7 +1948,13 @@ export default function App() {
               </div>
             </div>
 
-            {totalQuestoesPadrao === 0 ? (
+            {!temStats ? (
+              <div style={{ textAlign: 'center', padding: '3.5rem 2rem', background: '#ffffff', borderRadius: '1rem', border: '1px solid #e2e8f0', margin: '1.5rem 0' }}>
+                <div style={{ width: '40px', height: '40px', border: '3px solid #ccfbf1', borderTopColor: '#0d9488', borderRadius: '50%', animation: 'enfSpin 0.75s linear infinite', margin: '0 auto 1rem' }}></div>
+                <h3 style={{ fontSize: '1.15rem', fontWeight: 700, color: '#0f172a', marginBottom: '0.35rem' }}>Carregando Raio-X da Banca</h3>
+                <p style={{ color: '#64748b', fontSize: '0.9rem', margin: 0 }}>Calculando estatísticas em tempo real do banco auditado</p>
+              </div>
+            ) : totalQuestoesPadrao === 0 ? (
               <div className="padrao-empty-state animate-fade-in">
                 <div className="padrao-empty-icon">
                   <Building2 size={28} />
@@ -1957,10 +1967,10 @@ export default function App() {
                 </p>
                 <div style={{ display: 'flex', gap: '0.75rem', justifyContent: 'center', flexWrap: 'wrap' }}>
                   <button className="btn-primary" onClick={() => { setPadraoBanca('SELECON'); setPadraoMateria('Todas'); }}>
-                    Ver Raio-X da SELECON ({fmtQ(totalSelecon)})
+                    Ver Raio-X da SELECON{fmtQPar(totalSelecon)}
                   </button>
                   <button className="btn-padrao-pill" onClick={() => { setPadraoBanca('FCC'); setPadraoMateria('Todas'); }}>
-                    Ver Raio-X da FCC ({fmtQ(totalFcc)})
+                    Ver Raio-X da FCC{fmtQPar(totalFcc)}
                   </button>
                 </div>
               </div>
