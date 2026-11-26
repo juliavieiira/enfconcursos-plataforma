@@ -7,7 +7,6 @@ import { SIMULADOS_OFICIAIS } from './data/simuladosData';
 import {
   Stethoscope,
   BookOpen,
-  BookCheck,
   Timer,
   Award,
   CheckCircle2,
@@ -1039,83 +1038,70 @@ export default function App() {
           <section className="animate-fade-in">
             {!simuladoAtivo ? (
               <div>
-                <div style={{ textAlign: 'center', maxWidth: '780px', margin: '0 auto 2.25rem' }}>
-                  <div className="hero-tag" style={{ margin: '0 auto 0.75rem', display: 'inline-flex' }}>
-                    <BookCheck size={15} color="#0d9488" />
-                    <span>Simulados Proporcionais no Padrão da Banca</span>
-                  </div>
-                  <h2 style={{ fontSize: '1.9rem', fontWeight: 800, color: '#0f172a', marginBottom: '0.65rem' }}>
-                    Simulados Oficiais no Padrão {simuladoBanca}
+                {/* Seletor em Funil: Escolha a Banca */}
+                <div style={{ maxWidth: '360px', margin: '0.5rem auto 2.5rem', textAlign: 'center' }}>
+                  <h2 style={{ fontSize: '1.4rem', fontWeight: 800, color: '#0f172a', marginBottom: '0.65rem', textAlign: 'center', letterSpacing: '-0.01em' }}>
+                    (escolha a banca)
                   </h2>
-                  <p style={{ color: '#64748b', fontSize: '1rem', lineHeight: '1.6', marginBottom: '1.5rem' }}>
-                    Provas completas cronometradas estruturadas rigorosamente de acordo com o padrão estatístico de cobrança da banca: <strong>20 questões de Língua Portuguesa</strong> e <strong>40 questões de Enfermagem</strong> (60 questões no total).
-                  </p>
+                  <div className="padrao-dropdown-container" style={{ textAlign: 'left' }}>
+                    <button
+                      type="button"
+                      className={`btn-padrao-funnel ${simuladoBancaDropdownAberto ? 'active' : ''}`}
+                      onClick={() => setSimuladoBancaDropdownAberto(!simuladoBancaDropdownAberto)}
+                      title="Clique para escolher a banca dos simulados"
+                    >
+                      <div className="funnel-left">
+                        <Filter size={16} className="funnel-icon" />
+                        <span className="funnel-text">{simuladoBanca}</span>
+                      </div>
+                      <div className="funnel-right">
+                        <span className="pill-badge">
+                          {simuladoBanca === 'SELECON' || simuladoBanca === 'FCC' ? '2 Simulados' : 'Em Breve'}
+                        </span>
+                        <ChevronDown size={16} className={`funnel-arrow ${simuladoBancaDropdownAberto ? 'open' : ''}`} />
+                      </div>
+                    </button>
 
-                  {/* Seletor em Funil: Escolha a Banca */}
-                  <div style={{ maxWidth: '340px', margin: '0 auto', textAlign: 'left' }}>
-                    <span className="padrao-filter-label" style={{ display: 'block', marginBottom: '0.35rem', textAlign: 'center' }}>
-                      (escolha a banca)
-                    </span>
-                    <div className="padrao-dropdown-container">
-                      <button
-                        type="button"
-                        className={`btn-padrao-funnel ${simuladoBancaDropdownAberto ? 'active' : ''}`}
-                        onClick={() => setSimuladoBancaDropdownAberto(!simuladoBancaDropdownAberto)}
-                        title="Clique para escolher a banca dos simulados"
-                      >
-                        <div className="funnel-left">
-                          <Filter size={16} className="funnel-icon" />
-                          <span className="funnel-text">{simuladoBanca}</span>
-                        </div>
-                        <div className="funnel-right">
-                          <span className="pill-badge">
-                            {simuladoBanca === 'SELECON' || simuladoBanca === 'FCC' ? '2 Simulados' : 'Em Breve'}
-                          </span>
-                          <ChevronDown size={16} className={`funnel-arrow ${simuladoBancaDropdownAberto ? 'open' : ''}`} />
-                        </div>
-                      </button>
-
-                      {simuladoBancaDropdownAberto && (
-                        <div className="padrao-dropdown-menu animate-fade-in">
+                    {simuladoBancaDropdownAberto && (
+                      <div className="padrao-dropdown-menu animate-fade-in">
+                        <button
+                          type="button"
+                          className={`padrao-dropdown-item ${simuladoBanca === 'SELECON' ? 'selected' : ''}`}
+                          onClick={() => {
+                            setSimuladoBanca('SELECON');
+                            setSimuladoBancaDropdownAberto(false);
+                          }}
+                        >
+                          <span className="item-name">SELECON</span>
+                          <span className="pill-badge">2 Simulados</span>
+                        </button>
+                        <button
+                          type="button"
+                          className={`padrao-dropdown-item ${simuladoBanca === 'FCC' ? 'selected' : ''}`}
+                          onClick={() => {
+                            setSimuladoBanca('FCC');
+                            setSimuladoBancaDropdownAberto(false);
+                          }}
+                        >
+                          <span className="item-name">FCC</span>
+                          <span className="pill-badge">2 Simulados</span>
+                        </button>
+                        {BANCAS_PRECONFIGURADAS.filter(b => b !== 'SELECON' && b !== 'FCC').map(banca => (
                           <button
+                            key={banca}
                             type="button"
-                            className={`padrao-dropdown-item ${simuladoBanca === 'SELECON' ? 'selected' : ''}`}
+                            className={`padrao-dropdown-item ${simuladoBanca === banca ? 'selected' : ''}`}
                             onClick={() => {
-                              setSimuladoBanca('SELECON');
+                              setSimuladoBanca(banca);
                               setSimuladoBancaDropdownAberto(false);
                             }}
                           >
-                            <span className="item-name">SELECON</span>
-                            <span className="pill-badge">2 Simulados</span>
+                            <span className="item-name">{banca}</span>
+                            <span className="pill-badge">Em Breve</span>
                           </button>
-                          <button
-                            type="button"
-                            className={`padrao-dropdown-item ${simuladoBanca === 'FCC' ? 'selected' : ''}`}
-                            onClick={() => {
-                              setSimuladoBanca('FCC');
-                              setSimuladoBancaDropdownAberto(false);
-                            }}
-                          >
-                            <span className="item-name">FCC</span>
-                            <span className="pill-badge">2 Simulados</span>
-                          </button>
-                          {BANCAS_PRECONFIGURADAS.filter(b => b !== 'SELECON' && b !== 'FCC').map(banca => (
-                            <button
-                              key={banca}
-                              type="button"
-                              className={`padrao-dropdown-item ${simuladoBanca === banca ? 'selected' : ''}`}
-                              onClick={() => {
-                                setSimuladoBanca(banca);
-                                setSimuladoBancaDropdownAberto(false);
-                              }}
-                            >
-                              <span className="item-name">{banca}</span>
-                              <span className="pill-badge">Em Breve</span>
-                            </button>
-                          ))}
-                        </div>
-                      )}
-                    </div>
+                        ))}
+                      </div>
+                    )}
                   </div>
                 </div>
 
