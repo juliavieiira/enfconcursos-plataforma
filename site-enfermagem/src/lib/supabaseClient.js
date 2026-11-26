@@ -251,8 +251,29 @@ const xhrFetch = (url, init = {}) =>
     xhr.send(init.body ?? null);
   });
 
-// Em ambiente de desenvolvimento (preview sandbox), reescreve chamadas do Supabase
-// para o caminho RELATIVO '/supabase-proxy/...' servido pelo Vite na mesma origem.
+const toBase64Url = (str) => {
+  const bytes = new TextEncoder().encode(str);
+  let binary = '';
+  for (let i = 0; i < bytes.length; i += 1) {
+    binary += String.fromCharCode(bytes[i]);
+  }
+  return btoa(binary).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
+};
+
+const unwrapBridgeResponse = async (bridgeRes) => {
+  const envelope = await bridgeRes.json();
+  const status = typeof envelope?.status === 'number' ? envelope.status : 500;
+  const respHeaders = new Headers(envelope?.headers || {});
+  const body = status === 204 || status === 304 ? null : (envelope?.body ?? '');
+  return new Response(body, {
+    status,
+    statusText: envelope?.statusText || 'OK',
+    headers: respHeaders
+  });
+};
+
+// Em ambiente de desenvolvimento (preview sandbox), envia chamadas do Supabase via bridge
+// server-side '/api/sb' (HTTP 200 JSON sem cabeçalhos sensíveis nem acesso externo direto).
 // Em produção (Vercel/Netlify/domínio próprio), conecta diretamente à URL oficial do Supabase.
 const devProxyFetch = async (input, init = {}) => {
   const rawUrl =
@@ -262,39 +283,64 @@ const devProxyFetch = async (input, init = {}) => {
         ? input.toString()
         : input?.url || String(input);
 
-  let proxiedUrl = rawUrl;
-  if (supabaseUrl && rawUrl.startsWith(supabaseUrl)) {
-    proxiedUrl = `/supabase-proxy${rawUrl.slice(supabaseUrl.length)}`;
-  }
+  const baseClean = (supabaseUrl || '').replace(/\/$/, '');
+  const targetPath = baseClean && rawUrl.startsWith(baseClean)
+    ? rawUrl.slice(baseClean.length)
+    : rawUrl;
 
-  const cleanInit = {
-    method: init?.method || 'GET',
-    headers: headersToPlainObject(init?.headers),
-    ...(init?.body !== undefined ? { body: init.body } : {}),
-    ...(init?.signal ? { signal: init.signal } : {})
-  };
+  const method = (init?.method || 'GET').toUpperCase();
+  const headers = headersToPlainObject(init?.headers);
+  const body = typeof init?.body === 'string' ? init.body : undefined;
 
-  // 1. Caminho relativo '/supabase-proxy/...' (padrão ideal para sandbox preview e localhost)
+  const envelopePayload = JSON.stringify({
+    path: targetPath,
+    method,
+    headers,
+    ...(body !== undefined ? { body } : {})
+  });
+
+  // 1. Tenta POST /api/sb (suporta todas as operações: consultas, RPC e Auth)
   try {
-    return await window.fetch(proxiedUrl, cleanInit);
-  } catch (err1) {
-    if (proxiedUrl.startsWith('/')) {
-      // 2. Fallback explícito para localhost:8080
+    const res = await window.fetch('/api/sb', {
+      method: 'POST',
+      headers: { 'Content-Type': 'text/plain;charset=UTF-8' },
+      body: envelopePayload
+    });
+    if (res.ok) {
+      return await unwrapBridgeResponse(res);
+    }
+  } catch (errPost) {
+    // 2. Para leituras (GET), tenta também GET /api/sb?d=<base64url> (sem payload POST)
+    if (method === 'GET') {
       try {
-        return await window.fetch(`http://localhost:8080${proxiedUrl}`, cleanInit);
-      } catch {
-        // 3. Fallback via XMLHttpRequest relativo
-        try {
-          return await xhrFetch(proxiedUrl, cleanInit);
-        } catch {
-          const origin = typeof window !== 'undefined' ? window.location?.origin : 'n/a';
-          const href = typeof window !== 'undefined' ? window.location?.href : 'n/a';
-          throw new TypeError(`${err1?.message || 'Fetch error'} (origin=${origin}, href=${href}, proxy=${proxiedUrl})`);
+        const resGet = await window.fetch(`/api/sb?d=${toBase64Url(envelopePayload)}`);
+        if (resGet.ok) {
+          return await unwrapBridgeResponse(resGet);
         }
+      } catch {
+        // segue para diagnóstico
       }
     }
-    throw err1;
+
+    // 3. Último fallback via XHR relativo em /api/sb
+    try {
+      const xhrRes = await xhrFetch('/api/sb', {
+        method: 'POST',
+        headers: { 'Content-Type': 'text/plain;charset=UTF-8' },
+        body: envelopePayload
+      });
+      if (xhrRes.ok) {
+        return await unwrapBridgeResponse(xhrRes);
+      }
+    } catch {
+      const origin = typeof window !== 'undefined' ? window.location?.origin : 'n/a';
+      throw new TypeError(`${errPost?.message || 'Bridge fetch error'} (origin=${origin}, bridge=/api/sb)`);
+    }
+
+    throw errPost;
   }
+
+  throw new TypeError('O bridge /api/sb do servidor de desenvolvimento não respondeu.');
 };
 
 // Inicializa cliente real se variáveis existirem, senão ativa o mock com persistência local
@@ -315,5 +361,6 @@ if (import.meta.hot) {
 }
 
 export default supabase;
+
 
 
