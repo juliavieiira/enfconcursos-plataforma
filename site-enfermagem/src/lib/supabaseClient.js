@@ -198,9 +198,17 @@ class MockSupabaseClient {
   }
 }
 
+// Em ambiente de desenvolvimento (preview sandbox), roteia pelo proxy same-origin do Vite
+// Em produção (Vercel/Netlify/domínio próprio), conecta diretamente à URL oficial do Supabase
+const effectiveSupabaseUrl =
+  import.meta.env.DEV && typeof window !== 'undefined'
+    ? `${window.location.origin}/supabase-proxy`
+    : supabaseUrl;
+
 // Inicializa cliente real se variáveis existirem, senão ativa o mock com persistência local
 export const supabase = isSupabaseConfigured()
-  ? createClient(supabaseUrl, supabaseAnonKey)
+  ? createClient(effectiveSupabaseUrl, supabaseAnonKey)
   : new MockSupabaseClient();
 
 export default supabase;
+
