@@ -79,11 +79,21 @@ def classificar_assunto_portugues(assunto_raw, enunciado):
         return 'Morfologia - Tempos e Modos Verbais'
     if any(k in text for k in ['pronome', 'próclise', 'ênclise', 'mesóclise', 'colocação pronominal', 'oblíquo', 'relativo']):
         return 'Morfologia - Pronomes e Colocação Pronominal'
-    if any(k in text for k in ['conjunção', 'conectivo', 'conquanto', 'embora', 'porquanto', 'à medida que', 'na medida em que', 'relação lógico', 'coesão']):
+    if any(k in text for k in ['conjunção', 'conectivo', 'conquanto', 'embora', 'porquanto', 'à medida que', 'na medida em que', 'relação lógico']):
         return 'Conjunções e Relações Lógico-Discursivas'
+    if any(k in text for k in ['fonema', 'dígraf', 'encontro vocálico', 'ditongo', 'hiato', 'tritongo']):
+        return 'Fonologia e Acentuação'
+    if any(k in text for k in ['acentuação', 'oxítona', 'paroxítona', 'proparoxítona', 'ortografia', 'ortográfica', 'grafia', 'hífen', 'grafado']):
+        return 'Ortografia Oficial e Acentuação Gráfica'
+    if any(k in text for k in ['substantivo', 'adjetivo', 'advérbio', 'artigo', 'classe gramatical', 'classe de palavras']):
+        return 'Morfologia - Classes Gramaticais'
+    if any(k in text for k in ['coesão', 'anáfora', 'catáfora', 'referenciação', 'termo sublinhado refere-se', 'retoma o termo']):
+        return 'Coesão Textual e Referenciação'
+    if any(k in (enunciado).lower() for k in ['gênero', 'tipologia', 'narrativ', 'dissertativ', 'injuntiv', 'crônica']):
+        return 'Tipologia e Gêneros Textuais'
     if any(k in text for k in ['sinônimo', 'antônimo', 'sentido', 'significação', 'denotação', 'conotação', 'figura de linguagem', 'metáfora']):
         return 'Semântica e Significação das Palavras'
-    return 'Interpretação de Textos e Tipologia'
+    return 'Interpretação e Compreensão de Textos'
 
 # ==========================================
 # GERADOR DE COMENTÁRIOS E EXPLICAÇÕES LÓGICAS
@@ -234,6 +244,34 @@ def gerar_explicacao_portugues(q):
         fund = (
             f"A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. "
             f"A alternativa [{gabarito}] ('{texto_correto}') preserva o sentido original e a coerência semântica do trecho em análise."
+        )
+    elif assunto == "Ortografia Oficial e Acentuação Gráfica":
+        fund = (
+            f"Conforme o Novo Acordo Ortográfico da Língua Portuguesa e as regras de acentuação gráfica (Evanildo Bechara; Celso Cunha), "
+            f"a acentuação gráfica e a grafia das palavras seguem regras fonético-morfológicas estritas (tonicidade oxítona, paroxítona e proparoxítona). "
+            f"A alternativa [{gabarito}] ('{texto_correto}') atende com exatidão à norma ortográfica vigente."
+        )
+    elif assunto == "Morfologia - Classes Gramaticais":
+        fund = (
+            f"Na morfologia normativa (Celso Cunha; Domingos Paschoal Cegalla), a classificação dos vocábulos considera suas propriedades semânticas, "
+            f"flexionais e sintáticas (substantivo, adjetivo, advérbio, preposição, etc.). "
+            f"A alternativa [{gabarito}] ('{texto_correto}') identifica com precisão a classe gramatical correspondente."
+        )
+    elif assunto == "Coesão Textual e Referenciação":
+        fund = (
+            f"Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. "
+            f"A alternativa [{gabarito}] ('{texto_correto}') estabelece corretamente o elo coesivo indicado pelo comando."
+        )
+    elif assunto == "Tipologia e Gêneros Textuais":
+        fund = (
+            f"A tipologia textual estrutura-se segundo sequências discursivas dominantes (narrativa, dissertativa, descritiva, injuntiva), "
+            f"enquanto o gênero textual vincula-se ao contexto comunicativo e função social do enunciado. "
+            f"A alternativa [{gabarito}] ('{texto_correto}') define com exatidão a tipologia e a intenção comunicativa do texto."
+        )
+    elif assunto == "Fonologia e Acentuação":
+        fund = (
+            f"Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. "
+            f"A alternativa [{gabarito}] ('{texto_correto}') traduz a análise fonético-fonológica correta."
         )
     else:
         fund = (
@@ -565,16 +603,40 @@ def auditar_e_reconstruir():
     SITE_ASSUNTOS_DIR.mkdir(parents=True, exist_ok=True)
     PUBLIC_ASSUNTOS_DIR.mkdir(parents=True, exist_ok=True)
     
+    # Limpar index.json corrompido antigo se existir
+    for dir_path in [PUBLIC_ASSUNTOS_DIR, SITE_ASSUNTOS_DIR]:
+        old_idx = dir_path / "index.json"
+        if old_idx.exists():
+            old_idx.unlink()
+    
     questoes_por_slug = {}
     for q in todas_as_questoes:
+        # Garantir campos de compatibilidade
+        q["resposta"] = q["resposta_correta"]
+        q["explicacao"] = q.get("fundamentacao_correta", "")
         slug = sanitizar_nome(q["assunto"])
         questoes_por_slug.setdefault(slug, []).append(q)
+        
+    # Garantir alias entre interpretacao_e_compreensao_de_textos e interpretacao_de_textos_e_tipologia
+    if "interpretacao_e_compreensao_de_textos" in questoes_por_slug:
+        questoes_por_slug["interpretacao_de_textos_e_tipologia"] = questoes_por_slug["interpretacao_e_compreensao_de_textos"]
+    elif "interpretacao_de_textos_e_tipologia" in questoes_por_slug:
+        questoes_por_slug["interpretacao_e_compreensao_de_textos"] = questoes_por_slug["interpretacao_de_textos_e_tipologia"]
+        
+    # Coleções agregadas completas
+    questoes_por_slug["portugues_todas"] = [q for q in todas_as_questoes if q.get("materia") == "Língua Portuguesa"]
+    questoes_por_slug["enfermagem_todas"] = [q for q in todas_as_questoes if q.get("materia") == "Enfermagem"]
+    questoes_por_slug["todas_geral"] = todas_as_questoes
         
     for slug, qs in questoes_por_slug.items():
         with open(PUBLIC_ASSUNTOS_DIR / f"{slug}.json", "w", encoding="utf-8") as f:
             json.dump(qs, f, ensure_ascii=False, indent=2)
+        with open(SITE_ASSUNTOS_DIR / f"{slug}.json", "w", encoding="utf-8") as f:
+            json.dump(qs, f, ensure_ascii=False, indent=2)
         with open(SITE_ASSUNTOS_DIR / f"{slug}.js", "w", encoding="utf-8") as f:
             f.write(f"export const questoes = {json.dumps(qs, ensure_ascii=False, indent=2)};\nexport default questoes;\n")
+            
+    print(f"📦 Sincronizados {len(questoes_por_slug)} chunks modulares em public/ e src/data/assuntos/")
             
     # Exportar CSV de Backup
     BACKUP_DIR.mkdir(parents=True, exist_ok=True)

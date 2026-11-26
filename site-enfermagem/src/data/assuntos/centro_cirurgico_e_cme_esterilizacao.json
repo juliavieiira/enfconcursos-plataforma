@@ -1,1 +1,2092 @@
-[{"codigo_origem": "Q1970036", "numero_original": 242, "banca": "FCC", "orgao": "TRT - 23ª REGIÃO (MT)", "ano": 2022, "prova": "FCC - 2022 - TRT - 23ª REGIÃO (MT) - Técnico Judiciário - Área", "cargo": "Técnico de Enfermagem", "materia": "Enfermagem", "assunto": "Centro Cirúrgico e CME (Esterilização)", "enunciado": "Apoio - Enfermagem do Trabalho Na Central de Material e Esterilização um dos indicadores químicos utilizados para a monitorização do processo de esterilização dos materiais utilizados na unidade é a fita zebrada, que é indicada para utilização em todos os pacotes. Esse indicador de processo evidencia que o material", "alternativas": [{"id": "A", "texto": "ainda precisa passar pelo processo de secagem."}, {"id": "B", "texto": "está esterilizado."}, {"id": "C", "texto": "passou pelo processo."}, {"id": "D", "texto": "está pronto para ser utilizado, após duas horas."}, {"id": "E", "texto": "está livre de microrganismos patogênicos."}], "resposta_correta": "C", "fundamentacao_correta": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [C] ('passou pelo processo.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'ainda precisa passar pelo processo de secagem....' não representa a conduta indicada."}, {"letra": "B", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'está esterilizado....' não representa a conduta indicada."}, {"letra": "D", "motivo": "Apresenta parâmetros numéricos/posológicos incorretos em desacordo com as diretrizes de referência: 'está pronto para ser utilizado, após duas horas....'."}, {"letra": "E", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'está livre de microrganismos patogênicos....' não representa a conduta indicada."}], "comentario": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [C] ('passou pelo processo.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.", "id": "FCC0062", "numero_ordem": 62}, {"codigo_origem": "Q1252227", "numero_original": 354, "banca": "FCC", "orgao": "Prefeitura de São José do Rio Preto - SP", "ano": 2019, "prova": "FCC - 2019 - Prefeitura de São José do Rio", "cargo": "Enfermeiro", "materia": "Enfermagem", "assunto": "Centro Cirúrgico e CME (Esterilização)", "enunciado": "Preto - SP - Técnico em Enfermagem O profissional de enfermagem que atua na Central de Material e Esterilização de uma unidade de saúde recebeu de um setor artigos classificados como não-críticos e sem a presença de matéria orgânica. Nessa situação, os artigos recebidos devem ser submetidos, apenas, ao processo de", "alternativas": [{"id": "A", "texto": "desinfecção de baixo nível."}, {"id": "B", "texto": "limpeza e desinfecção de nível baixo."}, {"id": "C", "texto": "desinfecção de alto nível."}, {"id": "D", "texto": "limpeza."}, {"id": "E", "texto": "limpeza e esterilização de nível intermediário"}], "resposta_correta": "D", "fundamentacao_correta": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [D] ('limpeza.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'desinfecção de baixo nível....' não representa a conduta indicada."}, {"letra": "B", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'limpeza e desinfecção de nível baixo....' não representa a conduta indicada."}, {"letra": "C", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'desinfecção de alto nível....' não representa a conduta indicada."}, {"letra": "E", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'limpeza e esterilização de nível intermediário...' não representa a conduta indicada."}], "comentario": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [D] ('limpeza.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.", "id": "FCC0170", "numero_ordem": 170}, {"codigo_origem": "Q1252162", "numero_original": 365, "banca": "FCC", "orgao": "Prefeitura de São José do Rio Preto - SP", "ano": 2019, "prova": "FCC - 2019 - Prefeitura de São José do Rio", "cargo": "Enfermeiro", "materia": "Enfermagem", "assunto": "Centro Cirúrgico e CME (Esterilização)", "enunciado": "Preto - SP - Enfermeiro Paciente em pós-operatório de revascularização do miocárdio evolui com infecção da ferida operatória apresentando deiscência em terço médio da esternotomia com drenagem de grande quantidade de exsudato purulento e odor fétido. Dentre as coberturas indicadas para o curativo para a contenção do excesso de exsudato,", "alternativas": [{"id": "A", "texto": "estão os ácidos graxos essenciais."}, {"id": "B", "texto": "está o carvão ativado com prata."}, {"id": "C", "texto": "está a placa de hidrocolóide."}, {"id": "D", "texto": "está o hidrogel."}, {"id": "E", "texto": "está a sulfadiazina de prata."}], "resposta_correta": "B", "fundamentacao_correta": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [B] ('está o carvão ativado com prata.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'estão os ácidos graxos essenciais....' não representa a conduta indicada."}, {"letra": "C", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'está a placa de hidrocolóide....' não representa a conduta indicada."}, {"letra": "D", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'está o hidrogel....' não representa a conduta indicada."}, {"letra": "E", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'está a sulfadiazina de prata....' não representa a conduta indicada."}], "comentario": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [B] ('está o carvão ativado com prata.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.", "id": "FCC0181", "numero_ordem": 181}, {"codigo_origem": "Q931002", "numero_original": 554, "banca": "FCC", "orgao": "Prefeitura de Macapá - AP", "ano": 2018, "prova": "FCC - 2018 - Prefeitura de Macapá - AP - Técnico em", "cargo": "Técnico de Enfermagem", "materia": "Enfermagem", "assunto": "Centro Cirúrgico e CME (Esterilização)", "enunciado": "Enfermagem Na programação cirúrgica, o procedimento de ooforectomia bilateral consiste na retirada cirúrgica", "alternativas": [{"id": "A", "texto": "da túnica vaginal dos dois lados do testículo."}, {"id": "B", "texto": "dos ovários."}, {"id": "C", "texto": "da varicocele."}, {"id": "D", "texto": "das tubas uterinas e gânglios adjacentes."}, {"id": "E", "texto": "dos miomas uterinos."}], "resposta_correta": "B", "fundamentacao_correta": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [B] ('dos ovários.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'da túnica vaginal dos dois lados do testículo....' não representa a conduta indicada."}, {"letra": "C", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'da varicocele....' não representa a conduta indicada."}, {"letra": "D", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'das tubas uterinas e gânglios adjacentes....' não representa a conduta indicada."}, {"letra": "E", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'dos miomas uterinos....' não representa a conduta indicada."}], "comentario": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [B] ('dos ovários.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.", "id": "FCC0377", "numero_ordem": 377}, {"codigo_origem": "Q920286", "numero_original": 586, "banca": "FCC", "orgao": "TRT - 15ª Região (SP)", "ano": 2018, "prova": "FCC - 2018 - TRT - 15ª Região (SP) - Técnico Judiciário -", "cargo": "Técnico de Enfermagem", "materia": "Enfermagem", "assunto": "Centro Cirúrgico e CME (Esterilização)", "enunciado": "Enfermagem Após ter recebido o devido treinamento para a preparação de pacotes e montagem da carga na autoclave para a esterilização de instrumentais cirúrgicos, o técnico de enfermagem deve, durante o preparo dos pacotes para o processo de esterilização a vapor, verificar se", "alternativas": [{"id": "A", "texto": "a embalagem de papel grau cirúrgico utilizada é apropriada ao processo, pelo fato desse material permitir uma selagem eficaz e de ter indicador químico impregnado."}, {"id": "B", "texto": "os instrumentos estão dispostos de modo que ocupem, no mínimo, 95% da capacidade do estojo, de modo a favorecer o contato do agente esterilizante com a superfície de todos eles."}, {"id": "C", "texto": "a embalagem apresenta delaminações suficientes na sua superfície, a fim de promover uma secagem segura após a etapa da esterilização."}, {"id": "D", "texto": "todos os instrumentais estão mantidos devidamente montados e fechados dentro das caixas, sem expor suas articulações, facilitando deste modo, o processo de contato do agente esterilizante com toda superfície do material."}, {"id": "E", "texto": "o invólucro escolhido é adequado ao processo e se possui alta memória, pois esta facilita a abertura dos pacotes, mas não impede sua confecção."}], "resposta_correta": "A", "fundamentacao_correta": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [A] ('a embalagem de papel grau cirúrgico utilizada é apropriada ao processo, pelo fato desse material permitir uma selagem eficaz e de ter indicador químico impregnado.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.", "analise_distratores": [{"letra": "B", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'os instrumentos estão dispostos de modo que ocupem, no mínimo, 95% da capacidade...' não representa a conduta indicada."}, {"letra": "C", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'a embalagem apresenta delaminações suficientes na sua superfície, a fim de promo...' não representa a conduta indicada."}, {"letra": "D", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'todos os instrumentais estão mantidos devidamente montados e fechados dentro das...' não representa a conduta indicada."}, {"letra": "E", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'o invólucro escolhido é adequado ao processo e se possui alta memória, pois esta...' não representa a conduta indicada."}], "comentario": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [A] ('a embalagem de papel grau cirúrgico utilizada é apropriada ao processo, pelo fato desse material permitir uma selagem eficaz e de ter indicador químico impregnado.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.", "id": "FCC0405", "numero_ordem": 405}, {"codigo_origem": "Q839949", "numero_original": 659, "banca": "FCC", "orgao": "TRE-PR", "ano": 2017, "prova": "FCC - 2017 - TRE-PR - Técnico Judiciário - Enfermagem", "cargo": "Técnico de Enfermagem", "materia": "Enfermagem", "assunto": "Centro Cirúrgico e CME (Esterilização)", "enunciado": "No pós-operatório imediato de cirurgia ortopédica de um paciente idoso, antes de iniciar os cuidados, o profissional de enfermagem utilizou a Escala Linear não Visual. Esta escala é utilizada com o objetivo de", "alternativas": [{"id": "A", "texto": "identificar o nível de stress."}, {"id": "B", "texto": "avaliar o estado mental."}, {"id": "C", "texto": "classificar a úlcera de pressão."}, {"id": "D", "texto": "avaliar o risco de queda."}, {"id": "E", "texto": "quantificar a dor."}], "resposta_correta": "E", "fundamentacao_correta": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [E] ('quantificar a dor.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'identificar o nível de stress....' não representa a conduta indicada."}, {"letra": "B", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'avaliar o estado mental....' não representa a conduta indicada."}, {"letra": "C", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'classificar a úlcera de pressão....' não representa a conduta indicada."}, {"letra": "D", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'avaliar o risco de queda....' não representa a conduta indicada."}], "comentario": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [E] ('quantificar a dor.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.", "id": "FCC0472", "numero_ordem": 472}, {"codigo_origem": "Q839948", "numero_original": 660, "banca": "FCC", "orgao": "TRE-PR", "ano": 2017, "prova": "FCC - 2017 - TRE-PR - Técnico Judiciário - Enfermagem", "cargo": "Técnico de Enfermagem", "materia": "Enfermagem", "assunto": "Centro Cirúrgico e CME (Esterilização)", "enunciado": "Durante os cuidados de enfermagem prestados a um paciente em pós-operatório de cirurgia gástrica, o técnico de enfermagem observa que o paciente apresenta gasping. Este sinal diz respeito a um tipo de padrão", "alternativas": [{"id": "A", "texto": "pupilar."}, {"id": "B", "texto": "cardíaco."}, {"id": "C", "texto": "de pulso."}, {"id": "D", "texto": "respiratório."}, {"id": "E", "texto": "de sangramento."}], "resposta_correta": "D", "fundamentacao_correta": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [D] ('respiratório.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'pupilar....' não representa a conduta indicada."}, {"letra": "B", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'cardíaco....' não representa a conduta indicada."}, {"letra": "C", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'de pulso....' não representa a conduta indicada."}, {"letra": "E", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'de sangramento....' não representa a conduta indicada."}], "comentario": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [D] ('respiratório.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.", "id": "FCC0473", "numero_ordem": 473}, {"codigo_origem": "Q839945", "numero_original": 663, "banca": "FCC", "orgao": "TRE-PR", "ano": 2017, "prova": "FCC - 2017 - TRE-PR - Técnico Judiciário - Enfermagem", "cargo": "Técnico de Enfermagem", "materia": "Enfermagem", "assunto": "Centro Cirúrgico e CME (Esterilização)", "enunciado": "De acordo com dados levantados pelo Ministério da Saúde, o número de procedimentos cirúrgicos para correção de catarata aumentou de 2010 para 2014. Essa cirurgia consiste em", "alternativas": [{"id": "A", "texto": "aspirar o humor vítreo e o aquoso e preencher os espaços com solução hialina."}, {"id": "B", "texto": "fragmentar a retina e aspirar os fragmentos com aparelho ultrassom."}, {"id": "C", "texto": "implantar a lente intraocular artificial."}, {"id": "D", "texto": "aumentar a pressão intraocular."}, {"id": "E", "texto": "estabilizar a pressão intraocular para 15 a 20 mmHg."}], "resposta_correta": "C", "fundamentacao_correta": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [C] ('implantar a lente intraocular artificial.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'aspirar o humor vítreo e o aquoso e preencher os espaços com solução hialina....' não representa a conduta indicada."}, {"letra": "B", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'fragmentar a retina e aspirar os fragmentos com aparelho ultrassom....' não representa a conduta indicada."}, {"letra": "D", "motivo": "Inverte a correlação clínica/normativa preconizada pelos protocolos oficiais da saúde: 'aumentar a pressão intraocular....'."}, {"letra": "E", "motivo": "Apresenta parâmetros numéricos/posológicos incorretos em desacordo com as diretrizes de referência: 'estabilizar a pressão intraocular para 15 a 20 mmHg....'."}], "comentario": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [C] ('implantar a lente intraocular artificial.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.", "id": "FCC0476", "numero_ordem": 476}, {"codigo_origem": "Q778002", "numero_original": 751, "banca": "FCC", "orgao": "TRE-SP", "ano": 2017, "prova": "FCC - 2017 - TRE-SP - Técnico Judiciário - Enfermagem", "cargo": "Técnico de Enfermagem", "materia": "Enfermagem", "assunto": "Centro Cirúrgico e CME (Esterilização)", "enunciado": "No centro de material e esterilização, o conjunto de medidas comportamentais dos profissionais de saúde visando à prevenção de contaminação cruzada entre o ambiente sujo e o ambiente limpo, na ausência de barreiras físicas, é denominado barreira", "alternativas": [{"id": "A", "texto": "de desinfecção de alto nível."}, {"id": "B", "texto": "de controle de qualidade."}, {"id": "C", "texto": "de qualificação de desempenho."}, {"id": "D", "texto": "técnica."}, {"id": "E", "texto": "de precaução padrão."}], "resposta_correta": "D", "fundamentacao_correta": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [D] ('técnica.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'de desinfecção de alto nível....' não representa a conduta indicada."}, {"letra": "B", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'de controle de qualidade....' não representa a conduta indicada."}, {"letra": "C", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'de qualificação de desempenho....' não representa a conduta indicada."}, {"letra": "E", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'de precaução padrão....' não representa a conduta indicada."}], "comentario": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [D] ('técnica.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.", "id": "FCC0536", "numero_ordem": 536}, {"codigo_origem": "Q777984", "numero_original": 767, "banca": "FCC", "orgao": "TRE-SP", "ano": 2017, "prova": "FCC - 2017 - TRE-SP - Técnico Judiciário - Enfermagem", "cargo": "Técnico de Enfermagem", "materia": "Enfermagem", "assunto": "Centro Cirúrgico e CME (Esterilização)", "enunciado": "Ao realizar a troca de um curativo cirúrgico, o profissional de enfermagem precisa estar atento com relação a alguns cuidados, tal como:", "alternativas": [{"id": "A", "texto": "manter o excesso de exsudação."}, {"id": "B", "texto": "impedir a troca gasosa em nível alveolar e tecidual."}, {"id": "C", "texto": "ser permeável a bactérias."}, {"id": "D", "texto": "permitir a remoção sem traumas."}, {"id": "E", "texto": "não fornecer isolamento térmico."}], "resposta_correta": "D", "fundamentacao_correta": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [D] ('permitir a remoção sem traumas.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'manter o excesso de exsudação....' não representa a conduta indicada."}, {"letra": "B", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'impedir a troca gasosa em nível alveolar e tecidual....' não representa a conduta indicada."}, {"letra": "C", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'ser permeável a bactérias....' não representa a conduta indicada."}, {"letra": "E", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'não fornecer isolamento térmico....' não representa a conduta indicada."}], "comentario": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [D] ('permitir a remoção sem traumas.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.", "id": "FCC0551", "numero_ordem": 551}, {"codigo_origem": "Q1337369", "numero_original": 786, "banca": "FCC", "orgao": "METRÔ-SP", "ano": 2016, "prova": "FCC - 2016 - METRÔ-SP - Auxiliar Enfermagem do Trabalho", "cargo": "Enfermeiro", "materia": "Enfermagem", "assunto": "Centro Cirúrgico e CME (Esterilização)", "enunciado": "Em Centros de Material e Esterilização − CME dos serviços de saúde público e privado, a esterilização de produtos para a saúde pode ser realizada por meio de", "alternativas": [{"id": "A", "texto": "ciclo de esterilização a vapor para uso imediato, nos casos de urgência e emergência."}, {"id": "B", "texto": "estufa, nos casos de esterilização de produtos para saúde críticos."}, {"id": "C", "texto": "imersão química líquida com a utilização de saneantes a base de aldeídos."}, {"id": "D", "texto": "plasma de peróxido de hidrogênio, com os produtos acondicionados em caixas metálicas sem furos."}, {"id": "E", "texto": "autoclave gravitacional de capacidade superior a 100 litros."}], "resposta_correta": "A", "fundamentacao_correta": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [A] ('ciclo de esterilização a vapor para uso imediato, nos casos de urgência e emergência.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.", "analise_distratores": [{"letra": "B", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'estufa, nos casos de esterilização de produtos para saúde críticos....' não representa a conduta indicada."}, {"letra": "C", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'imersão química líquida com a utilização de saneantes a base de aldeídos....' não representa a conduta indicada."}, {"letra": "D", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'plasma de peróxido de hidrogênio, com os produtos acondicionados em caixas metál...' não representa a conduta indicada."}, {"letra": "E", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'autoclave gravitacional de capacidade superior a 100 litros....' não representa a conduta indicada."}], "comentario": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [A] ('ciclo de esterilização a vapor para uso imediato, nos casos de urgência e emergência.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.", "id": "FCC0590", "numero_ordem": 590}, {"codigo_origem": "Q763955", "numero_original": 886, "banca": "FCC", "orgao": "TRT - 20ª REGIÃO (SE)", "ano": 2016, "prova": "FCC - 2016 - TRT - 20ª REGIÃO (SE) - Técnico Judiciário -", "cargo": "Técnico de Enfermagem", "materia": "Enfermagem", "assunto": "Centro Cirúrgico e CME (Esterilização)", "enunciado": "Enfermagem No centro de material e esterilização − CME o profissional de enfermagem está sujeito a temperaturas extremas e fontes de calor provenientes de autoclaves. De acordo com a Norma Regulamentadora 9, do Ministério do Trabalho e Emprego, temperatura extrema é considerada um risco ambiental classificada como agente", "alternativas": [{"id": "A", "texto": "químico."}, {"id": "B", "texto": "físico."}, {"id": "C", "texto": "biológico."}, {"id": "D", "texto": "ergonômico."}, {"id": "E", "texto": "epidemiológico."}], "resposta_correta": "B", "fundamentacao_correta": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [B] ('físico.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'químico....' não representa a conduta indicada."}, {"letra": "C", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'biológico....' não representa a conduta indicada."}, {"letra": "D", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'ergonômico....' não representa a conduta indicada."}, {"letra": "E", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'epidemiológico....' não representa a conduta indicada."}], "comentario": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [B] ('físico.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.", "id": "FCC0679", "numero_ordem": 679}, {"codigo_origem": "Q615924", "numero_original": 907, "banca": "FCC", "orgao": "TRT - 23ª REGIÃO (MT)", "ano": 2016, "prova": "FCC - 2016 - TRT - 23ª REGIÃO (MT) - Técnico Judiciário -", "cargo": "Técnico de Enfermagem", "materia": "Enfermagem", "assunto": "Centro Cirúrgico e CME (Esterilização)", "enunciado": "Enfermagem do Trabalho O profissional de enfermagem, enquanto membro da equipe de saúde, participa da Lista de Verificação de Segurança Cirúrgica, com o objetivo de ajudar as equipes cirúrgicas a reduzir a ocorrência de danos ao paciente. Dentre as verificações de segurança que devem ser completadas após o término do ato cirúrgico e antes do paciente sair da sala de operação, estão:", "alternativas": [{"id": "A", "texto": "confirmar se o cirurgião que vai realizar a operação marcou o local da cirurgia."}, {"id": "B", "texto": "perguntar, em voz alta, se os antibióticos profiláticos foram administrados nos últimos 60 minutos."}, {"id": "C", "texto": "perguntar se o doente tem alguma alergia conhecida e, em caso afirmativo, qual."}, {"id": "D", "texto": "confirmar, verbalmente, com o doente a sua identidade, o tipo de procedimento previsto, o local da cirurgia e se o consentimento para a cirurgia foi dado."}, {"id": "E", "texto": "confirmar, em voz alta, a rotulagem correta de qualquer material obtido durante o procedimento cirúrgico, o nome do doente, a descrição e quaisquer marcas de orientação da amostra."}], "resposta_correta": "E", "fundamentacao_correta": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [E] ('confirmar, em voz alta, a rotulagem correta de qualquer material obtido durante o procedimento cirúrgico, o nome do doente, a descrição e quaisquer marcas de orientação da amostra.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'confirmar se o cirurgião que vai realizar a operação marcou o local da cirurgia....' não representa a conduta indicada."}, {"letra": "B", "motivo": "Apresenta parâmetros numéricos/posológicos incorretos em desacordo com as diretrizes de referência: 'perguntar, em voz alta, se os antibióticos profiláticos foram administrados nos ...'."}, {"letra": "C", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'perguntar se o doente tem alguma alergia conhecida e, em caso afirmativo, qual....' não representa a conduta indicada."}, {"letra": "D", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'confirmar, verbalmente, com o doente a sua identidade, o tipo de procedimento pr...' não representa a conduta indicada."}], "comentario": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [E] ('confirmar, em voz alta, a rotulagem correta de qualquer material obtido durante o procedimento cirúrgico, o nome do doente, a descrição e quaisquer marcas de orientação da amostra.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.", "id": "FCC0696", "numero_ordem": 696}, {"codigo_origem": "Q2118821", "numero_original": 131, "banca": "FCC", "orgao": "TRT - 5ª Região (BA)", "ano": 2022, "prova": "FCC - 2022 - TRT - 5ª Região (BA) - Técnico Judiciário - Enfermagem", "cargo": "Técnico de Enfermagem", "materia": "Enfermagem", "assunto": "Centro Cirúrgico e CME (Esterilização)", "enunciado": "Sobre a Central de Material e Esterilização (CME), considerando as recomendações da RDC no 15/2012, o técnico de enfermagem deve saber que", "alternativas": [{"id": "A", "texto": "os produtos para a saúde utilizados na assistência ventilatória e inalatória devem ser submetidos à desinfecção por imersão química líquida, utilizando saneantes à base de aldeídos."}, {"id": "B", "texto": "as leitoras de indicadores biológicos e as seladoras térmicas devem ser calibradas, no mínimo, uma vez ao ano."}, {"id": "C", "texto": "a barreira física é o conjunto de medidas comportamentais dos profissionais de saúde que visa à prevenção da contaminação cruzada entre ambiente sujo e ambiente limpo, em caso de ausência de barreiras estruturais."}, {"id": "D", "texto": "a desinfecção de nível intermediário é o processo físico ou químico que destrói microbactérias, fungos e esporos bacterianos presentes em artigos semicríticos."}, {"id": "E", "texto": "as embalagens para esterilização de produtos para saúde são invólucros que permitem a entrada de ar e impedem saída do agente esterilizante, do ar e de microrganismos."}], "resposta_correta": "B", "fundamentacao_correta": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [B] ('as leitoras de indicadores biológicos e as seladoras térmicas devem ser calibradas, no mínimo, uma vez ao ano.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'os produtos para a saúde utilizados na assistência ventilatória e inalatória dev...' não representa a conduta indicada."}, {"letra": "C", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'a barreira física é o conjunto de medidas comportamentais dos profissionais de s...' não representa a conduta indicada."}, {"letra": "D", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'a desinfecção de nível intermediário é o processo físico ou químico que destrói ...' não representa a conduta indicada."}, {"letra": "E", "motivo": "Incorreta segundo os protocolos técnicos do Ministério da Saúde e da banca FCC: 'as embalagens para esterilização de produtos para saúde são invólucros que permi...' não representa a conduta indicada."}], "comentario": "Conforme a RDC ANVISA nº 15/2012 (Boas Práticas para o Processamento de Produtos para a Saúde) e manuais da SOBECC, a rastreabilidade, indicadores físicos, químicos e biológicos e o fluxo unidirecional garantem a esterilidade e previnem Infecções do Sítio Cirúrgico (ISC). A alternativa [B] ('as leitoras de indicadores biológicos e as seladoras térmicas devem ser calibradas, no mínimo, uma vez ao ano.') cumpre integralmente os requisitos de controle de qualidade e biossegurança.", "id": "FCC0780", "numero_ordem": 780}]
+[
+  {
+    "codigo_origem": "Q4336847",
+    "numero_original": 34,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Araçás - BA",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Araçás - BA - Técnico de",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "O monitoramento da qualidade da esterilização é essencial para garantir que os produtos para a saúde estejam seguros para uso. Esse controle é realizado por meio de indicadores físicos, químicos e biológicos, cada um com funções específicas na validação do processo. O indicador biológico, considerado o padrão ouro para monitoramento da esterilização, utiliza microrganismos altamente resistentes ao método empregado para confirmar a eficácia do ciclo. Sobre o monitoramento da esterilização na Central de Material Esterilizado (CME), o técnico de enfermagem deve saber que o indicador biológico:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "substitui os indicadores químicos e físicos, sendo o único método de monitoramento exigido pela legislação"
+      },
+      {
+        "id": "B",
+        "texto": "é utilizado em todas as cargas e tem a função de verificar se a temperatura e o tempo mínimos foram atingidos"
+      },
+      {
+        "id": "C",
+        "texto": "consiste em um dispositivo que muda de cor quando exposto ao calor, indicando que a esterilização foi bem-sucedida"
+      },
+      {
+        "id": "D",
+        "texto": "é empregado periodicamente, sendo o parâmetro mais confiável para atestar a morte dos microrganismos mais resistentes"
+      }
+    ],
+    "resposta_correta": "D",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('é empregado periodicamente, sendo o parâmetro mais confiável para atestar a morte dos microrganismos mais resistentes') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Apresenta termo restritivo ('substitui os indicadores químicos e físicos, sendo o único método de monitoramen...'), generalizando indevidamente uma situação assistencial que comporta exceções clínicas ou normativas."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'é utilizado em todas as cargas e tem a função de verificar se a temperatura e o ...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'consiste em um dispositivo que muda de cor quando exposto ao calor, indicando qu...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('é empregado periodicamente, sendo o parâmetro mais confiável para atestar a morte dos microrganismos mais resistentes') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0034",
+    "numero_ordem": 34,
+    "resposta": "D",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('é empregado periodicamente, sendo o parâmetro mais confiável para atestar a morte dos microrganismos mais resistentes') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q4336845",
+    "numero_original": 36,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Araçás - BA",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Araçás - BA - Técnico de",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "A limpeza de instrumentais cirúrgicos é considerada a etapa mais crítica do processamento de produtos para a saúde, pois a presença de matéria orgânica ou inorgânica forma barreiras que protegem os microrganismos, impedindo que os agentes esterilizantes entrem em contato com a superfície dos artigos. Para que a limpeza seja eficaz, o material deve ser submetido a procedimentos específicos ainda no local de uso e, posteriormente, na Central de Material Esterilizado (CME). Sobre a técnica de limpeza manual de materiais na CME, o técnico de enfermagem deve:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "imergir o material em água potável morna com detergente por, no mínimo, três minutos e, em seguida, realizar a fricção com escovas apropriadas"
+      },
+      {
+        "id": "B",
+        "texto": "utilizar água fria e detergente enzimático, mantendo o material em imersão por 30 minutos antes da fricção com esponjas abrasivas"
+      },
+      {
+        "id": "C",
+        "texto": "realizar a limpeza com água destilada e sabão neutro, secando o material com ar comprimido antes da inspeção visual"
+      },
+      {
+        "id": "D",
+        "texto": "aplicar solução alcoólica a 70% diretamente sobre o material sujo e, após cinco minutos, realizar a fricção com gaze estéril"
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('imergir o material em água potável morna com detergente por, no mínimo, três minutos e, em seguida, realizar a fricção com escovas apropriadas') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: 'utilizar água fria e detergente enzimático, mantendo o material em imersão por 3...' diverge das referências oficiais."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'realizar a limpeza com água destilada e sabão neutro, secando o material com ar ...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: 'aplicar solução alcoólica a 70% diretamente sobre o material sujo e, após cinco ...' diverge das referências oficiais."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('imergir o material em água potável morna com detergente por, no mínimo, três minutos e, em seguida, realizar a fricção com escovas apropriadas') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0036",
+    "numero_ordem": 36,
+    "resposta": "A",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('imergir o material em água potável morna com detergente por, no mínimo, três minutos e, em seguida, realizar a fricção com escovas apropriadas') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q3981935",
+    "numero_original": 62,
+    "banca": "SELECON",
+    "orgao": "EMGEPRON Prova: SELECON - 2026 - EMGEPRON - Técnico em Enfermagem",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - EMGEPRON - Técnico em Enfermagem",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "Um paciente adulto é admitido para procedimento cirúrgico eletivo e passa pelas etapas pré, trans e pós-operatória sob acompanhamento da equipe de enfermagem. Considerando as atribuições do técnico de enfermagem em cada fase do período perioperatório, no:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "período pré-operatório, cabe ao técnico de enfermagem realizar exclusivamente a prescrição de cuidados e o planejamento cirúrgico"
+      },
+      {
+        "id": "B",
+        "texto": "período transoperatório, a responsabilidade do técnico de enfermagem limita-se ao transporte do paciente, não incluindo cuidados de posicionamento"
+      },
+      {
+        "id": "C",
+        "texto": "pós-operatório imediato, o técnico de enfermagem deve monitorar sinais vitais, nível de consciência, dor e possíveis complicações, comunicando alterações à equipe"
+      },
+      {
+        "id": "D",
+        "texto": "período transoperatório, o técnico de enfermagem atua apenas na esterilização dos materiais, sem participação direta na assistência ao paciente ou no transporte dele"
+      }
+    ],
+    "resposta_correta": "C",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('pós-operatório imediato, o técnico de enfermagem deve monitorar sinais vitais, nível de consciência, dor e possíveis complicações, comunicando alterações à equipe') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Apresenta termo restritivo ('período pré-operatório, cabe ao técnico de enfermagem realizar exclusivamente a ...'), generalizando indevidamente uma situação assistencial que comporta exceções clínicas ou normativas."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'período transoperatório, a responsabilidade do técnico de enfermagem limita-se a...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'período transoperatório, o técnico de enfermagem atua apenas na esterilização do...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('pós-operatório imediato, o técnico de enfermagem deve monitorar sinais vitais, nível de consciência, dor e possíveis complicações, comunicando alterações à equipe') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0062",
+    "numero_ordem": 62,
+    "resposta": "C",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('pós-operatório imediato, o técnico de enfermagem deve monitorar sinais vitais, nível de consciência, dor e possíveis complicações, comunicando alterações à equipe') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q3617175",
+    "numero_original": 12,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Tapurah - MT Prova: SELECON - 2025 - Prefeitura de Tapurah - MT -",
+    "ano": 2024,
+    "prova": "SELECON - 2025 - Prefeitura de Tapurah - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "Dentro dos princípios da assepsia cirúrgica para a montagem de um campo estéril, uma área específica do campo é convencionalmente considerada contaminada e não deve ser tocada por materiais estéreis. Essa área corresponde:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "a toda a superfície abaixo do nível da cintura"
+      },
+      {
+        "id": "B",
+        "texto": "ao centro do campo, no qual os instrumentos principais são depositados"
+      },
+      {
+        "id": "C",
+        "texto": "à borda externa de 2,5 cm (uma polegada) do campo"
+      },
+      {
+        "id": "D",
+        "texto": "a qualquer área que entre em contato com luvas estéreis"
+      }
+    ],
+    "resposta_correta": "C",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('à borda externa de 2,5 cm (uma polegada) do campo') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'a toda a superfície abaixo do nível da cintura...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'ao centro do campo, no qual os instrumentos principais são depositados...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'a qualquer área que entre em contato com luvas estéreis...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('à borda externa de 2,5 cm (uma polegada) do campo') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0132",
+    "numero_ordem": 132,
+    "resposta": "C",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('à borda externa de 2,5 cm (uma polegada) do campo') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q2477206",
+    "numero_original": 2,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Água Boa - MT Prova: SELECON - 2024 - Prefeitura de Água Boa - MT -",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Água Boa - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "O checklist de cirurgia segura deve ser aplicado em três momentos, pela equipe cirúrgica (cirurgião, anestesista e equipe de confirmação verbal da identidade do paciente, do sítio cirúrgico e do procedimento será realizada:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "antes da indução anestésica"
+      },
+      {
+        "id": "B",
+        "texto": "antes da incisão cirúrgica"
+      },
+      {
+        "id": "C",
+        "texto": "quando chega na sala"
+      },
+      {
+        "id": "D",
+        "texto": "antes de sair da sala"
+      }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('antes da incisão cirúrgica') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'antes da indução anestésica...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'quando chega na sala...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'antes de sair da sala...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('antes da incisão cirúrgica') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0340",
+    "numero_ordem": 340,
+    "resposta": "B",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('antes da incisão cirúrgica') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q2472193",
+    "numero_original": 8,
+    "banca": "SELECON",
+    "orgao": "SAD-MS Prova: SELECON - 2024 - SAD-MS - Auxiliar de Serviços Hospitalares",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Auxiliar de Serviços Hospitalares",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "Maria foi solicitada no setor ambulatorial para realizar a descontaminação de uma superfície. Ao chegar ao local, notou que havia matéria orgânica em cima de uma bancada. Antes de realizar a desinfecção, Maria deve:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "espalhar o resíduo na bancada"
+      },
+      {
+        "id": "B",
+        "texto": "despejar álcool sobre o resíduo"
+      },
+      {
+        "id": "C",
+        "texto": "retirar o excesso de matéria orgânica com papel absorvente"
+      },
+      {
+        "id": "D",
+        "texto": "retirar o excesso de matéria orgânica com aspirador de pó ou enceradeira"
+      },
+      {
+        "id": "E",
+        "texto": "borrifar solução clorada na superfície, aguardar 10 minutos e enxaguar com água corrente"
+      }
+    ],
+    "resposta_correta": "C",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('retirar o excesso de matéria orgânica com papel absorvente') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'espalhar o resíduo na bancada...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'despejar álcool sobre o resíduo...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'retirar o excesso de matéria orgânica com aspirador de pó ou enceradeira...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: 'borrifar solução clorada na superfície, aguardar 10 minutos e enxaguar com água ...' diverge das referências oficiais."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('retirar o excesso de matéria orgânica com papel absorvente') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0346",
+    "numero_ordem": 346,
+    "resposta": "C",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('retirar o excesso de matéria orgânica com papel absorvente') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q2472179",
+    "numero_original": 19,
+    "banca": "SELECON",
+    "orgao": "SAD-MS Prova: SELECON - 2024 - SAD-MS - Auxiliar de Serviços Hospitalares",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Auxiliar de Serviços Hospitalares",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "A desinfecção de câmaras frigoríficas pode ser realizada com:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "cloro"
+      },
+      {
+        "id": "B",
+        "texto": "álcool a 70%"
+      },
+      {
+        "id": "C",
+        "texto": "água e sabão"
+      },
+      {
+        "id": "D",
+        "texto": "solução clorada"
+      },
+      {
+        "id": "E",
+        "texto": "clorexidina alcóolica"
+      }
+    ],
+    "resposta_correta": "D",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('solução clorada') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'cloro...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: 'álcool a 70%...' diverge das referências oficiais."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'água e sabão...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'clorexidina alcóolica...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('solução clorada') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0357",
+    "numero_ordem": 357,
+    "resposta": "D",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('solução clorada') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q2472178",
+    "numero_original": 20,
+    "banca": "SELECON",
+    "orgao": "SAD-MS Prova: SELECON - 2024 - SAD-MS - Auxiliar de Serviços Hospitalares",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Auxiliar de Serviços Hospitalares",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "O principal produto utilizado em ambiente hospitalar, para desinfecção de superfícies, através da fricção é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "cloro"
+      },
+      {
+        "id": "B",
+        "texto": "detergente"
+      },
+      {
+        "id": "C",
+        "texto": "álcool a 70%"
+      },
+      {
+        "id": "D",
+        "texto": "sabão antisséptico"
+      },
+      {
+        "id": "E",
+        "texto": "clorexidina degermante"
+      }
+    ],
+    "resposta_correta": "C",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('álcool a 70%') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'cloro...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'detergente...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'sabão antisséptico...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'clorexidina degermante...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('álcool a 70%') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0358",
+    "numero_ordem": 358,
+    "resposta": "C",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('álcool a 70%') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q2454925",
+    "numero_original": 489,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sapezal - MT Prova: SELECON - 2024 - Prefeitura de Sapezal - MT - Técnico em",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Técnico em",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "A equipe de enfermagem que trabalha na CME (Central de Material Esterilizado) presta uma assistência indireta ao paciente, tão importante quanto a assistência direta, que é realizada pela equipe de enfermagem que atende ao paciente. Os Técnicos e Auxiliares de Enfermagem que atuam em CME, ou em empresas processadoras de produtos para saúde, realizam atividades:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "exclusivamente de limpeza e esterilização"
+      },
+      {
+        "id": "B",
+        "texto": "de limpeza e armazenamento de materiais"
+      },
+      {
+        "id": "C",
+        "texto": "de apoio, sob orientação e supervisão do(a) Enfermeiro(a)"
+      },
+      {
+        "id": "D",
+        "texto": "previstas nas rotinas estabelecidas, sob orientação e supervisão do(a) Enfermeiro(a)"
+      }
+    ],
+    "resposta_correta": "D",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('previstas nas rotinas estabelecidas, sob orientação e supervisão do(a) Enfermeiro(a)') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Apresenta termo restritivo ('exclusivamente de limpeza e esterilização...'), generalizando indevidamente uma situação assistencial que comporta exceções clínicas ou normativas."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'de limpeza e armazenamento de materiais...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'de apoio, sob orientação e supervisão do(a) Enfermeiro(a)...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('previstas nas rotinas estabelecidas, sob orientação e supervisão do(a) Enfermeiro(a)') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0407",
+    "numero_ordem": 407,
+    "resposta": "D",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('previstas nas rotinas estabelecidas, sob orientação e supervisão do(a) Enfermeiro(a)') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q3674519",
+    "numero_original": 10,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Dourados - MS",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Dourados - MS -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "O sistema de climatização da área de limpeza do Centro de Material e Esterilização (CME) do tipo Classe II e da empresa processadora deve manter temperatura ambiente entre:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "10º e 12º C"
+      },
+      {
+        "id": "B",
+        "texto": "12º e 14º C"
+      },
+      {
+        "id": "C",
+        "texto": "14º e 16º C"
+      },
+      {
+        "id": "D",
+        "texto": "18º e 22º C"
+      }
+    ],
+    "resposta_correta": "D",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('18º e 22º C') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '10º e 12º C...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '12º e 14º C...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '14º e 16º C...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('18º e 22º C') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0447",
+    "numero_ordem": 447,
+    "resposta": "D",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('18º e 22º C') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q2325287",
+    "numero_original": 11,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Primavera do Leste - MT Prova: SELECON - 2023 - Prefeitura de Primavera do Leste -",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Primavera do Leste -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "De acordo com protocolo PE36, que descreve a limpeza e a de 20 minutos desinfecção de equipamentos da ambulância, o laringoscópio e as lâminas para intubação devem seguir a seguinte rotina:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "retirar as pilhas do cabo; retirar as lâmpadas das lâminas; friccionar com pano umedecido em água e sabão e retirar o excesso antes de secar, e friccionar com pano umedecido em álcool 70%"
+      },
+      {
+        "id": "B",
+        "texto": "manter as pilhas do cabo; manter as lâmpadas das lâminas; friccionar com pano umedecido em água e sabão e retirar o excesso antes de secar, e friccionar com pano umedecido em álcool 70%"
+      },
+      {
+        "id": "C",
+        "texto": "retirar as pilhas do cabo; retirar as lâmpadas das lâminas; friccionar com pano umedecido em água morna e sabão e retirar o excesso antes de secar, e friccionar com pano umedecido em óxido de etileno"
+      },
+      {
+        "id": "D",
+        "texto": "retirar as pilhas do cabo; manter as lâmpadas das lâminas; friccionar com pano umedecido em água e sabão e retirar o excesso antes de secar, e friccionar com pano umedecido com clorexidina aquosa 0,12%"
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('retirar as pilhas do cabo; retirar as lâmpadas das lâminas; friccionar com pano umedecido em água e sabão e retirar o excesso antes de secar, e friccionar com pano umedecido em álcool 70%') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: 'manter as pilhas do cabo; manter as lâmpadas das lâminas; friccionar com pano um...' diverge das referências oficiais."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'retirar as pilhas do cabo; retirar as lâmpadas das lâminas; friccionar com pano ...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: 'retirar as pilhas do cabo; manter as lâmpadas das lâminas; friccionar com pano u...' diverge das referências oficiais."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('retirar as pilhas do cabo; retirar as lâmpadas das lâminas; friccionar com pano umedecido em água e sabão e retirar o excesso antes de secar, e friccionar com pano umedecido em álcool 70%') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0508",
+    "numero_ordem": 508,
+    "resposta": "A",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('retirar as pilhas do cabo; retirar as lâmpadas das lâminas; friccionar com pano umedecido em água e sabão e retirar o excesso antes de secar, e friccionar com pano umedecido em álcool 70%') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q2310577",
+    "numero_original": 20,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Primavera do Leste - MT Prova: SELECON - 2023 - Prefeitura de Primavera do Leste -",
+    "ano": 2024,
+    "prova": "SELECON - 2023 - Prefeitura de Primavera do Leste -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "Os fios cirúrgicos devem ser de alta resistência a tração e a torção para evitar complicações no pós-operatório imediato. Existem inúmeras classificações acerca do tipo do fio. Um exemplo de fio absorvível de origem animal é o:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "de seda"
+      },
+      {
+        "id": "B",
+        "texto": "de nylon"
+      },
+      {
+        "id": "C",
+        "texto": "categute simples"
+      },
+      {
+        "id": "D",
+        "texto": "de ácido polidioxanona"
+      }
+    ],
+    "resposta_correta": "C",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('categute simples') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'de seda...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'de nylon...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'de ácido polidioxanona...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('categute simples') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0537",
+    "numero_ordem": 537,
+    "resposta": "C",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('categute simples') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q2310575",
+    "numero_original": 622,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Primavera do Leste - MT Prova: SELECON - 2023 - Prefeitura de Primavera do Leste -",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Primavera do Leste -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "De acordo com os princípios e as técnicas da tricotomia pré-operatória, quando o paciente apresenta pelos que necessitam da remoção, o enfermeiro deve proceder à retirada:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "imediatamente antes da cirurgia e, de preferência, utilizando tricotomizadores elétricos"
+      },
+      {
+        "id": "B",
+        "texto": "48 horas antes da cirurgia e, de preferência, utilizando tricotomizadores elétricos"
+      },
+      {
+        "id": "C",
+        "texto": "96 horas antes da cirurgia e, de preferência, utilizando lâminas de barbear"
+      },
+      {
+        "id": "D",
+        "texto": "24 horas antes da cirurgia e, de preferência, utilizando bisturi"
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('imediatamente antes da cirurgia e, de preferência, utilizando tricotomizadores elétricos') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: '48 horas antes da cirurgia e, de preferência, utilizando tricotomizadores elétri...' diverge das referências oficiais."
+      },
+      {
+        "letra": "C",
+        "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: '96 horas antes da cirurgia e, de preferência, utilizando lâminas de barbear...' diverge das referências oficiais."
+      },
+      {
+        "letra": "D",
+        "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: '24 horas antes da cirurgia e, de preferência, utilizando bisturi...' diverge das referências oficiais."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('imediatamente antes da cirurgia e, de preferência, utilizando tricotomizadores elétricos') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0539",
+    "numero_ordem": 539,
+    "resposta": "A",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('imediatamente antes da cirurgia e, de preferência, utilizando tricotomizadores elétricos') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q2310574",
+    "numero_original": 623,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Primavera do Leste - MT Prova: SELECON - 2023 - Prefeitura de Primavera do Leste -",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Primavera do Leste -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "De acordo com a RDC nº 15 de 2012, que estabelece os requisitos de boas práticas para o funcionamento dos serviços que realizam o processamento de produtos para a saúde, o processo físico ou químico que destrói microrganismos patogênicos na forma vegetativa, microbactérias, a maioria dos vírus e dos fungos, de objetos inanimados e superfícies, é chamada de desinfecção de nível:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "alto"
+      },
+      {
+        "id": "B",
+        "texto": "baixo"
+      },
+      {
+        "id": "C",
+        "texto": "muito alto"
+      },
+      {
+        "id": "D",
+        "texto": "intermediário"
+      }
+    ],
+    "resposta_correta": "D",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('intermediário') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'alto...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'baixo...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'muito alto...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('intermediário') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0540",
+    "numero_ordem": 540,
+    "resposta": "D",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('intermediário') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q2297115",
+    "numero_original": 16,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Campo Verde - MT Prova: SELECON - 2023 - Prefeitura de Campo Verde - MT - Técnico",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Campo Verde - MT - Técnico",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "em Enfermagem A enfermagem cirúrgica é uma área que tem como foco o cuidado com pacientes submetidos a procedimentos cirúrgicos. Esses cuidados perpassam as fases de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "pré-operatório; intraoperatório e pós-operatório"
+      },
+      {
+        "id": "B",
+        "texto": "perioperatório; pré-anestésico e hemostasia"
+      },
+      {
+        "id": "C",
+        "texto": "pré-anestésico; perioperatório e pós-anestesia"
+      },
+      {
+        "id": "D",
+        "texto": "pré-internação; intraoperatório e pós-cirúrgico"
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('pré-operatório; intraoperatório e pós-operatório') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'perioperatório; pré-anestésico e hemostasia...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'pré-anestésico; perioperatório e pós-anestesia...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'pré-internação; intraoperatório e pós-cirúrgico...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('pré-operatório; intraoperatório e pós-operatório') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0553",
+    "numero_ordem": 553,
+    "resposta": "A",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('pré-operatório; intraoperatório e pós-operatório') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q2160744",
+    "numero_original": 3,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT Prova: SELECON - 2023 - Prefeitura de Nova Mutum - MT - Técnico",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Nova Mutum - MT - Técnico",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "em Enfermagem O procedimento executado pelo médico que consiste na abertura cirúrgica para dentro da cavidade torácica é chamado de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "pleuroscopia"
+      },
+      {
+        "id": "B",
+        "texto": "pleurodese"
+      },
+      {
+        "id": "C",
+        "texto": "mastopexia"
+      },
+      {
+        "id": "D",
+        "texto": "toracotomia"
+      }
+    ],
+    "resposta_correta": "D",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('toracotomia') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'pleuroscopia...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'pleurodese...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'mastopexia...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('toracotomia') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0580",
+    "numero_ordem": 580,
+    "resposta": "D",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('toracotomia') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q2160736",
+    "numero_original": 11,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT Prova: SELECON - 2023 - Prefeitura de Nova Mutum - MT - Técnico",
+    "ano": 2023,
+    "prova": "SELECON - 2023 - Prefeitura de Nova Mutum - MT - Técnico",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "em Enfermagem As posições terapêuticas têm diferentes finalidades, como, por exemplo, proporcionar conforto, realizar exames, tratamentos e cirurgias. De acordo com a finalidade e, consequentemente, a região a ser examinada, o técnico de enfermagem deve verificação de temperatura, a posição indicada é a:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "de Sims"
+      },
+      {
+        "id": "B",
+        "texto": "de Fowler"
+      },
+      {
+        "id": "C",
+        "texto": "Litotômica"
+      },
+      {
+        "id": "D",
+        "texto": "Ortostática"
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('de Sims') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'de Fowler...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Litotômica...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'Ortostática...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('de Sims') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0588",
+    "numero_ordem": 588,
+    "resposta": "A",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('de Sims') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q1953172",
+    "numero_original": 15,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Pontes e Lacerda - MT Prova: SELECON - 2022 - Prefeitura de Pontes e Lacerda - MT -",
+    "ano": 2024,
+    "prova": "SELECON - 2022 - Prefeitura de Pontes e Lacerda - MT -",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "A enfermagem cirúrgica é uma importante especialidade, cujo objetivo consiste em realizar um cuidado seguro ao paciente submetido a um procedimento anestésico-cirúrgico. Inclui os períodos pré, trans e pós-operatório. A fase de pré-operatório mediato é aquela que compreende o seguinte período:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "das 24 horas iniciais até os sete primeiros dias"
+      },
+      {
+        "id": "B",
+        "texto": "do agendamento até 24h antes da cirurgia"
+      },
+      {
+        "id": "C",
+        "texto": "das 24 horas posteriores à cirurgia"
+      },
+      {
+        "id": "D",
+        "texto": "das 24h anteriores à cirurgia"
+      }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('do agendamento até 24h antes da cirurgia') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: 'das 24 horas iniciais até os sete primeiros dias...' diverge das referências oficiais."
+      },
+      {
+        "letra": "C",
+        "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: 'das 24 horas posteriores à cirurgia...' diverge das referências oficiais."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'das 24h anteriores à cirurgia...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('do agendamento até 24h antes da cirurgia') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0632",
+    "numero_ordem": 632,
+    "resposta": "B",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('do agendamento até 24h antes da cirurgia') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q1320498",
+    "numero_original": 744,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR Prova: SELECON - 2020 - Prefeitura de Boa Vista - RR - Técnico de",
+    "ano": 2020,
+    "prova": "SELECON - 2020 - Prefeitura de Boa Vista - RR - Técnico de",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "Segundo a Resolução nº 15/2012, que dispõe sobre os requisitos de boas práticas para o processamento de produtos para saúde, define-se que a central de material e esterilização (CME) classe II é aquela que realiza o:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "processamento somente de produtos para a saúde semicríticos de conformação complexa"
+      },
+      {
+        "id": "B",
+        "texto": "processamento de produtos para a saúde e afins críticos de conformação complexa e não complexa"
+      },
+      {
+        "id": "C",
+        "texto": "processamento de produtos para a saúde não críticos, semicríticos e críticos de conformação complexa"
+      },
+      {
+        "id": "D",
+        "texto": "processamento de produtos para a saúde não críticos, semicríticos e críticos de conformação complexa e não complexa"
+      }
+    ],
+    "resposta_correta": "D",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('processamento de produtos para a saúde não críticos, semicríticos e críticos de conformação complexa e não complexa') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'processamento somente de produtos para a saúde semicríticos de conformação compl...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'processamento de produtos para a saúde e afins críticos de conformação complexa ...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'processamento de produtos para a saúde não críticos, semicríticos e críticos de ...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('processamento de produtos para a saúde não críticos, semicríticos e críticos de conformação complexa e não complexa') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0661",
+    "numero_ordem": 661,
+    "resposta": "D",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('processamento de produtos para a saúde não críticos, semicríticos e críticos de conformação complexa e não complexa') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q1313718",
+    "numero_original": 1,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Boa Vista - RR Prova: SELECON - 2020 - Prefeitura de Boa Vista - RR - Enfermeiro",
+    "ano": 2020,
+    "prova": "SELECON - 2020 - Prefeitura de Boa Vista - RR - Enfermeiro",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "ESF Segundo a RDC 15/2012, a Central de Material de Esterilização (CME) que realiza a desinfecção química deve realizar o monitoramento dos parâmetros indicadores de efetividade dos desinfetantes para artigo semicrítico, como concentração, pH ou outros, no mínimo:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "1 vez ao dia, antes do início das atividades"
+      },
+      {
+        "id": "B",
+        "texto": "2 vezes ao dia, antes do início das atividades"
+      },
+      {
+        "id": "C",
+        "texto": "2 vezes por dia, depois das atividades"
+      },
+      {
+        "id": "D",
+        "texto": "1 vez ao dia, depois das atividades"
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('1 vez ao dia, antes do início das atividades') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '2 vezes ao dia, antes do início das atividades...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '2 vezes por dia, depois das atividades...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: '1 vez ao dia, depois das atividades...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('1 vez ao dia, antes do início das atividades') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0698",
+    "numero_ordem": 698,
+    "resposta": "A",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('1 vez ao dia, antes do início das atividades') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q3884653",
+    "numero_original": 15,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Porto dos Gaúchos - MT Prova: SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Porto dos Gaúchos -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "A esterilização por vapor saturado sob pressão é um método amplamente utilizado nos serviços de saúde. Considerando as suas indicações e a classificação dos artigos quanto ao seu risco, esse método de esterilização é indicado para:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "materiais termossensíveis, como equipos de infusão e cateteres plásticos descartáveis"
+      },
+      {
+        "id": "B",
+        "texto": "artigos críticos, como instrumentos cirúrgicos metálicos, pinças e tesouras"
+      },
+      {
+        "id": "C",
+        "texto": "superfícies como macas, bancadas e mesas de procedimento"
+      },
+      {
+        "id": "D",
+        "texto": "materiais semicríticos, como sondas descartáveis e cânulas plásticas"
+      }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "Em consonância com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas) e diretrizes de estomaterapia, a avaliação sistemática do leito lesional, etiologia, exsudato e controle de bordas define a indicação de coberturas ativas e medidas preventivas. A alternativa [B] ('artigos críticos, como instrumentos cirúrgicos metálicos, pinças e tesouras') indica a conduta apropriada e embasada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'materiais termossensíveis, como equipos de infusão e cateteres plásticos descart...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'superfícies como macas, bancadas e mesas de procedimento...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'materiais semicríticos, como sondas descartáveis e cânulas plásticas...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Em consonância com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas) e diretrizes de estomaterapia, a avaliação sistemática do leito lesional, etiologia, exsudato e controle de bordas define a indicação de coberturas ativas e medidas preventivas. A alternativa [B] ('artigos críticos, como instrumentos cirúrgicos metálicos, pinças e tesouras') indica a conduta apropriada e embasada.",
+    "id": "EF0820",
+    "numero_ordem": 820,
+    "resposta": "B",
+    "explicacao": "Em consonância com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas) e diretrizes de estomaterapia, a avaliação sistemática do leito lesional, etiologia, exsudato e controle de bordas define a indicação de coberturas ativas e medidas preventivas. A alternativa [B] ('artigos críticos, como instrumentos cirúrgicos metálicos, pinças e tesouras') indica a conduta apropriada e embasada."
+  },
+  {
+    "codigo_origem": "Q3810633",
+    "numero_original": 4,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Garças - MT Prova: SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "Um paciente submetido à laparotomia exploradora evolui com débito de secreção sero-hemática em dreno tubular. O técnico primária do dreno tubular de drenagem passiva é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "manter pressão negativa contínua de forma controlada e segura, garantindo a remoção progressiva das coleções profundas, favorecendo a aproximação dos planos teciduais"
+      },
+      {
+        "id": "B",
+        "texto": "impedir o acúmulo de secreções, permitir a detecção precoce de sangramento e reduzir o risco de formação de coleções"
+      },
+      {
+        "id": "C",
+        "texto": "promover irrigação da cavidade operatória e remoção de debris teciduais residuais"
+      },
+      {
+        "id": "D",
+        "texto": "estimular fibras sensoriais periféricas, reduzindo o estímulo nociceptivo"
+      }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('impedir o acúmulo de secreções, permitir a detecção precoce de sangramento e reduzir o risco de formação de coleções') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'manter pressão negativa contínua de forma controlada e segura, garantindo a remo...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'promover irrigação da cavidade operatória e remoção de debris teciduais residuai...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'estimular fibras sensoriais periféricas, reduzindo o estímulo nociceptivo...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('impedir o acúmulo de secreções, permitir a detecção precoce de sangramento e reduzir o risco de formação de coleções') configura a resposta correta e plenamente fundamentada.",
+    "id": "EF0849",
+    "numero_ordem": 849,
+    "resposta": "B",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('impedir o acúmulo de secreções, permitir a detecção precoce de sangramento e reduzir o risco de formação de coleções') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q1970036",
+    "numero_original": 242,
+    "banca": "FCC",
+    "orgao": "TRT - 23ª REGIÃO (MT)",
+    "ano": 2022,
+    "prova": "FCC - 2022 - TRT - 23ª REGIÃO (MT) - Técnico Judiciário - Área",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "Na Central de Material e Esterilização um dos indicadores químicos utilizados para a monitorização do processo de esterilização dos materiais utilizados na unidade é a fita zebrada, que é indicada para utilização em todos os pacotes. Esse indicador de processo evidencia que o material",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "ainda precisa passar pelo processo de secagem."
+      },
+      {
+        "id": "B",
+        "texto": "está esterilizado."
+      },
+      {
+        "id": "C",
+        "texto": "passou pelo processo."
+      },
+      {
+        "id": "D",
+        "texto": "está pronto para ser utilizado, após duas horas."
+      },
+      {
+        "id": "E",
+        "texto": "está livre de microrganismos patogênicos."
+      }
+    ],
+    "resposta_correta": "C",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('passou pelo processo.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'ainda precisa passar pelo processo de secagem....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'está esterilizado....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: 'está pronto para ser utilizado, após duas horas....' diverge das referências oficiais."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'está livre de microrganismos patogênicos....' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('passou pelo processo.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0062",
+    "numero_ordem": 62,
+    "resposta": "C",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('passou pelo processo.') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q1252227",
+    "numero_original": 354,
+    "banca": "FCC",
+    "orgao": "Prefeitura de São José do Rio Preto - SP",
+    "ano": 2019,
+    "prova": "FCC - 2019 - Prefeitura de São José do Rio",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "Preto - SP - Técnico em Enfermagem O profissional de enfermagem que atua na Central de Material e Esterilização de uma unidade de saúde recebeu de um setor artigos classificados como não-críticos e sem a presença de matéria orgânica. Nessa situação, os artigos recebidos devem ser submetidos, apenas, ao processo de",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "desinfecção de baixo nível."
+      },
+      {
+        "id": "B",
+        "texto": "limpeza e desinfecção de nível baixo."
+      },
+      {
+        "id": "C",
+        "texto": "desinfecção de alto nível."
+      },
+      {
+        "id": "D",
+        "texto": "limpeza."
+      },
+      {
+        "id": "E",
+        "texto": "limpeza e esterilização de nível intermediário"
+      }
+    ],
+    "resposta_correta": "D",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('limpeza.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'desinfecção de baixo nível....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'limpeza e desinfecção de nível baixo....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'desinfecção de alto nível....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'limpeza e esterilização de nível intermediário...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('limpeza.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0174",
+    "numero_ordem": 174,
+    "resposta": "D",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('limpeza.') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q1252162",
+    "numero_original": 365,
+    "banca": "FCC",
+    "orgao": "Prefeitura de São José do Rio Preto - SP",
+    "ano": 2019,
+    "prova": "FCC - 2019 - Prefeitura de São José do Rio",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "Preto - SP - Enfermeiro Paciente em pós-operatório de revascularização do miocárdio evolui com infecção da ferida operatória apresentando deiscência em terço médio da esternotomia com drenagem de grande quantidade de exsudato purulento e odor fétido. Dentre as coberturas indicadas para o curativo para a contenção do excesso de exsudato,",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "estão os ácidos graxos essenciais."
+      },
+      {
+        "id": "B",
+        "texto": "está o carvão ativado com prata."
+      },
+      {
+        "id": "C",
+        "texto": "está a placa de hidrocolóide."
+      },
+      {
+        "id": "D",
+        "texto": "está o hidrogel."
+      },
+      {
+        "id": "E",
+        "texto": "está a sulfadiazina de prata."
+      }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "Em consonância com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas) e diretrizes de estomaterapia, a avaliação sistemática do leito lesional, etiologia, exsudato e controle de bordas define a indicação de coberturas ativas e medidas preventivas. A alternativa [B] ('está o carvão ativado com prata.') indica a conduta apropriada e embasada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'estão os ácidos graxos essenciais....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'está a placa de hidrocolóide....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'está o hidrogel....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'está a sulfadiazina de prata....' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Em consonância com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas) e diretrizes de estomaterapia, a avaliação sistemática do leito lesional, etiologia, exsudato e controle de bordas define a indicação de coberturas ativas e medidas preventivas. A alternativa [B] ('está o carvão ativado com prata.') indica a conduta apropriada e embasada.",
+    "id": "FCC_ENF0185",
+    "numero_ordem": 185,
+    "resposta": "B",
+    "explicacao": "Em consonância com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas) e diretrizes de estomaterapia, a avaliação sistemática do leito lesional, etiologia, exsudato e controle de bordas define a indicação de coberturas ativas e medidas preventivas. A alternativa [B] ('está o carvão ativado com prata.') indica a conduta apropriada e embasada."
+  },
+  {
+    "codigo_origem": "Q931002",
+    "numero_original": 554,
+    "banca": "FCC",
+    "orgao": "Prefeitura de Macapá - AP",
+    "ano": 2018,
+    "prova": "FCC - 2018 - Prefeitura de Macapá - AP - Técnico em",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "Na programação cirúrgica, o procedimento de ooforectomia bilateral consiste na retirada cirúrgica",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "da túnica vaginal dos dois lados do testículo."
+      },
+      {
+        "id": "B",
+        "texto": "dos ovários."
+      },
+      {
+        "id": "C",
+        "texto": "da varicocele."
+      },
+      {
+        "id": "D",
+        "texto": "das tubas uterinas e gânglios adjacentes."
+      },
+      {
+        "id": "E",
+        "texto": "dos miomas uterinos."
+      }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('dos ovários.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'da túnica vaginal dos dois lados do testículo....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'da varicocele....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'das tubas uterinas e gânglios adjacentes....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'dos miomas uterinos....' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('dos ovários.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0392",
+    "numero_ordem": 392,
+    "resposta": "B",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('dos ovários.') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q920286",
+    "numero_original": 586,
+    "banca": "FCC",
+    "orgao": "TRT - 15ª Região (SP)",
+    "ano": 2018,
+    "prova": "FCC - 2018 - TRT - 15ª Região (SP) - Técnico Judiciário -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "Após ter recebido o devido treinamento para a preparação de pacotes e montagem da carga na autoclave para a esterilização de instrumentais cirúrgicos, o técnico de enfermagem deve, durante o preparo dos pacotes para o processo de esterilização a vapor, verificar se",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "a embalagem de papel grau cirúrgico utilizada é apropriada ao processo, pelo fato desse material permitir uma selagem eficaz e de ter indicador químico impregnado."
+      },
+      {
+        "id": "B",
+        "texto": "os instrumentos estão dispostos de modo que ocupem, no mínimo, 95% da capacidade do estojo, de modo a favorecer o contato do agente esterilizante com a superfície de todos eles."
+      },
+      {
+        "id": "C",
+        "texto": "a embalagem apresenta delaminações suficientes na sua superfície, a fim de promover uma secagem segura após a etapa da esterilização."
+      },
+      {
+        "id": "D",
+        "texto": "todos os instrumentais estão mantidos devidamente montados e fechados dentro das caixas, sem expor suas articulações, facilitando deste modo, o processo de contato do agente esterilizante com toda superfície do material."
+      },
+      {
+        "id": "E",
+        "texto": "o invólucro escolhido é adequado ao processo e se possui alta memória, pois esta facilita a abertura dos pacotes, mas não impede sua confecção."
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('a embalagem de papel grau cirúrgico utilizada é apropriada ao processo, pelo fato desse material permitir uma selagem eficaz e de ter indicador químico impregnado.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: 'os instrumentos estão dispostos de modo que ocupem, no mínimo, 95% da capacidade...' diverge das referências oficiais."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'a embalagem apresenta delaminações suficientes na sua superfície, a fim de promo...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'todos os instrumentais estão mantidos devidamente montados e fechados dentro das...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'o invólucro escolhido é adequado ao processo e se possui alta memória, pois esta...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('a embalagem de papel grau cirúrgico utilizada é apropriada ao processo, pelo fato desse material permitir uma selagem eficaz e de ter indicador químico impregnado.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0423",
+    "numero_ordem": 423,
+    "resposta": "A",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('a embalagem de papel grau cirúrgico utilizada é apropriada ao processo, pelo fato desse material permitir uma selagem eficaz e de ter indicador químico impregnado.') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q839949",
+    "numero_original": 659,
+    "banca": "FCC",
+    "orgao": "TRE-PR",
+    "ano": 2017,
+    "prova": "FCC - 2017 - TRE-PR - Técnico Judiciário - Enfermagem",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "No pós-operatório imediato de cirurgia ortopédica de um paciente idoso, antes de iniciar os cuidados, o profissional",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "identificar o nível de stress."
+      },
+      {
+        "id": "B",
+        "texto": "avaliar o estado mental."
+      },
+      {
+        "id": "C",
+        "texto": "classificar a úlcera de pressão."
+      },
+      {
+        "id": "D",
+        "texto": "avaliar o risco de queda."
+      },
+      {
+        "id": "E",
+        "texto": "quantificar a dor."
+      }
+    ],
+    "resposta_correta": "E",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [E] ('quantificar a dor.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'identificar o nível de stress....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'avaliar o estado mental....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'classificar a úlcera de pressão....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'avaliar o risco de queda....' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [E] ('quantificar a dor.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0495",
+    "numero_ordem": 495,
+    "resposta": "E",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [E] ('quantificar a dor.') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q839948",
+    "numero_original": 660,
+    "banca": "FCC",
+    "orgao": "TRE-PR",
+    "ano": 2017,
+    "prova": "FCC - 2017 - TRE-PR - Técnico Judiciário - Enfermagem",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "Durante os cuidados de enfermagem prestados a um paciente em pós-operatório de cirurgia gástrica, o técnico de",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "pupilar."
+      },
+      {
+        "id": "B",
+        "texto": "cardíaco."
+      },
+      {
+        "id": "C",
+        "texto": "de pulso."
+      },
+      {
+        "id": "D",
+        "texto": "respiratório."
+      },
+      {
+        "id": "E",
+        "texto": "de sangramento."
+      }
+    ],
+    "resposta_correta": "D",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('respiratório.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'pupilar....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'cardíaco....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'de pulso....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'de sangramento....' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('respiratório.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0496",
+    "numero_ordem": 496,
+    "resposta": "D",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('respiratório.') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q839945",
+    "numero_original": 663,
+    "banca": "FCC",
+    "orgao": "TRE-PR",
+    "ano": 2017,
+    "prova": "FCC - 2017 - TRE-PR - Técnico Judiciário - Enfermagem",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "De acordo com dados levantados pelo Ministério da Saúde, o número de procedimentos cirúrgicos para correção de catarata aumentou de 2010 para 2014. Essa cirurgia consiste em",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "aspirar o humor vítreo e o aquoso e preencher os espaços com solução hialina."
+      },
+      {
+        "id": "B",
+        "texto": "fragmentar a retina e aspirar os fragmentos com aparelho ultrassom."
+      },
+      {
+        "id": "C",
+        "texto": "implantar a lente intraocular artificial."
+      },
+      {
+        "id": "D",
+        "texto": "aumentar a pressão intraocular."
+      },
+      {
+        "id": "E",
+        "texto": "estabilizar a pressão intraocular para 15 a 20 mmHg."
+      }
+    ],
+    "resposta_correta": "C",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('implantar a lente intraocular artificial.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'aspirar o humor vítreo e o aquoso e preencher os espaços com solução hialina....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'fragmentar a retina e aspirar os fragmentos com aparelho ultrassom....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Inverte a correlação clínica ou a indicação terapêutica oficial: 'aumentar a pressão intraocular....'."
+      },
+      {
+        "letra": "E",
+        "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: 'estabilizar a pressão intraocular para 15 a 20 mmHg....' diverge das referências oficiais."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('implantar a lente intraocular artificial.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0499",
+    "numero_ordem": 499,
+    "resposta": "C",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('implantar a lente intraocular artificial.') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q839944",
+    "numero_original": 664,
+    "banca": "FCC",
+    "orgao": "TRE-PR",
+    "ano": 2017,
+    "prova": "FCC - 2017 - TRE-PR - Técnico Judiciário - Enfermagem",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "A hérnia da parede abdominal pode ter origem diversas. I. Surgir em consequência de esforço excessivo (exercício físico, obesidade). II. Congênita que pode se agravar com o passar dos anos. III. Aumento da pressão sobre a parede abdominal em consequência da gestação. Está correto o descrito em",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "I, II e III."
+      },
+      {
+        "id": "B",
+        "texto": "I e II, apenas."
+      },
+      {
+        "id": "C",
+        "texto": "II e III, apenas."
+      },
+      {
+        "id": "D",
+        "texto": "I, apenas."
+      },
+      {
+        "id": "E",
+        "texto": "III, apenas."
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Em consonância com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas) e diretrizes de estomaterapia, a avaliação sistemática do leito lesional, etiologia, exsudato e controle de bordas define a indicação de coberturas ativas e medidas preventivas. A alternativa [A] ('I, II e III.') indica a conduta apropriada e embasada.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'I e II, apenas....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'II e III, apenas....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'I, apenas....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'III, apenas....' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Em consonância com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas) e diretrizes de estomaterapia, a avaliação sistemática do leito lesional, etiologia, exsudato e controle de bordas define a indicação de coberturas ativas e medidas preventivas. A alternativa [A] ('I, II e III.') indica a conduta apropriada e embasada.",
+    "id": "FCC_ENF0500",
+    "numero_ordem": 500,
+    "resposta": "A",
+    "explicacao": "Em consonância com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas) e diretrizes de estomaterapia, a avaliação sistemática do leito lesional, etiologia, exsudato e controle de bordas define a indicação de coberturas ativas e medidas preventivas. A alternativa [A] ('I, II e III.') indica a conduta apropriada e embasada."
+  },
+  {
+    "codigo_origem": "Q778002",
+    "numero_original": 751,
+    "banca": "FCC",
+    "orgao": "TRE-SP",
+    "ano": 2017,
+    "prova": "FCC - 2017 - TRE-SP - Técnico Judiciário - Enfermagem",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "No centro de material e esterilização, o conjunto de medidas comportamentais dos profissionais de saúde visando à prevenção de contaminação cruzada entre o ambiente sujo e o ambiente limpo, na ausência de barreiras físicas, é denominado barreira",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "de desinfecção de alto nível."
+      },
+      {
+        "id": "B",
+        "texto": "de controle de qualidade."
+      },
+      {
+        "id": "C",
+        "texto": "de qualificação de desempenho."
+      },
+      {
+        "id": "D",
+        "texto": "técnica."
+      },
+      {
+        "id": "E",
+        "texto": "de precaução padrão."
+      }
+    ],
+    "resposta_correta": "D",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('técnica.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'de desinfecção de alto nível....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'de controle de qualidade....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'de qualificação de desempenho....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'de precaução padrão....' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('técnica.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0566",
+    "numero_ordem": 566,
+    "resposta": "D",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('técnica.') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q777984",
+    "numero_original": 767,
+    "banca": "FCC",
+    "orgao": "TRE-SP",
+    "ano": 2017,
+    "prova": "FCC - 2017 - TRE-SP - Técnico Judiciário - Enfermagem",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "Pós-Operatório Ao realizar a troca de um curativo cirúrgico, o profissional de enfermagem precisa estar atento com relação a alguns cuidados, tal como:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "manter o excesso de exsudação."
+      },
+      {
+        "id": "B",
+        "texto": "impedir a troca gasosa em nível alveolar e tecidual."
+      },
+      {
+        "id": "C",
+        "texto": "ser permeável a bactérias."
+      },
+      {
+        "id": "D",
+        "texto": "permitir a remoção sem traumas."
+      },
+      {
+        "id": "E",
+        "texto": "não fornecer isolamento térmico."
+      }
+    ],
+    "resposta_correta": "D",
+    "fundamentacao_correta": "Em consonância com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas) e diretrizes de estomaterapia, a avaliação sistemática do leito lesional, etiologia, exsudato e controle de bordas define a indicação de coberturas ativas e medidas preventivas. A alternativa [D] ('permitir a remoção sem traumas.') indica a conduta apropriada e embasada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'manter o excesso de exsudação....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'impedir a troca gasosa em nível alveolar e tecidual....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'ser permeável a bactérias....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'não fornecer isolamento térmico....' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Em consonância com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas) e diretrizes de estomaterapia, a avaliação sistemática do leito lesional, etiologia, exsudato e controle de bordas define a indicação de coberturas ativas e medidas preventivas. A alternativa [D] ('permitir a remoção sem traumas.') indica a conduta apropriada e embasada.",
+    "id": "FCC_ENF0582",
+    "numero_ordem": 582,
+    "resposta": "D",
+    "explicacao": "Em consonância com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas) e diretrizes de estomaterapia, a avaliação sistemática do leito lesional, etiologia, exsudato e controle de bordas define a indicação de coberturas ativas e medidas preventivas. A alternativa [D] ('permitir a remoção sem traumas.') indica a conduta apropriada e embasada."
+  },
+  {
+    "codigo_origem": "Q1337369",
+    "numero_original": 786,
+    "banca": "FCC",
+    "orgao": "METRÔ-SP",
+    "ano": 2016,
+    "prova": "FCC - 2016 - METRÔ-SP - Auxiliar Enfermagem do Trabalho",
+    "cargo": "Enfermeiro",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "Em Centros de Material e Esterilização − CME dos serviços de saúde público e privado, a esterilização de produtos para a saúde pode ser realizada por meio de",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "ciclo de esterilização a vapor para uso imediato, nos casos de urgência e emergência."
+      },
+      {
+        "id": "B",
+        "texto": "estufa, nos casos de esterilização de produtos para saúde críticos."
+      },
+      {
+        "id": "C",
+        "texto": "imersão química líquida com a utilização de saneantes a base de aldeídos."
+      },
+      {
+        "id": "D",
+        "texto": "plasma de peróxido de hidrogênio, com os produtos acondicionados em caixas metálicas sem furos."
+      },
+      {
+        "id": "E",
+        "texto": "autoclave gravitacional de capacidade superior a 100 litros."
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('ciclo de esterilização a vapor para uso imediato, nos casos de urgência e emergência.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'estufa, nos casos de esterilização de produtos para saúde críticos....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'imersão química líquida com a utilização de saneantes a base de aldeídos....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'plasma de peróxido de hidrogênio, com os produtos acondicionados em caixas metál...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'autoclave gravitacional de capacidade superior a 100 litros....' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('ciclo de esterilização a vapor para uso imediato, nos casos de urgência e emergência.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0621",
+    "numero_ordem": 621,
+    "resposta": "A",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('ciclo de esterilização a vapor para uso imediato, nos casos de urgência e emergência.') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q763957",
+    "numero_original": 884,
+    "banca": "FCC",
+    "orgao": "TRT - 20ª REGIÃO (SE)",
+    "ano": 2016,
+    "prova": "FCC - 2016 - TRT - 20ª REGIÃO (SE) - Técnico Judiciário -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "A fim de garantir a segurança e saúde no trabalho, o técnico de enfermagem que atua na área de processamento e esterilização de produtos para a saúde deve, dentre outros,",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "utilizar luvas de proteção térmica impermeável para a descarga de secadoras e termodesinfetadoras."
+      },
+      {
+        "id": "B",
+        "texto": "utilizar protetor facial na área de armazenamento e distribuição de materiais esterilizados."
+      },
+      {
+        "id": "C",
+        "texto": "deixar o local de trabalho paramentado com os equipamentos de proteção individual e as vestimentas utilizadas em suas atividades."
+      },
+      {
+        "id": "D",
+        "texto": "utilizar as estufas para a esterilização de produtos para saúde."
+      },
+      {
+        "id": "E",
+        "texto": "utilizar, na área de expurgo, luvas de procedimento de cano curto para lavagem de material contaminado com sangue."
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('utilizar luvas de proteção térmica impermeável para a descarga de secadoras e termodesinfetadoras.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'utilizar protetor facial na área de armazenamento e distribuição de materiais es...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'deixar o local de trabalho paramentado com os equipamentos de proteção individua...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'utilizar as estufas para a esterilização de produtos para saúde....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'utilizar, na área de expurgo, luvas de procedimento de cano curto para lavagem d...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('utilizar luvas de proteção térmica impermeável para a descarga de secadoras e termodesinfetadoras.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0718",
+    "numero_ordem": 718,
+    "resposta": "A",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('utilizar luvas de proteção térmica impermeável para a descarga de secadoras e termodesinfetadoras.') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q763955",
+    "numero_original": 886,
+    "banca": "FCC",
+    "orgao": "TRT - 20ª REGIÃO (SE)",
+    "ano": 2016,
+    "prova": "FCC - 2016 - TRT - 20ª REGIÃO (SE) - Técnico Judiciário -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "No centro de material e esterilização − CME o profissional de enfermagem está sujeito a temperaturas extremas e fontes de calor provenientes de autoclaves. De acordo com a Norma Regulamentadora 9, do Ministério do Trabalho e Emprego, temperatura extrema é considerada um risco ambiental classificada como agente",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "químico."
+      },
+      {
+        "id": "B",
+        "texto": "físico."
+      },
+      {
+        "id": "C",
+        "texto": "biológico."
+      },
+      {
+        "id": "D",
+        "texto": "ergonômico."
+      },
+      {
+        "id": "E",
+        "texto": "epidemiológico."
+      }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('físico.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'químico....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'biológico....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'ergonômico....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'epidemiológico....' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('físico.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0720",
+    "numero_ordem": 720,
+    "resposta": "B",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('físico.') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q615924",
+    "numero_original": 907,
+    "banca": "FCC",
+    "orgao": "TRT - 23ª REGIÃO (MT)",
+    "ano": 2016,
+    "prova": "FCC - 2016 - TRT - 23ª REGIÃO (MT) - Técnico Judiciário -",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "O profissional de enfermagem, enquanto membro da equipe de saúde, participa da Lista de Verificação de Segurança Cirúrgica, com o objetivo de ajudar as equipes cirúrgicas a reduzir a ocorrência de danos ao paciente. Dentre as verificações de segurança que devem ser completadas após o término do ato cirúrgico e antes do paciente sair da sala de operação, estão:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "confirmar se o cirurgião que vai realizar a operação marcou o local da cirurgia."
+      },
+      {
+        "id": "B",
+        "texto": "perguntar, em voz alta, se os antibióticos profiláticos foram administrados nos últimos 60 minutos."
+      },
+      {
+        "id": "C",
+        "texto": "perguntar se o doente tem alguma alergia conhecida e, em caso afirmativo, qual."
+      },
+      {
+        "id": "D",
+        "texto": "confirmar, verbalmente, com o doente a sua identidade, o tipo de procedimento previsto, o local da cirurgia e se o consentimento para a cirurgia foi dado."
+      },
+      {
+        "id": "E",
+        "texto": "confirmar, em voz alta, a rotulagem correta de qualquer material obtido durante o procedimento cirúrgico, o nome do doente, a descrição e quaisquer marcas de orientação da amostra."
+      }
+    ],
+    "resposta_correta": "E",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [E] ('confirmar, em voz alta, a rotulagem correta de qualquer material obtido durante o procedimento cirúrgico, o nome do doente, a descrição e quaisquer marcas de orientação da amostra.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'confirmar se o cirurgião que vai realizar a operação marcou o local da cirurgia....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "B",
+        "motivo": "Apresenta parâmetro posológico, cronológico ou quantitativo incorreto: 'perguntar, em voz alta, se os antibióticos profiláticos foram administrados nos ...' diverge das referências oficiais."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'perguntar se o doente tem alguma alergia conhecida e, em caso afirmativo, qual....' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'confirmar, verbalmente, com o doente a sua identidade, o tipo de procedimento pr...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [E] ('confirmar, em voz alta, a rotulagem correta de qualquer material obtido durante o procedimento cirúrgico, o nome do doente, a descrição e quaisquer marcas de orientação da amostra.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0741",
+    "numero_ordem": 741,
+    "resposta": "E",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [E] ('confirmar, em voz alta, a rotulagem correta de qualquer material obtido durante o procedimento cirúrgico, o nome do doente, a descrição e quaisquer marcas de orientação da amostra.') configura a resposta correta e plenamente fundamentada."
+  },
+  {
+    "codigo_origem": "Q2118821",
+    "numero_original": 131,
+    "banca": "FCC",
+    "orgao": "TRT - 5ª Região (BA)",
+    "ano": 2022,
+    "prova": "FCC - 2022 - TRT - 5ª Região (BA) - Técnico Judiciário - Enfermagem",
+    "cargo": "Técnico de Enfermagem",
+    "materia": "Enfermagem",
+    "assunto": "Centro Cirúrgico e CME (Esterilização)",
+    "enunciado": "Sobre a Central de Material e Esterilização (CME), considerando as recomendações da RDC no 15/2012, o técnico de",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "os produtos para a saúde utilizados na assistência ventilatória e inalatória devem ser submetidos à desinfecção por imersão química líquida, utilizando saneantes à base de aldeídos."
+      },
+      {
+        "id": "B",
+        "texto": "as leitoras de indicadores biológicos e as seladoras térmicas devem ser calibradas, no mínimo, uma vez ao ano."
+      },
+      {
+        "id": "C",
+        "texto": "a barreira física é o conjunto de medidas comportamentais dos profissionais de saúde que visa à prevenção da contaminação cruzada entre ambiente sujo e ambiente limpo, em caso de ausência de barreiras estruturais."
+      },
+      {
+        "id": "D",
+        "texto": "a desinfecção de nível intermediário é o processo físico ou químico que destrói microbactérias, fungos e esporos bacterianos presentes em artigos semicríticos."
+      },
+      {
+        "id": "E",
+        "texto": "as embalagens para esterilização de produtos para saúde são invólucros que permitem a entrada de ar e impedem saída do agente esterilizante, do ar e de microrganismos."
+      }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('as leitoras de indicadores biológicos e as seladoras térmicas devem ser calibradas, no mínimo, uma vez ao ano.') configura a resposta correta e plenamente fundamentada.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'os produtos para a saúde utilizados na assistência ventilatória e inalatória dev...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'a barreira física é o conjunto de medidas comportamentais dos profissionais de s...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'a desinfecção de nível intermediário é o processo físico ou químico que destrói ...' não corresponde à diretriz ou definição válida."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta perante os protocolos oficiais do Ministério da Saúde e da banca: 'as embalagens para esterilização de produtos para saúde são invólucros que permi...' não corresponde à diretriz ou definição válida."
+      }
+    ],
+    "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('as leitoras de indicadores biológicos e as seladoras térmicas devem ser calibradas, no mínimo, uma vez ao ano.') configura a resposta correta e plenamente fundamentada.",
+    "id": "FCC_ENF0829",
+    "numero_ordem": 829,
+    "resposta": "B",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('as leitoras de indicadores biológicos e as seladoras térmicas devem ser calibradas, no mínimo, uma vez ao ano.') configura a resposta correta e plenamente fundamentada."
+  }
+]

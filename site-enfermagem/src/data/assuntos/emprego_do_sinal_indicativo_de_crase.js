@@ -46,7 +46,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('assume postura técnica, cautelosa e transparente') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0001",
-    "numero_ordem": 1
+    "numero_ordem": 1,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('assume postura técnica, cautelosa e transparente') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3877908",
@@ -95,7 +97,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('referencial') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0002",
-    "numero_ordem": 2
+    "numero_ordem": 2,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('referencial') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3877409",
@@ -144,7 +148,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('principal') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0006",
-    "numero_ordem": 6
+    "numero_ordem": 6,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('principal') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3833316",
@@ -193,7 +199,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('transitivo indireto') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0017",
-    "numero_ordem": 17
+    "numero_ordem": 17,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('transitivo indireto') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3828775",
@@ -242,7 +250,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('a divulgação de eventos do Dia das Crianças') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0029",
-    "numero_ordem": 29
+    "numero_ordem": 29,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('a divulgação de eventos do Dia das Crianças') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3828125",
@@ -291,7 +301,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('narrador observador, em terceira pessoa, relatando os fatos de forma objetiva e imparcial') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0038",
-    "numero_ordem": 38
+    "numero_ordem": 38,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('narrador observador, em terceira pessoa, relatando os fatos de forma objetiva e imparcial') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3828123",
@@ -340,7 +352,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('facilitar o acesso para vacinar a população') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0040",
-    "numero_ordem": 40
+    "numero_ordem": 40,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('facilitar o acesso para vacinar a população') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3828122",
@@ -389,7 +403,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('conclusão baseada na eficácia das vacinas') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0041",
-    "numero_ordem": 41
+    "numero_ordem": 41,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('conclusão baseada na eficácia das vacinas') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3825046",
@@ -438,7 +454,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('subordinação, pois há uma oração principal e outra subordinada adjetiva') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0049",
-    "numero_ordem": 49
+    "numero_ordem": 49,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('subordinação, pois há uma oração principal e outra subordinada adjetiva') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3825043",
@@ -487,7 +505,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('fáceis') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0052",
-    "numero_ordem": 52
+    "numero_ordem": 52,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('fáceis') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3824409",
@@ -536,7 +556,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Refiro-me àquela questão já indicada.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0059",
-    "numero_ordem": 59
+    "numero_ordem": 59,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Refiro-me àquela questão já indicada.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3824228",
@@ -585,7 +607,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('adjunto adnominal') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0064",
-    "numero_ordem": 64
+    "numero_ordem": 64,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('adjunto adnominal') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3819362",
@@ -634,7 +658,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('adjetiva restritiva') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0077",
-    "numero_ordem": 77
+    "numero_ordem": 77,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('adjetiva restritiva') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3819358",
@@ -683,7 +709,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('“Haverá sorteios para definir quem poderá adquiri-los”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0079",
-    "numero_ordem": 79
+    "numero_ordem": 79,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('“Haverá sorteios para definir quem poderá adquiri-los”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3819356",
@@ -732,7 +760,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('apresentar um panorama informativo, que mistura entretenimento esportivo e contexto político') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0081",
-    "numero_ordem": 81
+    "numero_ordem": 81,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('apresentar um panorama informativo, que mistura entretenimento esportivo e contexto político') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3817801",
@@ -781,7 +811,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('transitivo direto') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0084",
-    "numero_ordem": 84
+    "numero_ordem": 84,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('transitivo direto') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3817666",
@@ -830,7 +862,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Amor constrói um mundo mais justo para todos.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0091",
-    "numero_ordem": 91
+    "numero_ordem": 91,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Amor constrói um mundo mais justo para todos.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3810355",
@@ -879,7 +913,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('obrigatório, pois há fusão da preposição “a” com o artigo feminino “a”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0096",
-    "numero_ordem": 96
+    "numero_ordem": 96,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('obrigatório, pois há fusão da preposição “a” com o artigo feminino “a”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3802550",
@@ -928,7 +964,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('adjetiva restritiva') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0117",
-    "numero_ordem": 117
+    "numero_ordem": 117,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('adjetiva restritiva') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3802350",
@@ -977,7 +1015,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('futuro do pretérito do indicativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0120",
-    "numero_ordem": 120
+    "numero_ordem": 120,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('futuro do pretérito do indicativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3802349",
@@ -1026,7 +1066,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('morcegos insetívoros') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0121",
-    "numero_ordem": 121
+    "numero_ordem": 121,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('morcegos insetívoros') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3794729",
@@ -1075,7 +1117,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('declínio da memória e do intelecto em tempos digitais') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0124",
-    "numero_ordem": 124
+    "numero_ordem": 124,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('declínio da memória e do intelecto em tempos digitais') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3794727",
@@ -1124,7 +1168,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('simultaneidade') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0125",
-    "numero_ordem": 125
+    "numero_ordem": 125,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('simultaneidade') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3742235",
@@ -1173,7 +1219,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('tropas') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0145",
-    "numero_ordem": 145
+    "numero_ordem": 145,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('tropas') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3742225",
@@ -1222,7 +1270,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('existência de um surto da doença na Bolívia') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0153",
-    "numero_ordem": 153
+    "numero_ordem": 153,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('existência de um surto da doença na Bolívia') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3741955",
@@ -1271,7 +1321,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('“O desenvolvimento de fitoterápicos baseados em espécies nativas colabora com a valorização da Amazônia e com o fortalecimento da ciência brasileira.”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0155",
-    "numero_ordem": 155
+    "numero_ordem": 155,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('“O desenvolvimento de fitoterápicos baseados em espécies nativas colabora com a valorização da Amazônia e com o fortalecimento da ciência brasileira.”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3741954",
@@ -1320,7 +1372,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('A FAPESP reconheceu e aprovou os resultados em relatório técnico') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0156",
-    "numero_ordem": 156
+    "numero_ordem": 156,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('A FAPESP reconheceu e aprovou os resultados em relatório técnico') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3741948",
@@ -1369,7 +1423,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('o composto é capaz de atuar diretamente sobre o cérebro') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0161",
-    "numero_ordem": 161
+    "numero_ordem": 161,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('o composto é capaz de atuar diretamente sobre o cérebro') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3722507",
@@ -1418,7 +1474,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('observador, pois não participa dos acontecimentos') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0173",
-    "numero_ordem": 173
+    "numero_ordem": 173,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('observador, pois não participa dos acontecimentos') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3722498",
@@ -1467,7 +1525,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Prometeu havia roubado o fogo para dá-lo à humanidade') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0181",
-    "numero_ordem": 181
+    "numero_ordem": 181,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Prometeu havia roubado o fogo para dá-lo à humanidade') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3722147",
@@ -1516,7 +1576,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('à implementação da carreira de pesquisador') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0182",
-    "numero_ordem": 182
+    "numero_ordem": 182,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('à implementação da carreira de pesquisador') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3694466",
@@ -1565,7 +1627,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('“Eu estou sujeito àquelas penalidades impostas pela lei”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0187",
-    "numero_ordem": 187
+    "numero_ordem": 187,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('“Eu estou sujeito àquelas penalidades impostas pela lei”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3694465",
@@ -1614,7 +1678,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('intercalar um adjunto adverbial') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0188",
-    "numero_ordem": 188
+    "numero_ordem": 188,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('intercalar um adjunto adverbial') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3694464",
@@ -1663,7 +1729,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('“os porta-vozes”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0189",
-    "numero_ordem": 189
+    "numero_ordem": 189,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('“os porta-vozes”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3694462",
@@ -1712,7 +1780,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('“As empresas têm mantido conversas privadas com a companhia”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0191",
-    "numero_ordem": 191
+    "numero_ordem": 191,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('“As empresas têm mantido conversas privadas com a companhia”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3694453",
@@ -1761,7 +1831,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Spotify e Netflix, considerando potencial de crescimento e dominância de mercado') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0199",
-    "numero_ordem": 199
+    "numero_ordem": 199,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Spotify e Netflix, considerando potencial de crescimento e dominância de mercado') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4397555",
@@ -1810,7 +1882,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('regulamentação deve considerar uma transformação já presente') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0201",
-    "numero_ordem": 201
+    "numero_ordem": 201,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('regulamentação deve considerar uma transformação já presente') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4394440",
@@ -1859,7 +1933,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('ampliar o conjunto de agentes submetidos à resolução') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0204",
-    "numero_ordem": 204
+    "numero_ordem": 204,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('ampliar o conjunto de agentes submetidos à resolução') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4369746",
@@ -1908,7 +1984,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('expositivo e argumentativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0215",
-    "numero_ordem": 215
+    "numero_ordem": 215,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('expositivo e argumentativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4369720",
@@ -1957,7 +2035,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('pronome relativo e pronome relativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0218",
-    "numero_ordem": 218
+    "numero_ordem": 218,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('pronome relativo e pronome relativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3693936",
@@ -2006,7 +2086,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('uma oração absoluta') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0221",
-    "numero_ordem": 221
+    "numero_ordem": 221,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('uma oração absoluta') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3693932",
@@ -2055,7 +2137,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('finalidade') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0225",
-    "numero_ordem": 225
+    "numero_ordem": 225,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('finalidade') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3616692",
@@ -2104,7 +2188,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('“Retirem os coletes das embalagens plásticas”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0250",
-    "numero_ordem": 250
+    "numero_ordem": 250,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('“Retirem os coletes das embalagens plásticas”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3616173",
@@ -2153,7 +2239,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('tornar uma informação popular, de modo amplo e rápido') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0254",
-    "numero_ordem": 254
+    "numero_ordem": 254,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('tornar uma informação popular, de modo amplo e rápido') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3615033",
@@ -2202,7 +2290,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('“Além disso, não existem referências a compromissos financeiros para Kiev”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0258",
-    "numero_ordem": 258
+    "numero_ordem": 258,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('“Além disso, não existem referências a compromissos financeiros para Kiev”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3615031",
@@ -2251,7 +2341,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('usá-las') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0260",
-    "numero_ordem": 260
+    "numero_ordem": 260,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('usá-las') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3615028",
@@ -2300,7 +2392,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('com o intuito de') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0261",
-    "numero_ordem": 261
+    "numero_ordem": 261,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('com o intuito de') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3499812",
@@ -2349,7 +2443,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('“internet”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0274",
-    "numero_ordem": 274
+    "numero_ordem": 274,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('“internet”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3494980",
@@ -2398,7 +2494,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('presente do indicativo e presente do indicativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0288",
-    "numero_ordem": 288
+    "numero_ordem": 288,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('presente do indicativo e presente do indicativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3494979",
@@ -2447,7 +2545,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('em referências culturais, em experiências clínicas e em observações sociais') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0289",
-    "numero_ordem": 289
+    "numero_ordem": 289,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('em referências culturais, em experiências clínicas e em observações sociais') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3494756",
@@ -2496,7 +2596,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('microplásticos') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0292",
-    "numero_ordem": 292
+    "numero_ordem": 292,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('microplásticos') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3493237",
@@ -2545,7 +2647,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('desatar') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0295",
-    "numero_ordem": 295
+    "numero_ordem": 295,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('desatar') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3489880",
@@ -2594,7 +2698,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('gerúndio') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0300",
-    "numero_ordem": 300
+    "numero_ordem": 300,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('gerúndio') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3489878",
@@ -2643,7 +2749,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('expressão que descreve a deterioração do estado mental devido ao consumo excessivo de conteúdo trivial nas redes sociais') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0301",
-    "numero_ordem": 301
+    "numero_ordem": 301,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('expressão que descreve a deterioração do estado mental devido ao consumo excessivo de conteúdo trivial nas redes sociais') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3489877",
@@ -2692,7 +2800,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('advérbio') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0302",
-    "numero_ordem": 302
+    "numero_ordem": 302,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('advérbio') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3489860",
@@ -2741,7 +2851,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('reforçar o ponto de vista defendido no texto') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0303",
-    "numero_ordem": 303
+    "numero_ordem": 303,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('reforçar o ponto de vista defendido no texto') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3488896",
@@ -2790,7 +2902,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Nikku Madhusudhan') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0308",
-    "numero_ordem": 308
+    "numero_ordem": 308,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Nikku Madhusudhan') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3448843",
@@ -2839,7 +2953,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('a exigência de visualização integral das obras buscará garantir maior legitimidade ao voto dos membros da Academia') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0316",
-    "numero_ordem": 316
+    "numero_ordem": 316,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('a exigência de visualização integral das obras buscará garantir maior legitimidade ao voto dos membros da Academia') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3326103",
@@ -2888,7 +3004,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('duas orações com sujeitos diferentes') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0317",
-    "numero_ordem": 317
+    "numero_ordem": 317,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('duas orações com sujeitos diferentes') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3326102",
@@ -2937,7 +3055,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('tempo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0318",
-    "numero_ordem": 318
+    "numero_ordem": 318,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('tempo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3326044",
@@ -2986,7 +3106,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('subordinada substantiva predicativa') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0321",
-    "numero_ordem": 321
+    "numero_ordem": 321,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('subordinada substantiva predicativa') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3325907",
@@ -3035,7 +3157,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('indicar uma oração coordenada sindética adversativa') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0327",
-    "numero_ordem": 327
+    "numero_ordem": 327,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('indicar uma oração coordenada sindética adversativa') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3290400",
@@ -3084,7 +3208,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('ao campo profissional') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0336",
-    "numero_ordem": 336
+    "numero_ordem": 336,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('ao campo profissional') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3288686",
@@ -3133,7 +3259,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('questionar um significado literal') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0345",
-    "numero_ordem": 345
+    "numero_ordem": 345,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('questionar um significado literal') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3287119",
@@ -3182,7 +3310,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('alguns testes já foram feitos, mas a vacina ainda precisa passar por outras etapas antes de ser distribuída à população') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0354",
-    "numero_ordem": 354
+    "numero_ordem": 354,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('alguns testes já foram feitos, mas a vacina ainda precisa passar por outras etapas antes de ser distribuída à população') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3286176",
@@ -3231,7 +3361,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('“Vamos todos àquela cidade do exterior”.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0355",
-    "numero_ordem": 355
+    "numero_ordem": 355,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('“Vamos todos àquela cidade do exterior”.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3286175",
@@ -3280,7 +3412,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('“o céu”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0356",
-    "numero_ordem": 356
+    "numero_ordem": 356,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('“o céu”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3286169",
@@ -3329,7 +3463,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('excessivamente barulhento') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0361",
-    "numero_ordem": 361
+    "numero_ordem": 361,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('excessivamente barulhento') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3285967",
@@ -3378,7 +3514,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('o excesso de tolerância em relação às inúmeras violências sociais') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0363",
-    "numero_ordem": 363
+    "numero_ordem": 363,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('o excesso de tolerância em relação às inúmeras violências sociais') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3285965",
@@ -3427,7 +3565,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('contraste entre a indiferença no passado e o espanto no presente') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0364",
-    "numero_ordem": 364
+    "numero_ordem": 364,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('contraste entre a indiferença no passado e o espanto no presente') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3285962",
@@ -3476,7 +3616,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('possibilidade e certeza') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0366",
-    "numero_ordem": 366
+    "numero_ordem": 366,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('possibilidade e certeza') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3282499",
@@ -3525,7 +3667,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('adjetiva explicativa') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0371",
-    "numero_ordem": 371
+    "numero_ordem": 371,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('adjetiva explicativa') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3282496",
@@ -3574,7 +3718,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('prosopopeia') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0373",
-    "numero_ordem": 373
+    "numero_ordem": 373,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('prosopopeia') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3260884",
@@ -3623,7 +3769,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('“As doações serão enviadas às mulheres hoje”.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0376",
-    "numero_ordem": 376
+    "numero_ordem": 376,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('“As doações serão enviadas às mulheres hoje”.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3260878",
@@ -3672,7 +3820,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('“de janeiro a novembro deste ano, houve mil doações”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0381",
-    "numero_ordem": 381
+    "numero_ordem": 381,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('“de janeiro a novembro deste ano, houve mil doações”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3248068",
@@ -3729,7 +3879,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Eu não me refiro àquelas situações de ontem.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0385",
-    "numero_ordem": 385
+    "numero_ordem": 385,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Eu não me refiro àquelas situações de ontem.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3248067",
@@ -3786,7 +3938,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Havia um empecilho a ser resolvido.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0386",
-    "numero_ordem": 386
+    "numero_ordem": 386,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Havia um empecilho a ser resolvido.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3248050",
@@ -3843,7 +3997,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Nesta semana, houve audiências com a participação de pesquisadores e representantes de diferentes áreas da sociedade civil') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0399",
-    "numero_ordem": 399
+    "numero_ordem": 399,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Nesta semana, houve audiências com a participação de pesquisadores e representantes de diferentes áreas da sociedade civil') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3248048",
@@ -3900,7 +4056,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('presente do indicativo e presente do indicativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0401",
-    "numero_ordem": 401
+    "numero_ordem": 401,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('presente do indicativo e presente do indicativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3248047",
@@ -3957,7 +4115,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('“e os países se veem em desafios para enfrentar o que ele chama de ‘colonialismo digital’”.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0402",
-    "numero_ordem": 402
+    "numero_ordem": 402,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('“e os países se veem em desafios para enfrentar o que ele chama de ‘colonialismo digital’”.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3248045",
@@ -4014,7 +4174,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('As vulnerabilidades que já existem no ambiente offline são aumentadas pela internet.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0404",
-    "numero_ordem": 404
+    "numero_ordem": 404,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('As vulnerabilidades que já existem no ambiente offline são aumentadas pela internet.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3248042",
@@ -4071,7 +4233,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Pedro Hartung') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0406",
-    "numero_ordem": 406
+    "numero_ordem": 406,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Pedro Hartung') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3199056",
@@ -4120,7 +4284,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('prefixo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0410",
-    "numero_ordem": 410
+    "numero_ordem": 410,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('prefixo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3199051",
@@ -4169,7 +4335,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('finalidade') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0412",
-    "numero_ordem": 412
+    "numero_ordem": 412,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('finalidade') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3199017",
@@ -4218,7 +4386,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Comi um bife à milanesa que estava delicioso!') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0416",
-    "numero_ordem": 416
+    "numero_ordem": 416,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Comi um bife à milanesa que estava delicioso!') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3199012",
@@ -4267,7 +4437,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('cortá-las') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0420",
-    "numero_ordem": 420
+    "numero_ordem": 420,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('cortá-las') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4340298",
@@ -4316,7 +4488,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('sujeito') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0432",
-    "numero_ordem": 432
+    "numero_ordem": 432,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('sujeito') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4340130",
@@ -4365,7 +4539,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('ampliação da capacidade operacional dos portos') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0439",
-    "numero_ordem": 439
+    "numero_ordem": 439,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('ampliação da capacidade operacional dos portos') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3199005",
@@ -4414,7 +4590,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('duas personagens principais: o homem e a mulher') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0447",
-    "numero_ordem": 447
+    "numero_ordem": 447,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('duas personagens principais: o homem e a mulher') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3196496",
@@ -4463,7 +4641,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('separar uma oração coordenada sindética adversativa') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0477",
-    "numero_ordem": 477
+    "numero_ordem": 477,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('separar uma oração coordenada sindética adversativa') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3196490",
@@ -4512,7 +4692,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('descritivo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0481",
-    "numero_ordem": 481
+    "numero_ordem": 481,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('descritivo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3174185",
@@ -4561,7 +4743,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('“o primeiro-ministro de centro-esquerda”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0484",
-    "numero_ordem": 484
+    "numero_ordem": 484,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('“o primeiro-ministro de centro-esquerda”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3174181",
@@ -4610,7 +4794,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('presente do indicativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0487",
-    "numero_ordem": 487
+    "numero_ordem": 487,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('presente do indicativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3609140",
@@ -4659,7 +4845,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('estou morrendo de alegria') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0491",
-    "numero_ordem": 491
+    "numero_ordem": 491,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('estou morrendo de alegria') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3609139",
@@ -4708,7 +4896,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('mega-cidade') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0492",
-    "numero_ordem": 492
+    "numero_ordem": 492,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('mega-cidade') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3590215",
@@ -4757,7 +4947,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('cosido') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0495",
-    "numero_ordem": 495
+    "numero_ordem": 495,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('cosido') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3590213",
@@ -4806,7 +4998,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('conjunção integrante e pronome relativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0497",
-    "numero_ordem": 497
+    "numero_ordem": 497,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('conjunção integrante e pronome relativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3590211",
@@ -4855,7 +5049,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('uma oração') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0498",
-    "numero_ordem": 498
+    "numero_ordem": 498,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('uma oração') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3588651",
@@ -4904,7 +5100,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Em conformidade com') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0500",
-    "numero_ordem": 500
+    "numero_ordem": 500,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Em conformidade com') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3588650",
@@ -4953,7 +5151,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('“Houve autuações por crime ambiental e foi aplicada multa de R$ 64,9 mil”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0501",
-    "numero_ordem": 501
+    "numero_ordem": 501,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('“Houve autuações por crime ambiental e foi aplicada multa de R$ 64,9 mil”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3584079",
@@ -5002,7 +5202,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('jiboia') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0505",
-    "numero_ordem": 505
+    "numero_ordem": 505,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('jiboia') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3582460",
@@ -5051,7 +5253,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('observador, já que narra o que vê, mas sem participar do enredo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0511",
-    "numero_ordem": 511
+    "numero_ordem": 511,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('observador, já que narra o que vê, mas sem participar do enredo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3582418",
@@ -5100,7 +5304,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('O Banco Mundial reconheceu o Brasil como a nona maior economia do planeta no fim do ano passado.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0518",
-    "numero_ordem": 518
+    "numero_ordem": 518,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('O Banco Mundial reconheceu o Brasil como a nona maior economia do planeta no fim do ano passado.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3582415",
@@ -5149,7 +5355,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Em conformidade com o') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0521",
-    "numero_ordem": 521
+    "numero_ordem": 521,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Em conformidade com o') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3581660",
@@ -5198,7 +5406,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('predomínio') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0526",
-    "numero_ordem": 526
+    "numero_ordem": 526,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('predomínio') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3470832",
@@ -5247,7 +5457,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('A charge busca representar os impactos diretos do desmatamento e das queimadas na fauna, destacando o sofrimento e a perda de habitat dos animais.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0539",
-    "numero_ordem": 539
+    "numero_ordem": 539,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('A charge busca representar os impactos diretos do desmatamento e das queimadas na fauna, destacando o sofrimento e a perda de habitat dos animais.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3470831",
@@ -5296,7 +5508,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('O prefixo piro- vem do grego e está relacionado ao fogo, indicando algo que tem ligação direta com combustão ou calor.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0540",
-    "numero_ordem": 540
+    "numero_ordem": 540,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('O prefixo piro- vem do grego e está relacionado ao fogo, indicando algo que tem ligação direta com combustão ou calor.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3470830",
@@ -5345,7 +5559,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('A crase ocorre porque o verbo \"disse\" exige a preposição \"a\", e a palavra \"Agência\" está precedida de um artigo definido feminino.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0541",
-    "numero_ordem": 541
+    "numero_ordem": 541,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('A crase ocorre porque o verbo \"disse\" exige a preposição \"a\", e a palavra \"Agência\" está precedida de um artigo definido feminino.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3470829",
@@ -5394,7 +5610,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('A palavra Estado refere-se a uma unidade da federação, enquanto estado refere-se à condição ou situação em que algo ou alguém se encontra.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0542",
-    "numero_ordem": 542
+    "numero_ordem": 542,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('A palavra Estado refere-se a uma unidade da federação, enquanto estado refere-se à condição ou situação em que algo ou alguém se encontra.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3458333",
@@ -5443,7 +5661,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('ser vítima de bullying e sofrimento na escola') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0544",
-    "numero_ordem": 544
+    "numero_ordem": 544,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('ser vítima de bullying e sofrimento na escola') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3458331",
@@ -5492,7 +5712,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('mais difícil o trabalho com a linguagem escrita, de caráter mais argumentativo, no qual se baseia a cultura da escola') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0545",
-    "numero_ordem": 545
+    "numero_ordem": 545,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('mais difícil o trabalho com a linguagem escrita, de caráter mais argumentativo, no qual se baseia a cultura da escola') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3412125",
@@ -5541,7 +5763,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('homônimos') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0547",
-    "numero_ordem": 547
+    "numero_ordem": 547,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('homônimos') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3412123",
@@ -5590,7 +5814,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Ele fez referência àquilo com muita alegria.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0548",
-    "numero_ordem": 548
+    "numero_ordem": 548,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Ele fez referência àquilo com muita alegria.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3412122",
@@ -5639,7 +5865,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('confiava-lhe') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0549",
-    "numero_ordem": 549
+    "numero_ordem": 549,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('confiava-lhe') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3412115",
@@ -5688,7 +5916,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('segunda pessoa do imperativo afirmativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0553",
-    "numero_ordem": 553
+    "numero_ordem": 553,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('segunda pessoa do imperativo afirmativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3398156",
@@ -5737,7 +5967,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('finalidade e finalidade') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0554",
-    "numero_ordem": 554
+    "numero_ordem": 554,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('finalidade e finalidade') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3398148",
@@ -5786,7 +6018,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('tendem a considerar a vida alheia como mais perfeita e interessante que as suas próprias vidas') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0561",
-    "numero_ordem": 561
+    "numero_ordem": 561,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('tendem a considerar a vida alheia como mais perfeita e interessante que as suas próprias vidas') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3135779",
@@ -5835,7 +6069,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('finalidade') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0572",
-    "numero_ordem": 572
+    "numero_ordem": 572,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('finalidade') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3135657",
@@ -5884,7 +6120,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('um adjunto adverbial deslocado') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0579",
-    "numero_ordem": 579
+    "numero_ordem": 579,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('um adjunto adverbial deslocado') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3135655",
@@ -5933,7 +6171,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('temporal') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0581",
-    "numero_ordem": 581
+    "numero_ordem": 581,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('temporal') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3120993",
@@ -5990,7 +6230,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('uma breve pausa antes de uma explicação') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0584",
-    "numero_ordem": 584
+    "numero_ordem": 584,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('uma breve pausa antes de uma explicação') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3120992",
@@ -6047,7 +6289,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Donald Trump') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0585",
-    "numero_ordem": 585
+    "numero_ordem": 585,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Donald Trump') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3120989",
@@ -6104,7 +6348,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('pretérito perfeito do indicativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0588",
-    "numero_ordem": 588
+    "numero_ordem": 588,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('pretérito perfeito do indicativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3120956",
@@ -6161,7 +6407,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('observador, pois apenas narra o que observa, sem participar como personagem') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0591",
-    "numero_ordem": 591
+    "numero_ordem": 591,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('observador, pois apenas narra o que observa, sem participar como personagem') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3120466",
@@ -6218,7 +6466,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('denotação, haja vista um maior emprego de palavras e expressões objetivas e literais') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0610",
-    "numero_ordem": 610
+    "numero_ordem": 610,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('denotação, haja vista um maior emprego de palavras e expressões objetivas e literais') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3120338",
@@ -6275,7 +6525,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('adjetiva restritiva') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0611",
-    "numero_ordem": 611
+    "numero_ordem": 611,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('adjetiva restritiva') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3120337",
@@ -6332,7 +6584,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Uma proposta detalhada para um sistema alternativo de pagamentos transfronteiriços foi preparada pela Rússia.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0612",
-    "numero_ordem": 612
+    "numero_ordem": 612,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Uma proposta detalhada para um sistema alternativo de pagamentos transfronteiriços foi preparada pela Rússia.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3110037",
@@ -6381,7 +6635,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('adjetiva restritiva') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0627",
-    "numero_ordem": 627
+    "numero_ordem": 627,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('adjetiva restritiva') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3110036",
@@ -6430,7 +6686,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('presente do indicativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0628",
-    "numero_ordem": 628
+    "numero_ordem": 628,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('presente do indicativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3110035",
@@ -6479,7 +6737,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('António Guterres') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0629",
-    "numero_ordem": 629
+    "numero_ordem": 629,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('António Guterres') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3109012",
@@ -6528,7 +6788,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('subordinada adjetiva') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0640",
-    "numero_ordem": 640
+    "numero_ordem": 640,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('subordinada adjetiva') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4334824",
@@ -6577,7 +6839,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('expositivo-argumentativo, pois apresenta dados, pesquisas e vozes especializadas subordinados a uma tese implícita favorável ao retorno da cursiva, que organiza e direciona a seleção e a disposição dessas informações ao longo do texto') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0652",
-    "numero_ordem": 652
+    "numero_ordem": 652,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('expositivo-argumentativo, pois apresenta dados, pesquisas e vozes especializadas subordinados a uma tese implícita favorável ao retorno da cursiva, que organiza e direciona a seleção e a disposição dessas informações ao longo do texto') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4334822",
@@ -6626,7 +6890,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('correto, pois a locução \"em comparação a\" admite a preposição \"a\", e o substantivo feminino \"digitação\" admite artigo definido feminino') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0654",
-    "numero_ordem": 654
+    "numero_ordem": 654,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('correto, pois a locução \"em comparação a\" admite a preposição \"a\", e o substantivo feminino \"digitação\" admite artigo definido feminino') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4334817",
@@ -6675,7 +6941,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('conclusão, pois a ausência de obrigatoriedade e de financiamento é apresentada como causa da inconsistência na implementação do ensino da cursiva') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0657",
-    "numero_ordem": 657
+    "numero_ordem": 657,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('conclusão, pois a ausência de obrigatoriedade e de financiamento é apresentada como causa da inconsistência na implementação do ensino da cursiva') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4334814",
@@ -6724,7 +6992,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('abrange qualidades e limitações percebidas na língua') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0658",
-    "numero_ordem": 658
+    "numero_ordem": 658,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('abrange qualidades e limitações percebidas na língua') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3109011",
@@ -6773,7 +7043,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('aditivo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0661",
-    "numero_ordem": 661
+    "numero_ordem": 661,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('aditivo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3109009",
@@ -6822,7 +7094,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('causa e consequência') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0663",
-    "numero_ordem": 663
+    "numero_ordem": 663,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('causa e consequência') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3103322",
@@ -6871,7 +7145,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('intertextual a um importante romancista inglês, reconhecido por abordar temas sociais em suas obras') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0673",
-    "numero_ordem": 673
+    "numero_ordem": 673,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('intertextual a um importante romancista inglês, reconhecido por abordar temas sociais em suas obras') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3103252",
@@ -6920,7 +7196,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('A pasta destaca que houve doenças que cresceram especialmente nas regiões Sudeste e Sul.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0676",
-    "numero_ordem": 676
+    "numero_ordem": 676,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('A pasta destaca que houve doenças que cresceram especialmente nas regiões Sudeste e Sul.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3103178",
@@ -6969,7 +7247,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Os mosquitos e outros insetos voltaram à lata de lixo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0690",
-    "numero_ordem": 690
+    "numero_ordem": 690,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Os mosquitos e outros insetos voltaram à lata de lixo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3096830",
@@ -7018,7 +7298,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('adição') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0709",
-    "numero_ordem": 709
+    "numero_ordem": 709,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('adição') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3096826",
@@ -7067,7 +7349,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('presente do indicativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0712",
-    "numero_ordem": 712
+    "numero_ordem": 712,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('presente do indicativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3093828",
@@ -7116,7 +7400,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Um futuro mais sustentável e possível a todos pode ser criado por nós') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0718",
-    "numero_ordem": 718
+    "numero_ordem": 718,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Um futuro mais sustentável e possível a todos pode ser criado por nós') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3093825",
@@ -7165,7 +7451,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('aditivo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0721",
-    "numero_ordem": 721
+    "numero_ordem": 721,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('aditivo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3093823",
@@ -7214,7 +7502,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('objeto indireto') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0723",
-    "numero_ordem": 723
+    "numero_ordem": 723,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('objeto indireto') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3065796",
@@ -7263,7 +7553,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('um dígrafo e um encontro consonantal') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0736",
-    "numero_ordem": 736
+    "numero_ordem": 736,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('um dígrafo e um encontro consonantal') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3042372",
@@ -7320,7 +7612,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('“Paralelo a isso, a fiscalização territorial foi negligenciada, o que favorece a segurança pública dessas áreas”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0738",
-    "numero_ordem": 738
+    "numero_ordem": 738,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('“Paralelo a isso, a fiscalização territorial foi negligenciada, o que favorece a segurança pública dessas áreas”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3042368",
@@ -7377,7 +7671,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('os norte-americanos') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0741",
-    "numero_ordem": 741
+    "numero_ordem": 741,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('os norte-americanos') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3042366",
@@ -7434,7 +7730,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('citá-los') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0742",
-    "numero_ordem": 742
+    "numero_ordem": 742,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('citá-los') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3042361",
@@ -7491,7 +7789,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('justificado, pois houve contração da preposição a com pronome demonstrativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0747",
-    "numero_ordem": 747
+    "numero_ordem": 747,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('justificado, pois houve contração da preposição a com pronome demonstrativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3042358",
@@ -7548,7 +7848,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('agrega valor socioeconômico ao meio preservado') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0749",
-    "numero_ordem": 749
+    "numero_ordem": 749,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('agrega valor socioeconômico ao meio preservado') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2584865",
@@ -7597,7 +7899,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('conclusões alcançadas no passado são contraditas pela pesquisa da Universidade de Galway.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0750",
-    "numero_ordem": 750
+    "numero_ordem": 750,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('conclusões alcançadas no passado são contraditas pela pesquisa da Universidade de Galway.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2537235",
@@ -7646,7 +7950,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('ônibus.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0761",
-    "numero_ordem": 761
+    "numero_ordem": 761,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('ônibus.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2537234",
@@ -7695,7 +8001,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('essa é a forma correta de escrita do termo, à luz da ortografia padrão.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0762",
-    "numero_ordem": 762
+    "numero_ordem": 762,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('essa é a forma correta de escrita do termo, à luz da ortografia padrão.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2537150",
@@ -7744,7 +8052,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('questionar uma situação já estabelecida.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0764",
-    "numero_ordem": 764
+    "numero_ordem": 764,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('questionar uma situação já estabelecida.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2495829",
@@ -7793,7 +8103,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('sujeito') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0783",
-    "numero_ordem": 783
+    "numero_ordem": 783,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('sujeito') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2495828",
@@ -7842,7 +8154,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('“As substâncias literalmente são os recursos que mantêm tudo agrupado”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0784",
-    "numero_ordem": 784
+    "numero_ordem": 784,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('“As substâncias literalmente são os recursos que mantêm tudo agrupado”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2495821",
@@ -7891,7 +8205,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('diferentes benefícios para o corpo humano') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0790",
-    "numero_ordem": 790
+    "numero_ordem": 790,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('diferentes benefícios para o corpo humano') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2489882",
@@ -7940,7 +8256,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Nós desenvolvemos a tecnologia de inteligência artificial por trás da função.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0791",
-    "numero_ordem": 791
+    "numero_ordem": 791,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Nós desenvolvemos a tecnologia de inteligência artificial por trás da função.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2489879",
@@ -7989,7 +8307,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('pretérito perfeito do indicativo do verbo SER') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0794",
-    "numero_ordem": 794
+    "numero_ordem": 794,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('pretérito perfeito do indicativo do verbo SER') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2489875",
@@ -8038,7 +8358,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('a sigla da instituição onde o projeto de tradução de Libras foi desenvolvido') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0797",
-    "numero_ordem": 797
+    "numero_ordem": 797,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('a sigla da instituição onde o projeto de tradução de Libras foi desenvolvido') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2484606",
@@ -8087,7 +8409,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('cadeira') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0807",
-    "numero_ordem": 807
+    "numero_ordem": 807,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('cadeira') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2484541",
@@ -8136,7 +8460,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('“A velocidade é o ritmo das máquinas. Mas nós não somos máquinas.”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0816",
-    "numero_ordem": 816
+    "numero_ordem": 816,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('“A velocidade é o ritmo das máquinas. Mas nós não somos máquinas.”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2484538",
@@ -8185,7 +8511,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('pronome/artigo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0819",
-    "numero_ordem": 819
+    "numero_ordem": 819,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('pronome/artigo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2484534",
@@ -8234,7 +8562,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Gianfranco Zavalloni') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0821",
-    "numero_ordem": 821
+    "numero_ordem": 821,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Gianfranco Zavalloni') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2484489",
@@ -8283,7 +8613,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('substantivo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0824",
-    "numero_ordem": 824
+    "numero_ordem": 824,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('substantivo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2484485",
@@ -8332,7 +8664,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('implacavelmente') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0827",
-    "numero_ordem": 827
+    "numero_ordem": 827,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('implacavelmente') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2484484",
@@ -8381,7 +8715,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('argumentativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0828",
-    "numero_ordem": 828
+    "numero_ordem": 828,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('argumentativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2484335",
@@ -8430,7 +8766,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('intransitivo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0832",
-    "numero_ordem": 832
+    "numero_ordem": 832,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('intransitivo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2484334",
@@ -8479,7 +8817,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('observam-no/ o apalpam') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0833",
-    "numero_ordem": 833
+    "numero_ordem": 833,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('observam-no/ o apalpam') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2480067",
@@ -8528,7 +8868,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('aborrecimentos, incômodos ou preocupações') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0839",
-    "numero_ordem": 839
+    "numero_ordem": 839,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('aborrecimentos, incômodos ou preocupações') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2480060",
@@ -8577,7 +8919,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('à proporção que') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0841",
-    "numero_ordem": 841
+    "numero_ordem": 841,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('à proporção que') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2472782",
@@ -8626,7 +8970,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('consequência') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0849",
-    "numero_ordem": 849
+    "numero_ordem": 849,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('consequência') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2472774",
@@ -8675,7 +9021,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('hábito de leitura é uma causa; ampliação de conhecimentos é uma consequência') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0855",
-    "numero_ordem": 855
+    "numero_ordem": 855,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('hábito de leitura é uma causa; ampliação de conhecimentos é uma consequência') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4325237",
@@ -8724,7 +9072,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('pretérito imperfeito do indicativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0861",
-    "numero_ordem": 861
+    "numero_ordem": 861,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('pretérito imperfeito do indicativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4325235",
@@ -8773,7 +9123,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('destacar uma explicação sobre a regra mencionada') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0862",
-    "numero_ordem": 862
+    "numero_ordem": 862,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('destacar uma explicação sobre a regra mencionada') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4324796",
@@ -8822,7 +9174,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('referencial') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0867",
-    "numero_ordem": 867
+    "numero_ordem": 867,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('referencial') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2472412",
@@ -8879,7 +9233,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('jovens') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0880",
-    "numero_ordem": 880
+    "numero_ordem": 880,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('jovens') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2472410",
@@ -8936,7 +9292,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('“Aqueles que hoje apontam a fraqueza dos filhos raramente dirão que seus próprios pais tiveram tempos fáceis”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0881",
-    "numero_ordem": 881
+    "numero_ordem": 881,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('“Aqueles que hoje apontam a fraqueza dos filhos raramente dirão que seus próprios pais tiveram tempos fáceis”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2472409",
@@ -8993,7 +9351,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('indeterminado') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0882",
-    "numero_ordem": 882
+    "numero_ordem": 882,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('indeterminado') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2472253",
@@ -9042,7 +9402,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('adjetiva restritiva') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0887",
-    "numero_ordem": 887
+    "numero_ordem": 887,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('adjetiva restritiva') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2472250",
@@ -9091,7 +9453,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('mais de mil pergaminhos do lote foram recuperados por escavações do século 18.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0890",
-    "numero_ordem": 890
+    "numero_ordem": 890,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('mais de mil pergaminhos do lote foram recuperados por escavações do século 18.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2472248",
@@ -9140,7 +9504,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('A Arqueologia tem uma nova aliada: a inteligência artificial.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0892",
-    "numero_ordem": 892
+    "numero_ordem": 892,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('A Arqueologia tem uma nova aliada: a inteligência artificial.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2472153",
@@ -9197,7 +9563,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Mesmo que alguns cidadãos optem por utilizar a saúde privada') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0897",
-    "numero_ordem": 897
+    "numero_ordem": 897,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Mesmo que alguns cidadãos optem por utilizar a saúde privada') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2472150",
@@ -9254,7 +9622,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('uma oração') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0900",
-    "numero_ordem": 900
+    "numero_ordem": 900,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('uma oração') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2472012",
@@ -9303,7 +9673,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('pronome') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0905",
-    "numero_ordem": 905
+    "numero_ordem": 905,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('pronome') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2470817",
@@ -9352,7 +9724,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('evitar “o tédio”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0915",
-    "numero_ordem": 915
+    "numero_ordem": 915,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('evitar “o tédio”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2470328",
@@ -9401,7 +9775,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('conformidade') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0919",
-    "numero_ordem": 919
+    "numero_ordem": 919,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('conformidade') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2470326",
@@ -9450,7 +9826,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('entrava') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0920",
-    "numero_ordem": 920
+    "numero_ordem": 920,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('entrava') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2470325",
@@ -9499,7 +9877,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('substantivo – substantivo – substantivo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0921",
-    "numero_ordem": 921
+    "numero_ordem": 921,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('substantivo – substantivo – substantivo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2470322",
@@ -9548,7 +9928,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Ocorreram 715 mortes - a maior parte delas no Distrito Federal, com 152 vítimas fatais.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0923",
-    "numero_ordem": 923
+    "numero_ordem": 923,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Ocorreram 715 mortes - a maior parte delas no Distrito Federal, com 152 vítimas fatais.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2469360",
@@ -9597,7 +9979,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('fidelizá-los') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0929",
-    "numero_ordem": 929
+    "numero_ordem": 929,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('fidelizá-los') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2468943",
@@ -9646,7 +10030,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Nasa adia missões para enviar astronautas a Marte e a Júpiter.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0939",
-    "numero_ordem": 939
+    "numero_ordem": 939,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Nasa adia missões para enviar astronautas a Marte e a Júpiter.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2468942",
@@ -9695,7 +10081,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('lua') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0940",
-    "numero_ordem": 940
+    "numero_ordem": 940,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('lua') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2468937",
@@ -9744,7 +10132,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('“As missões devem ser comandadas por Reid Wiseman”.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0945",
-    "numero_ordem": 945
+    "numero_ordem": 945,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('“As missões devem ser comandadas por Reid Wiseman”.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2468934",
@@ -9793,7 +10183,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('próximas duas missões com astronautas à Lua') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0948",
-    "numero_ordem": 948
+    "numero_ordem": 948,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('próximas duas missões com astronautas à Lua') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2468933",
@@ -9842,7 +10234,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('preposição – substantivo – substantivo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0949",
-    "numero_ordem": 949
+    "numero_ordem": 949,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('preposição – substantivo – substantivo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2467348",
@@ -9891,7 +10285,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('contraste') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0953",
-    "numero_ordem": 953
+    "numero_ordem": 953,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('contraste') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2467087",
@@ -9940,7 +10336,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Todos agradeceram àqueles bravos homens.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0955",
-    "numero_ordem": 955
+    "numero_ordem": 955,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Todos agradeceram àqueles bravos homens.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2466647",
@@ -9989,7 +10387,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Existem relações dessa diferença com o fato de as mulheres se dedicarem mais às tarefas de cuidados e afazeres domésticos.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0964",
-    "numero_ordem": 964
+    "numero_ordem": 964,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Existem relações dessa diferença com o fato de as mulheres se dedicarem mais às tarefas de cuidados e afazeres domésticos.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2466387",
@@ -10038,7 +10438,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('verbal, pois emprega palavras e frases da língua portuguesa') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0971",
-    "numero_ordem": 971
+    "numero_ordem": 971,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('verbal, pois emprega palavras e frases da língua portuguesa') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2465359",
@@ -10095,7 +10497,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('do pretérito perfeito do verbo SER') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0977",
-    "numero_ordem": 977
+    "numero_ordem": 977,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('do pretérito perfeito do verbo SER') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2465356",
@@ -10152,7 +10556,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('girassol') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0979",
-    "numero_ordem": 979
+    "numero_ordem": 979,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('girassol') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2465355",
@@ -10209,7 +10615,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('organização') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0980",
-    "numero_ordem": 980
+    "numero_ordem": 980,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('organização') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2465351",
@@ -10266,7 +10674,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Organização Mundial de Saúde (OMS)') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0983",
-    "numero_ordem": 983
+    "numero_ordem": 983,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Organização Mundial de Saúde (OMS)') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2454509",
@@ -10315,7 +10725,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('julgamento') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0987",
-    "numero_ordem": 987
+    "numero_ordem": 987,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('julgamento') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2454506",
@@ -10364,7 +10776,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('O arqueólogo Stéphen Rostain notou uma série de estradas enterradas e montes de terra no Equador, pela primeira vez, há mais de duas décadas.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0989",
-    "numero_ordem": 989
+    "numero_ordem": 989,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('O arqueólogo Stéphen Rostain notou uma série de estradas enterradas e montes de terra no Equador, pela primeira vez, há mais de duas décadas.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2454505",
@@ -10413,7 +10827,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('preposição e pronome') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0990",
-    "numero_ordem": 990
+    "numero_ordem": 990,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('preposição e pronome') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2451014",
@@ -10462,7 +10878,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('empresas') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0994",
-    "numero_ordem": 994
+    "numero_ordem": 994,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('empresas') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2451013",
@@ -10511,7 +10929,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('tempo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0995",
-    "numero_ordem": 995
+    "numero_ordem": 995,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('tempo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2451010",
@@ -10560,7 +10980,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Por conta de ocorrência na rede elétrica da Light, na quinta-feira, o sistema de climatização do Galeão foi impactado.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT0997",
-    "numero_ordem": 997
+    "numero_ordem": 997,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Por conta de ocorrência na rede elétrica da Light, na quinta-feira, o sistema de climatização do Galeão foi impactado.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2451006",
@@ -10609,7 +11031,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('embora tenha') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT1000",
-    "numero_ordem": 1000
+    "numero_ordem": 1000,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('embora tenha') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2353256",
@@ -10658,7 +11082,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('“Diversos projetos voltados para a inclusão das Pessoas com Deficiência estão sendo desenvolvidos pela prefeitura.”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT1009",
-    "numero_ordem": 1009
+    "numero_ordem": 1009,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('“Diversos projetos voltados para a inclusão das Pessoas com Deficiência estão sendo desenvolvidos pela prefeitura.”') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2353195",
@@ -10707,7 +11133,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('respectivamente feminina e masculina') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT1014",
-    "numero_ordem": 1014
+    "numero_ordem": 1014,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('respectivamente feminina e masculina') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2353189",
@@ -10756,7 +11184,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('apresentar uma controvérsia entre dois presidentes acerca de um determinado território em disputa') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT1020",
-    "numero_ordem": 1020
+    "numero_ordem": 1020,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('apresentar uma controvérsia entre dois presidentes acerca de um determinado território em disputa') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2347877",
@@ -10805,7 +11235,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('tomá-las') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT1023",
-    "numero_ordem": 1023
+    "numero_ordem": 1023,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('tomá-las') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2347875",
@@ -10854,7 +11286,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Sultan Al Jaber') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT1024",
-    "numero_ordem": 1024
+    "numero_ordem": 1024,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Sultan Al Jaber') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4322632",
@@ -10903,7 +11337,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('a proteína é um nutriente essencial, mas seu consumo excessivo, especialmente de fontes animais, pode representar riscos à saúde') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT1035",
-    "numero_ordem": 1035
+    "numero_ordem": 1035,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('a proteína é um nutriente essencial, mas seu consumo excessivo, especialmente de fontes animais, pode representar riscos à saúde') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4313383",
@@ -10952,7 +11388,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('apresenta o prejuízo à concorrência como um fato apresentado pelo enunciador como vigente no momento da notícia, sem expressar hipótese ou eventualidade') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT1037",
-    "numero_ordem": 1037
+    "numero_ordem": 1037,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('apresenta o prejuízo à concorrência como um fato apresentado pelo enunciador como vigente no momento da notícia, sem expressar hipótese ou eventualidade') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4310546",
@@ -11001,7 +11439,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('principal') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT1040",
-    "numero_ordem": 1040
+    "numero_ordem": 1040,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('principal') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4251006",
@@ -11050,7 +11490,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('destacar o título de uma obra') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT1041",
-    "numero_ordem": 1041
+    "numero_ordem": 1041,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('destacar o título de uma obra') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4250887",
@@ -11099,7 +11541,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('referencial, pois o texto orienta-se para a transmissão objetiva de informações sobre um fenômeno do mundo real Português > Interpretação de Textos , Coesão e coerência , Sintaxe') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT1050",
-    "numero_ordem": 1050
+    "numero_ordem": 1050,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('referencial, pois o texto orienta-se para a transmissão objetiva de informações sobre um fenômeno do mundo real Português > Interpretação de Textos , Coesão e coerência , Sintaxe') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4250879",
@@ -11148,7 +11592,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('a confi abilidade dos métodos utilizados na investigação') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT1055",
-    "numero_ordem": 1055
+    "numero_ordem": 1055,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('a confi abilidade dos métodos utilizados na investigação') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4250117",
@@ -11197,7 +11643,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('A juíza analisou minuciosamente os indícios e concluiu que havia má-fé na negociação.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT1057",
-    "numero_ordem": 1057
+    "numero_ordem": 1057,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('A juíza analisou minuciosamente os indícios e concluiu que havia má-fé na negociação.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4244975",
@@ -11246,7 +11694,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('presente do indicativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT1066",
-    "numero_ordem": 1066
+    "numero_ordem": 1066,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('presente do indicativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4220097",
@@ -11295,7 +11745,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('presente do indicativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT1070",
-    "numero_ordem": 1070
+    "numero_ordem": 1070,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('presente do indicativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4220090",
@@ -11344,7 +11796,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('explicar os mecanismos psicológicos envolvidos na procrastinação') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT1075",
-    "numero_ordem": 1075
+    "numero_ordem": 1075,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('explicar os mecanismos psicológicos envolvidos na procrastinação') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4160341",
@@ -11393,7 +11847,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('moça observada pelo narrador') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT1076",
-    "numero_ordem": 1076
+    "numero_ordem": 1076,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('moça observada pelo narrador') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4160179",
@@ -11442,7 +11898,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('advérbio de tempo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT1082",
-    "numero_ordem": 1082
+    "numero_ordem": 1082,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('advérbio de tempo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4160110",
@@ -11491,7 +11949,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('torneira') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT1084",
-    "numero_ordem": 1084
+    "numero_ordem": 1084,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('torneira') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3963425",
@@ -11540,7 +12000,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('contextualizar historicamente a inclinação brasileira para adornos e ornamentos') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT1094",
-    "numero_ordem": 1094
+    "numero_ordem": 1094,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('contextualizar historicamente a inclinação brasileira para adornos e ornamentos') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3963054",
@@ -11589,7 +12051,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('educação') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT1095",
-    "numero_ordem": 1095
+    "numero_ordem": 1095,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('educação') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3963049",
@@ -11638,7 +12102,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Faz 55 anos que o encontro reúne') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT1098",
-    "numero_ordem": 1098
+    "numero_ordem": 1098,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Faz 55 anos que o encontro reúne') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3925525",
@@ -11687,7 +12153,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('obediência e desobediência') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT1103",
-    "numero_ordem": 1103
+    "numero_ordem": 1103,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('obediência e desobediência') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3925523",
@@ -11736,7 +12204,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('consequência') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT1105",
-    "numero_ordem": 1105
+    "numero_ordem": 1105,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('consequência') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3883571",
@@ -11785,7 +12255,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('correta, pois o verbo indicado está sendo usado de modo impessoal') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT1112",
-    "numero_ordem": 1112
+    "numero_ordem": 1112,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('correta, pois o verbo indicado está sendo usado de modo impessoal') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3883570",
@@ -11834,7 +12306,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('objeto indireto') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT1113",
-    "numero_ordem": 1113
+    "numero_ordem": 1113,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('objeto indireto') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4432455",
@@ -11883,7 +12357,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('substantivo e adjetivo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT1115",
-    "numero_ordem": 1115
+    "numero_ordem": 1115,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('substantivo e adjetivo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4432451",
@@ -11932,7 +12408,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('conferir credibilidade às orientações mediante o apoio de fontes reconhecidas na área') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT1119",
-    "numero_ordem": 1119
+    "numero_ordem": 1119,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('conferir credibilidade às orientações mediante o apoio de fontes reconhecidas na área') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4431452",
@@ -11981,7 +12459,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('presente do indicativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "PT1120",
-    "numero_ordem": 1120
+    "numero_ordem": 1120,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('presente do indicativo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3954790",
@@ -12038,7 +12518,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('uma grande potencialidade à qual teríamos renunciado = da qual teríamos aberto mão.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0001",
-    "numero_ordem": 1
+    "numero_ordem": 1,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('uma grande potencialidade à qual teríamos renunciado = da qual teríamos aberto mão.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3947142",
@@ -12095,7 +12577,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Há quem reconheça o mérito de alguém por conta de honra já concedida.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0004",
-    "numero_ordem": 4
+    "numero_ordem": 4,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Há quem reconheça o mérito de alguém por conta de honra já concedida.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3947139",
@@ -12152,7 +12636,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Quando se trata da - ao julgarmos tudo - nos reconheçamos') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0007",
-    "numero_ordem": 7
+    "numero_ordem": 7,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Quando se trata da - ao julgarmos tudo - nos reconheçamos') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3947137",
@@ -12209,7 +12695,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Faltava às lembranças digitalizadas a hesitação na escolha dos detalhes = Careciam as lembranças digitalizadas da') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0009",
-    "numero_ordem": 9
+    "numero_ordem": 9,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Faltava às lembranças digitalizadas a hesitação na escolha dos detalhes = Careciam as lembranças digitalizadas da') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3916796",
@@ -12266,7 +12754,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('o primeiro parágrafo argumenta por meio do exemplo de Taine, alicerçado, por sua vez, em um argumento de autoridade, com a menção a Edmond Schérer.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0013",
-    "numero_ordem": 13
+    "numero_ordem": 13,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('o primeiro parágrafo argumenta por meio do exemplo de Taine, alicerçado, por sua vez, em um argumento de autoridade, com a menção a Edmond Schérer.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3916767",
@@ -12323,7 +12813,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Avulta, entre as qualidades do Cachorro, a associação de virtudes como a generosidade, a empatia e o estoicismo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0017",
-    "numero_ordem": 17
+    "numero_ordem": 17,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Avulta, entre as qualidades do Cachorro, a associação de virtudes como a generosidade, a empatia e o estoicismo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3916763",
@@ -12380,7 +12872,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Em com a responsabilidade implícita de uma avaliação criteriosa (2º parágrafo), considera-se tácita a responsabilidade de se avaliar algo com critério.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0018",
-    "numero_ordem": 18
+    "numero_ordem": 18,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Em com a responsabilidade implícita de uma avaliação criteriosa (2º parágrafo), considera-se tácita a responsabilidade de se avaliar algo com critério.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3916760",
@@ -12437,7 +12931,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('a consciência individual agencie a vitalidade da elaboração das ideias.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0021",
-    "numero_ordem": 21
+    "numero_ordem": 21,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('a consciência individual agencie a vitalidade da elaboração das ideias.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3916756",
@@ -12494,7 +12990,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('O raciocínio não haverá de ser aplicado a quem venha a lidar com a linguagem como mero instrumento.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0024",
-    "numero_ordem": 24
+    "numero_ordem": 24,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('O raciocínio não haverá de ser aplicado a quem venha a lidar com a linguagem como mero instrumento.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3916751",
@@ -12551,7 +13049,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('conquanto seja difícil') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0027",
-    "numero_ordem": 27
+    "numero_ordem": 27,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('conquanto seja difícil') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3916745",
@@ -12608,7 +13108,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Não seja uma escolha de nossa vida nenhuma das decisões que se constituirão ao modo de dolorosos pentimentos.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0030",
-    "numero_ordem": 30
+    "numero_ordem": 30,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Não seja uma escolha de nossa vida nenhuma das decisões que se constituirão ao modo de dolorosos pentimentos.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3910524",
@@ -12665,7 +13167,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('O colega cuidava do artista brasileiro, que não leva a sério suas escolhas.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0035",
-    "numero_ordem": 35
+    "numero_ordem": 35,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('O colega cuidava do artista brasileiro, que não leva a sério suas escolhas.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3910520",
@@ -12722,7 +13226,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('são atiradas.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0038",
-    "numero_ordem": 38
+    "numero_ordem": 38,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('são atiradas.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3910517",
@@ -12779,7 +13285,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('oculta sob suas tonalidades mais sedutoras a violência de criaturas impiedosas, que chegam a se entredevorar.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0041",
-    "numero_ordem": 41
+    "numero_ordem": 41,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('oculta sob suas tonalidades mais sedutoras a violência de criaturas impiedosas, que chegam a se entredevorar.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3888380",
@@ -12836,7 +13344,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('pausa que reforça a justaposição entre dois segmentos enunciativos.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0043",
-    "numero_ordem": 43
+    "numero_ordem": 43,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('pausa que reforça a justaposição entre dois segmentos enunciativos.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3887601",
@@ -12893,7 +13403,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('voltar o seu rosto para um céu maior que este mundo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0047",
-    "numero_ordem": 47
+    "numero_ordem": 47,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('voltar o seu rosto para um céu maior que este mundo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3887597",
@@ -12950,7 +13462,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('cujo nome agora me foge.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0051",
-    "numero_ordem": 51
+    "numero_ordem": 51,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('cujo nome agora me foge.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3884248",
@@ -13007,7 +13521,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Ao fim e ao cabo, os pesquisadores, apesar de seus esforços, não lograram determinar a origem da desigualdade social.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0058",
-    "numero_ordem": 58
+    "numero_ordem": 58,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Ao fim e ao cabo, os pesquisadores, apesar de seus esforços, não lograram determinar a origem da desigualdade social.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3884240",
@@ -13064,7 +13580,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('O luto da mãe, das tias, das primas, de todos os familiares, não parece ter sensibilizado o menino, que tanto gostaria de ver comemorados os seus oito anos.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0060",
-    "numero_ordem": 60
+    "numero_ordem": 60,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('O luto da mãe, das tias, das primas, de todos os familiares, não parece ter sensibilizado o menino, que tanto gostaria de ver comemorados os seus oito anos.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3884236",
@@ -13121,7 +13639,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Embora não ignorasse o trágico evento daquele dia, o menino sofreu com o fracasso da comemoração que estava aguardando.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0061",
-    "numero_ordem": 61
+    "numero_ordem": 61,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Embora não ignorasse o trágico evento daquele dia, o menino sofreu com o fracasso da comemoração que estava aguardando.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3884235",
@@ -13178,7 +13698,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('a penosa vergonha que o acometeu quando, anos mais tarde, soube de sua reação diante da festa cancelada pelo luto.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0062",
-    "numero_ordem": 62
+    "numero_ordem": 62,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('a penosa vergonha que o acometeu quando, anos mais tarde, soube de sua reação diante da festa cancelada pelo luto.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3883922",
@@ -13235,7 +13757,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Seus méritos de narrador serão reconhecidos conforme você venha a escrever.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0064",
-    "numero_ordem": 64
+    "numero_ordem": 64,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Seus méritos de narrador serão reconhecidos conforme você venha a escrever.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3883918",
@@ -13292,7 +13816,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Não lhe faltam argumentos nos quais pode se apoiar para justificar sua vaidade.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0068",
-    "numero_ordem": 68
+    "numero_ordem": 68,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Não lhe faltam argumentos nos quais pode se apoiar para justificar sua vaidade.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3879944",
@@ -13349,7 +13875,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Conheço perfeitamente a técnica de carregar embrulhos dos outros. (2º parágrafo)') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0073",
-    "numero_ordem": 73
+    "numero_ordem": 73,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Conheço perfeitamente a técnica de carregar embrulhos dos outros. (2º parágrafo)') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3879938",
@@ -13406,7 +13934,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Muito a contragosto, Serginho voltou a confiar-me sua querida pasta. Um estranho mereceria carregá-la? E se fugisse com ela? (7º parágrafo)') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0079",
-    "numero_ordem": 79
+    "numero_ordem": 79,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Muito a contragosto, Serginho voltou a confiar-me sua querida pasta. Um estranho mereceria carregá-la? E se fugisse com ela? (7º parágrafo)') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3879936",
@@ -13463,7 +13993,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Como bem podem imaginar, Serginho suspeitava de minha honorabilidade, e os circunstantes se deliciavam com a suspeita. (7º parágrafo)') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0081",
-    "numero_ordem": 81
+    "numero_ordem": 81,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Como bem podem imaginar, Serginho suspeitava de minha honorabilidade, e os circunstantes se deliciavam com a suspeita. (7º parágrafo)') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3872144",
@@ -13520,7 +14052,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Na longa carta virtual lembrou uma passagem da nossa vida, onde dividíamos um apartamento pequeno em Barcelona (quando).') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0083",
-    "numero_ordem": 83
+    "numero_ordem": 83,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Na longa carta virtual lembrou uma passagem da nossa vida, onde dividíamos um apartamento pequeno em Barcelona (quando).') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3872142",
@@ -13577,7 +14111,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('além do prazer que encontrou na experiência de reviver hábitos de correspondência não virtual.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0085",
-    "numero_ordem": 85
+    "numero_ordem": 85,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('além do prazer que encontrou na experiência de reviver hábitos de correspondência não virtual.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3872137",
@@ -13634,7 +14170,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Destinam-se a uma diversificada oferta de serviços digitais esses óxidos metálicos tão disputados pelos países mais avançados.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0089",
-    "numero_ordem": 89
+    "numero_ordem": 89,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Destinam-se a uma diversificada oferta de serviços digitais esses óxidos metálicos tão disputados pelos países mais avançados.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3872085",
@@ -13691,7 +14229,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('finalidade.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0096",
-    "numero_ordem": 96
+    "numero_ordem": 96,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('finalidade.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3872081",
@@ -13748,7 +14288,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('aprendera.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0100",
-    "numero_ordem": 100
+    "numero_ordem": 100,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('aprendera.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3872080",
@@ -13805,7 +14347,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Já adultos, os filhos podiam seguir seu próprio caminho: um era eletricista; o outro, especialista em informática. (2º parágrafo)') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0101",
-    "numero_ordem": 101
+    "numero_ordem": 101,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Já adultos, os filhos podiam seguir seu próprio caminho: um era eletricista; o outro, especialista em informática. (2º parágrafo)') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3871976",
@@ -13862,7 +14406,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('A autora do texto, louvando essa Bienal, mostra convicções das quais não arreda o pé.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0111",
-    "numero_ordem": 111
+    "numero_ordem": 111,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('A autora do texto, louvando essa Bienal, mostra convicções das quais não arreda o pé.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3871915",
@@ -13919,7 +14465,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('foste comovido - foram elaboradas') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0116",
-    "numero_ordem": 116
+    "numero_ordem": 116,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('foste comovido - foram elaboradas') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3871913",
@@ -13976,7 +14524,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('ela o desculpe, mas que naquele momento seu amigo estava ocupado, e se ela não queria deixar recado.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0118",
-    "numero_ordem": 118
+    "numero_ordem": 118,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('ela o desculpe, mas que naquele momento seu amigo estava ocupado, e se ela não queria deixar recado.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3871910",
@@ -14033,7 +14583,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('não importa qual arte enobreçam (2º parágrafo), a capacidade que têm os artistas de honrar o alto nível da arte de sua eleição.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0121",
-    "numero_ordem": 121
+    "numero_ordem": 121,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('não importa qual arte enobreçam (2º parágrafo), a capacidade que têm os artistas de honrar o alto nível da arte de sua eleição.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3871907",
@@ -14090,7 +14642,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Motivandoa transformação, esta Bienal ultrapassa a condição de um mero evento.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0123",
-    "numero_ordem": 123
+    "numero_ordem": 123,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Motivandoa transformação, esta Bienal ultrapassa a condição de um mero evento.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3992552",
@@ -14147,7 +14701,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('compreender a condicionante decisiva (2º parágrafo) = dar-se conta da cláusula determinante.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0126",
-    "numero_ordem": 126
+    "numero_ordem": 126,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('compreender a condicionante decisiva (2º parágrafo) = dar-se conta da cláusula determinante.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3992460",
@@ -14204,7 +14760,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Tinham até meio de se governarem sozinhas e de se manterem num compromisso com a terra, a chuva e o vento.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0128",
-    "numero_ordem": 128
+    "numero_ordem": 128,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Tinham até meio de se governarem sozinhas e de se manterem num compromisso com a terra, a chuva e o vento.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3992455",
@@ -14261,7 +14819,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('critica-se a tendência de se comparar a grandeza de poetas, desconsiderando-se a dimensão intangível da poesia.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0129",
-    "numero_ordem": 129
+    "numero_ordem": 129,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('critica-se a tendência de se comparar a grandeza de poetas, desconsiderando-se a dimensão intangível da poesia.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3992452",
@@ -14318,7 +14878,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('ouça.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0130",
-    "numero_ordem": 130
+    "numero_ordem": 130,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('ouça.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3848770",
@@ -14375,7 +14937,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('enganosa, pois é conhecida a possibilidade que têm as artes de se relacionarem entre si e assim potenciarem o seu sentido.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0131",
-    "numero_ordem": 131
+    "numero_ordem": 131,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('enganosa, pois é conhecida a possibilidade que têm as artes de se relacionarem entre si e assim potenciarem o seu sentido.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3848767",
@@ -14432,7 +14996,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Deve-se às lembranças vivas do passado o reconhecimento do que nos legaram.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0133",
-    "numero_ordem": 133
+    "numero_ordem": 133,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Deve-se às lembranças vivas do passado o reconhecimento do que nos legaram.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3819211",
@@ -14489,7 +15055,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('alguém.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0137",
-    "numero_ordem": 137
+    "numero_ordem": 137,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('alguém.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3819208",
@@ -14546,7 +15114,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('escutara.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0139",
-    "numero_ordem": 139
+    "numero_ordem": 139,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('escutara.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3819205",
@@ -14603,7 +15173,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Hoje estou com pendor para confissões; vontade de abrir meu peito em praça pública (1° parágrafo)..') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0140",
-    "numero_ordem": 140
+    "numero_ordem": 140,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Hoje estou com pendor para confissões; vontade de abrir meu peito em praça pública (1° parágrafo)..') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3735530",
@@ -14660,7 +15232,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('que inexiste') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0141",
-    "numero_ordem": 141
+    "numero_ordem": 141,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('que inexiste') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3735525",
@@ -14717,7 +15291,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('-Mas eles parecem cada vez mais apaixonados - protestou Marinho.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0146",
-    "numero_ordem": 146
+    "numero_ordem": 146,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('-Mas eles parecem cada vez mais apaixonados - protestou Marinho.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3735521",
@@ -14774,7 +15350,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Declarou que não trocava a sua Clarinha por duas de 17, sabiam por quê? (1º parágrafo)') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0150",
-    "numero_ordem": 150
+    "numero_ordem": 150,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Declarou que não trocava a sua Clarinha por duas de 17, sabiam por quê? (1º parágrafo)') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3660481",
@@ -14831,7 +15409,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('criação de figurações imaginosas e simbólicas.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0153",
-    "numero_ordem": 153
+    "numero_ordem": 153,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('criação de figurações imaginosas e simbólicas.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3654494",
@@ -14888,7 +15468,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('tenham excitado- não terão sido contemplados.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0156",
-    "numero_ordem": 156
+    "numero_ordem": 156,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('tenham excitado- não terão sido contemplados.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3627565",
@@ -14945,7 +15527,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Os amigos cronistas trocavam crônicas de cuja falsa autoria, no entanto, nenhum leitor poderia suspeitar.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0159",
-    "numero_ordem": 159
+    "numero_ordem": 159,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Os amigos cronistas trocavam crônicas de cuja falsa autoria, no entanto, nenhum leitor poderia suspeitar.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3627563",
@@ -15002,7 +15586,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('havia estigmatizado com seu implacável juízo crítico (5º parágrafo).') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0160",
-    "numero_ordem": 160
+    "numero_ordem": 160,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('havia estigmatizado com seu implacável juízo crítico (5º parágrafo).') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3598791",
@@ -15059,7 +15645,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('com que me fitas') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0162",
-    "numero_ordem": 162
+    "numero_ordem": 162,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('com que me fitas') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3598788",
@@ -15116,7 +15704,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('contanto que') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0165",
-    "numero_ordem": 165
+    "numero_ordem": 165,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('contanto que') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3596188",
@@ -15173,7 +15763,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('discrepância e desencontro.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0171",
-    "numero_ordem": 171
+    "numero_ordem": 171,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('discrepância e desencontro.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3596186",
@@ -15230,7 +15822,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('é desafiada / seja nela formulado') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0172",
-    "numero_ordem": 172
+    "numero_ordem": 172,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('é desafiada / seja nela formulado') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3596184",
@@ -15287,7 +15881,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Deve-se às lembranças vivas do passado o reconhecimento do que nos legaram.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0173",
-    "numero_ordem": 173
+    "numero_ordem": 173,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Deve-se às lembranças vivas do passado o reconhecimento do que nos legaram.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3538928",
@@ -15344,7 +15940,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('noção de limite absoluto, enfatizando a dificuldade de alcançar a pureza desejada.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0175",
-    "numero_ordem": 175
+    "numero_ordem": 175,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('noção de limite absoluto, enfatizando a dificuldade de alcançar a pureza desejada.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3538923",
@@ -15401,7 +15999,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('uma ação habitual, coerente com a ideia de algo recorrente no tempo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0180",
-    "numero_ordem": 180
+    "numero_ordem": 180,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('uma ação habitual, coerente com a ideia de algo recorrente no tempo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3538919",
@@ -15458,7 +16058,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('perda de limites entre público e privado, decorrente do uso exacerbado de tecnologias de interatividade, que compromete a integridade da imagem e da produção artística.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0184",
-    "numero_ordem": 184
+    "numero_ordem": 184,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('perda de limites entre público e privado, decorrente do uso exacerbado de tecnologias de interatividade, que compromete a integridade da imagem e da produção artística.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3538791",
@@ -15515,7 +16117,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('a ilusão da altura leva à grande queda.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0185",
-    "numero_ordem": 185
+    "numero_ordem": 185,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('a ilusão da altura leva à grande queda.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3538787",
@@ -15572,7 +16176,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Cuidam de agir de acordo com sua consciência crítica aqueles a quem só anima uma reflexão isenta.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0186",
-    "numero_ordem": 186
+    "numero_ordem": 186,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Cuidam de agir de acordo com sua consciência crítica aqueles a quem só anima uma reflexão isenta.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3538743",
@@ -15629,7 +16235,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Ele é historiador e acabou escrevendo uma autobiografia com interesse histórico, inscrita no século XX.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0187",
-    "numero_ordem": 187
+    "numero_ordem": 187,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Ele é historiador e acabou escrevendo uma autobiografia com interesse histórico, inscrita no século XX.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3538738",
@@ -15686,7 +16294,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Não se pode cultuar as atividades digitais, que se apresentam na contramão dos interesses humanos.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0192",
-    "numero_ordem": 192
+    "numero_ordem": 192,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Não se pode cultuar as atividades digitais, que se apresentam na contramão dos interesses humanos.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3538612",
@@ -15743,7 +16353,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('O perfume [...] abafou o sermão que trazia preparado.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0197",
-    "numero_ordem": 197
+    "numero_ordem": 197,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('O perfume [...] abafou o sermão que trazia preparado.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4234742",
@@ -15800,7 +16412,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('se foi.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0200",
-    "numero_ordem": 200
+    "numero_ordem": 200,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('se foi.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4231737",
@@ -15857,7 +16471,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('seria desagradável a recordação de algo que lhes causaria arrependimento.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0201",
-    "numero_ordem": 201
+    "numero_ordem": 201,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('seria desagradável a recordação de algo que lhes causaria arrependimento.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4231729",
@@ -15914,7 +16530,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('finalidade.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0206",
-    "numero_ordem": 206
+    "numero_ordem": 206,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('finalidade.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4231608",
@@ -15971,7 +16589,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('personificação.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0207",
-    "numero_ordem": 207
+    "numero_ordem": 207,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('personificação.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4231606",
@@ -16028,7 +16648,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('fera (3º parágrafo)') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0209",
-    "numero_ordem": 209
+    "numero_ordem": 209,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('fera (3º parágrafo)') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3538609",
@@ -16085,7 +16707,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('O amor que tu me tinhas.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0219",
-    "numero_ordem": 219
+    "numero_ordem": 219,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('O amor que tu me tinhas.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3538513",
@@ -16142,7 +16766,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Estarão mais seguros aqueles que, com sensatez, avaliarem a força de seus limites, uma vez desafiados pelo destino.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0225",
-    "numero_ordem": 225
+    "numero_ordem": 225,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Estarão mais seguros aqueles que, com sensatez, avaliarem a força de seus limites, uma vez desafiados pelo destino.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3538508",
@@ -16199,7 +16825,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Um pretenso bem ao qual se sucumbe perde seu caráter moral = pelo qual se é deixado levar.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0226",
-    "numero_ordem": 226
+    "numero_ordem": 226,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Um pretenso bem ao qual se sucumbe perde seu caráter moral = pelo qual se é deixado levar.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3530341",
@@ -16256,7 +16884,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('as plantas são indiferentes às intenções do jardineiro.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0228",
-    "numero_ordem": 228
+    "numero_ordem": 228,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('as plantas são indiferentes às intenções do jardineiro.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3530336",
@@ -16313,7 +16943,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('critica-se a tendência de se comparar a grandeza de poetas, desconsiderando-se a dimensão intangível da poesia.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0229",
-    "numero_ordem": 229
+    "numero_ordem": 229,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('critica-se a tendência de se comparar a grandeza de poetas, desconsiderando-se a dimensão intangível da poesia.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3507035",
@@ -16370,7 +17002,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('a afirmação do primeiro período encontra sua justificativa no segundo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0232",
-    "numero_ordem": 232
+    "numero_ordem": 232,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('a afirmação do primeiro período encontra sua justificativa no segundo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3507025",
@@ -16427,7 +17061,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('o risco é nada menos que a estagnação da espécie (3° parágrafo) = a ameaça é precisamente o embotamento do gênero humano.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0233",
-    "numero_ordem": 233
+    "numero_ordem": 233,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('o risco é nada menos que a estagnação da espécie (3° parágrafo) = a ameaça é precisamente o embotamento do gênero humano.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3506109",
@@ -16484,7 +17120,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Qual destino haverá em existirmos?') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0236",
-    "numero_ordem": 236
+    "numero_ordem": 236,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Qual destino haverá em existirmos?') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3506107",
@@ -16541,7 +17179,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('a investigação do significado restabelece-se por baixo do campo alcançado.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0238",
-    "numero_ordem": 238
+    "numero_ordem": 238,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('a investigação do significado restabelece-se por baixo do campo alcançado.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3506102",
@@ -16598,7 +17238,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Caso não aprofundemos a vigilância sobre os efeitos nefastos da IA, estaremos submetidos às deformações que provierem de seu uso indiscriminado.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0241",
-    "numero_ordem": 241
+    "numero_ordem": 241,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Caso não aprofundemos a vigilância sobre os efeitos nefastos da IA, estaremos submetidos às deformações que provierem de seu uso indiscriminado.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3502373",
@@ -16655,7 +17297,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('são adaptados.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0246",
-    "numero_ordem": 246
+    "numero_ordem": 246,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('são adaptados.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3502101",
@@ -16712,7 +17356,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Teria existido um setor no nosso sistema de justiça que tivesse trabalhado em nome da reconciliação?') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0247",
-    "numero_ordem": 247
+    "numero_ordem": 247,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Teria existido um setor no nosso sistema de justiça que tivesse trabalhado em nome da reconciliação?') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3502094",
@@ -16769,7 +17415,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Estarão um dia as máquinas computacionais aptas para dotar sua linguagem da expressão da nossa subjetividade?') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0253",
-    "numero_ordem": 253
+    "numero_ordem": 253,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Estarão um dia as máquinas computacionais aptas para dotar sua linguagem da expressão da nossa subjetividade?') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3478902",
@@ -16826,7 +17474,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Uma liderança especial, naturalmente virtuosa, recuperaria o valor de instituições extintas.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0257",
-    "numero_ordem": 257
+    "numero_ordem": 257,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Uma liderança especial, naturalmente virtuosa, recuperaria o valor de instituições extintas.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3469402",
@@ -16883,7 +17533,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('as violências de uma terra sem lei e o providencialismo vitorioso de uma virtuosa iniciativa individual.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0258",
-    "numero_ordem": 258
+    "numero_ordem": 258,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('as violências de uma terra sem lei e o providencialismo vitorioso de uma virtuosa iniciativa individual.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3468699",
@@ -16940,7 +17592,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('fosse - passasse') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0259",
-    "numero_ordem": 259
+    "numero_ordem": 259,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('fosse - passasse') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3468696",
@@ -16997,7 +17651,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('a origem da criação literária prende-se à condição individual do autor, conquanto ganhe repercussão como expressão social.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0261",
-    "numero_ordem": 261
+    "numero_ordem": 261,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('a origem da criação literária prende-se à condição individual do autor, conquanto ganhe repercussão como expressão social.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3468694",
@@ -17054,7 +17710,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('o enquadramento nos hábitos é rejeitado pelo sonhador.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0263",
-    "numero_ordem": 263
+    "numero_ordem": 263,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('o enquadramento nos hábitos é rejeitado pelo sonhador.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3445880",
@@ -17111,7 +17769,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('enquanto a lei servia de fachada.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0268",
-    "numero_ordem": 268
+    "numero_ordem": 268,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('enquanto a lei servia de fachada.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3406712",
@@ -17168,7 +17828,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Constituem-se ao mesmo tempo uma visão pertinente e uma visão desviante de uma cidade.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0274",
-    "numero_ordem": 274
+    "numero_ordem": 274,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Constituem-se ao mesmo tempo uma visão pertinente e uma visão desviante de uma cidade.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3406052",
@@ -17225,7 +17887,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('aquele tanto de vago e aquele tanto de preciso (4º parágrafo) = algo da vaguidade e algo da exatidão.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0276",
-    "numero_ordem": 276
+    "numero_ordem": 276,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('aquele tanto de vago e aquele tanto de preciso (4º parágrafo) = algo da vaguidade e algo da exatidão.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3386962",
@@ -17282,7 +17946,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('O doente, ao abster-se do lamento, que discursivamente valida o benefício proporcionado pelos que estão ao pé de seu leito, parece rejeitar a compaixão que lhe demonstram.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0277",
-    "numero_ordem": 277
+    "numero_ordem": 277,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('O doente, ao abster-se do lamento, que discursivamente valida o benefício proporcionado pelos que estão ao pé de seu leito, parece rejeitar a compaixão que lhe demonstram.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3386961",
@@ -17339,7 +18005,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('expressão individual da dor - homem - doente.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0278",
-    "numero_ordem": 278
+    "numero_ordem": 278,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('expressão individual da dor - homem - doente.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3386958",
@@ -17396,7 +18064,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Exige séria reflexão política a tenacidade do mito e a importância de suas funções para a \"estabilidade da ordem\".') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0279",
-    "numero_ordem": 279
+    "numero_ordem": 279,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Exige séria reflexão política a tenacidade do mito e a importância de suas funções para a \"estabilidade da ordem\".') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3386956",
@@ -17453,7 +18123,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('I e II apenas.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0281",
-    "numero_ordem": 281
+    "numero_ordem": 281,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('I e II apenas.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3336189",
@@ -17510,7 +18182,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('pela qual.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0285",
-    "numero_ordem": 285
+    "numero_ordem": 285,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('pela qual.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3336185",
@@ -17567,7 +18241,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('discretos.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0289",
-    "numero_ordem": 289
+    "numero_ordem": 289,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('discretos.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3336180",
@@ -17624,7 +18300,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('substantivo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0294",
-    "numero_ordem": 294
+    "numero_ordem": 294,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('substantivo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3336177",
@@ -17681,7 +18359,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Contudo em Contudo desistir é renunciar à chance de partir estabelece uma relação de oposição, marcando contraste em relação à ideia anterior.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0296",
-    "numero_ordem": 296
+    "numero_ordem": 296,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Contudo em Contudo desistir é renunciar à chance de partir estabelece uma relação de oposição, marcando contraste em relação à ideia anterior.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3304049",
@@ -17738,7 +18418,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Esse tipo de aplicação presente de IA não ameaça o futuro da espécie humana.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0300",
-    "numero_ordem": 300
+    "numero_ordem": 300,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Esse tipo de aplicação presente de IA não ameaça o futuro da espécie humana.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3304047",
@@ -17795,7 +18477,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('IA do futuro - IA do futuro - habilidades e perícias') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0302",
-    "numero_ordem": 302
+    "numero_ordem": 302,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('IA do futuro - IA do futuro - habilidades e perícias') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3303211",
@@ -17852,7 +18536,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('não se preocupam em saber de que modo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0306",
-    "numero_ordem": 306
+    "numero_ordem": 306,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('não se preocupam em saber de que modo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3303208",
@@ -17909,7 +18595,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('foi observada') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0309",
-    "numero_ordem": 309
+    "numero_ordem": 309,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('foi observada') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3295801",
@@ -17966,7 +18654,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Há, nos guarda-chuvas, uma variedade mínima de aspectos, que em nada afeta sua essência.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0314",
-    "numero_ordem": 314
+    "numero_ordem": 314,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Há, nos guarda-chuvas, uma variedade mínima de aspectos, que em nada afeta sua essência.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3295799",
@@ -18023,7 +18713,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Deve-se aos guarda-chuvas a lição de uma permanência histórica que a poucas coisas é dado cumprir.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0316",
-    "numero_ordem": 316
+    "numero_ordem": 316,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Deve-se aos guarda-chuvas a lição de uma permanência histórica que a poucas coisas é dado cumprir.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3291000",
@@ -18080,7 +18772,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('havia encontrado ninguém que lhe explicasse o que era filosofia.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0320",
-    "numero_ordem": 320
+    "numero_ordem": 320,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('havia encontrado ninguém que lhe explicasse o que era filosofia.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3290995",
@@ -18137,7 +18831,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Quando falham e são incapazes de prover significado e sentido simbólico para as coisas, as narrativas se tornam vazias de sentido.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0325",
-    "numero_ordem": 325
+    "numero_ordem": 325,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Quando falham e são incapazes de prover significado e sentido simbólico para as coisas, as narrativas se tornam vazias de sentido.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3290541",
@@ -18194,7 +18890,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Os antigos representavam o espírito de uma cidade (4º parágrafo)') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0333",
-    "numero_ordem": 333
+    "numero_ordem": 333,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Os antigos representavam o espírito de uma cidade (4º parágrafo)') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3288553",
@@ -18251,7 +18949,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('aquele tanto de vago e aquele tanto de preciso (42 parágrafo) = algo da vaguidade e algo da exatidão.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0336",
-    "numero_ordem": 336
+    "numero_ordem": 336,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('aquele tanto de vago e aquele tanto de preciso (42 parágrafo) = algo da vaguidade e algo da exatidão.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3288324",
@@ -18308,7 +19008,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('interpretação irônica de “decolagem” como um lugar.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0337",
-    "numero_ordem": 337
+    "numero_ordem": 337,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('interpretação irônica de “decolagem” como um lugar.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3288319",
@@ -18365,7 +19067,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Histórias sentimentais e leves, sem profundidade intelectual.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0341",
-    "numero_ordem": 341
+    "numero_ordem": 341,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Histórias sentimentais e leves, sem profundidade intelectual.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3281729",
@@ -18422,7 +19126,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Impostos a opinião pública, os mitos também não deixam de influenciar os investigadores sociais.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0348",
-    "numero_ordem": 348
+    "numero_ordem": 348,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Impostos a opinião pública, os mitos também não deixam de influenciar os investigadores sociais.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3281728",
@@ -18479,7 +19185,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Uma vez que a pobreza não é tão somente uma categoria econômica, mas sobretudo política, sua definição deve exceder as pesquisas estatísticas caso se pretenda situar o homem na sociedade global de que é parte.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0349",
-    "numero_ordem": 349
+    "numero_ordem": 349,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Uma vez que a pobreza não é tão somente uma categoria econômica, mas sobretudo política, sua definição deve exceder as pesquisas estatísticas caso se pretenda situar o homem na sociedade global de que é parte.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3281724",
@@ -18536,7 +19244,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('verbo, e pode ser substituída por um substantivo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0353",
-    "numero_ordem": 353
+    "numero_ordem": 353,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('verbo, e pode ser substituída por um substantivo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3281722",
@@ -18593,7 +19303,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('definir o papel do ordenador, que considera o meio ambiente como o conjunto de elementos formadores do tecido urbano, e não apenas como a natureza.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0355",
-    "numero_ordem": 355
+    "numero_ordem": 355,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('definir o papel do ordenador, que considera o meio ambiente como o conjunto de elementos formadores do tecido urbano, e não apenas como a natureza.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3281716",
@@ -18650,7 +19362,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('O reencontro do autor ocorre, a princípio, não com uma pessoa, senão com a personificação da cidade, então mais forte e imponente do que era quando a conhecera.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0360",
-    "numero_ordem": 360
+    "numero_ordem": 360,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('O reencontro do autor ocorre, a princípio, não com uma pessoa, senão com a personificação da cidade, então mais forte e imponente do que era quando a conhecera.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3281579",
@@ -18707,7 +19421,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('... maior soma de visões, de lembrança, de riquezas imponderáveis...') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0367",
-    "numero_ordem": 367
+    "numero_ordem": 367,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('... maior soma de visões, de lembrança, de riquezas imponderáveis...') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3281575",
@@ -18764,7 +19480,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('finalidade.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0371",
-    "numero_ordem": 371
+    "numero_ordem": 371,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('finalidade.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3281574",
@@ -18821,7 +19539,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('De um que apanhe esse grito') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0372",
-    "numero_ordem": 372
+    "numero_ordem": 372,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('De um que apanhe esse grito') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3281572",
@@ -18878,7 +19598,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('simples utopia.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0374",
-    "numero_ordem": 374
+    "numero_ordem": 374,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('simples utopia.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3281571",
@@ -18935,7 +19657,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('conquanto.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0375",
-    "numero_ordem": 375
+    "numero_ordem": 375,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('conquanto.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3216573",
@@ -18992,7 +19716,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Reconhecer a Lua de uma forma convencional não satisfaz a quem efetivamente a ame.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0377",
-    "numero_ordem": 377
+    "numero_ordem": 377,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Reconhecer a Lua de uma forma convencional não satisfaz a quem efetivamente a ame.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3216568",
@@ -19049,7 +19775,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('avaliando com o maior rigor (3º parágrafo) = ajuizando com máxima severidade.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0382",
-    "numero_ordem": 382
+    "numero_ordem": 382,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('avaliando com o maior rigor (3º parágrafo) = ajuizando com máxima severidade.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3216473",
@@ -19106,7 +19834,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('favorecer a incrementação da // junto aos') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0387",
-    "numero_ordem": 387
+    "numero_ordem": 387,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('favorecer a incrementação da // junto aos') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3967803",
@@ -19163,7 +19893,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('os movimentos sociais que eclodem em áreas de mineração têm a seu favor a visibilidade propiciada pela importância regional das empresas mineradoras.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0406",
-    "numero_ordem": 406
+    "numero_ordem": 406,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('os movimentos sociais que eclodem em áreas de mineração têm a seu favor a visibilidade propiciada pela importância regional das empresas mineradoras.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3884590",
@@ -19220,7 +19952,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('O texto mostra como o sentido de uma palavra, ao longo do tempo, ganha nuances bastante particulares, por vezes surpreendentes.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0407",
-    "numero_ordem": 407
+    "numero_ordem": 407,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('O texto mostra como o sentido de uma palavra, ao longo do tempo, ganha nuances bastante particulares, por vezes surpreendentes.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3884584",
@@ -19277,7 +20011,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Impõe-se que prestem atenção à natureza os que têm como oficio escrever crônicas.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0410",
-    "numero_ordem": 410
+    "numero_ordem": 410,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Impõe-se que prestem atenção à natureza os que têm como oficio escrever crônicas.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3737992",
@@ -19334,7 +20070,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('É incontestável o talento de Rubem Braga, destacado nas crônicas pelas quais tenho grande apreço.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0412",
-    "numero_ordem": 412
+    "numero_ordem": 412,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('É incontestável o talento de Rubem Braga, destacado nas crônicas pelas quais tenho grande apreço.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4221352",
@@ -19391,7 +20129,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('reaver a seriedade que se tinha (1º parágrafo) = com que se contava') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0414",
-    "numero_ordem": 414
+    "numero_ordem": 414,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('reaver a seriedade que se tinha (1º parágrafo) = com que se contava') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4221351",
@@ -19448,7 +20188,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('quase não somos - muito menos dos outros') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0415",
-    "numero_ordem": 415
+    "numero_ordem": 415,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('quase não somos - muito menos dos outros') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4158801",
@@ -19505,7 +20247,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('a atitude do menino configura um ato solidário e desinteressado praticado por alguém socialmente vulnerável.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0419",
-    "numero_ordem": 419
+    "numero_ordem": 419,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('a atitude do menino configura um ato solidário e desinteressado praticado por alguém socialmente vulnerável.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4158797",
@@ -19562,7 +20306,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('oposição.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0421",
-    "numero_ordem": 421
+    "numero_ordem": 421,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('oposição.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4158790",
@@ -19619,7 +20365,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('mais vivas, grande consenso') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0424",
-    "numero_ordem": 424
+    "numero_ordem": 424,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('mais vivas, grande consenso') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4156554",
@@ -19676,7 +20424,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('não se gosta da arte contemporânea, mas sim do impressionismo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0425",
-    "numero_ordem": 425
+    "numero_ordem": 425,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('não se gosta da arte contemporânea, mas sim do impressionismo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4156552",
@@ -19733,7 +20483,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('criando uma divisão digital que aprofunda as desigualdades educacionais.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0427",
-    "numero_ordem": 427
+    "numero_ordem": 427,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('criando uma divisão digital que aprofunda as desigualdades educacionais.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4156551",
@@ -19790,7 +20542,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('que alunos e professores explorem informações além dos limites físicos da sala de aula.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0428",
-    "numero_ordem": 428
+    "numero_ordem": 428,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('que alunos e professores explorem informações além dos limites físicos da sala de aula.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4156550",
@@ -19847,7 +20601,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('oposição') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0429",
-    "numero_ordem": 429
+    "numero_ordem": 429,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('oposição') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4156547",
@@ -19904,7 +20660,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('contexto - metas') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0432",
-    "numero_ordem": 432
+    "numero_ordem": 432,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('contexto - metas') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4156546",
@@ -19961,7 +20719,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('contudo - por conseguinte') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0433",
-    "numero_ordem": 433
+    "numero_ordem": 433,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('contudo - por conseguinte') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3737989",
@@ -20018,7 +20778,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('admiro essas frases sintéticas, supostamente simples = de aparente simplicidade.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0434",
-    "numero_ordem": 434
+    "numero_ordem": 434,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('admiro essas frases sintéticas, supostamente simples = de aparente simplicidade.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3737987",
@@ -20075,7 +20837,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('pensa a coletividade como um conjunto de individuos (1º parágrafo) = vê a sociedade como uma soma de participantes.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0435",
-    "numero_ordem": 435
+    "numero_ordem": 435,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('pensa a coletividade como um conjunto de individuos (1º parágrafo) = vê a sociedade como uma soma de participantes.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3737986",
@@ -20132,7 +20896,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('reflete uma necessidade de reprimir um individualismo que é também nosso.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0436",
-    "numero_ordem": 436
+    "numero_ordem": 436,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('reflete uma necessidade de reprimir um individualismo que é também nosso.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3737614",
@@ -20189,7 +20955,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('a natureza e o cronista consideram a aproximação e a distinção entre suas respectivas qualidades.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0438",
-    "numero_ordem": 438
+    "numero_ordem": 438,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('a natureza e o cronista consideram a aproximação e a distinção entre suas respectivas qualidades.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3737459",
@@ -20246,7 +21014,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Opõe-se aos benefícios advindos dos investimentos em novas tecnologias a ampliação dos arsenais de destruição em massa.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0441",
-    "numero_ordem": 441
+    "numero_ordem": 441,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Opõe-se aos benefícios advindos dos investimentos em novas tecnologias a ampliação dos arsenais de destruição em massa.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3737341",
@@ -20303,7 +21073,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('voltassem, guardassem e dizia.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0447",
-    "numero_ordem": 447
+    "numero_ordem": 447,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('voltassem, guardassem e dizia.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3737339",
@@ -20360,7 +21132,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('tempо.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0449",
-    "numero_ordem": 449
+    "numero_ordem": 449,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('tempо.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3736961",
@@ -20417,7 +21191,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('A população de cor ou raça preta representava a maior parte da população desocupada e subutilizada no Brasil em 2018.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0454",
-    "numero_ordem": 454
+    "numero_ordem": 454,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('A população de cor ou raça preta representava a maior parte da população desocupada e subutilizada no Brasil em 2018.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3736959",
@@ -20474,7 +21250,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Os esforços politicos e os resultados alcançados representaram importantes mudanças nas tradicionais desigualdades, mas a composição territorial das atividades econômicas permanece muito dispar entre as regiões.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0455",
-    "numero_ordem": 455
+    "numero_ordem": 455,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Os esforços politicos e os resultados alcançados representaram importantes mudanças nas tradicionais desigualdades, mas a composição territorial das atividades econômicas permanece muito dispar entre as regiões.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3736919",
@@ -20531,7 +21309,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('causa.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0457",
-    "numero_ordem": 457
+    "numero_ordem": 457,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('causa.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3550511",
@@ -20588,7 +21368,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('em mim, por exemplo, a quem achava outonal, o outono era manifesto e exclusivo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0463",
-    "numero_ordem": 463
+    "numero_ordem": 463,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('em mim, por exemplo, a quem achava outonal, o outono era manifesto e exclusivo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3549545",
@@ -20645,7 +21427,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('tivera.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0466",
-    "numero_ordem": 466
+    "numero_ordem": 466,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('tivera.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3481520",
@@ -20702,7 +21486,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('As amizades a que nos dedicamos com intensidade podem ser superiores aos afetos provenientes dos laços de sangue.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0470",
-    "numero_ordem": 470
+    "numero_ordem": 470,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('As amizades a que nos dedicamos com intensidade podem ser superiores aos afetos provenientes dos laços de sangue.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3481516",
@@ -20759,7 +21545,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('que a escutassem, que aquela escritora podia ser sua avó, mas que a sentia como se fosse sua irmã.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0474",
-    "numero_ordem": 474
+    "numero_ordem": 474,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('que a escutassem, que aquela escritora podia ser sua avó, mas que a sentia como se fosse sua irmã.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3233080",
@@ -20816,7 +21604,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('poderão liberar - caso elas venham a reconhecer') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0480",
-    "numero_ordem": 480
+    "numero_ordem": 480,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('poderão liberar - caso elas venham a reconhecer') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3171832",
@@ -20873,7 +21663,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Abrimos mão, de resto, do esclarecimento da diferença entre gente como nós e aquela clientela.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0485",
-    "numero_ordem": 485
+    "numero_ordem": 485,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Abrimos mão, de resto, do esclarecimento da diferença entre gente como nós e aquela clientela.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3171825",
@@ -20930,7 +21722,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('os quais.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0492",
-    "numero_ordem": 492
+    "numero_ordem": 492,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('os quais.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3171823",
@@ -20987,7 +21781,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('a despeito delas, a existência humana está sob ameaça.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0493",
-    "numero_ordem": 493
+    "numero_ordem": 493,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('a despeito delas, a existência humana está sob ameaça.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3170808",
@@ -21044,7 +21840,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Lucrécio, poeta romano, tomou para si a tarefa luminosa de aproximar poesia e ciência.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0497",
-    "numero_ordem": 497
+    "numero_ordem": 497,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Lucrécio, poeta romano, tomou para si a tarefa luminosa de aproximar poesia e ciência.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3170458",
@@ -21101,7 +21899,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('A gente se abeira delas e elas vão minando água fresca.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0506",
-    "numero_ordem": 506
+    "numero_ordem": 506,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('A gente se abeira delas e elas vão minando água fresca.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3170452",
@@ -21158,7 +21958,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Defenderíamos - fossem.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0509",
-    "numero_ordem": 509
+    "numero_ordem": 509,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Defenderíamos - fossem.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3170449",
@@ -21215,7 +22017,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Não (perturbar) a nenhum aficionado por Hollywood as limitações da pregação individualista') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0512",
-    "numero_ordem": 512
+    "numero_ordem": 512,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Não (perturbar) a nenhum aficionado por Hollywood as limitações da pregação individualista') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3169908",
@@ -21272,7 +22076,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('tempo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0515",
-    "numero_ordem": 515
+    "numero_ordem": 515,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('tempo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3169898",
@@ -21329,7 +22135,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Mas segue o raio astral, que pelo Azul dardeja.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0525",
-    "numero_ordem": 525
+    "numero_ordem": 525,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Mas segue o raio astral, que pelo Azul dardeja.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3169897",
@@ -21386,7 +22194,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('evocação de poetas que enfrentaram dificuldades, mas continuam inspiradores.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0526",
-    "numero_ordem": 526
+    "numero_ordem": 526,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('evocação de poetas que enfrentaram dificuldades, mas continuam inspiradores.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3147047",
@@ -21443,7 +22253,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Aqueles que estudam têm sucesso; os que protelam, dificuldades.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0529",
-    "numero_ordem": 529
+    "numero_ordem": 529,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Aqueles que estudam têm sucesso; os que protelam, dificuldades.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3147046",
@@ -21500,7 +22312,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('divulga seus livros de maneira impulsiva e frequente.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0530",
-    "numero_ordem": 530
+    "numero_ordem": 530,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('divulga seus livros de maneira impulsiva e frequente.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3147045",
@@ -21557,7 +22371,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('demonstra uma atitude resignada, mas persistente literariamente.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0531",
-    "numero_ordem": 531
+    "numero_ordem": 531,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('demonstra uma atitude resignada, mas persistente literariamente.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3147044",
@@ -21614,7 +22430,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('possui uma profunda teimosia que o motiva a continuar escritor.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0532",
-    "numero_ordem": 532
+    "numero_ordem": 532,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('possui uma profunda teimosia que o motiva a continuar escritor.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3147043",
@@ -21671,7 +22489,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Apesar de toda a exaustão.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0533",
-    "numero_ordem": 533
+    "numero_ordem": 533,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Apesar de toda a exaustão.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3147042",
@@ -21728,7 +22548,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('chega — descubro') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0534",
-    "numero_ordem": 534
+    "numero_ordem": 534,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('chega — descubro') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3147041",
@@ -21785,7 +22607,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('A cidade do Recife foi transformada em cenário por mim.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0535",
-    "numero_ordem": 535
+    "numero_ordem": 535,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('A cidade do Recife foi transformada em cenário por mim.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3147040",
@@ -21842,7 +22666,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('conheceu a cidade por experiências pessoais e literárias.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0536",
-    "numero_ordem": 536
+    "numero_ordem": 536,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('conheceu a cidade por experiências pessoais e literárias.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3147039",
@@ -21899,7 +22725,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('sentimento de pertencimento, de estar em casa.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0537",
-    "numero_ordem": 537
+    "numero_ordem": 537,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('sentimento de pertencimento, de estar em casa.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3147038",
@@ -21956,7 +22784,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('redobrar.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0538",
-    "numero_ordem": 538
+    "numero_ordem": 538,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('redobrar.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3147037",
@@ -22013,7 +22843,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('suas palavras feriram meu coração.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0539",
-    "numero_ordem": 539
+    "numero_ordem": 539,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('suas palavras feriram meu coração.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3147036",
@@ -22070,7 +22902,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Metáfora.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0540",
-    "numero_ordem": 540
+    "numero_ordem": 540,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Metáfora.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3147035",
@@ -22127,7 +22961,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('desordenados e caóticos.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0541",
-    "numero_ordem": 541
+    "numero_ordem": 541,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('desordenados e caóticos.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3147034",
@@ -22184,7 +23020,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('influenciados por elementos naturais e recorrentes no tempo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0542",
-    "numero_ordem": 542
+    "numero_ordem": 542,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('influenciados por elementos naturais e recorrentes no tempo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3147033",
@@ -22241,7 +23079,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('a pressão da natureza e do tempo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0543",
-    "numero_ordem": 543
+    "numero_ordem": 543,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('a pressão da natureza e do tempo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3089872",
@@ -22298,7 +23138,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('será trazido - seja afastado') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0548",
-    "numero_ordem": 548
+    "numero_ordem": 548,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('será trazido - seja afastado') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3089868",
@@ -22355,7 +23197,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('O diálogo de que se vale o neurologista tem o propósito de medir forças com o pesquisador do mundo virtual.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0552",
-    "numero_ordem": 552
+    "numero_ordem": 552,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('O diálogo de que se vale o neurologista tem o propósito de medir forças com o pesquisador do mundo virtual.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3089863",
@@ -22412,7 +23256,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('a expectativa de que a inteligência e a conduta humanas terão seus limites superados pela capacitação da IA.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0557",
-    "numero_ordem": 557
+    "numero_ordem": 557,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('a expectativa de que a inteligência e a conduta humanas terão seus limites superados pela capacitação da IA.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3089755",
@@ -22469,7 +23315,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Sendo o monstro que és, não tens a minha religião e, portanto, nenhuma outra.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0559",
-    "numero_ordem": 559
+    "numero_ordem": 559,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Sendo o monstro que és, não tens a minha religião e, portanto, nenhuma outra.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3089751",
@@ -22526,7 +23374,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('declara sua impossibilidade de extrair algum prazer do esforço que elas lhe demandam.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0561",
-    "numero_ordem": 561
+    "numero_ordem": 561,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('declara sua impossibilidade de extrair algum prazer do esforço que elas lhe demandam.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3089747",
@@ -22583,7 +23433,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('É preciso que haja cronistas empenhados na reconstituição de fatos históricos que, sem seu trabalho, se apagariam no tempo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0563",
-    "numero_ordem": 563
+    "numero_ordem": 563,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('É preciso que haja cronistas empenhados na reconstituição de fatos históricos que, sem seu trabalho, se apagariam no tempo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3088327",
@@ -22640,7 +23492,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('É trabalhar duro, agora, para merecer, de fato, as futuras e deliciosas férias do não.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0567",
-    "numero_ordem": 567
+    "numero_ordem": 567,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('É trabalhar duro, agora, para merecer, de fato, as futuras e deliciosas férias do não.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3088322",
@@ -22697,7 +23551,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Seria — houvesse — mantivessem') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0569",
-    "numero_ordem": 569
+    "numero_ordem": 569,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Seria — houvesse — mantivessem') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2762314",
@@ -22754,7 +23610,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('I, IV e V.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0573",
-    "numero_ordem": 573
+    "numero_ordem": 573,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('I, IV e V.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2762312",
@@ -22811,7 +23669,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('“na direção de” e “por meio de”.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0575",
-    "numero_ordem": 575
+    "numero_ordem": 575,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('“na direção de” e “por meio de”.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2762304",
@@ -22868,7 +23728,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('relata o estranhamento dos parentes em relação ao pedido da viúva.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0583",
-    "numero_ordem": 583
+    "numero_ordem": 583,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('relata o estranhamento dos parentes em relação ao pedido da viúva.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2645756",
@@ -22925,7 +23787,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('posso') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0584",
-    "numero_ordem": 584
+    "numero_ordem": 584,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('posso') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2575204",
@@ -22982,7 +23846,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('por meio da ironia, alerta-nos para a saturação de um discurso econômico autorreferente e universalizante.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0585",
-    "numero_ordem": 585
+    "numero_ordem": 585,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('por meio da ironia, alerta-nos para a saturação de um discurso econômico autorreferente e universalizante.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2575200",
@@ -23039,7 +23905,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('as limitações de uma doutrina econômica que vê na medição do PIB um valor absoluto que orienta as ações políticas dos governos democráticos.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0589",
-    "numero_ordem": 589
+    "numero_ordem": 589,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('as limitações de uma doutrina econômica que vê na medição do PIB um valor absoluto que orienta as ações políticas dos governos democráticos.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2575199",
@@ -23096,7 +23964,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Progredimos a duras penas: de ontem a hoje, de sol a sol, do nada ao nada.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0590",
-    "numero_ordem": 590
+    "numero_ordem": 590,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Progredimos a duras penas: de ontem a hoje, de sol a sol, do nada ao nada.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2575194",
@@ -23153,7 +24023,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('II e III.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0595",
-    "numero_ordem": 595
+    "numero_ordem": 595,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('II e III.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2575191",
@@ -23210,7 +24082,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('advérbio.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0598",
-    "numero_ordem": 598
+    "numero_ordem": 598,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('advérbio.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2564646",
@@ -23267,7 +24141,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('nas quais') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0605",
-    "numero_ordem": 605
+    "numero_ordem": 605,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('nas quais') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2564642",
@@ -23324,7 +24200,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('causalidade.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0608",
-    "numero_ordem": 608
+    "numero_ordem": 608,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('causalidade.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2564641",
@@ -23381,7 +24259,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Metáfora.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0609",
-    "numero_ordem": 609
+    "numero_ordem": 609,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Metáfora.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2564460",
@@ -23438,7 +24318,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('a expressão um diamante bruto (1º parágrafo) é exemplo de linguagem figurada.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0614",
-    "numero_ordem": 614
+    "numero_ordem": 614,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('a expressão um diamante bruto (1º parágrafo) é exemplo de linguagem figurada.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2564456",
@@ -23495,7 +24377,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Sempre haverá filósofos que busquem nas leis naturais o que os inspire no âmbito das leis humanas.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0618",
-    "numero_ordem": 618
+    "numero_ordem": 618,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Sempre haverá filósofos que busquem nas leis naturais o que os inspire no âmbito das leis humanas.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2564454",
@@ -23552,7 +24436,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('a universalidade das leis naturais em oposição à variação mesma das discutíveis leis morais.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0620",
-    "numero_ordem": 620
+    "numero_ordem": 620,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('a universalidade das leis naturais em oposição à variação mesma das discutíveis leis morais.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2514720",
@@ -23609,7 +24495,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('no meio daquele quase nada apareceu um bicho estranho') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0624",
-    "numero_ordem": 624
+    "numero_ordem": 624,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('no meio daquele quase nada apareceu um bicho estranho') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4156545",
@@ -23666,7 +24554,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('no qual') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0629",
-    "numero_ordem": 629
+    "numero_ordem": 629,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('no qual') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4156301",
@@ -23723,7 +24613,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('\"Uma vela para Dario\" conta em primeiro plano o ataque cardíaco do personagem, enquanto no segundo plano vai se consumando o roubo de seus bens.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0633",
-    "numero_ordem": 633
+    "numero_ordem": 633,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('\"Uma vela para Dario\" conta em primeiro plano o ataque cardíaco do personagem, enquanto no segundo plano vai se consumando o roubo de seus bens.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4156291",
@@ -23780,7 +24672,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('\"As ruas abertas representam uma das imagens mais vivas da cidade moderna.\"') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0637",
-    "numero_ordem": 637
+    "numero_ordem": 637,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('\"As ruas abertas representam uma das imagens mais vivas da cidade moderna.\"') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4155292",
@@ -23837,7 +24731,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('a morte de Dario gerara uma comoção superficial e convertera-se em mero espetáculo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0639",
-    "numero_ordem": 639
+    "numero_ordem": 639,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('a morte de Dario gerara uma comoção superficial e convertera-se em mero espetáculo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4155284",
@@ -23894,7 +24790,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Esses elementos são associados à vida moderna em cidades capitalistas pelo menos desde a reforma de Paris.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0640",
-    "numero_ordem": 640
+    "numero_ordem": 640,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Esses elementos são associados à vida moderna em cidades capitalistas pelo menos desde a reforma de Paris.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4155282",
@@ -23951,7 +24849,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('cidades modernas - grupos - ficção') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0641",
-    "numero_ordem": 641
+    "numero_ordem": 641,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('cidades modernas - grupos - ficção') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4155280",
@@ -24008,7 +24908,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('As cidades modernas foram sempre marcadas por desigualdades sociais e segregação espacial e nunca deixaram de ser apropriadas de formas bastante diferentes por diversos grupos, dependendo de sua posição social e de seu poder.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0643",
-    "numero_ordem": 643
+    "numero_ordem": 643,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('As cidades modernas foram sempre marcadas por desigualdades sociais e segregação espacial e nunca deixaram de ser apropriadas de formas bastante diferentes por diversos grupos, dependendo de sua posição social e de seu poder.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4138697",
@@ -24065,7 +24967,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('é representada como sua busca permanente de algo tão essencial quanto indeterminado.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0647",
-    "numero_ordem": 647
+    "numero_ordem": 647,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('é representada como sua busca permanente de algo tão essencial quanto indeterminado.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4138690",
@@ -24122,7 +25026,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('\"atrair para si um incômodo desnecessário\".') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0648",
-    "numero_ordem": 648
+    "numero_ordem": 648,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('\"atrair para si um incômodo desnecessário\".') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2514715",
@@ -24179,7 +25085,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Contudo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0649",
-    "numero_ordem": 649
+    "numero_ordem": 649,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Contudo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2514713",
@@ -24236,7 +25144,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('elemento conhecido (2º parágrafo).') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0651",
-    "numero_ordem": 651
+    "numero_ordem": 651,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('elemento conhecido (2º parágrafo).') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2514712",
@@ -24293,7 +25203,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('O caso deu-se aqui na ilha, numa pescaria de arrastão (1º parágrafo).') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0652",
-    "numero_ordem": 652
+    "numero_ordem": 652,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('O caso deu-se aqui na ilha, numa pescaria de arrastão (1º parágrafo).') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2514708",
@@ -24350,7 +25262,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Machos exibem objetos vistosos para se valorizar (3º parágrafo).') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0655",
-    "numero_ordem": 655
+    "numero_ordem": 655,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Machos exibem objetos vistosos para se valorizar (3º parágrafo).') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2514706",
@@ -24407,7 +25321,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('finalidade.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0657",
-    "numero_ordem": 657
+    "numero_ordem": 657,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('finalidade.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2400692",
@@ -24464,7 +25380,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Rousseau dava demonstração de que respeitava o saber das universidades e das academias a cada vez que reconhecia a função útil das ciências.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0663",
-    "numero_ordem": 663
+    "numero_ordem": 663,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Rousseau dava demonstração de que respeitava o saber das universidades e das academias a cada vez que reconhecia a função útil das ciências.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2400685",
@@ -24521,7 +25439,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('pode ser entendido') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0666",
-    "numero_ordem": 666
+    "numero_ordem": 666,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('pode ser entendido') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2400432",
@@ -24578,7 +25498,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('não quer se dar conta de que frivolidades caprichosas, em ondas efêmeras, se imponham a artistas e intelectuais.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0668",
-    "numero_ordem": 668
+    "numero_ordem": 668,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('não quer se dar conta de que frivolidades caprichosas, em ondas efêmeras, se imponham a artistas e intelectuais.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2400430",
@@ -24635,7 +25557,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Nas obras de Rousseau, reconhecidas como do mais alto idealismo, as sociedades tribais, com seu primitivismo, são admiradas pelo filósofo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0669",
-    "numero_ordem": 669
+    "numero_ordem": 669,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Nas obras de Rousseau, reconhecidas como do mais alto idealismo, as sociedades tribais, com seu primitivismo, são admiradas pelo filósofo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2400425",
@@ -24692,7 +25616,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Mitos religiosos permitem que os que neles creem transcendam sua “situação histórica”. (lhes dão crédito)') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0671",
-    "numero_ordem": 671
+    "numero_ordem": 671,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Mitos religiosos permitem que os que neles creem transcendam sua “situação histórica”. (lhes dão crédito)') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4157391",
@@ -24749,7 +25675,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('porquanto') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0676",
-    "numero_ordem": 676
+    "numero_ordem": 676,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('porquanto') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2762373",
@@ -24806,7 +25734,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Todos ao trabalho antes que aparecesse o chefe. (9º parágrafo)') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0686",
-    "numero_ordem": 686
+    "numero_ordem": 686,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Todos ao trabalho antes que aparecesse o chefe. (9º parágrafo)') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2762370",
@@ -24863,7 +25793,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('E não consigo decidir se começo a abotoar por baixo ou por cima!') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0689",
-    "numero_ordem": 689
+    "numero_ordem": 689,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('E não consigo decidir se começo a abotoar por baixo ou por cima!') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2762365",
@@ -24920,7 +25852,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Mas o seu Justinho os deteve. Tirar a camisa no escritório, onde já se vira? (9º parágrafo)') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0694",
-    "numero_ordem": 694
+    "numero_ordem": 694,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Mas o seu Justinho os deteve. Tirar a camisa no escritório, onde já se vira? (9º parágrafo)') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2762364",
@@ -24977,7 +25911,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('favorável.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0695",
-    "numero_ordem": 695
+    "numero_ordem": 695,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('favorável.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2760851",
@@ -25034,7 +25970,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('não se espera que os puros sejam melhores blefadores.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0696",
-    "numero_ordem": 696
+    "numero_ordem": 696,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('não se espera que os puros sejam melhores blefadores.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2760846",
@@ -25091,7 +26029,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('eram, produziam, autorizara.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0699",
-    "numero_ordem": 699
+    "numero_ordem": 699,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('eram, produziam, autorizara.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2723465",
@@ -25148,7 +26088,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('realce.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0703",
-    "numero_ordem": 703
+    "numero_ordem": 703,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('realce.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2723459",
@@ -25205,7 +26147,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('apresentam dupla natureza, de encanto e temor, sendo indomáveis.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0704",
-    "numero_ordem": 704
+    "numero_ordem": 704,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('apresentam dupla natureza, de encanto e temor, sendo indomáveis.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2705674",
@@ -25262,7 +26206,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Diziam que talvez fosse por conta do (devido ao) passado minerador do povo que chegou à região.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0705",
-    "numero_ordem": 705
+    "numero_ordem": 705,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Diziam que talvez fosse por conta do (devido ao) passado minerador do povo que chegou à região.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2648851",
@@ -25319,7 +26265,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('“ensandecido\" aproxima-se, pelo sentido, de “louco”.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0712",
-    "numero_ordem": 712
+    "numero_ordem": 712,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('“ensandecido\" aproxima-se, pelo sentido, de “louco”.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2635759",
@@ -25376,7 +26324,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Naquele dia, apesar da triste guerra, Chiyoko estava feliz.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0713",
-    "numero_ordem": 713
+    "numero_ordem": 713,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Naquele dia, apesar da triste guerra, Chiyoko estava feliz.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2635528",
@@ -25433,7 +26383,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Publicada em 1964, quando Honwana tinha apenas 22 anos, a obra Nós Matamos o Cão Tinhoso é considerada a precursora da moderna ficção moçambicana.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0715",
-    "numero_ordem": 715
+    "numero_ordem": 715,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Publicada em 1964, quando Honwana tinha apenas 22 anos, a obra Nós Matamos o Cão Tinhoso é considerada a precursora da moderna ficção moçambicana.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2635523",
@@ -25490,7 +26442,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('A fim de compreendê-la melhor, pesquisadores da capital catarinense observam, desde os anos 1980, a interação entre pescadores e golfinhos nariz-de-garrafa.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0720",
-    "numero_ordem": 720
+    "numero_ordem": 720,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('A fim de compreendê-la melhor, pesquisadores da capital catarinense observam, desde os anos 1980, a interação entre pescadores e golfinhos nariz-de-garrafa.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2635360",
@@ -25547,7 +26501,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('o conhecimento a respeito da pesca com botos foi transmitido entre gerações.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0724",
-    "numero_ordem": 724
+    "numero_ordem": 724,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('o conhecimento a respeito da pesca com botos foi transmitido entre gerações.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2630744",
@@ -25604,7 +26560,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Mesmo assim, minha mãe pedia que a acompanhássemos') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0725",
-    "numero_ordem": 725
+    "numero_ordem": 725,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Mesmo assim, minha mãe pedia que a acompanhássemos') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2436624",
@@ -25661,7 +26619,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('indica reciprocidade.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0727",
-    "numero_ordem": 727
+    "numero_ordem": 727,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('indica reciprocidade.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2436622",
@@ -25718,7 +26678,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('causa estranheza a pessoas que o veem passar.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0729",
-    "numero_ordem": 729
+    "numero_ordem": 729,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('causa estranheza a pessoas que o veem passar.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2436620",
@@ -25775,7 +26737,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Hoje, as ilhas de calor se manifestam em cidades de qualquer tamanho, das menores às maiores.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0731",
-    "numero_ordem": 731
+    "numero_ordem": 731,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Hoje, as ilhas de calor se manifestam em cidades de qualquer tamanho, das menores às maiores.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2436618",
@@ -25832,7 +26796,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('talvez nenhuma torpeza ou agressão tivesse sido tão violenta') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0733",
-    "numero_ordem": 733
+    "numero_ordem": 733,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('talvez nenhuma torpeza ou agressão tivesse sido tão violenta') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2436560",
@@ -25889,7 +26855,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Se, de um lado, há minorias raciais perseguidas, de outro há os religiosos Injustiçados, discriminados por suas opões de fé.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0741",
-    "numero_ordem": 741
+    "numero_ordem": 741,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Se, de um lado, há minorias raciais perseguidas, de outro há os religiosos Injustiçados, discriminados por suas opões de fé.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2436555",
@@ -25946,7 +26914,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Pelas janelas de uma casa abrem-se paisagens de cuja beleza muitos se impregnarão.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0746",
-    "numero_ordem": 746
+    "numero_ordem": 746,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Pelas janelas de uma casa abrem-se paisagens de cuja beleza muitos se impregnarão.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2436552",
@@ -26003,7 +26973,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('acessar cenários disponíveis nos quais nossa criatividade possa se projetar e se clarificar.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0749",
-    "numero_ordem": 749
+    "numero_ordem": 749,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('acessar cenários disponíveis nos quais nossa criatividade possa se projetar e se clarificar.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2436551",
@@ -26060,7 +27032,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('se despede de seu mar noturno e invisível, ao despedir-se do mar que está Iluminado.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0750",
-    "numero_ordem": 750
+    "numero_ordem": 750,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('se despede de seu mar noturno e invisível, ao despedir-se do mar que está Iluminado.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2397961",
@@ -26117,7 +27091,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('pode ser compreendida.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0755",
-    "numero_ordem": 755
+    "numero_ordem": 755,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('pode ser compreendida.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2397957",
@@ -26174,7 +27150,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('o fato de haver tantos enigmas no mundo deve estimular os impulsos na busca de esclarecimento.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0759",
-    "numero_ordem": 759
+    "numero_ordem": 759,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('o fato de haver tantos enigmas no mundo deve estimular os impulsos na busca de esclarecimento.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2397865",
@@ -26231,7 +27209,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Numa manhã, Donana acordou me chamando de Carmelita, dizendo que iria dar um jeito em tudo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0761",
-    "numero_ordem": 761
+    "numero_ordem": 761,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Numa manhã, Donana acordou me chamando de Carmelita, dizendo que iria dar um jeito em tudo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2397863",
@@ -26288,7 +27268,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('I, apenas.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0762",
-    "numero_ordem": 762
+    "numero_ordem": 762,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('I, apenas.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2397860",
@@ -26345,7 +27327,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Com a propagação excessiva de imagens, é preciso fazer um esforço para se deixar impactar quando se está diante de uma atração já vista virtualmente inúmeras vezes.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0764",
-    "numero_ordem": 764
+    "numero_ordem": 764,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Com a propagação excessiva de imagens, é preciso fazer um esforço para se deixar impactar quando se está diante de uma atração já vista virtualmente inúmeras vezes.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2384406",
@@ -26402,7 +27386,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('lhe atribuem - a ignorem - lhe reconheça a força') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0769",
-    "numero_ordem": 769
+    "numero_ordem": 769,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('lhe atribuem - a ignorem - lhe reconheça a força') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2384401",
@@ -26459,7 +27445,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Já não é o fulgurante brilho de um disco voador aquilo em que agora se fixa nossa atenção.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0774",
-    "numero_ordem": 774
+    "numero_ordem": 774,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Já não é o fulgurante brilho de um disco voador aquilo em que agora se fixa nossa atenção.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2288244",
@@ -26516,7 +27504,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('tempo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0779",
-    "numero_ordem": 779
+    "numero_ordem": 779,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('tempo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2288235",
@@ -26573,7 +27563,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Deus, de repente, chamara o farmacêutico. (8º parágrafo)') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0788",
-    "numero_ordem": 788
+    "numero_ordem": 788,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Deus, de repente, chamara o farmacêutico. (8º parágrafo)') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2248998",
@@ -26630,7 +27622,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('\"Em princípio, à semelhança do amor incondicional, ela\"') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0789",
-    "numero_ordem": 789
+    "numero_ordem": 789,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('\"Em princípio, à semelhança do amor incondicional, ela\"') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2248993",
@@ -26687,7 +27681,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('\"deveria caber-lhe – imputamos-lhe – corroê-los\"') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0794",
-    "numero_ordem": 794
+    "numero_ordem": 794,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('\"deveria caber-lhe – imputamos-lhe – corroê-los\"') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2235399",
@@ -26744,7 +27740,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Agora temos dois cachorros.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0798",
-    "numero_ordem": 798
+    "numero_ordem": 798,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Agora temos dois cachorros.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2235394",
@@ -26801,7 +27799,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Duque é um fila da envergadura de um hipopótamo e só um pouquinho mais pesado') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0803",
-    "numero_ordem": 803
+    "numero_ordem": 803,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Duque é um fila da envergadura de um hipopótamo e só um pouquinho mais pesado') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2235393",
@@ -26858,7 +27858,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('encontrei todos aqui muito bem.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0804",
-    "numero_ordem": 804
+    "numero_ordem": 804,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('encontrei todos aqui muito bem.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2173487",
@@ -26915,7 +27917,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('conforta/corta (2ª estrofe).') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0808",
-    "numero_ordem": 808
+    "numero_ordem": 808,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('conforta/corta (2ª estrofe).') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2173486",
@@ -26972,7 +27976,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('uma faca.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0809",
-    "numero_ordem": 809
+    "numero_ordem": 809,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('uma faca.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2173484",
@@ -27029,7 +28035,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('contudo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0810",
-    "numero_ordem": 810
+    "numero_ordem": 810,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('contudo') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2173478",
@@ -27086,7 +28094,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('livre escolha (1º parágrafo).') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0816",
-    "numero_ordem": 816
+    "numero_ordem": 816,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('livre escolha (1º parágrafo).') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2173475",
@@ -27143,7 +28153,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('personificação.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0817",
-    "numero_ordem": 817
+    "numero_ordem": 817,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('personificação.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2173033",
@@ -27200,7 +28212,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('A professora nos oferecia um espelho = Um espelho era-nos oferecido pela professora.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0819",
-    "numero_ordem": 819
+    "numero_ordem": 819,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('A professora nos oferecia um espelho = Um espelho era-nos oferecido pela professora.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2173028",
@@ -27257,7 +28271,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('poderia deixar - provocaria - terá feito a balança tender') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0824",
-    "numero_ordem": 824
+    "numero_ordem": 824,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('poderia deixar - provocaria - terá feito a balança tender') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2161887",
@@ -27314,7 +28330,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('I e III.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0833",
-    "numero_ordem": 833
+    "numero_ordem": 833,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('I e III.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2161886",
@@ -27371,7 +28389,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('personificação.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0834",
-    "numero_ordem": 834
+    "numero_ordem": 834,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('personificação.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2155229",
@@ -27428,7 +28448,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Ainda estamos resolvendo isso, respondeu o gerente (os gerentes).') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0836",
-    "numero_ordem": 836
+    "numero_ordem": 836,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Ainda estamos resolvendo isso, respondeu o gerente (os gerentes).') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2155142",
@@ -27485,7 +28507,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Se ele fosse um bêbado, compreenderia.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0843",
-    "numero_ordem": 843
+    "numero_ordem": 843,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Se ele fosse um bêbado, compreenderia.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2155137",
@@ -27542,7 +28566,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('um mundo de clareza racional e as antigas virtudes.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0848",
-    "numero_ordem": 848
+    "numero_ordem": 848,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('um mundo de clareza racional e as antigas virtudes.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4138688",
@@ -27599,7 +28625,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Há incômodos em cuja busca nos lançamos, por mais irracional que isso seja.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0849",
-    "numero_ordem": 849
+    "numero_ordem": 849,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Há incômodos em cuja busca nos lançamos, por mais irracional que isso seja.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4104645",
@@ -27656,7 +28684,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Caso me perguntem — porquanto a ninguém diz respeito') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0850",
-    "numero_ordem": 850
+    "numero_ordem": 850,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Caso me perguntem — porquanto a ninguém diz respeito') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4104639",
@@ -27713,7 +28743,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Sempre estimei as crônicas, que nos fazem próximos da poesia do cotidiano.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0851",
-    "numero_ordem": 851
+    "numero_ordem": 851,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Sempre estimei as crônicas, que nos fazem próximos da poesia do cotidiano.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4104629",
@@ -27770,7 +28802,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Meu amor se revela mais intenso quanto mais energizo a forma com que o declaro.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0853",
-    "numero_ordem": 853
+    "numero_ordem": 853,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Meu amor se revela mais intenso quanto mais energizo a forma com que o declaro.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4104313",
@@ -27827,7 +28861,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('pela determinação da literatura que o idealiza.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0854",
-    "numero_ordem": 854
+    "numero_ordem": 854,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('pela determinação da literatura que o idealiza.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4104306",
@@ -27884,7 +28920,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('eles são autodiluídos e se alçarem a um patamar superior ao que lhes é próprio.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0855",
-    "numero_ordem": 855
+    "numero_ordem": 855,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('eles são autodiluídos e se alçarem a um patamar superior ao que lhes é próprio.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4092700",
@@ -27941,7 +28979,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('é mantida - não sendo acatadas') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0856",
-    "numero_ordem": 856
+    "numero_ordem": 856,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('é mantida - não sendo acatadas') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4092698",
@@ -27998,7 +29038,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Faltava a todos os locais e cantos pesquisados a surpresa que o menino teria caso desse ali pelo que buscava.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0857",
-    "numero_ordem": 857
+    "numero_ordem": 857,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Faltava a todos os locais e cantos pesquisados a surpresa que o menino teria caso desse ali pelo que buscava.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4092692",
@@ -28055,7 +29097,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('O inseto tornava-se meu ex-inimigo à medida que ia desvendando coisas de que eu já me esquecera.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0860",
-    "numero_ordem": 860
+    "numero_ordem": 860,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('O inseto tornava-se meu ex-inimigo à medida que ia desvendando coisas de que eu já me esquecera.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4092690",
@@ -28112,7 +29156,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('a afirmação a caneta fica mais leve e envereda para um lugar desconhecido (1° parágrafo) constitui uma personificação.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0861",
-    "numero_ordem": 861
+    "numero_ordem": 861,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('a afirmação a caneta fica mais leve e envereda para um lugar desconhecido (1° parágrafo) constitui uma personificação.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4092685",
@@ -28169,7 +29215,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Atribuem-se à idealização da literatura os hábitos persistentes de uma declaração de amor romântica.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0863",
-    "numero_ordem": 863
+    "numero_ordem": 863,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Atribuem-se à idealização da literatura os hábitos persistentes de uma declaração de amor romântica.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4091334",
@@ -28226,7 +29274,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Estamos diante de um caso clássico de desobediência civil.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0865",
-    "numero_ordem": 865
+    "numero_ordem": 865,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Estamos diante de um caso clássico de desobediência civil.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2155136",
@@ -28283,7 +29333,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Conrad − o universo − princípio de fidelidade.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0869",
-    "numero_ordem": 869
+    "numero_ordem": 869,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Conrad − o universo − princípio de fidelidade.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2155135",
@@ -28340,7 +29392,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('I e III, apenas.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0870",
-    "numero_ordem": 870
+    "numero_ordem": 870,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('I e III, apenas.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2098893",
@@ -28397,7 +29451,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('o termo aberto qualifica o objeto direto universo reflexivo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0873",
-    "numero_ordem": 873
+    "numero_ordem": 873,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('o termo aberto qualifica o objeto direto universo reflexivo.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2098889",
@@ -28454,7 +29510,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Os empreiteiros não se importam com as cidades históricas, que pretendem tornar modernas. Português > Morfologia - Verbos , Flexão verbal de tempo (presente, pretérito, futuro) ,') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0877",
-    "numero_ordem": 877
+    "numero_ordem": 877,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('Os empreiteiros não se importam com as cidades históricas, que pretendem tornar modernas. Português > Morfologia - Verbos , Flexão verbal de tempo (presente, pretérito, futuro) ,') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2098884",
@@ -28511,7 +29569,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Em razão de haver preconceitos culturais, há povos que se eximem completamente de considerar os valores próprios de outros povos.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0882",
-    "numero_ordem": 882
+    "numero_ordem": 882,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Em razão de haver preconceitos culturais, há povos que se eximem completamente de considerar os valores próprios de outros povos.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q2098883",
@@ -28568,7 +29628,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('são postos à prova') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0883",
-    "numero_ordem": 883
+    "numero_ordem": 883,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('são postos à prova') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4091330",
@@ -28625,7 +29687,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('\"nota\" e \"dia\".') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0889",
-    "numero_ordem": 889
+    "numero_ordem": 889,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('\"nota\" e \"dia\".') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4091327",
@@ -28682,7 +29746,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Aqui, ocorre o inverso.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0892",
-    "numero_ordem": 892
+    "numero_ordem": 892,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Aqui, ocorre o inverso.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4091324",
@@ -28739,7 +29805,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Muito encabulado, ordenou à velhinha: - Vá em frente.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0895",
-    "numero_ordem": 895
+    "numero_ordem": 895,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('Muito encabulado, ordenou à velhinha: - Vá em frente.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4091320",
@@ -28796,7 +29864,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('adquirira.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0899",
-    "numero_ordem": 899
+    "numero_ordem": 899,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('adquirira.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4091315",
@@ -28853,7 +29923,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Perguntou o que é que ela levava no saco e ela respondeu que era areia, uai!') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0904",
-    "numero_ordem": 904
+    "numero_ordem": 904,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Perguntou o que é que ela levava no saco e ela respondeu que era areia, uai!') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4066787",
@@ -28910,7 +29982,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Se tivéssemos querido evitar que uma pequena elite mobilizasse esses poderes, a questão-chave teria sido desafiadora.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0905",
-    "numero_ordem": 905
+    "numero_ordem": 905,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Se tivéssemos querido evitar que uma pequena elite mobilizasse esses poderes, a questão-chave teria sido desafiadora.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4066783",
@@ -28967,7 +30041,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('não faltam os que se aplicam em fazer do devaneio uma perturbação.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0909",
-    "numero_ordem": 909
+    "numero_ordem": 909,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('não faltam os que se aplicam em fazer do devaneio uma perturbação.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4038429",
@@ -29024,7 +30100,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('a ideia de que o tempo está sempre vivo, renovando o instante no poema.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0914",
-    "numero_ordem": 914
+    "numero_ordem": 914,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('a ideia de que o tempo está sempre vivo, renovando o instante no poema.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4038427",
@@ -29081,7 +30159,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('expressar eventualidade e incerteza, projetando ações futuras de caráter hipotético.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0916",
-    "numero_ordem": 916
+    "numero_ordem": 916,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('expressar eventualidade e incerteza, projetando ações futuras de caráter hipotético.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q4038423",
@@ -29138,7 +30218,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('valorizar o predicativo, dando ao enunciado ênfase afetiva.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0920",
-    "numero_ordem": 920
+    "numero_ordem": 920,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('valorizar o predicativo, dando ao enunciado ênfase afetiva.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3976699",
@@ -29195,7 +30277,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('for acessada - será dominado') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0921",
-    "numero_ordem": 921
+    "numero_ordem": 921,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('for acessada - será dominado') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3976695",
@@ -29252,7 +30336,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('somos muitíssimo competentes em pegar esse bastão (3º parágrafo) e sua nova versão dessa língua (4º parágrafo).') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0923",
-    "numero_ordem": 923
+    "numero_ordem": 923,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('somos muitíssimo competentes em pegar esse bastão (3º parágrafo) e sua nova versão dessa língua (4º parágrafo).') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3976692",
@@ -29309,7 +30395,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('uma parte da vida exterior, à falta da vida interior.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0925",
-    "numero_ordem": 925
+    "numero_ordem": 925,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('uma parte da vida exterior, à falta da vida interior.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3976688",
@@ -29366,7 +30454,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('complementaridade, quando favorecido um enriquecimento reciproco entre ambas') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0928",
-    "numero_ordem": 928
+    "numero_ordem": 928,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('complementaridade, quando favorecido um enriquecimento reciproco entre ambas') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3974592",
@@ -29423,7 +30513,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('- Eu sei, mas que é que hei de fazer agora?') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0931",
-    "numero_ordem": 931
+    "numero_ordem": 931,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('- Eu sei, mas que é que hei de fazer agora?') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3974586",
@@ -29480,7 +30572,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('O guarda veio estranhar o estacionamento e recebeu a explicação de força-maior, quem é que me paga meus mil cruzeiros?') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0937",
-    "numero_ordem": 937
+    "numero_ordem": 937,
+    "resposta": "A",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [A] ('O guarda veio estranhar o estacionamento e recebeu a explicação de força-maior, quem é que me paga meus mil cruzeiros?') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3974513",
@@ -29537,7 +30631,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('acontecem de modo natural e em ritmos distintos segundo variem as condições de vida.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0941",
-    "numero_ordem": 941
+    "numero_ordem": 941,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('acontecem de modo natural e em ritmos distintos segundo variem as condições de vida.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3974510",
@@ -29594,7 +30690,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('O tédio é uma deficiência do espírito, acreditam alguns; outros, como Alex Pange, combatem a obrigação da distração, na qual identificam mais um vício do que um prazer.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0942",
-    "numero_ordem": 942
+    "numero_ordem": 942,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('O tédio é uma deficiência do espírito, acreditam alguns; outros, como Alex Pange, combatem a obrigação da distração, na qual identificam mais um vício do que um prazer.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3964546",
@@ -29651,7 +30749,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('pausa que reforça a justaposição entre dois segmentos enunciativos.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0946",
-    "numero_ordem": 946
+    "numero_ordem": 946,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('pausa que reforça a justaposição entre dois segmentos enunciativos.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3964487",
@@ -29708,7 +30808,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Como foram obtidos poucos resultados, eles não mais se detiveram em novas etapas.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0947",
-    "numero_ordem": 947
+    "numero_ordem": 947,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Como foram obtidos poucos resultados, eles não mais se detiveram em novas etapas.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3964486",
@@ -29765,7 +30867,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Ao fim e ao cabo, os pesquisadores, apesar de seus esforços, não lograram determinar a origem da desigualdade social.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0948",
-    "numero_ordem": 948
+    "numero_ordem": 948,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('Ao fim e ao cabo, os pesquisadores, apesar de seus esforços, não lograram determinar a origem da desigualdade social.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3964480",
@@ -29822,7 +30926,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Embora não ignorasse o trágico evento daquele dia, o menino sofreu com o fracasso da comemoração que estava aguardando.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0953",
-    "numero_ordem": 953
+    "numero_ordem": 953,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('Embora não ignorasse o trágico evento daquele dia, o menino sofreu com o fracasso da comemoração que estava aguardando.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3964475",
@@ -29879,7 +30985,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('manteve disponível seu instrumento musical para lembrá-lo da insensibilidade que mostrou naquela data de aniversário.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0958",
-    "numero_ordem": 958
+    "numero_ordem": 958,
+    "resposta": "E",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [E] ('manteve disponível seu instrumento musical para lembrá-lo da insensibilidade que mostrou naquela data de aniversário.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3954836",
@@ -29936,7 +31044,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('inaugura uma oposição entre as sociedades como eram conhecidas até então, baseadas na servidão voluntária, e a possibilidade de sociedades igualitárias.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0959",
-    "numero_ordem": 959
+    "numero_ordem": 959,
+    "resposta": "D",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [D] ('inaugura uma oposição entre as sociedades como eram conhecidas até então, baseadas na servidão voluntária, e a possibilidade de sociedades igualitárias.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3954812",
@@ -29993,7 +31103,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('O intendente avaliou a intenção do Cachorro e decidiu que, assim sendo, Ihe concederia uns poucos anos.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0961",
-    "numero_ordem": 961
+    "numero_ordem": 961,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('O intendente avaliou a intenção do Cachorro e decidiu que, assim sendo, Ihe concederia uns poucos anos.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3954800",
@@ -30050,7 +31162,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Aplaudam-se nas altas obras da literatura os esforços bem sucedidos dos que as fizeram exuberantes.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0963",
-    "numero_ordem": 963
+    "numero_ordem": 963,
+    "resposta": "B",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [B] ('Aplaudam-se nas altas obras da literatura os esforços bem sucedidos dos que as fizeram exuberantes.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   },
   {
     "codigo_origem": "Q3954793",
@@ -30107,7 +31221,9 @@ export const questoes = [
     ],
     "comentario": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('distinguir as carências reais, mas ainda difusas, da sociedade em que atua.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave.",
     "id": "FCC_LP0966",
-    "numero_ordem": 966
+    "numero_ordem": 966,
+    "resposta": "C",
+    "explicacao": "A crase decorre da fusão da preposição 'a' exigida por termo regente com o artigo feminino 'a(s)' ou pronome demonstrativo afim. A alternativa [C] ('distinguir as carências reais, mas ainda difusas, da sociedade em que atua.') cumpre com rigor os requisitos gramaticais para o emprego (ou não emprego) do acento grave."
   }
 ];
 export default questoes;

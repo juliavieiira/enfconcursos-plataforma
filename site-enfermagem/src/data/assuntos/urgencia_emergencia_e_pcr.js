@@ -46,7 +46,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('associação entre taquicardia, taquipneia e alterações da perfusão periférica, que sugere comprometimento circulatório, mesmo sem hipotensão acentuada') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0003",
-    "numero_ordem": 3
+    "numero_ordem": 3,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('associação entre taquicardia, taquipneia e alterações da perfusão periférica, que sugere comprometimento circulatório, mesmo sem hipotensão acentuada') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q4369109",
@@ -95,7 +97,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('80 a 120 mmHg, com manobras de 10 a 15 segundos por tentativa') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0023",
-    "numero_ordem": 23
+    "numero_ordem": 23,
+    "resposta": "B",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('80 a 120 mmHg, com manobras de 10 a 15 segundos por tentativa') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q4317379",
@@ -144,7 +148,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('deve utilizar uma via alternativa segura, pois a consciência preservada não torna a via oral adequada diante da dificuldade de deglutição') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0041",
-    "numero_ordem": 41
+    "numero_ordem": 41,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('deve utilizar uma via alternativa segura, pois a consciência preservada não torna a via oral adequada diante da dificuldade de deglutição') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q4317374",
@@ -193,7 +199,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('depressão respiratória') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0045",
-    "numero_ordem": 45
+    "numero_ordem": 45,
+    "resposta": "B",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('depressão respiratória') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q4317366",
@@ -242,7 +250,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('comunicar imediatamente os achados e manter o paciente sob monitorização cardíaca') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0053",
-    "numero_ordem": 53
+    "numero_ordem": 53,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('comunicar imediatamente os achados e manter o paciente sob monitorização cardíaca') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q3981919",
@@ -291,7 +301,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('comunicar imediatamente o enfermeiro responsável, posicionar o paciente em decúbito dorsal, com elevação dos membros inferiores, monitorar os sinais vitais e registrar a intercorrência no prontuário') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0078",
-    "numero_ordem": 78
+    "numero_ordem": 78,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('comunicar imediatamente o enfermeiro responsável, posicionar o paciente em decúbito dorsal, com elevação dos membros inferiores, monitorar os sinais vitais e registrar a intercorrência no prontuário') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q3974333",
@@ -340,7 +352,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('identificado ritmo chocável, a desfibrilação deve ser realizada prontamente, com retomada imediata das compressões torácicas e nova análise do ritmo após cerca de dois minutos, minimizando interrupções') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0100",
-    "numero_ordem": 100
+    "numero_ordem": 100,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('identificado ritmo chocável, a desfibrilação deve ser realizada prontamente, com retomada imediata das compressões torácicas e nova análise do ritmo após cerca de dois minutos, minimizando interrupções') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q3742309",
@@ -389,7 +403,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('vasodilatação sistêmica mediada por liberação de endotoxinas bacterianas, resultando em redistribuição inadequada do fluxo sanguíneo') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0113",
-    "numero_ordem": 113
+    "numero_ordem": 113,
+    "resposta": "B",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('vasodilatação sistêmica mediada por liberação de endotoxinas bacterianas, resultando em redistribuição inadequada do fluxo sanguíneo') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q3615478",
@@ -438,7 +454,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('utilizar solução antisséptica compatível com tecido viável e cobrir com gaze estéril') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0143",
-    "numero_ordem": 143
+    "numero_ordem": 143,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('utilizar solução antisséptica compatível com tecido viável e cobrir com gaze estéril') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q3489354",
@@ -487,7 +505,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('realizar cardioversão elétrica sincronizada imediata, iniciando com 50 a 100 Joules (bifásico), após breve sedação se o tempo permitir') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0153",
-    "numero_ordem": 153
+    "numero_ordem": 153,
+    "resposta": "B",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('realizar cardioversão elétrica sincronizada imediata, iniciando com 50 a 100 Joules (bifásico), após breve sedação se o tempo permitir') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q3489350",
@@ -536,7 +556,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('continuar as compressões torácicas enquanto um segundo socorrista liga o DEA, aplica as pás no tórax nu da vitima e aguarda a análise do ritmo cardíaco, interrompendo as compressões apenas quando o DEA indicar para fazê-lo') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0156",
-    "numero_ordem": 156
+    "numero_ordem": 156,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('continuar as compressões torácicas enquanto um segundo socorrista liga o DEA, aplica as pás no tórax nu da vitima e aguarda a análise do ritmo cardíaco, interrompendo as compressões apenas quando o DEA indicar para fazê-lo') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q3489348",
@@ -585,7 +607,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('reconhecer a PCR, acionar imediatamente o serviço médico de emergência (ou pedir para alguém o fazer) e iniciar RCP de alta qualidade, começando pelas compressões torácicas') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0157",
-    "numero_ordem": 157
+    "numero_ordem": 157,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('reconhecer a PCR, acionar imediatamente o serviço médico de emergência (ou pedir para alguém o fazer) e iniciar RCP de alta qualidade, começando pelas compressões torácicas') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q3489347",
@@ -634,7 +658,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('iniciar imediatamente com compressões torácicas contínuas, a uma frequência de 100 a 120 por minuto e profundidade de 5 a 6 cm, minimizando interrupções') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0158",
-    "numero_ordem": 158
+    "numero_ordem": 158,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('iniciar imediatamente com compressões torácicas contínuas, a uma frequência de 100 a 120 por minuto e profundidade de 5 a 6 cm, minimizando interrupções') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q3287490",
@@ -683,7 +709,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('perda de 1500 ml a 2000 ml de sangue') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0167",
-    "numero_ordem": 167
+    "numero_ordem": 167,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('perda de 1500 ml a 2000 ml de sangue') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q3265174",
@@ -732,7 +760,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('a reação hemolítica aguda é caracterizada por sintomas como febre, calafrios, dor lombar e hemoglobinemia, exigindo interrupção imediata da transfusão e medidas de suporte intensivo') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0172",
-    "numero_ordem": 172
+    "numero_ordem": 172,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('a reação hemolítica aguda é caracterizada por sintomas como febre, calafrios, dor lombar e hemoglobinemia, exigindo interrupção imediata da transfusão e medidas de suporte intensivo') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q3265161",
@@ -781,7 +811,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('a ECG avalia três parâmetros: abertura ocular, resposta verbal e resposta motora, com a pontuação mínima sendo 3') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0181",
-    "numero_ordem": 181
+    "numero_ordem": 181,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('a ECG avalia três parâmetros: abertura ocular, resposta verbal e resposta motora, com a pontuação mínima sendo 3') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q3199740",
@@ -830,7 +862,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('antes de iniciar a transfusão, verificar a prescrição médica, confirmar a compatibilidade sanguínea do paciente com o hemocomponente e utilizar uma linha de infusão com solução salina para garantir a permeabilidade e a segurança do procedimento') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0214",
-    "numero_ordem": 214
+    "numero_ordem": 214,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('antes de iniciar a transfusão, verificar a prescrição médica, confirmar a compatibilidade sanguínea do paciente com o hemocomponente e utilizar uma linha de infusão com solução salina para garantir a permeabilidade e a segurança do procedimento') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q3197482",
@@ -879,7 +913,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('a queimadura de segundo grau afeta a epiderme e a derme superficial e, devido à extensão de 30% da superfície corporal, o enfermeiro deve iniciar imediatamente a reposição volêmica com solução de Ringer lactato, monitorando os sinais vitais, controlando a dor com opióides e realizando curativos estéreis, além de manter vigilância sobre possíveis complicações, como infecções e choque') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0222",
-    "numero_ordem": 222
+    "numero_ordem": 222,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('a queimadura de segundo grau afeta a epiderme e a derme superficial e, devido à extensão de 30% da superfície corporal, o enfermeiro deve iniciar imediatamente a reposição volêmica com solução de Ringer lactato, monitorando os sinais vitais, controlando a dor com opióides e realizando curativos estéreis, além de manter vigilância sobre possíveis complicações, como infecções e choque') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q3197476",
@@ -928,7 +964,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('10 segundos, de forma a minimizar o risco de trauma e hipoxemia durante o procedimento') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0228",
-    "numero_ordem": 228
+    "numero_ordem": 228,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('10 segundos, de forma a minimizar o risco de trauma e hipoxemia durante o procedimento') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q3197475",
@@ -977,7 +1015,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('tomar medidas imediatas para garantir que o nome e a identidade de gênero da paciente sejam respeitados, explicando para a equipe que qualquer forma de discriminação é incompatível com a ética profissional e com os direitos da paciente') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0229",
-    "numero_ordem": 229
+    "numero_ordem": 229,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('tomar medidas imediatas para garantir que o nome e a identidade de gênero da paciente sejam respeitados, explicando para a equipe que qualquer forma de discriminação é incompatível com a ética profissional e com os direitos da paciente') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q3197473",
@@ -1026,7 +1066,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('o paciente apresenta sinais compatíveis com choque hipovolêmico, devido à perda de volume circulatório, logo, a conduta de enfermagem inclui a administração imediata de líquidos intravenosos, monitoramento da pressão arterial e encaminhamento rápido para avaliação médica') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0231",
-    "numero_ordem": 231
+    "numero_ordem": 231,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('o paciente apresenta sinais compatíveis com choque hipovolêmico, devido à perda de volume circulatório, logo, a conduta de enfermagem inclui a administração imediata de líquidos intravenosos, monitoramento da pressão arterial e encaminhamento rápido para avaliação médica') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2480393",
@@ -1083,7 +1125,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('Pré-Hospitalar Fixo e Móvel, Hospitalar, Pós-Hospitalar') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0303",
-    "numero_ordem": 303
+    "numero_ordem": 303,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('Pré-Hospitalar Fixo e Móvel, Hospitalar, Pós-Hospitalar') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2480388",
@@ -1140,7 +1184,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('universalidade, equidade e integralidade') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0308",
-    "numero_ordem": 308
+    "numero_ordem": 308,
+    "resposta": "E",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('universalidade, equidade e integralidade') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2472187",
@@ -1197,7 +1243,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('temperatura axilar, pulso, respiração e pressão arterial') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0351",
-    "numero_ordem": 351
+    "numero_ordem": 351,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('temperatura axilar, pulso, respiração e pressão arterial') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2467331",
@@ -1246,7 +1294,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('implementar medidas imediatas de conforto e segurança para o paciente, como elevá-lo a 45 graus e administrar oxigênio suplementar, enquanto aciona a equipe médica') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0389",
-    "numero_ordem": 389
+    "numero_ordem": 389,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('implementar medidas imediatas de conforto e segurança para o paciente, como elevá-lo a 45 graus e administrar oxigênio suplementar, enquanto aciona a equipe médica') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2454936",
@@ -1295,7 +1345,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('insuficiência respiratória') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0396",
-    "numero_ordem": 396
+    "numero_ordem": 396,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('insuficiência respiratória') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2454932",
@@ -1344,7 +1396,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('urgência') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0400",
-    "numero_ordem": 400
+    "numero_ordem": 400,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('urgência') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2454929",
@@ -1393,7 +1447,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('Política Nacional de Educação Permanente em Saúde') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0403",
-    "numero_ordem": 403
+    "numero_ordem": 403,
+    "resposta": "B",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('Política Nacional de Educação Permanente em Saúde') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2452986",
@@ -1442,7 +1498,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('Pré-Hospitalar Fixo e Móvel, Hospitalar, Pós-Hospitalar') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0431",
-    "numero_ordem": 431
+    "numero_ordem": 431,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('Pré-Hospitalar Fixo e Móvel, Hospitalar, Pós-Hospitalar') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q3674528",
@@ -1491,7 +1549,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('lesão visceral, insuficiência renal aguda e edema pulmonar') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0438",
-    "numero_ordem": 438
+    "numero_ordem": 438,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('lesão visceral, insuficiência renal aguda e edema pulmonar') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q3674518",
@@ -1540,7 +1600,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('6 segundos') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0448",
-    "numero_ordem": 448
+    "numero_ordem": 448,
+    "resposta": "B",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('6 segundos') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q3674517",
@@ -1589,7 +1651,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('60L/minuto') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0449",
-    "numero_ordem": 449
+    "numero_ordem": 449,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('60L/minuto') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q3584428",
@@ -1638,7 +1702,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('não realizar manobras de desobstrução (não interferir); acalmar o paciente; incentivar tosse vigorosa; instalar suporte de O2, se necessário, e manter monitoramento constante') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0463",
-    "numero_ordem": 463
+    "numero_ordem": 463,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('não realizar manobras de desobstrução (não interferir); acalmar o paciente; incentivar tosse vigorosa; instalar suporte de O2, se necessário, e manter monitoramento constante') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q3584427",
@@ -1687,7 +1753,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('acidose mista e SARA grave, pois a relação PaO2/FIO2 é 93') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0464",
-    "numero_ordem": 464
+    "numero_ordem": 464,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('acidose mista e SARA grave, pois a relação PaO2/FIO2 é 93') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2342275",
@@ -1736,7 +1804,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('algodão ortopédico, atadura gessada e malha tubular') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0475",
-    "numero_ordem": 475
+    "numero_ordem": 475,
+    "resposta": "B",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('algodão ortopédico, atadura gessada e malha tubular') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2342274",
@@ -1785,7 +1855,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('das falanges') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0476",
-    "numero_ordem": 476
+    "numero_ordem": 476,
+    "resposta": "B",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('das falanges') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2342273",
@@ -1834,7 +1906,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('12 horas após a lesão') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0477",
-    "numero_ordem": 477
+    "numero_ordem": 477,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('12 horas após a lesão') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2342272",
@@ -1883,7 +1957,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('não mexer o membro nas próximas duas horas, não molhar o gesso e mexer bastante os dedos das mãos para ajudar na circulação') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0478",
-    "numero_ordem": 478
+    "numero_ordem": 478,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('não mexer o membro nas próximas duas horas, não molhar o gesso e mexer bastante os dedos das mãos para ajudar na circulação') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2341564",
@@ -1932,7 +2008,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('universalidade, equidade e integralidade') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0487",
-    "numero_ordem": 487
+    "numero_ordem": 487,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('universalidade, equidade e integralidade') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2325293",
@@ -1981,7 +2059,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('3 a 5 cmH2O em caso de redução da complacência pulmonar (síndrome do desconforto respiratório agudo), mas podese utilizar valores até 20cmH2O caso o paciente possua condições de monitoramento de curvas de pressão') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0502",
-    "numero_ordem": 502
+    "numero_ordem": 502,
+    "resposta": "B",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('3 a 5 cmH2O em caso de redução da complacência pulmonar (síndrome do desconforto respiratório agudo), mas podese utilizar valores até 20cmH2O caso o paciente possua condições de monitoramento de curvas de pressão') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2325282",
@@ -2030,7 +2110,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('acidose mista') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0513",
-    "numero_ordem": 513
+    "numero_ordem": 513,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('acidose mista') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2325279",
@@ -2079,7 +2161,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('20/01/2024') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0516",
-    "numero_ordem": 516
+    "numero_ordem": 516,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('20/01/2024') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2325275",
@@ -2128,7 +2212,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('BC4') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0520",
-    "numero_ordem": 520
+    "numero_ordem": 520,
+    "resposta": "B",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('BC4') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2310586",
@@ -2177,7 +2263,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('reconhecimento e prevenção precoces') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0528",
-    "numero_ordem": 528
+    "numero_ordem": 528,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('reconhecimento e prevenção precoces') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2310585",
@@ -2226,7 +2314,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('37%') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0529",
-    "numero_ordem": 529
+    "numero_ordem": 529,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('37%') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2162341",
@@ -2275,7 +2365,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('acidose mista') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0569",
-    "numero_ordem": 569
+    "numero_ordem": 569,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('acidose mista') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2162335",
@@ -2324,7 +2416,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('simples, traumático e hipertensivo') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0575",
-    "numero_ordem": 575
+    "numero_ordem": 575,
+    "resposta": "B",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('simples, traumático e hipertensivo') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2160730",
@@ -2373,7 +2467,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('48 ou 72') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0594",
-    "numero_ordem": 594
+    "numero_ordem": 594,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('48 ou 72') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2160729",
@@ -2422,7 +2518,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('as pinças de Kelly, Kocher e Rochester') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0595",
-    "numero_ordem": 595
+    "numero_ordem": 595,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('as pinças de Kelly, Kocher e Rochester') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2408174",
@@ -2471,7 +2569,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('hipotermia, hipóxia e tamponamento cardíaco') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0602",
-    "numero_ordem": 602
+    "numero_ordem": 602,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('hipotermia, hipóxia e tamponamento cardíaco') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1956082",
@@ -2520,7 +2620,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('nitroprussiato de sódio') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0617",
-    "numero_ordem": 617
+    "numero_ordem": 617,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('nitroprussiato de sódio') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1953162",
@@ -2569,7 +2671,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('tabagismo (ativo e passivo), poluição ambiental e deficiência de Alfa-1 antiquimotripsina') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0642",
-    "numero_ordem": 642
+    "numero_ordem": 642,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('tabagismo (ativo e passivo), poluição ambiental e deficiência de Alfa-1 antiquimotripsina') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1953158",
@@ -2618,7 +2722,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('diarreia, uso de diurético poupador de potássio e fistula entérica') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0646",
-    "numero_ordem": 646
+    "numero_ordem": 646,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('diarreia, uso de diurético poupador de potássio e fistula entérica') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1953157",
@@ -2667,7 +2773,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('acidose respiratória') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0647",
-    "numero_ordem": 647
+    "numero_ordem": 647,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('acidose respiratória') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1320556",
@@ -2716,7 +2824,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('anormalidades ou sinais de fraturas') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0652",
-    "numero_ordem": 652
+    "numero_ordem": 652,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('anormalidades ou sinais de fraturas') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1320555",
@@ -2765,7 +2875,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('Esquecer a serenidade, com isso irá garantir um melhor atendimento emergencial em primeiros socorros.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0653",
-    "numero_ordem": 653
+    "numero_ordem": 653,
+    "resposta": "B",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('Esquecer a serenidade, com isso irá garantir um melhor atendimento emergencial em primeiros socorros.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1320499",
@@ -2814,7 +2926,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('quarto grau') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0660",
-    "numero_ordem": 660
+    "numero_ordem": 660,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('quarto grau') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1320490",
@@ -2863,7 +2977,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('morfina') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0668",
-    "numero_ordem": 668
+    "numero_ordem": 668,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('morfina') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1320488",
@@ -2912,7 +3028,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('30 compressões e 2 ventilações') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0669",
-    "numero_ordem": 669
+    "numero_ordem": 669,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('30 compressões e 2 ventilações') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1313729",
@@ -2961,7 +3079,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('Evite ventilação excessiva e minimize as interrupções nas compressões.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0687",
-    "numero_ordem": 687
+    "numero_ordem": 687,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('Evite ventilação excessiva e minimize as interrupções nas compressões.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1313725",
@@ -3010,7 +3130,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('proceder à amamentação com técnica adequada (posicionamento e pega adequados) e ordenha manual da aréola antes da mamada se ela estiver ingurgitada') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0691",
-    "numero_ordem": 691
+    "numero_ordem": 691,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('proceder à amamentação com técnica adequada (posicionamento e pega adequados) e ordenha manual da aréola antes da mamada se ela estiver ingurgitada') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1313709",
@@ -3059,7 +3181,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('Jaw - Thrust') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0707",
-    "numero_ordem": 707
+    "numero_ordem": 707,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('Jaw - Thrust') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1313702",
@@ -3108,7 +3232,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('b o l u s d e 5 m g / k g d u r a n t e a p a r a d a cardiorrespiratória (PCR) e pode ser repetida até duas vezes para fibrilação ventricular e taquicardia ventricular sem pulso refratária') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0714",
-    "numero_ordem": 714
+    "numero_ordem": 714,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('b o l u s d e 5 m g / k g d u r a n t e a p a r a d a cardiorrespiratória (PCR) e pode ser repetida até duas vezes para fibrilação ventricular e taquicardia ventricular sem pulso refratária') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1313701",
@@ -3157,7 +3283,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('hipocalemia') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0715",
-    "numero_ordem": 715
+    "numero_ordem": 715,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('hipocalemia') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2692365",
@@ -3206,7 +3334,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('terceiro grau 3b') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0779",
-    "numero_ordem": 779
+    "numero_ordem": 779,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('terceiro grau 3b') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2692344",
@@ -3255,7 +3385,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('confirmar a identificação do paciente na pulseira, na prescrição médica e no rótulo do hemocomponente, antes da sua administração, efetuando esta verificação duas vezes antes de iniciar a infusão') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0785",
-    "numero_ordem": 785
+    "numero_ordem": 785,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('confirmar a identificação do paciente na pulseira, na prescrição médica e no rótulo do hemocomponente, antes da sua administração, efetuando esta verificação duas vezes antes de iniciar a infusão') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q3743097",
@@ -3304,7 +3436,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('parar o paciente e orientá-lo verbalmente e com demonstração a se aproximar da cadeira, virar-se de costas, caminhar para trás até sentir a cadeira tocar suas pernas e só então, com as mãos apoiadas nos braços da cadeira, realizar o movimento de sentar') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0876",
-    "numero_ordem": 876
+    "numero_ordem": 876,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('parar o paciente e orientá-lo verbalmente e com demonstração a se aproximar da cadeira, virar-se de costas, caminhar para trás até sentir a cadeira tocar suas pernas e só então, com as mãos apoiadas nos braços da cadeira, realizar o movimento de sentar') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1971264",
@@ -3361,7 +3495,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('ritmo sinusal.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0015",
-    "numero_ordem": 15
+    "numero_ordem": 15,
+    "resposta": "B",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('ritmo sinusal.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1971258",
@@ -3418,7 +3554,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('3 horas ou 4,5 horas em determinados pacientes.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0021",
-    "numero_ordem": 21
+    "numero_ordem": 21,
+    "resposta": "E",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('3 horas ou 4,5 horas em determinados pacientes.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1970059",
@@ -3475,7 +3613,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('Tocar o ombro, chamar em voz alta, abrir a via aérea e reposicionar o indivíduo, caso esteja respirando normalmente.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0041",
-    "numero_ordem": 41
+    "numero_ordem": 41,
+    "resposta": "E",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('Tocar o ombro, chamar em voz alta, abrir a via aérea e reposicionar o indivíduo, caso esteja respirando normalmente.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1970058",
@@ -3532,7 +3672,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('I, II e III, apenas.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0042",
-    "numero_ordem": 42
+    "numero_ordem": 42,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('I, II e III, apenas.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1956216",
@@ -3589,7 +3731,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('focar na ressuscitação maternal, com a preparação para uma cesariana de emergência, se necessário.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0081",
-    "numero_ordem": 81
+    "numero_ordem": 81,
+    "resposta": "E",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('focar na ressuscitação maternal, com a preparação para uma cesariana de emergência, se necessário.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1309017",
@@ -3646,7 +3790,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('detecta o DNA do bacilo causador da doença em duas horas.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0093",
-    "numero_ordem": 93
+    "numero_ordem": 93,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('detecta o DNA do bacilo causador da doença em duas horas.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1309015",
@@ -3703,7 +3849,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('controlar a hipotermia retirando roupas molhadas e utilizando dispositivos para aquecimento passivo.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0095",
-    "numero_ordem": 95
+    "numero_ordem": 95,
+    "resposta": "B",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('controlar a hipotermia retirando roupas molhadas e utilizando dispositivos para aquecimento passivo.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1258498",
@@ -3760,7 +3908,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('classificação de risco dos diferentes agravos.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0118",
-    "numero_ordem": 118
+    "numero_ordem": 118,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('classificação de risco dos diferentes agravos.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1252296",
@@ -3817,7 +3967,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('os materiais implantáveis devem ser monitorados adicionalmente por indicador biológico a cada carga e somente liberados após leitura negativa.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0141",
-    "numero_ordem": 141
+    "numero_ordem": 141,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('os materiais implantáveis devem ser monitorados adicionalmente por indicador biológico a cada carga e somente liberados após leitura negativa.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1252240",
@@ -3874,7 +4026,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('trocar as pessoas que aplicam as compressões a cada 2 minutos ou antes se houver cansaço.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0163",
-    "numero_ordem": 163
+    "numero_ordem": 163,
+    "resposta": "E",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('trocar as pessoas que aplicam as compressões a cada 2 minutos ou antes se houver cansaço.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1252238",
@@ -3931,7 +4085,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('o rebaixamento do nível de consciência.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0165",
-    "numero_ordem": 165
+    "numero_ordem": 165,
+    "resposta": "E",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('o rebaixamento do nível de consciência.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1252236",
@@ -3988,7 +4144,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('II, apenas.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0167",
-    "numero_ordem": 167
+    "numero_ordem": 167,
+    "resposta": "E",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('II, apenas.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1252161",
@@ -4045,7 +4203,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('monitorizar rigorosamente os sinais vitais a fim de identificar precocemente sinais de hipertensão, bradicardia e alteração da frequência respiratória, conhecidos como tríade de Cushing.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0186",
-    "numero_ordem": 186
+    "numero_ordem": 186,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('monitorizar rigorosamente os sinais vitais a fim de identificar precocemente sinais de hipertensão, bradicardia e alteração da frequência respiratória, conhecidos como tríade de Cushing.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1252156",
@@ -4102,7 +4262,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('I, II, apenas.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0191",
-    "numero_ordem": 191
+    "numero_ordem": 191,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('I, II, apenas.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1252148",
@@ -4159,7 +4321,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('a Escala de Coma de Glasgow.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0199",
-    "numero_ordem": 199
+    "numero_ordem": 199,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('a Escala de Coma de Glasgow.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q4155353",
@@ -4216,7 +4380,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('6 segundos.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0216",
-    "numero_ordem": 216
+    "numero_ordem": 216,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('6 segundos.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1129549",
@@ -4273,7 +4439,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('o ritmo de trabalho acelerado.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0225",
-    "numero_ordem": 225
+    "numero_ordem": 225,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('o ritmo de trabalho acelerado.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1023331",
@@ -4330,7 +4498,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('transversalidade.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0247",
-    "numero_ordem": 247
+    "numero_ordem": 247,
+    "resposta": "B",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('transversalidade.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1023323",
@@ -4387,7 +4557,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('hemólise, enzimas hepáticas elevadas e baixa contagem de plaquetas.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0255",
-    "numero_ordem": 255
+    "numero_ordem": 255,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('hemólise, enzimas hepáticas elevadas e baixa contagem de plaquetas.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1023322",
@@ -4444,7 +4616,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('neurogênico.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0256",
-    "numero_ordem": 256
+    "numero_ordem": 256,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('neurogênico.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q937537",
@@ -4501,7 +4675,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('contusa.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0292",
-    "numero_ordem": 292
+    "numero_ordem": 292,
+    "resposta": "B",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('contusa.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q937532",
@@ -4558,7 +4734,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('ter duração limitada e ter a gravidade do evento definida pela pessoa que o experimenta.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0296",
-    "numero_ordem": 296
+    "numero_ordem": 296,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('ter duração limitada e ter a gravidade do evento definida pela pessoa que o experimenta.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q937530",
@@ -4615,7 +4793,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('2 minutos.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0298",
-    "numero_ordem": 298
+    "numero_ordem": 298,
+    "resposta": "B",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('2 minutos.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q937528",
@@ -4672,7 +4852,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('proteger o olho lesionado com escudo rígido.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0300",
-    "numero_ordem": 300
+    "numero_ordem": 300,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('proteger o olho lesionado com escudo rígido.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q935877",
@@ -4729,7 +4911,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('a região tibial e o maléolo medial são alguns dos locais mais utilizados para a punção IO em adultos.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0323",
-    "numero_ordem": 323
+    "numero_ordem": 323,
+    "resposta": "E",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('a região tibial e o maléolo medial são alguns dos locais mais utilizados para a punção IO em adultos.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q932740",
@@ -4786,7 +4970,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('a mandíbula e o ombro.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0349",
-    "numero_ordem": 349
+    "numero_ordem": 349,
+    "resposta": "E",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('a mandíbula e o ombro.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q932735",
@@ -4843,7 +5029,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('III e IV, apenas.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0352",
-    "numero_ordem": 352
+    "numero_ordem": 352,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('III e IV, apenas.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q4155337",
@@ -4900,7 +5088,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('acidente vascular encefálico.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0402",
-    "numero_ordem": 402
+    "numero_ordem": 402,
+    "resposta": "B",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('acidente vascular encefálico.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q918264",
@@ -4957,7 +5147,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('mulheres grávidas, se a altura do fundo uterino for igual ou superior ao nível do umbigo, o deslocamento manual do útero para a esquerda pode ser benéfico para o alívio da compressão aortocava durante as compressões torácicas.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0454",
-    "numero_ordem": 454
+    "numero_ordem": 454,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('mulheres grávidas, se a altura do fundo uterino for igual ou superior ao nível do umbigo, o deslocamento manual do útero para a esquerda pode ser benéfico para o alívio da compressão aortocava durante as compressões torácicas.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q918185",
@@ -5014,7 +5206,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('manter a sequência de atendimento das Diretrizes de 2010, iniciando a RCP com C.A.B.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0469",
-    "numero_ordem": 469
+    "numero_ordem": 469,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('manter a sequência de atendimento das Diretrizes de 2010, iniciando a RCP com C.A.B.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q918183",
@@ -5071,7 +5265,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('I e III, apenas.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0471",
-    "numero_ordem": 471
+    "numero_ordem": 471,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('I e III, apenas.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q876025",
@@ -5128,7 +5324,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('sinalizar rapidamente o local.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0479",
-    "numero_ordem": 479
+    "numero_ordem": 479,
+    "resposta": "E",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('sinalizar rapidamente o local.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q839947",
@@ -5185,7 +5383,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('III, I, IV, II, V.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0497",
-    "numero_ordem": 497
+    "numero_ordem": 497,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('III, I, IV, II, V.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q839917",
@@ -5242,7 +5442,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('dos Hospitais-Sentinela.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0526",
-    "numero_ordem": 526
+    "numero_ordem": 526,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('dos Hospitais-Sentinela.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q839915",
@@ -5299,7 +5501,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('universalidade.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0528",
-    "numero_ordem": 528
+    "numero_ordem": 528,
+    "resposta": "B",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('universalidade.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q839910",
@@ -5356,7 +5560,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('reiniciar a RCP, por cerca de 2 minutos, até que o DEA reanalise o ritmo cardíaco.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0533",
-    "numero_ordem": 533
+    "numero_ordem": 533,
+    "resposta": "E",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('reiniciar a RCP, por cerca de 2 minutos, até que o DEA reanalise o ritmo cardíaco.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q839909",
@@ -5413,7 +5619,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('manter o objeto estabilizado, com controle manual da região cervical, até o encaminhamento ao hospital para o procedimento cirúrgico de retirada do objeto.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0534",
-    "numero_ordem": 534
+    "numero_ordem": 534,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('manter o objeto estabilizado, com controle manual da região cervical, até o encaminhamento ao hospital para o procedimento cirúrgico de retirada do objeto.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q839908",
@@ -5470,7 +5678,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('verificar a segurança do local para o profissional que fará o atendimento.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0535",
-    "numero_ordem": 535
+    "numero_ordem": 535,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('verificar a segurança do local para o profissional que fará o atendimento.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q783961",
@@ -5527,7 +5737,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('I, apenas.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0541",
-    "numero_ordem": 541
+    "numero_ordem": 541,
+    "resposta": "E",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('I, apenas.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q778007",
@@ -5584,7 +5796,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('fazer com que a pessoa permaneça o mais imóvel possível, quando houver suspeita de lesão de coluna.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0561",
-    "numero_ordem": 561
+    "numero_ordem": 561,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('fazer com que a pessoa permaneça o mais imóvel possível, quando houver suspeita de lesão de coluna.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q778006",
@@ -5641,7 +5855,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('aplicar compressões torácicas a uma frequência de 100 a 120/min.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0562",
-    "numero_ordem": 562
+    "numero_ordem": 562,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('aplicar compressões torácicas a uma frequência de 100 a 120/min.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1337379",
@@ -5698,7 +5914,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('responsividade da vítima ao ser chamada e a ausência de respiração e pulso em 10 segundos.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0591",
-    "numero_ordem": 591
+    "numero_ordem": 591,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('responsividade da vítima ao ser chamada e a ausência de respiração e pulso em 10 segundos.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1337378",
@@ -5755,7 +5973,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('100 a 120.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0592",
-    "numero_ordem": 592
+    "numero_ordem": 592,
+    "resposta": "B",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('100 a 120.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2723514",
@@ -5812,7 +6032,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('sonolência.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0597",
-    "numero_ordem": 597
+    "numero_ordem": 597,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('sonolência.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2723507",
@@ -5869,7 +6091,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('priapismo.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0604",
-    "numero_ordem": 604
+    "numero_ordem": 604,
+    "resposta": "B",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('priapismo.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q771978",
@@ -5926,7 +6150,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('após 30 segundos.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0635",
-    "numero_ordem": 635
+    "numero_ordem": 635,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('após 30 segundos.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q771976",
@@ -5983,7 +6209,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('realizar 30 compressões alternadas com 2 ventilações.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0637",
-    "numero_ordem": 637
+    "numero_ordem": 637,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('realizar 30 compressões alternadas com 2 ventilações.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q771975",
@@ -6040,7 +6268,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('verificar se o local é seguro para o socorrista e vítima; avaliar a resposta e, simultaneamente, observar a ausência ou anormalidade na respiração, e sentir o pulso em até 10 segundos.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0638",
-    "numero_ordem": 638
+    "numero_ordem": 638,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('verificar se o local é seguro para o socorrista e vítima; avaliar a resposta e, simultaneamente, observar a ausência ou anormalidade na respiração, e sentir o pulso em até 10 segundos.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q764322",
@@ -6097,7 +6327,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('aplicar pressão direta no local com curativo de tecido ou gaze.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0669",
-    "numero_ordem": 669
+    "numero_ordem": 669,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('aplicar pressão direta no local com curativo de tecido ou gaze.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q764321",
@@ -6154,7 +6386,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('colocar o seu punho fechado abaixo do apêndice xifoide da vítima e aplicar compressões abdominais rápidas, com movimentos ascendentes até que objeto seja expelido.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0670",
-    "numero_ordem": 670
+    "numero_ordem": 670,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('colocar o seu punho fechado abaixo do apêndice xifoide da vítima e aplicar compressões abdominais rápidas, com movimentos ascendentes até que objeto seja expelido.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q764305",
@@ -6211,7 +6445,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('cassação do direito ao exercício profissional.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0686",
-    "numero_ordem": 686
+    "numero_ordem": 686,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('cassação do direito ao exercício profissional.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q764289",
@@ -6268,7 +6504,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('Regulação do acesso aos serviços de saúde.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0699",
-    "numero_ordem": 699
+    "numero_ordem": 699,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('Regulação do acesso aos serviços de saúde.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q763973",
@@ -6325,7 +6563,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('lavar o local da lesão com água corrente em temperatura ambiente (15 a 25 °C), até que a área queimada seja resfriada.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0702",
-    "numero_ordem": 702
+    "numero_ordem": 702,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('lavar o local da lesão com água corrente em temperatura ambiente (15 a 25 °C), até que a área queimada seja resfriada.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q763970",
@@ -6382,7 +6622,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('deitada lateralmente.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0705",
-    "numero_ordem": 705
+    "numero_ordem": 705,
+    "resposta": "E",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('deitada lateralmente.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q763948",
@@ -6439,7 +6681,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('a saúde é um direito fundamental do ser humano, devendo o Estado prover as condições indispensáveis ao seu pleno exercício.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0727",
-    "numero_ordem": 727
+    "numero_ordem": 727,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('a saúde é um direito fundamental do ser humano, devendo o Estado prover as condições indispensáveis ao seu pleno exercício.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q615917",
@@ -6496,7 +6740,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('I, II e III.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0748",
-    "numero_ordem": 748
+    "numero_ordem": 748,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('I, II e III.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q615916",
@@ -6553,7 +6799,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('permitir o retorno total do tórax após cada compressão.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0749",
-    "numero_ordem": 749
+    "numero_ordem": 749,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('permitir o retorno total do tórax após cada compressão.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q615889",
@@ -6610,7 +6858,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('I, II e III.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0776",
-    "numero_ordem": 776
+    "numero_ordem": 776,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('I, II e III.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2723495",
@@ -6667,7 +6917,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('sangramento em nariz e ouvido após ter batido a cabeça, a cabeça deve ser segurada e nada deve ser feito com o sangramento do nariz e do ouvido.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0779",
-    "numero_ordem": 779
+    "numero_ordem": 779,
+    "resposta": "B",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('sangramento em nariz e ouvido após ter batido a cabeça, a cabeça deve ser segurada e nada deve ser feito com o sangramento do nariz e do ouvido.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2723487",
@@ -6724,7 +6976,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('a compressão torácica em crianças e bebês deve ser no mínimo') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0784",
-    "numero_ordem": 784
+    "numero_ordem": 784,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('a compressão torácica em crianças e bebês deve ser no mínimo') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2723483",
@@ -6781,7 +7035,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('redução de danos.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0788",
-    "numero_ordem": 788
+    "numero_ordem": 788,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('redução de danos.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2099277",
@@ -6838,7 +7094,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('reanimação cardiopulmonar (RCP) deve ser iniciada, pois o risco de dano ao paciente é baixo se o paciente não estiver em PCR.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0794",
-    "numero_ordem": 794
+    "numero_ordem": 794,
+    "resposta": "E",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('reanimação cardiopulmonar (RCP) deve ser iniciada, pois o risco de dano ao paciente é baixo se o paciente não estiver em PCR.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2099271",
@@ -6895,7 +7153,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('asma.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0798",
-    "numero_ordem": 798
+    "numero_ordem": 798,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('asma.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2118813",
@@ -6952,7 +7212,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('equidade.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0837",
-    "numero_ordem": 837
+    "numero_ordem": 837,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('equidade.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2118810",
@@ -7009,7 +7271,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('se posicionar atrás do colaborador, envolvê-lo com os braços e com uma das mãos fechadas, colocar o lado do polegar contra o abdome, na linha média entre o processo xifoide e a cicatriz umbilical.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0840",
-    "numero_ordem": 840
+    "numero_ordem": 840,
+    "resposta": "B",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('se posicionar atrás do colaborador, envolvê-lo com os braços e com uma das mãos fechadas, colocar o lado do polegar contra o abdome, na linha média entre o processo xifoide e a cicatriz umbilical.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2118795",
@@ -7066,7 +7330,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('com força, em profundidade de pelo menos 5 a 6 centímetros.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0849",
-    "numero_ordem": 849
+    "numero_ordem": 849,
+    "resposta": "B",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('com força, em profundidade de pelo menos 5 a 6 centímetros.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2108297",
@@ -7123,7 +7389,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('sinais e sintomas.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0854",
-    "numero_ordem": 854
+    "numero_ordem": 854,
+    "resposta": "E",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('sinais e sintomas.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2108275",
@@ -7180,7 +7448,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('não interferir nos movimentos convulsivos, mas assegurar que a vítima não se machuque.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0873",
-    "numero_ordem": 873
+    "numero_ordem": 873,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('não interferir nos movimentos convulsivos, mas assegurar que a vítima não se machuque.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q4156619",
@@ -7237,7 +7507,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('10 minutos.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0880",
-    "numero_ordem": 880
+    "numero_ordem": 880,
+    "resposta": "B",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('10 minutos.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q4156618",
@@ -7294,7 +7566,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('queda facial, fraqueza nos braços e fala anormal.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0881",
-    "numero_ordem": 881
+    "numero_ordem": 881,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('queda facial, fraqueza nos braços e fala anormal.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q4156608",
@@ -7351,7 +7625,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('garantir permeabilidade das vias aéreas e controlar sangramento através de compressão digital por 5 a 10 minutos.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0889",
-    "numero_ordem": 889
+    "numero_ordem": 889,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('garantir permeabilidade das vias aéreas e controlar sangramento através de compressão digital por 5 a 10 minutos.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q4156607",
@@ -7408,7 +7684,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('cinco golpes nas costas.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0890",
-    "numero_ordem": 890
+    "numero_ordem": 890,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('cinco golpes nas costas.') traduz a conduta prioritária e tecnicamente fundamentada."
   }
 ];
 export default questoes;

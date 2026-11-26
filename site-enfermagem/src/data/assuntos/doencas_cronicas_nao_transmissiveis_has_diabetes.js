@@ -46,7 +46,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('cerca de dois a três centímetros acima da fossa cubital, com a largura da bolsa de borracha correspondendo a aproximadamente 40% da circunferência do braço') expressa a abordagem terapêutica recomendada.",
     "id": "EF0010",
-    "numero_ordem": 10
+    "numero_ordem": 10,
+    "resposta": "A",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('cerca de dois a três centímetros acima da fossa cubital, com a largura da bolsa de borracha correspondendo a aproximadamente 40% da circunferência do braço') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q4336846",
@@ -95,7 +97,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('repetir a medida por mais três vezes, intercalando intervalos de 2 minutos entre cada uma, e calcular a média aritmética das cinco aferições, desprezando a primeira') expressa a abordagem terapêutica recomendada.",
     "id": "EF0035",
-    "numero_ordem": 35
+    "numero_ordem": 35,
+    "resposta": "B",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('repetir a medida por mais três vezes, intercalando intervalos de 2 minutos entre cada uma, e calcular a média aritmética das cinco aferições, desprezando a primeira') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q4317373",
@@ -144,7 +148,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('delirium hipoativo') expressa a abordagem terapêutica recomendada.",
     "id": "EF0046",
-    "numero_ordem": 46
+    "numero_ordem": 46,
+    "resposta": "A",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('delirium hipoativo') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q4317367",
@@ -193,7 +199,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('superestimados') expressa a abordagem terapêutica recomendada.",
     "id": "EF0052",
-    "numero_ordem": 52
+    "numero_ordem": 52,
+    "resposta": "C",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('superestimados') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q3981932",
@@ -242,7 +250,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('promoção de medidas de conforto, alívio do sofrimento e respeito à dignidade e às necessidades do paciente') expressa a abordagem terapêutica recomendada.",
     "id": "EF0065",
-    "numero_ordem": 65
+    "numero_ordem": 65,
+    "resposta": "B",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('promoção de medidas de conforto, alívio do sofrimento e respeito à dignidade e às necessidades do paciente') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q3981925",
@@ -291,7 +301,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('falta ou dificuldade de ação da insulina impede a utilização adequada da glicose pelas células, causando aumento da glicemia') expressa a abordagem terapêutica recomendada.",
     "id": "EF0072",
-    "numero_ordem": 72
+    "numero_ordem": 72,
+    "resposta": "A",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('falta ou dificuldade de ação da insulina impede a utilização adequada da glicose pelas células, causando aumento da glicemia') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q3974351",
@@ -340,7 +352,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('a redução do sódio sérico diminui a osmolaridade plasmática, favorecendo deslocamento de água para o meio intracelular, com risco de edema cerebral, exigindo monitorização neurológica rigorosa') expressa a abordagem terapêutica recomendada.",
     "id": "EF0086",
-    "numero_ordem": 86
+    "numero_ordem": 86,
+    "resposta": "B",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('a redução do sódio sérico diminui a osmolaridade plasmática, favorecendo deslocamento de água para o meio intracelular, com risco de edema cerebral, exigindo monitorização neurológica rigorosa') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q3623617",
@@ -389,7 +403,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('a colocação do membro afetado sob água corrente em temperatura ambiente por vários minutos') expressa a abordagem terapêutica recomendada.",
     "id": "EF0120",
-    "numero_ordem": 120
+    "numero_ordem": 120,
+    "resposta": "C",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('a colocação do membro afetado sob água corrente em temperatura ambiente por vários minutos') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q3615477",
@@ -438,7 +454,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('taquicardia') expressa a abordagem terapêutica recomendada.",
     "id": "EF0144",
-    "numero_ordem": 144
+    "numero_ordem": 144,
+    "resposta": "B",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('taquicardia') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q3615472",
@@ -487,7 +505,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('essa diferença pode indicar condição clínica como estenose da artéria subclávia e deve ser relatada ao enfermeiro ou ao médico') expressa a abordagem terapêutica recomendada.",
     "id": "EF0148",
-    "numero_ordem": 148
+    "numero_ordem": 148,
+    "resposta": "D",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('essa diferença pode indicar condição clínica como estenose da artéria subclávia e deve ser relatada ao enfermeiro ou ao médico') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q3265169",
@@ -536,7 +556,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('a orientação ao paciente sobre a importância do controle da ingestão de sódio e a adesão ao tratamento medicamentoso é fundamental para a prevenção de exacerbações da insuficiência cardíaca') expressa a abordagem terapêutica recomendada.",
     "id": "EF0176",
-    "numero_ordem": 176
+    "numero_ordem": 176,
+    "resposta": "C",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('a orientação ao paciente sobre a importância do controle da ingestão de sódio e a adesão ao tratamento medicamentoso é fundamental para a prevenção de exacerbações da insuficiência cardíaca') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q3265168",
@@ -585,7 +607,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('a orientação para o autocuidado inclui instruções sobre a administração correta de insulina, cuidados com os pés, alimentação adequada e reconhecimento de sinais de hipoglicemia e hiperglicemia') expressa a abordagem terapêutica recomendada.",
     "id": "EF0177",
-    "numero_ordem": 177
+    "numero_ordem": 177,
+    "resposta": "B",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('a orientação para o autocuidado inclui instruções sobre a administração correta de insulina, cuidados com os pés, alimentação adequada e reconhecimento de sinais de hipoglicemia e hiperglicemia') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q3199752",
@@ -634,7 +658,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('teste oral de tolerância à glicose (TOTG) com sobrecarga de 50g de glicose, realizado entre a 24ª e 28ª semana de gestação para diagnosticar diabetes gestacional') expressa a abordagem terapêutica recomendada.",
     "id": "EF0202",
-    "numero_ordem": 202
+    "numero_ordem": 202,
+    "resposta": "D",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('teste oral de tolerância à glicose (TOTG) com sobrecarga de 50g de glicose, realizado entre a 24ª e 28ª semana de gestação para diagnosticar diabetes gestacional') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q3199747",
@@ -683,7 +709,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('a queimadura é de segundo grau, com 18% da superfície corporal afetada, o que exige a administração de analgésicos e a reposição volêmica com solução de Ringer lactato, além de monitorar os sinais vitais e realizar curativos estéreis para evitar infecção') expressa a abordagem terapêutica recomendada.",
     "id": "EF0207",
-    "numero_ordem": 207
+    "numero_ordem": 207,
+    "resposta": "A",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('a queimadura é de segundo grau, com 18% da superfície corporal afetada, o que exige a administração de analgésicos e a reposição volêmica com solução de Ringer lactato, além de monitorar os sinais vitais e realizar curativos estéreis para evitar infecção') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q3199746",
@@ -732,7 +760,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('a PA está dentro dos limites normais para a faixa etária da criança, portanto, o profissional deve documentar os resultados e continuar com a avaliação sem a necessidade de intervenções adicionais') expressa a abordagem terapêutica recomendada.",
     "id": "EF0208",
-    "numero_ordem": 208
+    "numero_ordem": 208,
+    "resposta": "A",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('a PA está dentro dos limites normais para a faixa etária da criança, portanto, o profissional deve documentar os resultados e continuar com a avaliação sem a necessidade de intervenções adicionais') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q3197486",
@@ -781,7 +811,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('a implementação do uso de dispositivos de segurança com mecanismo de proteção, como agulhas autosselantes') expressa a abordagem terapêutica recomendada.",
     "id": "EF0218",
-    "numero_ordem": 218
+    "numero_ordem": 218,
+    "resposta": "C",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('a implementação do uso de dispositivos de segurança com mecanismo de proteção, como agulhas autosselantes') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q3184824",
@@ -830,7 +862,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('idade avançada') expressa a abordagem terapêutica recomendada.",
     "id": "EF0241",
-    "numero_ordem": 241
+    "numero_ordem": 241,
+    "resposta": "A",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('idade avançada') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q2528690",
@@ -887,7 +921,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('160 x 100 mmHg') expressa a abordagem terapêutica recomendada.",
     "id": "EF0257",
-    "numero_ordem": 257
+    "numero_ordem": 257,
+    "resposta": "C",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('160 x 100 mmHg') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q2480407",
@@ -944,7 +980,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('Estatuto da Criança e do Adolescente') expressa a abordagem terapêutica recomendada.",
     "id": "EF0289",
-    "numero_ordem": 289
+    "numero_ordem": 289,
+    "resposta": "B",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('Estatuto da Criança e do Adolescente') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q2480406",
@@ -1001,7 +1039,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [E] ('síndrome respiratória aguda grave') expressa a abordagem terapêutica recomendada.",
     "id": "EF0290",
-    "numero_ordem": 290
+    "numero_ordem": 290,
+    "resposta": "E",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [E] ('síndrome respiratória aguda grave') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q2480402",
@@ -1058,7 +1098,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('tumor, linfonodo, metástase') expressa a abordagem terapêutica recomendada.",
     "id": "EF0294",
-    "numero_ordem": 294
+    "numero_ordem": 294,
+    "resposta": "C",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('tumor, linfonodo, metástase') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q2467339",
@@ -1107,7 +1149,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('pressão arterial normal') expressa a abordagem terapêutica recomendada.",
     "id": "EF0381",
-    "numero_ordem": 381
+    "numero_ordem": 381,
+    "resposta": "B",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('pressão arterial normal') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q2454937",
@@ -1156,7 +1200,9 @@ export const questoes = [
     ],
     "comentario": "Com base na Constituição Federal de 1988 (Artigos 196 a 200) e nas Leis Orgânicas da Saúde nº 8.080/1990 e 8.142/1990, o SUS rege-se pelos princípios doutrinários de Universalidade, Integralidade e Equidade, somados às diretrizes organizativas de Descentralização, Regionalização e Participação da Comunidade. A alternativa [B] ('doença renal crônica') fundamenta-se nos preceitos constitucionais e infraconstitucionais vigentes.",
     "id": "EF0395",
-    "numero_ordem": 395
+    "numero_ordem": 395,
+    "resposta": "B",
+    "explicacao": "Com base na Constituição Federal de 1988 (Artigos 196 a 200) e nas Leis Orgânicas da Saúde nº 8.080/1990 e 8.142/1990, o SUS rege-se pelos princípios doutrinários de Universalidade, Integralidade e Equidade, somados às diretrizes organizativas de Descentralização, Regionalização e Participação da Comunidade. A alternativa [B] ('doença renal crônica') fundamenta-se nos preceitos constitucionais e infraconstitucionais vigentes."
   },
   {
     "codigo_origem": "Q2454923",
@@ -1205,7 +1251,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('Monitorização Ambulatorial da Pressão Arterial') expressa a abordagem terapêutica recomendada.",
     "id": "EF0409",
-    "numero_ordem": 409
+    "numero_ordem": 409,
+    "resposta": "B",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('Monitorização Ambulatorial da Pressão Arterial') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q2453005",
@@ -1254,7 +1302,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('tabagismo, colesterol em excesso, hipertensão, obesidade, estresse, depressão e diabetes') expressa a abordagem terapêutica recomendada.",
     "id": "EF0412",
-    "numero_ordem": 412
+    "numero_ordem": 412,
+    "resposta": "A",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('tabagismo, colesterol em excesso, hipertensão, obesidade, estresse, depressão e diabetes') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q3674525",
@@ -1303,7 +1353,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('05 a 10 minutos') expressa a abordagem terapêutica recomendada.",
     "id": "EF0441",
-    "numero_ordem": 441
+    "numero_ordem": 441,
+    "resposta": "D",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('05 a 10 minutos') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q2342292",
@@ -1352,7 +1404,9 @@ export const questoes = [
     ],
     "comentario": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco e Atenção ao Parto e Puerpério (Ministério da Saúde), a assistência obstétrica de enfermagem visa à humanização do cuidado, vigilância materno-fetal qualificada e identificação precoce de intercorrências. A alternativa [B] ('75 gramas') descreve a conduta clínica e preventiva preconizada.",
     "id": "EF0470",
-    "numero_ordem": 470
+    "numero_ordem": 470,
+    "resposta": "B",
+    "explicacao": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco e Atenção ao Parto e Puerpério (Ministério da Saúde), a assistência obstétrica de enfermagem visa à humanização do cuidado, vigilância materno-fetal qualificada e identificação precoce de intercorrências. A alternativa [B] ('75 gramas') descreve a conduta clínica e preventiva preconizada."
   },
   {
     "codigo_origem": "Q2342291",
@@ -1401,7 +1455,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('<') expressa a abordagem terapêutica recomendada.",
     "id": "EF0471",
-    "numero_ordem": 471
+    "numero_ordem": 471,
+    "resposta": "C",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('<') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q2342290",
@@ -1450,7 +1506,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('10 minutos, a contar do início da triagem') expressa a abordagem terapêutica recomendada.",
     "id": "EF0472",
-    "numero_ordem": 472
+    "numero_ordem": 472,
+    "resposta": "B",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('10 minutos, a contar do início da triagem') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q2341542",
@@ -1499,7 +1557,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('ações de instrução aos trabalhadores da empresa sobre segurança no trabalho e melhores maneiras de evitar e prevenir-se de acidentes') expressa a abordagem terapêutica recomendada.",
     "id": "EF0500",
-    "numero_ordem": 500
+    "numero_ordem": 500,
+    "resposta": "A",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('ações de instrução aos trabalhadores da empresa sobre segurança no trabalho e melhores maneiras de evitar e prevenir-se de acidentes') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q2325291",
@@ -1548,7 +1608,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('4 gramas, via intravenosa diluída em água bi-destilada ou solução salina 0,9% 100 mL com tempo de infusão rigoroso de 15 minutos') expressa a abordagem terapêutica recomendada.",
     "id": "EF0504",
-    "numero_ordem": 504
+    "numero_ordem": 504,
+    "resposta": "A",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('4 gramas, via intravenosa diluída em água bi-destilada ou solução salina 0,9% 100 mL com tempo de infusão rigoroso de 15 minutos') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q2310579",
@@ -1597,7 +1659,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('hipertermia, corticoides, acidoses e fosfatos orgânicos') expressa a abordagem terapêutica recomendada.",
     "id": "EF0535",
-    "numero_ordem": 535
+    "numero_ordem": 535,
+    "resposta": "A",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('hipertermia, corticoides, acidoses e fosfatos orgânicos') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q2297117",
@@ -1646,7 +1710,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('braquiterapia') expressa a abordagem terapêutica recomendada.",
     "id": "EF0551",
-    "numero_ordem": 551
+    "numero_ordem": 551,
+    "resposta": "C",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('braquiterapia') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q2024554",
@@ -1695,7 +1761,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('afebril, bradicárdico e normotenso') expressa a abordagem terapêutica recomendada.",
     "id": "EF0606",
-    "numero_ordem": 606
+    "numero_ordem": 606,
+    "resposta": "A",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('afebril, bradicárdico e normotenso') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q2024551",
@@ -1744,7 +1812,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('convergente') expressa a abordagem terapêutica recomendada.",
     "id": "EF0608",
-    "numero_ordem": 608
+    "numero_ordem": 608,
+    "resposta": "C",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('convergente') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q1956076",
@@ -1793,7 +1863,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('deambulação precoce sempre que possível ou outras medidas de prevenção de trombose venosa profunda') expressa a abordagem terapêutica recomendada.",
     "id": "EF0623",
-    "numero_ordem": 623
+    "numero_ordem": 623,
+    "resposta": "A",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('deambulação precoce sempre que possível ou outras medidas de prevenção de trombose venosa profunda') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q1953170",
@@ -1842,7 +1914,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('Tipo 1') expressa a abordagem terapêutica recomendada.",
     "id": "EF0634",
-    "numero_ordem": 634
+    "numero_ordem": 634,
+    "resposta": "A",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('Tipo 1') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q1953164",
@@ -1891,7 +1965,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('sinal de Homans e Bandeira') expressa a abordagem terapêutica recomendada.",
     "id": "EF0640",
-    "numero_ordem": 640
+    "numero_ordem": 640,
+    "resposta": "D",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('sinal de Homans e Bandeira') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q1953163",
@@ -1940,7 +2016,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('pressão arterial sistólica do tornozelo e pressão arterial sistólica do braço') expressa a abordagem terapêutica recomendada.",
     "id": "EF0641",
-    "numero_ordem": 641
+    "numero_ordem": 641,
+    "resposta": "A",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('pressão arterial sistólica do tornozelo e pressão arterial sistólica do braço') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q1313704",
@@ -1989,7 +2067,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('Turner') expressa a abordagem terapêutica recomendada.",
     "id": "EF0712",
-    "numero_ordem": 712
+    "numero_ordem": 712,
+    "resposta": "C",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('Turner') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q1313703",
@@ -2038,7 +2118,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('palpitações, taquicardia, falta de ar e dor no peito') expressa a abordagem terapêutica recomendada.",
     "id": "EF0713",
-    "numero_ordem": 713
+    "numero_ordem": 713,
+    "resposta": "A",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('palpitações, taquicardia, falta de ar e dor no peito') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q1313699",
@@ -2087,7 +2169,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('a criança apresenta leve taquipneia ou diaforese na alimentação em lactentes; dispneia aos exercícios em crianças maiores') expressa a abordagem terapêutica recomendada.",
     "id": "EF0717",
-    "numero_ordem": 717
+    "numero_ordem": 717,
+    "resposta": "C",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('a criança apresenta leve taquipneia ou diaforese na alimentação em lactentes; dispneia aos exercícios em crianças maiores') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q2710371",
@@ -2136,7 +2220,9 @@ export const questoes = [
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('turnover') apresenta a resposta matemática e clínica correta.",
     "id": "EF0746",
-    "numero_ordem": 746
+    "numero_ordem": 746,
+    "resposta": "C",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('turnover') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q2698335",
@@ -2185,7 +2271,9 @@ export const questoes = [
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('metformina') apresenta a resposta matemática e clínica correta.",
     "id": "EF0765",
-    "numero_ordem": 765
+    "numero_ordem": 765,
+    "resposta": "B",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('metformina') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q1242249",
@@ -2234,7 +2322,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('tipo 1') expressa a abordagem terapêutica recomendada.",
     "id": "EF0796",
-    "numero_ordem": 796
+    "numero_ordem": 796,
+    "resposta": "A",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('tipo 1') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q1242242",
@@ -2283,7 +2373,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('temperatura, fármacos, hemorragia e exercício') expressa a abordagem terapêutica recomendada.",
     "id": "EF0803",
-    "numero_ordem": 803
+    "numero_ordem": 803,
+    "resposta": "D",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('temperatura, fármacos, hemorragia e exercício') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q3884082",
@@ -2332,7 +2424,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('glicemia de jejum ≥ 126 mg/dL confirmada em repetição em outro dia') expressa a abordagem terapêutica recomendada.",
     "id": "EF0825",
-    "numero_ordem": 825
+    "numero_ordem": 825,
+    "resposta": "D",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('glicemia de jejum ≥ 126 mg/dL confirmada em repetição em outro dia') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q3884073",
@@ -2381,7 +2475,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('entre 140-159 mmHg e/ou diastólica entre 90-99 mmHg') expressa a abordagem terapêutica recomendada.",
     "id": "EF0834",
-    "numero_ordem": 834
+    "numero_ordem": 834,
+    "resposta": "D",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('entre 140-159 mmHg e/ou diastólica entre 90-99 mmHg') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q3810639",
@@ -2430,7 +2526,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('suspender a transfusão e manter acesso venoso com solução fisiológica') expressa a abordagem terapêutica recomendada.",
     "id": "EF0843",
-    "numero_ordem": 843
+    "numero_ordem": 843,
+    "resposta": "A",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('suspender a transfusão e manter acesso venoso com solução fisiológica') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q3810638",
@@ -2479,7 +2577,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('realizar previamente a técnica palpatória para estimar a pressão sistólica real') expressa a abordagem terapêutica recomendada.",
     "id": "EF0844",
-    "numero_ordem": 844
+    "numero_ordem": 844,
+    "resposta": "D",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('realizar previamente a técnica palpatória para estimar a pressão sistólica real') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q1971268",
@@ -2536,7 +2636,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('o tremor.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0011",
-    "numero_ordem": 11
+    "numero_ordem": 11,
+    "resposta": "B",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('o tremor.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q1971263",
@@ -2593,7 +2695,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('Provisão.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0016",
-    "numero_ordem": 16
+    "numero_ordem": 16,
+    "resposta": "D",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('Provisão.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q1971257",
@@ -2650,7 +2754,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('Risco de síndrome do idoso frágil.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0022",
-    "numero_ordem": 22
+    "numero_ordem": 22,
+    "resposta": "B",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('Risco de síndrome do idoso frágil.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q1970071",
@@ -2707,7 +2813,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('combinação da probabilidade de ocorrer lesão ou agravo à saúde causados por um evento perigoso, exposição a agente nocivo ou exigência da atividade de trabalho e da severidade dessa lesão ou agravo à saúde.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0030",
-    "numero_ordem": 30
+    "numero_ordem": 30,
+    "resposta": "D",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('combinação da probabilidade de ocorrer lesão ou agravo à saúde causados por um evento perigoso, exposição a agente nocivo ou exigência da atividade de trabalho e da severidade dessa lesão ou agravo à saúde.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q1970050",
@@ -2764,7 +2872,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('cristalino.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0048",
-    "numero_ordem": 48
+    "numero_ordem": 48,
+    "resposta": "B",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('cristalino.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q1970048",
@@ -2821,7 +2931,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('Em caso de combinação de dois tipos de insulina, primeiro aspirar a insulina de ação curta (regular) e em seguida a insulina de ação intermediária (NPH).') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0050",
-    "numero_ordem": 50
+    "numero_ordem": 50,
+    "resposta": "D",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('Em caso de combinação de dois tipos de insulina, primeiro aspirar a insulina de ação curta (regular) e em seguida a insulina de ação intermediária (NPH).') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q1970042",
@@ -2878,7 +2990,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('evitar caminhar descalço.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0056",
-    "numero_ordem": 56
+    "numero_ordem": 56,
+    "resposta": "B",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('evitar caminhar descalço.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q1309018",
@@ -2935,7 +3049,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('reflete os níveis médios de glicemia ocorridos nos últimos dois a três meses.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0092",
-    "numero_ordem": 92
+    "numero_ordem": 92,
+    "resposta": "D",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('reflete os níveis médios de glicemia ocorridos nos últimos dois a três meses.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q1309013",
@@ -2992,7 +3108,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('inatividade física, alimentação não saudável, tabagismo e álcool.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0097",
-    "numero_ordem": 97
+    "numero_ordem": 97,
+    "resposta": "A",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('inatividade física, alimentação não saudável, tabagismo e álcool.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q1252247",
@@ -3049,7 +3167,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('I, II e III.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0157",
-    "numero_ordem": 157
+    "numero_ordem": 157,
+    "resposta": "C",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('I, II e III.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q1252167",
@@ -3106,7 +3226,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('uma das complicações refere-se à possibilidade da ocorrência de tromboembolismo pulmonar.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0181",
-    "numero_ordem": 181
+    "numero_ordem": 181,
+    "resposta": "C",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('uma das complicações refere-se à possibilidade da ocorrência de tromboembolismo pulmonar.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q4155351",
@@ -3163,7 +3285,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('a Folha de Verificação (checklist).') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0217",
-    "numero_ordem": 217
+    "numero_ordem": 217,
+    "resposta": "B",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('a Folha de Verificação (checklist).') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q1129530",
@@ -3220,7 +3344,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('quando a região escolhida for escassa de tecido subcutâneo, independente do comprimento da agulha usada, seja feita a prega subcutânea.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0243",
-    "numero_ordem": 243
+    "numero_ordem": 243,
+    "resposta": "D",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('quando a região escolhida for escassa de tecido subcutâneo, independente do comprimento da agulha usada, seja feita a prega subcutânea.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q1023306",
@@ -3277,7 +3403,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('os modelos de cuidado baseados na excelência do desempenho individual e independente, para modelos de cuidado realizado por equipe profissional interdependente, colaborativa e interprofissional.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0270",
-    "numero_ordem": 270
+    "numero_ordem": 270,
+    "resposta": "A",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('os modelos de cuidado baseados na excelência do desempenho individual e independente, para modelos de cuidado realizado por equipe profissional interdependente, colaborativa e interprofissional.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q1023305",
@@ -3334,7 +3462,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [E] ('maior importância, valor ou quantidade, correspondendo a 20% do total − podem ser itens do estoque com uma demanda média de 65% num dado período.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0271",
-    "numero_ordem": 271
+    "numero_ordem": 271,
+    "resposta": "E",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [E] ('maior importância, valor ou quantidade, correspondendo a 20% do total − podem ser itens do estoque com uma demanda média de 65% num dado período.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q951484",
@@ -3391,7 +3521,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('insumos.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0279",
-    "numero_ordem": 279
+    "numero_ordem": 279,
+    "resposta": "A",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('insumos.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q935891",
@@ -3448,7 +3580,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [E] ('da Creatinina sérica.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0310",
-    "numero_ordem": 310
+    "numero_ordem": 310,
+    "resposta": "E",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [E] ('da Creatinina sérica.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q935885",
@@ -3505,7 +3639,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('do consumo mensal dos setores.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0315",
-    "numero_ordem": 315
+    "numero_ordem": 315,
+    "resposta": "C",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('do consumo mensal dos setores.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q935884",
@@ -3562,7 +3698,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('satisfação dos participantes.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0316",
-    "numero_ordem": 316
+    "numero_ordem": 316,
+    "resposta": "A",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('satisfação dos participantes.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q932736",
@@ -3619,7 +3757,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('estar alerta para as necessidades de reclassificação da mulher enquanto aguardam atendimento.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0351",
-    "numero_ordem": 351
+    "numero_ordem": 351,
+    "resposta": "D",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('estar alerta para as necessidades de reclassificação da mulher enquanto aguardam atendimento.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q932734",
@@ -3676,7 +3816,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('sífilis secundária.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0353",
-    "numero_ordem": 353
+    "numero_ordem": 353,
+    "resposta": "B",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('sífilis secundária.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q932732",
@@ -3733,7 +3875,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('não utilizar sapatos novos por períodos prolongados e, antes de utilizá-los rotineiramente, amaciá-los por meio do uso por pequenos períodos de tempo.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0355",
-    "numero_ordem": 355
+    "numero_ordem": 355,
+    "resposta": "A",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('não utilizar sapatos novos por períodos prolongados e, antes de utilizá-los rotineiramente, amaciá-los por meio do uso por pequenos períodos de tempo.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q932728",
@@ -3790,7 +3934,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('rastreabilidade.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0357",
-    "numero_ordem": 357
+    "numero_ordem": 357,
+    "resposta": "A",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('rastreabilidade.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q931015",
@@ -3847,7 +3993,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('Deixar o paciente em repouso de 3 a 5 minutos em ambiente calmo, antes de medir a PA.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0379",
-    "numero_ordem": 379
+    "numero_ordem": 379,
+    "resposta": "B",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('Deixar o paciente em repouso de 3 a 5 minutos em ambiente calmo, antes de medir a PA.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q931011",
@@ -3904,7 +4052,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [E] ('o uso do carimbo pelos profissionais de enfermagem é facultativo.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0383",
-    "numero_ordem": 383
+    "numero_ordem": 383,
+    "resposta": "E",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [E] ('o uso do carimbo pelos profissionais de enfermagem é facultativo.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q931007",
@@ -3961,7 +4111,9 @@ export const questoes = [
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('I e II, apenas.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0387",
-    "numero_ordem": 387
+    "numero_ordem": 387,
+    "resposta": "A",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('I e II, apenas.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q930999",
@@ -4018,7 +4170,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('I, II, III e IV.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0395",
-    "numero_ordem": 395
+    "numero_ordem": 395,
+    "resposta": "C",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('I, II, III e IV.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q920292",
@@ -4075,7 +4229,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('embolia pulmonar, observando sinais como dispneia, cianose, sudorese e pulso rápido.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0419",
-    "numero_ordem": 419
+    "numero_ordem": 419,
+    "resposta": "C",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('embolia pulmonar, observando sinais como dispneia, cianose, sudorese e pulso rápido.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q920291",
@@ -4132,7 +4288,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [E] ('determinar a PAS pela ausculta do primeiro som (fase I de Korotko\") e, após, aumentar ligeiramente a velocidade de deflação.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0420",
-    "numero_ordem": 420
+    "numero_ordem": 420,
+    "resposta": "E",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [E] ('determinar a PAS pela ausculta do primeiro som (fase I de Korotko\") e, após, aumentar ligeiramente a velocidade de deflação.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q920288",
@@ -4189,7 +4347,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('realizar o autoexame diário do pé, objetivando a identificação de modificações, como a mudança de cor e edema.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0422",
-    "numero_ordem": 422
+    "numero_ordem": 422,
+    "resposta": "B",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('realizar o autoexame diário do pé, objetivando a identificação de modificações, como a mudança de cor e edema.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q918184",
@@ -4246,7 +4406,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('fundoscopia designa o exame de fundo de olho.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0470",
-    "numero_ordem": 470
+    "numero_ordem": 470,
+    "resposta": "A",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('fundoscopia designa o exame de fundo de olho.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q839925",
@@ -4303,7 +4465,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('uma norma.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0518",
-    "numero_ordem": 518
+    "numero_ordem": 518,
+    "resposta": "B",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('uma norma.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q1337374",
@@ -4360,7 +4524,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('I, II e III.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0616",
-    "numero_ordem": 616
+    "numero_ordem": 616,
+    "resposta": "D",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('I, II e III.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q1337365",
@@ -4417,7 +4583,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [E] ('temperatura e respiração.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0625",
-    "numero_ordem": 625
+    "numero_ordem": 625,
+    "resposta": "E",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [E] ('temperatura e respiração.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q771957",
@@ -4474,7 +4642,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('limpeza com soro fisiológico morno e uso de pinças estéreis devido à exposição de tecidos nobres.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0655",
-    "numero_ordem": 655
+    "numero_ordem": 655,
+    "resposta": "B",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('limpeza com soro fisiológico morno e uso de pinças estéreis devido à exposição de tecidos nobres.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q764320",
@@ -4531,7 +4701,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('encaminhar os pacientes para consulta médica, após a verificação da adesão ao tratamento.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0671",
-    "numero_ordem": 671
+    "numero_ordem": 671,
+    "resposta": "B",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('encaminhar os pacientes para consulta médica, após a verificação da adesão ao tratamento.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q764308",
@@ -4588,7 +4760,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('explicar o procedimento ao paciente e deixá-lo em repouso por 5 minutos em ambiente calmo.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0683",
-    "numero_ordem": 683
+    "numero_ordem": 683,
+    "resposta": "B",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('explicar o procedimento ao paciente e deixá-lo em repouso por 5 minutos em ambiente calmo.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q764304",
@@ -4645,7 +4819,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('III, I, II, IV e V.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0687",
-    "numero_ordem": 687
+    "numero_ordem": 687,
+    "resposta": "B",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('III, I, II, IV e V.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q764299",
@@ -4702,7 +4878,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('Parceria e Propriedade.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0691",
-    "numero_ordem": 691
+    "numero_ordem": 691,
+    "resposta": "C",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('Parceria e Propriedade.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q763961",
@@ -4759,7 +4937,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('as tiras reagentes devem ser armazenadas apenas na embalagem original com temperatura que pode variar de 2 a 30 graus.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0714",
-    "numero_ordem": 714
+    "numero_ordem": 714,
+    "resposta": "B",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('as tiras reagentes devem ser armazenadas apenas na embalagem original com temperatura que pode variar de 2 a 30 graus.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q763958",
@@ -4816,7 +4996,9 @@ export const questoes = [
     ],
     "comentario": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco e Atenção ao Parto e Puerpério (Ministério da Saúde), a assistência obstétrica de enfermagem visa à humanização do cuidado, vigilância materno-fetal qualificada e identificação precoce de intercorrências. A alternativa [E] ('náusea e/ou vômitos e palpitações.') descreve a conduta clínica e preventiva preconizada.",
     "id": "FCC_ENF0717",
-    "numero_ordem": 717
+    "numero_ordem": 717,
+    "resposta": "E",
+    "explicacao": "Segundo as Diretrizes Nacionais de Assistência ao Pré-Natal de Baixo Risco e Atenção ao Parto e Puerpério (Ministério da Saúde), a assistência obstétrica de enfermagem visa à humanização do cuidado, vigilância materno-fetal qualificada e identificação precoce de intercorrências. A alternativa [E] ('náusea e/ou vômitos e palpitações.') descreve a conduta clínica e preventiva preconizada."
   },
   {
     "codigo_origem": "Q615925",
@@ -4873,7 +5055,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('a média de duas aferições deve ser considerada como a pressão arterial do dia; se os valores observados diferirem em mais de 5 mmHg, medir novamente.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0740",
-    "numero_ordem": 740
+    "numero_ordem": 740,
+    "resposta": "D",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('a média de duas aferições deve ser considerada como a pressão arterial do dia; se os valores observados diferirem em mais de 5 mmHg, medir novamente.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q615922",
@@ -4930,7 +5114,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('antecedente familiar de diabetes.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0743",
-    "numero_ordem": 743
+    "numero_ordem": 743,
+    "resposta": "B",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('antecedente familiar de diabetes.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q615912",
@@ -4987,7 +5173,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [E] ('no primeiro dia.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0753",
-    "numero_ordem": 753
+    "numero_ordem": 753,
+    "resposta": "E",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [E] ('no primeiro dia.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q615907",
@@ -5044,7 +5232,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('realizar atividade física.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0758",
-    "numero_ordem": 758
+    "numero_ordem": 758,
+    "resposta": "A",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('realizar atividade física.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q2723480",
@@ -5101,7 +5291,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('psicossociais.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0789",
-    "numero_ordem": 789
+    "numero_ordem": 789,
+    "resposta": "B",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('psicossociais.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q2099268",
@@ -5158,7 +5350,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('Ergonômica do Trabalho.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0801",
-    "numero_ordem": 801
+    "numero_ordem": 801,
+    "resposta": "A",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('Ergonômica do Trabalho.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q2099267",
@@ -5215,7 +5409,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('a possibilidade de exposição.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0802",
-    "numero_ordem": 802
+    "numero_ordem": 802,
+    "resposta": "B",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('a possibilidade de exposição.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q2099262",
@@ -5272,7 +5468,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('elimina quantidades excessivas de urina nas 24 horas.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0807",
-    "numero_ordem": 807
+    "numero_ordem": 807,
+    "resposta": "A",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('elimina quantidades excessivas de urina nas 24 horas.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q2099252",
@@ -5329,7 +5527,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('provisão.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0817",
-    "numero_ordem": 817
+    "numero_ordem": 817,
+    "resposta": "C",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [C] ('provisão.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q2118830",
@@ -5386,7 +5586,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [E] ('segundo grau.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0820",
-    "numero_ordem": 820
+    "numero_ordem": 820,
+    "resposta": "E",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [E] ('segundo grau.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q2108287",
@@ -5443,7 +5645,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('do Serviço Especializado em Engenharia de Segurança e em Medicina do Trabalho.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0863",
-    "numero_ordem": 863
+    "numero_ordem": 863,
+    "resposta": "D",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [D] ('do Serviço Especializado em Engenharia de Segurança e em Medicina do Trabalho.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q2108278",
@@ -5500,7 +5704,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('deitada, sentada e em pé.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0870",
-    "numero_ordem": 870
+    "numero_ordem": 870,
+    "resposta": "A",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [A] ('deitada, sentada e em pé.') expressa a abordagem terapêutica recomendada."
   },
   {
     "codigo_origem": "Q4156602",
@@ -5557,7 +5763,9 @@ export const questoes = [
     ],
     "comentario": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('menor que 100 mg/dL.') expressa a abordagem terapêutica recomendada.",
     "id": "FCC_ENF0893",
-    "numero_ordem": 893
+    "numero_ordem": 893,
+    "resposta": "B",
+    "explicacao": "Conforme as Linhas de Cuidado das Doenças Crônicas Não Transmissíveis do Ministério da Saúde e consensos da Sociedade Brasileira de Diabetes (SBD) e de Cardiologia (SBC), o rastreamento longitudinal, controle de fatores de risco e estratificação clínica norteiam o plano de cuidados de enfermagem. A alternativa [B] ('menor que 100 mg/dL.') expressa a abordagem terapêutica recomendada."
   }
 ];
 export default questoes;

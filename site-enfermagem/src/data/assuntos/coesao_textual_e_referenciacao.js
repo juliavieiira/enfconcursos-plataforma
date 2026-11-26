@@ -1,2 +1,2117 @@
-// Chunk gerado automaticamente para Coesão Textual e Referenciação (44 questões)
-export default [{"codigo_origem": "Q4432454", "numero_original": 2, "banca": "SELECON", "orgao": "Prefeitura de Nova Mutum - MT", "ano": 2026, "prova": "SELECON - 2026 - Prefeitura de Nova Mutum - MT - Agente", "cargo": "Agente", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "assunto_detalhado": "Interpretação de Textos , Coesão e coerência , Noções Gerais de Compreensão e Interpretação de Texto", "enunciado": "A expressão “Esses profissionais” (7º parágrafo) retoma os:", "alternativas": [{"id": "A", "texto": "especialistas de Harvard citados anteriormente"}, {"id": "B", "texto": "autores dos estudos sobre treinamento de força"}, {"id": "C", "texto": "adultos mais velhos mencionados anteriormente"}, {"id": "D", "texto": "integrantes da OMS que estabeleceram os minutos semanais https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 1/8 21/11/2026, 11:06 3 Questões de Provas - Questões de Concursos | Qconcursos.com"}], "resposta_correta": "A", "id": "LP0002", "numero_ordem": 2, "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [A] ('especialistas de Harvard citados anteriormente') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.", "analise_distratores": [{"letra": "B", "motivo": "Incorreta, pois a assertiva 'autores dos estudos sobre treinamento de força' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "C", "motivo": "Incorreta, pois a assertiva 'adultos mais velhos mencionados anteriormente' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "D", "motivo": "Incorreta, pois a assertiva 'integrantes da OMS que estabeleceram os minutos se...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [A]** — *especialistas de Harvard citados anteriormente*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [A] ('especialistas de Harvard citados anteriormente') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [B]:** Incorreta, pois a assertiva 'autores dos estudos sobre treinamento de força' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'adultos mais velhos mencionados anteriormente' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'integrantes da OMS que estabeleceram os minutos se...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"}, {"codigo_origem": "Q4400007", "numero_original": 14, "banca": "SELECON", "orgao": "Prefeitura de Barra do Bugres - MT", "ano": 2026, "prova": "SELECON - 2026 - Prefeitura de Barra do Bugres - MT -", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "assunto_detalhado": "Interpretação de Textos , Coesão e coerência , Noções Gerais de Compreensão e Interpretação de Texto", "enunciado": "No primeiro parágrafo, a expressão “uma sequência de notícias” ganha sentido mais preciso quando se considera que o texto:", "alternativas": [{"id": "A", "texto": "reúne informações antigas sobre a formação do Deep Purple"}, {"id": "B", "texto": "compara a atuação de diferentes músicos do cenário do rock"}, {"id": "C", "texto": "apresenta opiniões divergentes sobre a trajetória musical da banda"}, {"id": "D", "texto": "articula diferentes acontecimentos recentes relacionados ao Deep Purple 15"}], "resposta_correta": "D", "id": "LP0014", "numero_ordem": 14, "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [D] ('articula diferentes acontecimentos recentes relacionados ao Deep Purple 15') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta, pois a assertiva 'reúne informações antigas sobre a formação do Deep...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "B", "motivo": "Incorreta, pois a assertiva 'compara a atuação de diferentes músicos do cenário...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "C", "motivo": "Incorreta, pois a assertiva 'apresenta opiniões divergentes sobre a trajetória ...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [D]** — *articula diferentes acontecimentos recentes relacionados ao Deep Purple 15*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [D] ('articula diferentes acontecimentos recentes relacionados ao Deep Purple 15') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'reúne informações antigas sobre a formação do Deep...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [B]:** Incorreta, pois a assertiva 'compara a atuação de diferentes músicos do cenário...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'apresenta opiniões divergentes sobre a trajetória ...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"}, {"codigo_origem": "Q4394438", "numero_original": 26, "banca": "SELECON", "orgao": "Prefeitura de Sapezal - MT", "ano": 2026, "prova": "SELECON - 2026 - Prefeitura de Sapezal - MT - Secretário Escolar", "cargo": "Secretário Escolar", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "assunto_detalhado": "Interpretação de Textos , Coesão e coerência , Noções Gerais de Compreensão e Interpretação de Texto", "enunciado": "... Em relação ao desenvolvimento do texto, o título “Anvisa atualiza regras sanitárias para aeroportos e aviões”:", "alternativas": [{"id": "A", "texto": "restringe o assunto às aeronaves comerciais"}, {"id": "B", "texto": "antecipa a revogação de todos os controles anteriores"}, {"id": "C", "texto": "sintetiza o foco da atualização normativa apresentada no texto"}, {"id": "D", "texto": "destaca uma punição aplicada aos aeroportos de maior movimento https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examinin… 3/13 21/11/2026, 11:07 27 Questões de Provas - Questões de Concursos - Página 2 | Qconcursos.com"}], "resposta_correta": "C", "id": "LP0026", "numero_ordem": 26, "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [C] ('sintetiza o foco da atualização normativa apresentada no texto') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta, pois a assertiva 'restringe o assunto às aeronaves comerciais' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "B", "motivo": "Incorreta, pois a assertiva 'antecipa a revogação de todos os controles anterio...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "D", "motivo": "Incorreta, pois a assertiva 'destaca uma punição aplicada aos aeroportos de mai...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [C]** — *sintetiza o foco da atualização normativa apresentada no texto*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [C] ('sintetiza o foco da atualização normativa apresentada no texto') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'restringe o assunto às aeronaves comerciais' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [B]:** Incorreta, pois a assertiva 'antecipa a revogação de todos os controles anterio...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'destaca uma punição aplicada aos aeroportos de mai...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"}, {"codigo_origem": "Q4342868", "numero_original": 41, "banca": "SELECON", "orgao": "Prefeitura de Lucas do Rio Verde - MT", "ano": 2026, "prova": "SELECON - 2026 - Prefeitura de Lucas do Rio Verde -", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "assunto_detalhado": "Interpretação de Textos , Coesão e coerência , Noções Gerais de Compreensão e Interpretação de Texto", "enunciado": "Leia o texto a seguir. Nepal pede ação global contra aquecimento do clima após tragédia no Himalaia País quer apoio internacional para enfrentar incertezas climáticas e ampliar a resposta aos desastres O ministro nepalês dos Negócios Estrangeiros, Shisir Khanal, pediu neste sábado um esforço global para enfrentar as alterações climáticas. Segundo ele, o Nepal é uma das principais vítimas do aquecimento global, embora contribua com menos de 0,01% das emissões de gases de efeito estufa. A manifestação ocorre após o colapso de uma geleira no Himalaia, na última quarta-feira, que desencadeou uma enxurrada devastadora na fronteira entre o Nepal e o Tibete. O desastre deixou pelo menos 683 mortos e mais de 3 mil desaparecidos, ampliando a pressão sobre as autoridades locais e sobre a comunidade internacional. Shisir Khanal informou que o Nepal pretende analisar o ocorrido em um mecanismo conjunto com investigadores chineses. Ele disse ainda que as conversas para criar um sistema de alerta em áreas mais vulneráveis já estavam em andamento antes da tragédia desta semana. O correspondente ambiental da BBC, Navin Singh Khadka, avalia que, nos próximos dias, será possível entender melhor o peso das alterações climáticas no colapso da geleira. Estudos recentes apontam para um degelo acelerado no Himalaia, e um levantamento divulgado em março indica que as taxas de derretimento na região dobraram desde 2000. Fonte: https://www.jb.com.br/mundo/2026/08/1060747-nepal-pede-esforco-globalapos-colapso-de-geleira-no-himalaia.html. Acesso em 01/09/2026. Excerto. A ideia central desenvolvida no primeiro parágrafo permite concluir que a reivindicação do ministro nepalês se fundamenta na relação entre:", "alternativas": [{"id": "A", "texto": "baixa emissão de gases e elevada vulnerabilidade climática"}, {"id": "B", "texto": "limitada cooperação externa e acelerado crescimento industrial"}, {"id": "C", "texto": "grande emissão histórica de gases e reduzida exposição territorial"}, {"id": "D", "texto": "elevada responsabilidade ambiental e insuficiente capacidade científica https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 1/9 21/11/2026, 11:08 42 Questões de Provas - Questões de Concursos - Página 3 | Qconcursos.com"}], "resposta_correta": "A", "id": "LP0041", "numero_ordem": 41, "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [A] ('baixa emissão de gases e elevada vulnerabilidade climática') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.", "analise_distratores": [{"letra": "B", "motivo": "Incorreta, pois a assertiva 'limitada cooperação externa e acelerado cresciment...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "C", "motivo": "Incorreta, pois a assertiva 'grande emissão histórica de gases e reduzida expos...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "D", "motivo": "Incorreta, pois a assertiva 'elevada responsabilidade ambiental e insuficiente ...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [A]** — *baixa emissão de gases e elevada vulnerabilidade climática*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [A] ('baixa emissão de gases e elevada vulnerabilidade climática') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [B]:** Incorreta, pois a assertiva 'limitada cooperação externa e acelerado cresciment...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'grande emissão histórica de gases e reduzida expos...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'elevada responsabilidade ambiental e insuficiente ...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"}, {"codigo_origem": "Q4341767", "numero_original": 47, "banca": "SELECON", "orgao": "Prefeitura de Lucas do Rio Verde - MT", "ano": 2026, "prova": "SELECON - 2026 - Prefeitura de Lucas do Rio Verde -", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "assunto_detalhado": "Interpretação de Textos , Coesão e coerência , Noções Gerais de Compreensão e Interpretação de Texto", "enunciado": "MT - Técnico Administrativo Educacional - Área Monitoria e Área Secretaria - Secretaria de Educação A referência aos estados menos populosos, após a apresentação de São Paulo, Minas Gerais e Rio de Janeiro, produz no texto o efeito de:", "alternativas": [{"id": "A", "texto": "explicar as causas responsáveis pelo crescimento demográfico nacional"}, {"id": "B", "texto": "demonstrar que os estados brasileiros possuem populações equivalentes"}, {"id": "C", "texto": "substituir os dados anteriores por informações consideradas mais relevantes"}, {"id": "D", "texto": "ampliar a comparação entre diferentes extremos da distribuição populacional 48"}], "resposta_correta": "D", "id": "LP0047", "numero_ordem": 47, "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [D] ('ampliar a comparação entre diferentes extremos da distribuição populacional 48') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta, pois a assertiva 'explicar as causas responsáveis pelo crescimento d...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "B", "motivo": "Incorreta, pois a assertiva 'demonstrar que os estados brasileiros possuem popu...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "C", "motivo": "Incorreta, pois a assertiva 'substituir os dados anteriores por informações con...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [D]** — *ampliar a comparação entre diferentes extremos da distribuição populacional 48*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [D] ('ampliar a comparação entre diferentes extremos da distribuição populacional 48') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'explicar as causas responsáveis pelo crescimento d...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [B]:** Incorreta, pois a assertiva 'demonstrar que os estados brasileiros possuem popu...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'substituir os dados anteriores por informações con...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"}, {"codigo_origem": "Q4341765", "numero_original": 49, "banca": "SELECON", "orgao": "Prefeitura de Lucas do Rio Verde - MT", "ano": 2026, "prova": "SELECON - 2026 - Prefeitura de Lucas do Rio Verde -", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "assunto_detalhado": "Interpretação de Textos , Coesão e coerência , Noções Gerais de Compreensão e Interpretação de Texto", "enunciado": "MT - Técnico Administrativo Educacional - Área Monitoria e Área Secretaria - Secretaria de Educação A sequência das informações apresentadas nos dois primeiros parágrafos permite concluir que o texto:", "alternativas": [{"id": "A", "texto": "anuncia o dado principal e, em seguida, interpreta sua evolução recente"}, {"id": "B", "texto": "descreve dados históricos e, ao final, abandona a análise da situação atual"}, {"id": "C", "texto": "apresenta hipóteses iniciais e, depois, comprova integralmente suas previsões"}, {"id": "D", "texto": "compara estudos distintos e, posteriormente, questiona seus resultados principais"}], "resposta_correta": "A", "id": "LP0049", "numero_ordem": 49, "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [A] ('anuncia o dado principal e, em seguida, interpreta sua evolução recente') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.", "analise_distratores": [{"letra": "B", "motivo": "Incorreta, pois a assertiva 'descreve dados históricos e, ao final, abandona a ...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "C", "motivo": "Incorreta, pois a assertiva 'apresenta hipóteses iniciais e, depois, comprova i...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "D", "motivo": "Incorreta, pois a assertiva 'compara estudos distintos e, posteriormente, quest...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [A]** — *anuncia o dado principal e, em seguida, interpreta sua evolução recente*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [A] ('anuncia o dado principal e, em seguida, interpreta sua evolução recente') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [B]:** Incorreta, pois a assertiva 'descreve dados históricos e, ao final, abandona a ...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'apresenta hipóteses iniciais e, depois, comprova i...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'compara estudos distintos e, posteriormente, quest...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"}, {"codigo_origem": "Q4340093", "numero_original": 63, "banca": "SELECON", "orgao": "Prefeitura de Lucas do Rio Verde - MT", "ano": 2026, "prova": "SELECON - 2026 - Prefeitura de Lucas do Rio Verde -", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "assunto_detalhado": "Interpretação de Textos , Coesão e coerência , Noções Gerais de Compreensão e Interpretação de Texto", "enunciado": "De acordo com a organização cronológica dos acontecimentos, antes de Miguel subir ao sótão:", "alternativas": [{"id": "A", "texto": "os irmãos já haviam aberto juntos o baú antigo"}, {"id": "B", "texto": "Helena já havia encontrado a chave no livro do avô"}, {"id": "C", "texto": "Miguel já havia lido a mensagem escrita no caderno"}, {"id": "D", "texto": "Helena já havia descoberto as fotografias e as cartas"}], "resposta_correta": "B", "id": "LP0063", "numero_ordem": 63, "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('Helena já havia encontrado a chave no livro do avô') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta, pois a assertiva 'os irmãos já haviam aberto juntos o baú antigo' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "C", "motivo": "Incorreta, pois a assertiva 'Miguel já havia lido a mensagem escrita no caderno' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "D", "motivo": "Incorreta, pois a assertiva 'Helena já havia descoberto as fotografias e as car...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [B]** — *Helena já havia encontrado a chave no livro do avô*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('Helena já havia encontrado a chave no livro do avô') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'os irmãos já haviam aberto juntos o baú antigo' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'Miguel já havia lido a mensagem escrita no caderno' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'Helena já havia descoberto as fotografias e as car...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"}, {"codigo_origem": "Q4340089", "numero_original": 67, "banca": "SELECON", "orgao": "Prefeitura de Lucas do Rio Verde - MT", "ano": 2026, "prova": "SELECON - 2026 - Prefeitura de Lucas do Rio Verde -", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "assunto_detalhado": "Interpretação de Textos , Coesão e coerência , Noções Gerais de Compreensão e Interpretação de Texto", "enunciado": "“Dentro do baú, porém, não havia joias nem objetos valiosos” (4º parágrafo). Nesse trecho, a palavra em destaque introduz uma ideia de:", "alternativas": [{"id": "A", "texto": "oposição ao que se esperava encontrar"}, {"id": "B", "texto": "explicação para a origem dos objetos encontrados"}, {"id": "C", "texto": "conclusão acerca da descoberta realizada pelos irmãos"}, {"id": "D", "texto": "consequência imediata da abertura da fechadura do baú 68"}], "resposta_correta": "A", "id": "LP0067", "numero_ordem": 67, "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [A] ('oposição ao que se esperava encontrar') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.", "analise_distratores": [{"letra": "B", "motivo": "Incorreta, pois a assertiva 'explicação para a origem dos objetos encontrados' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "C", "motivo": "Incorreta, pois a assertiva 'conclusão acerca da descoberta realizada pelos irm...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "D", "motivo": "Incorreta, pois a assertiva 'consequência imediata da abertura da fechadura do ...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [A]** — *oposição ao que se esperava encontrar*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [A] ('oposição ao que se esperava encontrar') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [B]:** Incorreta, pois a assertiva 'explicação para a origem dos objetos encontrados' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'conclusão acerca da descoberta realizada pelos irm...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'consequência imediata da abertura da fechadura do ...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"}, {"codigo_origem": "Q4324793", "numero_original": 90, "banca": "SELECON", "orgao": "Prefeitura de Araçás - BA", "ano": 2026, "prova": "SELECON - 2026 - Prefeitura de Araçás - BA - Assistente", "cargo": "Assistente", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "assunto_detalhado": "Interpretação de Textos , Coesão e coerência , Noções Gerais de Compreensão e Interpretação de Texto", "enunciado": "“Caso haja algum valor, é preciso acessar o sistema e verificar quanto há para receber” (7º parágrafo). Nesse trecho, o conectivo em destaque estabelece sentido de:", "alternativas": [{"id": "A", "texto": "adição"}, {"id": "B", "texto": "condição"}, {"id": "C", "texto": "comparação"}, {"id": "D", "texto": "exemplificação 91"}], "resposta_correta": "B", "id": "LP0090", "numero_ordem": 90, "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('condição') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta, pois a assertiva 'adição' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "C", "motivo": "Incorreta, pois a assertiva 'comparação' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "D", "motivo": "Incorreta, pois a assertiva 'exemplificação 91' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [B]** — *condição*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('condição') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'adição' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'comparação' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'exemplificação 91' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"}, {"codigo_origem": "Q4324790", "numero_original": 93, "banca": "SELECON", "orgao": "Prefeitura de Araçás - BA", "ano": 2026, "prova": "SELECON - 2026 - Prefeitura de Araçás - BA - Assistente", "cargo": "Assistente", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "assunto_detalhado": "Interpretação de Textos , Coesão e coerência , Noções Gerais de Compreensão e Interpretação de Texto", "enunciado": "A partir das informações do texto, conclui-se que a transferência de parte dos recursos do SVR para o FGO:", "alternativas": [{"id": "A", "texto": "impediu o resgate dos valores pelos titulares"}, {"id": "B", "texto": "extinguiu o direito de reivindicação dos recursos"}, {"id": "C", "texto": "alterou o destino dos recursos, mas preservou a possibilidade de contestação"}, {"id": "D", "texto": "tornou definitiva a incorporação dos recursos ao fundo público independentemente da manifestação dos titulares"}], "resposta_correta": "C", "id": "LP0093", "numero_ordem": 93, "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [C] ('alterou o destino dos recursos, mas preservou a possibilidade de contestação') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta, pois a assertiva 'impediu o resgate dos valores pelos titulares' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "B", "motivo": "Incorreta, pois a assertiva 'extinguiu o direito de reivindicação dos recursos' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "D", "motivo": "Incorreta, pois a assertiva 'tornou definitiva a incorporação dos recursos ao f...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [C]** — *alterou o destino dos recursos, mas preservou a possibilidade de contestação*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [C] ('alterou o destino dos recursos, mas preservou a possibilidade de contestação') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'impediu o resgate dos valores pelos titulares' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [B]:** Incorreta, pois a assertiva 'extinguiu o direito de reivindicação dos recursos' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'tornou definitiva a incorporação dos recursos ao f...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"}, {"codigo_origem": "Q4322632", "numero_original": 101, "banca": "SELECON", "orgao": "Prefeitura de Araçás - BA", "ano": 2026, "prova": "SELECON - 2026 - Prefeitura de Araçás - BA - Auditor Tributário -", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "assunto_detalhado": "Interpretação de Textos , Coesão e coerência , Noções Gerais de Compreensão e Interpretação de Texto", "enunciado": "Leia o texto a seguir. Excesso de proteína pode trazer riscos à saúde, alertam especialistas Sophie Egan Se você andou pelos corredores de alimentos embalados de um supermercado recentemente, ou deu uma olhada nas atuais diretrizes alimentares dos Estados Unidos, pode ter ficado com a impressão de que, quando se trata de proteína, quanto mais, melhor. Cereais embalados, pipoca, mistura para panqueca e bebidas de café estão sendo enriquecidos com o nutriente. E a nova pirâmide alimentar invertida, que o governo Trump divulgou em janeiro, destaca a proteína de forma proeminente, com bife, frango e queijo no topo. Pesquisas sugerem que a maioria dos adultos americanos está consumindo muito mais proteína do que o necessário para uma boa saúde. Uma pesquisa de 2025 com 3.000 adultos americanos mostrou que 71% estavam tentando comer mais proteína. O percentual era de 59% em 2022. A proteína é um nutriente essencial. Mas [...] não é necessariamente melhor, diz Bettina Mittendorfer, professora de nutrição e fisiologia do exercício na Faculdade de Medicina da Universidade de Missouri. E em alguns casos, comer muito mais do que os especialistas em nutrição recomendam pode trazer alguns riscos. Não existe uma regra rígida sobre quanta proteína é demais, dizem os especialistas, e muitas pessoas podem exceder as quantidades recomendadas sem problemas. Mas problemas potenciais podem surgir quando as pessoas consomem muito mais do que cerca de 1,2 g de proteína por quilograma de peso corporal por dia, diz Mittendorfer. Doenças cardíacas e diabetes tipo 2 A maioria da proteína que os americanos consomem vem de carne e outros produtos de origem animal. Em um estudo publicado em 2021, pesquisadores do Departamento de Agricultura descobriram que alimentos de origem animal (incluindo carne bovina, frango e carnes curadas) representavam quase 70% do consumo de proteína das pessoas. Pesquisas sugerem que aqueles que consomem maiores quantidades de carne vermelha e processada tendem a ter riscos mais elevados de doenças cardíacas e diabetes tipo 2, diz Donald Hensrud, professor associado de nutrição e medicina preventiva na Faculdade de Medicina da Mayo Clinic. Em uma grande análise publicada em 2023, por exemplo, pesquisadores descobriram que comer 100g extras de carne vermelha (equivalente a cerca de uma costeleta de porco fina e desossada) por dia aumentava o risco de doenças cardíacas em 11% — e cada 50g adicionais de carne vermelha processada (equivalente a cerca de uma salsicha padrão) por dia aumentava em 26%. Outro estudo, também publicado em 2023, descobriu que entre os quase 217 mil participantes (majoritariamente mulheres), aqueles que consumiam mais carne vermelha tinham um risco 40% maior de desenvolver diabetes tipo 2 do que aqueles que consumiam menos, e que aqueles que consumiam mais carne vermelha processada tinham um risco 51% maior. Carnes vermelhas e processadas tendem a conter altos níveis de gorduras saturadas, que podem elevar os níveis sanguíneos de colesterol LDL (ou \"ruim\") e aumentar o risco de infarto e AVC. Esses alimentos também podem aumentar a inflamação e a resistência à insulina, diz Hensrud, o que também poderia elevar os riscos de doenças cardíacas e diabetes tipo 2. Fonte: https://www1.folha.uol.com.br/equilibrioesaude/2026/06/excessode-proteina-pode-trazer-riscos-a-saude-alertam-especialistas.shtml. Adaptado. Acesso em 03/06/2026 A tese central defendida no texto é a de que:", "alternativas": [{"id": "A", "texto": "o consumo de proteína deve ser eliminado da dieta de pessoas com risco cardiovascular"}, {"id": "B", "texto": "a proteína é um nutriente essencial, mas seu consumo excessivo, especialmente de fontes animais, pode representar riscos à saúde"}, {"id": "C", "texto": "as políticas alimentares do governo estadunidense contradizem frontalmente todas as pesquisas científicas sobre proteína disponíveis atualmente https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examinin… 2/10 21/11/2026, 11:09"}, {"id": "D", "texto": "Questões de Provas - Questões de Concursos - Página 6 | Qconcursos.com pesquisas recentes comprovam que qualquer quantidade de proteína acima da recomendação diária causa doenças cardíacas e diabetes tipo 2 102 Ano:"}], "resposta_correta": "B", "id": "LP0101", "numero_ordem": 101, "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('a proteína é um nutriente essencial, mas seu consumo excessivo, especialmente de fontes animais, pode representar riscos à saúde') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta, pois a assertiva 'o consumo de proteína deve ser eliminado da dieta ...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "C", "motivo": "Incorreta, pois a assertiva 'as políticas alimentares do governo estadunidense ...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "D", "motivo": "Incorreta, pois a assertiva 'Questões de Provas - Questões de Concursos - Págin...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [B]** — *a proteína é um nutriente essencial, mas seu consumo excessivo, especialmente de fontes animais, pode representar riscos à saúde*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('a proteína é um nutriente essencial, mas seu consumo excessivo, especialmente de fontes animais, pode representar riscos à saúde') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'o consumo de proteína deve ser eliminado da dieta ...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'as políticas alimentares do governo estadunidense ...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'Questões de Provas - Questões de Concursos - Págin...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"}, {"codigo_origem": "Q4251002", "numero_original": 111, "banca": "SELECON", "orgao": "Prefeitura de Conquista D'Oeste - MT", "ano": 2026, "prova": "SELECON - 2026 - Prefeitura de Conquista D'Oeste -", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "assunto_detalhado": "Interpretação de Textos , Coesão e coerência , Noções Gerais de Compreensão e Interpretação de Texto", "enunciado": "No trecho \"Ninguém enxerga ninguém. Só o aparelhinho\" (7º parágrafo), o termo em destaque retoma:", "alternativas": [{"id": "A", "texto": "os óculos de realidade virtual descritos implicitamente no parágrafo anterior"}, {"id": "B", "texto": "qualquer dispositivo eletrônico portátil, incluindo tablets e câmeras fotográficas"}, {"id": "C", "texto": "o celular, referido ao longo do texto como extensão do comportamento conectado"}, {"id": "D", "texto": "o iPad, mencionado no 3º parágrafo, como símbolo do entretenimento digital infantil 112 Ano:"}], "resposta_correta": "C", "id": "LP0111", "numero_ordem": 111, "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [C] ('o celular, referido ao longo do texto como extensão do comportamento conectado') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta, pois a assertiva 'os óculos de realidade virtual descritos implicita...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "B", "motivo": "Incorreta, pois a assertiva 'qualquer dispositivo eletrônico portátil, incluind...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "D", "motivo": "Incorreta, pois a assertiva 'o iPad, mencionado no 3º parágrafo, como símbolo d...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [C]** — *o celular, referido ao longo do texto como extensão do comportamento conectado*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [C] ('o celular, referido ao longo do texto como extensão do comportamento conectado') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'os óculos de realidade virtual descritos implicita...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [B]:** Incorreta, pois a assertiva 'qualquer dispositivo eletrônico portátil, incluind...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'o iPad, mencionado no 3º parágrafo, como símbolo d...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"}, {"codigo_origem": "Q4250881", "numero_original": 119, "banca": "SELECON", "orgao": "Prefeitura de Conquista D'Oeste - MT", "ano": 2026, "prova": "SELECON - 2026 - Prefeitura de Conquista D'Oeste -", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "assunto_detalhado": "Interpretação de Textos , Coesão e coerência , Noções Gerais de Compreensão e Interpretação de Texto", "enunciado": "No trecho “porque eles podem chegar ao oceano profundo por diferentes caminhos” (5º parágrafo), o pronome destacado retoma os:", "alternativas": [{"id": "A", "texto": "pesquisadores brasileiros e estrangeiros"}, {"id": "B", "texto": "materiais poluentes encontrados"}, {"id": "C", "texto": "rios e os oceanos do planeta"}, {"id": "D", "texto": "peixes do mar profundo 120 Ano:"}], "resposta_correta": "B", "id": "LP0119", "numero_ordem": 119, "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('materiais poluentes encontrados') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta, pois a assertiva 'pesquisadores brasileiros e estrangeiros' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "C", "motivo": "Incorreta, pois a assertiva 'rios e os oceanos do planeta' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "D", "motivo": "Incorreta, pois a assertiva 'peixes do mar profundo 120 Ano:' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [B]** — *materiais poluentes encontrados*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('materiais poluentes encontrados') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'pesquisadores brasileiros e estrangeiros' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'rios e os oceanos do planeta' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'peixes do mar profundo 120 Ano:' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"}, {"codigo_origem": "Q4220096", "numero_original": 137, "banca": "SELECON", "orgao": "Prefeitura de Araçás - BA", "ano": 2026, "prova": "SELECON - 2026 - Prefeitura de Araçás - BA - Bombeiro Civil", "cargo": "Bombeiro Civil", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "assunto_detalhado": "Interpretação de Textos , Coesão e coerência , Noções Gerais de Compreensão e Interpretação de Texto", "enunciado": "Em \"[...] gerando uma distração que é eficaz a curto prazo e, justamente por isso, se repete\" (5º parágrafo), a expressão destacada introduz ideia de:", "alternativas": [{"id": "A", "texto": "consequência"}, {"id": "B", "texto": "finalidade"}, {"id": "C", "texto": "condição"}, {"id": "D", "texto": "adição https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 7/8 21/11/2026, 11:09 138 Ano: 2026 Questões de Provas - Questões de Concursos - Página 7 | Qconcursos.com"}], "resposta_correta": "A", "id": "LP0137", "numero_ordem": 137, "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [A] ('consequência') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.", "analise_distratores": [{"letra": "B", "motivo": "Incorreta, pois a assertiva 'finalidade' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "C", "motivo": "Incorreta, pois a assertiva 'condição' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "D", "motivo": "Incorreta, pois a assertiva 'adição https://www.qconcursos.com/questoes-de-conc...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [A]** — *consequência*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [A] ('consequência') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [B]:** Incorreta, pois a assertiva 'finalidade' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'condição' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'adição https://www.qconcursos.com/questoes-de-conc...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"}, {"codigo_origem": "Q4220095", "numero_original": 138, "banca": "SELECON", "orgao": "Prefeitura de Araçás - BA", "ano": 2026, "prova": "SELECON - 2026 - Prefeitura de Araçás - BA - Bombeiro Civil", "cargo": "Bombeiro Civil", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "assunto_detalhado": "Interpretação de Textos , Coesão e coerência , Noções Gerais de Compreensão e Interpretação de Texto", "enunciado": "A coerência do texto decorre, principalmente, da:", "alternativas": [{"id": "A", "texto": "repetição lexical"}, {"id": "B", "texto": "enumeração cronológica"}, {"id": "C", "texto": "progressão lógica das explicações"}, {"id": "D", "texto": "predominância de sequências narrativas 139 Ano: 2026"}], "resposta_correta": "C", "id": "LP0138", "numero_ordem": 138, "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [C] ('progressão lógica das explicações') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta, pois a assertiva 'repetição lexical' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "B", "motivo": "Incorreta, pois a assertiva 'enumeração cronológica' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "D", "motivo": "Incorreta, pois a assertiva 'predominância de sequências narrativas 139 Ano: 20...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [C]** — *progressão lógica das explicações*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [C] ('progressão lógica das explicações') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'repetição lexical' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [B]:** Incorreta, pois a assertiva 'enumeração cronológica' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'predominância de sequências narrativas 139 Ano: 20...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"}, {"codigo_origem": "Q3828968", "numero_original": 203, "banca": "SELECON", "orgao": "Prefeitura de Lucas do Rio Verde - MT", "ano": 2025, "prova": "SELECON - 2025 - Prefeitura de Lucas do Rio Verde -", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "assunto_detalhado": "Interpretação de Textos", "enunciado": "MT - Técnico Administrativo Educacional - Área Monitoria “O PL 3.444/2023 define como influenciador toda pessoa física ou jurídica que, de forma remunerada, utiliza sua reputação online para promover produtos, marcas ou causas em plataformas digitais. A medida busca coibir abusos e práticas enganosas [...]”. No texto, o termo em destaque retoma:", "alternativas": [{"id": "A", "texto": "a denúncia de Felca"}, {"id": "B", "texto": "o próprio projeto de lei"}, {"id": "C", "texto": "o papel do influenciador mirim"}, {"id": "D", "texto": "a exigência de autorização judicial"}], "resposta_correta": "B", "id": "LP0203", "numero_ordem": 203, "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('o próprio projeto de lei') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta, pois a assertiva 'a denúncia de Felca' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "C", "motivo": "Incorreta, pois a assertiva 'o papel do influenciador mirim' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "D", "motivo": "Incorreta, pois a assertiva 'a exigência de autorização judicial' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [B]** — *o próprio projeto de lei*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('o próprio projeto de lei') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'a denúncia de Felca' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'o papel do influenciador mirim' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'a exigência de autorização judicial' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"}, {"codigo_origem": "Q3807298", "numero_original": 292, "banca": "SELECON", "orgao": "Prefeitura de Barra do Garças - MT", "ano": 2025, "prova": "SELECON - 2025 - Prefeitura de Barra do Garças - MT -", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "assunto_detalhado": "Interpretação de Textos", "enunciado": "Professor Lingua Portuguesa - 5º ano O desfecho do texto, retomando a gargalhada da filha, configura:", "alternativas": [{"id": "A", "texto": "uma reafirmação trágica da ruína civilizacional"}, {"id": "B", "texto": "um retorno ao pessimismo inicial, sem possibilidade de superação"}, {"id": "C", "texto": "um movimento circular argumentativo que anula a reflexão proposta"}, {"id": "D", "texto": "uma reintrodução da esperança, a partir da esfera íntima e afetiva 293 Ano:"}], "resposta_correta": "D", "id": "LP0292", "numero_ordem": 292, "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [D] ('uma reintrodução da esperança, a partir da esfera íntima e afetiva 293 Ano:') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta, pois a assertiva 'uma reafirmação trágica da ruína civilizacional' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "B", "motivo": "Incorreta, pois a assertiva 'um retorno ao pessimismo inicial, sem possibilidad...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "C", "motivo": "Incorreta, pois a assertiva 'um movimento circular argumentativo que anula a re...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [D]** — *uma reintrodução da esperança, a partir da esfera íntima e afetiva 293 Ano:*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [D] ('uma reintrodução da esperança, a partir da esfera íntima e afetiva 293 Ano:') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'uma reafirmação trágica da ruína civilizacional' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [B]:** Incorreta, pois a assertiva 'um retorno ao pessimismo inicial, sem possibilidad...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'um movimento circular argumentativo que anula a re...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"}, {"codigo_origem": "Q3285965", "numero_original": 524, "banca": "SELECON", "orgao": "CEFET-RJ", "ano": 2025, "prova": "SELECON - 2025 - CEFET-RJ - Cursos Integrados (Produção Cultural/Automação", "cargo": "Cursos Integrados (Produção Cultural/Automação", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "assunto_detalhado": "Interpretação de Textos , Coesão e coerência", "enunciado": "Industrial) TEXTO II porto alegre, 2016 quando você viu na tv aquelas pessoas em fila na chuva à noite numa estrada na fronteira de um país que não as deseja e quando você viu as bombas caírem sobre cidades distantes com aquelas casas e ruas tão sujas e tão diferentes e quando você viu a polícia na praça do país estrangeiro partir pra cima de manifestantes com bombas de gás lacrimogêneo não pensou duas vezes nem trocou o canal e foi pegar comida na geladeira não reparou o que vinha que era só uma questão de tempo não interpretou como sinal a notícia não precisou estocar mantimentos agora a colher cai da boca e o barulho de bomba é ali fora e a polícia pra cima dos teus afetos munida de espadas, sobre cavalos FREITAS, Angélica. In: 50 poemas de revolta. São Paulo: Companhia das Letras, 2017, p. 13-14. Em relação ao conjunto de estrofes anteriores, o verso \"agora a colher cai da boca\" (v. 21) marca uma quebra de expectativa e provoca o seguinte efeito de sentido:", "alternativas": [{"id": "A", "texto": "comparação entre a passividade do eu lírico e a aflição do interlocutor"}, {"id": "B", "texto": "concordância entre as atitudes otimistas e os pensamentos negativos"}, {"id": "C", "texto": "contraste entre a indiferença no passado e o espanto no presente"}, {"id": "D", "texto": "contradição entre os desejos cultivados e a frustração enfrentada https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examinin… 4/11 21/11/2026, 11:16 525 Questões de Provas - Questões de Concursos - Página 27 | Qconcursos.com"}], "resposta_correta": "C", "id": "LP0524", "numero_ordem": 524, "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [C] ('contraste entre a indiferença no passado e o espanto no presente') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta, pois a assertiva 'comparação entre a passividade do eu lírico e a af...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "B", "motivo": "Incorreta, pois a assertiva 'concordância entre as atitudes otimistas e os pens...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "D", "motivo": "Incorreta, pois a assertiva 'contradição entre os desejos cultivados e a frustr...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [C]** — *contraste entre a indiferença no passado e o espanto no presente*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [C] ('contraste entre a indiferença no passado e o espanto no presente') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'comparação entre a passividade do eu lírico e a af...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [B]:** Incorreta, pois a assertiva 'concordância entre as atitudes otimistas e os pens...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'contradição entre os desejos cultivados e a frustr...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"}, {"codigo_origem": "Q3199009", "numero_original": 583, "banca": "SELECON", "orgao": "Prefeitura de Sinop - MT", "ano": 2025, "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Nível Fundamental (201", "cargo": "Nível Fundamental (201", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "assunto_detalhado": "Interpretação de Textos , Coesão e coerência", "enunciado": "e 202) “Quando percebi que se tratava de um loteamento, e a mulher queria me vender uma “parcela”, me coloquei na defensiva; disse que no momento suspendi meus negócios imobiliários, e até estava pensando em vender meus imensos territórios no Brasil” (2º parágrafo). O verbo em destaque tem como referente:", "alternativas": [{"id": "A", "texto": "a mulher"}, {"id": "B", "texto": "o homem"}, {"id": "C", "texto": "o terreno no Chile"}, {"id": "D", "texto": "a especulação imobiliária"}], "resposta_correta": "B", "id": "LP0583", "numero_ordem": 583, "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('o homem') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta, pois a assertiva 'a mulher' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "C", "motivo": "Incorreta, pois a assertiva 'o terreno no Chile' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "D", "motivo": "Incorreta, pois a assertiva 'a especulação imobiliária' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [B]** — *o homem*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('o homem') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'a mulher' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'o terreno no Chile' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'a especulação imobiliária' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"}, {"codigo_origem": "Q3197343", "numero_original": 595, "banca": "SELECON", "orgao": "Prefeitura de Sinop - MT", "ano": 2025, "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Nível Fundamental", "cargo": "Nível Fundamental", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "assunto_detalhado": "Interpretação de Textos , Coesão e coerência", "enunciado": "Incompleto (101 a 106) “Esse cara trabalha com ela”. A palavra destacada, na tirinha, faz referência:", "alternativas": [{"id": "A", "texto": "à barata"}, {"id": "B", "texto": "à professora Mel"}, {"id": "C", "texto": "à flor que a barata segura"}, {"id": "D", "texto": "à casa onde mora a professora Mel 596 Ano:"}], "resposta_correta": "B", "id": "LP0595", "numero_ordem": 595, "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('à professora Mel') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta, pois a assertiva 'à barata' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "C", "motivo": "Incorreta, pois a assertiva 'à flor que a barata segura' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "D", "motivo": "Incorreta, pois a assertiva 'à casa onde mora a professora Mel 596 Ano:' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [B]** — *à professora Mel*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('à professora Mel') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'à barata' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'à flor que a barata segura' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'à casa onde mora a professora Mel 596 Ano:' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"}, {"codigo_origem": "Q3398150", "numero_original": 700, "banca": "SELECON", "orgao": "CRC-SE", "ano": 2024, "prova": "SELECON - 2024 - CRC-SE - Advogado ...", "cargo": "Advogado", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "assunto_detalhado": "Interpretação de Textos , Coesão e coerência", "enunciado": "Em “Era o que sentia a estudante de cinema Hadassa Maciel, 22, que decidiu eliminar quem não a influenciava de forma positiva por causa de sua ansiedade” (3ª parágrafo), o referente do pronome destacado é:", "alternativas": [{"id": "A", "texto": "Vanessa Gebrim"}, {"id": "B", "texto": "Hadassa Maciel"}, {"id": "C", "texto": "forma positiva"}, {"id": "D", "texto": "ansiedade"}], "resposta_correta": "B", "id": "LP0700", "numero_ordem": 700, "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('Hadassa Maciel') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta, pois a assertiva 'Vanessa Gebrim' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "C", "motivo": "Incorreta, pois a assertiva 'forma positiva' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "D", "motivo": "Incorreta, pois a assertiva 'ansiedade' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [B]** — *Hadassa Maciel*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('Hadassa Maciel') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'Vanessa Gebrim' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'forma positiva' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'ansiedade' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"}, {"codigo_origem": "Q3096883", "numero_original": 826, "banca": "SELECON", "orgao": "Câmara de Itabi - SE", "ano": 2024, "prova": "SELECON - 2024 - Câmara de Itabi - SE - Serviços Gerais", "cargo": "Serviços Gerais", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "assunto_detalhado": "Interpretação de Textos , Coesão e coerência", "enunciado": "No texto, lê-se: “Esta carga excede as minhas forças, e o remédio é repartirmos o peso irmãmente, seis arrobas para cada um”. Em seguida, segundo o texto, o burro tropica e vai ao chão. Podemos dizer que entre o excesso de peso (indicado na fala do burro) e a queda do animal, há uma relação de:", "alternativas": [{"id": "A", "texto": "fato e opinião"}, {"id": "B", "texto": "causa e efeito"}, {"id": "C", "texto": "fato e finalidade"}, {"id": "D", "texto": "causa e conclusão"}], "resposta_correta": "B", "id": "LP0826", "numero_ordem": 826, "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('causa e efeito') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta, pois a assertiva 'fato e opinião' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "C", "motivo": "Incorreta, pois a assertiva 'fato e finalidade' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "D", "motivo": "Incorreta, pois a assertiva 'causa e conclusão' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [B]** — *causa e efeito*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [B] ('causa e efeito') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'fato e opinião' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'fato e finalidade' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [D]:** Incorreta, pois a assertiva 'causa e conclusão' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"}, {"codigo_origem": "Q2466647", "numero_original": 1065, "banca": "SELECON", "orgao": "Prefeitura de Água Boa - MT", "ano": 2024, "prova": "SELECON - 2024 - Prefeitura de Água Boa - MT - Apoio", "cargo": "Apoio", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "assunto_detalhado": "Interpretação de Textos , Coesão e coerência", "enunciado": "Leia o texto a seguir: Mulheres pretas ou pardas gastam mais tempo em tarefas domésticas, participam menos do mercado de trabalho e são mais afetadas pela pobreza No Brasil, as mulheres pretas ou pardas são mais afetadas pelas desigualdades na educação, no mercado de trabalho, na renda e na representatividade política do que as brancas. Elas dedicam mais tempo aos afazeres domésticos e cuidados de pessoas, têm menor taxa de participação no mercado de trabalho e menor percentual entre as ocupantes de cargos políticos. Além disso, as pretas ou pardas representam a maior parte das vítimas de homicídios contra mulheres praticados fora do domicílio e têm maior percentual de pessoas em situação de pobreza. Os dados fazem parte do estudo Estatísticas do gênero, divulgado pelo IBGE hoje (8), no Dia Internacional da Mulher. A publicação traz informações que permitem uma análise interseccional das desigualdades relacionadas aos temas empoderamento econômico, educação, saúde e serviços relacionados, vida pública e tomada de decisão e direitos humanos das mulheres e das meninas. “Sempre que possível, além do sexo, trazemos desagregação por cor ou raça e unidades da federação, buscando destacar outras características que, combinadas, podem gerar condições de vida específicas para mulheres, gerando desigualdades escalonadas”, diz Barbara Cobo, coordenadora-geral do estudo. Em 2022, as mulheres dedicaram quase o dobro de tempo que os homens aos cuidados de pessoas e/ou afazeres domésticos. Essas tarefas consumiram 21,3 horas semanais delas contra 11,7 horas deles. O recorte por cor ou raça também possibilita verificar essa diferença entre mulheres. As mulheres pretas ou pardas gastavam 1,6 hora a mais por semana nessas tarefas do que as brancas. Já entre os homens não houve distinção significativa nesse recorte. Além disso, a diferença entre mulheres brancas e pretas ou pardas aumentou desde 2016, início da série histórica desse indicador. A distância é maior entre as mulheres quando se observam os dados por classe de rendimento. Eram 7,3 horas a mais de dedicação aos trabalhos domésticos entre as 20% com menores rendimentos do que as que estavam nos 20% com maiores rendimentos. Também nesse indicador não houve diferença significativa entre os homens. Esse dado é particularmente importante porque está relacionado à inserção das mulheres no mercado de trabalho. Ainda que sejam mais da metade das pessoas em idade de trabalhar, a taxa de participação delas na força de trabalho foi de 53,3%, enquanto a dos homens era de 73,2%, o que representa uma diferença de 19,9 pontos percentuais (p.p.). “Há uma relação dessa diferença com o fato de as mulheres se dedicarem mais às tarefas de cuidados e afazeres domésticos. Isso impede que elas participem mais do mercado de trabalho”, explica André Simões, analista do estudo. Fonte: https://www.jb.com.br/brasil/mulher/2024/03/1049042-mulheres-pretas-oupardas-gastam-mais-tempo-em-tarefasdomesticas-participam-menos-do-mercadode-trabalho-e-sao-mais-afetadas-pela-pobreza.html. Acesso em 09/03/2024. Excerto. “Há uma relação dessa diferença com o fato de as mulheres se dedicarem mais às tarefas de cuidados e afazeres domésticos” (5º parágrafo). Se o termo destacado fosse substituído por “relações”, uma possível reescrita desse período, à luz da norma-padrão, seria:", "alternativas": [{"id": "A", "texto": "Hão relações dessa diferença com o fato de as mulheres se dedicarem mais às tarefas de cuidados e afazeres domésticos."}, {"id": "B", "texto": "Têm relações dessa diferença com o fato de as mulheres se dedicarem mais às tarefas de cuidados e afazeres domésticos"}, {"id": "C", "texto": "Tem relações dessa diferença com o fato de as mulheres se dedicarem mais às tarefas de cuidados e afazeres domésticos."}, {"id": "D", "texto": "Existem relações dessa diferença com o fato de as mulheres se dedicarem mais às tarefas de cuidados e afazeres domésticos. https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 3/9 21/11/2026, 11:23 1066 Ano: 2024 Questões de Provas - Questões de Concursos - Página 54 | Qconcursos.com"}], "resposta_correta": "D", "id": "LP1065", "numero_ordem": 1065, "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [D] ('Existem relações dessa diferença com o fato de as mulheres se dedicarem mais às tarefas de cuidados e afazeres domésticos. https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 3/9 21/11/2026, 11:23 1066 Ano: 2024 Questões de Provas - Questões de Concursos - Página 54 | Qconcursos.com') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta, pois a assertiva 'Hão relações dessa diferença com o fato de as mulh...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "B", "motivo": "Incorreta, pois a assertiva 'Têm relações dessa diferença com o fato de as mulh...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "C", "motivo": "Incorreta, pois a assertiva 'Tem relações dessa diferença com o fato de as mulh...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [D]** — *Existem relações dessa diferença com o fato de as mulheres se dedicarem mais às tarefas de cuidados e afazeres domésticos. https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 3/9 21/11/2026, 11:23 1066 Ano: 2024 Questões de Provas - Questões de Concursos - Página 54 | Qconcursos.com*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [D] ('Existem relações dessa diferença com o fato de as mulheres se dedicarem mais às tarefas de cuidados e afazeres domésticos. https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 3/9 21/11/2026, 11:23 1066 Ano: 2024 Questões de Provas - Questões de Concursos - Página 54 | Qconcursos.com') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'Hão relações dessa diferença com o fato de as mulh...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [B]:** Incorreta, pois a assertiva 'Têm relações dessa diferença com o fato de as mulh...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'Tem relações dessa diferença com o fato de as mulh...' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"}, {"codigo_origem": "Q2451009", "numero_original": 1099, "banca": "SELECON", "orgao": "Prefeitura de Sapezal - MT", "ano": 2024, "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Procurador", "cargo": "Procurador", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "assunto_detalhado": "Interpretação de Textos , Coesão e coerência", "enunciado": "... Em “A empresa disse ainda que a concessionária não usou o equipamento e solicitou outro tipo, ‘que está em mobilização com previsão de chegada para a próxima semana’” (3º parágrafo), a expressão destacada faz referência ao termo:", "alternativas": [{"id": "A", "texto": "Aeroporto Internacional Tom Jobim"}, {"id": "B", "texto": "RIOGaleão"}, {"id": "C", "texto": "Pier Sul"}, {"id": "D", "texto": "Light https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 7/8 21/11/2026, 11:23 1100 Ano: 2024 Questões de Provas - Questões de Concursos - Página 55 | Qconcursos.com"}], "resposta_correta": "D", "id": "LP1099", "numero_ordem": 1099, "fundamentacao_correta": "Nos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [D] ('Light https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 7/8 21/11/2026, 11:23 1100 Ano: 2024 Questões de Provas - Questões de Concursos - Página 55 | Qconcursos.com') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta, pois a assertiva 'Aeroporto Internacional Tom Jobim' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "B", "motivo": "Incorreta, pois a assertiva 'RIOGaleão' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}, {"letra": "C", "motivo": "Incorreta, pois a assertiva 'Pier Sul' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [D]** — *Light https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 7/8 21/11/2026, 11:23 1100 Ano: 2024 Questões de Provas - Questões de Concursos - Página 55 | Qconcursos.com*\n\n#### Fundamentação Gramatical:\nNos estudos de linguística textual e coesão, os mecanismos de anáfora e referenciação asseguram a progressão das ideias sem ambiguidade. A alternativa [D] ('Light https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 7/8 21/11/2026, 11:23 1100 Ano: 2024 Questões de Provas - Questões de Concursos - Página 55 | Qconcursos.com') identifica com precisão o referente de memória reativado no texto pelo termo sublinhado.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois a assertiva 'Aeroporto Internacional Tom Jobim' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [B]:** Incorreta, pois a assertiva 'RIOGaleão' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n- **Alternativa [C]:** Incorreta, pois a assertiva 'Pier Sul' desvia-se do núcleo temático do texto, extrapolando ou contradizendo a tese defendida pelo autor.\n"}, {"codigo_origem": "Q4231603", "numero_original": 33, "banca": "FCC", "orgao": "TJ-CE", "ano": 2026, "prova": "FCC - 2026 - TJ-CE - Técnico Judiciário - Área Judiciária", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "enunciado": "Omite-se uma palavra que se subentende pelo contexto em:", "alternativas": [{"id": "A", "texto": "um alto forno de usina siderúrgica"}, {"id": "B", "texto": "o drama do papel em branco na máquina"}, {"id": "C", "texto": "Uma simples folha de papel"}, {"id": "D", "texto": "uma marcha mais veloz que a dos miolos"}, {"id": "E", "texto": "O romance espera"}], "resposta_correta": "D", "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [D] ('uma marcha mais veloz que a dos miolos') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'um alto forno de usina siderúrgica...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "B", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'o drama do papel em branco na máquina...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "C", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Uma simples folha de papel...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "E", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'O romance espera...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}], "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [D] ('uma marcha mais veloz que a dos miolos') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "id": "FCC_LP0199", "numero_ordem": 199}, {"codigo_origem": "Q3530330", "numero_original": 394, "banca": "FCC", "orgao": "MPE-PI", "ano": 2025, "prova": "FCC - 2025 - MPE-PI - Analista Ministerial - Área Processual", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "enunciado": "Retoma uma expressão mencionada anteriormente no texto a palavra sublinhada em:", "alternativas": [{"id": "A", "texto": "Isso é o maior verso da língua portuguesa! (3º parágrafo)"}, {"id": "B", "texto": "um outro rádio com o samba (4º parágrafo)"}, {"id": "C", "texto": "tenha a bondade de não continuar a ler isto. (12 parágrafo)"}, {"id": "D", "texto": "e eu respondo: \"eu que o diga!\"(1º parágrafo)"}, {"id": "E", "texto": "tenha a bondade de não continuar a ler isto. (1º parágrafo)"}], "resposta_correta": "D", "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [D] ('e eu respondo: \"eu que o diga!\"(1º parágrafo)') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Isso é o maior verso da língua portuguesa! (3º parágrafo)...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "B", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'um outro rádio com o samba (4º parágrafo)...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "C", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'tenha a bondade de não continuar a ler isto. (12 parágrafo)...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "E", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'tenha a bondade de não continuar a ler isto. (1º parágrafo)...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}], "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [D] ('e eu respondo: \"eu que o diga!\"(1º parágrafo)') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "id": "FCC_LP0219", "numero_ordem": 219}, {"codigo_origem": "Q3386962", "numero_original": 442, "banca": "FCC", "orgao": "DPE-RS", "ano": 2025, "prova": "FCC - 2025 - DPE-RS - Defensor Público", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "enunciado": "Todas as sociedades definem implicitamente uma legitimidade da dor que se antecipa a circunstâncias sociais, culturais ou físicas tidas como difíceis. Uma experiência acumulada do grupo leva seus membros a uma expectativa do sofrimento habitual imputável a esses fatos.", "alternativas": [{"id": "A", "texto": "intervenção cirúrgica ou dentária, as sequelas de ferimento etc. são precedidas pelo comentário experiente dos que já passaram pela mesma situação e se apressam em dar sua impressão ou seu conselho. O médico pode sugerir a intensidade da dor pela qual o paciente passará. Cada experiência, cada doença, cada lesão é associada a uma margem difusa de sofrimento. A sociedade indica simbolicamente os limites do licito e, fazendo isso, esforça-se por dissuadir dos possíveis excessos. A expressão individual da dor penetra no cerne de formas ritualizadas, alimentando a expectativa de suas testemunhas. Quando um sofrimento exibido parece desproporcional em relação à causa e ultrapassa o limite tradicional, desconfia-se de complacência ou de fingimento. A reputação do ator está então em jogo. Nos casos em que é obrigatório aguentar o sofrimento com firmeza, o homem oprimido pela dor e que não corresponde à expectativa dos outros através de sua propensão à queixa e às lágrimas, expõe-se à reprovação muda ou à exortação para que se comporte melhor. Essa discrepância em relação à discrição habitual provoca atitudes opostas àquelas desejadas pelo doente: a compaixão dá lugar ao constrangimento ou à incompreensão. Inversamente, quando a ritualização da dor pede a dramatização, compreende-se mal quem interioriza seu sofrimento e não diz nada a ninguém. Se a queixa tem valor de linguagem que confirma aos próximos o beneficio de sua presença à cabeceira do doente, sua discrição parece negar a compaixão demonstrada em seu favor. Impenetrável apesar da dor que se supõe estar sentindo, o doente parece afirmar a insignificância daqueles que se apinham ao seu lado. Sua aparente capacidade para assumir sozinho e em silêncio sua provação frustra a família, que não espera senão a queixa para prodigalizar consolo e apoio."}, {"id": "A", "texto": "dor tem ritos que não são transgredidos sem o risco de indispor ou de ofender as pessoas de boa vontade. Mesmo no horror do que está sentindo, o homem sofredor segue o caminho que as tradições lhe traçam. (Adaptado de: LE BRETON, David. Antropologia da Dor. São Paulo: Fap-Unifesp, 2013, p. 110-111) Se a queixa tem valor de linguagem que confirma aos próximos o beneficio de sua presença a cabeceira do doente, sua discrição parece negar a compaixão demonstrada em seu favor. Uma redação alternativa para a frase acima, que mantém a coerência e, em linhas gerais, seu sentido, encontra-se em:"}, {"id": "A", "texto": "Uma vez que se exima de queixar-se, o silêncio do doente passa a desempenhar o papel de linguagem que assevera o conforto a ele dispensado pela presença dos que lhe são próximos."}, {"id": "B", "texto": "Caso o lamento seja válido como linguagem que assevere o bem proporcionado pelos que estão junto ao doente, seu comportamento será avesso à compaixão que lhe oferecem."}, {"id": "C", "texto": "O doente, ao abster-se do lamento, que discursivamente valida o benefício proporcionado pelos que estão ao pé de seu leito, parece rejeitar a compaixão que lhe demonstram. D A queixa do doente, desde que passe a ter um valor discursivo, confirma seu apreço pelos familiares; caso contrário, volta-se contra suas demonstrações de compaixão. E O discernimento do doente, em termos discursivos, no momento de compaixão demonstrada em prol de sua situação, assevera o benefício do acolhimento das pessoas próximas."}], "resposta_correta": "C", "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [C] ('O doente, ao abster-se do lamento, que discursivamente valida o benefício proporcionado pelos que estão ao pé de seu leito, parece rejeitar a compaixão que lhe demonstram. D A queixa do doente, desde que passe a ter um valor discursivo, confirma seu apreço pelos familiares; caso contrário, volta-se contra suas demonstrações de compaixão. E O discernimento do doente, em termos discursivos, no momento de compaixão demonstrada em prol de sua situação, assevera o benefício do acolhimento das pessoas próximas.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'intervenção cirúrgica ou dentária, as sequelas de ferimento etc. são precedidas ...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "A", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'dor tem ritos que não são transgredidos sem o risco de indispor ou de ofender as...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "A", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Uma vez que se exima de queixar-se, o silêncio do doente passa a desempenhar o p...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "B", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Caso o lamento seja válido como linguagem que assevere o bem proporcionado pelos...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}], "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [C] ('O doente, ao abster-se do lamento, que discursivamente valida o benefício proporcionado pelos que estão ao pé de seu leito, parece rejeitar a compaixão que lhe demonstram. D A queixa do doente, desde que passe a ter um valor discursivo, confirma seu apreço pelos familiares; caso contrário, volta-se contra suas demonstrações de compaixão. E O discernimento do doente, em termos discursivos, no momento de compaixão demonstrada em prol de sua situação, assevera o benefício do acolhimento das pessoas próximas.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "id": "FCC_LP0262", "numero_ordem": 262}, {"codigo_origem": "Q3295797", "numero_original": 483, "banca": "FCC", "orgao": "TRT - 15ª Região (SP)", "ano": 2025, "prova": "FCC - 2025 - TRT - 15ª Região (SP) - Analista Judiciário - Área", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "enunciado": "Judiciária Ao especular sobre a origem do carinho que passou a sentir pelo seu guarda-chuva, o autor considera que esse sentimento se deve ao fato de o guarda-chuva", "alternativas": [{"id": "A", "texto": "constituir uma positiva imagem de algo permanente."}, {"id": "B", "texto": "ter uma funcionalidade que se adapta às mudanças"}, {"id": "C", "texto": "contrapor-se à inutilidade dos engenhos modernos."}, {"id": "D", "texto": "evocar lembranças afetivas de um passado remoto."}, {"id": "E", "texto": "modernizar-se sem trair sua função primitiva."}], "resposta_correta": "A", "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [A] ('constituir uma positiva imagem de algo permanente.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "analise_distratores": [{"letra": "B", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'ter uma funcionalidade que se adapta às mudanças...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "C", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'contrapor-se à inutilidade dos engenhos modernos....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "D", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'evocar lembranças afetivas de um passado remoto....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "E", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'modernizar-se sem trair sua função primitiva....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}], "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [A] ('constituir uma positiva imagem de algo permanente.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "id": "FCC_LP0300", "numero_ordem": 300}, {"codigo_origem": "Q3281711", "numero_original": 531, "banca": "FCC", "orgao": "Prefeitura de São Paulo - SP", "ano": 2025, "prova": "FCC - 2025 - Prefeitura de São Paulo - SP - Auditor", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "enunciado": "Municipal de Controle Interno - AMCI Área de Especialização: Geral Acerca dos recursos coesivos no texto de Rubem Braga,", "alternativas": [{"id": "A", "texto": "termos como multidão, coletivo de pessoas, que, por sua vez, é hiperonímia para homens e mulheres, bem como a metonímia caras, favorecem a coesão do texto, além de acrescentar novos matizes de sentido; no caso deste último termo, destaca-se a parte do corpo pela qual se costuma reconhecer alguém."}, {"id": "B", "texto": "a subordinação, usada preferencialmente à coordenação sintática, confere à crônica um caráter poético, uma vez que determina com precisão as relações de sentido entre as orações, exceção feita ao pronome onde, que tende a indeterminar a localização do personagem."}, {"id": "C", "texto": "os advérbios de tempo contrapõem-se ao uso constante do presente do indicativo, desenvolvendo uma tensão narrativa rompida apenas pelo desfecho da crônica, com o verbo no pretérito ficou, na última frase."}, {"id": "D", "texto": "o uso contínuo da conjunção e, notadamente no terceiro parágrafo, corrobora o contraponto temporal entre o passado e o presente do cronista, entre a cidade em que escolhera viver e aquela que reencontra."}, {"id": "E", "texto": "os pronomes esse, essa, este, esta e seus derivados, abundantes no texto, eximem o autor da busca por correlatos dos substantivos a que fazem referência, garantindo, no entanto, que a coesão mantenha a clareza e o andamento da narração."}], "resposta_correta": "A", "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [A] ('termos como multidão, coletivo de pessoas, que, por sua vez, é hiperonímia para homens e mulheres, bem como a metonímia caras, favorecem a coesão do texto, além de acrescentar novos matizes de sentido; no caso deste último termo, destaca-se a parte do corpo pela qual se costuma reconhecer alguém.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "analise_distratores": [{"letra": "B", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'a subordinação, usada preferencialmente à coordenação sintática, confere à crôni...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "C", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'os advérbios de tempo contrapõem-se ao uso constante do presente do indicativo, ...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "D", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'o uso contínuo da conjunção e, notadamente no terceiro parágrafo, corrobora o co...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "E", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'os pronomes esse, essa, este, esta e seus derivados, abundantes no texto, eximem...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}], "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [A] ('termos como multidão, coletivo de pessoas, que, por sua vez, é hiperonímia para homens e mulheres, bem como a metonímia caras, favorecem a coesão do texto, além de acrescentar novos matizes de sentido; no caso deste último termo, destaca-se a parte do corpo pela qual se costuma reconhecer alguém.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "id": "FCC_LP0343", "numero_ordem": 343}, {"codigo_origem": "Q3216573", "numero_original": 543, "banca": "FCC", "orgao": "TRT - 6ª Região (PE)", "ano": 2025, "prova": "FCC - 2025 - TRT - 6ª Região (PE) - Técnico Judiciário - Área", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "enunciado": "Administrativa [Entre luas] Declarou-me uma amiga que passou a se dedicar a olhar o céu estrelado para se consolar das feiuras terrestres. Não seria isso uma solução excessivamente cômoda? Se quiséssemos levar essa declaração às últimas consequências, acabaríamos dizendo: \"que a Terra continue de mal a pior, eu olho para o céu e reencontro meu equilíbrio interior\". Não estaria minha amiga instrumentalizando Ilicitamente esse céu estrelado? Não buscaria eu exortá-la a mais entusiasmo lembrando as magníficas aventuras cosmonáuticas da humanidade, essas lutas míticas pela supremacia terrestre sobre o firmamento. O que me interessa, ao contrário, é tudo o que é apropriação verdadeira do espaço e dos objetos celestes, ou seja, o conhecimento objetivo de uma relação entre nós e o universo extrahumano.", "alternativas": [{"id": "A", "texto": "Lua, desde a Antiguidade, significou para os homens esse desejo de um paraíso luminoso e sereno, e essa devoção lunar dos poetas se perpetuou pelos tempos. Mas a Lua dos poetas tem alguma coisa a ver com as imagens leitosas e esburacadas que os foguetes nos enviam? Talvez não, ainda; mas o fato de sermos obrigados a reconsiderar a Lua de maneira nova nos levará a reconsiderar de maneira nova Inúmeras outras coisas. Quem ama a Lua realmente não se contenta em contemplá-la como uma imagem convencional: quer entrar numa relação mais estreita com ela, quer ver mais na Lua, quer que a Lua lhe diga mais. (Adaptado de: CALVINO. Italo. Assunto encerrado - Discursos sobre literatura e sociedade. Tradução: Roberta Bami. São Paulo: Companhia das Letras, 2006, p. 217-218) Quem ama a Lua realmente não se contenta em contemplá-la como uma imagem convencional. Uma nova redação correta e coerente do período acima se estabelece em:"}, {"id": "A", "texto": "Reconhecer a Lua de uma forma convencional não satisfaz a quem efetivamente a ame."}, {"id": "B", "texto": "Nenhuma imagem convencional da Lua pode ser contemplada com tal amor verdadeiro."}, {"id": "C", "texto": "A contemplação da imagem convencional da Lua caracteriza-se por quem amar a Lua."}, {"id": "D", "texto": "Somente ama de fato a Lua quem não se ater ao convencionalismo de sua própria imagem. E Não caberia contemplar a Lua a quem a ela se dedica através de uma imagem convencional."}], "resposta_correta": "A", "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [A] ('Lua, desde a Antiguidade, significou para os homens esse desejo de um paraíso luminoso e sereno, e essa devoção lunar dos poetas se perpetuou pelos tempos. Mas a Lua dos poetas tem alguma coisa a ver com as imagens leitosas e esburacadas que os foguetes nos enviam? Talvez não, ainda; mas o fato de sermos obrigados a reconsiderar a Lua de maneira nova nos levará a reconsiderar de maneira nova Inúmeras outras coisas. Quem ama a Lua realmente não se contenta em contemplá-la como uma imagem convencional: quer entrar numa relação mais estreita com ela, quer ver mais na Lua, quer que a Lua lhe diga mais. (Adaptado de: CALVINO. Italo. Assunto encerrado - Discursos sobre literatura e sociedade. Tradução: Roberta Bami. São Paulo: Companhia das Letras, 2006, p. 217-218) Quem ama a Lua realmente não se contenta em contemplá-la como uma imagem convencional. Uma nova redação correta e coerente do período acima se estabelece em:') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "analise_distratores": [{"letra": "B", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Nenhuma imagem convencional da Lua pode ser contemplada com tal amor verdadeiro....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "C", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'A contemplação da imagem convencional da Lua caracteriza-se por quem amar a Lua....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "D", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Somente ama de fato a Lua quem não se ater ao convencionalismo de sua própria im...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}], "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [A] ('Lua, desde a Antiguidade, significou para os homens esse desejo de um paraíso luminoso e sereno, e essa devoção lunar dos poetas se perpetuou pelos tempos. Mas a Lua dos poetas tem alguma coisa a ver com as imagens leitosas e esburacadas que os foguetes nos enviam? Talvez não, ainda; mas o fato de sermos obrigados a reconsiderar a Lua de maneira nova nos levará a reconsiderar de maneira nova Inúmeras outras coisas. Quem ama a Lua realmente não se contenta em contemplá-la como uma imagem convencional: quer entrar numa relação mais estreita com ela, quer ver mais na Lua, quer que a Lua lhe diga mais. (Adaptado de: CALVINO. Italo. Assunto encerrado - Discursos sobre literatura e sociedade. Tradução: Roberta Bami. São Paulo: Companhia das Letras, 2006, p. 217-218) Quem ama a Lua realmente não se contenta em contemplá-la como uma imagem convencional. Uma nova redação correta e coerente do período acima se estabelece em:') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "id": "FCC_LP0355", "numero_ordem": 355}, {"codigo_origem": "Q3216465", "numero_original": 561, "banca": "FCC", "orgao": "TRT - 6ª Região (PE)", "ano": 2025, "prova": "FCC - 2025 - TRT - 6ª Região (PE) - Analista Judiciário - Área Apoio", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "enunciado": "\"Na medida do possível\" Nada mais elegante que dizer \"na medida do possível\". Que sería de nós sem a medida do possível? Sem a sensatez do senso de medida? Nada melhor do que viver - viver na medida do possível. \"Você me ama?\" \"Na medida do possível\". \"Você é honesto?\" \"Na medida do possível.\" \"Você quer viver eternamente?\" \"Na medida do possível\". \"Você está me dando o fora?\" \"Na medida do possível\". Falando agora mais a sério, essa expressão é também um Indice da maturidade modesta: pode indicar o cuidado realista de quem prefere não exagerar em nada e contar com os imprevistos, com os grandes obstáculos que surgem inopinadamente. Ela será mais comumente utilizada por adultos, por pessoas já experientes; dificil imaginar jovens dizendo \"na medida do possível\", quando a tendência deles é contar com medidas radicais. Entre as correntes filosóficas, talvez a do estoicismo seja a que melhor absorva a força dessa expressão. Um estoico não desafia as forças do destino: ele as respeita e conta sempre com a possibilidade de deparar com um desafio invencível, diante do qual ele manterá uma reação sóbria de quem resiste, sim, mas na medida do possível. Na linguagem comum, um estoico seria aquele que se recusa a dar murro em ponta de faca. Ele buscará se conter, na medida do possível. (Alcino Martinez, a editar)", "alternativas": [{"id": "A", "texto": "frase Que seria de nós sem a medida do possível? ganha nova, correta e coerente redação em:"}, {"id": "A", "texto": "Haveríamos de ser quem, na medida que o possível nos faltasse?"}, {"id": "B", "texto": "Caso a medida do possível viesse ausentar-nos, quem seríamos?"}, {"id": "C", "texto": "Faltando-nos a medida do possível, o que haveria de ocorrer conosco?"}, {"id": "D", "texto": "Onde chegaríamos se não nos contemplasse com a medida do possível? E Quem seríamos se a medida do possível não viesse ao encontro de nós?"}], "resposta_correta": "C", "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [C] ('Faltando-nos a medida do possível, o que haveria de ocorrer conosco?') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'frase Que seria de nós sem a medida do possível? ganha nova, correta e coerente ...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "A", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Haveríamos de ser quem, na medida que o possível nos faltasse?...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "B", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Caso a medida do possível viesse ausentar-nos, quem seríamos?...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "D", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Onde chegaríamos se não nos contemplasse com a medida do possível? E Quem seríam...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}], "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [C] ('Faltando-nos a medida do possível, o que haveria de ocorrer conosco?') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "id": "FCC_LP0372", "numero_ordem": 372}, {"codigo_origem": "Q3884590", "numero_original": 574, "banca": "FCC", "orgao": "PIAUÍPREV", "ano": 2024, "prova": "FCC - 2024 - PIAUÍPREV - Analista Previdenciário", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "enunciado": "Atenção: Para responder à questão, baseie-se no texto abaixo. \"Que menino especula!\" Eu era um menino muito perguntador, como quase todas as crianças, e volta e meia tinha que ouvir de um adulto: - Mas você é especula, hein? E eu via logo que ser um menino \"especula\" não devia ser muito bonito. Nem por isso guardava minhas armas de perguntador: continuava a especular sobre tudo o que não entendia. Eu ainda não conhecia a réplica justa a quem me acusasse de especula: - Mas perguntar não ofende... Mais tarde tive a minha vingança. Aprendi que especular é investigar, pesquisar, refletir... Aprendi mais: que os homens muito curiosos, de muito antigamente, olhavam os astros no céu pra ver se entendiam a formação de suas andanças no espaço, seus movimentos regulares. Não contando ainda com a sofisticação de telescópios, valiam-se os antigos de um espelho, um \"speculum\", que fixavam no chão apontado para o alto. Na superfície plana do espelho refletiam-se os astros iluminados no céu, e nela os astrônomos pioneiros iam marcando a posição e os movimentos dos corpos celestes. Era isso o que também se entendia por especular: observar algo por meio do reflexo de um espelho. Os primeiros astrônomos foram grandes especulas. Com o tempo, especulação passou a designar um processo mental abstrato, que formula hipóteses e elabora ideias. Pensamento especulativo, para muitos, é o princípio mesmo da inquirição filosófica. Portanto, fui mesmo, e com muita honra, um menino especula, sim senhor. Como quase todas as crianças, estava interessado em saber quanta coisa havia entre o céu e a terra que ia além da nossa filosofia, ou dos nossos olhos terrestres. Da minha maneira, acionava o espelho da minha curiosidade para saber mais coisas dos astros do céu, do tempo cósmico, do destino das esferas - coisas que mesmo um telescópio espacial está longe de conseguir esclarecer, para poder satisfazer os eternos meninos especulas. (Alceblades Villanova, a editar) Há plena clareza, coesão e coerência na construção da seguinte frase:", "alternativas": [{"id": "A", "texto": "Não deixa de ser engenhoso a recorrência a um espelho para buscar localização mais privilegiada no tocante aos astros."}, {"id": "B", "texto": "Os meninos perguntadores tem quem lhes veja só o defeito da curiosidade ao em vez de louvar sua fome de conhecimento"}, {"id": "C", "texto": "A vingança aonde refere o autor foi quando ele passou a ver que mesmo uma palavra como especula possa ter um sentido positivo."}, {"id": "D", "texto": "Embora eles não tivessem telescópios, os antigos por conseguinte podiam se valer de espelhos ao tentar marcar o movimento astrológico."}, {"id": "E", "texto": "O texto mostra como o sentido de uma palavra, ao longo do tempo, ganha nuances bastante particulares, por vezes surpreendentes."}], "resposta_correta": "E", "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [E] ('O texto mostra como o sentido de uma palavra, ao longo do tempo, ganha nuances bastante particulares, por vezes surpreendentes.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Não deixa de ser engenhoso a recorrência a um espelho para buscar localização ma...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "B", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Os meninos perguntadores tem quem lhes veja só o defeito da curiosidade ao em ve...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "C", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'A vingança aonde refere o autor foi quando ele passou a ver que mesmo uma palavr...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "D", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Embora eles não tivessem telescópios, os antigos por conseguinte podiam se valer...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}], "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [E] ('O texto mostra como o sentido de uma palavra, ao longo do tempo, ganha nuances bastante particulares, por vezes surpreendentes.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "id": "FCC_LP0384", "numero_ordem": 384}, {"codigo_origem": "Q4158799", "numero_original": 47, "banca": "FCC", "orgao": "AL-RR", "ano": 2026, "prova": "FCC - 2026 - AL-RR - Analista Legislativo - Analista de Segurança da Informação", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "enunciado": "Apresenta uma síntese coerente com o sentido geral do texto o que se encontra em:", "alternativas": [{"id": "A", "texto": "A história enfatiza o isolamento de Dario como consequência de sua escolha voluntária de permanecer na rua, sem esboçar qualquer interesse em uma intervenção externa."}, {"id": "B", "texto": "O conto descreve uma ação coletiva espontânea em torno de um acontecimento urbano; a morte de Dario é tratada como motivo de intervenção positiva comunitária."}, {"id": "C", "texto": "O conto retrata a comoção coletiva diante de um homem que recebe imediato socorro e atenção solidária de todos os que passam pelo local."}, {"id": "D", "texto": "A narrativa evidencia a transformação de uma tragédia urbana em espetáculo público, marcado pela indiferença curiosidade das pessoas diante da morte de Dario."}, {"id": "E", "texto": "O texto apresenta uma crítica ao sistema de saúde, destacando a ineficiência dos serviços de emergência no atendimento rápido às vítimas em vias públicas."}], "resposta_correta": "D", "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [D] ('A narrativa evidencia a transformação de uma tragédia urbana em espetáculo público, marcado pela indiferença curiosidade das pessoas diante da morte de Dario.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'A história enfatiza o isolamento de Dario como consequência de sua escolha volun...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "B", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'O conto descreve uma ação coletiva espontânea em torno de um acontecimento urban...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "C", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'O conto retrata a comoção coletiva diante de um homem que recebe imediato socorr...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "E", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'O texto apresenta uma crítica ao sistema de saúde, destacando a ineficiência dos...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}], "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [D] ('A narrativa evidencia a transformação de uma tragédia urbana em espetáculo público, marcado pela indiferença curiosidade das pessoas diante da morte de Dario.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "id": "FCC_LP0397", "numero_ordem": 397}, {"codigo_origem": "Q4156549", "numero_original": 57, "banca": "FCC", "orgao": "AL-RR", "ano": 2026, "prova": "FCC - 2026 - AL-RR - Técnico Legislativo Especializado - Técnico em Enfermagem", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "enunciado": "Considerando os argumentos e as conclusões do texto, está INCORRETA a ideia de que", "alternativas": [{"id": "A", "texto": "a atuação isolada de professores é insuficiente para superar os desafios impostos pela falta de infraestrutura tecnológica nas escolas."}, {"id": "B", "texto": "a disparidade regional de acesso à tecnologia é um fenômeno que pode ser alterado pela ação conjunta de diversos agentes."}, {"id": "C", "texto": "a tecnologia por si só é incapaz de proporcionar uma formação educacional de qualidade."}, {"id": "D", "texto": "a falta de investimentos impede a implementação eficiente de recursos tecnológicos na área da educação."}, {"id": "E", "texto": "os investimentos em infraestrutura tecnológica são mais importantes do que os investimentos em capacitação de professores. Português > Sintaxe ,"}], "resposta_correta": "E", "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [E] ('os investimentos em infraestrutura tecnológica são mais importantes do que os investimentos em capacitação de professores. Português > Sintaxe ,') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'a atuação isolada de professores é insuficiente para superar os desafios imposto...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "B", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'a disparidade regional de acesso à tecnologia é um fenômeno que pode ser alterad...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "C", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'a tecnologia por si só é incapaz de proporcionar uma formação educacional de qua...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "D", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'a falta de investimentos impede a implementação eficiente de recursos tecnológic...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}], "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [E] ('os investimentos em infraestrutura tecnológica são mais importantes do que os investimentos em capacitação de professores. Português > Sintaxe ,') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "id": "FCC_LP0406", "numero_ordem": 406}, {"codigo_origem": "Q4156547", "numero_original": 59, "banca": "FCC", "orgao": "AL-RR", "ano": 2026, "prova": "FCC - 2026 - AL-RR - Técnico Legislativo Especializado - Técnico em Enfermagem", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "enunciado": "Atenção: Leia o texto a seguir para responder à questão. Em um contexto como o que estamos vivendo, em que se valorizam tanto os fins e os objetivos, e em que se propala tanto o \"foco na meta\", temos perdido o sentido e o valor do meio do caminho. Estamos sendo tão condicionados a focar nas metas (que, aliás, na maior parte das vezes nem são efetivamente nossas, mas impostas) que acabamos não valorizando o caminho. Cada vez mais, o caminho tem se reduzido a mero intervalo de tempo e espaço entre o começo e o fim; entre a definição da meta e seu cumprimento. Com isso, a existência humana vem empobrecendo e se reduzindo a um simples mecanismo de \"desempenho\", de \"obtenção\" de metas, que, uma vez atingidas, são substituídas por outras, em uma dinâmica insaciável e frustrante. Esse \"apagamento\" do meio, do caminho, da via, apresenta-se, a meu ver, como uma das causas mais importantes do desastroso processo de desumanização que estamos sofrendo, pois a desvalorização do caminho corresponde, em última análise, à desvalorização da experiência. E como é possível a realização da nossa humanização sem a realização da experiência da vida? Sem metas, não é possível a nossa autorrealização enquanto seres humanos; porém, sema experiência do caminho tal realização se torna incompleta, vazia e, portanto, falsa. Daí a importância de aprendermos as lições sobre o saber viver o caminho; sobre o saber viver as experiências que encontramos na via da vida, e nos tornarmos mais humanos com elas e por causa delas. (Adaptado de: GALLIAN, Dante. É próprio do humano: uma odisseia do autoconhecimento e da autorrealização em 12 lições. Rio de Janeiro: Record, 2022, edição digital) As palavras \"que\" sublinhadas no 1º parágrafo referem-se, respectivamente, aos seguintes termos:", "alternativas": [{"id": "A", "texto": "contexto - parte"}, {"id": "B", "texto": "foco - parte"}, {"id": "C", "texto": "foco - metas"}, {"id": "D", "texto": "contexto - metas"}, {"id": "E", "texto": "contexto - caminho"}], "resposta_correta": "D", "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [D] ('contexto - metas') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'contexto - parte...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "B", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'foco - parte...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "C", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'foco - metas...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "E", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'contexto - caminho...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}], "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [D] ('contexto - metas') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "id": "FCC_LP0407", "numero_ordem": 407}, {"codigo_origem": "Q3481512", "numero_original": 625, "banca": "FCC", "orgao": "TRT - 7ª Região (CE)", "ano": 2024, "prova": "FCC - 2024 - TRT - 7ª Região (CE) - Analista Judiciário - Área Apoio", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "enunciado": "Mas que importam as datas administrativas diante da poesia e dos mitos? Mantidas a correção e a coerência da frase acima, uma reconstrução adequada esta em:", "alternativas": [{"id": "A", "texto": "As datas administrativas o que seriam, aonde se deparam com a poesia e os mitos?"}, {"id": "B", "texto": "A poesia e os mitos não seriam muito mais preferíveis do que as datas administrativas?"}, {"id": "C", "texto": "A poesia e os mitos como serão menos importantes quanto as datas administrativas?"}, {"id": "D", "texto": "Quanto podem a poesia e os mitos quanto à importância das datas administrativas?"}, {"id": "E", "texto": "Diante da poesia e dos mitos, que relevância podem ter as datas administrativas?"}], "resposta_correta": "E", "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [E] ('Diante da poesia e dos mitos, que relevância podem ter as datas administrativas?') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'As datas administrativas o que seriam, aonde se deparam com a poesia e os mitos?...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "B", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'A poesia e os mitos não seriam muito mais preferíveis do que as datas administra...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "C", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'A poesia e os mitos como serão menos importantes quanto as datas administrativas...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "D", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Quanto podem a poesia e os mitos quanto à importância das datas administrativas?...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}], "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [E] ('Diante da poesia e dos mitos, que relevância podem ter as datas administrativas?') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "id": "FCC_LP0452", "numero_ordem": 452}, {"codigo_origem": "Q3233078", "numero_original": 628, "banca": "FCC", "orgao": "TRT - 20ª REGIÃO (SE)", "ano": 2024, "prova": "FCC - 2024 - TRT - 20ª REGIÃO (SE) - Analista Judiciário - Área", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "enunciado": "Judiciária - Especialidade: Oficial de Justiça Avaliador Federal É coerente, clara e correta a redação desta súmula do 4º parágrafo do texto:", "alternativas": [{"id": "A", "texto": "Séculos depois de escritos, os versos de Lucrécio, conquanto vulneráveis aos profetas do apocalipse, mesmo assim professam sua crença nas ciências e na própria lucidez."}, {"id": "B", "texto": "Os versos de Lucrécio, poeta lúcido e amigo da ciência, têm o espírito da modernidade que pode ajudar os que se sentem fracos diante dos profetas apocalípticos."}, {"id": "C", "texto": "Aos mais vulneráveis pela crença no Apocalipse os versos de Lucrécio podem libertar-lhes através de seus versos em cujos resistem modernamente a lucidez da ciência."}, {"id": "D", "texto": "Há modernidade nos versos de Lucrécio quando o mesmo se vale de sua lucidez apaixonada para afrontar os mais vulneráveis onde se proclamam profecias apocalípticas."}, {"id": "E", "texto": "A modernidade de Lucrécio na passagem deste milênio estã em coibir a fragilidade dos vulneráveis por meio da resiliência das profecias de caráter meramente apocalíptico."}], "resposta_correta": "B", "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [B] ('Os versos de Lucrécio, poeta lúcido e amigo da ciência, têm o espírito da modernidade que pode ajudar os que se sentem fracos diante dos profetas apocalípticos.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Séculos depois de escritos, os versos de Lucrécio, conquanto vulneráveis aos pro...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "C", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Aos mais vulneráveis pela crença no Apocalipse os versos de Lucrécio podem liber...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "D", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Há modernidade nos versos de Lucrécio quando o mesmo se vale de sua lucidez apai...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "E", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'A modernidade de Lucrécio na passagem deste milênio estã em coibir a fragilidade...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}], "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [B] ('Os versos de Lucrécio, poeta lúcido e amigo da ciência, têm o espírito da modernidade que pode ajudar os que se sentem fracos diante dos profetas apocalípticos.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "id": "FCC_LP0455", "numero_ordem": 455}, {"codigo_origem": "Q3089755", "numero_original": 708, "banca": "FCC", "orgao": "TRT - 7ª Região (CE)", "ano": 2024, "prova": "FCC - 2024 - TRT - 7ª Região (CE) - Analista Judiciário - Área", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "enunciado": "Administrativa Monstro, não tens a minha religião, então não tens religião nenhuma. À frase acima segue correta e explicita seu sentido coerente nesta outra forma:", "alternativas": [{"id": "A", "texto": "Foste um monstro, não tendo minha religião, posto que nenhuma outra."}, {"id": "B", "texto": "Sendo o monstro que és, não tens a minha religião e, portanto, nenhuma outra."}, {"id": "C", "texto": "Ainda és um monstro, por que não tens minha religião, visto que não tens nenhuma."}, {"id": "D", "texto": "Por monstro que sejas, ao não teres religião, nenhuma religião virá a ler."}, {"id": "E", "texto": "Se és um monstro, não terás minha religião, nem terás nenhuma outra."}], "resposta_correta": "B", "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [B] ('Sendo o monstro que és, não tens a minha religião e, portanto, nenhuma outra.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Foste um monstro, não tendo minha religião, posto que nenhuma outra....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "C", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Ainda és um monstro, por que não tens minha religião, visto que não tens nenhuma...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "D", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Por monstro que sejas, ao não teres religião, nenhuma religião virá a ler....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "E", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Se és um monstro, não terás minha religião, nem terás nenhuma outra....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}], "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [B] ('Sendo o monstro que és, não tens a minha religião e, portanto, nenhuma outra.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "id": "FCC_LP0532", "numero_ordem": 532}, {"codigo_origem": "Q2645757", "numero_original": 735, "banca": "FCC", "orgao": "MPE-PB", "ano": 2024, "prova": "FCC - 2024 - MPE-PB - Técnico Ministerial - Sem Especialidade", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "enunciado": "Atenção: Leia o conto “Casos de baleias”, de Carlos Drummond de Andrade, para responder às questões de números 1 a 5.", "alternativas": [{"id": "A", "texto": "baleia telegrafou ao superintendente da Pesca, queixando-se de que estava sendo caçada demais, e a continuar assim sua espécie desapareceria com prejuízo geral do meio ambiente e dos usuários. O superintendente, em ofício, respondeu à baleia que não podia fazer nada senão recomendar que de duas baleias uma fosse poupada, e esta ganhasse número de registro para identificar-se. Em face dessa resolução, todas as baleias providenciaram registro, e o obtiveram pela maneira como se obtêm essas coisas, à margem dos regulamentos. O mar ficou coalhado de números, que rabeavam alegremente, e o esguicho dos cetáceos, formando verdadeiros festivais no alto oceano, dava ideia de imenso jardim explodindo em repuxos, dourados de sol, ou prateados de lua. Um inspetor da Superintendência, intrigado com o fato de que ninguém mais conseguia caçar baleia, pôs-se a examinar os livros e verificou que havia infinidade de números repetidos. Cancelou-se o registro, e os funcionários responsáveis pela fraude, jogados ao mar, foram devorados pelas baleias, que passaram a ser caçadas indiscriminadamente. A recomendação internacional para suspender a caça por tempo indeterminado só alcançará duas baleias vivas, escondidas e fantasiadas de rochedo, no litoral do Espírito Santo. (ANDRADE, Carlos Drummond de. Contos plausíveis. São Paulo: Companhia das Letras, 2012) Retoma um termo mencionado anteriormente no texto a palavra sublinhada no seguinte trecho:"}, {"id": "C", "texto": "o e o obtiveram pela maneira como se obtêm essas coisas (3 parágrafo). o e a continuar assim sua espécie desapareceria (1 parágrafo). e o esguicho dos cetáceos [...] dava ideia de imenso jardim (3o parágrafo)."}, {"id": "D", "texto": "o Cancelou-se o registro (4 parágrafo)."}, {"id": "E", "texto": "o Um inspetor da Superintendência [...] pôs-se a examinar os livros (4 parágrafo)."}, {"id": "A", "texto": "B"}], "resposta_correta": "A", "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [A] ('baleia telegrafou ao superintendente da Pesca, queixando-se de que estava sendo caçada demais, e a continuar assim sua espécie desapareceria com prejuízo geral do meio ambiente e dos usuários. O superintendente, em ofício, respondeu à baleia que não podia fazer nada senão recomendar que de duas baleias uma fosse poupada, e esta ganhasse número de registro para identificar-se. Em face dessa resolução, todas as baleias providenciaram registro, e o obtiveram pela maneira como se obtêm essas coisas, à margem dos regulamentos. O mar ficou coalhado de números, que rabeavam alegremente, e o esguicho dos cetáceos, formando verdadeiros festivais no alto oceano, dava ideia de imenso jardim explodindo em repuxos, dourados de sol, ou prateados de lua. Um inspetor da Superintendência, intrigado com o fato de que ninguém mais conseguia caçar baleia, pôs-se a examinar os livros e verificou que havia infinidade de números repetidos. Cancelou-se o registro, e os funcionários responsáveis pela fraude, jogados ao mar, foram devorados pelas baleias, que passaram a ser caçadas indiscriminadamente. A recomendação internacional para suspender a caça por tempo indeterminado só alcançará duas baleias vivas, escondidas e fantasiadas de rochedo, no litoral do Espírito Santo. (ANDRADE, Carlos Drummond de. Contos plausíveis. São Paulo: Companhia das Letras, 2012) Retoma um termo mencionado anteriormente no texto a palavra sublinhada no seguinte trecho:') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "analise_distratores": [{"letra": "C", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'o e o obtiveram pela maneira como se obtêm essas coisas (3 parágrafo). o e a con...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "D", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'o Cancelou-se o registro (4 parágrafo)....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "E", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'o Um inspetor da Superintendência [...] pôs-se a examinar os livros (4 parágrafo...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}], "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [A] ('baleia telegrafou ao superintendente da Pesca, queixando-se de que estava sendo caçada demais, e a continuar assim sua espécie desapareceria com prejuízo geral do meio ambiente e dos usuários. O superintendente, em ofício, respondeu à baleia que não podia fazer nada senão recomendar que de duas baleias uma fosse poupada, e esta ganhasse número de registro para identificar-se. Em face dessa resolução, todas as baleias providenciaram registro, e o obtiveram pela maneira como se obtêm essas coisas, à margem dos regulamentos. O mar ficou coalhado de números, que rabeavam alegremente, e o esguicho dos cetáceos, formando verdadeiros festivais no alto oceano, dava ideia de imenso jardim explodindo em repuxos, dourados de sol, ou prateados de lua. Um inspetor da Superintendência, intrigado com o fato de que ninguém mais conseguia caçar baleia, pôs-se a examinar os livros e verificou que havia infinidade de números repetidos. Cancelou-se o registro, e os funcionários responsáveis pela fraude, jogados ao mar, foram devorados pelas baleias, que passaram a ser caçadas indiscriminadamente. A recomendação internacional para suspender a caça por tempo indeterminado só alcançará duas baleias vivas, escondidas e fantasiadas de rochedo, no litoral do Espírito Santo. (ANDRADE, Carlos Drummond de. Contos plausíveis. São Paulo: Companhia das Letras, 2012) Retoma um termo mencionado anteriormente no texto a palavra sublinhada no seguinte trecho:') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "id": "FCC_LP0558", "numero_ordem": 558}, {"codigo_origem": "Q2762368", "numero_original": 823, "banca": "FCC", "orgao": "TRT - 21ª Região (RN)", "ano": 2023, "prova": "FCC - 2023 - TRT - 21ª Região (RN) - Técnico Judiciário - Área", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "enunciado": "Administrativa (Especialidade Agente da Polícia Judicial) Retoma um termo mencionado anteriormente no texto a palavra sublinhada em:", "alternativas": [{"id": "A", "texto": "Mal sabia o seu Justinho (28º parágrafo)."}, {"id": "B", "texto": "todos os homens abotoam a camisa de baixo para cima (26º parágrafo)."}, {"id": "C", "texto": "Alguns começaram a tirar a camisa ali mesmo (9º parágrafo)."}, {"id": "D", "texto": "nos dias seguintes passou a gostar ainda menos (22º parágrafo)."}, {"id": "E", "texto": "Mas o seu Justinho os deteve (9º parágrafo)."}], "resposta_correta": "E", "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [E] ('Mas o seu Justinho os deteve (9º parágrafo).') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Mal sabia o seu Justinho (28º parágrafo)....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "B", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'todos os homens abotoam a camisa de baixo para cima (26º parágrafo)....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "C", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Alguns começaram a tirar a camisa ali mesmo (9º parágrafo)....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "D", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'nos dias seguintes passou a gostar ainda menos (22º parágrafo)....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}], "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [E] ('Mas o seu Justinho os deteve (9º parágrafo).') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "id": "FCC_LP0661", "numero_ordem": 661}, {"codigo_origem": "Q2384399", "numero_original": 908, "banca": "FCC", "orgao": "TRT - 12ª Região (SC)", "ano": 2023, "prova": "", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "enunciado": "908 Q2384399 Ano: 2023 Português > Interpretação de Textos , Coesão e coerência Banca: FCC Órgão: TRT - 12ª Região (SC) Provas: FCC - 2023 - TRT - 12ª Região (SC) - Analista Judiciário - Área Judiciária ... Considerando-se o contexto, traduz-se adequadamente o sentido de um segmento do texto em:", "alternativas": [{"id": "A", "texto": "perdeu o cartaz (1º parágrafo) = admitiu seus raros atributos."}, {"id": "B", "texto": "contemplação de um drama bem antigo (2º parágrafo) = admissão de um flagelo passado."}, {"id": "C", "texto": "Não tomarei partido (3º parágrafo) = não deixarei de me alinhar."}, {"id": "D", "texto": "meu coração está mais triste, mas está mais leve (4º parágrafo) = minha alma já não sustenta sua tristeza."}, {"id": "E", "texto": "pode lhe suceder que ele encontre seu gavião (4º parágrafo) = é possível que dê com seu predador."}], "resposta_correta": "E", "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [E] ('pode lhe suceder que ele encontre seu gavião (4º parágrafo) = é possível que dê com seu predador.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'perdeu o cartaz (1º parágrafo) = admitiu seus raros atributos....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "B", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'contemplação de um drama bem antigo (2º parágrafo) = admissão de um flagelo pass...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "C", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Não tomarei partido (3º parágrafo) = não deixarei de me alinhar....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "D", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'meu coração está mais triste, mas está mais leve (4º parágrafo) = minha alma já ...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}], "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [E] ('pode lhe suceder que ele encontre seu gavião (4º parágrafo) = é possível que dê com seu predador.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "id": "FCC_LP0742", "numero_ordem": 742}, {"codigo_origem": "Q2288239", "numero_original": 916, "banca": "FCC", "orgao": "TRT - 12ª Região (SC)", "ano": 2023, "prova": "", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "enunciado": "916 Q2288239 Ano: 2023 Português > Interpretação de Textos , Coesão e coerência , Funções morfossintáticas da palavra QUE Funções morfossintáticas da palavra QUE Banca: FCC Órgão: TRT - 12ª Região (SC) Provas: FCC - 2023 - TRT - 12ª Região (SC) - Técnico Judiciário - Área Administrativa ... Retoma um termo mencionado anteriormente no texto a palavra sublinhada em:", "alternativas": [{"id": "A", "texto": "eu apostava que o homem quer é trabalhar por nós."}, {"id": "B", "texto": "estas esperavam que o senhor vigário arrancasse sem mais demora todos os pés de hortaliças."}, {"id": "C", "texto": "- Parece que ele até faz pouco-caso da gente."}, {"id": "D", "texto": "Os paroquianos estranharam que, apesar de tão moço, o vigário novo fosse a tal ponto reservado."}, {"id": "E", "texto": "o padre tomara uma atitude perfeitamente normal, uma atitude que o incorporava à comunidade."}], "resposta_correta": "E", "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [E] ('o padre tomara uma atitude perfeitamente normal, uma atitude que o incorporava à comunidade.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'eu apostava que o homem quer é trabalhar por nós....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "B", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'estas esperavam que o senhor vigário arrancasse sem mais demora todos os pés de ...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "C", "motivo": "Incorreta segundo a norma culta e o padrão FCC: '- Parece que ele até faz pouco-caso da gente....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "D", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'Os paroquianos estranharam que, apesar de tão moço, o vigário novo fosse a tal p...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}], "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [E] ('o padre tomara uma atitude perfeitamente normal, uma atitude que o incorporava à comunidade.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "id": "FCC_LP0750", "numero_ordem": 750}, {"codigo_origem": "Q2288238", "numero_original": 917, "banca": "FCC", "orgao": "TRT - 12ª Região (SC)", "ano": 2023, "prova": "", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "enunciado": "917 Q2288238 Ano: 2023 Português > Interpretação de Textos , Coesão e coerência Banca: FCC Órgão: TRT - 12ª Região (SC) Provas: FCC - 2023 - TRT - 12ª Região (SC) - Técnico Judiciário - Área Administrativa ... Com o tempo, acreditou-se, o sacerdote se faria amigo pelo menos das pessoas mais importantes do lugar, o prefeito, o presidente da Câmara, os representantes da Justiça, o médico, dois ou três fazendeiros, o farmacêutico. Na porta do estabelecimento deste último é que se discutia a personalidade do vigário, formando-se um grupo contra e outro a favor. (1° parágrafo) Para evitar a sua repetição, garantindo assim uma maior coesão textual, omite-se no trecho acima o substantivo", "alternativas": [{"id": "A", "texto": "lugar."}, {"id": "B", "texto": "grupo."}, {"id": "C", "texto": "estabelecimento."}, {"id": "D", "texto": "tempo."}, {"id": "E", "texto": "pessoas."}], "resposta_correta": "B", "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [B] ('grupo.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'lugar....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "C", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'estabelecimento....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "D", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'tempo....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "E", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'pessoas....' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}], "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [B] ('grupo.') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "id": "FCC_LP0751", "numero_ordem": 751}, {"codigo_origem": "Q2248998", "numero_original": 921, "banca": "FCC", "orgao": "TJ-BA", "ano": 2023, "prova": "FCC - 2023 - TJ-BA - Analista Judiciário - Área de Apoio Especializado Engenharia", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Coesão Textual e Referenciação", "enunciado": "Civil (Gente hospitaleira) Alguns pensadores definiram a hospitalidade como um modo privilegiado de encontro interpessoal marcado pela atitude de acolhimento em relação ao outro. As praticas de hospitalidade deverão marcar todas as situações da vida, ou seja, a hospitalidade não deverá ficar circunscrita à disponibilidade para receber o turista, o visitante que chega de fora e está de passagem pela cidade; é necessário que esta atitude de acolhimento e cortesia se estenda ao próximo em geral, seja o vizinho, o colega de trabalho ou mesmo um desconhecido. Outros acentuam que a hospitalidade não pode estar condicionada pelas condições da realidade. A hospitalidade seria antes de mais nada uma disposição da alma, aberta e irrestrita. Ela, como o amor incondicional, em princípio, não rejeita nem discrimina a ninguém. É simultaneamente uma utopia e uma prática. Como utopia representa um dos anseios mais caros da história humana: de ser sempre acolhido independente da condição social e moral e de ser tratado humanamente. Como prática cria as políticas que viabilizam e ordenam a acolhida. Mas, por ser concreta, sofre os desafios, os constrangimentos e as imitações das situações dadas.", "alternativas": [{"id": "A", "texto": "hospitalidade é, para outros ainda, uma maneira de se viver em conjunto regida de modo bem definido por certas regras, ritos e leis. Nesse sentido, a hospitalidade é concebida não apenas como uma forma essencial de interação social, mas também como uma rigorosa forma de humanização, uma das formas administráveis de uma socialização verdadeira. (Disponível em: O sentido e a coesão da frase \"Ela, como o amor incondicional, em princípio, não rejeita nem discrimina a ninguém\" (2º parágrafo) permanecem basicamente respeitados caso se substitua o segmento sublinhado por:"}, {"id": "A", "texto": "\"No caso incondicional do amor, a princípio ela\""}, {"id": "B", "texto": "\"Ela, em princípio, ainda quando seja um amor incondicional\""}, {"id": "C", "texto": "\"Por princípio sendo ela um amor incondicional, portanto\""}, {"id": "D", "texto": "\"Se for adotado o princípio de um amor incondicional, ela\" E \"Em princípio, à semelhança do amor incondicional, ela\""}], "resposta_correta": "E", "fundamentacao_correta": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [E] ('') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta segundo a norma culta e o padrão FCC: 'hospitalidade é, para outros ainda, uma maneira de se viver em conjunto regida d...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "A", "motivo": "Incorreta segundo a norma culta e o padrão FCC: '\"No caso incondicional do amor, a princípio ela\"...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "B", "motivo": "Incorreta segundo a norma culta e o padrão FCC: '\"Ela, em princípio, ainda quando seja um amor incondicional\"...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "C", "motivo": "Incorreta segundo a norma culta e o padrão FCC: '\"Por princípio sendo ela um amor incondicional, portanto\"...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}, {"letra": "D", "motivo": "Incorreta segundo a norma culta e o padrão FCC: '\"Se for adotado o princípio de um amor incondicional, ela\" E \"Em princípio, à se...' apresenta desvio conceitual, pontuação inadequada ou extrapolação do sentido original."}], "comentario": "Com base na leitura analítica e nos mecanismos de inferência textual e coesão, a tese central e a intenção comunicativa do autor orientam a resposta correta. A alternativa [E] ('') sintetiza fielmente as ideias desenvolvidas no texto de apoio.", "id": "FCC_LP0755", "numero_ordem": 755}];
+export const questoes = [
+  {
+    "codigo_origem": "Q4394438",
+    "numero_original": 26,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sapezal - MT Provas: SELECON - 2026 - Prefeitura de Sapezal - MT - Secretário Escolar",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Sapezal - MT - Motorista de",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "... Em relação ao desenvolvimento do texto, o título “Anvisa atualiza regras sanitárias para aeroportos e aviões”:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "restringe o assunto às aeronaves comerciais"
+      },
+      {
+        "id": "B",
+        "texto": "antecipa a revogação de todos os controles anteriores"
+      },
+      {
+        "id": "C",
+        "texto": "sintetiza o foco da atualização normativa apresentada no texto"
+      },
+      {
+        "id": "D",
+        "texto": "destaca uma punição aplicada aos aeroportos de maior movimento"
+      }
+    ],
+    "resposta_correta": "C",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [C] ('sintetiza o foco da atualização normativa apresentada no texto') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'restringe o assunto às aeronaves comerciais...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'antecipa a revogação de todos os controles anteriores...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'destaca uma punição aplicada aos aeroportos de maior movimento...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [C] ('sintetiza o foco da atualização normativa apresentada no texto') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "PT0206",
+    "numero_ordem": 206,
+    "resposta": "C",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [C] ('sintetiza o foco da atualização normativa apresentada no texto') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q3285961",
+    "numero_original": 7,
+    "banca": "SELECON",
+    "orgao": "CEFET-RJ Prova: SELECON - 2025 - CEFET-RJ - Cursos Integrados (Produção Cultural/Automação",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - CEFET-RJ - Cursos Integrados (Produção Cultural/Automação",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "Industrial) O elemento “diante disso”, ao estabelecer um vínculo coesivo entre períodos no quinto parágrafo, pode ser substituído, mantendo a equivalência de sentido, pela seguinte expressão:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "em cima disso"
+      },
+      {
+        "id": "B",
+        "texto": "em vista disso"
+      },
+      {
+        "id": "C",
+        "texto": "apesar disso"
+      },
+      {
+        "id": "D",
+        "texto": "além disso"
+      }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [B] ('em vista disso') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'em cima disso...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'apesar disso...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'além disso...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [B] ('em vista disso') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "PT0367",
+    "numero_ordem": 367,
+    "resposta": "B",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [B] ('em vista disso') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q4341767",
+    "numero_original": 47,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Lucas do Rio Verde - MT Prova: SELECON - 2026 - Prefeitura de Lucas do Rio Verde -",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Lucas do Rio Verde -",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "A referência aos estados menos populosos, após a apresentação de São Paulo, Minas Gerais e Rio de Janeiro, produz no texto o efeito de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "explicar as causas responsáveis pelo crescimento demográfico nacional"
+      },
+      {
+        "id": "B",
+        "texto": "demonstrar que os estados brasileiros possuem populações equivalentes"
+      },
+      {
+        "id": "C",
+        "texto": "substituir os dados anteriores por informações consideradas mais relevantes"
+      },
+      {
+        "id": "D",
+        "texto": "ampliar a comparação entre diferentes extremos da distribuição populacional"
+      }
+    ],
+    "resposta_correta": "D",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [D] ('ampliar a comparação entre diferentes extremos da distribuição populacional') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'explicar as causas responsáveis pelo crescimento demográfico nacional...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'demonstrar que os estados brasileiros possuem populações equivalentes...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'substituir os dados anteriores por informações consideradas mais relevantes...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [D] ('ampliar a comparação entre diferentes extremos da distribuição populacional') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "PT0427",
+    "numero_ordem": 427,
+    "resposta": "D",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [D] ('ampliar a comparação entre diferentes extremos da distribuição populacional') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q4341765",
+    "numero_original": 49,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Lucas do Rio Verde - MT Prova: SELECON - 2026 - Prefeitura de Lucas do Rio Verde -",
+    "ano": 2026,
+    "prova": "SELECON - 2026 - Prefeitura de Lucas do Rio Verde -",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "A sequência das informações apresentadas nos dois primeiros parágrafos permite concluir que o texto:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "anuncia o dado principal e, em seguida, interpreta sua evolução recente"
+      },
+      {
+        "id": "B",
+        "texto": "descreve dados históricos e, ao final, abandona a análise da situação atual"
+      },
+      {
+        "id": "C",
+        "texto": "apresenta hipóteses iniciais e, depois, comprova integralmente suas previsões"
+      },
+      {
+        "id": "D",
+        "texto": "compara estudos distintos e, posteriormente, questiona seus resultados principais"
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [A] ('anuncia o dado principal e, em seguida, interpreta sua evolução recente') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'descreve dados históricos e, ao final, abandona a análise da situação atual...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'apresenta hipóteses iniciais e, depois, comprova integralmente suas previsões...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'compara estudos distintos e, posteriormente, questiona seus resultados principai...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [A] ('anuncia o dado principal e, em seguida, interpreta sua evolução recente') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "PT0429",
+    "numero_ordem": 429,
+    "resposta": "A",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [A] ('anuncia o dado principal e, em seguida, interpreta sua evolução recente') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q3197343",
+    "numero_original": 15,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sinop - MT Prova: SELECON - 2025 - Prefeitura de Sinop - MT - Nível Fundamental",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Nível Fundamental",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "Incompleto (101 a 106) “Esse cara trabalha com ela”. A palavra destacada, na tirinha, faz referência:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "à barata"
+      },
+      {
+        "id": "B",
+        "texto": "à professora Mel"
+      },
+      {
+        "id": "C",
+        "texto": "à flor que a barata segura"
+      },
+      {
+        "id": "D",
+        "texto": "à casa onde mora a professora Mel"
+      }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [B] ('à professora Mel') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'à barata...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'à flor que a barata segura...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'à casa onde mora a professora Mel...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [B] ('à professora Mel') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "PT0455",
+    "numero_ordem": 455,
+    "resposta": "B",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [B] ('à professora Mel') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q3412118",
+    "numero_original": 12,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de São Gonçalo - RJ",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de São Gonçalo - RJ - Professor",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "Docente I - Português “O surgimento em 2022 do ChatGPT, um robô de inteligência artificial (IA) capaz de escrever uma redação em questão de segundos, levanta preocupação sobre seu possível impacto em diversos setores, inclusive nos livros” (2.º parágrafo). Nesse trecho, em termos de coesão textual, o elemento destacado faz referência:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "a livros"
+      },
+      {
+        "id": "B",
+        "texto": "ao ChatGPT"
+      },
+      {
+        "id": "C",
+        "texto": "à escrita de “uma redação”"
+      },
+      {
+        "id": "D",
+        "texto": "aos impactos em diversos setores"
+      }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [B] ('ao ChatGPT') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'a livros...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'à escrita de “uma redação”...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'aos impactos em diversos setores...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [B] ('ao ChatGPT') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "PT0552",
+    "numero_ordem": 552,
+    "resposta": "B",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [B] ('ao ChatGPT') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q4340093",
+    "numero_original": 63,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Lucas do Rio Verde - MT Provas: SELECON - 2026 - Prefeitura de Lucas do Rio Verde -",
+    "ano": 2026,
+    "prova": "",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "De acordo com a organização cronológica dos acontecimentos, antes de Miguel subir ao sótão:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "os irmãos já haviam aberto juntos o baú antigo"
+      },
+      {
+        "id": "B",
+        "texto": "Helena já havia encontrado a chave no livro do avô"
+      },
+      {
+        "id": "C",
+        "texto": "Miguel já havia lido a mensagem escrita no caderno"
+      },
+      {
+        "id": "D",
+        "texto": "Helena já havia descoberto as fotografias e as cartas"
+      }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [B] ('Helena já havia encontrado a chave no livro do avô') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'os irmãos já haviam aberto juntos o baú antigo...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Miguel já havia lido a mensagem escrita no caderno...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Helena já havia descoberto as fotografias e as cartas...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [B] ('Helena já havia encontrado a chave no livro do avô') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "PT0643",
+    "numero_ordem": 643,
+    "resposta": "B",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [B] ('Helena já havia encontrado a chave no livro do avô') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q4340089",
+    "numero_original": 67,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Lucas do Rio Verde - MT Provas: SELECON - 2026 - Prefeitura de Lucas do Rio Verde -",
+    "ano": 2026,
+    "prova": "",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "“Dentro do baú, porém, não havia joias nem objetos valiosos” (4º parágrafo). Nesse trecho, a palavra em destaque introduz uma ideia de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "oposição ao que se esperava encontrar"
+      },
+      {
+        "id": "B",
+        "texto": "explicação para a origem dos objetos encontrados"
+      },
+      {
+        "id": "C",
+        "texto": "conclusão acerca da descoberta realizada pelos irmãos"
+      },
+      {
+        "id": "D",
+        "texto": "consequência imediata da abertura da fechadura do baú"
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [A] ('oposição ao que se esperava encontrar') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'explicação para a origem dos objetos encontrados...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'conclusão acerca da descoberta realizada pelos irmãos...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'consequência imediata da abertura da fechadura do baú...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [A] ('oposição ao que se esperava encontrar') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "PT0647",
+    "numero_ordem": 647,
+    "resposta": "A",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [A] ('oposição ao que se esperava encontrar') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q3096883",
+    "numero_original": 826,
+    "banca": "SELECON",
+    "orgao": "Câmara de Itabi - SE",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Câmara de Itabi - SE - Serviços Gerais",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "No texto, lê-se: “Esta carga excede as minhas forças, e o remédio é repartirmos o peso irmãmente, seis arrobas para cada um”. Em seguida, segundo o texto, o burro tropica e vai ao chão. Podemos dizer que entre o excesso de peso (indicado na fala do burro) e a queda do animal, há uma relação de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "fato e opinião"
+      },
+      {
+        "id": "B",
+        "texto": "causa e efeito"
+      },
+      {
+        "id": "C",
+        "texto": "fato e finalidade"
+      },
+      {
+        "id": "D",
+        "texto": "causa e conclusão"
+      }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [B] ('causa e efeito') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'fato e opinião...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'fato e finalidade...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'causa e conclusão...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [B] ('causa e efeito') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "PT0706",
+    "numero_ordem": 706,
+    "resposta": "B",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [B] ('causa e efeito') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q4324790",
+    "numero_original": 93,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Araçás - BA",
+    "ano": 2026,
+    "prova": "",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "Provas: SELECON - 2026 - Prefeitura de Araçás - BA - Assistente Administrativo - Secretaria de Saúde ... A partir das informações do texto, conclui-se que a transferência de parte dos recursos do SVR para o FGO:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "impediu o resgate dos valores pelos titulares"
+      },
+      {
+        "id": "B",
+        "texto": "extinguiu o direito de reivindicação dos recursos"
+      },
+      {
+        "id": "C",
+        "texto": "alterou o destino dos recursos, mas preservou a possibilidade de contestação"
+      },
+      {
+        "id": "D",
+        "texto": "tornou definitiva a incorporação dos recursos ao fundo público independentemente da manifestação dos titulares"
+      }
+    ],
+    "resposta_correta": "C",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [C] ('alterou o destino dos recursos, mas preservou a possibilidade de contestação') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'impediu o resgate dos valores pelos titulares...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'extinguiu o direito de reivindicação dos recursos...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'tornou definitiva a incorporação dos recursos ao fundo público independentemente...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [C] ('alterou o destino dos recursos, mas preservou a possibilidade de contestação') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "PT0873",
+    "numero_ordem": 873,
+    "resposta": "C",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [C] ('alterou o destino dos recursos, mas preservou a possibilidade de contestação') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q2451009",
+    "numero_original": 19,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sapezal - MT Provas: SELECON - 2024 - Prefeitura de Sapezal - MT - Procurador",
+    "ano": 2024,
+    "prova": "",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "... Em “A empresa disse ainda que a concessionária não usou o equipamento e solicitou outro tipo, ‘que está em mobilização com previsão de chegada para a próxima semana’” (3º parágrafo), a expressão destacada faz referência ao termo:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Aeroporto Internacional Tom Jobim"
+      },
+      {
+        "id": "B",
+        "texto": "RIOGaleão"
+      },
+      {
+        "id": "C",
+        "texto": "Pier Sul"
+      },
+      {
+        "id": "D",
+        "texto": "Light"
+      }
+    ],
+    "resposta_correta": "D",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [D] ('Light') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Aeroporto Internacional Tom Jobim...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'RIOGaleão...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Pier Sul...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [D] ('Light') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "PT0998",
+    "numero_ordem": 998,
+    "resposta": "D",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [D] ('Light') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q4251002",
+    "numero_original": 111,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Conquista D'Oeste - MT Provas: SELECON - 2026 - Prefeitura de Conquista D'Oeste -",
+    "ano": 2026,
+    "prova": "",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "No trecho \"Ninguém enxerga ninguém. Só o aparelhinho\" (7º parágrafo), o termo em destaque retoma:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "os óculos de realidade virtual descritos implicitamente no parágrafo anterior"
+      },
+      {
+        "id": "B",
+        "texto": "qualquer dispositivo eletrônico portátil, incluindo tablets e câmeras fotográficas"
+      },
+      {
+        "id": "C",
+        "texto": "o celular, referido ao longo do texto como extensão do comportamento conectado"
+      },
+      {
+        "id": "D",
+        "texto": "o iPad, mencionado no 3º parágrafo, como símbolo do entretenimento digital infantil"
+      }
+    ],
+    "resposta_correta": "C",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [C] ('o celular, referido ao longo do texto como extensão do comportamento conectado') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'os óculos de realidade virtual descritos implicitamente no parágrafo anterior...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'qualquer dispositivo eletrônico portátil, incluindo tablets e câmeras fotográfic...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'o iPad, mencionado no 3º parágrafo, como símbolo do entretenimento digital infan...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [C] ('o celular, referido ao longo do texto como extensão do comportamento conectado') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "PT1045",
+    "numero_ordem": 1045,
+    "resposta": "C",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [C] ('o celular, referido ao longo do texto como extensão do comportamento conectado') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q4220096",
+    "numero_original": 17,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Araçás - BA",
+    "ano": 2026,
+    "prova": "",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "Provas: SELECON - 2026 - Prefeitura de Araçás - BA - Bombeiro Civil Municipal ... Em \"[...] gerando uma distração que é eficaz a curto prazo e, justamente por isso, se repete\" (5º parágrafo), a expressão destacada introduz ideia de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "consequência"
+      },
+      {
+        "id": "B",
+        "texto": "finalidade"
+      },
+      {
+        "id": "C",
+        "texto": "condição"
+      },
+      {
+        "id": "D",
+        "texto": "adição"
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [A] ('consequência') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'finalidade...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'condição...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'adição...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [A] ('consequência') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "PT1071",
+    "numero_ordem": 1071,
+    "resposta": "A",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [A] ('consequência') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q4220095",
+    "numero_original": 18,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Araçás - BA",
+    "ano": 2026,
+    "prova": "",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "Provas: SELECON - 2026 - Prefeitura de Araçás - BA - Bombeiro Civil Municipal ... A coerência do texto decorre, principalmente, da:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "repetição lexical"
+      },
+      {
+        "id": "B",
+        "texto": "enumeração cronológica"
+      },
+      {
+        "id": "C",
+        "texto": "progressão lógica das explicações"
+      },
+      {
+        "id": "D",
+        "texto": "predominância de sequências narrativas"
+      }
+    ],
+    "resposta_correta": "C",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [C] ('progressão lógica das explicações') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'repetição lexical...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'enumeração cronológica...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'predominância de sequências narrativas...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [C] ('progressão lógica das explicações') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "PT1072",
+    "numero_ordem": 1072,
+    "resposta": "C",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [C] ('progressão lógica das explicações') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q4432454",
+    "numero_original": 2,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT Provas: SELECON - 2026 - Prefeitura de Nova Mutum - MT - Agente",
+    "ano": 2026,
+    "prova": "",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "Administrativo ... A expressão “Esses profissionais” (7º parágrafo) retoma os:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "especialistas de Harvard citados anteriormente"
+      },
+      {
+        "id": "B",
+        "texto": "autores dos estudos sobre treinamento de força"
+      },
+      {
+        "id": "C",
+        "texto": "adultos mais velhos mencionados anteriormente"
+      },
+      {
+        "id": "D",
+        "texto": "integrantes da OMS que estabeleceram os minutos semanais"
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [A] ('especialistas de Harvard citados anteriormente') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'autores dos estudos sobre treinamento de força...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'adultos mais velhos mencionados anteriormente...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'integrantes da OMS que estabeleceram os minutos semanais...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [A] ('especialistas de Harvard citados anteriormente') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "PT1116",
+    "numero_ordem": 1116,
+    "resposta": "A",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [A] ('especialistas de Harvard citados anteriormente') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q4400007",
+    "numero_original": 14,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Barra do Bugres - MT Provas: SELECON - 2026 - Prefeitura de Barra do Bugres - MT -",
+    "ano": 2026,
+    "prova": "",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "Engenheiro Ambiental ... No primeiro parágrafo, a expressão “uma sequência de notícias” ganha sentido mais preciso quando se considera que o texto:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "reúne informações antigas sobre a formação do Deep Purple"
+      },
+      {
+        "id": "B",
+        "texto": "compara a atuação de diferentes músicos do cenário do rock"
+      },
+      {
+        "id": "C",
+        "texto": "apresenta opiniões divergentes sobre a trajetória musical da banda"
+      },
+      {
+        "id": "D",
+        "texto": "articula diferentes acontecimentos recentes relacionados ao Deep Purple"
+      }
+    ],
+    "resposta_correta": "D",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [D] ('articula diferentes acontecimentos recentes relacionados ao Deep Purple') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'reúne informações antigas sobre a formação do Deep Purple...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'compara a atuação de diferentes músicos do cenário do rock...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'apresenta opiniões divergentes sobre a trajetória musical da banda...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [D] ('articula diferentes acontecimentos recentes relacionados ao Deep Purple') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "PT1128",
+    "numero_ordem": 1128,
+    "resposta": "D",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [D] ('articula diferentes acontecimentos recentes relacionados ao Deep Purple') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q3538920",
+    "numero_original": 364,
+    "banca": "FCC",
+    "orgao": "TRF - 4ª REGIÃO",
+    "ano": 2025,
+    "prova": "FCC - 2025 - TRF - 4ª REGIÃO - Técnico Judiciário - Área Administrativa",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "Do ponto de vista da coesão textual, a construção Por um lado [...] por outro (3º parágrafo) tem como função:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Contrapor o passado idealizado à presente degradação social."
+      },
+      {
+        "id": "B",
+        "texto": "Estabelecer oposição entre os benefícios e os prejuízos da interatividade."
+      },
+      {
+        "id": "C",
+        "texto": "Retomar uma enumeração iniciada no parágrafo anterior."
+      },
+      {
+        "id": "D",
+        "texto": "Enfatizar a importância de ouvir todas as vozes da sociedade."
+      },
+      {
+        "id": "E",
+        "texto": "Introduzir uma sequência de ações contrárias à modernização."
+      }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [B] ('Estabelecer oposição entre os benefícios e os prejuízos da interatividade.') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Contrapor o passado idealizado à presente degradação social....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Retomar uma enumeração iniciada no parágrafo anterior....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Enfatizar a importância de ouvir todas as vozes da sociedade....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Introduzir uma sequência de ações contrárias à modernização....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [B] ('Estabelecer oposição entre os benefícios e os prejuízos da interatividade.') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "FCC_LP0183",
+    "numero_ordem": 183,
+    "resposta": "B",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [B] ('Estabelecer oposição entre os benefícios e os prejuízos da interatividade.') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q4231603",
+    "numero_original": 33,
+    "banca": "FCC",
+    "orgao": "TJ-CE",
+    "ano": 2026,
+    "prova": "FCC - 2026 - TJ-CE - Técnico Judiciário - Área Judiciária",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "Noções Gerais de Compreensão e Interpretação de Texto Omite-se uma palavra que se subentende pelo contexto em:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "um alto forno de usina siderúrgica"
+      },
+      {
+        "id": "B",
+        "texto": "o drama do papel em branco na máquina"
+      },
+      {
+        "id": "C",
+        "texto": "Uma simples folha de papel"
+      },
+      {
+        "id": "D",
+        "texto": "uma marcha mais veloz que a dos miolos"
+      },
+      {
+        "id": "E",
+        "texto": "O romance espera"
+      }
+    ],
+    "resposta_correta": "D",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [D] ('uma marcha mais veloz que a dos miolos') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'um alto forno de usina siderúrgica...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'o drama do papel em branco na máquina...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Uma simples folha de papel...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'O romance espera...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [D] ('uma marcha mais veloz que a dos miolos') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "FCC_LP0212",
+    "numero_ordem": 212,
+    "resposta": "D",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [D] ('uma marcha mais veloz que a dos miolos') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q4231601",
+    "numero_original": 35,
+    "banca": "FCC",
+    "orgao": "TJ-CE",
+    "ano": 2026,
+    "prova": "FCC - 2026 - TJ-CE - Técnico Judiciário - Área Judiciária",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "Vocativo e Termos Acessórios da Oração: Adjunto Adnominal, Diferença entre Adjunto Adnominal e Complemento Nom Sem que nenhuma outra alteração seja feita e sem prejuízo para a correção gramatical, o trecho que pode ser removido da frase está sublinhado em:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "o jornal é que é o grande tirano"
+      },
+      {
+        "id": "B",
+        "texto": "vivemos todos os que dependemos da fera"
+      },
+      {
+        "id": "C",
+        "texto": "Ontem, num programa de TV, discutíamos"
+      },
+      {
+        "id": "D",
+        "texto": "brota de repente uma ideia que é um clarão"
+      },
+      {
+        "id": "E",
+        "texto": "Quando esse branco se dá na produção de livro"
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [A] ('o jornal é que é o grande tirano') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'vivemos todos os que dependemos da fera...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Ontem, num programa de TV, discutíamos...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'brota de repente uma ideia que é um clarão...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Quando esse branco se dá na produção de livro...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [A] ('o jornal é que é o grande tirano') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "FCC_LP0214",
+    "numero_ordem": 214,
+    "resposta": "A",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [A] ('o jornal é que é o grande tirano') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q3530330",
+    "numero_original": 394,
+    "banca": "FCC",
+    "orgao": "MPE-PI",
+    "ano": 2025,
+    "prova": "FCC - 2025 - MPE-PI - Analista Ministerial - Área Processual",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "Retoma uma expressão mencionada anteriormente no texto a palavra sublinhada em:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Isso é o maior verso da língua portuguesa! (3º parágrafo)"
+      },
+      {
+        "id": "B",
+        "texto": "um outro rádio com o samba (4º parágrafo)"
+      },
+      {
+        "id": "C",
+        "texto": "tenha a bondade de não continuar a ler isto. (12 parágrafo)"
+      },
+      {
+        "id": "D",
+        "texto": "e eu respondo: \"eu que o diga!\"(1º parágrafo)"
+      },
+      {
+        "id": "E",
+        "texto": "tenha a bondade de não continuar a ler isto. (1º parágrafo)"
+      }
+    ],
+    "resposta_correta": "D",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [D] ('e eu respondo: \"eu que o diga!\"(1º parágrafo)') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Isso é o maior verso da língua portuguesa! (3º parágrafo)...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'um outro rádio com o samba (4º parágrafo)...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'tenha a bondade de não continuar a ler isto. (12 parágrafo)...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'tenha a bondade de não continuar a ler isto. (1º parágrafo)...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [D] ('e eu respondo: \"eu que o diga!\"(1º parágrafo)') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "FCC_LP0231",
+    "numero_ordem": 231,
+    "resposta": "D",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [D] ('e eu respondo: \"eu que o diga!\"(1º parágrafo)') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q3386957",
+    "numero_original": 445,
+    "banca": "FCC",
+    "orgao": "DPE-RS",
+    "ano": 2025,
+    "prova": "FCC - 2025 - DPE-RS - Defensor Público",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "Com as devidas alterações, o trecho Dai a necessidade do mito. A falsa consciência oculta a realidade e simplifica as coisas. Todo o complexo de privilégios, padrões de comportamento e \"valores\" de uma ordem social arcaica podia manter-se intacto... , compõe um único período, mantendo a coerência, e, em linhas gerais, o sentido original, em:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Daí a necessidade do mito, ainda que a falsa consciência oculte a realidade e simplifique as coisas, enquanto todo o complexo de privilégios, padrões de comportamento e \"valores\" de uma ordem social arcaica pudesse manter-se intacto..."
+      },
+      {
+        "id": "B",
+        "texto": "Daí a necessidade do mito, de tal modo que a falsa consciência oculte a realidade e simplifique as coisas, uma vez que todo o complexo de privilégios, padrões de comportamento e \"valores\" de uma ordem social arcaica podia manter-se intacto..."
+      },
+      {
+        "id": "C",
+        "texto": "Daí a necessidade do mito, porquanto a falsa consciência oculta a realidade e simplifica as coisas, de maneira que todo o complexo de privilégios, padrões de comportamento e \"valores\" de uma ordem social arcaica podia manter-se intacto..."
+      },
+      {
+        "id": "D",
+        "texto": "Dai a necessidade do mito, conquanto a falsa consciencia oculta a realidade e simplifica as coisas, portanto todo o complexo de privilégios, padrões de comportamento e \"valores\" de uma ordem social arcaica podia manter-se intacto..."
+      },
+      {
+        "id": "E",
+        "texto": "Daí a necessidade do mito, para que a falsa consciência oculte a realidade e simplifique as coisas, embora todo o complexo de privilégios, padrões de comportamento e \"valores\" de uma ordem social arcaica pudesse manter-se intacto..."
+      }
+    ],
+    "resposta_correta": "C",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [C] ('Daí a necessidade do mito, porquanto a falsa consciência oculta a realidade e simplifica as coisas, de maneira que todo o complexo de privilégios, padrões de comportamento e \"valores\" de uma ordem social arcaica podia manter-se intacto...') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Daí a necessidade do mito, ainda que a falsa consciência oculte a realidade e si...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Daí a necessidade do mito, de tal modo que a falsa consciência oculte a realidad...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Dai a necessidade do mito, conquanto a falsa consciencia oculta a realidade e si...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Daí a necessidade do mito, para que a falsa consciência oculte a realidade e sim...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [C] ('Daí a necessidade do mito, porquanto a falsa consciência oculta a realidade e simplifica as coisas, de maneira que todo o complexo de privilégios, padrões de comportamento e \"valores\" de uma ordem social arcaica podia manter-se intacto...') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "FCC_LP0280",
+    "numero_ordem": 280,
+    "resposta": "C",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [C] ('Daí a necessidade do mito, porquanto a falsa consciência oculta a realidade e simplifica as coisas, de maneira que todo o complexo de privilégios, padrões de comportamento e \"valores\" de uma ordem social arcaica podia manter-se intacto...') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q3295797",
+    "numero_original": 483,
+    "banca": "FCC",
+    "orgao": "TRT - 15ª Região (SP)",
+    "ano": 2025,
+    "prova": "FCC - 2025 - TRT - 15ª Região (SP) - Analista Judiciário - Área",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "Noções Gerais de Compreensão e Interpretação de Texto Judiciária Ao especular sobre a origem do carinho que passou a sentir pelo seu guarda-chuva, o autor considera que esse sentimento se deve ao fato de o guarda-chuva",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "constituir uma positiva imagem de algo permanente."
+      },
+      {
+        "id": "B",
+        "texto": "ter uma funcionalidade que se adapta às mudanças"
+      },
+      {
+        "id": "C",
+        "texto": "contrapor-se à inutilidade dos engenhos modernos."
+      },
+      {
+        "id": "D",
+        "texto": "evocar lembranças afetivas de um passado remoto."
+      },
+      {
+        "id": "E",
+        "texto": "modernizar-se sem trair sua função primitiva."
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [A] ('constituir uma positiva imagem de algo permanente.') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'ter uma funcionalidade que se adapta às mudanças...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'contrapor-se à inutilidade dos engenhos modernos....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'evocar lembranças afetivas de um passado remoto....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'modernizar-se sem trair sua função primitiva....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [A] ('constituir uma positiva imagem de algo permanente.') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "FCC_LP0318",
+    "numero_ordem": 318,
+    "resposta": "A",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [A] ('constituir uma positiva imagem de algo permanente.') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q3281711",
+    "numero_original": 531,
+    "banca": "FCC",
+    "orgao": "Prefeitura de São Paulo - SP",
+    "ano": 2025,
+    "prova": "FCC - 2025 - Prefeitura de São Paulo - SP - Auditor",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "Municipal de Controle Interno - AMCI Área de Especialização: Geral Acerca dos recursos coesivos no texto de Rubem Braga,",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "termos como multidão, coletivo de pessoas, que, por sua vez, é hiperonímia para homens e mulheres, bem como a metonímia caras, favorecem a coesão do texto, além de acrescentar novos matizes de sentido; no caso deste último termo, destaca-se a parte do corpo pela qual se costuma reconhecer alguém."
+      },
+      {
+        "id": "B",
+        "texto": "a subordinação, usada preferencialmente à coordenação sintática, confere à crônica um caráter poético, uma vez que determina com precisão as relações de sentido entre as orações, exceção feita ao pronome onde, que tende a indeterminar a localização do personagem."
+      },
+      {
+        "id": "C",
+        "texto": "os advérbios de tempo contrapõem-se ao uso constante do presente do indicativo, desenvolvendo uma tensão narrativa rompida apenas pelo desfecho da crônica, com o verbo no pretérito ficou, na última frase."
+      },
+      {
+        "id": "D",
+        "texto": "o uso contínuo da conjunção e, notadamente no terceiro parágrafo, corrobora o contraponto temporal entre o passado e o presente do cronista, entre a cidade em que escolhera viver e aquela que reencontra."
+      },
+      {
+        "id": "E",
+        "texto": "os pronomes esse, essa, este, esta e seus derivados, abundantes no texto, eximem o autor da busca por correlatos dos substantivos a que fazem referência, garantindo, no entanto, que a coesão mantenha a clareza e o andamento da narração."
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [A] ('termos como multidão, coletivo de pessoas, que, por sua vez, é hiperonímia para homens e mulheres, bem como a metonímia caras, favorecem a coesão do texto, além de acrescentar novos matizes de sentido; no caso deste último termo, destaca-se a parte do corpo pela qual se costuma reconhecer alguém.') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'a subordinação, usada preferencialmente à coordenação sintática, confere à crôni...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'os advérbios de tempo contrapõem-se ao uso constante do presente do indicativo, ...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'o uso contínuo da conjunção e, notadamente no terceiro parágrafo, corrobora o co...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'os pronomes esse, essa, este, esta e seus derivados, abundantes no texto, eximem...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [A] ('termos como multidão, coletivo de pessoas, que, por sua vez, é hiperonímia para homens e mulheres, bem como a metonímia caras, favorecem a coesão do texto, além de acrescentar novos matizes de sentido; no caso deste último termo, destaca-se a parte do corpo pela qual se costuma reconhecer alguém.') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "FCC_LP0365",
+    "numero_ordem": 365,
+    "resposta": "A",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [A] ('termos como multidão, coletivo de pessoas, que, por sua vez, é hiperonímia para homens e mulheres, bem como a metonímia caras, favorecem a coesão do texto, além de acrescentar novos matizes de sentido; no caso deste último termo, destaca-se a parte do corpo pela qual se costuma reconhecer alguém.') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q3216469",
+    "numero_original": 557,
+    "banca": "FCC",
+    "orgao": "TRT - 6ª Região (PE)",
+    "ano": 2025,
+    "prova": "FCC - 2025 - TRT - 6ª Região (PE) - Analista Judiciário - Área Apoio",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "Ferramentas úteis e necessárias, quando mal utilizadas, podem tornar-se letais. Reescrevendo-se o período acima começando por A má utilização de ferramentas, uma complementação correta e coerente será",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "pode ser letal, uma vez que sejam úteis e necessárias."
+      },
+      {
+        "id": "B",
+        "texto": "ainda quando úteis e necessárias, pode tornar-se letal."
+      },
+      {
+        "id": "C",
+        "texto": "conquanto úteis e necessárias, podem tornar-se letais."
+      },
+      {
+        "id": "D",
+        "texto": "a menos que úteis e necessárias, poderão tornar-se letais."
+      },
+      {
+        "id": "E",
+        "texto": "se tornaria letal, quando fossem úteis e necessárias."
+      }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [B] ('ainda quando úteis e necessárias, pode tornar-se letal.') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'pode ser letal, uma vez que sejam úteis e necessárias....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'conquanto úteis e necessárias, podem tornar-se letais....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'a menos que úteis e necessárias, poderão tornar-se letais....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'se tornaria letal, quando fossem úteis e necessárias....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [B] ('ainda quando úteis e necessárias, pode tornar-se letal.') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "FCC_LP0391",
+    "numero_ordem": 391,
+    "resposta": "B",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [B] ('ainda quando úteis e necessárias, pode tornar-se letal.') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q3216465",
+    "numero_original": 561,
+    "banca": "FCC",
+    "orgao": "TRT - 6ª Região (PE)",
+    "ano": 2025,
+    "prova": "FCC - 2025 - TRT - 6ª Região (PE) - Analista Judiciário - Área Apoio",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "\"Na medida do possível\" Nada mais elegante que dizer \"na medida do possível\". Que sería de nós sem a medida do possível? Sem a sensatez do senso de medida? Nada melhor do que viver - viver na medida do possível. \"Você me ama?\" \"Na medida do possível\". \"Você é honesto?\" \"Na medida do possível.\" \"Você quer viver eternamente?\" \"Na medida do possível\". \"Você está me dando o fora?\" \"Na medida do possível\". Falando agora mais a sério, essa expressão é também um Indice da maturidade modesta: pode indicar o cuidado realista de quem prefere não exagerar em nada e contar com os imprevistos, com os grandes obstáculos que surgem inopinadamente. Ela será mais comumente utilizada por adultos, por pessoas já experientes; dificil imaginar jovens dizendo \"na medida do possível\", quando a tendência deles é contar com medidas radicais. Entre as correntes filosóficas, talvez a do estoicismo seja a que melhor absorva a força dessa expressão. Um estoico não desafia as forças do destino: ele as respeita e conta sempre com a possibilidade de deparar com um desafio invencível, diante do qual ele manterá uma reação sóbria de quem resiste, sim, mas na medida do possível. Na linguagem comum, um estoico seria aquele que se recusa a dar murro em ponta de faca. Ele buscará se conter, na medida do possível. (Alcino Martinez, a editar) A frase Que seria de nós sem a medida do possível? ganha nova, correta e coerente redação em:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Haveríamos de ser quem, na medida que o possível nos faltasse?"
+      },
+      {
+        "id": "B",
+        "texto": "Caso a medida do possível viesse ausentar-nos, quem seríamos?"
+      },
+      {
+        "id": "C",
+        "texto": "Faltando-nos a medida do possível, o que haveria de ocorrer conosco?"
+      },
+      {
+        "id": "D",
+        "texto": "Onde chegaríamos se não nos contemplasse com a medida do possível?"
+      },
+      {
+        "id": "E",
+        "texto": "Quem seríamos se a medida do possível não viesse ao encontro de nós?"
+      }
+    ],
+    "resposta_correta": "C",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [C] ('Faltando-nos a medida do possível, o que haveria de ocorrer conosco?') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Haveríamos de ser quem, na medida que o possível nos faltasse?...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Caso a medida do possível viesse ausentar-nos, quem seríamos?...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Onde chegaríamos se não nos contemplasse com a medida do possível?...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Quem seríamos se a medida do possível não viesse ao encontro de nós?...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [C] ('Faltando-nos a medida do possível, o que haveria de ocorrer conosco?') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "FCC_LP0395",
+    "numero_ordem": 395,
+    "resposta": "C",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [C] ('Faltando-nos a medida do possível, o que haveria de ocorrer conosco?') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q4158799",
+    "numero_original": 47,
+    "banca": "FCC",
+    "orgao": "AL-RR",
+    "ano": 2026,
+    "prova": "FCC - 2026 - AL-RR - Analista Legislativo - Analista de Segurança da Informação",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "Noções Gerais de Compreensão e Interpretação de Texto Apresenta uma síntese coerente com o sentido geral do texto o que se encontra em:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "A história enfatiza o isolamento de Dario como consequência de sua escolha voluntária de permanecer na rua, sem esboçar qualquer interesse em uma intervenção externa."
+      },
+      {
+        "id": "B",
+        "texto": "O conto descreve uma ação coletiva espontânea em torno de um acontecimento urbano; a morte de Dario é tratada como motivo de intervenção positiva comunitária."
+      },
+      {
+        "id": "C",
+        "texto": "O conto retrata a comoção coletiva diante de um homem que recebe imediato socorro e atenção solidária de todos os que passam pelo local."
+      },
+      {
+        "id": "D",
+        "texto": "A narrativa evidencia a transformação de uma tragédia urbana em espetáculo público, marcado pela indiferença curiosidade das pessoas diante da morte de Dario."
+      },
+      {
+        "id": "E",
+        "texto": "O texto apresenta uma crítica ao sistema de saúde, destacando a ineficiência dos serviços de emergência no atendimento rápido às vítimas em vias públicas."
+      }
+    ],
+    "resposta_correta": "D",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [D] ('A narrativa evidencia a transformação de uma tragédia urbana em espetáculo público, marcado pela indiferença curiosidade das pessoas diante da morte de Dario.') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'A história enfatiza o isolamento de Dario como consequência de sua escolha volun...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'O conto descreve uma ação coletiva espontânea em torno de um acontecimento urban...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'O conto retrata a comoção coletiva diante de um homem que recebe imediato socorr...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'O texto apresenta uma crítica ao sistema de saúde, destacando a ineficiência dos...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [D] ('A narrativa evidencia a transformação de uma tragédia urbana em espetáculo público, marcado pela indiferença curiosidade das pessoas diante da morte de Dario.') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "FCC_LP0420",
+    "numero_ordem": 420,
+    "resposta": "D",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [D] ('A narrativa evidencia a transformação de uma tragédia urbana em espetáculo público, marcado pela indiferença curiosidade das pessoas diante da morte de Dario.') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q4156549",
+    "numero_original": 57,
+    "banca": "FCC",
+    "orgao": "AL-RR",
+    "ano": 2026,
+    "prova": "FCC - 2026 - AL-RR - Técnico Legislativo Especializado - Técnico em Enfermagem",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "Noções Gerais de Compreensão e Interpretação de Texto Considerando os argumentos e as conclusões do texto, está INCORRETA a ideia de que",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "a atuação isolada de professores é insuficiente para superar os desafios impostos pela falta de infraestrutura tecnológica nas escolas."
+      },
+      {
+        "id": "B",
+        "texto": "a disparidade regional de acesso à tecnologia é um fenômeno que pode ser alterado pela ação conjunta de diversos agentes."
+      },
+      {
+        "id": "C",
+        "texto": "a tecnologia por si só é incapaz de proporcionar uma formação educacional de qualidade."
+      },
+      {
+        "id": "D",
+        "texto": "a falta de investimentos impede a implementação eficiente de recursos tecnológicos na área da educação."
+      },
+      {
+        "id": "E",
+        "texto": "os investimentos em infraestrutura tecnológica são mais importantes do que os investimentos em capacitação de professores. Português > Sintaxe ,"
+      }
+    ],
+    "resposta_correta": "E",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [E] ('os investimentos em infraestrutura tecnológica são mais importantes do que os investimentos em capacitação de professores. Português > Sintaxe ,') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'a atuação isolada de professores é insuficiente para superar os desafios imposto...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'a disparidade regional de acesso à tecnologia é um fenômeno que pode ser alterad...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'a tecnologia por si só é incapaz de proporcionar uma formação educacional de qua...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'a falta de investimentos impede a implementação eficiente de recursos tecnológic...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [E] ('os investimentos em infraestrutura tecnológica são mais importantes do que os investimentos em capacitação de professores. Português > Sintaxe ,') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "FCC_LP0430",
+    "numero_ordem": 430,
+    "resposta": "E",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [E] ('os investimentos em infraestrutura tecnológica são mais importantes do que os investimentos em capacitação de professores. Português > Sintaxe ,') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q3481512",
+    "numero_original": 625,
+    "banca": "FCC",
+    "orgao": "TRT - 7ª Região (CE)",
+    "ano": 2024,
+    "prova": "FCC - 2024 - TRT - 7ª Região (CE) - Analista Judiciário - Área Apoio",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "Mas que importam as datas administrativas diante da poesia e dos mitos? Mantidas a correção e a coerência da frase acima, uma reconstrução adequada esta em:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "As datas administrativas o que seriam, aonde se deparam com a poesia e os mitos?"
+      },
+      {
+        "id": "B",
+        "texto": "A poesia e os mitos não seriam muito mais preferíveis do que as datas administrativas?"
+      },
+      {
+        "id": "C",
+        "texto": "A poesia e os mitos como serão menos importantes quanto as datas administrativas?"
+      },
+      {
+        "id": "D",
+        "texto": "Quanto podem a poesia e os mitos quanto à importância das datas administrativas?"
+      },
+      {
+        "id": "E",
+        "texto": "Diante da poesia e dos mitos, que relevância podem ter as datas administrativas?"
+      }
+    ],
+    "resposta_correta": "E",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [E] ('Diante da poesia e dos mitos, que relevância podem ter as datas administrativas?') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'As datas administrativas o que seriam, aonde se deparam com a poesia e os mitos?...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'A poesia e os mitos não seriam muito mais preferíveis do que as datas administra...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'A poesia e os mitos como serão menos importantes quanto as datas administrativas...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Quanto podem a poesia e os mitos quanto à importância das datas administrativas?...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [E] ('Diante da poesia e dos mitos, que relevância podem ter as datas administrativas?') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "FCC_LP0478",
+    "numero_ordem": 478,
+    "resposta": "E",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [E] ('Diante da poesia e dos mitos, que relevância podem ter as datas administrativas?') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q3233078",
+    "numero_original": 628,
+    "banca": "FCC",
+    "orgao": "TRT - 20ª REGIÃO (SE)",
+    "ano": 2024,
+    "prova": "FCC - 2024 - TRT - 20ª REGIÃO (SE) - Analista Judiciário - Área",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "Noções Gerais de Compreensão e Interpretação de Texto Judiciária - Especialidade: Oficial de Justiça Avaliador Federal É coerente, clara e correta a redação desta súmula do 4º parágrafo do texto:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Séculos depois de escritos, os versos de Lucrécio, conquanto vulneráveis aos profetas do apocalipse, mesmo assim professam sua crença nas ciências e na própria lucidez."
+      },
+      {
+        "id": "B",
+        "texto": "Os versos de Lucrécio, poeta lúcido e amigo da ciência, têm o espírito da modernidade que pode ajudar os que se sentem fracos diante dos profetas apocalípticos."
+      },
+      {
+        "id": "C",
+        "texto": "Aos mais vulneráveis pela crença no Apocalipse os versos de Lucrécio podem libertar-lhes através de seus versos em cujos resistem modernamente a lucidez da ciência."
+      },
+      {
+        "id": "D",
+        "texto": "Há modernidade nos versos de Lucrécio quando o mesmo se vale de sua lucidez apaixonada para afrontar os mais vulneráveis onde se proclamam profecias apocalípticas."
+      },
+      {
+        "id": "E",
+        "texto": "A modernidade de Lucrécio na passagem deste milênio estã em coibir a fragilidade dos vulneráveis por meio da resiliência das profecias de caráter meramente apocalíptico."
+      }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [B] ('Os versos de Lucrécio, poeta lúcido e amigo da ciência, têm o espírito da modernidade que pode ajudar os que se sentem fracos diante dos profetas apocalípticos.') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Séculos depois de escritos, os versos de Lucrécio, conquanto vulneráveis aos pro...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Aos mais vulneráveis pela crença no Apocalipse os versos de Lucrécio podem liber...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Há modernidade nos versos de Lucrécio quando o mesmo se vale de sua lucidez apai...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'A modernidade de Lucrécio na passagem deste milênio estã em coibir a fragilidade...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [B] ('Os versos de Lucrécio, poeta lúcido e amigo da ciência, têm o espírito da modernidade que pode ajudar os que se sentem fracos diante dos profetas apocalípticos.') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "FCC_LP0481",
+    "numero_ordem": 481,
+    "resposta": "B",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [B] ('Os versos de Lucrécio, poeta lúcido e amigo da ciência, têm o espírito da modernidade que pode ajudar os que se sentem fracos diante dos profetas apocalípticos.') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q3170450",
+    "numero_original": 660,
+    "banca": "FCC",
+    "orgao": "TRT - 20ª REGIÃO (SE)",
+    "ano": 2024,
+    "prova": "FCC - 2024 - TRT - 20ª REGIÃO (SE) - Técnico Judiciário - Área",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "Significação Contextual de Palavras e Expressões. Sinônimos e Antônimos. , Coesão e coerência A frase toda experiência toma a forma de uma história de aventuras seguirá correta e coerente caso se substitua o elemento sublinhado por",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "espelha-se aonde."
+      },
+      {
+        "id": "B",
+        "texto": "avizinha-se com."
+      },
+      {
+        "id": "C",
+        "texto": "aproxima-se por."
+      },
+      {
+        "id": "D",
+        "texto": "assemelha-se a."
+      },
+      {
+        "id": "E",
+        "texto": "compara-se mediante."
+      }
+    ],
+    "resposta_correta": "D",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [D] ('assemelha-se a.') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'espelha-se aonde....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'avizinha-se com....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'aproxima-se por....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'compara-se mediante....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [D] ('assemelha-se a.') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "FCC_LP0511",
+    "numero_ordem": 511,
+    "resposta": "D",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [D] ('assemelha-se a.') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q3089744",
+    "numero_original": 715,
+    "banca": "FCC",
+    "orgao": "TRT - 7ª Região (CE)",
+    "ano": 2024,
+    "prova": "FCC - 2024 - TRT - 7ª Região (CE) - Analista Judiciário - Área",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "Administrativa Atente para estas duas afirmações: I. A rotina e a quimera podem ser complementares. II. Alguns funcionários alternam a rotina e a quimera. Essas afirmações integram-se com clareza, correção e coerência neste período único:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Sendo alternadas, não se excluem completamente a rotina e a quimera dos funcionários."
+      },
+      {
+        "id": "B",
+        "texto": "Alguns funcionários, diante de tal alternativa, tornam complementares a rotina e a quimera."
+      },
+      {
+        "id": "C",
+        "texto": "Podendo ser complementares, a rotina e a quimera se alternam para alguns funcionários."
+      },
+      {
+        "id": "D",
+        "texto": "Conquanto alternadas, alguns funcionários complementam-se com a rotina e a quimera."
+      },
+      {
+        "id": "E",
+        "texto": "O uso de alguns funcionários da rotina e da quimera mostra que bem podem suprir-se."
+      }
+    ],
+    "resposta_correta": "C",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [C] ('Podendo ser complementares, a rotina e a quimera se alternam para alguns funcionários.') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Sendo alternadas, não se excluem completamente a rotina e a quimera dos funcioná...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Alguns funcionários, diante de tal alternativa, tornam complementares a rotina e...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Conquanto alternadas, alguns funcionários complementam-se com a rotina e a quime...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'O uso de alguns funcionários da rotina e da quimera mostra que bem podem suprir-...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [C] ('Podendo ser complementares, a rotina e a quimera se alternam para alguns funcionários.') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "FCC_LP0566",
+    "numero_ordem": 566,
+    "resposta": "C",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [C] ('Podendo ser complementares, a rotina e a quimera se alternam para alguns funcionários.') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q2762368",
+    "numero_original": 823,
+    "banca": "FCC",
+    "orgao": "TRT - 21ª Região (RN)",
+    "ano": 2023,
+    "prova": "FCC - 2023 - TRT - 21ª Região (RN) - Técnico Judiciário - Área",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "Noções Gerais de Compreensão e Interpretação de Texto Administrativa (Especialidade Agente da Polícia Judicial) Retoma um termo mencionado anteriormente no texto a palavra sublinhada em:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Mal sabia o seu Justinho (28º parágrafo)."
+      },
+      {
+        "id": "B",
+        "texto": "todos os homens abotoam a camisa de baixo para cima (26º parágrafo)."
+      },
+      {
+        "id": "C",
+        "texto": "Alguns começaram a tirar a camisa ali mesmo (9º parágrafo)."
+      },
+      {
+        "id": "D",
+        "texto": "nos dias seguintes passou a gostar ainda menos (22º parágrafo)."
+      },
+      {
+        "id": "E",
+        "texto": "Mas o seu Justinho os deteve (9º parágrafo)."
+      }
+    ],
+    "resposta_correta": "E",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [E] ('Mas o seu Justinho os deteve (9º parágrafo).') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Mal sabia o seu Justinho (28º parágrafo)....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'todos os homens abotoam a camisa de baixo para cima (26º parágrafo)....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Alguns começaram a tirar a camisa ali mesmo (9º parágrafo)....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'nos dias seguintes passou a gostar ainda menos (22º parágrafo)....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [E] ('Mas o seu Justinho os deteve (9º parágrafo).') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "FCC_LP0691",
+    "numero_ordem": 691,
+    "resposta": "E",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [E] ('Mas o seu Justinho os deteve (9º parágrafo).') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q2436617",
+    "numero_original": 866,
+    "banca": "FCC",
+    "orgao": "DPE-AM",
+    "ano": 2023,
+    "prova": "",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "Noções Gerais de Compreensão e Interpretação de Texto Provas: FCC - 2023 - DPE-AM - Assistente Técnico de Defensoria Especialidade: a mulher lhe ofereceu a foto (1º parágrafo) Ele olhou a imagem, e procurou com os olhos o lugar em que algum dia fora feliz (1º parágrafo) imaginei o que teria lhe acontecido durante o tempo em que viveu numa aldeia do sul do Libano (2º parágrafo) Os elementos sublinhados acima referem-se, respectivamente, a:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "foto — olhos — aldeia"
+      },
+      {
+        "id": "B",
+        "texto": "mulher — olhos — Yaqub"
+      },
+      {
+        "id": "C",
+        "texto": "Yaqub — lugar — tempo"
+      },
+      {
+        "id": "D",
+        "texto": "mulher - lugar - tempo"
+      },
+      {
+        "id": "E",
+        "texto": "Yaqub — imagem — aldeia"
+      }
+    ],
+    "resposta_correta": "C",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [C] ('Yaqub — lugar — tempo') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'foto — olhos — aldeia...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'mulher — olhos — Yaqub...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'mulher - lugar - tempo...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Yaqub — imagem — aldeia...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [C] ('Yaqub — lugar — tempo') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "FCC_LP0734",
+    "numero_ordem": 734,
+    "resposta": "C",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [C] ('Yaqub — lugar — tempo') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q2436559",
+    "numero_original": 874,
+    "banca": "FCC",
+    "orgao": "TRT - 12ª Região (SC)",
+    "ano": 2023,
+    "prova": "FCC - 2023 - TRT - 12ª Região (SC) - Analista Judiciario - Área",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "Administrativa Especialidade Contabilidade Atente para as seguintes orações: I. Há um lugar vazio dentro de nós. II. Nosso vazio íntimo nos traz angústia. III. Nossa angústia deriva do nosso niilismo. Essas três orações articulam-se de modo coeso e coerente neste período único:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "o vazio dentro de nós é o lugar íntimo do niilismo que redunda em nossa angústia."
+      },
+      {
+        "id": "B",
+        "texto": "Ainda que haja um vazio angustiante dentro de nós, de nosso íntimo nasce nosso niilismo."
+      },
+      {
+        "id": "C",
+        "texto": "A angústia nossa, de que deriva nosso niilismo, é um lugar vazio dentro de nós."
+      },
+      {
+        "id": "D",
+        "texto": "A angústia de que deriva nosso vazio íntimo ocupa o lugar do nosso niilismo."
+      },
+      {
+        "id": "E",
+        "texto": "Provém do nosso niilismo a angústia que nos traz o nosso vazio íntimo."
+      }
+    ],
+    "resposta_correta": "E",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [E] ('Provém do nosso niilismo a angústia que nos traz o nosso vazio íntimo.') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'o vazio dentro de nós é o lugar íntimo do niilismo que redunda em nossa angústia...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Ainda que haja um vazio angustiante dentro de nós, de nosso íntimo nasce nosso n...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'A angústia nossa, de que deriva nosso niilismo, é um lugar vazio dentro de nós....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'A angústia de que deriva nosso vazio íntimo ocupa o lugar do nosso niilismo....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [E] ('Provém do nosso niilismo a angústia que nos traz o nosso vazio íntimo.') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "FCC_LP0742",
+    "numero_ordem": 742,
+    "resposta": "E",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [E] ('Provém do nosso niilismo a angústia que nos traz o nosso vazio íntimo.') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q2436557",
+    "numero_original": 876,
+    "banca": "FCC",
+    "orgao": "TRT - 12ª Região (SC)",
+    "ano": 2023,
+    "prova": "FCC - 2023 - TRT - 12ª Região (SC) - Analista Judiciario - Área",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "Significação Contextual de Palavras e Expressões. Sinônimos e Antônimos. , Coesão e coerência Noções Gerais de Compreensão e Interpretação de Texto Administrativa Especialidade Contabilidade No contexto do 2º parágrafo, a frase Se mudam, não se transfiguram conserva seu sentido caso seja substituida por",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Tão logo mudam, deixam de se converter."
+      },
+      {
+        "id": "B",
+        "texto": "Caso alterem algo, nada transfiguram."
+      },
+      {
+        "id": "C",
+        "texto": "Se variarem tudo, pouco transfigurarão."
+      },
+      {
+        "id": "D",
+        "texto": "Mesmo quando variam, não se transformam."
+      },
+      {
+        "id": "E",
+        "texto": "Vindo a mudar, pouco se modificam."
+      }
+    ],
+    "resposta_correta": "D",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [D] ('Mesmo quando variam, não se transformam.') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Tão logo mudam, deixam de se converter....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Caso alterem algo, nada transfiguram....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Se variarem tudo, pouco transfigurarão....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Vindo a mudar, pouco se modificam....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [D] ('Mesmo quando variam, não se transformam.') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "FCC_LP0744",
+    "numero_ordem": 744,
+    "resposta": "D",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [D] ('Mesmo quando variam, não se transformam.') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q2384399",
+    "numero_original": 908,
+    "banca": "FCC",
+    "orgao": "TRT - 12ª Região (SC)",
+    "ano": 2023,
+    "prova": "",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "Provas: FCC - 2023 - TRT - 12ª Região (SC) - Analista Judiciário - Área Judiciária ... Considerando-se o contexto, traduz-se adequadamente o sentido de um segmento do texto em:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "perdeu o cartaz (1º parágrafo) = admitiu seus raros atributos."
+      },
+      {
+        "id": "B",
+        "texto": "contemplação de um drama bem antigo (2º parágrafo) = admissão de um flagelo passado."
+      },
+      {
+        "id": "C",
+        "texto": "Não tomarei partido (3º parágrafo) = não deixarei de me alinhar."
+      },
+      {
+        "id": "D",
+        "texto": "meu coração está mais triste, mas está mais leve (4º parágrafo) = minha alma já não sustenta sua tristeza."
+      },
+      {
+        "id": "E",
+        "texto": "pode lhe suceder que ele encontre seu gavião (4º parágrafo) = é possível que dê com seu predador."
+      }
+    ],
+    "resposta_correta": "E",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [E] ('pode lhe suceder que ele encontre seu gavião (4º parágrafo) = é possível que dê com seu predador.') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'perdeu o cartaz (1º parágrafo) = admitiu seus raros atributos....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'contemplação de um drama bem antigo (2º parágrafo) = admissão de um flagelo pass...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Não tomarei partido (3º parágrafo) = não deixarei de me alinhar....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'meu coração está mais triste, mas está mais leve (4º parágrafo) = minha alma já ...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [E] ('pode lhe suceder que ele encontre seu gavião (4º parágrafo) = é possível que dê com seu predador.') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "FCC_LP0776",
+    "numero_ordem": 776,
+    "resposta": "E",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [E] ('pode lhe suceder que ele encontre seu gavião (4º parágrafo) = é possível que dê com seu predador.') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q2288239",
+    "numero_original": 916,
+    "banca": "FCC",
+    "orgao": "TRT - 12ª Região (SC)",
+    "ano": 2023,
+    "prova": "",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "Funções morfossintáticas da palavra QUE Provas: FCC - 2023 - TRT - 12ª Região (SC) - Técnico Judiciário - Área Administrativa ... Retoma um termo mencionado anteriormente no texto a palavra sublinhada em:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "eu apostava que o homem quer é trabalhar por nós."
+      },
+      {
+        "id": "B",
+        "texto": "estas esperavam que o senhor vigário arrancasse sem mais demora todos os pés de hortaliças."
+      },
+      {
+        "id": "C",
+        "texto": "- Parece que ele até faz pouco-caso da gente."
+      },
+      {
+        "id": "D",
+        "texto": "Os paroquianos estranharam que, apesar de tão moço, o vigário novo fosse a tal ponto reservado."
+      },
+      {
+        "id": "E",
+        "texto": "o padre tomara uma atitude perfeitamente normal, uma atitude que o incorporava à comunidade."
+      }
+    ],
+    "resposta_correta": "E",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [E] ('o padre tomara uma atitude perfeitamente normal, uma atitude que o incorporava à comunidade.') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'eu apostava que o homem quer é trabalhar por nós....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'estas esperavam que o senhor vigário arrancasse sem mais demora todos os pés de ...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: '- Parece que ele até faz pouco-caso da gente....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Os paroquianos estranharam que, apesar de tão moço, o vigário novo fosse a tal p...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [E] ('o padre tomara uma atitude perfeitamente normal, uma atitude que o incorporava à comunidade.') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "FCC_LP0784",
+    "numero_ordem": 784,
+    "resposta": "E",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [E] ('o padre tomara uma atitude perfeitamente normal, uma atitude que o incorporava à comunidade.') estabelece corretamente o elo coesivo indicado pelo comando."
+  },
+  {
+    "codigo_origem": "Q4091322",
+    "numero_original": 109,
+    "banca": "FCC",
+    "orgao": "MPE-AL",
+    "ano": 2026,
+    "prova": "FCC - 2026 - MPE-AL - Técnico do Ministério Público",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "enunciado": "Significação Contextual de Palavras e Expressões. Sinônimos e Antônimos. , Coesão e coerência Retoma uma expressão mencionada anteriormente no conto a palavra sublinhada em:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Ninguém me tira da cabeça que a senhora é contrabandista."
+      },
+      {
+        "id": "B",
+        "texto": "A velhinha sorriu com os poucos dentes que lhe restavam."
+      },
+      {
+        "id": "C",
+        "texto": "Eu prometo à senhora que deixo a senhora passar."
+      },
+      {
+        "id": "D",
+        "texto": "Achou que não era areia nenhuma."
+      },
+      {
+        "id": "E",
+        "texto": "Muito encabulado, ordenou à velhinha que fosse em frente."
+      }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [B] ('A velhinha sorriu com os poucos dentes que lhe restavam.') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Ninguém me tira da cabeça que a senhora é contrabandista....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Eu prometo à senhora que deixo a senhora passar....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Achou que não era areia nenhuma....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Muito encabulado, ordenou à velhinha que fosse em frente....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [B] ('A velhinha sorriu com os poucos dentes que lhe restavam.') estabelece corretamente o elo coesivo indicado pelo comando.",
+    "id": "FCC_LP0897",
+    "numero_ordem": 897,
+    "resposta": "B",
+    "explicacao": "Os mecanismos de coesão textual e referenciação anafórica/catafórica garantem a progressão temático-discursiva do texto sem rupturas de sentido. A alternativa [B] ('A velhinha sorriu com os poucos dentes que lhe restavam.') estabelece corretamente o elo coesivo indicado pelo comando."
+  }
+];
+export default questoes;

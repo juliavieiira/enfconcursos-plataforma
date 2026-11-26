@@ -46,7 +46,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('criação de capítulo exclusivo para a Unidade Móvel de Vacinação, definida como veículo adaptado para funcionar como sala de vacinação itinerante') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0020",
-    "numero_ordem": 20
+    "numero_ordem": 20,
+    "resposta": "A",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('criação de capítulo exclusivo para a Unidade Móvel de Vacinação, definida como veículo adaptado para funcionar como sala de vacinação itinerante') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q4369111",
@@ -95,7 +97,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('lista dos CRIE em funcionamento no país, com informações para profissionais de saúde e usuários') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0021",
-    "numero_ordem": 21
+    "numero_ordem": 21,
+    "resposta": "B",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('lista dos CRIE em funcionamento no país, com informações para profissionais de saúde e usuários') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q4336851",
@@ -144,7 +148,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('hepatite B e BCG, sinalizando recuperação parcial após anos de queda nas coberturas vacinais') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0031",
-    "numero_ordem": 31
+    "numero_ordem": 31,
+    "resposta": "A",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('hepatite B e BCG, sinalizando recuperação parcial após anos de queda nas coberturas vacinais') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q4317372",
@@ -193,7 +199,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('administrar uma das vacinas e programar a outra, preferencialmente, após 30 dias') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0047",
-    "numero_ordem": 47
+    "numero_ordem": 47,
+    "resposta": "C",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('administrar uma das vacinas e programar a outra, preferencialmente, após 30 dias') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q3981926",
@@ -242,7 +250,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('vacinação com dTpa no pré-natal tem como objetivo principal proteger o recém-nascido contra a coqueluche nos primeiros meses de vida') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0071",
-    "numero_ordem": 71
+    "numero_ordem": 71,
+    "resposta": "B",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('vacinação com dTpa no pré-natal tem como objetivo principal proteger o recém-nascido contra a coqueluche nos primeiros meses de vida') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q3742296",
@@ -291,7 +301,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('administrar apenas a dose seguinte, respeitando o intervalo mínimo entre as doses e atualizando o esquema vacinal') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0115",
-    "numero_ordem": 115
+    "numero_ordem": 115,
+    "resposta": "D",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('administrar apenas a dose seguinte, respeitando o intervalo mínimo entre as doses e atualizando o esquema vacinal') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q3615481",
@@ -340,7 +352,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('armazenar o frasco por até 28 dias, se mantido entre 2 °C e 8 °C e respeitadas as condições assépticas') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0140",
-    "numero_ordem": 140
+    "numero_ordem": 140,
+    "resposta": "C",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('armazenar o frasco por até 28 dias, se mantido entre 2 °C e 8 °C e respeitadas as condições assépticas') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q3287493",
@@ -389,7 +403,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('hepatite B (via intramuscular), tríplice viral (via intramuscular), febre amarela (via subcutânea)') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0164",
-    "numero_ordem": 164
+    "numero_ordem": 164,
+    "resposta": "B",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('hepatite B (via intramuscular), tríplice viral (via intramuscular), febre amarela (via subcutânea)') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q3199744",
@@ -438,7 +454,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('o PNI foi decisivo na diminuição das desigualdades sociais, pois garantiu o acesso universal à vacinação, incluindo populações indígenas, rurais e periféricas, sendo crucial para a proteção da saúde pública em áreas de maior vulnerabilidade') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0210",
-    "numero_ordem": 210
+    "numero_ordem": 210,
+    "resposta": "B",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('o PNI foi decisivo na diminuição das desigualdades sociais, pois garantiu o acesso universal à vacinação, incluindo populações indígenas, rurais e periféricas, sendo crucial para a proteção da saúde pública em áreas de maior vulnerabilidade') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q3197469",
@@ -487,7 +505,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('adota a vacinação como um direito da população, com foco na promoção da equidade, garantindo acesso universal e gratuito às vacinas, independentemente da classe social ou localização geográfica') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0235",
-    "numero_ordem": 235
+    "numero_ordem": 235,
+    "resposta": "B",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('adota a vacinação como um direito da população, com foco na promoção da equidade, garantindo acesso universal e gratuito às vacinas, independentemente da classe social ou localização geográfica') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2528688",
@@ -544,7 +564,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('rubéola') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0259",
-    "numero_ordem": 259
+    "numero_ordem": 259,
+    "resposta": "D",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('rubéola') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2496162",
@@ -593,7 +615,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('tríplice viral – duas doses') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0278",
-    "numero_ordem": 278
+    "numero_ordem": 278,
+    "resposta": "A",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('tríplice viral – duas doses') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2496160",
@@ -642,7 +666,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('04 anos, 11 meses e 29 dias') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0280",
-    "numero_ordem": 280
+    "numero_ordem": 280,
+    "resposta": "B",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('04 anos, 11 meses e 29 dias') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2480409",
@@ -699,7 +725,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('dTpa - acelular') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0287",
-    "numero_ordem": 287
+    "numero_ordem": 287,
+    "resposta": "B",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('dTpa - acelular') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2480408",
@@ -756,7 +784,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('e-SUS Notifica') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0288",
-    "numero_ordem": 288
+    "numero_ordem": 288,
+    "resposta": "C",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('e-SUS Notifica') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2480380",
@@ -813,7 +843,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('Centros de Referência para Imunobiológicos Especiais') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0316",
-    "numero_ordem": 316
+    "numero_ordem": 316,
+    "resposta": "A",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('Centros de Referência para Imunobiológicos Especiais') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2480376",
@@ -870,7 +902,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('dengue') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0320",
-    "numero_ordem": 320
+    "numero_ordem": 320,
+    "resposta": "B",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('dengue') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2477218",
@@ -919,7 +953,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('tríplice viral') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0328",
-    "numero_ordem": 328
+    "numero_ordem": 328,
+    "resposta": "B",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('tríplice viral') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2477205",
@@ -968,7 +1004,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('tétano') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0341",
-    "numero_ordem": 341
+    "numero_ordem": 341,
+    "resposta": "C",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('tétano') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2467603",
@@ -1017,7 +1055,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('ativa') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0366",
-    "numero_ordem": 366
+    "numero_ordem": 366,
+    "resposta": "A",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('ativa') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2467598",
@@ -1066,7 +1106,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('febre amarela') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0371",
-    "numero_ordem": 371
+    "numero_ordem": 371,
+    "resposta": "C",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('febre amarela') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2454931",
@@ -1115,7 +1157,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('Papilomavírus Humano') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0401",
-    "numero_ordem": 401
+    "numero_ordem": 401,
+    "resposta": "D",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('Papilomavírus Humano') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q3674522",
@@ -1164,7 +1208,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('0,5 mL, via intramuscular') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0444",
-    "numero_ordem": 444
+    "numero_ordem": 444,
+    "resposta": "C",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('0,5 mL, via intramuscular') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q3674521",
@@ -1213,7 +1259,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('3 doses (iniciar ou completar o esquema, de acordo com a situação vacinal, independentemente da idade gestacional)') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0445",
-    "numero_ordem": 445
+    "numero_ordem": 445,
+    "resposta": "A",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('3 doses (iniciar ou completar o esquema, de acordo com a situação vacinal, independentemente da idade gestacional)') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q3584429",
@@ -1262,7 +1310,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('tratamento com corticosteroides em dose imunossupressora (equivalente a Prednisona de 2 mg/kg/dia, para criança, ou de 20 mg/kg/dia para o adulto) por mais de duas semanas: adiar a vacinação por 30 dias após a suspensão do tratamento') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0462",
-    "numero_ordem": 462
+    "numero_ordem": 462,
+    "resposta": "D",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('tratamento com corticosteroides em dose imunossupressora (equivalente a Prednisona de 2 mg/kg/dia, para criança, ou de 20 mg/kg/dia para o adulto) por mais de duas semanas: adiar a vacinação por 30 dias após a suspensão do tratamento') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2342288",
@@ -1311,7 +1361,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('Tríplice viral (SCR) – dose única; Meningocócica C – reforço; Pneumocócica 10-valente – reforço') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0474",
-    "numero_ordem": 474
+    "numero_ordem": 474,
+    "resposta": "A",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('Tríplice viral (SCR) – dose única; Meningocócica C – reforço; Pneumocócica 10-valente – reforço') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2341565",
@@ -1360,7 +1412,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('3 doses e 2 reforços') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0486",
-    "numero_ordem": 486
+    "numero_ordem": 486,
+    "resposta": "C",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('3 doses e 2 reforços') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2325283",
@@ -1409,7 +1463,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('sarampo, caxumba, rubéola e varicela') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0512",
-    "numero_ordem": 512
+    "numero_ordem": 512,
+    "resposta": "C",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('sarampo, caxumba, rubéola e varicela') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2297123",
@@ -1458,7 +1514,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('difteria, tétano, coqueluche, hepatite B, meningite e outras infecções causadas pelo Haemophilus influenzae tipo b') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0545",
-    "numero_ordem": 545
+    "numero_ordem": 545,
+    "resposta": "B",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('difteria, tétano, coqueluche, hepatite B, meningite e outras infecções causadas pelo Haemophilus influenzae tipo b') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2297116",
@@ -1507,7 +1565,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('pneumonia, otite, meningite e outras doenças causadas pelo pneumococo') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0552",
-    "numero_ordem": 552
+    "numero_ordem": 552,
+    "resposta": "A",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('pneumonia, otite, meningite e outras doenças causadas pelo pneumococo') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2162339",
@@ -1556,7 +1616,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('não será necessário revacinar') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0571",
-    "numero_ordem": 571
+    "numero_ordem": 571,
+    "resposta": "C",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('não será necessário revacinar') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2024556",
@@ -1605,7 +1667,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('dose única para pessoas que nunca foram vacinadas ou sem comprovante de vacinação com idade até 59 anos') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0605",
-    "numero_ordem": 605
+    "numero_ordem": 605,
+    "resposta": "D",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('dose única para pessoas que nunca foram vacinadas ou sem comprovante de vacinação com idade até 59 anos') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q1313722",
@@ -1654,7 +1718,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('VOP (vacina oral poliomielite) 1º reforço; vacina hepatite A com dose única; DTP (tríplice bacteriana) 1º reforço e SCRV (tetraviral) com dose única') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0694",
-    "numero_ordem": 694
+    "numero_ordem": 694,
+    "resposta": "D",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('VOP (vacina oral poliomielite) 1º reforço; vacina hepatite A com dose única; DTP (tríplice bacteriana) 1º reforço e SCRV (tetraviral) com dose única') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q1313682",
@@ -1703,7 +1769,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('Streptococcus pneumoniae') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0733",
-    "numero_ordem": 733
+    "numero_ordem": 733,
+    "resposta": "A",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('Streptococcus pneumoniae') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q1313681",
@@ -1752,7 +1820,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('a criança contra a coqueluche') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0734",
-    "numero_ordem": 734
+    "numero_ordem": 734,
+    "resposta": "C",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('a criança contra a coqueluche') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q1313679",
@@ -1801,7 +1871,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('de 5 para 4 doses') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0736",
-    "numero_ordem": 736
+    "numero_ordem": 736,
+    "resposta": "B",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('de 5 para 4 doses') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2710369",
@@ -1850,7 +1922,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('câmaras refrigeradas que operam na faixa entre +2ºC e +8ºC, caixas térmicas utilizadas para transporte em atividades de rotina e campanhas, freezers utilizados para o armazenamento de vacinas em temperaturas negativas e de bobinas reutilizáveis e instrumentos para medição de temperatura') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0748",
-    "numero_ordem": 748
+    "numero_ordem": 748,
+    "resposta": "A",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('câmaras refrigeradas que operam na faixa entre +2ºC e +8ºC, caixas térmicas utilizadas para transporte em atividades de rotina e campanhas, freezers utilizados para o armazenamento de vacinas em temperaturas negativas e de bobinas reutilizáveis e instrumentos para medição de temperatura') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2692395",
@@ -1899,7 +1973,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('A vacina é conservada entre +2ºC e +8ºC (sendo ideal +5ºC), não podendo ser congelada. O congelamento provoca a perda de potência e/ou forma agregados e/ou aumenta o risco de eventos adversos.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0770",
-    "numero_ordem": 770
+    "numero_ordem": 770,
+    "resposta": "B",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('A vacina é conservada entre +2ºC e +8ºC (sendo ideal +5ºC), não podendo ser congelada. O congelamento provoca a perda de potência e/ou forma agregados e/ou aumenta o risco de eventos adversos.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q3974327",
@@ -1948,7 +2024,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('suspender o uso dos imunobiológicos expostos, identificá-los e mantê-los sob temperatura adequada, registrar formalmente o desvio e comunicar à instância superior, aguardando orientação técnica quanto ao aproveitamento ou descarte') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0810",
-    "numero_ordem": 810
+    "numero_ordem": 810,
+    "resposta": "D",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('suspender o uso dos imunobiológicos expostos, identificá-los e mantê-los sob temperatura adequada, registrar formalmente o desvio e comunicar à instância superior, aguardando orientação técnica quanto ao aproveitamento ou descarte') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q3884657",
@@ -1997,7 +2075,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('manter o refrigerador fechado, monitorar a temperatura interna e comunicar a ocorrência ao responsável pela sala de vacinação') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0818",
-    "numero_ordem": 818
+    "numero_ordem": 818,
+    "resposta": "B",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('manter o refrigerador fechado, monitorar a temperatura interna e comunicar a ocorrência ao responsável pela sala de vacinação') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q3810634",
@@ -2046,7 +2126,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('grupos, como gestantes, puérperas e imunodeprimidos') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0848",
-    "numero_ordem": 848
+    "numero_ordem": 848,
+    "resposta": "A",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('grupos, como gestantes, puérperas e imunodeprimidos') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q3802714",
@@ -2095,7 +2177,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('isolar a vacina, identificar o período e a temperatura de exposição, consultar o manual da Rede de Frio ou o fabricante para avaliar a viabilidade de uso, e documentar detalhadamente o ocorrido') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0861",
-    "numero_ordem": 861
+    "numero_ordem": 861,
+    "resposta": "C",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('isolar a vacina, identificar o período e a temperatura de exposição, consultar o manual da Rede de Frio ou o fabricante para avaliar a viabilidade de uso, e documentar detalhadamente o ocorrido') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q3802701",
@@ -2144,7 +2228,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('uso de corticosteroides em dose imunossupressora por tempo prolongado') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "EF0870",
-    "numero_ordem": 870
+    "numero_ordem": 870,
+    "resposta": "A",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('uso de corticosteroides em dose imunossupressora por tempo prolongado') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2108266",
@@ -2201,7 +2287,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [E] ('e meninas de 9 a 14 anos.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0004",
-    "numero_ordem": 4
+    "numero_ordem": 4,
+    "resposta": "E",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [E] ('e meninas de 9 a 14 anos.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q1971255",
@@ -2258,7 +2346,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('Influenza.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0024",
-    "numero_ordem": 24
+    "numero_ordem": 24,
+    "resposta": "A",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('Influenza.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q1971252",
@@ -2315,7 +2405,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('a administração de doses superiores à recomendada não afeta a resposta de produção de anticorpos, sendo somente aconselhável informar os pacientes sobre a possibilidade de um risco aumentado de reações locais.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0026",
-    "numero_ordem": 26
+    "numero_ordem": 26,
+    "resposta": "D",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('a administração de doses superiores à recomendada não afeta a resposta de produção de anticorpos, sendo somente aconselhável informar os pacientes sobre a possibilidade de um risco aumentado de reações locais.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q1970038",
@@ -2372,7 +2464,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('a partir da 20ª semana de gestação.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0060",
-    "numero_ordem": 60
+    "numero_ordem": 60,
+    "resposta": "A",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('a partir da 20ª semana de gestação.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q1956213",
@@ -2429,7 +2523,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('seis meses a menores de 5 anos (4 anos 11 meses e 29 dias).') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0084",
-    "numero_ordem": 84
+    "numero_ordem": 84,
+    "resposta": "B",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('seis meses a menores de 5 anos (4 anos 11 meses e 29 dias).') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q1309008",
@@ -2486,7 +2582,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('6 meses.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0102",
-    "numero_ordem": 102
+    "numero_ordem": 102,
+    "resposta": "D",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('6 meses.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q1257108",
@@ -2543,7 +2641,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [E] ('devem seguir as exigências estabelecidas pela ANVISA e pela FUNASA.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0125",
-    "numero_ordem": 125
+    "numero_ordem": 125,
+    "resposta": "E",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [E] ('devem seguir as exigências estabelecidas pela ANVISA e pela FUNASA.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q1256900",
@@ -2600,7 +2700,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [E] ('diferem em sua composição, podendo ser de vírus atenuado.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0136",
-    "numero_ordem": 136
+    "numero_ordem": 136,
+    "resposta": "E",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [E] ('diferem em sua composição, podendo ser de vírus atenuado.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q1256892",
@@ -2657,7 +2759,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('foi adequada, pois saúde é um conceito que envolve bem-estar físico, mental e social.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0137",
-    "numero_ordem": 137
+    "numero_ordem": 137,
+    "resposta": "B",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('foi adequada, pois saúde é um conceito que envolve bem-estar físico, mental e social.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q1252297",
@@ -2714,7 +2818,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('vinculação a serviços de vacinação licenciados, ocorrendo de forma esporádica, respeitando sazonalidade ou programa de saúde ocupacional, e deve ser autorizada pelo órgão sanitário competente.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0140",
-    "numero_ordem": 140
+    "numero_ordem": 140,
+    "resposta": "D",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('vinculação a serviços de vacinação licenciados, ocorrendo de forma esporádica, respeitando sazonalidade ou programa de saúde ocupacional, e deve ser autorizada pelo órgão sanitário competente.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q1252232",
@@ -2771,7 +2877,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('I, III e IV.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0171",
-    "numero_ordem": 171
+    "numero_ordem": 171,
+    "resposta": "D",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('I, III e IV.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q1252150",
@@ -2828,7 +2936,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('encaminhar o fato à Coordenação Municipal de Imunizações, para avaliação e orientação.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0197",
-    "numero_ordem": 197
+    "numero_ordem": 197,
+    "resposta": "C",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('encaminhar o fato à Coordenação Municipal de Imunizações, para avaliação e orientação.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q1252149",
@@ -2885,7 +2995,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('Os pacientes imunocomprometidos e crianças menores de 6 meses de idade não devem receber a vacina contra o sarampo.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0198",
-    "numero_ordem": 198
+    "numero_ordem": 198,
+    "resposta": "A",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('Os pacientes imunocomprometidos e crianças menores de 6 meses de idade não devem receber a vacina contra o sarampo.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q4156592",
@@ -2942,7 +3054,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('BCG.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0205",
-    "numero_ordem": 205
+    "numero_ordem": 205,
+    "resposta": "A",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('BCG.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q1129543",
@@ -2999,7 +3113,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('Grupo A1.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0231",
-    "numero_ordem": 231
+    "numero_ordem": 231,
+    "resposta": "C",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('Grupo A1.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q1129536",
@@ -3056,7 +3172,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('95.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0238",
-    "numero_ordem": 238
+    "numero_ordem": 238,
+    "resposta": "A",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('95.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q1023316",
@@ -3113,7 +3231,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('I, II e III.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0261",
-    "numero_ordem": 261
+    "numero_ordem": 261,
+    "resposta": "C",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('I, II e III.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q1023309",
@@ -3170,7 +3290,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('administrar uma dose da vacina, no puerpério, o mais precocemente possível.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0267",
-    "numero_ordem": 267
+    "numero_ordem": 267,
+    "resposta": "B",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('administrar uma dose da vacina, no puerpério, o mais precocemente possível.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q1023308",
@@ -3227,7 +3349,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('Hepatite B e Dupla Adulto − DT.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0268",
-    "numero_ordem": 268
+    "numero_ordem": 268,
+    "resposta": "D",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('Hepatite B e Dupla Adulto − DT.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q1023307",
@@ -3284,7 +3408,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('I e V.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0269",
-    "numero_ordem": 269
+    "numero_ordem": 269,
+    "resposta": "C",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('I e V.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q937547",
@@ -3341,7 +3467,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [E] ('tetra viral.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0284",
-    "numero_ordem": 284
+    "numero_ordem": 284,
+    "resposta": "E",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [E] ('tetra viral.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q937546",
@@ -3398,7 +3526,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('duas cepas do tipo A e uma cepa do tipo B.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0285",
-    "numero_ordem": 285
+    "numero_ordem": 285,
+    "resposta": "D",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('duas cepas do tipo A e uma cepa do tipo B.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q935890",
@@ -3455,7 +3585,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('contra Febre Amarela.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0311",
-    "numero_ordem": 311
+    "numero_ordem": 311,
+    "resposta": "A",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('contra Febre Amarela.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q932716",
@@ -3512,7 +3644,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('Dupla adulto.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0369",
-    "numero_ordem": 369
+    "numero_ordem": 369,
+    "resposta": "B",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('Dupla adulto.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q932715",
@@ -3569,7 +3703,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('a data do aprazamento para vacinas com mais de uma dose, deve ser registrada com lápis na caderneta de saúde, no cartão de vacinação e no cartão-controle do indivíduo.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0370",
-    "numero_ordem": 370
+    "numero_ordem": 370,
+    "resposta": "D",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('a data do aprazamento para vacinas com mais de uma dose, deve ser registrada com lápis na caderneta de saúde, no cartão de vacinação e no cartão-controle do indivíduo.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q931018",
@@ -3626,7 +3762,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('o reforço da vacina deve acontecer a cada 10 anos.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0376",
-    "numero_ordem": 376
+    "numero_ordem": 376,
+    "resposta": "D",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('o reforço da vacina deve acontecer a cada 10 anos.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q4155328",
@@ -3683,7 +3821,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('ocorra a redução da incidência, enquanto a prevalência pode diminuir de forma gradual ao longo do tempо.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0410",
-    "numero_ordem": 410
+    "numero_ordem": 410,
+    "resposta": "A",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('ocorra a redução da incidência, enquanto a prevalência pode diminuir de forma gradual ao longo do tempо.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q4155325",
@@ -3740,7 +3880,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('Consiste em três doses, conforme histórico vacinal, sendo recomendada a realização de sorologia anti-HBs após a vacinação.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0412",
-    "numero_ordem": 412
+    "numero_ordem": 412,
+    "resposta": "D",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('Consiste em três doses, conforme histórico vacinal, sendo recomendada a realização de sorologia anti-HBs após a vacinação.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q4155324",
@@ -3797,7 +3939,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('administrar duas doses da vacina tríplice viral, com intervalo mínimo de 30 dias entre elas.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0413",
-    "numero_ordem": 413
+    "numero_ordem": 413,
+    "resposta": "C",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('administrar duas doses da vacina tríplice viral, com intervalo mínimo de 30 dias entre elas.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q920277",
@@ -3854,7 +3998,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('II e III, apenas.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0430",
-    "numero_ordem": 430
+    "numero_ordem": 430,
+    "resposta": "D",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('II e III, apenas.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q920276",
@@ -3911,7 +4057,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('inserção inferior do músculo deltoide direito.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0431",
-    "numero_ordem": 431
+    "numero_ordem": 431,
+    "resposta": "B",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('inserção inferior do músculo deltoide direito.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q920275",
@@ -3968,7 +4116,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('não deve ser repetida, considerando-a como dose válida.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0432",
-    "numero_ordem": 432
+    "numero_ordem": 432,
+    "resposta": "A",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('não deve ser repetida, considerando-a como dose válida.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q920266",
@@ -4025,7 +4175,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('I, II e III, apenas.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0441",
-    "numero_ordem": 441
+    "numero_ordem": 441,
+    "resposta": "A",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('I, II e III, apenas.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q918262",
@@ -4082,7 +4234,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('vacinar a gestante, pois ela faz parte do grupo prioritário da Campanha.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0456",
-    "numero_ordem": 456
+    "numero_ordem": 456,
+    "resposta": "B",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('vacinar a gestante, pois ela faz parte do grupo prioritário da Campanha.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q918189",
@@ -4139,7 +4293,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [E] ('considerar que as vacinas que contêm adjuvante de alumínio, quando expostas à temperatura abaixo de +2 °C, podem ter perda de potência em caráter permanente.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0466",
-    "numero_ordem": 466
+    "numero_ordem": 466,
+    "resposta": "E",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [E] ('considerar que as vacinas que contêm adjuvante de alumínio, quando expostas à temperatura abaixo de +2 °C, podem ter perda de potência em caráter permanente.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q839963",
@@ -4196,7 +4352,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('o aleitamento materno deverá ser suspenso por 10 dias.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0482",
-    "numero_ordem": 482
+    "numero_ordem": 482,
+    "resposta": "A",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('o aleitamento materno deverá ser suspenso por 10 dias.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q839960",
@@ -4253,7 +4411,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('evitar que a mãe possa transmitir a coqueluche para o recém-nascido.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0484",
-    "numero_ordem": 484
+    "numero_ordem": 484,
+    "resposta": "D",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('evitar que a mãe possa transmitir a coqueluche para o recém-nascido.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q839923",
@@ -4310,7 +4470,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('subcutânea.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0520",
-    "numero_ordem": 520
+    "numero_ordem": 520,
+    "resposta": "A",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('subcutânea.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q783957",
@@ -4367,7 +4529,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('BCG e Hepatite B.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0545",
-    "numero_ordem": 545
+    "numero_ordem": 545,
+    "resposta": "A",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('BCG e Hepatite B.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q777992",
@@ -4424,7 +4588,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('a estratégia de vacinação tem como objetivo proteger a população alvo contra os cânceres de pênis, garganta e ânus, doenças que estão diretamente relacionadas ao HPV.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0575",
-    "numero_ordem": 575
+    "numero_ordem": 575,
+    "resposta": "D",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('a estratégia de vacinação tem como objetivo proteger a população alvo contra os cânceres de pênis, garganta e ânus, doenças que estão diretamente relacionadas ao HPV.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q777991",
@@ -4481,7 +4647,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('I.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0576",
-    "numero_ordem": 576
+    "numero_ordem": 576,
+    "resposta": "B",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('I.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q777990",
@@ -4538,7 +4706,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('subcutânea.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0577",
-    "numero_ordem": 577
+    "numero_ordem": 577,
+    "resposta": "A",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('subcutânea.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2723506",
@@ -4595,7 +4765,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [E] ('duas doses, com intervalo de 30 dias entre as doses, independentemente da idade.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0605",
-    "numero_ordem": 605
+    "numero_ordem": 605,
+    "resposta": "E",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [E] ('duas doses, com intervalo de 30 dias entre as doses, independentemente da idade.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2723500",
@@ -4652,7 +4824,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('Dos direitos.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0611",
-    "numero_ordem": 611
+    "numero_ordem": 611,
+    "resposta": "B",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('Dos direitos.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q1337370",
@@ -4709,7 +4883,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('administrar a vacina papilomavírus humano 6,11,16,18 (recombinante) em duas doses, com intervalo de 6 meses.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0620",
-    "numero_ordem": 620
+    "numero_ordem": 620,
+    "resposta": "B",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('administrar a vacina papilomavírus humano 6,11,16,18 (recombinante) em duas doses, com intervalo de 6 meses.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q771970",
@@ -4766,7 +4942,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('difteria.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0642",
-    "numero_ordem": 642
+    "numero_ordem": 642,
+    "resposta": "B",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('difteria.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q771954",
@@ -4823,7 +5001,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('reação anafilática confirmada após o recebimento de dose anterior.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0658",
-    "numero_ordem": 658
+    "numero_ordem": 658,
+    "resposta": "D",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('reação anafilática confirmada após o recebimento de dose anterior.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q771952",
@@ -4880,7 +5060,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [E] ('10 anos.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0660",
-    "numero_ordem": 660
+    "numero_ordem": 660,
+    "resposta": "E",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [E] ('10 anos.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q764319",
@@ -4937,7 +5119,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('pneumocócica 23-valente.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0672",
-    "numero_ordem": 672
+    "numero_ordem": 672,
+    "resposta": "D",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('pneumocócica 23-valente.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q763967",
@@ -4994,7 +5178,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('terceira dose da vacina Penta e terceira dose da vacina contra poliomielite.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0708",
-    "numero_ordem": 708
+    "numero_ordem": 708,
+    "resposta": "D",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('terceira dose da vacina Penta e terceira dose da vacina contra poliomielite.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q763964",
@@ -5051,7 +5237,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('do colo do útero.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0711",
-    "numero_ordem": 711
+    "numero_ordem": 711,
+    "resposta": "C",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('do colo do útero.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q615902",
@@ -5108,7 +5296,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('4, 1, 2, 2 e 3.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0763",
-    "numero_ordem": 763
+    "numero_ordem": 763,
+    "resposta": "C",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('4, 1, 2, 2 e 3.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q615899",
@@ -5165,7 +5355,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('uma dose a todos os indígenas a partir dos 9 meses de idade, independente da área de residência. Depois administrar uma dose a cada dez anos.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0766",
-    "numero_ordem": 766
+    "numero_ordem": 766,
+    "resposta": "B",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('uma dose a todos os indígenas a partir dos 9 meses de idade, independente da área de residência. Depois administrar uma dose a cada dez anos.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q615898",
@@ -5222,7 +5414,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('de seis meses a menores de cinco anos de idade.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0767",
-    "numero_ordem": 767
+    "numero_ordem": 767,
+    "resposta": "B",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('de seis meses a menores de cinco anos de idade.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q615897",
@@ -5279,7 +5473,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('BCG e hepatite B.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0768",
-    "numero_ordem": 768
+    "numero_ordem": 768,
+    "resposta": "D",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('BCG e hepatite B.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2099256",
@@ -5336,7 +5532,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('pessoas a partir dos 60 anos de idade em condições clínicas especiais (acamados, hospitalizados ou institucionalizados).') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0813",
-    "numero_ordem": 813
+    "numero_ordem": 813,
+    "resposta": "B",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('pessoas a partir dos 60 anos de idade em condições clínicas especiais (acamados, hospitalizados ou institucionalizados).') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2099255",
@@ -5393,7 +5591,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('Hepatite A.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0814",
-    "numero_ordem": 814
+    "numero_ordem": 814,
+    "resposta": "B",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('Hepatite A.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2099254",
@@ -5450,7 +5650,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('10 anos.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0815",
-    "numero_ordem": 815
+    "numero_ordem": 815,
+    "resposta": "D",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('10 anos.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2118827",
@@ -5507,7 +5709,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('Poliomielite.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0823",
-    "numero_ordem": 823
+    "numero_ordem": 823,
+    "resposta": "C",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('Poliomielite.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2118819",
@@ -5564,7 +5768,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('influenza.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0831",
-    "numero_ordem": 831
+    "numero_ordem": 831,
+    "resposta": "D",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [D] ('influenza.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2118818",
@@ -5621,7 +5827,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('tétano.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0832",
-    "numero_ordem": 832
+    "numero_ordem": 832,
+    "resposta": "B",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('tétano.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2118817",
@@ -5678,7 +5886,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('em qualquer idade gestacional e faixa etária devem ser administradas três doses da vacina de hepatite B, considerando o histórico de vacinação anterior e os intervalos preconizados entre as doses.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0833",
-    "numero_ordem": 833
+    "numero_ordem": 833,
+    "resposta": "A",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('em qualquer idade gestacional e faixa etária devem ser administradas três doses da vacina de hepatite B, considerando o histórico de vacinação anterior e os intervalos preconizados entre as doses.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2118802",
@@ -5735,7 +5945,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('Covid-19.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0845",
-    "numero_ordem": 845
+    "numero_ordem": 845,
+    "resposta": "A",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [A] ('Covid-19.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q2108290",
@@ -5792,7 +6004,9 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('30 dias entre a primeira e a segunda dose, e de 6 meses entre a primeira e a terceira dose.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0860",
-    "numero_ordem": 860
+    "numero_ordem": 860,
+    "resposta": "B",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [B] ('30 dias entre a primeira e a segunda dose, e de 6 meses entre a primeira e a terceira dose.') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   },
   {
     "codigo_origem": "Q4156599",
@@ -5849,6 +6063,8 @@
     ],
     "comentario": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('Vacina Oral Poliomielite (VOP).') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde.",
     "id": "FCC_ENF0896",
-    "numero_ordem": 896
+    "numero_ordem": 896,
+    "resposta": "C",
+    "explicacao": "Em conformidade com as diretrizes do Programa Nacional de Imunizações (PNI/Ministério da Saúde), a administração de imunobiológicos, as vias recomendadas, volumes, esquemas preconizados e intervalos mínimos obedecem rigorosamente à resposta imunológica humana e à segurança do usuário. A alternativa [C] ('Vacina Oral Poliomielite (VOP).') expressa com exatidão a conduta preconizada pelas normas técnicas oficiais do Ministério da Saúde."
   }
 ]

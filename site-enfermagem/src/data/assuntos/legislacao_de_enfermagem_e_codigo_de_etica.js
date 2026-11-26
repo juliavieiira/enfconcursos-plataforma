@@ -46,7 +46,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('TE') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0012",
-    "numero_ordem": 12
+    "numero_ordem": 12,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('TE') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q4370019",
@@ -95,7 +97,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('advertência verbal, a multa, a censura e a suspensão do exercício profissional') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0018",
-    "numero_ordem": 18
+    "numero_ordem": 18,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('advertência verbal, a multa, a censura e a suspensão do exercício profissional') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q3981914",
@@ -144,7 +148,9 @@ export const questoes = [
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('infração ética grave, por configurar registro de informação inverídica no prontuário do paciente, comprometendo a segurança do cuidado e a responsabilidade profissional') apresenta a resposta matemática e clínica correta.",
     "id": "EF0083",
-    "numero_ordem": 83
+    "numero_ordem": 83,
+    "resposta": "A",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('infração ética grave, por configurar registro de informação inverídica no prontuário do paciente, comprometendo a segurança do cuidado e a responsabilidade profissional') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q3974349",
@@ -193,7 +199,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('o efermeiro deve assegurar assistência livre de danos decorrentes de imperícia, negligência ou imprudência, respondendo pelos atos praticados e pela supervisão da equipe sob sua responsabilidade') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0088",
-    "numero_ordem": 88
+    "numero_ordem": 88,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('o efermeiro deve assegurar assistência livre de danos decorrentes de imperícia, negligência ou imprudência, respondendo pelos atos praticados e pela supervisão da equipe sob sua responsabilidade') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q3742303",
@@ -242,7 +250,9 @@ export const questoes = [
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('tentar resolver o problema apenas entre os técnicos de enfermagem da equipe, sem envolver o enfermeiro, pois tratase de uma responsabilidade deles') apresenta a resposta matemática e clínica correta.",
     "id": "EF0114",
-    "numero_ordem": 114
+    "numero_ordem": 114,
+    "resposta": "D",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('tentar resolver o problema apenas entre os técnicos de enfermagem da equipe, sem envolver o enfermeiro, pois tratase de uma responsabilidade deles') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q3623612",
@@ -291,7 +301,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('autonomia') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0125",
-    "numero_ordem": 125
+    "numero_ordem": 125,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('autonomia') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q3615475",
@@ -340,7 +352,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('caracteriza infração ética, pois viola o direito à privacidade e ao sigilo profissional') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0146",
-    "numero_ordem": 146
+    "numero_ordem": 146,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('caracteriza infração ética, pois viola o direito à privacidade e ao sigilo profissional') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q3287491",
@@ -389,7 +403,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('notificar imediatamente a direção do hospital e o Conselho Regional de Enfermagem (COREN), garantindo que a violação ética seja investigada e corrigida, de acordo com o Código de Ética') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0166",
-    "numero_ordem": 166
+    "numero_ordem": 166,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('notificar imediatamente a direção do hospital e o Conselho Regional de Enfermagem (COREN), garantindo que a violação ética seja investigada e corrigida, de acordo com o Código de Ética') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q3265167",
@@ -438,7 +454,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('o profissional de enfermagem é responsável por manter a confidencialidade das informações no prontuário eletrônico, sendo vedado compartilhar sua senha de acesso com outros membros da equipe ou terceiros') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0178",
-    "numero_ordem": 178
+    "numero_ordem": 178,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('o profissional de enfermagem é responsável por manter a confidencialidade das informações no prontuário eletrônico, sendo vedado compartilhar sua senha de acesso com outros membros da equipe ou terceiros') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q3265164",
@@ -487,7 +505,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('a SAE compreende cinco etapas distintas: coleta de dados, diagnóstico de enfermagem, planejamento, implementação e avaliação, sendo o diagnóstico uma etapa privativa do enfermeiro') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0180",
-    "numero_ordem": 180
+    "numero_ordem": 180,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('a SAE compreende cinco etapas distintas: coleta de dados, diagnóstico de enfermagem, planejamento, implementação e avaliação, sendo o diagnóstico uma etapa privativa do enfermeiro') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q3197472",
@@ -536,7 +556,9 @@ export const questoes = [
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('a enfermeira deve notificar imediatamente o médico sobre o histórico alérgico do paciente e questionar a escolha do antibiótico, destacando o risco de reação alérgica grave e propondo alternativas seguras para o paciente') apresenta a resposta matemática e clínica correta.",
     "id": "EF0232",
-    "numero_ordem": 232
+    "numero_ordem": 232,
+    "resposta": "D",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('a enfermeira deve notificar imediatamente o médico sobre o histórico alérgico do paciente e questionar a escolha do antibiótico, destacando o risco de reação alérgica grave e propondo alternativas seguras para o paciente') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q3184821",
@@ -585,7 +607,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('um dever') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0244",
-    "numero_ordem": 244
+    "numero_ordem": 244,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('um dever') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2528696",
@@ -642,7 +666,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('ético') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0251",
-    "numero_ordem": 251
+    "numero_ordem": 251,
+    "resposta": "E",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('ético') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2528694",
@@ -699,7 +725,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('exercer a profissão com justiça, compromisso, equidade, resolutividade, dignidade, competência, responsabilidade, honestidade e lealdade.') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0253",
-    "numero_ordem": 253
+    "numero_ordem": 253,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('exercer a profissão com justiça, compromisso, equidade, resolutividade, dignidade, competência, responsabilidade, honestidade e lealdade.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2496169",
@@ -748,7 +776,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('usuários') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0272",
-    "numero_ordem": 272
+    "numero_ordem": 272,
+    "resposta": "B",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('usuários') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2496168",
@@ -797,7 +827,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('processo de enfermagem') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0273",
-    "numero_ordem": 273
+    "numero_ordem": 273,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('processo de enfermagem') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2496167",
@@ -846,7 +878,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('Enfermeiro Responsável Técnico') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0274",
-    "numero_ordem": 274
+    "numero_ordem": 274,
+    "resposta": "D",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('Enfermeiro Responsável Técnico') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2496166",
@@ -895,7 +929,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('709/2022') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0275",
-    "numero_ordem": 275
+    "numero_ordem": 275,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('709/2022') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2496165",
@@ -944,7 +980,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('cuidador de idoso') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0276",
-    "numero_ordem": 276
+    "numero_ordem": 276,
+    "resposta": "B",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('cuidador de idoso') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2496164",
@@ -993,7 +1031,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('risco') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0277",
-    "numero_ordem": 277
+    "numero_ordem": 277,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('risco') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2496159",
@@ -1042,7 +1082,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('381/2011') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0281",
-    "numero_ordem": 281
+    "numero_ordem": 281,
+    "resposta": "D",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('381/2011') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2496158",
@@ -1091,7 +1133,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('atendimento, internação, visita') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0282",
-    "numero_ordem": 282
+    "numero_ordem": 282,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('atendimento, internação, visita') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2496155",
@@ -1140,7 +1184,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('doença de Creutzfeldt-Jakob') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0283",
-    "numero_ordem": 283
+    "numero_ordem": 283,
+    "resposta": "D",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('doença de Creutzfeldt-Jakob') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2496152",
@@ -1189,7 +1235,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e diretrizes da ANVISA (RDC nº 222/2018 e RDC nº 36/2013), as medidas de contenção de risco biológico, manuseio seguro de resíduos perfurocortantes e uso de equipamentos de proteção são de observância obrigatória. A alternativa [D] ('armazenamento interno') enuncia a diretriz preventiva e regulamentar correta.",
     "id": "EF0284",
-    "numero_ordem": 284
+    "numero_ordem": 284,
+    "resposta": "D",
+    "explicacao": "De acordo com a Norma Regulamentadora NR-32 (Segurança e Saúde no Trabalho em Serviços de Saúde) e diretrizes da ANVISA (RDC nº 222/2018 e RDC nº 36/2013), as medidas de contenção de risco biológico, manuseio seguro de resíduos perfurocortantes e uso de equipamentos de proteção são de observância obrigatória. A alternativa [D] ('armazenamento interno') enuncia a diretriz preventiva e regulamentar correta."
   },
   {
     "codigo_origem": "Q2496151",
@@ -1238,7 +1286,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('saúde do trabalhador') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0285",
-    "numero_ordem": 285
+    "numero_ordem": 285,
+    "resposta": "D",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('saúde do trabalhador') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2480398",
@@ -1295,7 +1345,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('Resolução N.º') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0298",
-    "numero_ordem": 298
+    "numero_ordem": 298,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('Resolução N.º') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2480397",
@@ -1352,7 +1404,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('multa e advertência') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0299",
-    "numero_ordem": 299
+    "numero_ordem": 299,
+    "resposta": "D",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('multa e advertência') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2480390",
@@ -1409,7 +1463,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('736/24') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0306",
-    "numero_ordem": 306
+    "numero_ordem": 306,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('736/24') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2472175",
@@ -1466,7 +1522,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('empatia') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0361",
-    "numero_ordem": 361
+    "numero_ordem": 361,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('empatia') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2470343",
@@ -1515,7 +1573,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('prestar cuidados de higiene e conforto ao paciente') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0363",
-    "numero_ordem": 363
+    "numero_ordem": 363,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('prestar cuidados de higiene e conforto ao paciente') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2470342",
@@ -1564,7 +1624,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('cassação do direito ao exercício profissional') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0364",
-    "numero_ordem": 364
+    "numero_ordem": 364,
+    "resposta": "D",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('cassação do direito ao exercício profissional') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2470341",
@@ -1613,7 +1675,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('admite uma reeleição') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0365",
-    "numero_ordem": 365
+    "numero_ordem": 365,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('admite uma reeleição') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2467336",
@@ -1662,7 +1726,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('acolher a solicitação da família com empatia, discutir o caso com a equipe médica e multiprofissional, e buscar a melhor solução para aliviar o sofrimento do paciente, considerando os princípios éticos da enfermagem e os aspectos legais da sedação paliativa') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0384",
-    "numero_ordem": 384
+    "numero_ordem": 384,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('acolher a solicitação da família com empatia, discutir o caso com a equipe médica e multiprofissional, e buscar a melhor solução para aliviar o sofrimento do paciente, considerando os princípios éticos da enfermagem e os aspectos legais da sedação paliativa') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2454940",
@@ -1711,7 +1777,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('no Código de ética – Resolução') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0392",
-    "numero_ordem": 392
+    "numero_ordem": 392,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('no Código de ética – Resolução') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2454924",
@@ -1760,7 +1828,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('procedimentos que estejam prescritos') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0408",
-    "numero_ordem": 408
+    "numero_ordem": 408,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('procedimentos que estejam prescritos') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2453001",
@@ -1809,7 +1879,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('Auxiliar de Enfermagem') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0416",
-    "numero_ordem": 416
+    "numero_ordem": 416,
+    "resposta": "B",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('Auxiliar de Enfermagem') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2452992",
@@ -1858,7 +1930,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('a Resolução') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0425",
-    "numero_ordem": 425
+    "numero_ordem": 425,
+    "resposta": "D",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('a Resolução') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2452991",
@@ -1907,7 +1981,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('multa e advertência') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0426",
-    "numero_ordem": 426
+    "numero_ordem": 426,
+    "resposta": "D",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('multa e advertência') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q3674512",
@@ -1956,7 +2032,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('42% de enfermeiros e os demais técnicos de enfermagem') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0453",
-    "numero_ordem": 453
+    "numero_ordem": 453,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('42% de enfermeiros e os demais técnicos de enfermagem') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2341571",
@@ -2005,7 +2083,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('territorialização') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0480",
-    "numero_ordem": 480
+    "numero_ordem": 480,
+    "resposta": "D",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('territorialização') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2341570",
@@ -2054,7 +2134,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('ético') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0481",
-    "numero_ordem": 481
+    "numero_ordem": 481,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('ético') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2341562",
@@ -2103,7 +2185,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('realização de cuidados de enfermagem de maior complexidade técnica e que exijam conhecimentos científicos adequados e capacidade de tomar decisões imediatas') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0489",
-    "numero_ordem": 489
+    "numero_ordem": 489,
+    "resposta": "D",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('realização de cuidados de enfermagem de maior complexidade técnica e que exijam conhecimentos científicos adequados e capacidade de tomar decisões imediatas') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2341552",
@@ -2152,7 +2236,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('proteger o cliente contra danos decorrentes de imperícia ou imprudência por parte de qualquer membro da equipe de saúde') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0499",
-    "numero_ordem": 499
+    "numero_ordem": 499,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('proteger o cliente contra danos decorrentes de imperícia ou imprudência por parte de qualquer membro da equipe de saúde') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2325292",
@@ -2201,7 +2287,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('moderada') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0503",
-    "numero_ordem": 503
+    "numero_ordem": 503,
+    "resposta": "B",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('moderada') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2310591",
@@ -2250,7 +2338,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('censura') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0523",
-    "numero_ordem": 523
+    "numero_ordem": 523,
+    "resposta": "B",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('censura') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2297124",
@@ -2299,7 +2389,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('exercer a profissão com justiça, compromisso, equidade, resolutividade, dignidade, competência, responsabilidade, honestidade e lealdade; fundamentar suas relações no direito, na prudência, no respeito, na solidariedade e na diversidade de opinião e posição ideológica') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0544",
-    "numero_ordem": 544
+    "numero_ordem": 544,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('exercer a profissão com justiça, compromisso, equidade, resolutividade, dignidade, competência, responsabilidade, honestidade e lealdade; fundamentar suas relações no direito, na prudência, no respeito, na solidariedade e na diversidade de opinião e posição ideológica') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2162346",
@@ -2348,7 +2440,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('planejamento') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0564",
-    "numero_ordem": 564
+    "numero_ordem": 564,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('planejamento') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2162342",
@@ -2397,7 +2491,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('10 horas') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0568",
-    "numero_ordem": 568
+    "numero_ordem": 568,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('10 horas') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2162336",
@@ -2446,7 +2542,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('DPOC (doença pulmonar obstrutiva crônica)') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0574",
-    "numero_ordem": 574
+    "numero_ordem": 574,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('DPOC (doença pulmonar obstrutiva crônica)') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2162330",
@@ -2495,7 +2593,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('instrumento metodológico que orienta o cuidado profissional de Enfermagem e a documentação da prática profissional') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0579",
-    "numero_ordem": 579
+    "numero_ordem": 579,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('instrumento metodológico que orienta o cuidado profissional de Enfermagem e a documentação da prática profissional') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2160727",
@@ -2544,7 +2644,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('tardio') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0597",
-    "numero_ordem": 597
+    "numero_ordem": 597,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('tardio') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2024543",
@@ -2593,7 +2695,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('01 (um) a 10 (dez) vezes o valor da anuidade') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0611",
-    "numero_ordem": 611
+    "numero_ordem": 611,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('01 (um) a 10 (dez) vezes o valor da anuidade') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1953154",
@@ -2642,7 +2746,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('fundamentar suas relações no direito, na prudência, no respeito, na solidariedade e na diversidade de opinião e posição ideológica') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0650",
-    "numero_ordem": 650
+    "numero_ordem": 650,
+    "resposta": "D",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('fundamentar suas relações no direito, na prudência, no respeito, na solidariedade e na diversidade de opinião e posição ideológica') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1320493",
@@ -2691,7 +2797,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('aceitar cargo, função ou emprego vago em decorrência de fatos que envolvam recusa ou demissão motivada pela necessidade do profissional em cumprir o presente código e a legislação do exercício profissional, bem como pleitear cargo, função ou emprego ocupado por colega, utilizando-se de concorrência desleal') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0666",
-    "numero_ordem": 666
+    "numero_ordem": 666,
+    "resposta": "D",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('aceitar cargo, função ou emprego vago em decorrência de fatos que envolvam recusa ou demissão motivada pela necessidade do profissional em cumprir o presente código e a legislação do exercício profissional, bem como pleitear cargo, função ou emprego ocupado por colega, utilizando-se de concorrência desleal') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1320492",
@@ -2740,7 +2848,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('cometer infração dolosamente') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0667",
-    "numero_ordem": 667
+    "numero_ordem": 667,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('cometer infração dolosamente') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1313720",
@@ -2789,7 +2899,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('receber vantagens de instituição, empresa, pessoa, família e coletividade, além do que lhe é devido, como forma de garantir assistência de Enfermagem diferenciada ou benefícios de qualquer natureza para si ou para outrem') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0696",
-    "numero_ordem": 696
+    "numero_ordem": 696,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('receber vantagens de instituição, empresa, pessoa, família e coletividade, além do que lhe é devido, como forma de garantir assistência de Enfermagem diferenciada ou benefícios de qualquer natureza para si ou para outrem') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1313713",
@@ -2838,7 +2950,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('processo de enfermagem') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0703",
-    "numero_ordem": 703
+    "numero_ordem": 703,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('processo de enfermagem') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1313708",
@@ -2887,7 +3001,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('hálito cetônico, respiração de Kussmaul, náusea, vômito e dor abdominal') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0708",
-    "numero_ordem": 708
+    "numero_ordem": 708,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('hálito cetônico, respiração de Kussmaul, náusea, vômito e dor abdominal') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1313698",
@@ -2936,7 +3052,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('provocar aborto, ou cooperar em prática destinada a interromper a gestação, exceto nos casos permitidos pela legislação vigente') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0718",
-    "numero_ordem": 718
+    "numero_ordem": 718,
+    "resposta": "B",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('provocar aborto, ou cooperar em prática destinada a interromper a gestação, exceto nos casos permitidos pela legislação vigente') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1313684",
@@ -2985,7 +3103,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('consulta de enfermagem; prescrição da assistência de enfermagem e cuidados diretos de enfermagem a pacientes graves com risco de vida') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0731",
-    "numero_ordem": 731
+    "numero_ordem": 731,
+    "resposta": "B",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('consulta de enfermagem; prescrição da assistência de enfermagem e cuidados diretos de enfermagem a pacientes graves com risco de vida') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2710357",
@@ -3034,7 +3154,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('um direito') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0755",
-    "numero_ordem": 755
+    "numero_ordem": 755,
+    "resposta": "B",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('um direito') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2698344",
@@ -3083,7 +3205,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('chefiar o serviço de enfermagem') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0763",
-    "numero_ordem": 763
+    "numero_ordem": 763,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('chefiar o serviço de enfermagem') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2698326",
@@ -3132,7 +3256,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('inter-relacionadas, interdependentes e recorrentes') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0768",
-    "numero_ordem": 768
+    "numero_ordem": 768,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('inter-relacionadas, interdependentes e recorrentes') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2692356",
@@ -3181,7 +3307,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('nunca superior a uma hora') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0782",
-    "numero_ordem": 782
+    "numero_ordem": 782,
+    "resposta": "D",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('nunca superior a uma hora') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2692352",
@@ -3230,7 +3358,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('participar da programação da assistência de enfermagem e participar da equipe de saúde') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0783",
-    "numero_ordem": 783
+    "numero_ordem": 783,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('participar da programação da assistência de enfermagem e participar da equipe de saúde') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2692335",
@@ -3279,7 +3409,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('um dever') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0787",
-    "numero_ordem": 787
+    "numero_ordem": 787,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('um dever') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1242256",
@@ -3328,7 +3460,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('negar-se a ser filmado, fotografado e exposto em mídias sociais durante o desempenho de suas atividades profissionais') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0789",
-    "numero_ordem": 789
+    "numero_ordem": 789,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('negar-se a ser filmado, fotografado e exposto em mídias sociais durante o desempenho de suas atividades profissionais') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q3974324",
@@ -3377,7 +3511,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('infração ética decorrente da ausência de registro formal e de comunicação institucional adequada diante de divergência técnico-assistencial') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0813",
-    "numero_ordem": 813
+    "numero_ordem": 813,
+    "resposta": "B",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('infração ética decorrente da ausência de registro formal e de comunicação institucional adequada diante de divergência técnico-assistencial') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q3884661",
@@ -3426,7 +3562,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('manter o recém-nascido aquecido e estimular o contato pele a pele na primeira hora') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0815",
-    "numero_ordem": 815
+    "numero_ordem": 815,
+    "resposta": "B",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('manter o recém-nascido aquecido e estimular o contato pele a pele na primeira hora') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q3884650",
@@ -3475,7 +3613,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('sigilo profissional') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0823",
-    "numero_ordem": 823
+    "numero_ordem": 823,
+    "resposta": "D",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('sigilo profissional') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q3884071",
@@ -3524,7 +3664,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('histórico de enfermagem') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0836",
-    "numero_ordem": 836
+    "numero_ordem": 836,
+    "resposta": "D",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('histórico de enfermagem') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q3810631",
@@ -3573,7 +3715,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('infração ética, por negar assistência em situação que exige atendimento imediato, sem justificativa que represente risco pessoal ao profissional') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0851",
-    "numero_ordem": 851
+    "numero_ordem": 851,
+    "resposta": "B",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('infração ética, por negar assistência em situação que exige atendimento imediato, sem justificativa que represente risco pessoal ao profissional') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q3810624",
@@ -3622,7 +3766,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('participar da execução do plano assistencial de enfermagem, sob supervisão do enfermeiro') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0858",
-    "numero_ordem": 858
+    "numero_ordem": 858,
+    "resposta": "D",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('participar da execução do plano assistencial de enfermagem, sob supervisão do enfermeiro') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q3802716",
@@ -3671,7 +3817,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('respeitar a decisão do paciente, garantindo que ele compreendeu as informações sobre o procedimento e suas consequências, e documentar a recusa no prontuário') traduz com precisão o comando ético-legal correspondente.",
     "id": "EF0859",
-    "numero_ordem": 859
+    "numero_ordem": 859,
+    "resposta": "B",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('respeitar a decisão do paciente, garantindo que ele compreendeu as informações sobre o procedimento e suas consequências, e documentar a recusa no prontuário') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2108268",
@@ -3728,7 +3876,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('de duas testemunhas.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0002",
-    "numero_ordem": 2
+    "numero_ordem": 2,
+    "resposta": "D",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('de duas testemunhas.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1971248",
@@ -3785,7 +3935,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('poderá gerar prescrição de medicamentos, solicitação de exames e encaminhamentos desde que previstos em protocolos, diretrizes clínicas e terapêuticas, ou outras normativas técnicas estabelecidas no âmbito do SUS, bem como na saúde suplementar e privada.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0028",
-    "numero_ordem": 28
+    "numero_ordem": 28,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('poderá gerar prescrição de medicamentos, solicitação de exames e encaminhamentos desde que previstos em protocolos, diretrizes clínicas e terapêuticas, ou outras normativas técnicas estabelecidas no âmbito do SUS, bem como na saúde suplementar e privada.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1970069",
@@ -3842,7 +3994,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('de mudança de risco ocupacional deve, obrigatoriamente, ser realizado antes da data da sua mudança, adequando-se o controle médico aos novos riscos.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0032",
-    "numero_ordem": 32
+    "numero_ordem": 32,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('de mudança de risco ocupacional deve, obrigatoriamente, ser realizado antes da data da sua mudança, adequando-se o controle médico aos novos riscos.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1970065",
@@ -3899,7 +4053,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('ambiência.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0036",
-    "numero_ordem": 36
+    "numero_ordem": 36,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('ambiência.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1970062",
@@ -3956,7 +4112,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('o ortostatismo prolongado.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0038",
-    "numero_ordem": 38
+    "numero_ordem": 38,
+    "resposta": "B",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('o ortostatismo prolongado.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1970052",
@@ -4013,7 +4171,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('dos deveres.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0047",
-    "numero_ordem": 47
+    "numero_ordem": 47,
+    "resposta": "B",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('dos deveres.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1956237",
@@ -4070,7 +4230,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('o conjunto de políticas e práticas a fim de reduzir os danos associados ao uso de drogas psicoativas em pessoas que não podem ou não querem parar de usar drogas, visando minimizar as consequências negativas à saúde, aspectos sociais e econômicos decorrentes de substâncias que alteram o comportamento para os usuários de álcool e drogas, suas famílias e comunidade.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0066",
-    "numero_ordem": 66
+    "numero_ordem": 66,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('o conjunto de políticas e práticas a fim de reduzir os danos associados ao uso de drogas psicoativas em pessoas que não podem ou não querem parar de usar drogas, visando minimizar as consequências negativas à saúde, aspectos sociais e econômicos decorrentes de substâncias que alteram o comportamento para os usuários de álcool e drogas, suas famílias e comunidade.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1956236",
@@ -4127,7 +4289,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('privativas do enfermeiro.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0067",
-    "numero_ordem": 67
+    "numero_ordem": 67,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('privativas do enfermeiro.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1956223",
@@ -4184,7 +4348,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('seu direito.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0076",
-    "numero_ordem": 76
+    "numero_ordem": 76,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('seu direito.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1956209",
@@ -4241,7 +4407,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('hálito semelhante a removedor de esmalte.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0088",
-    "numero_ordem": 88
+    "numero_ordem": 88,
+    "resposta": "D",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('hálito semelhante a removedor de esmalte.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1309011",
@@ -4298,7 +4466,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('esse processo, quando realizado em instituições prestadoras de serviços ambulatoriais de saúde, domicílios, escolas, associações comunitárias, entre outros, corresponde à Consulta de Enfermagem.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0099",
-    "numero_ordem": 99
+    "numero_ordem": 99,
+    "resposta": "B",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('esse processo, quando realizado em instituições prestadoras de serviços ambulatoriais de saúde, domicílios, escolas, associações comunitárias, entre outros, corresponde à Consulta de Enfermagem.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1309001",
@@ -4355,7 +4525,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('são obrigatórios a criação e o funcionamento da CEE em instituições com no mínimo 50 profissionais de enfermagem em seu quadro de colaboradores.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0108",
-    "numero_ordem": 108
+    "numero_ordem": 108,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('são obrigatórios a criação e o funcionamento da CEE em instituições com no mínimo 50 profissionais de enfermagem em seu quadro de colaboradores.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1309000",
@@ -4412,7 +4584,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('Norma Regulamentadora nº 32 do Ministério do Trabalho e Emprego.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0109",
-    "numero_ordem": 109
+    "numero_ordem": 109,
+    "resposta": "E",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('Norma Regulamentadora nº 32 do Ministério do Trabalho e Emprego.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1252280",
@@ -4469,7 +4643,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('houver infração a mais de um artigo.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0153",
-    "numero_ordem": 153
+    "numero_ordem": 153,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('houver infração a mais de um artigo.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1252237",
@@ -4526,7 +4702,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('participar de atividades grupais junto aos demais profissionais da equipe de saúde mental.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0166",
-    "numero_ordem": 166
+    "numero_ordem": 166,
+    "resposta": "B",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('participar de atividades grupais junto aos demais profissionais da equipe de saúde mental.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1252224",
@@ -4583,7 +4761,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('um direito.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0177",
-    "numero_ordem": 177
+    "numero_ordem": 177,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('um direito.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1252223",
@@ -4640,7 +4820,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('declarar suas razões éticas para manutenção do sigilo profissional, se for o caso.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0178",
-    "numero_ordem": 178
+    "numero_ordem": 178,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('declarar suas razões éticas para manutenção do sigilo profissional, se for o caso.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1252152",
@@ -4697,7 +4879,9 @@ export const questoes = [
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('I, II e III, apenas.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0195",
-    "numero_ordem": 195
+    "numero_ordem": 195,
+    "resposta": "A",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('I, II e III, apenas.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q4156593",
@@ -4754,7 +4938,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('executa as ações de enfermagem planejadas pelo enfermeiro, contribuindo para a continuidade do cuidado.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0204",
-    "numero_ordem": 204
+    "numero_ordem": 204,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('executa as ações de enfermagem planejadas pelo enfermeiro, contribuindo para a continuidade do cuidado.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q4156589",
@@ -4811,7 +4997,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('Repreensão escrita e pública, divulgada oficialmente, aplicável em situações de maior gravidade.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0208",
-    "numero_ordem": 208
+    "numero_ordem": 208,
+    "resposta": "E",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('Repreensão escrita e pública, divulgada oficialmente, aplicável em situações de maior gravidade.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q4156586",
@@ -4868,7 +5056,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('o profissional de enfermagem deve registrar o atendimento, comunicar a chefia imediata e proceder conforme os protocolos institucionais, incluindo a notificação compulsória, mesmo sem consentimento da vítima.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0211",
-    "numero_ordem": 211
+    "numero_ordem": 211,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('o profissional de enfermagem deve registrar o atendimento, comunicar a chefia imediata e proceder conforme os protocolos institucionais, incluindo a notificação compulsória, mesmo sem consentimento da vítima.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q4156582",
@@ -4925,7 +5115,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('o técnico de enfermagem pode recusar a digitação de laudos de ultrassonografia, pois essa atividade não integra suas atribuições e refere-se a ato privativo médico.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0213",
-    "numero_ordem": 213
+    "numero_ordem": 213,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('o técnico de enfermagem pode recusar a digitação de laudos de ultrassonografia, pois essa atividade não integra suas atribuições e refere-se a ato privativo médico.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q4155347",
@@ -4982,7 +5174,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('advertência verbal.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0220",
-    "numero_ordem": 220
+    "numero_ordem": 220,
+    "resposta": "B",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('advertência verbal.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1252145",
@@ -5039,7 +5233,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('o diagnóstico de enfermagem é uma das etapas do processo de enfermagem privativo do enfermeiro.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0221",
-    "numero_ordem": 221
+    "numero_ordem": 221,
+    "resposta": "E",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('o diagnóstico de enfermagem é uma das etapas do processo de enfermagem privativo do enfermeiro.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1252144",
@@ -5096,7 +5292,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('90 dias.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0222",
-    "numero_ordem": 222
+    "numero_ordem": 222,
+    "resposta": "D",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('90 dias.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1129544",
@@ -5153,7 +5351,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('cassação do direito ao exercício profissional.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0230",
-    "numero_ordem": 230
+    "numero_ordem": 230,
+    "resposta": "E",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('cassação do direito ao exercício profissional.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1129537",
@@ -5210,7 +5410,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('um surto.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0237",
-    "numero_ordem": 237
+    "numero_ordem": 237,
+    "resposta": "E",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('um surto.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1023314",
@@ -5267,7 +5469,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('11%.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0263",
-    "numero_ordem": 263
+    "numero_ordem": 263,
+    "resposta": "E",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('11%.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1023301",
@@ -5324,7 +5528,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('no planejamento, programação, orientação e supervisão das atividades de assistência de enfermagem.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0273",
-    "numero_ordem": 273
+    "numero_ordem": 273,
+    "resposta": "D",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('no planejamento, programação, orientação e supervisão das atividades de assistência de enfermagem.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1023300",
@@ -5381,7 +5587,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('cassação consiste na perda do direito ao exercício de Enfermagem por um período de até 30 anos.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0274",
-    "numero_ordem": 274
+    "numero_ordem": 274,
+    "resposta": "E",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('cassação consiste na perda do direito ao exercício de Enfermagem por um período de até 30 anos.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q937541",
@@ -5438,7 +5646,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('Lei n° 11.340, de 07 de agosto de 2006 (Lei Maria da Penha).') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0289",
-    "numero_ordem": 289
+    "numero_ordem": 289,
+    "resposta": "E",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('Lei n° 11.340, de 07 de agosto de 2006 (Lei Maria da Penha).') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q935887",
@@ -5495,7 +5705,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('observar, reconhecer e descrever sinais e sintomas.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0313",
-    "numero_ordem": 313
+    "numero_ordem": 313,
+    "resposta": "E",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('observar, reconhecer e descrever sinais e sintomas.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q935886",
@@ -5552,7 +5764,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('dever.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0314",
-    "numero_ordem": 314
+    "numero_ordem": 314,
+    "resposta": "B",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('dever.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q935874",
@@ -5609,7 +5823,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('reposição por via oral de potássio.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0326",
-    "numero_ordem": 326
+    "numero_ordem": 326,
+    "resposta": "D",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('reposição por via oral de potássio.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q934891",
@@ -5666,7 +5882,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('principialista norte-americana.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0334",
-    "numero_ordem": 334
+    "numero_ordem": 334,
+    "resposta": "B",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('principialista norte-americana.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q934881",
@@ -5723,7 +5941,9 @@ export const questoes = [
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('e a atitude do gerente do laboratório estão em desacordo com a legislação, pois as análises das amostras de soro só poderiam ser realizadas após a aprovação no Sistema CEP/Conep-CNS.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0340",
-    "numero_ordem": 340
+    "numero_ordem": 340,
+    "resposta": "A",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('e a atitude do gerente do laboratório estão em desacordo com a legislação, pois as análises das amostras de soro só poderiam ser realizadas após a aprovação no Sistema CEP/Conep-CNS.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q932741",
@@ -5780,7 +6000,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('intermediária,') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0348",
-    "numero_ordem": 348
+    "numero_ordem": 348,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('intermediária,') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q932724",
@@ -5837,7 +6059,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('um direito.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0361",
-    "numero_ordem": 361
+    "numero_ordem": 361,
+    "resposta": "E",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('um direito.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q931010",
@@ -5894,7 +6118,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('Conhecer, cumprir e fazer cumprir o Código de Ética dos Profissionais de Enfermagem e demais normativos do Sistema Cofen/Conselhos Regionais de Enfermagem.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0384",
-    "numero_ordem": 384
+    "numero_ordem": 384,
+    "resposta": "D",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('Conhecer, cumprir e fazer cumprir o Código de Ética dos Profissionais de Enfermagem e demais normativos do Sistema Cofen/Conselhos Regionais de Enfermagem.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q4155346",
@@ -5951,7 +6177,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('seus Direitos.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0399",
-    "numero_ordem": 399
+    "numero_ordem": 399,
+    "resposta": "D",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('seus Direitos.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q920265",
@@ -6008,7 +6236,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('realizar o exame, desde que esteja devidamente capacitado e sob a supervisão do enfermeiro.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0442",
-    "numero_ordem": 442
+    "numero_ordem": 442,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('realizar o exame, desde que esteja devidamente capacitado e sob a supervisão do enfermeiro.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q920264",
@@ -6065,7 +6295,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('a responsabilidade será atribuída na medida do(s) ato(s) praticado(s) individualmente.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0443",
-    "numero_ordem": 443
+    "numero_ordem": 443,
+    "resposta": "B",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('a responsabilidade será atribuída na medida do(s) ato(s) praticado(s) individualmente.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q918271",
@@ -6122,7 +6354,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('direitos.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0448",
-    "numero_ordem": 448
+    "numero_ordem": 448,
+    "resposta": "B",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('direitos.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q918193",
@@ -6179,7 +6413,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('tem o direito de acompanhar o procedimento prestado, se necessário.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0462",
-    "numero_ordem": 462
+    "numero_ordem": 462,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('tem o direito de acompanhar o procedimento prestado, se necessário.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q918176",
@@ -6236,7 +6472,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('apor nome completo e/ou nome social, ambos legíveis, número e categoria de inscrição no Conselho Regional de Enfermagem, assinatura ou rubrica nos documentos, quando no exercício profissional.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0478",
-    "numero_ordem": 478
+    "numero_ordem": 478,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('apor nome completo e/ou nome social, ambos legíveis, número e categoria de inscrição no Conselho Regional de Enfermagem, assinatura ou rubrica nos documentos, quando no exercício profissional.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q839932",
@@ -6293,7 +6531,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('controlar o gotejamento entre 20 a 21 gotas/minuto para infundir SG 5% 500 mL em 8 horas.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0511",
-    "numero_ordem": 511
+    "numero_ordem": 511,
+    "resposta": "B",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('controlar o gotejamento entre 20 a 21 gotas/minuto para infundir SG 5% 500 mL em 8 horas.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q839931",
@@ -6350,7 +6590,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('a inserção dos dispositivos urinários seja realizada somente pelo enfermeiro treinado.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0512",
-    "numero_ordem": 512
+    "numero_ordem": 512,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('a inserção dos dispositivos urinários seja realizada somente pelo enfermeiro treinado.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q839930",
@@ -6407,7 +6649,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('não deverá ser executado pelos profissionais de enfermagem por não possuírem competência legal para a sua realização.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0513",
-    "numero_ordem": 513
+    "numero_ordem": 513,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('não deverá ser executado pelos profissionais de enfermagem por não possuírem competência legal para a sua realização.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q839929",
@@ -6464,7 +6708,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('proibido aos profissionais de enfermagem, em todo o território nacional.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0514",
-    "numero_ordem": 514
+    "numero_ordem": 514,
+    "resposta": "D",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('proibido aos profissionais de enfermagem, em todo o território nacional.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q839928",
@@ -6521,7 +6767,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('está desenvolvendo ações privativas do enfermeiro.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0515",
-    "numero_ordem": 515
+    "numero_ordem": 515,
+    "resposta": "E",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('está desenvolvendo ações privativas do enfermeiro.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q839927",
@@ -6578,7 +6826,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('possibilidade de uso do nome social seguido da sua inscrição junto ao Conselho Regional de Enfermagem − COREN.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0516",
-    "numero_ordem": 516
+    "numero_ordem": 516,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('possibilidade de uso do nome social seguido da sua inscrição junto ao Conselho Regional de Enfermagem − COREN.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q839926",
@@ -6635,7 +6885,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('não dispõem sobre a competência do técnico de enfermagem para supervisionar as atividades desses estudantes durante o estágio.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0517",
-    "numero_ordem": 517
+    "numero_ordem": 517,
+    "resposta": "E",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('não dispõem sobre a competência do técnico de enfermagem para supervisionar as atividades desses estudantes durante o estágio.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q783955",
@@ -6692,7 +6944,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('a matéria orgânica impede que o agente esterilizante entre em contato com o instrumental.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0547",
-    "numero_ordem": 547
+    "numero_ordem": 547,
+    "resposta": "E",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('a matéria orgânica impede que o agente esterilizante entre em contato com o instrumental.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q783950",
@@ -6749,7 +7003,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('Dengue.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0552",
-    "numero_ordem": 552
+    "numero_ordem": 552,
+    "resposta": "B",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('Dengue.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q783944",
@@ -6806,7 +7062,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('no Código de Ética dos Profissionais de Enfermagem.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0558",
-    "numero_ordem": 558
+    "numero_ordem": 558,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('no Código de Ética dos Profissionais de Enfermagem.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q777977",
@@ -6863,7 +7121,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('do enfermeiro, e dos profissionais de nível médio, sob supervisão de enfermeiro.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0588",
-    "numero_ordem": 588
+    "numero_ordem": 588,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('do enfermeiro, e dos profissionais de nível médio, sob supervisão de enfermeiro.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q777976",
@@ -6920,7 +7180,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('realizar a dupla checagem sobre outros técnicos e auxiliares de enfermagem.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0589",
-    "numero_ordem": 589
+    "numero_ordem": 589,
+    "resposta": "E",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('realizar a dupla checagem sobre outros técnicos e auxiliares de enfermagem.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2723499",
@@ -6977,7 +7239,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('éticos e legais.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0612",
-    "numero_ordem": 612
+    "numero_ordem": 612,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('éticos e legais.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q1337363",
@@ -7034,7 +7298,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('perda do direito ao exercício da Enfermagem e será divulgada nas publicações dos Conselhos Federal e Regionais de Enfermagem e em jornais de grande circulação.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0627",
-    "numero_ordem": 627
+    "numero_ordem": 627,
+    "resposta": "D",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('perda do direito ao exercício da Enfermagem e será divulgada nas publicações dos Conselhos Federal e Regionais de Enfermagem e em jornais de grande circulação.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q771962",
@@ -7091,7 +7357,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('1 hora.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0650",
-    "numero_ordem": 650
+    "numero_ordem": 650,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('1 hora.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q771960",
@@ -7148,7 +7416,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('abster-se de revelar informações confidenciais de que tenha conhecimento em razão de seu exercício profissional.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0652",
-    "numero_ordem": 652
+    "numero_ordem": 652,
+    "resposta": "E",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('abster-se de revelar informações confidenciais de que tenha conhecimento em razão de seu exercício profissional.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q764310",
@@ -7205,7 +7475,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('encher o balão de retenção com água destilada, pois as soluções salinas trazem risco de cristalização após longos períodos, o que pode dificultar a deflação no momento da retirada do cateter.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0681",
-    "numero_ordem": 681
+    "numero_ordem": 681,
+    "resposta": "D",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('encher o balão de retenção com água destilada, pois as soluções salinas trazem risco de cristalização após longos períodos, o que pode dificultar a deflação no momento da retirada do cateter.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q764307",
@@ -7262,7 +7534,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('coleta de material para colpocitologia oncótica, Papanicolau.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0684",
-    "numero_ordem": 684
+    "numero_ordem": 684,
+    "resposta": "E",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('coleta de material para colpocitologia oncótica, Papanicolau.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q764306",
@@ -7319,7 +7593,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('20 horas.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0685",
-    "numero_ordem": 685
+    "numero_ordem": 685,
+    "resposta": "D",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('20 horas.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q763966",
@@ -7376,7 +7652,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('Na coleta do fluido oral, deve-se inserir o coletor acima dos dentes, no espaço que fica entre o final da gengiva e o começo da bochecha, tanto na arcada superior quanto na arcada inferior.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0709",
-    "numero_ordem": 709
+    "numero_ordem": 709,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('Na coleta do fluido oral, deve-se inserir o coletor acima dos dentes, no espaço que fica entre o final da gengiva e o começo da bochecha, tanto na arcada superior quanto na arcada inferior.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q763940",
@@ -7433,7 +7711,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('perigo de vida.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0735",
-    "numero_ordem": 735
+    "numero_ordem": 735,
+    "resposta": "D",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('perigo de vida.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q763939",
@@ -7490,7 +7770,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('assistir ao enfermeiro na prestação de cuidados diretos de Enfermagem a pacientes em estado grave.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0736",
-    "numero_ordem": 736
+    "numero_ordem": 736,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('assistir ao enfermeiro na prestação de cuidados diretos de Enfermagem a pacientes em estado grave.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q763938",
@@ -7547,7 +7829,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('proibido de realizar a inserção do cateter vesical, pois é um procedimento privativo do enfermeiro.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0737",
-    "numero_ordem": 737
+    "numero_ordem": 737,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('proibido de realizar a inserção do cateter vesical, pois é um procedimento privativo do enfermeiro.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q763937",
@@ -7604,7 +7888,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('tem o direito de recursar-se a executar a prescrição medicamentosa e terapêutica, onde não conste assinatura e o número do registro profissional, exceto em situações de urgência e emergência.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0738",
-    "numero_ordem": 738
+    "numero_ordem": 738,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('tem o direito de recursar-se a executar a prescrição medicamentosa e terapêutica, onde não conste assinatura e o número do registro profissional, exceto em situações de urgência e emergência.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q615893",
@@ -7661,7 +7947,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('I e II, apenas.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0772",
-    "numero_ordem": 772
+    "numero_ordem": 772,
+    "resposta": "E",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('I e II, apenas.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q615892",
@@ -7718,7 +8006,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('proibido de realizar a lavagem de ouvido.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0773",
-    "numero_ordem": 773
+    "numero_ordem": 773,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('proibido de realizar a lavagem de ouvido.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q615891",
@@ -7775,7 +8065,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('não medicar e orientar o paciente para retornar a consulta médica.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0774",
-    "numero_ordem": 774
+    "numero_ordem": 774,
+    "resposta": "B",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('não medicar e orientar o paciente para retornar a consulta médica.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2723491",
@@ -7832,7 +8124,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('procure o atendimento médico para pesquisa de casos hormonais, tumores ovarianos e gestação.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0782",
-    "numero_ordem": 782
+    "numero_ordem": 782,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('procure o atendimento médico para pesquisa de casos hormonais, tumores ovarianos e gestação.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2723485",
@@ -7889,7 +8183,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('II e III.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0786",
-    "numero_ordem": 786
+    "numero_ordem": 786,
+    "resposta": "B",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('II e III.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2099280",
@@ -7946,7 +8242,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('coletar durante 3 dias, de preferência alternados, e levar a amostra ao Laboratório após a 3ª coleta.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0791",
-    "numero_ordem": 791
+    "numero_ordem": 791,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('coletar durante 3 dias, de preferência alternados, e levar a amostra ao Laboratório após a 3ª coleta.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2099269",
@@ -8003,7 +8301,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('da esquistossomose.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0800",
-    "numero_ordem": 800
+    "numero_ordem": 800,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('da esquistossomose.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2099257",
@@ -8060,7 +8360,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('Dos Direitos.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0812",
-    "numero_ordem": 812
+    "numero_ordem": 812,
+    "resposta": "E",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('Dos Direitos.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2118816",
@@ -8117,7 +8419,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('gravíssima.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0834",
-    "numero_ordem": 834
+    "numero_ordem": 834,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('gravíssima.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2118815",
@@ -8174,7 +8478,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('Orientar e acompanhar o trabalho de enfermagem em grau auxiliar.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0835",
-    "numero_ordem": 835
+    "numero_ordem": 835,
+    "resposta": "E",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('Orientar e acompanhar o trabalho de enfermagem em grau auxiliar.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2118801",
@@ -8231,7 +8537,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('participar da programação da assistência de enfermagem.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0846",
-    "numero_ordem": 846
+    "numero_ordem": 846,
+    "resposta": "E",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('participar da programação da assistência de enfermagem.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2118799",
@@ -8288,7 +8596,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('incumbe ao enfermeiro selecionar o meio de transporte que atenda às necessidades de segurança do paciente.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0847",
-    "numero_ordem": 847
+    "numero_ordem": 847,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('incumbe ao enfermeiro selecionar o meio de transporte que atenda às necessidades de segurança do paciente.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2108298",
@@ -8345,7 +8655,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('intermediários.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0853",
-    "numero_ordem": 853
+    "numero_ordem": 853,
+    "resposta": "B",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('intermediários.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2108288",
@@ -8402,7 +8714,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('médio.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0862",
-    "numero_ordem": 862
+    "numero_ordem": 862,
+    "resposta": "A",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [A] ('médio.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2108286",
@@ -8459,7 +8773,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('72 horas.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0864",
-    "numero_ordem": 864
+    "numero_ordem": 864,
+    "resposta": "B",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [B] ('72 horas.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q2108276",
@@ -8516,7 +8832,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('dos Deveres.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0872",
-    "numero_ordem": 872
+    "numero_ordem": 872,
+    "resposta": "E",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [E] ('dos Deveres.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q4156606",
@@ -8573,7 +8891,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('pré-limpeza.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0891",
-    "numero_ordem": 891
+    "numero_ordem": 891,
+    "resposta": "D",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [D] ('pré-limpeza.') traduz com precisão o comando ético-legal correspondente."
   },
   {
     "codigo_origem": "Q4156600",
@@ -8630,7 +8950,9 @@ export const questoes = [
     ],
     "comentario": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('por via fecal-oral, principalmente por ingestão de água ou alimentos contaminados.') traduz com precisão o comando ético-legal correspondente.",
     "id": "FCC_ENF0895",
-    "numero_ordem": 895
+    "numero_ordem": 895,
+    "resposta": "C",
+    "explicacao": "De acordo com a Lei Federal nº 7.498/1986 (Regulamentação do Exercício Profissional) e o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), o exercício da profissão fundamenta-se no respeito à vida, dignidade humana, rigor técnico e distinção clara entre direitos, deveres e proibições da equipe. A alternativa [C] ('por via fecal-oral, principalmente por ingestão de água ou alimentos contaminados.') traduz com precisão o comando ético-legal correspondente."
   }
 ];
 export default questoes;

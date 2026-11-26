@@ -46,7 +46,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [C] ('pronome e preposição') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT0008",
-    "numero_ordem": 8
+    "numero_ordem": 8,
+    "resposta": "C",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [C] ('pronome e preposição') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q3744253",
@@ -95,7 +97,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('televisão') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT0134",
-    "numero_ordem": 134
+    "numero_ordem": 134,
+    "resposta": "B",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('televisão') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q3742228",
@@ -144,7 +148,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('sarampo') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT0151",
-    "numero_ordem": 151
+    "numero_ordem": 151,
+    "resposta": "B",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('sarampo') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q3722715",
@@ -193,7 +199,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('Ele') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT0165",
-    "numero_ordem": 165
+    "numero_ordem": 165,
+    "resposta": "B",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('Ele') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q3498111",
@@ -242,7 +250,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('“participantes”') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT0280",
-    "numero_ordem": 280
+    "numero_ordem": 280,
+    "resposta": "B",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('“participantes”') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q3289908",
@@ -291,7 +301,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [A] ('“A agência estatal TASS divulgou a informação nesta semana”') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT0341",
-    "numero_ordem": 341
+    "numero_ordem": 341,
+    "resposta": "A",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [A] ('“A agência estatal TASS divulgou a informação nesta semana”') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q3289907",
@@ -340,7 +352,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [C] ('uma vacina mRNA contra o câncer') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT0342",
-    "numero_ordem": 342
+    "numero_ordem": 342,
+    "resposta": "C",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [C] ('uma vacina mRNA contra o câncer') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q3248056",
@@ -397,7 +411,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [E] ('eles') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT0394",
-    "numero_ordem": 394
+    "numero_ordem": 394,
+    "resposta": "E",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [E] ('eles') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q3199013",
@@ -446,7 +462,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('aposto') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT0419",
-    "numero_ordem": 419
+    "numero_ordem": 419,
+    "resposta": "B",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('aposto') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q4340133",
@@ -495,7 +513,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [C] ('referencial') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT0437",
-    "numero_ordem": 437
+    "numero_ordem": 437,
+    "resposta": "C",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [C] ('referencial') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q4340131",
@@ -544,7 +564,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [A] ('a nova orla') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT0438",
-    "numero_ordem": 438
+    "numero_ordem": 438,
+    "resposta": "A",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [A] ('a nova orla') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q4340096",
@@ -593,7 +615,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [D] ('Helena') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT0440",
-    "numero_ordem": 440
+    "numero_ordem": 440,
+    "resposta": "D",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [D] ('Helena') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q3197339",
@@ -642,7 +666,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [C] ('observador, pois não participa diretamente da história') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT0459",
-    "numero_ordem": 459
+    "numero_ordem": 459,
+    "resposta": "C",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [C] ('observador, pois não participa diretamente da história') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q3197337",
@@ -691,7 +717,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [D] ('trabalhar como doméstica') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT0461",
-    "numero_ordem": 461
+    "numero_ordem": 461,
+    "resposta": "D",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [D] ('trabalhar como doméstica') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q3398150",
@@ -740,7 +768,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('Hadassa Maciel') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT0560",
-    "numero_ordem": 560
+    "numero_ordem": 560,
+    "resposta": "B",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('Hadassa Maciel') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q3135777",
@@ -789,7 +819,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('ela') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT0574",
-    "numero_ordem": 574
+    "numero_ordem": 574,
+    "resposta": "B",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('ela') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q4334827",
@@ -838,7 +870,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [A] ('solecismo de sintaxe, pois a forma \"ela\", pronome do caso reto, foi empregada na função de objeto direto, para a qual a norma-padrão prevê o pronome oblíquo correspondente') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT0651",
-    "numero_ordem": 651
+    "numero_ordem": 651,
+    "resposta": "A",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [A] ('solecismo de sintaxe, pois a forma \"ela\", pronome do caso reto, foi empregada na função de objeto direto, para a qual a norma-padrão prevê o pronome oblíquo correspondente') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q3103251",
@@ -887,7 +921,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('“vírus influenza B”') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT0677",
-    "numero_ordem": 677
+    "numero_ordem": 677,
+    "resposta": "B",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('“vírus influenza B”') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q3103175",
@@ -936,7 +972,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('“você” e “nós”') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT0693",
-    "numero_ordem": 693
+    "numero_ordem": 693,
+    "resposta": "B",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('“você” e “nós”') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q3067378",
@@ -985,7 +1023,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [C] ('pesquisa do site Uswitch') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT0733",
-    "numero_ordem": 733
+    "numero_ordem": 733,
+    "resposta": "C",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [C] ('pesquisa do site Uswitch') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q2525725",
@@ -1034,7 +1074,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('à vacina contra a gripe') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT0774",
-    "numero_ordem": 774
+    "numero_ordem": 774,
+    "resposta": "B",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('à vacina contra a gripe') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q2484329",
@@ -1083,7 +1125,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('anáfora') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT0836",
-    "numero_ordem": 836
+    "numero_ordem": 836,
+    "resposta": "B",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('anáfora') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q2470822",
@@ -1132,7 +1176,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [D] ('esse – nosso – algumas – ela') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT0912",
-    "numero_ordem": 912
+    "numero_ordem": 912,
+    "resposta": "D",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [D] ('esse – nosso – algumas – ela') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q2465362",
@@ -1189,7 +1235,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [D] ('reitores de universidades') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT0976",
-    "numero_ordem": 976
+    "numero_ordem": 976,
+    "resposta": "D",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [D] ('reitores de universidades') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q2347878",
@@ -1238,7 +1286,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('indefinidos') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT1022",
-    "numero_ordem": 1022
+    "numero_ordem": 1022,
+    "resposta": "B",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('indefinidos') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q4250881",
@@ -1287,7 +1337,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('materiais poluentes encontrados') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT1053",
-    "numero_ordem": 1053
+    "numero_ordem": 1053,
+    "resposta": "B",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('materiais poluentes encontrados') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q4250114",
@@ -1336,7 +1388,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [C] ('pelos integrantes da seleção de 1994') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT1060",
-    "numero_ordem": 1060
+    "numero_ordem": 1060,
+    "resposta": "C",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [C] ('pelos integrantes da seleção de 1994') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q4244974",
@@ -1385,7 +1439,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('condição') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT1067",
-    "numero_ordem": 1067
+    "numero_ordem": 1067,
+    "resposta": "B",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('condição') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q4220094",
@@ -1434,7 +1490,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [C] ('comportamentos que levam à procrastinação') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT1073",
-    "numero_ordem": 1073
+    "numero_ordem": 1073,
+    "resposta": "C",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [C] ('comportamentos que levam à procrastinação') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q3963433",
@@ -1483,7 +1541,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('pronome relativo') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT1089",
-    "numero_ordem": 1089
+    "numero_ordem": 1089,
+    "resposta": "B",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('pronome relativo') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q3963431",
@@ -1532,7 +1592,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [C] ('Espelhinhos e colares nos conquistam') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT1090",
-    "numero_ordem": 1090
+    "numero_ordem": 1090,
+    "resposta": "C",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [C] ('Espelhinhos e colares nos conquistam') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q3963048",
@@ -1581,7 +1643,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [D] ('estabelece uma relação anafórica que evita repetição lexical e garante continuidade temática') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT1099",
-    "numero_ordem": 1099
+    "numero_ordem": 1099,
+    "resposta": "D",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [D] ('estabelece uma relação anafórica que evita repetição lexical e garante continuidade temática') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q4400009",
@@ -1630,7 +1694,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [A] ('retoma a expressão “o vocalista e baixista”') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "PT1126",
-    "numero_ordem": 1126
+    "numero_ordem": 1126,
+    "resposta": "A",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [A] ('retoma a expressão “o vocalista e baixista”') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q3916749",
@@ -1687,7 +1753,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [A] ('lhes oferece - cuja principal vantagem - o adota') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "FCC_LP0028",
-    "numero_ordem": 28
+    "numero_ordem": 28,
+    "resposta": "A",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [A] ('lhes oferece - cuja principal vantagem - o adota') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q3872084",
@@ -1744,7 +1812,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [E] ('\"Abílio\" e \"providências\".') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "FCC_LP0097",
-    "numero_ordem": 97
+    "numero_ordem": 97,
+    "resposta": "E",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [E] ('\"Abílio\" e \"providências\".') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q3872077",
@@ -1801,7 +1871,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('Só não o fez porque a esposa estava a seu lado, animando-o, dando-lhe força (3º parágrafo).') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "FCC_LP0104",
-    "numero_ordem": 104
+    "numero_ordem": 104,
+    "resposta": "B",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('Só não o fez porque a esposa estava a seu lado, animando-o, dando-lhe força (3º parágrafo).') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q3598787",
@@ -1858,7 +1930,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [A] ('Pandora - caixa - caixa') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "FCC_LP0166",
-    "numero_ordem": 166
+    "numero_ordem": 166,
+    "resposta": "A",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [A] ('Pandora - caixa - caixa') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q3336175",
@@ -1915,7 +1989,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [A] ('os meses seguintes serão como os que passaram.') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "FCC_LP0298",
-    "numero_ordem": 298
+    "numero_ordem": 298,
+    "resposta": "A",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [A] ('os meses seguintes serão como os que passaram.') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q3290993",
@@ -1972,7 +2048,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('filosofia.') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "FCC_LP0327",
-    "numero_ordem": 327
+    "numero_ordem": 327,
+    "resposta": "B",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('filosofia.') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q3290991",
@@ -2029,7 +2107,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [C] ('ao decaimento da capacidade de narrar.') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "FCC_LP0329",
-    "numero_ordem": 329
+    "numero_ordem": 329,
+    "resposta": "C",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [C] ('ao decaimento da capacidade de narrar.') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q3281719",
@@ -2086,7 +2166,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [D] ('constroem-nas —- molda-o — o compõem') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "FCC_LP0357",
-    "numero_ordem": 357
+    "numero_ordem": 357,
+    "resposta": "D",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [D] ('constroem-nas —- molda-o — o compõem') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q3281712",
@@ -2143,7 +2225,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [E] ('tristeza confortável — vaga solidariedade - São Paulo') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "FCC_LP0364",
-    "numero_ordem": 364
+    "numero_ordem": 364,
+    "resposta": "E",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [E] ('tristeza confortável — vaga solidariedade - São Paulo') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q4158792",
@@ -2200,7 +2284,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('O rapaz de bigode pede aos outros: \"Afastem-se e deixem-no respirar\".') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "FCC_LP0423",
-    "numero_ordem": 423
+    "numero_ordem": 423,
+    "resposta": "B",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('O rapaz de bigode pede aos outros: \"Afastem-se e deixem-no respirar\".') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q3171830",
@@ -2257,7 +2343,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [C] ('paz e varanda.') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "FCC_LP0487",
-    "numero_ordem": 487
+    "numero_ordem": 487,
+    "resposta": "C",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [C] ('paz e varanda.') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q2762309",
@@ -2314,7 +2402,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('“Esses” é um pronome demonstrativo que se refere a algo já mencionado anteriormente ou recuperável pelo contexto, e “demais” é um pronome indefinido que se refere aos que sobram ou aos que são selecionados.') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "FCC_LP0578",
-    "numero_ordem": 578
+    "numero_ordem": 578,
+    "resposta": "B",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('“Esses” é um pronome demonstrativo que se refere a algo já mencionado anteriormente ou recuperável pelo contexto, e “demais” é um pronome indefinido que se refere aos que sobram ou aos que são selecionados.') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q2575190",
@@ -2371,7 +2461,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [D] ('I e II.') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "FCC_LP0599",
-    "numero_ordem": 599
+    "numero_ordem": 599,
+    "resposta": "D",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [D] ('I e II.') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q4156293",
@@ -2428,7 +2520,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [C] ('parede.') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "FCC_LP0636",
-    "numero_ordem": 636
+    "numero_ordem": 636,
+    "resposta": "C",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [C] ('parede.') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q2635525",
@@ -2485,7 +2579,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [A] ('que lhe escorriam pelo focinho.') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "FCC_LP0718",
-    "numero_ordem": 718
+    "numero_ordem": 718,
+    "resposta": "A",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [A] ('que lhe escorriam pelo focinho.') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q2173027",
@@ -2542,7 +2638,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [C] ('Uma das virtudes de que pode prescindir um escrito ocasional é a total originalidade.') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "FCC_LP0825",
-    "numero_ordem": 825
+    "numero_ordem": 825,
+    "resposta": "C",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [C] ('Uma das virtudes de que pode prescindir um escrito ocasional é a total originalidade.') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q2173026",
@@ -2599,7 +2697,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('incitando-o a meditar a propósito') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "FCC_LP0826",
-    "numero_ordem": 826
+    "numero_ordem": 826,
+    "resposta": "B",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [B] ('incitando-o a meditar a propósito') respeita perfeitamente as regras de colocação e concordância pronominal."
   },
   {
     "codigo_origem": "Q3976689",
@@ -2656,7 +2756,9 @@ export const questoes = [
     ],
     "comentario": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [A] ('dos quais nos valemos - dispensar') respeita perfeitamente as regras de colocação e concordância pronominal.",
     "id": "FCC_LP0927",
-    "numero_ordem": 927
+    "numero_ordem": 927,
+    "resposta": "A",
+    "explicacao": "A colocação pronominal culta obedece à atração por elementos próclíticos (palavras negativas, advérbios, pronomes relativos) e proíbe a ênclise no início absoluto de período ou após verbo no futuro/particípio. A alternativa [A] ('dos quais nos valemos - dispensar') respeita perfeitamente as regras de colocação e concordância pronominal."
   }
 ];
 export default questoes;

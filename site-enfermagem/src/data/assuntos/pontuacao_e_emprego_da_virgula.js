@@ -46,7 +46,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [B] ('coordenar elementos em enumeração') atende integralmente à norma culta de pontuação.",
     "id": "PT0007",
-    "numero_ordem": 7
+    "numero_ordem": 7,
+    "resposta": "B",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [B] ('coordenar elementos em enumeração') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3825044",
@@ -95,7 +97,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [B] ('separar termos explicativos e expressões deslocadas, garantindo clareza ao enunciado') atende integralmente à norma culta de pontuação.",
     "id": "PT0051",
-    "numero_ordem": 51
+    "numero_ordem": 51,
+    "resposta": "B",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [B] ('separar termos explicativos e expressões deslocadas, garantindo clareza ao enunciado') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3824024",
@@ -144,7 +148,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('para introduzir uma oração reduzida de gerúndio que tem valor explicativo, funcionando com valor modal; nesse caso, a vírgula tem caráter obrigatório') atende integralmente à norma culta de pontuação.",
     "id": "PT0069",
-    "numero_ordem": 69
+    "numero_ordem": 69,
+    "resposta": "A",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('para introduzir uma oração reduzida de gerúndio que tem valor explicativo, funcionando com valor modal; nesse caso, a vírgula tem caráter obrigatório') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3817668",
@@ -193,7 +199,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('separar itens em enumeração') atende integralmente à norma culta de pontuação.",
     "id": "PT0089",
-    "numero_ordem": 89
+    "numero_ordem": 89,
+    "resposta": "A",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('separar itens em enumeração') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3807307",
@@ -242,7 +250,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('não há marcação de pausa antes de complemento verbal direto') atende integralmente à norma culta de pontuação.",
     "id": "PT0105",
-    "numero_ordem": 105
+    "numero_ordem": 105,
+    "resposta": "A",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('não há marcação de pausa antes de complemento verbal direto') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3807306",
@@ -291,7 +301,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [D] ('destacar uma informação acessória, com valor de correção ou ressalva') atende integralmente à norma culta de pontuação.",
     "id": "PT0106",
-    "numero_ordem": 106
+    "numero_ordem": 106,
+    "resposta": "D",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [D] ('destacar uma informação acessória, com valor de correção ou ressalva') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3744256",
@@ -340,7 +352,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('Maria foi ao supermercado, mas volta daqui a pouco.') atende integralmente à norma culta de pontuação.",
     "id": "PT0131",
-    "numero_ordem": 131
+    "numero_ordem": 131,
+    "resposta": "C",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('Maria foi ao supermercado, mas volta daqui a pouco.') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3741953",
@@ -389,7 +403,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [B] ('sinalizar que se trata de expressão usada em sentido figurado') atende integralmente à norma culta de pontuação.",
     "id": "PT0157",
-    "numero_ordem": 157
+    "numero_ordem": 157,
+    "resposta": "B",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [B] ('sinalizar que se trata de expressão usada em sentido figurado') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3722716",
@@ -438,7 +454,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('“Doe sangue. É importante para a saúde pública”') atende integralmente à norma culta de pontuação.",
     "id": "PT0164",
-    "numero_ordem": 164
+    "numero_ordem": 164,
+    "resposta": "A",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('“Doe sangue. É importante para a saúde pública”') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q4397553",
@@ -487,7 +505,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('reproduziu simbolicamente uma ação humana') atende integralmente à norma culta de pontuação.",
     "id": "PT0203",
-    "numero_ordem": 203
+    "numero_ordem": 203,
+    "resposta": "C",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('reproduziu simbolicamente uma ação humana') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q4394417",
@@ -536,7 +556,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [B] ('isolar um termo de chamamento') atende integralmente à norma culta de pontuação.",
     "id": "PT0207",
-    "numero_ordem": 207
+    "numero_ordem": 207,
+    "resposta": "B",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [B] ('isolar um termo de chamamento') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3614889",
@@ -585,7 +607,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('introduzir uma explicação ou detalhamento sobre termo anterior') atende integralmente à norma culta de pontuação.",
     "id": "PT0266",
-    "numero_ordem": 266
+    "numero_ordem": 266,
+    "resposta": "C",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('introduzir uma explicação ou detalhamento sobre termo anterior') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3498110",
@@ -634,7 +658,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [D] ('enumeração de itens não oracionais') atende integralmente à norma culta de pontuação.",
     "id": "PT0281",
-    "numero_ordem": 281
+    "numero_ordem": 281,
+    "resposta": "D",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [D] ('enumeração de itens não oracionais') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3494757",
@@ -683,7 +709,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [D] ('uma enumeração explicativa') atende integralmente à norma culta de pontuação.",
     "id": "PT0291",
-    "numero_ordem": 291
+    "numero_ordem": 291,
+    "resposta": "D",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [D] ('uma enumeração explicativa') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3489858",
@@ -732,7 +760,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('reproduzir fala do senso comum') atende integralmente à norma culta de pontuação.",
     "id": "PT0304",
-    "numero_ordem": 304
+    "numero_ordem": 304,
+    "resposta": "C",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('reproduzir fala do senso comum') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3290402",
@@ -781,7 +811,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('separar lugar de data') atende integralmente à norma culta de pontuação.",
     "id": "PT0334",
-    "numero_ordem": 334
+    "numero_ordem": 334,
+    "resposta": "A",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('separar lugar de data') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3260877",
@@ -830,7 +862,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [D] ('indicar uma oração adjetiva explicativa') atende integralmente à norma culta de pontuação.",
     "id": "PT0382",
-    "numero_ordem": 382
+    "numero_ordem": 382,
+    "resposta": "D",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [D] ('indicar uma oração adjetiva explicativa') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3248060",
@@ -887,7 +921,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('o discurso direto de uma pessoa') atende integralmente à norma culta de pontuação.",
     "id": "PT0390",
-    "numero_ordem": 390
+    "numero_ordem": 390,
+    "resposta": "A",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('o discurso direto de uma pessoa') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q4341771",
@@ -936,7 +972,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('acrescenta uma informação explicativa sobre o dado anterior') atende integralmente à norma culta de pontuação.",
     "id": "PT0423",
-    "numero_ordem": 423
+    "numero_ordem": 423,
+    "resposta": "C",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('acrescenta uma informação explicativa sobre o dado anterior') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3196579",
@@ -985,7 +1023,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('a redação não conta com gabarito, logo, o uso desse termo não é literal') atende integralmente à norma culta de pontuação.",
     "id": "PT0475",
-    "numero_ordem": 475
+    "numero_ordem": 475,
+    "resposta": "A",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('a redação não conta com gabarito, logo, o uso desse termo não é literal') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3174183",
@@ -1034,7 +1074,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('inserir a transcrição da fala de alguém') atende integralmente à norma culta de pontuação.",
     "id": "PT0485",
-    "numero_ordem": 485
+    "numero_ordem": 485,
+    "resposta": "A",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('inserir a transcrição da fala de alguém') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3581659",
@@ -1083,7 +1125,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('a transcrição de uma fala direta') atende integralmente à norma culta de pontuação.",
     "id": "PT0527",
-    "numero_ordem": 527
+    "numero_ordem": 527,
+    "resposta": "A",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('a transcrição de uma fala direta') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3398154",
@@ -1132,7 +1176,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('aposto') atende integralmente à norma culta de pontuação.",
     "id": "PT0556",
-    "numero_ordem": 556
+    "numero_ordem": 556,
+    "resposta": "A",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('aposto') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3120336",
@@ -1189,7 +1235,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [E] ('marcar o uso de uma oração coordenada sindética adversativa') atende integralmente à norma culta de pontuação.",
     "id": "PT0613",
-    "numero_ordem": 613
+    "numero_ordem": 613,
+    "resposta": "E",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [E] ('marcar o uso de uma oração coordenada sindética adversativa') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3109054",
@@ -1238,7 +1286,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('“O sarampo, que é uma doença grave, deve ser combatido por todos”') atende integralmente à norma culta de pontuação.",
     "id": "PT0633",
-    "numero_ordem": 633
+    "numero_ordem": 633,
+    "resposta": "C",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('“O sarampo, que é uma doença grave, deve ser combatido por todos”') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3108584",
@@ -1287,7 +1337,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('um uso atípico ou distinto do sentido literal do termo') atende integralmente à norma culta de pontuação.",
     "id": "PT0668",
-    "numero_ordem": 668
+    "numero_ordem": 668,
+    "resposta": "A",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('um uso atípico ou distinto do sentido literal do termo') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3103221",
@@ -1336,7 +1388,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('o termo tem valor explicativo') atende integralmente à norma culta de pontuação.",
     "id": "PT0682",
-    "numero_ordem": 682
+    "numero_ordem": 682,
+    "resposta": "A",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('o termo tem valor explicativo') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3096829",
@@ -1385,7 +1439,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [B] ('duas orações com sujeitos diferentes') atende integralmente à norma culta de pontuação.",
     "id": "PT0710",
-    "numero_ordem": 710
+    "numero_ordem": 710,
+    "resposta": "B",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [B] ('duas orações com sujeitos diferentes') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3093821",
@@ -1434,7 +1490,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('uma espécie de gíria ou expressão popular') atende integralmente à norma culta de pontuação.",
     "id": "PT0724",
-    "numero_ordem": 724
+    "numero_ordem": 724,
+    "resposta": "C",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('uma espécie de gíria ou expressão popular') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3042365",
@@ -1491,7 +1549,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [E] ('evoca um sentido irônico, uma vez que os debates não têm donos em sentido literal') atende integralmente à norma culta de pontuação.",
     "id": "PT0743",
-    "numero_ordem": 743
+    "numero_ordem": 743,
+    "resposta": "E",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [E] ('evoca um sentido irônico, uma vez que os debates não têm donos em sentido literal') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q2579854",
@@ -1540,7 +1600,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [B] ('adjunto adverbial deslocado') atende integralmente à norma culta de pontuação.",
     "id": "PT0753",
-    "numero_ordem": 753
+    "numero_ordem": 753,
+    "resposta": "B",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [B] ('adjunto adverbial deslocado') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q2537143",
@@ -1589,7 +1651,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('a transcrição de uma citação.') atende integralmente à norma culta de pontuação.",
     "id": "PT0769",
-    "numero_ordem": 769
+    "numero_ordem": 769,
+    "resposta": "A",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('a transcrição de uma citação.') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q2525729",
@@ -1638,7 +1702,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [B] ('discurso direto de uma pessoa') atende integralmente à norma culta de pontuação.",
     "id": "PT0771",
-    "numero_ordem": 771
+    "numero_ordem": 771,
+    "resposta": "B",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [B] ('discurso direto de uma pessoa') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q2495827",
@@ -1687,7 +1753,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [B] ('indicar uma enumeração de itens coordenados entre si') atende integralmente à norma culta de pontuação.",
     "id": "PT0785",
-    "numero_ordem": 785
+    "numero_ordem": 785,
+    "resposta": "B",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [B] ('indicar uma enumeração de itens coordenados entre si') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q2489878",
@@ -1736,7 +1804,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('adjuntos adverbiais') atende integralmente à norma culta de pontuação.",
     "id": "PT0795",
-    "numero_ordem": 795
+    "numero_ordem": 795,
+    "resposta": "C",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('adjuntos adverbiais') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q2472251",
@@ -1785,7 +1855,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('indicar uma oração coordenada') atende integralmente à norma culta de pontuação.",
     "id": "PT0889",
-    "numero_ordem": 889
+    "numero_ordem": 889,
+    "resposta": "C",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('indicar uma oração coordenada') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q2470321",
@@ -1834,7 +1906,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [D] ('apresentar uma enumeração de itens') atende integralmente à norma culta de pontuação.",
     "id": "PT0924",
-    "numero_ordem": 924
+    "numero_ordem": 924,
+    "resposta": "D",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [D] ('apresentar uma enumeração de itens') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q2469364",
@@ -1883,7 +1957,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('demarcar um adjunto adverbial deslocado à esquerda') atende integralmente à norma culta de pontuação.",
     "id": "PT0927",
-    "numero_ordem": 927
+    "numero_ordem": 927,
+    "resposta": "C",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('demarcar um adjunto adverbial deslocado à esquerda') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q2451008",
@@ -1932,7 +2008,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('uma transcrição do discurso direto de uma entidade') atende integralmente à norma culta de pontuação.",
     "id": "PT0999",
-    "numero_ordem": 999
+    "numero_ordem": 999,
+    "resposta": "C",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('uma transcrição do discurso direto de uma entidade') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q2353194",
@@ -1981,7 +2059,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('indicar uma oração explicativa') atende integralmente à norma culta de pontuação.",
     "id": "PT1015",
-    "numero_ordem": 1015
+    "numero_ordem": 1015,
+    "resposta": "A",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('indicar uma oração explicativa') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q4251004",
@@ -2030,7 +2110,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [D] ('presente do indicativo Português > Pontuação , Uso da Vírgula , Interpretação de Textos Coesão e coerência , Sintaxe ,') atende integralmente à norma culta de pontuação.",
     "id": "PT1043",
-    "numero_ordem": 1043
+    "numero_ordem": 1043,
+    "resposta": "D",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [D] ('presente do indicativo Português > Pontuação , Uso da Vírgula , Interpretação de Textos Coesão e coerência , Sintaxe ,') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q4160337",
@@ -2079,7 +2161,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('marcar a alternância direta entre as falas das personagens') atende integralmente à norma culta de pontuação.",
     "id": "PT1080",
-    "numero_ordem": 1080
+    "numero_ordem": 1080,
+    "resposta": "C",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('marcar a alternância direta entre as falas das personagens') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3963434",
@@ -2128,7 +2212,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('sugerir continuidade e abundância dos elementos descritos') atende integralmente à norma culta de pontuação.",
     "id": "PT1088",
-    "numero_ordem": 1088
+    "numero_ordem": 1088,
+    "resposta": "A",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('sugerir continuidade e abundância dos elementos descritos') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3963053",
@@ -2177,7 +2263,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [B] ('isolam adjunto adverbial temporal intercalado') atende integralmente à norma culta de pontuação.",
     "id": "PT1096",
-    "numero_ordem": 1096
+    "numero_ordem": 1096,
+    "resposta": "B",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [B] ('isolam adjunto adverbial temporal intercalado') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q4431451",
@@ -2226,7 +2314,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [D] ('separar nomes de países em uma enumeração') atende integralmente à norma culta de pontuação.",
     "id": "PT1121",
-    "numero_ordem": 1121
+    "numero_ordem": 1121,
+    "resposta": "D",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [D] ('separar nomes de países em uma enumeração') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3916762",
@@ -2283,7 +2373,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [E] ('Atente-se para as razões expostas por um grande filósofo: ainda quando controversas, provocam nosso senso crítico e testam os valores éticos, quando de fato presentes.') atende integralmente à norma culta de pontuação.",
     "id": "FCC_LP0019",
-    "numero_ordem": 19
+    "numero_ordem": 19,
+    "resposta": "E",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [E] ('Atente-se para as razões expostas por um grande filósofo: ainda quando controversas, provocam nosso senso crítico e testam os valores éticos, quando de fato presentes.') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3879943",
@@ -2340,7 +2432,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('- Este menino é impossível. Desculpe, cavalheiro. (11º parágrafo)') atende integralmente à norma culta de pontuação.",
     "id": "FCC_LP0074",
-    "numero_ordem": 74
+    "numero_ordem": 74,
+    "resposta": "C",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('- Este menino é impossível. Desculpe, cavalheiro. (11º parágrafo)') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3872140",
@@ -2397,7 +2491,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('Não obstante haja percalços nas operações digitais, deve-se reconhecer, a bem da verdade, que há feitos a celebrar.') atende integralmente à norma culta de pontuação.",
     "id": "FCC_LP0087",
-    "numero_ordem": 87
+    "numero_ordem": 87,
+    "resposta": "C",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('Não obstante haja percalços nas operações digitais, deve-se reconhecer, a bem da verdade, que há feitos a celebrar.') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3598784",
@@ -2454,7 +2550,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [B] ('Tanto os objetivos desejáveis como os caminhos para alcançá-los deveriam ser debatidos por jornalistas, influenciadores e meios de comunicação social.') atende integralmente à norma culta de pontuação.",
     "id": "FCC_LP0169",
-    "numero_ordem": 169
+    "numero_ordem": 169,
+    "resposta": "B",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [B] ('Tanto os objetivos desejáveis como os caminhos para alcançá-los deveriam ser debatidos por jornalistas, influenciadores e meios de comunicação social.') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3502100",
@@ -2511,7 +2609,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [B] ('acredita que a reconciliação se faz por restauração do diálogo, e não por cancelamentos, ou prisões. (5º parágrafo)') atende integralmente à norma culta de pontuação.",
     "id": "FCC_LP0248",
-    "numero_ordem": 248
+    "numero_ordem": 248,
+    "resposta": "B",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [B] ('acredita que a reconciliação se faz por restauração do diálogo, e não por cancelamentos, ou prisões. (5º parágrafo)') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3336198",
@@ -2568,7 +2668,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [D] ('a distância que separa o desempenho de estudantes das redes pública e privada brasileiras na modalidade escrita ainda não foi superada.') atende integralmente à norma culta de pontuação.",
     "id": "FCC_LP0284",
-    "numero_ordem": 284
+    "numero_ordem": 284,
+    "resposta": "D",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [D] ('a distância que separa o desempenho de estudantes das redes pública e privada brasileiras na modalidade escrita ainda não foi superada.') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3304050",
@@ -2625,7 +2727,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [D] ('O surgimento da IA foi um processo gradual, impulsionado pela curiosidade humana, por avanços tecnológicos e pela colaboração entre pesquisadores. Embora ainda haja desafios a superar, a IA continua a evoluir, prometendo revolucionar ainda mais o futuro da humanidade.') atende integralmente à norma culta de pontuação.",
     "id": "FCC_LP0299",
-    "numero_ordem": 299
+    "numero_ordem": 299,
+    "resposta": "D",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [D] ('O surgimento da IA foi um processo gradual, impulsionado pela curiosidade humana, por avanços tecnológicos e pela colaboração entre pesquisadores. Embora ainda haja desafios a superar, a IA continua a evoluir, prometendo revolucionar ainda mais o futuro da humanidade.') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3290546",
@@ -2682,7 +2786,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('Antes de mais nada, livremo-nos, para bem olhar uma cidade, dos aspectos já atribuídos a ela.') atende integralmente à norma culta de pontuação.",
     "id": "FCC_LP0331",
-    "numero_ordem": 331
+    "numero_ordem": 331,
+    "resposta": "A",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('Antes de mais nada, livremo-nos, para bem olhar uma cidade, dos aspectos já atribuídos a ela.') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3288313",
@@ -2739,7 +2845,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('separa uma oração subordinada que complementa o sentido da oração anterior.') atende integralmente à norma culta de pontuação.",
     "id": "FCC_LP0347",
-    "numero_ordem": 347
+    "numero_ordem": 347,
+    "resposta": "C",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('separa uma oração subordinada que complementa o sentido da oração anterior.') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3281715",
@@ -2796,7 +2904,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('I, II e III.') atende integralmente à norma culta de pontuação.",
     "id": "FCC_LP0361",
-    "numero_ordem": 361
+    "numero_ordem": 361,
+    "resposta": "A",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('I, II e III.') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3216470",
@@ -2853,7 +2963,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [E] ('Na falta de moderação, o uso dessas ferramentas acarreta, sem dúvida, graves transtornos.') atende integralmente à norma culta de pontuação.",
     "id": "FCC_LP0390",
-    "numero_ordem": 390
+    "numero_ordem": 390,
+    "resposta": "E",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [E] ('Na falta de moderação, o uso dessas ferramentas acarreta, sem dúvida, graves transtornos.') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3170457",
@@ -2910,7 +3022,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [B] ('Admiro as crônicas de Rubem Braga, que associam um lirismo enxuto à limpeza da linguagem.') atende integralmente à norma culta de pontuação.",
     "id": "FCC_LP0507",
-    "numero_ordem": 507
+    "numero_ordem": 507,
+    "resposta": "B",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [B] ('Admiro as crônicas de Rubem Braga, que associam um lirismo enxuto à limpeza da linguagem.') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3169899",
@@ -2967,7 +3081,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('Omas a Terra, e a Terra, ingrata, te apedreja.') atende integralmente à norma culta de pontuação.",
     "id": "FCC_LP0524",
-    "numero_ordem": 524
+    "numero_ordem": 524,
+    "resposta": "A",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('Omas a Terra, e a Terra, ingrata, te apedreja.') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3089877",
@@ -3024,7 +3140,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('Ao compartilhar o que tinha de positivo, a professora, com seus atos de abnegação, muito surpreendeu a quem os reconhecera.') atende integralmente à norma culta de pontuação.",
     "id": "FCC_LP0544",
-    "numero_ordem": 544
+    "numero_ordem": 544,
+    "resposta": "A",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('Ao compartilhar o que tinha de positivo, a professora, com seus atos de abnegação, muito surpreendeu a quem os reconhecera.') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q2762311",
@@ -3081,7 +3199,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('I. indicar que um adjunto adverbial de lugar foi utilizado fora de sua posição habitual; II. separar oração coordenada adversaliva; III. isolar o vocativo.') atende integralmente à norma culta de pontuação.",
     "id": "FCC_LP0576",
-    "numero_ordem": 576
+    "numero_ordem": 576,
+    "resposta": "A",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('I. indicar que um adjunto adverbial de lugar foi utilizado fora de sua posição habitual; II. separar oração coordenada adversaliva; III. isolar o vocativo.') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q2514719",
@@ -3138,7 +3258,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [E] ('Mas felizmente para a tartaruga, incerto é o coração do homem, incertos, os seus impulsos.') atende integralmente à norma culta de pontuação.",
     "id": "FCC_LP0625",
-    "numero_ordem": 625
+    "numero_ordem": 625,
+    "resposta": "E",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [E] ('Mas felizmente para a tartaruga, incerto é o coração do homem, incertos, os seus impulsos.') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q4157387",
@@ -3195,7 +3317,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('Ninguém sustenta, fervorosamente, que 7 x 8= 56') atende integralmente à norma culta de pontuação.",
     "id": "FCC_LP0680",
-    "numero_ordem": 680
+    "numero_ordem": 680,
+    "resposta": "C",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [C] ('Ninguém sustenta, fervorosamente, que 7 x 8= 56') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q2705673",
@@ -3252,7 +3376,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('O que mais chegava à nossa porta eram as moléstias do espírito dividido: gente esquecida de suas histórias, memórias, apartada do próprio eu, sem se distinguir de uma fera perdida na mata.') atende integralmente à norma culta de pontuação.",
     "id": "FCC_LP0706",
-    "numero_ordem": 706
+    "numero_ordem": 706,
+    "resposta": "A",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('O que mais chegava à nossa porta eram as moléstias do espírito dividido: gente esquecida de suas histórias, memórias, apartada do próprio eu, sem se distinguir de uma fera perdida na mata.') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q2705669",
@@ -3309,7 +3435,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [D] ('Chiyoko, filha do patriarca leiri, cresceu entre finas bonecas de porcelana.') atende integralmente à norma culta de pontuação.",
     "id": "FCC_LP0710",
-    "numero_ordem": 710
+    "numero_ordem": 710,
+    "resposta": "D",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [D] ('Chiyoko, filha do patriarca leiri, cresceu entre finas bonecas de porcelana.') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q2436623",
@@ -3366,7 +3494,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [D] ('Pouco a pouco meus olhos se deixam levar por um automóvel, uma saia, uma folha, uma lagartixa, umas crianças de escola, passarinhos') atende integralmente à norma culta de pontuação.",
     "id": "FCC_LP0728",
-    "numero_ordem": 728
+    "numero_ordem": 728,
+    "resposta": "D",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [D] ('Pouco a pouco meus olhos se deixam levar por um automóvel, uma saia, uma folha, uma lagartixa, umas crianças de escola, passarinhos') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q2436613",
@@ -3423,7 +3553,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [E] ('A floresta escurecia às nossas costas, e o clarão da cidade aumentava') atende integralmente à norma culta de pontuação.",
     "id": "FCC_LP0738",
-    "numero_ordem": 738
+    "numero_ordem": 738,
+    "resposta": "E",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [E] ('A floresta escurecia às nossas costas, e o clarão da cidade aumentava') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q2248997",
@@ -3480,7 +3612,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [D] ('\"Como utopia, representa um dos anseios mais caros da história humana.\"') atende integralmente à norma culta de pontuação.",
     "id": "FCC_LP0790",
-    "numero_ordem": 790
+    "numero_ordem": 790,
+    "resposta": "D",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [D] ('\"Como utopia, representa um dos anseios mais caros da história humana.\"') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q2235397",
@@ -3537,7 +3671,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('onde deverei basicamente pescar, mentir na praça do Mercado e, de quando em vez, escrever uma carta patética.') atende integralmente à norma culta de pontuação.",
     "id": "FCC_LP0800",
-    "numero_ordem": 800
+    "numero_ordem": 800,
+    "resposta": "A",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('onde deverei basicamente pescar, mentir na praça do Mercado e, de quando em vez, escrever uma carta patética.') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q2173482",
@@ -3594,7 +3730,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [B] ('Impedido de ser quem sou no trabalho - escritório, chão de fábrica, call center, guichê, balcão (2º parágrafo).') atende integralmente à norma culta de pontuação.",
     "id": "FCC_LP0812",
-    "numero_ordem": 812
+    "numero_ordem": 812,
+    "resposta": "B",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [B] ('Impedido de ser quem sou no trabalho - escritório, chão de fábrica, call center, guichê, balcão (2º parágrafo).') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q2155228",
@@ -3651,7 +3789,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [E] ('em Compras estando feitas, botei a mão no bolso, o cartão ficou em casa, as vírgulas separam orações.') atende integralmente à norma culta de pontuação.",
     "id": "FCC_LP0837",
-    "numero_ordem": 837
+    "numero_ordem": 837,
+    "resposta": "E",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [E] ('em Compras estando feitas, botei a mão no bolso, o cartão ficou em casa, as vírgulas separam orações.') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q2155140",
@@ -3708,7 +3848,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('O natural é que o gato seja manhoso; a águia, nobre;') atende integralmente à norma culta de pontuação.",
     "id": "FCC_LP0845",
-    "numero_ordem": 845
+    "numero_ordem": 845,
+    "resposta": "A",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('O natural é que o gato seja manhoso; a águia, nobre;') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q4091332",
@@ -3765,7 +3907,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('Estamos diante de um caso clássico de desobediência civil, em que a língua da vida real vai para um lado e a dos sábios, para o outro.') atende integralmente à norma culta de pontuação.",
     "id": "FCC_LP0867",
-    "numero_ordem": 867
+    "numero_ordem": 867,
+    "resposta": "A",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('Estamos diante de um caso clássico de desobediência civil, em que a língua da vida real vai para um lado e a dos sábios, para o outro.') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q4091319",
@@ -3822,7 +3966,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('- Olha, vovozinha, eu sou fiscal de alfândega com quarenta anos de serviço.') atende integralmente à norma culta de pontuação.",
     "id": "FCC_LP0900",
-    "numero_ordem": 900
+    "numero_ordem": 900,
+    "resposta": "A",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [A] ('- Olha, vovozinha, eu sou fiscal de alfândega com quarenta anos de serviço.') atende integralmente à norma culta de pontuação."
   },
   {
     "codigo_origem": "Q3974589",
@@ -3879,7 +4025,9 @@ export const questoes = [
     ],
     "comentario": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [E] ('- Como é que eu posso tocar se perdi mil cruzeiros, gente?') atende integralmente à norma culta de pontuação.",
     "id": "FCC_LP0934",
-    "numero_ordem": 934
+    "numero_ordem": 934,
+    "resposta": "E",
+    "explicacao": "O emprego dos sinais de pontuação delimita unidades sintático-semânticas essenciais do discurso. A vírgula é exigida para isolar adjuntos adverbiais deslocados, orações subordinadas antepostas e vocativos/aposições explicativas, sendo vedada a separação arbitrária entre sujeito e predicado ou regente e complemento. A alternativa [E] ('- Como é que eu posso tocar se perdi mil cruzeiros, gente?') atende integralmente à norma culta de pontuação."
   }
 ];
 export default questoes;

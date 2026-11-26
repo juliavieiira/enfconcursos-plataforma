@@ -46,7 +46,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('perfeito do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0009",
-    "numero_ordem": 9
+    "numero_ordem": 9,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('perfeito do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3834258",
@@ -95,7 +97,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('hipótese investigativa') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0013",
-    "numero_ordem": 13
+    "numero_ordem": 13,
+    "resposta": "C",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('hipótese investigativa') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3828772",
@@ -144,7 +148,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('marcaria') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0031",
-    "numero_ordem": 31
+    "numero_ordem": 31,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('marcaria') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3826998",
@@ -193,7 +199,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('afundava') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0048",
-    "numero_ordem": 48
+    "numero_ordem": 48,
+    "resposta": "C",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('afundava') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3824405",
@@ -242,7 +250,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('oração') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0063",
-    "numero_ordem": 63
+    "numero_ordem": 63,
+    "resposta": "C",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('oração') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3824227",
@@ -291,7 +301,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('pretérito perfeito do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0065",
-    "numero_ordem": 65
+    "numero_ordem": 65,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('pretérito perfeito do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3817799",
@@ -340,7 +352,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('desencadearia') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0086",
-    "numero_ordem": 86
+    "numero_ordem": 86,
+    "resposta": "C",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('desencadearia') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3810354",
@@ -389,7 +403,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('direto, sem preposição, como em “modificar a lei”') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0097",
-    "numero_ordem": 97
+    "numero_ordem": 97,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('direto, sem preposição, como em “modificar a lei”') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3810353",
@@ -438,7 +454,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('estaria incorreta, pois o verbo deve concordar com o sujeito singular “O objetivo”') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0098",
-    "numero_ordem": 98
+    "numero_ordem": 98,
+    "resposta": "C",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('estaria incorreta, pois o verbo deve concordar com o sujeito singular “O objetivo”') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3810349",
@@ -487,7 +505,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('presente do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0101",
-    "numero_ordem": 101
+    "numero_ordem": 101,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('presente do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3807303",
@@ -536,7 +556,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('pretérito perfeito do verbo SER') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0109",
-    "numero_ordem": 109
+    "numero_ordem": 109,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('pretérito perfeito do verbo SER') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3806010",
@@ -585,7 +607,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('presente do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0114",
-    "numero_ordem": 114
+    "numero_ordem": 114,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('presente do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3741951",
@@ -634,7 +658,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('infinitivo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0158",
-    "numero_ordem": 158
+    "numero_ordem": 158,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('infinitivo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3694463",
@@ -683,7 +709,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('SER, no pretérito perfeito do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0190",
-    "numero_ordem": 190
+    "numero_ordem": 190,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('SER, no pretérito perfeito do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3694456",
@@ -732,7 +760,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('pretérito perfeito e pretérito perfeito') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0197",
-    "numero_ordem": 197
+    "numero_ordem": 197,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('pretérito perfeito e pretérito perfeito') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q4342872",
@@ -781,7 +811,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('conformidade') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0219",
-    "numero_ordem": 219
+    "numero_ordem": 219,
+    "resposta": "C",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('conformidade') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3614888",
@@ -830,7 +862,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('transitivo direto') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0267",
-    "numero_ordem": 267
+    "numero_ordem": 267,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('transitivo direto') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3614883",
@@ -879,7 +913,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('casamento') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0271",
-    "numero_ordem": 271
+    "numero_ordem": 271,
+    "resposta": "D",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('casamento') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3498107",
@@ -928,7 +964,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('presente do indicativo e presente do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0283",
-    "numero_ordem": 283
+    "numero_ordem": 283,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('presente do indicativo e presente do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3488894",
@@ -977,7 +1015,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('pretérito perfeito do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0310",
-    "numero_ordem": 310
+    "numero_ordem": 310,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('pretérito perfeito do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3326042",
@@ -1026,7 +1066,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('presente do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0323",
-    "numero_ordem": 323
+    "numero_ordem": 323,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('presente do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3282497",
@@ -1075,7 +1117,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('presente do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0372",
-    "numero_ordem": 372
+    "numero_ordem": 372,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('presente do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3260879",
@@ -1124,7 +1168,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0380",
-    "numero_ordem": 380
+    "numero_ordem": 380,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3248046",
@@ -1181,7 +1227,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('terceira pessoa do singular do presente do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0403",
-    "numero_ordem": 403
+    "numero_ordem": 403,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('terceira pessoa do singular do presente do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3199011",
@@ -1230,7 +1278,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('pretérito imperfeito do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0441",
-    "numero_ordem": 441
+    "numero_ordem": 441,
+    "resposta": "C",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('pretérito imperfeito do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3199009",
@@ -1279,7 +1329,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('o homem') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0443",
-    "numero_ordem": 443
+    "numero_ordem": 443,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('o homem') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3196582",
@@ -1328,7 +1380,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('A Universidade Federal de Viçosa confirmou a informação.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0473",
-    "numero_ordem": 473
+    "numero_ordem": 473,
+    "resposta": "C",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('A Universidade Federal de Viçosa confirmou a informação.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3196580",
@@ -1377,7 +1431,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('pretérito perfeito do verbo SER') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0474",
-    "numero_ordem": 474
+    "numero_ordem": 474,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('pretérito perfeito do verbo SER') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3196493",
@@ -1426,7 +1482,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('presente do indicativo e presente do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0479",
-    "numero_ordem": 479
+    "numero_ordem": 479,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('presente do indicativo e presente do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3174182",
@@ -1475,7 +1533,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('substantiva objetiva direta') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0486",
-    "numero_ordem": 486
+    "numero_ordem": 486,
+    "resposta": "D",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('substantiva objetiva direta') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3609138",
@@ -1524,7 +1584,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('Não haviam ocorrendo antes,...') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0493",
-    "numero_ordem": 493
+    "numero_ordem": 493,
+    "resposta": "D",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('Não haviam ocorrendo antes,...') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3582417",
@@ -1573,7 +1635,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('superavam') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0519",
-    "numero_ordem": 519
+    "numero_ordem": 519,
+    "resposta": "C",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('superavam') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3582416",
@@ -1622,7 +1686,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('detêm') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0520",
-    "numero_ordem": 520
+    "numero_ordem": 520,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('detêm') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3581654",
@@ -1671,7 +1737,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('pretérito perfeito do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0529",
-    "numero_ordem": 529
+    "numero_ordem": 529,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('pretérito perfeito do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3135836",
@@ -1720,7 +1788,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('pretérito perfeito do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0568",
-    "numero_ordem": 568
+    "numero_ordem": 568,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('pretérito perfeito do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3135835",
@@ -1769,7 +1839,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('provavelmente viveu de quatro a cinco anos') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0569",
-    "numero_ordem": 569
+    "numero_ordem": 569,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('provavelmente viveu de quatro a cinco anos') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3135776",
@@ -1818,7 +1890,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('um verbo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0575",
-    "numero_ordem": 575
+    "numero_ordem": 575,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('um verbo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3135656",
@@ -1867,7 +1941,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('presente e pretérito perfeito') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0580",
-    "numero_ordem": 580
+    "numero_ordem": 580,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('presente e pretérito perfeito') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3120990",
@@ -1924,7 +2000,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('adjunto adverbial de tempo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0587",
-    "numero_ordem": 587
+    "numero_ordem": 587,
+    "resposta": "C",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('adjunto adverbial de tempo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3109010",
@@ -1973,7 +2051,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('substantivo – substantivo - adjetivo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0662",
-    "numero_ordem": 662
+    "numero_ordem": 662,
+    "resposta": "D",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('substantivo – substantivo - adjetivo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3103250",
@@ -2022,7 +2102,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('imperativo afirmativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0678",
-    "numero_ordem": 678
+    "numero_ordem": 678,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('imperativo afirmativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3103217",
@@ -2071,7 +2153,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('presente do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0686",
-    "numero_ordem": 686
+    "numero_ordem": 686,
+    "resposta": "C",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('presente do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3103176",
@@ -2120,7 +2204,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('“é”') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0692",
-    "numero_ordem": 692
+    "numero_ordem": 692,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('“é”') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3042364",
@@ -2177,7 +2263,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [E] ('terceira pessoa do plural do presente do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0744",
-    "numero_ordem": 744
+    "numero_ordem": 744,
+    "resposta": "E",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [E] ('terceira pessoa do plural do presente do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2579855",
@@ -2226,7 +2314,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('sufixo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0752",
-    "numero_ordem": 752
+    "numero_ordem": 752,
+    "resposta": "D",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('sufixo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2579852",
@@ -2275,7 +2365,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('pretérito perfeito e presente') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0755",
-    "numero_ordem": 755
+    "numero_ordem": 755,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('pretérito perfeito e presente') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2579849",
@@ -2324,7 +2416,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('faz') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0758",
-    "numero_ordem": 758
+    "numero_ordem": 758,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('faz') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2489881",
@@ -2373,7 +2467,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('seria') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0792",
-    "numero_ordem": 792
+    "numero_ordem": 792,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('seria') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2489880",
@@ -2422,7 +2518,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('imperativo e indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0793",
-    "numero_ordem": 793
+    "numero_ordem": 793,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('imperativo e indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2487813",
@@ -2471,7 +2569,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('negligenciar') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0801",
-    "numero_ordem": 801
+    "numero_ordem": 801,
+    "resposta": "D",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('negligenciar') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2484604",
@@ -2520,7 +2620,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('São dez horas da manhã – presente do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0809",
-    "numero_ordem": 809
+    "numero_ordem": 809,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('São dez horas da manhã – presente do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2484537",
@@ -2569,7 +2671,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0820",
-    "numero_ordem": 820
+    "numero_ordem": 820,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2484486",
@@ -2618,7 +2722,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('pretérito imperfeito do subjuntivo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0826",
-    "numero_ordem": 826
+    "numero_ordem": 826,
+    "resposta": "D",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('pretérito imperfeito do subjuntivo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2484332",
@@ -2667,7 +2773,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('“...como se ele não estivesse presente...”') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0834",
-    "numero_ordem": 834
+    "numero_ordem": 834,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('“...como se ele não estivesse presente...”') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2480066",
@@ -2716,7 +2824,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('pretérito mais-que-perfeito do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0840",
-    "numero_ordem": 840
+    "numero_ordem": 840,
+    "resposta": "D",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('pretérito mais-que-perfeito do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q4322636",
@@ -2765,7 +2875,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('possibilidade e valor genérico-habitual') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0877",
-    "numero_ordem": 877
+    "numero_ordem": 877,
+    "resposta": "C",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('possibilidade e valor genérico-habitual') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2472407",
@@ -2822,7 +2934,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('pretérito imperfeito do modo subjuntivo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0884",
-    "numero_ordem": 884
+    "numero_ordem": 884,
+    "resposta": "D",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('pretérito imperfeito do modo subjuntivo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2472152",
@@ -2879,7 +2993,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('presente do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0898",
-    "numero_ordem": 898
+    "numero_ordem": 898,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('presente do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2472011",
@@ -2928,7 +3044,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('pretérito perfeito do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0906",
-    "numero_ordem": 906
+    "numero_ordem": 906,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('pretérito perfeito do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2472010",
@@ -2977,7 +3095,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('o Japão') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0907",
-    "numero_ordem": 907
+    "numero_ordem": 907,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('o Japão') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2469361",
@@ -3026,7 +3146,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('seguia') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0928",
-    "numero_ordem": 928
+    "numero_ordem": 928,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('seguia') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2468939",
@@ -3075,7 +3197,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('probabilidade') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0943",
-    "numero_ordem": 943
+    "numero_ordem": 943,
+    "resposta": "D",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('probabilidade') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2468935",
@@ -3124,7 +3248,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('pretérito perfeito do verbo SER') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0947",
-    "numero_ordem": 947
+    "numero_ordem": 947,
+    "resposta": "C",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('pretérito perfeito do verbo SER') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2466644",
@@ -3173,7 +3299,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('aposto') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0966",
-    "numero_ordem": 966
+    "numero_ordem": 966,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('aposto') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2466643",
@@ -3222,7 +3350,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('no presente do indicativo e no presente do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0967",
-    "numero_ordem": 967
+    "numero_ordem": 967,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('no presente do indicativo e no presente do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2466641",
@@ -3271,7 +3401,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('às mulheres pretas e pardas') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0968",
-    "numero_ordem": 968
+    "numero_ordem": 968,
+    "resposta": "D",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('às mulheres pretas e pardas') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2454504",
@@ -3320,7 +3452,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('pretérito imperfeito do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT0991",
-    "numero_ordem": 991
+    "numero_ordem": 991,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('pretérito imperfeito do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2353308",
@@ -3369,7 +3503,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('povoamento') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT1006",
-    "numero_ordem": 1006
+    "numero_ordem": 1006,
+    "resposta": "D",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('povoamento') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q4250116",
@@ -3418,7 +3554,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('oposição entre a descrença externa e a confiança dos jogadores') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT1058",
-    "numero_ordem": 1058
+    "numero_ordem": 1058,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('oposição entre a descrença externa e a confiança dos jogadores') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q4250115",
@@ -3467,7 +3605,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('presente do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT1059",
-    "numero_ordem": 1059
+    "numero_ordem": 1059,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('presente do indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q4432452",
@@ -3516,7 +3656,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('recomendação de prática regular') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT1118",
-    "numero_ordem": 1118
+    "numero_ordem": 1118,
+    "resposta": "D",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('recomendação de prática regular') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q4397559",
@@ -3565,7 +3707,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "PT1131",
-    "numero_ordem": 1131
+    "numero_ordem": 1131,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('indicativo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3947140",
@@ -3622,7 +3766,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [E] ('Os cortesãos teriam elogiado o imperador Juliano pelas qualidades que este demonstrara.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0006",
-    "numero_ordem": 6
+    "numero_ordem": 6,
+    "resposta": "E",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [E] ('Os cortesãos teriam elogiado o imperador Juliano pelas qualidades que este demonstrara.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3916758",
@@ -3679,7 +3825,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('Seria preciso que se ouvissem as partes antes do encerramento da sessão.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0023",
-    "numero_ordem": 23
+    "numero_ordem": 23,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('Seria preciso que se ouvissem as partes antes do encerramento da sessão.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3888379",
@@ -3736,7 +3884,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('continuidade de uma ação reiterativa, reforçando o conflito afetivo presente no poema.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0044",
-    "numero_ordem": 44
+    "numero_ordem": 44,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('continuidade de uma ação reiterativa, reforçando o conflito afetivo presente no poema.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3887598",
@@ -3793,7 +3943,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('e aprenda a ser dócil no sonho') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0050",
-    "numero_ordem": 50
+    "numero_ordem": 50,
+    "resposta": "D",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('e aprenda a ser dócil no sonho') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3879941",
@@ -3850,7 +4002,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('deixasse.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0076",
-    "numero_ordem": 76
+    "numero_ordem": 76,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('deixasse.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3879939",
@@ -3907,7 +4061,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('repreende.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0078",
-    "numero_ordem": 78
+    "numero_ordem": 78,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('repreende.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3872143",
@@ -3964,7 +4120,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('Uma mensagem eletrônica prima pela rapidez, embora não seja tão humana quanto eram as cartas convencionais.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0084",
-    "numero_ordem": 84
+    "numero_ordem": 84,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('Uma mensagem eletrônica prima pela rapidez, embora não seja tão humana quanto eram as cartas convencionais.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3872083",
@@ -4021,7 +4179,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('Finalmente, a lista dos 107 passos chegou ao fim (4º parágrafo).') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0098",
-    "numero_ordem": 98
+    "numero_ordem": 98,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('Finalmente, a lista dos 107 passos chegou ao fim (4º parágrafo).') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3871914",
@@ -4078,7 +4238,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [E] ('Mais envelheçamos nós, mais nos consolará a arte dos artistas geniais.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0117",
-    "numero_ordem": 117
+    "numero_ordem": 117,
+    "resposta": "E",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [E] ('Mais envelheçamos nós, mais nos consolará a arte dos artistas geniais.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3627568",
@@ -4135,7 +4297,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('teria chegado — houvéssemos de compor — viesse a faltar') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0158",
-    "numero_ordem": 158
+    "numero_ordem": 158,
+    "resposta": "D",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('teria chegado — houvéssemos de compor — viesse a faltar') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3538926",
@@ -4192,7 +4356,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [E] ('presente indica simultaneidade entre o acontecer e a reflexão poética da vida.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0177",
-    "numero_ordem": 177
+    "numero_ordem": 177,
+    "resposta": "E",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [E] ('presente indica simultaneidade entre o acontecer e a reflexão poética da vida.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3538741",
@@ -4249,7 +4415,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('Para que algo do historiador se manifeste em seus escritos, o autor busca juntar seus temas de modo coerente.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0189",
-    "numero_ordem": 189
+    "numero_ordem": 189,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('Para que algo do historiador se manifeste em seus escritos, o autor busca juntar seus temas de modo coerente.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q4231732",
@@ -4306,7 +4474,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('Porém, todos os dias do passado, tão logo ordenares, estarão diante de ti, a teu arbítrio irão deixar-se examinar detidamente; isso os ocupados não têm tempo de fazer.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0204",
-    "numero_ordem": 204
+    "numero_ordem": 204,
+    "resposta": "D",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('Porém, todos os dias do passado, tão logo ordenares, estarão diante de ti, a teu arbítrio irão deixar-se examinar detidamente; isso os ocupados não têm tempo de fazer.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q4231604",
@@ -4363,7 +4533,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [E] ('discutíamos entre escritores e jornalistas o drama do papel em branco na máquina') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0211",
-    "numero_ordem": 211
+    "numero_ordem": 211,
+    "resposta": "E",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [E] ('discutíamos entre escritores e jornalistas o drama do papel em branco na máquina') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q4231602",
@@ -4420,7 +4592,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('o pobre de nós que espreme o juízo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0213",
-    "numero_ordem": 213
+    "numero_ordem": 213,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('o pobre de nós que espreme o juízo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3538608",
@@ -4477,7 +4651,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('O anel que tu me deste.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0220",
-    "numero_ordem": 220
+    "numero_ordem": 220,
+    "resposta": "C",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('O anel que tu me deste.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3445871",
@@ -4534,7 +4710,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('tivesse contemplado / seria') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0273",
-    "numero_ordem": 273
+    "numero_ordem": 273,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('tivesse contemplado / seria') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3304048",
@@ -4591,7 +4769,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [E] ('II e III.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0301",
-    "numero_ordem": 301
+    "numero_ordem": 301,
+    "resposta": "E",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [E] ('II e III.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3290998",
@@ -4648,7 +4828,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('Isto ele entenderia perfeitamente.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0322",
-    "numero_ordem": 322
+    "numero_ordem": 322,
+    "resposta": "C",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('Isto ele entenderia perfeitamente.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3290997",
@@ -4705,7 +4887,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('O rosto do motorista se iluminou num largo sorriso.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0323",
-    "numero_ordem": 323
+    "numero_ordem": 323,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('O rosto do motorista se iluminou num largo sorriso.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3281721",
@@ -4762,7 +4946,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('I e II, apenas.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0356",
-    "numero_ordem": 356
+    "numero_ordem": 356,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('I e II, apenas.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3281714",
@@ -4819,7 +5005,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('A ideia de entrar em um restaurante e jantar sozinho me deixa frio. (2º parágrafo)') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0362",
-    "numero_ordem": 362
+    "numero_ordem": 362,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('A ideia de entrar em um restaurante e jantar sozinho me deixa frio. (2º parágrafo)') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3216464",
@@ -4876,7 +5064,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('Não (surpreender) jamais as forças do destino a quem as reconhece em sua plena intensidade.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0396",
-    "numero_ordem": 396
+    "numero_ordem": 396,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('Não (surpreender) jamais as forças do destino a quem as reconhece em sua plena intensidade.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3215689",
@@ -4933,7 +5123,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('foi - atormentara - fosse') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0402",
-    "numero_ordem": 402
+    "numero_ordem": 402,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('foi - atormentara - fosse') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q4156553",
@@ -4990,7 +5182,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [E] ('reclamar') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0426",
-    "numero_ordem": 426
+    "numero_ordem": 426,
+    "resposta": "E",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [E] ('reclamar') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3550514",
@@ -5047,7 +5241,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('Os homens mais curiosos analisavam os astros na esperança de que viessem a entender seus périplos no céu.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0461",
-    "numero_ordem": 461
+    "numero_ordem": 461,
+    "resposta": "C",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('Os homens mais curiosos analisavam os astros na esperança de que viessem a entender seus périplos no céu.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3549541",
@@ -5104,7 +5300,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('compraria') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0469",
-    "numero_ordem": 469
+    "numero_ordem": 469,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('compraria') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3481511",
@@ -5161,7 +5359,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('Colhem-se na obra do nosso autor insinuantes elementos da historia dos povos indígenas.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0479",
-    "numero_ordem": 479
+    "numero_ordem": 479,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('Colhem-se na obra do nosso autor insinuantes elementos da historia dos povos indígenas.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3170455",
@@ -5218,7 +5418,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('gerúndio expressivo (7° parágrafo).') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0508",
-    "numero_ordem": 508
+    "numero_ordem": 508,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('gerúndio expressivo (7° parágrafo).') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3089876",
@@ -5275,7 +5477,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('Quando me confessou que se mataria, não me surpreendi e disse que muita gente poderia vir a tomar igual decisão.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0545",
-    "numero_ordem": 545
+    "numero_ordem": 545,
+    "resposta": "D",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('Quando me confessou que se mataria, não me surpreendi e disse que muita gente poderia vir a tomar igual decisão.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3089754",
@@ -5332,7 +5536,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('Tens direito sobre a terra que foi cultivada por tuas próprias mãos.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0560",
-    "numero_ordem": 560
+    "numero_ordem": 560,
+    "resposta": "D",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('Tens direito sobre a terra que foi cultivada por tuas próprias mãos.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2762316",
@@ -5389,7 +5595,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('uma situação hipotética, associada a uma condição que, se não for cumprida, pode impedir sua realização.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0571",
-    "numero_ordem": 571
+    "numero_ordem": 571,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('uma situação hipotética, associada a uma condição que, se não for cumprida, pode impedir sua realização.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2575197",
@@ -5446,7 +5654,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('revela a intenção de chamada à consciência e captura sensível de um receptor hipotético.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0592",
-    "numero_ordem": 592
+    "numero_ordem": 592,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('revela a intenção de chamada à consciência e captura sensível de um receptor hipotético.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2575186",
@@ -5503,7 +5713,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('em adição a algo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0603",
-    "numero_ordem": 603
+    "numero_ordem": 603,
+    "resposta": "D",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('em adição a algo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2514714",
@@ -5560,7 +5772,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('fugira.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0650",
-    "numero_ordem": 650
+    "numero_ordem": 650,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('fugira.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2514703",
@@ -5617,7 +5831,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [E] ('indicavam.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0660",
-    "numero_ordem": 660
+    "numero_ordem": 660,
+    "resposta": "E",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [E] ('indicavam.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q4157388",
@@ -5674,7 +5890,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('era.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0679",
-    "numero_ordem": 679
+    "numero_ordem": 679,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('era.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2762371",
@@ -5731,7 +5949,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('fizera.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0688",
-    "numero_ordem": 688
+    "numero_ordem": 688,
+    "resposta": "D",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('fizera.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2705672",
@@ -5788,7 +6008,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [E] ('existam.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0707",
-    "numero_ordem": 707
+    "numero_ordem": 707,
+    "resposta": "E",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [E] ('existam.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2635521",
@@ -5845,7 +6067,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [E] ('Boa parte das centenas de pescadores da região de Laguna, em Santa Catarina, pratica a pesca com botos.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0722",
-    "numero_ordem": 722
+    "numero_ordem": 722,
+    "resposta": "E",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [E] ('Boa parte das centenas de pescadores da região de Laguna, em Santa Catarina, pratica a pesca com botos.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2436616",
@@ -5902,7 +6126,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('A floresta escurecia às nossas costas, e o clarão da cidade aumentava enquanto navegávamos na noite úmida.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0735",
-    "numero_ordem": 735
+    "numero_ordem": 735,
+    "resposta": "B",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [B] ('A floresta escurecia às nossas costas, e o clarão da cidade aumentava enquanto navegávamos na noite úmida.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2436614",
@@ -5959,7 +6185,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('sufocava.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0737",
-    "numero_ordem": 737
+    "numero_ordem": 737,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('sufocava.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2384405",
@@ -6016,7 +6244,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('acabarão -— seguirem -— será — vivam') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0770",
-    "numero_ordem": 770
+    "numero_ordem": 770,
+    "resposta": "D",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('acabarão -— seguirem -— será — vivam') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2288241",
@@ -6073,7 +6303,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('vejo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0782",
-    "numero_ordem": 782
+    "numero_ordem": 782,
+    "resposta": "C",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('vejo') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2288240",
@@ -6130,7 +6362,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('procurara') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0783",
-    "numero_ordem": 783
+    "numero_ordem": 783,
+    "resposta": "A",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [A] ('procurara') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2235395",
@@ -6187,7 +6421,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [E] ('usasse') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0802",
-    "numero_ordem": 802
+    "numero_ordem": 802,
+    "resposta": "E",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [E] ('usasse') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q4091333",
@@ -6244,7 +6480,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [E] ('Puxando pela memória, não consigo pensar em ninguém que não o faça.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0866",
-    "numero_ordem": 866
+    "numero_ordem": 866,
+    "resposta": "E",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [E] ('Puxando pela memória, não consigo pensar em ninguém que não o faça.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q2098888",
@@ -6301,7 +6539,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('Conter-se-ia nossa decepção caso déssemos, de súbito, com uma casinha poupada?') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0878",
-    "numero_ordem": 878
+    "numero_ordem": 878,
+    "resposta": "C",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [C] ('Conter-se-ia nossa decepção caso déssemos, de súbito, com uma casinha poupada?') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3976697",
@@ -6358,7 +6598,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [E] ('Se ela não nascesse no Brasil não disporia dos variados e coloridos recursos com que conta a nossa língua.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0922",
-    "numero_ordem": 922
+    "numero_ordem": 922,
+    "resposta": "E",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [E] ('Se ela não nascesse no Brasil não disporia dos variados e coloridos recursos com que conta a nossa língua.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3974585",
@@ -6415,7 +6657,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('Voltou o garoto, sem a nota.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0938",
-    "numero_ordem": 938
+    "numero_ordem": 938,
+    "resposta": "D",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('Voltou o garoto, sem a nota.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   },
   {
     "codigo_origem": "Q3974583",
@@ -6472,7 +6716,9 @@ export const questoes = [
     ],
     "comentario": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('Mas se eu disser isso, esse povo me mata.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão.",
     "id": "FCC_LP0940",
-    "numero_ordem": 940
+    "numero_ordem": 940,
+    "resposta": "D",
+    "explicacao": "A flexão e correlação verbal exigem correspondência temporal e modal harmoniosa entre orações principais e subordinadas. A alternativa [D] ('Mas se eu disser isso, esse povo me mata.') emprega a conjugação e o valor temporal exatos solicitados no comando da questão."
   }
 ];
 export default questoes;

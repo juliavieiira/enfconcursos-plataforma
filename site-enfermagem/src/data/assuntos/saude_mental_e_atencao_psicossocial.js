@@ -46,7 +46,9 @@ export const questoes = [
     ],
     "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('cuidado deve ser territorial, comunitário e articulado à Rede de Atenção Psicossocial (RAPS), promovendo a integração multiprofissional e a participação da família no Projeto Terapêutico Singular') configura a resposta correta e plenamente fundamentada.",
     "id": "EF0092",
-    "numero_ordem": 92
+    "numero_ordem": 92,
+    "resposta": "A",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('cuidado deve ser territorial, comunitário e articulado à Rede de Atenção Psicossocial (RAPS), promovendo a integração multiprofissional e a participação da família no Projeto Terapêutico Singular') configura a resposta correta e plenamente fundamentada."
   },
   {
     "codigo_origem": "Q3197470",
@@ -95,7 +97,9 @@ export const questoes = [
     ],
     "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('avaliar o grau de risco e atuar de forma calmante e empática, buscando reduzir a ansiedade do paciente e promovendo um ambiente seguro, respeitando sua autonomia e trabalhando em conjunto com a equipe multidisciplinar para a estabilização do quadro') configura a resposta correta e plenamente fundamentada.",
     "id": "EF0234",
-    "numero_ordem": 234
+    "numero_ordem": 234,
+    "resposta": "C",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('avaliar o grau de risco e atuar de forma calmante e empática, buscando reduzir a ansiedade do paciente e promovendo um ambiente seguro, respeitando sua autonomia e trabalhando em conjunto com a equipe multidisciplinar para a estabilização do quadro') configura a resposta correta e plenamente fundamentada."
   },
   {
     "codigo_origem": "Q2528678",
@@ -152,7 +156,9 @@ export const questoes = [
     ],
     "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('mental') configura a resposta correta e plenamente fundamentada.",
     "id": "EF0267",
-    "numero_ordem": 267
+    "numero_ordem": 267,
+    "resposta": "C",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('mental') configura a resposta correta e plenamente fundamentada."
   },
   {
     "codigo_origem": "Q2453004",
@@ -201,7 +207,9 @@ export const questoes = [
     ],
     "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('acolhimento') configura a resposta correta e plenamente fundamentada.",
     "id": "EF0413",
-    "numero_ordem": 413
+    "numero_ordem": 413,
+    "resposta": "A",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('acolhimento') configura a resposta correta e plenamente fundamentada."
   },
   {
     "codigo_origem": "Q2297111",
@@ -250,7 +258,9 @@ export const questoes = [
     ],
     "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('Relacionamento Terapêutico') configura a resposta correta e plenamente fundamentada.",
     "id": "EF0557",
-    "numero_ordem": 557
+    "numero_ordem": 557,
+    "resposta": "C",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('Relacionamento Terapêutico') configura a resposta correta e plenamente fundamentada."
   },
   {
     "codigo_origem": "Q1956085",
@@ -299,7 +309,9 @@ export const questoes = [
     ],
     "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('hanseníase') configura a resposta correta e plenamente fundamentada.",
     "id": "EF0614",
-    "numero_ordem": 614
+    "numero_ordem": 614,
+    "resposta": "D",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('hanseníase') configura a resposta correta e plenamente fundamentada."
   },
   {
     "codigo_origem": "Q1313732",
@@ -348,7 +360,9 @@ export const questoes = [
     ],
     "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('4 técnicos ou auxiliares de enfermagem por turno diurno; 3 técnicos ou auxiliares de enfermagem por turno noturno; 1 enfermeiro por turno; 2 profissionais de saúde mental de nível superior, totalizando carga horária mínima de 60h por semana; 1 médico psiquiatra responsável pelos leitos, contabilizando carga horária mínima total de serviços de 20h por semana') configura a resposta correta e plenamente fundamentada.",
     "id": "EF0684",
-    "numero_ordem": 684
+    "numero_ordem": 684,
+    "resposta": "B",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('4 técnicos ou auxiliares de enfermagem por turno diurno; 3 técnicos ou auxiliares de enfermagem por turno noturno; 1 enfermeiro por turno; 2 profissionais de saúde mental de nível superior, totalizando carga horária mínima de 60h por semana; 1 médico psiquiatra responsável pelos leitos, contabilizando carga horária mínima total de serviços de 20h por semana') configura a resposta correta e plenamente fundamentada."
   },
   {
     "codigo_origem": "Q3884078",
@@ -397,7 +411,9 @@ export const questoes = [
     ],
     "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('os itens da subescala psicopatológica geral avaliam sintomas como ansiedade, culpa e tensão') configura a resposta correta e plenamente fundamentada.",
     "id": "EF0829",
-    "numero_ordem": 829
+    "numero_ordem": 829,
+    "resposta": "D",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('os itens da subescala psicopatológica geral avaliam sintomas como ansiedade, culpa e tensão') configura a resposta correta e plenamente fundamentada."
   },
   {
     "codigo_origem": "Q1970053",
@@ -454,7 +470,9 @@ export const questoes = [
     ],
     "comentario": "Em consonância com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas) e diretrizes de estomaterapia, a avaliação sistemática do leito lesional, etiologia, exsudato e controle de bordas define a indicação de coberturas ativas e medidas preventivas. A alternativa [C] ('anedonia.') indica a conduta apropriada e embasada.",
     "id": "FCC_ENF0046",
-    "numero_ordem": 46
+    "numero_ordem": 46,
+    "resposta": "C",
+    "explicacao": "Em consonância com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas) e diretrizes de estomaterapia, a avaliação sistemática do leito lesional, etiologia, exsudato e controle de bordas define a indicação de coberturas ativas e medidas preventivas. A alternativa [C] ('anedonia.') indica a conduta apropriada e embasada."
   },
   {
     "codigo_origem": "Q1956232",
@@ -511,7 +529,9 @@ export const questoes = [
     ],
     "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('do Esgotamento Profissional.') configura a resposta correta e plenamente fundamentada.",
     "id": "FCC_ENF0071",
-    "numero_ordem": 71
+    "numero_ordem": 71,
+    "resposta": "B",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('do Esgotamento Profissional.') configura a resposta correta e plenamente fundamentada."
   },
   {
     "codigo_origem": "Q1252151",
@@ -568,7 +588,9 @@ export const questoes = [
     ],
     "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('Apoio matricial.') configura a resposta correta e plenamente fundamentada.",
     "id": "FCC_ENF0196",
-    "numero_ordem": 196
+    "numero_ordem": 196,
+    "resposta": "D",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('Apoio matricial.') configura a resposta correta e plenamente fundamentada."
   },
   {
     "codigo_origem": "Q1023330",
@@ -625,7 +647,9 @@ export const questoes = [
     ],
     "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [E] ('a internação, em qualquer de suas modalidades, só será indicada quando os recursos extra-hospitalares se mostrarem insuficientes.') configura a resposta correta e plenamente fundamentada.",
     "id": "FCC_ENF0248",
-    "numero_ordem": 248
+    "numero_ordem": 248,
+    "resposta": "E",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [E] ('a internação, em qualquer de suas modalidades, só será indicada quando os recursos extra-hospitalares se mostrarem insuficientes.') configura a resposta correta e plenamente fundamentada."
   },
   {
     "codigo_origem": "Q937531",
@@ -682,7 +706,9 @@ export const questoes = [
     ],
     "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('Anancástica ou Obsessivo-compulsivo.') configura a resposta correta e plenamente fundamentada.",
     "id": "FCC_ENF0297",
-    "numero_ordem": 297
+    "numero_ordem": 297,
+    "resposta": "A",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('Anancástica ou Obsessivo-compulsivo.') configura a resposta correta e plenamente fundamentada."
   },
   {
     "codigo_origem": "Q934889",
@@ -739,7 +765,9 @@ export const questoes = [
     ],
     "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('matriciamento.') configura a resposta correta e plenamente fundamentada.",
     "id": "FCC_ENF0335",
-    "numero_ordem": 335
+    "numero_ordem": 335,
+    "resposta": "C",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('matriciamento.') configura a resposta correta e plenamente fundamentada."
   },
   {
     "codigo_origem": "Q931004",
@@ -796,7 +824,9 @@ export const questoes = [
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('do transtorno afetivo bipolar do tipo I.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0390",
-    "numero_ordem": 390
+    "numero_ordem": 390,
+    "resposta": "D",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('do transtorno afetivo bipolar do tipo I.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q920280",
@@ -853,7 +883,9 @@ export const questoes = [
     ],
     "comentario": "Em consonância com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas) e diretrizes de estomaterapia, a avaliação sistemática do leito lesional, etiologia, exsudato e controle de bordas define a indicação de coberturas ativas e medidas preventivas. A alternativa [B] ('a recusa alimentar.') indica a conduta apropriada e embasada.",
     "id": "FCC_ENF0427",
-    "numero_ordem": 427
+    "numero_ordem": 427,
+    "resposta": "B",
+    "explicacao": "Em consonância com a Resolução COFEN nº 567/2018 (Atuação da Enfermagem no Cuidado aos Pacientes com Feridas) e diretrizes de estomaterapia, a avaliação sistemática do leito lesional, etiologia, exsudato e controle de bordas define a indicação de coberturas ativas e medidas preventivas. A alternativa [B] ('a recusa alimentar.') indica a conduta apropriada e embasada."
   },
   {
     "codigo_origem": "Q918274",
@@ -910,7 +942,9 @@ export const questoes = [
     ],
     "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('Síndrome de Burnout.') configura a resposta correta e plenamente fundamentada.",
     "id": "FCC_ENF0445",
-    "numero_ordem": 445
+    "numero_ordem": 445,
+    "resposta": "C",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('Síndrome de Burnout.') configura a resposta correta e plenamente fundamentada."
   },
   {
     "codigo_origem": "Q839953",
@@ -967,7 +1001,9 @@ export const questoes = [
     ],
     "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('purgativa.') configura a resposta correta e plenamente fundamentada.",
     "id": "FCC_ENF0491",
-    "numero_ordem": 491
+    "numero_ordem": 491,
+    "resposta": "D",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('purgativa.') configura a resposta correta e plenamente fundamentada."
   },
   {
     "codigo_origem": "Q839911",
@@ -1024,7 +1060,9 @@ export const questoes = [
     ],
     "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [E] ('exercitar a habilidade de empatia.') configura a resposta correta e plenamente fundamentada.",
     "id": "FCC_ENF0532",
-    "numero_ordem": 532
+    "numero_ordem": 532,
+    "resposta": "E",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [E] ('exercitar a habilidade de empatia.') configura a resposta correta e plenamente fundamentada."
   },
   {
     "codigo_origem": "Q783964",
@@ -1081,7 +1119,9 @@ export const questoes = [
     ],
     "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('I.') configura a resposta correta e plenamente fundamentada.",
     "id": "FCC_ENF0538",
-    "numero_ordem": 538
+    "numero_ordem": 538,
+    "resposta": "A",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('I.') configura a resposta correta e plenamente fundamentada."
   },
   {
     "codigo_origem": "Q771961",
@@ -1138,7 +1178,9 @@ export const questoes = [
     ],
     "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('o CAPSad.') configura a resposta correta e plenamente fundamentada.",
     "id": "FCC_ENF0651",
-    "numero_ordem": 651
+    "numero_ordem": 651,
+    "resposta": "B",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [B] ('o CAPSad.') configura a resposta correta e plenamente fundamentada."
   },
   {
     "codigo_origem": "Q764295",
@@ -1195,7 +1237,9 @@ export const questoes = [
     ],
     "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('Bleurler.') configura a resposta correta e plenamente fundamentada.",
     "id": "FCC_ENF0694",
-    "numero_ordem": 694
+    "numero_ordem": 694,
+    "resposta": "D",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('Bleurler.') configura a resposta correta e plenamente fundamentada."
   },
   {
     "codigo_origem": "Q763972",
@@ -1252,7 +1296,9 @@ export const questoes = [
     ],
     "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('proteger a vítima de possíveis objetos que possam causar lesões.') configura a resposta correta e plenamente fundamentada.",
     "id": "FCC_ENF0703",
-    "numero_ordem": 703
+    "numero_ordem": 703,
+    "resposta": "D",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('proteger a vítima de possíveis objetos que possam causar lesões.') configura a resposta correta e plenamente fundamentada."
   },
   {
     "codigo_origem": "Q763954",
@@ -1309,7 +1355,9 @@ export const questoes = [
     ],
     "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('implementar diretrizes de atenção integral aos usuários de álcool e outras drogas.') configura a resposta correta e plenamente fundamentada.",
     "id": "FCC_ENF0721",
-    "numero_ordem": 721
+    "numero_ordem": 721,
+    "resposta": "A",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('implementar diretrizes de atenção integral aos usuários de álcool e outras drogas.') configura a resposta correta e plenamente fundamentada."
   },
   {
     "codigo_origem": "Q2108271",
@@ -1366,7 +1414,9 @@ export const questoes = [
     ],
     "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('de abstinência.') configura a resposta correta e plenamente fundamentada.",
     "id": "FCC_ENF0877",
-    "numero_ordem": 877
+    "numero_ordem": 877,
+    "resposta": "A",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('de abstinência.') configura a resposta correta e plenamente fundamentada."
   },
   {
     "codigo_origem": "Q2108270",
@@ -1423,7 +1473,9 @@ export const questoes = [
     ],
     "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('Dar mensagens não verbais de aceitação e respeito.') configura a resposta correta e plenamente fundamentada.",
     "id": "FCC_ENF0878",
-    "numero_ordem": 878
+    "numero_ordem": 878,
+    "resposta": "C",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [C] ('Dar mensagens não verbais de aceitação e respeito.') configura a resposta correta e plenamente fundamentada."
   },
   {
     "codigo_origem": "Q4156615",
@@ -1480,7 +1532,9 @@ export const questoes = [
     ],
     "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('inquietação e agressividade.') configura a resposta correta e plenamente fundamentada.",
     "id": "FCC_ENF0884",
-    "numero_ordem": 884
+    "numero_ordem": 884,
+    "resposta": "D",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [D] ('inquietação e agressividade.') configura a resposta correta e plenamente fundamentada."
   },
   {
     "codigo_origem": "Q4156610",
@@ -1537,7 +1591,9 @@ export const questoes = [
     ],
     "comentario": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('tentativa prévia de suicídio.') configura a resposta correta e plenamente fundamentada.",
     "id": "FCC_ENF0887",
-    "numero_ordem": 887
+    "numero_ordem": 887,
+    "resposta": "A",
+    "explicacao": "Com base na literatura de propedêutica e fundamentos de enfermagem (Brunner & Suddarth; Potter & Perry) e normas técnicas do Ministério da Saúde, a atuação segura e eficiente da enfermagem exige domínio dos procedimentos assistenciais e fundamentação científica em cada etapa do atendimento. A alternativa [A] ('tentativa prévia de suicídio.') configura a resposta correta e plenamente fundamentada."
   }
 ];
 export default questoes;

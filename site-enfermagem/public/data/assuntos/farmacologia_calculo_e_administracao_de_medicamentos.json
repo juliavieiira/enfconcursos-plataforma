@@ -46,7 +46,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('3 mL e 50 gotas/minuto') apresenta a resposta matemática e clínica correta.",
     "id": "EF0007",
-    "numero_ordem": 7
+    "numero_ordem": 7,
+    "resposta": "C",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('3 mL e 50 gotas/minuto') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q4336856",
@@ -95,7 +97,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('penicilina G benzatina 2.400.000 UI, administrada em dose única intramuscular, dividida em duas aplicações de 1.200.000 UI em cada glúteo') apresenta a resposta matemática e clínica correta.",
     "id": "EF0027",
-    "numero_ordem": 27
+    "numero_ordem": 27,
+    "resposta": "A",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('penicilina G benzatina 2.400.000 UI, administrada em dose única intramuscular, dividida em duas aplicações de 1.200.000 UI em cada glúteo') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q4317363",
@@ -144,7 +148,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('incompatibilidade medicamentosa') apresenta a resposta matemática e clínica correta.",
     "id": "EF0056",
-    "numero_ordem": 56
+    "numero_ordem": 56,
+    "resposta": "C",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('incompatibilidade medicamentosa') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q3742715",
@@ -193,7 +199,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('prevenir a replicação viral e restaurar a função imunológica, sem erradicar o vírus') apresenta a resposta matemática e clínica correta.",
     "id": "EF0102",
-    "numero_ordem": 102
+    "numero_ordem": 102,
+    "resposta": "B",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('prevenir a replicação viral e restaurar a função imunológica, sem erradicar o vírus') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q3742710",
@@ -242,7 +250,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('intradérmica') apresenta a resposta matemática e clínica correta.",
     "id": "EF0106",
-    "numero_ordem": 106
+    "numero_ordem": 106,
+    "resposta": "C",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('intradérmica') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q3623619",
@@ -291,7 +301,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('infiltração') apresenta a resposta matemática e clínica correta.",
     "id": "EF0118",
-    "numero_ordem": 118
+    "numero_ordem": 118,
+    "resposta": "D",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('infiltração') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q3623618",
@@ -340,7 +352,9 @@
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('biodisponibilidade de 100%') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0119",
-    "numero_ordem": 119
+    "numero_ordem": 119,
+    "resposta": "B",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('biodisponibilidade de 100%') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q3617182",
@@ -389,7 +403,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('apresenta maior risco de acúmulo e toxicidade em caso de ajuste inadequado da dose e levará mais tempo para atingir a concentração de estado estacionário (steady state)') apresenta a resposta matemática e clínica correta.",
     "id": "EF0128",
-    "numero_ordem": 128
+    "numero_ordem": 128,
+    "resposta": "C",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('apresenta maior risco de acúmulo e toxicidade em caso de ajuste inadequado da dose e levará mais tempo para atingir a concentração de estado estacionário (steady state)') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q3617181",
@@ -438,7 +454,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('uma redução da concentração plasmática da varfarina devido à indução metabólica, exigindo um aumento da dose do anticoagulante para manter o efeito terapêutico') apresenta a resposta matemática e clínica correta.",
     "id": "EF0129",
-    "numero_ordem": 129
+    "numero_ordem": 129,
+    "resposta": "D",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('uma redução da concentração plasmática da varfarina devido à indução metabólica, exigindo um aumento da dose do anticoagulante para manter o efeito terapêutico') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q3615479",
@@ -487,7 +505,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('ventroglúteo') apresenta a resposta matemática e clínica correta.",
     "id": "EF0142",
-    "numero_ordem": 142
+    "numero_ordem": 142,
+    "resposta": "B",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('ventroglúteo') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q3489356",
@@ -536,7 +556,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('uma infração ética grave por omissão de informação essencial para a segurança do paciente e por não registrar o incidente, caracterizando negligência e possível tentativa de encobrir o erro') apresenta a resposta matemática e clínica correta.",
     "id": "EF0151",
-    "numero_ordem": 151
+    "numero_ordem": 151,
+    "resposta": "B",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('uma infração ética grave por omissão de informação essencial para a segurança do paciente e por não registrar o incidente, caracterizando negligência e possível tentativa de encobrir o erro') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q3489353",
@@ -585,7 +607,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('\"Sim, é possível mistura-las. Você deve aspirar primeiro a Insulina Regular (límpida) e depois a Insulina NPH (leitosa), após homogeneizar suavemente o frasco da NPH, e administrar imediatamente para garantir a estabilidade\".') apresenta a resposta matemática e clínica correta.",
     "id": "EF0154",
-    "numero_ordem": 154
+    "numero_ordem": 154,
+    "resposta": "C",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('\"Sim, é possível mistura-las. Você deve aspirar primeiro a Insulina Regular (límpida) e depois a Insulina NPH (leitosa), após homogeneizar suavemente o frasco da NPH, e administrar imediatamente para garantir a estabilidade\".') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q3489352",
@@ -634,7 +658,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('expelir cuidadosamente a bolha de ar da seringa, garantindo que a dose correta de 1 mL (10 mg) permaneça, antes de realizar a antissepsia e a aplicação') apresenta a resposta matemática e clínica correta.",
     "id": "EF0155",
-    "numero_ordem": 155
+    "numero_ordem": 155,
+    "resposta": "A",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('expelir cuidadosamente a bolha de ar da seringa, garantindo que a dose correta de 1 mL (10 mg) permaneça, antes de realizar a antissepsia e a aplicação') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q3262530",
@@ -683,7 +709,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('35 dias') apresenta a resposta matemática e clínica correta.",
     "id": "EF0195",
-    "numero_ordem": 195
+    "numero_ordem": 195,
+    "resposta": "C",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('35 dias') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q3197483",
@@ -732,7 +760,9 @@
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('coletar amostras para exames laboratoriais imediatamente, administrar analgésicos opióides para controle da dor, iniciar monitorização de sinais vitais e ECG contínuo, além de garantir a administração de anticoagulantes e antiplaquetários, conforme prescrição médica') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0221",
-    "numero_ordem": 221
+    "numero_ordem": 221,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('coletar amostras para exames laboratoriais imediatamente, administrar analgésicos opióides para controle da dor, iniciar monitorização de sinais vitais e ECG contínuo, além de garantir a administração de anticoagulantes e antiplaquetários, conforme prescrição médica') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q3197471",
@@ -781,7 +811,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('após inserir a agulha em um ângulo de 90 graus, o enfermeiro puxa a pele para formar um \"Z\", garantindo a vedação do local da aplicação, pois isso evita o extravasamento da medicação para os tecidos subcutâneos, o que reduziria as chances de formação de abscessos ou outras complicações locais') apresenta a resposta matemática e clínica correta.",
     "id": "EF0233",
-    "numero_ordem": 233
+    "numero_ordem": 233,
+    "resposta": "A",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('após inserir a agulha em um ângulo de 90 graus, o enfermeiro puxa a pele para formar um \"Z\", garantindo a vedação do local da aplicação, pois isso evita o extravasamento da medicação para os tecidos subcutâneos, o que reduziria as chances de formação de abscessos ou outras complicações locais') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q3197247",
@@ -830,7 +862,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('sinergismo') apresenta a resposta matemática e clínica correta.",
     "id": "EF0237",
-    "numero_ordem": 237
+    "numero_ordem": 237,
+    "resposta": "B",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('sinergismo') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q3184817",
@@ -879,7 +913,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('deficiência de vitamina K') apresenta a resposta matemática e clínica correta.",
     "id": "EF0248",
-    "numero_ordem": 248
+    "numero_ordem": 248,
+    "resposta": "C",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('deficiência de vitamina K') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q2528693",
@@ -936,7 +972,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('0,6 ml') apresenta a resposta matemática e clínica correta.",
     "id": "EF0254",
-    "numero_ordem": 254
+    "numero_ordem": 254,
+    "resposta": "E",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('0,6 ml') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q2480381",
@@ -993,7 +1031,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('críticos') apresenta a resposta matemática e clínica correta.",
     "id": "EF0315",
-    "numero_ordem": 315
+    "numero_ordem": 315,
+    "resposta": "E",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('críticos') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q2477215",
@@ -1042,7 +1082,9 @@
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('20 a 30 respirações por minuto') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0331",
-    "numero_ordem": 331
+    "numero_ordem": 331,
+    "resposta": "B",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [B] ('20 a 30 respirações por minuto') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2477207",
@@ -1091,7 +1133,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('nebulização') apresenta a resposta matemática e clínica correta.",
     "id": "EF0339",
-    "numero_ordem": 339
+    "numero_ordem": 339,
+    "resposta": "A",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('nebulização') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q2467380",
@@ -1140,7 +1184,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('parenteral') apresenta a resposta matemática e clínica correta.",
     "id": "EF0376",
-    "numero_ordem": 376
+    "numero_ordem": 376,
+    "resposta": "C",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('parenteral') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q2454934",
@@ -1189,7 +1235,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('20 gotas') apresenta a resposta matemática e clínica correta.",
     "id": "EF0398",
-    "numero_ordem": 398
+    "numero_ordem": 398,
+    "resposta": "B",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('20 gotas') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q3674511",
@@ -1238,7 +1286,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('Epinefrina, Dopamina e Dobutamina') apresenta a resposta matemática e clínica correta.",
     "id": "EF0454",
-    "numero_ordem": 454
+    "numero_ordem": 454,
+    "resposta": "B",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('Epinefrina, Dopamina e Dobutamina') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q2325286",
@@ -1287,7 +1337,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('60 minutos antes da incisão cirúrgica') apresenta a resposta matemática e clínica correta.",
     "id": "EF0509",
-    "numero_ordem": 509
+    "numero_ordem": 509,
+    "resposta": "D",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('60 minutos antes da incisão cirúrgica') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q2325281",
@@ -1336,7 +1388,9 @@
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('naloxone') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0514",
-    "numero_ordem": 514
+    "numero_ordem": 514,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('naloxone') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2325280",
@@ -1385,7 +1439,9 @@
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('beta 1 adrenérgico') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0515",
-    "numero_ordem": 515
+    "numero_ordem": 515,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('beta 1 adrenérgico') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2310590",
@@ -1434,7 +1490,9 @@
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('beta 1 agonista') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0524",
-    "numero_ordem": 524
+    "numero_ordem": 524,
+    "resposta": "A",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [A] ('beta 1 agonista') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q2310578",
@@ -1483,7 +1541,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('atropina') apresenta a resposta matemática e clínica correta.",
     "id": "EF0536",
-    "numero_ordem": 536
+    "numero_ordem": 536,
+    "resposta": "D",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('atropina') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q2297121",
@@ -1532,7 +1592,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('absorção') apresenta a resposta matemática e clínica correta.",
     "id": "EF0547",
-    "numero_ordem": 547
+    "numero_ordem": 547,
+    "resposta": "D",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('absorção') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q2160740",
@@ -1581,7 +1643,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('sublingual') apresenta a resposta matemática e clínica correta.",
     "id": "EF0584",
-    "numero_ordem": 584
+    "numero_ordem": 584,
+    "resposta": "C",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('sublingual') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q2160738",
@@ -1630,7 +1694,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('20 ml') apresenta a resposta matemática e clínica correta.",
     "id": "EF0586",
-    "numero_ordem": 586
+    "numero_ordem": 586,
+    "resposta": "D",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('20 ml') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q2024557",
@@ -1679,7 +1745,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('2.000 ml, sendo 1.000 ml por sítio de punção') apresenta a resposta matemática e clínica correta.",
     "id": "EF0604",
-    "numero_ordem": 604
+    "numero_ordem": 604,
+    "resposta": "A",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('2.000 ml, sendo 1.000 ml por sítio de punção') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q1956086",
@@ -1728,7 +1796,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('2 horas a 3 horas') apresenta a resposta matemática e clínica correta.",
     "id": "EF0613",
-    "numero_ordem": 613
+    "numero_ordem": 613,
+    "resposta": "C",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('2 horas a 3 horas') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q1953169",
@@ -1777,7 +1847,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('agioedema, modificação do paladar e hipercalemia') apresenta a resposta matemática e clínica correta.",
     "id": "EF0635",
-    "numero_ordem": 635
+    "numero_ordem": 635,
+    "resposta": "B",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('agioedema, modificação do paladar e hipercalemia') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q1953166",
@@ -1826,7 +1898,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('Hochstetter') apresenta a resposta matemática e clínica correta.",
     "id": "EF0638",
-    "numero_ordem": 638
+    "numero_ordem": 638,
+    "resposta": "C",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('Hochstetter') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q1953165",
@@ -1875,7 +1949,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('absorção, distribuição, metabolismo e excreção') apresenta a resposta matemática e clínica correta.",
     "id": "EF0639",
-    "numero_ordem": 639
+    "numero_ordem": 639,
+    "resposta": "B",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('absorção, distribuição, metabolismo e excreção') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q1953159",
@@ -1924,7 +2000,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('naloxone') apresenta a resposta matemática e clínica correta.",
     "id": "EF0645",
-    "numero_ordem": 645
+    "numero_ordem": 645,
+    "resposta": "B",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('naloxone') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q1313711",
@@ -1973,7 +2051,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('25 ml') apresenta a resposta matemática e clínica correta.",
     "id": "EF0705",
-    "numero_ordem": 705
+    "numero_ordem": 705,
+    "resposta": "B",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('25 ml') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q1313693",
@@ -2022,7 +2102,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('o Protocolo Clínico e Diretriz Terapêutica') apresenta a resposta matemática e clínica correta.",
     "id": "EF0723",
-    "numero_ordem": 723
+    "numero_ordem": 723,
+    "resposta": "D",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('o Protocolo Clínico e Diretriz Terapêutica') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q2698328",
@@ -2071,7 +2153,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('hipodermóclise') apresenta a resposta matemática e clínica correta.",
     "id": "EF0767",
-    "numero_ordem": 767
+    "numero_ordem": 767,
+    "resposta": "D",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('hipodermóclise') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q1242252",
@@ -2120,7 +2204,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('28 gotas/min') apresenta a resposta matemática e clínica correta.",
     "id": "EF0793",
-    "numero_ordem": 793
+    "numero_ordem": 793,
+    "resposta": "B",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('28 gotas/min') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q3884652",
@@ -2169,7 +2255,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('absorção mais rápida que a via subcutânea, em razão da maior vascularização da área') apresenta a resposta matemática e clínica correta.",
     "id": "EF0821",
-    "numero_ordem": 821
+    "numero_ordem": 821,
+    "resposta": "C",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('absorção mais rápida que a via subcutânea, em razão da maior vascularização da área') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q3884076",
@@ -2218,7 +2306,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('3,0 mL') apresenta a resposta matemática e clínica correta.",
     "id": "EF0831",
-    "numero_ordem": 831
+    "numero_ordem": 831,
+    "resposta": "D",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('3,0 mL') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q3810643",
@@ -2267,7 +2357,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('adicionar 80 mL de diluente aos 20 mL de G50%, obtendo um total de 100 mL em concentração de 10%') apresenta a resposta matemática e clínica correta.",
     "id": "EF0839",
-    "numero_ordem": 839
+    "numero_ordem": 839,
+    "resposta": "B",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('adicionar 80 mL de diluente aos 20 mL de G50%, obtendo um total de 100 mL em concentração de 10%') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q3810630",
@@ -2316,7 +2408,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('a “orientação certa” implica garantir que o paciente receba informações pertinentes sobre o medicamento, como finalidade, forma correta de uso e possíveis efeitos esperados, contribuindo para maior segurança e adesão') apresenta a resposta matemática e clínica correta.",
     "id": "EF0852",
-    "numero_ordem": 852
+    "numero_ordem": 852,
+    "resposta": "C",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('a “orientação certa” implica garantir que o paciente receba informações pertinentes sobre o medicamento, como finalidade, forma correta de uso e possíveis efeitos esperados, contribuindo para maior segurança e adesão') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q3802712",
@@ -2365,7 +2459,9 @@
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('promover vasoconstrição periférica') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "EF0863",
-    "numero_ordem": 863
+    "numero_ordem": 863,
+    "resposta": "C",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [C] ('promover vasoconstrição periférica') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q3802708",
@@ -2414,7 +2510,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('inibidores da enzima conversora de angiotensina (IECA) ou bloqueadores do receptor de angiotensina (BRA), betabloqueadores e antagonistas do receptor de mineralocorticoide (ARM)') apresenta a resposta matemática e clínica correta.",
     "id": "EF0865",
-    "numero_ordem": 865
+    "numero_ordem": 865,
+    "resposta": "A",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('inibidores da enzima conversora de angiotensina (IECA) ou bloqueadores do receptor de angiotensina (BRA), betabloqueadores e antagonistas do receptor de mineralocorticoide (ARM)') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q2108264",
@@ -2471,7 +2569,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('7,5') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0006",
-    "numero_ordem": 6
+    "numero_ordem": 6,
+    "resposta": "C",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('7,5') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q2108263",
@@ -2528,7 +2628,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('11 horas e 50 minutos.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0007",
-    "numero_ordem": 7
+    "numero_ordem": 7,
+    "resposta": "D",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('11 horas e 50 minutos.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q2108262",
@@ -2585,7 +2687,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('45') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0008",
-    "numero_ordem": 8
+    "numero_ordem": 8,
+    "resposta": "A",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('45') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q2108261",
@@ -2642,7 +2746,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('retal.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0009",
-    "numero_ordem": 9
+    "numero_ordem": 9,
+    "resposta": "B",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('retal.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q1971262",
@@ -2699,7 +2805,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('ácido acetilsalicílico pode diminuir a ação anti-hipertensiva do captopril.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0017",
-    "numero_ordem": 17
+    "numero_ordem": 17,
+    "resposta": "C",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('ácido acetilsalicílico pode diminuir a ação anti-hipertensiva do captopril.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q1970044",
@@ -2756,7 +2864,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('40 minutos.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0054",
-    "numero_ordem": 54
+    "numero_ordem": 54,
+    "resposta": "E",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('40 minutos.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q1970043",
@@ -2813,7 +2923,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('30') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0055",
-    "numero_ordem": 55
+    "numero_ordem": 55,
+    "resposta": "C",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('30') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q1956219",
@@ -2870,7 +2982,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('0,1.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0078",
-    "numero_ordem": 78
+    "numero_ordem": 78,
+    "resposta": "D",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('0,1.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q1956218",
@@ -2927,7 +3041,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('2 e 6.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0079",
-    "numero_ordem": 79
+    "numero_ordem": 79,
+    "resposta": "A",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('2 e 6.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q1258475",
@@ -2984,7 +3100,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('correta, pois diversos fatores alteram a resposta.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0120",
-    "numero_ordem": 120
+    "numero_ordem": 120,
+    "resposta": "E",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('correta, pois diversos fatores alteram a resposta.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q1252234",
@@ -3041,7 +3159,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('20 gotas.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0169",
-    "numero_ordem": 169
+    "numero_ordem": 169,
+    "resposta": "D",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('20 gotas.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q1252226",
@@ -3098,7 +3218,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('flebite mecânica.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0175",
-    "numero_ordem": 175
+    "numero_ordem": 175,
+    "resposta": "A",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('flebite mecânica.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q1252157",
@@ -3155,7 +3277,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('50 mL.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0190",
-    "numero_ordem": 190
+    "numero_ordem": 190,
+    "resposta": "D",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('50 mL.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q4156596",
@@ -3212,7 +3336,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('bradicardia, fadiga e extremidades frias.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0201",
-    "numero_ordem": 201
+    "numero_ordem": 201,
+    "resposta": "B",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('bradicardia, fadiga e extremidades frias.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q4156595",
@@ -3269,7 +3395,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('120 microgotas por minuto.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0202",
-    "numero_ordem": 202
+    "numero_ordem": 202,
+    "resposta": "E",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('120 microgotas por minuto.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q1129538",
@@ -3326,7 +3454,9 @@
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('de opioides.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0236",
-    "numero_ordem": 236
+    "numero_ordem": 236,
+    "resposta": "E",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [E] ('de opioides.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1129532",
@@ -3383,7 +3513,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('uma medida de biossegurança.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0241",
-    "numero_ordem": 241
+    "numero_ordem": 241,
+    "resposta": "C",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('uma medida de biossegurança.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q1129531",
@@ -3440,7 +3572,9 @@
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('intraósseo.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0242",
-    "numero_ordem": 242
+    "numero_ordem": 242,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('intraósseo.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q1023333",
@@ -3497,7 +3631,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('a região anterolateral da coxa é capaz de receber até 1500 mL ao longo de 24 horas.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0245",
-    "numero_ordem": 245
+    "numero_ordem": 245,
+    "resposta": "E",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('a região anterolateral da coxa é capaz de receber até 1500 mL ao longo de 24 horas.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q1023332",
@@ -3554,7 +3690,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('hemólise.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0246",
-    "numero_ordem": 246
+    "numero_ordem": 246,
+    "resposta": "D",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('hemólise.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q935888",
@@ -3611,7 +3749,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('II − III − II − I − I − III.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0312",
-    "numero_ordem": 312
+    "numero_ordem": 312,
+    "resposta": "A",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('II − III − II − I − I − III.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q935873",
@@ -3668,7 +3808,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('a pentoxifilina.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0327",
-    "numero_ordem": 327
+    "numero_ordem": 327,
+    "resposta": "B",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('a pentoxifilina.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q932721",
@@ -3725,7 +3867,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('7 horas.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0364",
-    "numero_ordem": 364
+    "numero_ordem": 364,
+    "resposta": "C",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('7 horas.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q932720",
@@ -3782,7 +3926,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('9,6 mL.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0365",
-    "numero_ordem": 365
+    "numero_ordem": 365,
+    "resposta": "A",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('9,6 mL.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q932719",
@@ -3839,7 +3985,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('o efeito do anticoncepcional é reduzido quando consumido com um antibiótico.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0366",
-    "numero_ordem": 366
+    "numero_ordem": 366,
+    "resposta": "E",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('o efeito do anticoncepcional é reduzido quando consumido com um antibiótico.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q931017",
@@ -3896,7 +4044,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('25.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0377",
-    "numero_ordem": 377
+    "numero_ordem": 377,
+    "resposta": "D",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('25.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q931016",
@@ -3953,7 +4103,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('I, II e III.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0378",
-    "numero_ordem": 378
+    "numero_ordem": 378,
+    "resposta": "A",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('I, II e III.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q4155321",
@@ -4010,7 +4162,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('bloquear os receptores opioides, revertendo os efeitos da intoxicação.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0414",
-    "numero_ordem": 414
+    "numero_ordem": 414,
+    "resposta": "E",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('bloquear os receptores opioides, revertendo os efeitos da intoxicação.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q4155319",
@@ -4067,7 +4221,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('evitar o refluxo do medicamento para o tecido subcutâneo, garantindo melhor absorção.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0415",
-    "numero_ordem": 415
+    "numero_ordem": 415,
+    "resposta": "A",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('evitar o refluxo do medicamento para o tecido subcutâneo, garantindo melhor absorção.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q4155317",
@@ -4124,7 +4280,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('0,84.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0416",
-    "numero_ordem": 416
+    "numero_ordem": 416,
+    "resposta": "A",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('0,84.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q920274",
@@ -4181,7 +4339,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('40 mL; 2 ampolas.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0433",
-    "numero_ordem": 433
+    "numero_ordem": 433,
+    "resposta": "C",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('40 mL; 2 ampolas.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q920273",
@@ -4238,7 +4398,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('vitamina K.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0434",
-    "numero_ordem": 434
+    "numero_ordem": 434,
+    "resposta": "E",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('vitamina K.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q920272",
@@ -4295,7 +4457,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('ganho de peso.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0435",
-    "numero_ordem": 435
+    "numero_ordem": 435,
+    "resposta": "D",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('ganho de peso.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q920271",
@@ -4352,7 +4516,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('8 frascos, 3 horas.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0436",
-    "numero_ordem": 436
+    "numero_ordem": 436,
+    "resposta": "E",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('8 frascos, 3 horas.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q920268",
@@ -4409,7 +4575,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('0,5.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0439",
-    "numero_ordem": 439
+    "numero_ordem": 439,
+    "resposta": "E",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('0,5.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q918267",
@@ -4466,7 +4634,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('pronto atendimento.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0451",
-    "numero_ordem": 451
+    "numero_ordem": 451,
+    "resposta": "D",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('pronto atendimento.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q918256",
@@ -4523,7 +4693,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('14 horas e 36 minutos.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0460",
-    "numero_ordem": 460
+    "numero_ordem": 460,
+    "resposta": "A",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('14 horas e 36 minutos.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q918178",
@@ -4580,7 +4752,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('50 mL') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0476",
-    "numero_ordem": 476
+    "numero_ordem": 476,
+    "resposta": "E",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('50 mL') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q839951",
@@ -4637,7 +4811,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('I, III e IV.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0493",
-    "numero_ordem": 493
+    "numero_ordem": 493,
+    "resposta": "B",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('I, III e IV.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q839946",
@@ -4694,7 +4870,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('considerar que o local ideal para a administração do medicamento é o tecido celular subcutâneo do abdômen.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0498",
-    "numero_ordem": 498
+    "numero_ordem": 498,
+    "resposta": "E",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('considerar que o local ideal para a administração do medicamento é o tecido celular subcutâneo do abdômen.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q839943",
@@ -4751,7 +4929,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('ao controle da pressão arterial devido à propensão à hipertensão arterial.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0501",
-    "numero_ordem": 501
+    "numero_ordem": 501,
+    "resposta": "B",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('ao controle da pressão arterial devido à propensão à hipertensão arterial.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q839939",
@@ -4808,7 +4988,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('cardiotônicos que são fármacos que aumentam a força de contração miocárdica.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0504",
-    "numero_ordem": 504
+    "numero_ordem": 504,
+    "resposta": "E",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('cardiotônicos que são fármacos que aumentam a força de contração miocárdica.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q839935",
@@ -4865,7 +5047,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('posicionar a seringa e introduzir a agulha no músculo selecionado em ângulo de 90° em relação à pele.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0508",
-    "numero_ordem": 508
+    "numero_ordem": 508,
+    "resposta": "B",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('posicionar a seringa e introduzir a agulha no músculo selecionado em ângulo de 90° em relação à pele.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q839934",
@@ -4922,7 +5106,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('2,7 mL.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0509",
-    "numero_ordem": 509
+    "numero_ordem": 509,
+    "resposta": "A",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('2,7 mL.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q783952",
@@ -4979,7 +5165,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('2,5.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0550",
-    "numero_ordem": 550
+    "numero_ordem": 550,
+    "resposta": "C",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('2,5.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q777996",
@@ -5036,7 +5224,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('verificar o pulso antes da administração.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0572",
-    "numero_ordem": 572
+    "numero_ordem": 572,
+    "resposta": "A",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('verificar o pulso antes da administração.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q777994",
@@ -5093,7 +5283,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('toxicológico.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0574",
-    "numero_ordem": 574
+    "numero_ordem": 574,
+    "resposta": "C",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('toxicológico.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q777983",
@@ -5150,7 +5342,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('3,5.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0583",
-    "numero_ordem": 583
+    "numero_ordem": 583,
+    "resposta": "C",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('3,5.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q777982",
@@ -5207,7 +5401,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('3 mL ou 60 gotas.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0584",
-    "numero_ordem": 584
+    "numero_ordem": 584,
+    "resposta": "A",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('3 mL ou 60 gotas.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q777981",
@@ -5264,7 +5460,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('o hidrato de cloral líquido.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0585",
-    "numero_ordem": 585
+    "numero_ordem": 585,
+    "resposta": "B",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('o hidrato de cloral líquido.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q2723512",
@@ -5321,7 +5519,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('11,0 gramas de glicose.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0599",
-    "numero_ordem": 599
+    "numero_ordem": 599,
+    "resposta": "B",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('11,0 gramas de glicose.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q2723511",
@@ -5378,7 +5578,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('5,8.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0600",
-    "numero_ordem": 600
+    "numero_ordem": 600,
+    "resposta": "B",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('5,8.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q2723510",
@@ -5435,7 +5637,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('600 mg.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0601",
-    "numero_ordem": 601
+    "numero_ordem": 601,
+    "resposta": "C",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('600 mg.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q2723501",
@@ -5492,7 +5696,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('insulina subcutânea e endovenosa.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0610",
-    "numero_ordem": 610
+    "numero_ordem": 610,
+    "resposta": "D",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('insulina subcutânea e endovenosa.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q1337368",
@@ -5549,7 +5755,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('hipercolesterolemia.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0622",
-    "numero_ordem": 622
+    "numero_ordem": 622,
+    "resposta": "C",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('hipercolesterolemia.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q1337367",
@@ -5606,7 +5814,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('antiparkinsoniano, diurético e coagulante.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0623",
-    "numero_ordem": 623
+    "numero_ordem": 623,
+    "resposta": "E",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('antiparkinsoniano, diurético e coagulante.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q1337366",
@@ -5663,7 +5873,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('10 gotas/minuto.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0624",
-    "numero_ordem": 624
+    "numero_ordem": 624,
+    "resposta": "C",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('10 gotas/minuto.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q771977",
@@ -5720,7 +5932,9 @@
     ],
     "comentario": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('naloxona.') traduz a conduta prioritária e tecnicamente fundamentada.",
     "id": "FCC_ENF0636",
-    "numero_ordem": 636
+    "numero_ordem": 636,
+    "resposta": "D",
+    "explicacao": "Conforme as Diretrizes de Ressuscitação Cardiopulmonar (RCP) da American Heart Association (AHA) e os protocolos de Atendimento Pré-Hospitalar (SAMU/MS), o reconhecimento ágil da emergência clínica, o suporte básico e avançado imediato e a correta aplicação dos protocolos sistemáticos são decisivos para o desfecho clínico. A alternativa [D] ('naloxona.') traduz a conduta prioritária e tecnicamente fundamentada."
   },
   {
     "codigo_origem": "Q771972",
@@ -5777,7 +5991,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('ingerir o medicamento pela manhã, para não interferir com o sono e repouso, considerando o aumento da diurese.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0640",
-    "numero_ordem": 640
+    "numero_ordem": 640,
+    "resposta": "D",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('ingerir o medicamento pela manhã, para não interferir com o sono e repouso, considerando o aumento da diurese.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q771971",
@@ -5834,7 +6050,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('40 gotas.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0641",
-    "numero_ordem": 641
+    "numero_ordem": 641,
+    "resposta": "A",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('40 gotas.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q771968",
@@ -5891,7 +6109,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('14h.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0644",
-    "numero_ordem": 644
+    "numero_ordem": 644,
+    "resposta": "C",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('14h.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q771967",
@@ -5948,7 +6168,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('1,5 mL.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0645",
-    "numero_ordem": 645
+    "numero_ordem": 645,
+    "resposta": "A",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('1,5 mL.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q771966",
@@ -6005,7 +6227,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('fazer a prega subcutânea para injetar a insulina continuamente com uma agulha de 6 mm, mantê-la no subcutâneo por 5 segundos e retirá-la, soltando a prega subcutânea com suave compressão.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0646",
-    "numero_ordem": 646
+    "numero_ordem": 646,
+    "resposta": "A",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('fazer a prega subcutânea para injetar a insulina continuamente com uma agulha de 6 mm, mantê-la no subcutâneo por 5 segundos e retirá-la, soltando a prega subcutânea com suave compressão.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q771965",
@@ -6062,7 +6286,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('ventroglúteo.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0647",
-    "numero_ordem": 647
+    "numero_ordem": 647,
+    "resposta": "B",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('ventroglúteo.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q771963",
@@ -6119,7 +6345,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('verificar a frequência cardíaca antes da administração do medicamento, se estiver menor que 60 bpm não administrar.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0649",
-    "numero_ordem": 649
+    "numero_ordem": 649,
+    "resposta": "E",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('verificar a frequência cardíaca antes da administração do medicamento, se estiver menor que 60 bpm não administrar.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q764323",
@@ -6176,7 +6404,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('naloxona.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0668",
-    "numero_ordem": 668
+    "numero_ordem": 668,
+    "resposta": "E",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('naloxona.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q764309",
@@ -6233,7 +6463,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('10,0 mL') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0682",
-    "numero_ordem": 682
+    "numero_ordem": 682,
+    "resposta": "C",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('10,0 mL') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q764297",
@@ -6290,7 +6522,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('I, II, III e IV.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0693",
-    "numero_ordem": 693
+    "numero_ordem": 693,
+    "resposta": "A",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('I, II, III e IV.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q763953",
@@ -6347,7 +6581,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('rastreamento de medicamentos.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0722",
-    "numero_ordem": 722
+    "numero_ordem": 722,
+    "resposta": "C",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('rastreamento de medicamentos.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q763947",
@@ -6404,7 +6640,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('2 comprimidos.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0728",
-    "numero_ordem": 728
+    "numero_ordem": 728,
+    "resposta": "A",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('2 comprimidos.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q763946",
@@ -6461,7 +6699,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('28 gotas por minuto.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0729",
-    "numero_ordem": 729
+    "numero_ordem": 729,
+    "resposta": "D",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('28 gotas por minuto.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q763941",
@@ -6518,7 +6758,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('Diazepam.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0734",
-    "numero_ordem": 734
+    "numero_ordem": 734,
+    "resposta": "B",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('Diazepam.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q615906",
@@ -6575,7 +6817,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('6 horas.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0759",
-    "numero_ordem": 759
+    "numero_ordem": 759,
+    "resposta": "A",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('6 horas.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q615905",
@@ -6632,7 +6876,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('a diminuição da frequência cardíaca.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0760",
-    "numero_ordem": 760
+    "numero_ordem": 760,
+    "resposta": "D",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('a diminuição da frequência cardíaca.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q615904",
@@ -6689,7 +6935,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('2,5.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0761",
-    "numero_ordem": 761
+    "numero_ordem": 761,
+    "resposta": "E",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [E] ('2,5.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q615903",
@@ -6746,7 +6994,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('2 gramas.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0762",
-    "numero_ordem": 762
+    "numero_ordem": 762,
+    "resposta": "C",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('2 gramas.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q2723486",
@@ -6803,7 +7053,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('dilatação da veia, deve-se garrotear o membro 10 cm acima do local da punção venosa.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0785",
-    "numero_ordem": 785
+    "numero_ordem": 785,
+    "resposta": "B",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('dilatação da veia, deve-se garrotear o membro 10 cm acima do local da punção venosa.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q2099264",
@@ -6860,7 +7112,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('63 microgotas.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0805",
-    "numero_ordem": 805
+    "numero_ordem": 805,
+    "resposta": "B",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('63 microgotas.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q2099263",
@@ -6917,7 +7171,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('0,75 mL.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0806",
-    "numero_ordem": 806
+    "numero_ordem": 806,
+    "resposta": "D",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('0,75 mL.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q2118832",
@@ -6974,7 +7230,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('aplicar insulina no tecido subcutâneo com agulhas curtas (4, 5 e 6 mm de comprimento) para reduzir o risco de injeção intramuscular.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0818",
-    "numero_ordem": 818
+    "numero_ordem": 818,
+    "resposta": "B",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('aplicar insulina no tecido subcutâneo com agulhas curtas (4, 5 e 6 mm de comprimento) para reduzir o risco de injeção intramuscular.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q2118829",
@@ -7031,7 +7289,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('frequência cardíaca.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0821",
-    "numero_ordem": 821
+    "numero_ordem": 821,
+    "resposta": "A",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('frequência cardíaca.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q2118826",
@@ -7088,7 +7348,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('Sonolência.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0824",
-    "numero_ordem": 824
+    "numero_ordem": 824,
+    "resposta": "B",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('Sonolência.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q2118825",
@@ -7145,7 +7407,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('2 ampolas − 0,5 mL.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0825",
-    "numero_ordem": 825
+    "numero_ordem": 825,
+    "resposta": "B",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [B] ('2 ampolas − 0,5 mL.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q2118824",
@@ -7202,7 +7466,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('0,4.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0826",
-    "numero_ordem": 826
+    "numero_ordem": 826,
+    "resposta": "D",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('0,4.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q2118823",
@@ -7259,7 +7525,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('4 horas e 58 minutos.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0827",
-    "numero_ordem": 827
+    "numero_ordem": 827,
+    "resposta": "C",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [C] ('4 horas e 58 minutos.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q2108294",
@@ -7316,7 +7584,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('laxativos.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0856",
-    "numero_ordem": 856
+    "numero_ordem": 856,
+    "resposta": "A",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [A] ('laxativos.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q2108284",
@@ -7373,7 +7643,9 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('após a aplicação, deve-se esperar cinco segundos antes de se retirar a agulha do subcutâneo, para garantir injeção de toda a dose, quando em uso de seringa.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0865",
-    "numero_ordem": 865
+    "numero_ordem": 865,
+    "resposta": "D",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('após a aplicação, deve-se esperar cinco segundos antes de se retirar a agulha do subcutâneo, para garantir injeção de toda a dose, quando em uso de seringa.') apresenta a resposta matemática e clínica correta."
   },
   {
     "codigo_origem": "Q4156597",
@@ -7430,6 +7702,8 @@
     ],
     "comentario": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('a Simeticona.') apresenta a resposta matemática e clínica correta.",
     "id": "FCC_ENF0898",
-    "numero_ordem": 898
+    "numero_ordem": 898,
+    "resposta": "D",
+    "explicacao": "A terapêutica medicamentosa segura exige observância estrita dos preceitos de cálculo de dosagem, proporcionalidade, fórmulas de gotejamento horário (gotas/min = Volume / (Tempo x 3); microgotas/min = Volume / Tempo) e protocolos de farmacovigilância. A alternativa [D] ('a Simeticona.') apresenta a resposta matemática e clínica correta."
   }
 ]

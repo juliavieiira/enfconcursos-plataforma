@@ -1,2 +1,647 @@
-// Chunk gerado automaticamente para Fonologia e Acentuação (14 questões)
-export default [{"codigo_origem": "Q4394416", "numero_original": 28, "banca": "SELECON", "orgao": "Prefeitura de Sapezal - MT", "ano": 2026, "prova": "SELECON - 2026 - Prefeitura de Sapezal - MT - Motorista de", "cargo": "Motorista de", "materia": "Língua Portuguesa", "assunto": "Fonologia e Acentuação", "assunto_detalhado": "Fonologia , Divisão Silábica", "enunciado": "A divisão silábica da palavra ADOLESCENTES está correta em:", "alternativas": [{"id": "A", "texto": "ado – les – cen – tes"}, {"id": "B", "texto": "a – do – le – scen – tes"}, {"id": "C", "texto": "ado – le – sc – en – tes"}, {"id": "D", "texto": "a – do – les – cen – tes https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examinin… 4/13 21/11/2026, 11:07 29 Questões de Provas - Questões de Concursos - Página 2 | Qconcursos.com"}], "resposta_correta": "D", "id": "LP0028", "numero_ordem": 28, "fundamentacao_correta": "Conforme a fonética e fonologia do Português moderno (Cegalla / Rocha Lima), a contagem e distinção entre fonemas, letras, dígrafos (duas letras representando um único som) e encontros consonantais ou vocálicos exigem análise auditiva e articulatória rigorosa. A assertiva [D] ('a – do – les – cen – tes https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examinin… 4/13 21/11/2026, 11:07 29 Questões de Provas - Questões de Concursos - Página 2 | Qconcursos.com') apresenta a exata correlação fonológico-ortográfica.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta, pois 'ado – les – cen – tes' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}, {"letra": "B", "motivo": "Incorreta, pois 'a – do – le – scen – tes' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}, {"letra": "C", "motivo": "Incorreta, pois 'ado – le – sc – en – tes' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [D]** — *a – do – les – cen – tes https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examinin… 4/13 21/11/2026, 11:07 29 Questões de Provas - Questões de Concursos - Página 2 | Qconcursos.com*\n\n#### Fundamentação Gramatical:\nConforme a fonética e fonologia do Português moderno (Cegalla / Rocha Lima), a contagem e distinção entre fonemas, letras, dígrafos (duas letras representando um único som) e encontros consonantais ou vocálicos exigem análise auditiva e articulatória rigorosa. A assertiva [D] ('a – do – les – cen – tes https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examinin… 4/13 21/11/2026, 11:07 29 Questões de Provas - Questões de Concursos - Página 2 | Qconcursos.com') apresenta a exata correlação fonológico-ortográfica.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois 'ado – les – cen – tes' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n- **Alternativa [B]:** Incorreta, pois 'a – do – le – scen – tes' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n- **Alternativa [C]:** Incorreta, pois 'ado – le – sc – en – tes' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n"}, {"codigo_origem": "Q3817665", "numero_original": 272, "banca": "SELECON", "orgao": "Prefeitura de Sapezal - MT", "ano": 2025, "prova": "SELECON - 2025 - Prefeitura de Sapezal - MT - Motorista de", "cargo": "Motorista de", "materia": "Língua Portuguesa", "assunto": "Fonologia e Acentuação", "assunto_detalhado": "Fonologia", "enunciado": "A palavra CONSCIENTIZAÇÃO está corretamente segmentada em sílabas da seguinte forma:", "alternativas": [{"id": "A", "texto": "CONS – CIEN – TI – ZA – ÇÃO"}, {"id": "B", "texto": "CONS – CI – ENTI – ZA – ÇÃO"}, {"id": "C", "texto": "CONS – CI – EN – TI – ZA – ÇÃO"}, {"id": "D", "texto": "CON – SCI – EN – TI – ZA – ÇÃO 273 Ano:"}], "resposta_correta": "C", "id": "LP0272", "numero_ordem": 272, "fundamentacao_correta": "Conforme a fonética e fonologia do Português moderno (Cegalla / Rocha Lima), a contagem e distinção entre fonemas, letras, dígrafos (duas letras representando um único som) e encontros consonantais ou vocálicos exigem análise auditiva e articulatória rigorosa. A assertiva [C] ('CONS – CI – EN – TI – ZA – ÇÃO') apresenta a exata correlação fonológico-ortográfica.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta, pois 'CONS – CIEN – TI – ZA – ÇÃO' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}, {"letra": "B", "motivo": "Incorreta, pois 'CONS – CI – ENTI – ZA – ÇÃO' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}, {"letra": "D", "motivo": "Incorreta, pois 'CON – SCI – EN – TI – ZA – ÇÃO 273 Ano:' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [C]** — *CONS – CI – EN – TI – ZA – ÇÃO*\n\n#### Fundamentação Gramatical:\nConforme a fonética e fonologia do Português moderno (Cegalla / Rocha Lima), a contagem e distinção entre fonemas, letras, dígrafos (duas letras representando um único som) e encontros consonantais ou vocálicos exigem análise auditiva e articulatória rigorosa. A assertiva [C] ('CONS – CI – EN – TI – ZA – ÇÃO') apresenta a exata correlação fonológico-ortográfica.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois 'CONS – CIEN – TI – ZA – ÇÃO' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n- **Alternativa [B]:** Incorreta, pois 'CONS – CI – ENTI – ZA – ÇÃO' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n- **Alternativa [D]:** Incorreta, pois 'CON – SCI – EN – TI – ZA – ÇÃO 273 Ano:' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n"}, {"codigo_origem": "Q3744254", "numero_original": 313, "banca": "SELECON", "orgao": "Prefeitura de Marcelândia - MT", "ano": 2025, "prova": "SELECON - 2025 - Prefeitura de Marcelândia - MT -", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Fonologia e Acentuação", "assunto_detalhado": "Fonologia", "enunciado": "A divisão silábica correta da palavra CRIANÇAS é:", "alternativas": [{"id": "A", "texto": "CRI – AN – ÇAS"}, {"id": "B", "texto": "CR – IAN – ÇAS"}, {"id": "C", "texto": "CRI – A – NÇAS"}, {"id": "D", "texto": "CR – IA – NÇAS https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examinin… 6/10 21/11/2026, 11:11 314 Ano: 2025 Questões de Provas - Questões de Concursos - Página 16 | Qconcursos.com"}], "resposta_correta": "A", "id": "LP0313", "numero_ordem": 313, "fundamentacao_correta": "Conforme a fonética e fonologia do Português moderno (Cegalla / Rocha Lima), a contagem e distinção entre fonemas, letras, dígrafos (duas letras representando um único som) e encontros consonantais ou vocálicos exigem análise auditiva e articulatória rigorosa. A assertiva [A] ('CRI – AN – ÇAS') apresenta a exata correlação fonológico-ortográfica.", "analise_distratores": [{"letra": "B", "motivo": "Incorreta, pois 'CR – IAN – ÇAS' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}, {"letra": "C", "motivo": "Incorreta, pois 'CRI – A – NÇAS' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}, {"letra": "D", "motivo": "Incorreta, pois 'CR – IA – NÇAS https://www.qconcursos.com/questoes...' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [A]** — *CRI – AN – ÇAS*\n\n#### Fundamentação Gramatical:\nConforme a fonética e fonologia do Português moderno (Cegalla / Rocha Lima), a contagem e distinção entre fonemas, letras, dígrafos (duas letras representando um único som) e encontros consonantais ou vocálicos exigem análise auditiva e articulatória rigorosa. A assertiva [A] ('CRI – AN – ÇAS') apresenta a exata correlação fonológico-ortográfica.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [B]:** Incorreta, pois 'CR – IAN – ÇAS' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n- **Alternativa [C]:** Incorreta, pois 'CRI – A – NÇAS' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n- **Alternativa [D]:** Incorreta, pois 'CR – IA – NÇAS https://www.qconcursos.com/questoes...' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n"}, {"codigo_origem": "Q3722712", "numero_original": 348, "banca": "SELECON", "orgao": "Prefeitura de Nobres - MT", "ano": 2025, "prova": "SELECON - 2025 - Prefeitura de Nobres - MT - Gari", "cargo": "Gari", "materia": "Língua Portuguesa", "assunto": "Fonologia e Acentuação", "assunto_detalhado": "Fonologia", "enunciado": "As palavras PESSOA e PREJUÍZO estão corretamente separadas em sílabas na alternativa:", "alternativas": [{"id": "A", "texto": "pes – so – a / pre – juí – zo"}, {"id": "B", "texto": "pe – sso – a / pre – juí – zo"}, {"id": "C", "texto": "pes – so – a / pre – ju – í – zo"}, {"id": "D", "texto": "pe – sso – a / pre – ju – í – zo https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 4/9 21/11/2026, 11:13 349 Questões de Provas - Questões de Concursos - Página 18 | Qconcursos.com"}], "resposta_correta": "C", "id": "LP0348", "numero_ordem": 348, "fundamentacao_correta": "Conforme a fonética e fonologia do Português moderno (Cegalla / Rocha Lima), a contagem e distinção entre fonemas, letras, dígrafos (duas letras representando um único som) e encontros consonantais ou vocálicos exigem análise auditiva e articulatória rigorosa. A assertiva [C] ('pes – so – a / pre – ju – í – zo') apresenta a exata correlação fonológico-ortográfica.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta, pois 'pes – so – a / pre – juí – zo' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}, {"letra": "B", "motivo": "Incorreta, pois 'pe – sso – a / pre – juí – zo' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}, {"letra": "D", "motivo": "Incorreta, pois 'pe – sso – a / pre – ju – í – zo https://www.qconc...' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [C]** — *pes – so – a / pre – ju – í – zo*\n\n#### Fundamentação Gramatical:\nConforme a fonética e fonologia do Português moderno (Cegalla / Rocha Lima), a contagem e distinção entre fonemas, letras, dígrafos (duas letras representando um único som) e encontros consonantais ou vocálicos exigem análise auditiva e articulatória rigorosa. A assertiva [C] ('pes – so – a / pre – ju – í – zo') apresenta a exata correlação fonológico-ortográfica.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois 'pes – so – a / pre – juí – zo' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n- **Alternativa [B]:** Incorreta, pois 'pe – sso – a / pre – juí – zo' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n- **Alternativa [D]:** Incorreta, pois 'pe – sso – a / pre – ju – í – zo https://www.qconc...' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n"}, {"codigo_origem": "Q3616690", "numero_original": 412, "banca": "SELECON", "orgao": "Prefeitura de Tapurah - MT", "ano": 2025, "prova": "SELECON - 2025 - Prefeitura de Tapurah - MT - Pedreiro", "cargo": "Pedreiro", "materia": "Língua Portuguesa", "assunto": "Fonologia e Acentuação", "assunto_detalhado": "Fonologia", "enunciado": "... A divisão silábica correta da palavra INSTRUÇÕES é:", "alternativas": [{"id": "A", "texto": "ins – tru – ções"}, {"id": "B", "texto": "in – stru – ções"}, {"id": "C", "texto": "in – stru – çõ – es"}, {"id": "D", "texto": "ins – tru – çõ – es 413 Ano:"}], "resposta_correta": "A", "id": "LP0412", "numero_ordem": 412, "fundamentacao_correta": "Conforme a fonética e fonologia do Português moderno (Cegalla / Rocha Lima), a contagem e distinção entre fonemas, letras, dígrafos (duas letras representando um único som) e encontros consonantais ou vocálicos exigem análise auditiva e articulatória rigorosa. A assertiva [A] ('ins – tru – ções') apresenta a exata correlação fonológico-ortográfica.", "analise_distratores": [{"letra": "B", "motivo": "Incorreta, pois 'in – stru – ções' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}, {"letra": "C", "motivo": "Incorreta, pois 'in – stru – çõ – es' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}, {"letra": "D", "motivo": "Incorreta, pois 'ins – tru – çõ – es 413 Ano:' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [A]** — *ins – tru – ções*\n\n#### Fundamentação Gramatical:\nConforme a fonética e fonologia do Português moderno (Cegalla / Rocha Lima), a contagem e distinção entre fonemas, letras, dígrafos (duas letras representando um único som) e encontros consonantais ou vocálicos exigem análise auditiva e articulatória rigorosa. A assertiva [A] ('ins – tru – ções') apresenta a exata correlação fonológico-ortográfica.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [B]:** Incorreta, pois 'in – stru – ções' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n- **Alternativa [C]:** Incorreta, pois 'in – stru – çõ – es' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n- **Alternativa [D]:** Incorreta, pois 'ins – tru – çõ – es 413 Ano:' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n"}, {"codigo_origem": "Q3109052", "numero_original": 775, "banca": "SELECON", "orgao": "Prefeitura de Sapezal - MT", "ano": 2024, "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Motorista de", "cargo": "Motorista de", "materia": "Língua Portuguesa", "assunto": "Fonologia e Acentuação", "assunto_detalhado": "Fonologia , Divisão Silábica", "enunciado": "Transporte Escolar - Edital nº 2 A palavra POSSÍVEIS é corretamente separada em sílabas da seguinte forma:", "alternativas": [{"id": "A", "texto": "po – ssí – ve - is"}, {"id": "B", "texto": "pos – sí – ve - is"}, {"id": "C", "texto": "pos – sí - veis"}, {"id": "D", "texto": "po – ssí - veis 776 Ano:"}], "resposta_correta": "C", "id": "LP0775", "numero_ordem": 775, "fundamentacao_correta": "Conforme a fonética e fonologia do Português moderno (Cegalla / Rocha Lima), a contagem e distinção entre fonemas, letras, dígrafos (duas letras representando um único som) e encontros consonantais ou vocálicos exigem análise auditiva e articulatória rigorosa. A assertiva [C] ('pos – sí - veis') apresenta a exata correlação fonológico-ortográfica.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta, pois 'po – ssí – ve - is' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}, {"letra": "B", "motivo": "Incorreta, pois 'pos – sí – ve - is' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}, {"letra": "D", "motivo": "Incorreta, pois 'po – ssí - veis 776 Ano:' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [C]** — *pos – sí - veis*\n\n#### Fundamentação Gramatical:\nConforme a fonética e fonologia do Português moderno (Cegalla / Rocha Lima), a contagem e distinção entre fonemas, letras, dígrafos (duas letras representando um único som) e encontros consonantais ou vocálicos exigem análise auditiva e articulatória rigorosa. A assertiva [C] ('pos – sí - veis') apresenta a exata correlação fonológico-ortográfica.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois 'po – ssí – ve - is' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n- **Alternativa [B]:** Incorreta, pois 'pos – sí – ve - is' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n- **Alternativa [D]:** Incorreta, pois 'po – ssí - veis 776 Ano:' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n"}, {"codigo_origem": "Q3109051", "numero_original": 776, "banca": "SELECON", "orgao": "Prefeitura de Sapezal - MT", "ano": 2024, "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Motorista de", "cargo": "Motorista de", "materia": "Língua Portuguesa", "assunto": "Fonologia e Acentuação", "assunto_detalhado": "Fonologia , Sílaba: Monossílabos, Dissílabos, Trissílabos, Polissílabos", "enunciado": "Transporte Escolar - Edital nº 2 A palavra PNEUMONIA é classificada como:", "alternativas": [{"id": "A", "texto": "monossílaba"}, {"id": "B", "texto": "dissílaba"}, {"id": "C", "texto": "trissílaba"}, {"id": "D", "texto": "polissílaba 777 Ano:"}], "resposta_correta": "D", "id": "LP0776", "numero_ordem": 776, "fundamentacao_correta": "Conforme a fonética e fonologia do Português moderno (Cegalla / Rocha Lima), a contagem e distinção entre fonemas, letras, dígrafos (duas letras representando um único som) e encontros consonantais ou vocálicos exigem análise auditiva e articulatória rigorosa. A assertiva [D] ('polissílaba 777 Ano:') apresenta a exata correlação fonológico-ortográfica.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta, pois 'monossílaba' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}, {"letra": "B", "motivo": "Incorreta, pois 'dissílaba' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}, {"letra": "C", "motivo": "Incorreta, pois 'trissílaba' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [D]** — *polissílaba 777 Ano:*\n\n#### Fundamentação Gramatical:\nConforme a fonética e fonologia do Português moderno (Cegalla / Rocha Lima), a contagem e distinção entre fonemas, letras, dígrafos (duas letras representando um único som) e encontros consonantais ou vocálicos exigem análise auditiva e articulatória rigorosa. A assertiva [D] ('polissílaba 777 Ano:') apresenta a exata correlação fonológico-ortográfica.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois 'monossílaba' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n- **Alternativa [B]:** Incorreta, pois 'dissílaba' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n- **Alternativa [C]:** Incorreta, pois 'trissílaba' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n"}, {"codigo_origem": "Q3103177", "numero_original": 811, "banca": "SELECON", "orgao": "Prefeitura de Lucas do Rio Verde - MT", "ano": 2024, "prova": "SELECON - 2024 - Prefeitura de Lucas do Rio Verde -", "cargo": "Geral", "materia": "Língua Portuguesa", "assunto": "Fonologia e Acentuação", "assunto_detalhado": "Fonologia , Divisão Silábica", "enunciado": "MT - Técnico de Infraestrutura - Área Alimentação, Padeiro e Motorista de Transporte Escolar A palavra “quintal” está corretamente separada em sílabas da seguinte forma:", "alternativas": [{"id": "A", "texto": "quin – tal"}, {"id": "B", "texto": "qu – in – tal"}, {"id": "C", "texto": "qui – nt – al"}, {"id": "D", "texto": "qu – int – al https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 4/7 21/11/2026, 11:19 812 Questões de Provas - Questões de Concursos - Página 41 | Qconcursos.com"}], "resposta_correta": "A", "id": "LP0811", "numero_ordem": 811, "fundamentacao_correta": "Conforme a fonética e fonologia do Português moderno (Cegalla / Rocha Lima), a contagem e distinção entre fonemas, letras, dígrafos (duas letras representando um único som) e encontros consonantais ou vocálicos exigem análise auditiva e articulatória rigorosa. A assertiva [A] ('quin – tal') apresenta a exata correlação fonológico-ortográfica.", "analise_distratores": [{"letra": "B", "motivo": "Incorreta, pois 'qu – in – tal' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}, {"letra": "C", "motivo": "Incorreta, pois 'qui – nt – al' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}, {"letra": "D", "motivo": "Incorreta, pois 'qu – int – al https://www.qconcursos.com/questoes-...' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [A]** — *quin – tal*\n\n#### Fundamentação Gramatical:\nConforme a fonética e fonologia do Português moderno (Cegalla / Rocha Lima), a contagem e distinção entre fonemas, letras, dígrafos (duas letras representando um único som) e encontros consonantais ou vocálicos exigem análise auditiva e articulatória rigorosa. A assertiva [A] ('quin – tal') apresenta a exata correlação fonológico-ortográfica.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [B]:** Incorreta, pois 'qu – in – tal' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n- **Alternativa [C]:** Incorreta, pois 'qui – nt – al' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n- **Alternativa [D]:** Incorreta, pois 'qu – int – al https://www.qconcursos.com/questoes-...' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n"}, {"codigo_origem": "Q3065796", "numero_original": 856, "banca": "SELECON", "orgao": "Prefeitura de Cuiabá - MT", "ano": 2024, "prova": "SELECON - 2024 - Prefeitura de Cuiabá - MT - Professor - Ciências", "cargo": "Ciências", "materia": "Língua Portuguesa", "assunto": "Fonologia e Acentuação", "assunto_detalhado": "Fonologia , Encontros consonantais: Dígrafos", "enunciado": "... Leia o texto a seguir: \"Temos que democratizar o acesso ao judiciário\" Os 25 anos de profissão do advogado Marcello Oliveira foram marcados por vitórias e reconhecimento dos seus pares. Ele atuou continuamente na Ordem dos Advogados nos últimos 17 anos, tendo iniciado sua trajetória como presidente da Comissão de Exame de Ordem. Depois, foi diretor-tesoureiro da OABRJ e presidente por dois mandatos da CAARJ, retornando à posição de diretor-tesoureiro da Seccional em 2019. Equilibrado, sensato, Oliveira já foi convocado incontáveis vezes para solucionar problemas em benefício de sua categoria. Sobre o acesso à Justiça pela população, por exemplo, Marcello reconhece que há dificuldades. \"A questão mais crônica é a grande morosidade. O TJRJ é o quarto mais congestionado do país\", disse. [...] Muita gente ainda considera difícil o acesso à Justiça. Qual a sua avaliação quanto ao funcionamento do poder judiciário? Nunca esteve tão difícil. Houve uma queda enorme do número de servidores nos cartórios do TJRJ. Alguns milhares deixaram o serviço público, mas o presidente não renovou o último concurso. Acredita que resolverá todo o problema com inteligência artificial, o que vai apenas desumanizar o serviço público e afastá-lo ainda mais da população. Além disso, há uma clara política não escrita em vigor de reduzir as indenizações concedidas em matéria de direito do consumidor para também desestimular novas demandas, como se isso fizesse os problemas de consumo desaparecerem. A questão mais crônica é a grande morosidade. O TJRJ é o quarto mais congestionado do país. E apesar das autoridades falarem em litigância predatória para se escusarem da responsabilidade, o maior litigante no RJ é o próprio Estado: 49% do acervo do TJRJ de primeiro grau é de execuções fiscais. Fonte: https://odia.ig.com.br/colunas/informe-do-dia/2024/09/6908346-temos-quedemocratizar-o-acesso-ao-judiciario.html. Excertos. Acesso em: 02 set. 2024. Na palavra EQUILIBRADO, há:", "alternativas": [{"id": "A", "texto": "dois dígrafos"}, {"id": "B", "texto": "dois encontros consonantais"}, {"id": "C", "texto": "um hiato e um encontro consonantal"}, {"id": "D", "texto": "um dígrafo e um encontro consonantal https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examinin… 8/10 21/11/2026, 11:20 857 Ano: 2024 Questões de Provas - Questões de Concursos - Página 43 | Qconcursos.com"}], "resposta_correta": "D", "id": "LP0856", "numero_ordem": 856, "fundamentacao_correta": "Conforme a fonética e fonologia do Português moderno (Cegalla / Rocha Lima), a contagem e distinção entre fonemas, letras, dígrafos (duas letras representando um único som) e encontros consonantais ou vocálicos exigem análise auditiva e articulatória rigorosa. A assertiva [D] ('um dígrafo e um encontro consonantal https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examinin… 8/10 21/11/2026, 11:20 857 Ano: 2024 Questões de Provas - Questões de Concursos - Página 43 | Qconcursos.com') apresenta a exata correlação fonológico-ortográfica.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta, pois 'dois dígrafos' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}, {"letra": "B", "motivo": "Incorreta, pois 'dois encontros consonantais' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}, {"letra": "C", "motivo": "Incorreta, pois 'um hiato e um encontro consonantal' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [D]** — *um dígrafo e um encontro consonantal https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examinin… 8/10 21/11/2026, 11:20 857 Ano: 2024 Questões de Provas - Questões de Concursos - Página 43 | Qconcursos.com*\n\n#### Fundamentação Gramatical:\nConforme a fonética e fonologia do Português moderno (Cegalla / Rocha Lima), a contagem e distinção entre fonemas, letras, dígrafos (duas letras representando um único som) e encontros consonantais ou vocálicos exigem análise auditiva e articulatória rigorosa. A assertiva [D] ('um dígrafo e um encontro consonantal https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examinin… 8/10 21/11/2026, 11:20 857 Ano: 2024 Questões de Provas - Questões de Concursos - Página 43 | Qconcursos.com') apresenta a exata correlação fonológico-ortográfica.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois 'dois dígrafos' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n- **Alternativa [B]:** Incorreta, pois 'dois encontros consonantais' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n- **Alternativa [C]:** Incorreta, pois 'um hiato e um encontro consonantal' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n"}, {"codigo_origem": "Q3042371", "numero_original": 859, "banca": "SELECON", "orgao": "IAGRO-MS", "ano": 2024, "prova": "SELECON - 2024 - IAGRO-MS - Fiscal Estadual Agropecuário", "cargo": "Fiscal Estadual Agropecuário", "materia": "Língua Portuguesa", "assunto": "Fonologia e Acentuação", "assunto_detalhado": "Fonologia , Divisão Silábica", "enunciado": "As palavras BRASILEIRAS e PARCERIAS são compostas, respectivamente, de:", "alternativas": [{"id": "A", "texto": "três sílabas e três sílabas"}, {"id": "B", "texto": "quatro sílabas e três sílabas"}, {"id": "C", "texto": "quatro sílabas e quatro sílabas"}, {"id": "D", "texto": "cinco sílabas e quatro sílabas"}, {"id": "E", "texto": "cinco sílabas e cinco sílabas 860 Ano:"}], "resposta_correta": "C", "id": "LP0859", "numero_ordem": 859, "fundamentacao_correta": "Conforme a fonética e fonologia do Português moderno (Cegalla / Rocha Lima), a contagem e distinção entre fonemas, letras, dígrafos (duas letras representando um único som) e encontros consonantais ou vocálicos exigem análise auditiva e articulatória rigorosa. A assertiva [C] ('quatro sílabas e quatro sílabas') apresenta a exata correlação fonológico-ortográfica.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta, pois 'três sílabas e três sílabas' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}, {"letra": "B", "motivo": "Incorreta, pois 'quatro sílabas e três sílabas' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}, {"letra": "D", "motivo": "Incorreta, pois 'cinco sílabas e quatro sílabas' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}, {"letra": "E", "motivo": "Incorreta, pois 'cinco sílabas e cinco sílabas 860 Ano:' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [C]** — *quatro sílabas e quatro sílabas*\n\n#### Fundamentação Gramatical:\nConforme a fonética e fonologia do Português moderno (Cegalla / Rocha Lima), a contagem e distinção entre fonemas, letras, dígrafos (duas letras representando um único som) e encontros consonantais ou vocálicos exigem análise auditiva e articulatória rigorosa. A assertiva [C] ('quatro sílabas e quatro sílabas') apresenta a exata correlação fonológico-ortográfica.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois 'três sílabas e três sílabas' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n- **Alternativa [B]:** Incorreta, pois 'quatro sílabas e três sílabas' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n- **Alternativa [D]:** Incorreta, pois 'cinco sílabas e quatro sílabas' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n- **Alternativa [E]:** Incorreta, pois 'cinco sílabas e cinco sílabas 860 Ano:' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n"}, {"codigo_origem": "Q2473748", "numero_original": 965, "banca": "SELECON", "orgao": "SAD-MS", "ano": 2024, "prova": "SELECON - 2024 - SAD-MS - Costureiro ...", "cargo": "Costureiro", "materia": "Língua Portuguesa", "assunto": "Fonologia e Acentuação", "assunto_detalhado": "Fonologia , Encontros consonantais: Dígrafos", "enunciado": "Há um dígrafo na palavra:", "alternativas": [{"id": "A", "texto": "água"}, {"id": "B", "texto": "açude"}, {"id": "C", "texto": "exceção"}, {"id": "D", "texto": "piscadela"}, {"id": "E", "texto": "problemas 966 Ano:"}], "resposta_correta": "C", "id": "LP0965", "numero_ordem": 965, "fundamentacao_correta": "Conforme a fonética e fonologia do Português moderno (Cegalla / Rocha Lima), a contagem e distinção entre fonemas, letras, dígrafos (duas letras representando um único som) e encontros consonantais ou vocálicos exigem análise auditiva e articulatória rigorosa. A assertiva [C] ('exceção') apresenta a exata correlação fonológico-ortográfica.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta, pois 'água' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}, {"letra": "B", "motivo": "Incorreta, pois 'açude' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}, {"letra": "D", "motivo": "Incorreta, pois 'piscadela' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}, {"letra": "E", "motivo": "Incorreta, pois 'problemas 966 Ano:' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [C]** — *exceção*\n\n#### Fundamentação Gramatical:\nConforme a fonética e fonologia do Português moderno (Cegalla / Rocha Lima), a contagem e distinção entre fonemas, letras, dígrafos (duas letras representando um único som) e encontros consonantais ou vocálicos exigem análise auditiva e articulatória rigorosa. A assertiva [C] ('exceção') apresenta a exata correlação fonológico-ortográfica.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois 'água' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n- **Alternativa [B]:** Incorreta, pois 'açude' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n- **Alternativa [D]:** Incorreta, pois 'piscadela' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n- **Alternativa [E]:** Incorreta, pois 'problemas 966 Ano:' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n"}, {"codigo_origem": "Q2472147", "numero_original": 1002, "banca": "SELECON", "orgao": "SAD-MS", "ano": 2024, "prova": "SELECON - 2024 - SAD-MS - Auxiliar de Serviços Hospitalares", "cargo": "Auxiliar de Serviços Hospitalares", "materia": "Língua Portuguesa", "assunto": "Fonologia e Acentuação", "assunto_detalhado": "Fonologia , Encontros vocálicos: Ditongo, Tritongo, Hiato", "enunciado": "Na palavra “SAÚDE”, há:", "alternativas": [{"id": "A", "texto": "um tritongo"}, {"id": "B", "texto": "um ditongo"}, {"id": "C", "texto": "dois ditongos"}, {"id": "D", "texto": "dois hiatos"}, {"id": "E", "texto": "um hiato https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 1/9 21/11/2026, 11:22 Questões de Provas - Questões de Concursos - Página 51 | Qconcursos.com"}], "resposta_correta": "E", "id": "LP1002", "numero_ordem": 1002, "fundamentacao_correta": "Conforme a fonética e fonologia do Português moderno (Cegalla / Rocha Lima), a contagem e distinção entre fonemas, letras, dígrafos (duas letras representando um único som) e encontros consonantais ou vocálicos exigem análise auditiva e articulatória rigorosa. A assertiva [E] ('um hiato https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 1/9 21/11/2026, 11:22 Questões de Provas - Questões de Concursos - Página 51 | Qconcursos.com') apresenta a exata correlação fonológico-ortográfica.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta, pois 'um tritongo' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}, {"letra": "B", "motivo": "Incorreta, pois 'um ditongo' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}, {"letra": "C", "motivo": "Incorreta, pois 'dois ditongos' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}, {"letra": "D", "motivo": "Incorreta, pois 'dois hiatos' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [E]** — *um hiato https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 1/9 21/11/2026, 11:22 Questões de Provas - Questões de Concursos - Página 51 | Qconcursos.com*\n\n#### Fundamentação Gramatical:\nConforme a fonética e fonologia do Português moderno (Cegalla / Rocha Lima), a contagem e distinção entre fonemas, letras, dígrafos (duas letras representando um único som) e encontros consonantais ou vocálicos exigem análise auditiva e articulatória rigorosa. A assertiva [E] ('um hiato https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 1/9 21/11/2026, 11:22 Questões de Provas - Questões de Concursos - Página 51 | Qconcursos.com') apresenta a exata correlação fonológico-ortográfica.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois 'um tritongo' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n- **Alternativa [B]:** Incorreta, pois 'um ditongo' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n- **Alternativa [C]:** Incorreta, pois 'dois ditongos' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n- **Alternativa [D]:** Incorreta, pois 'dois hiatos' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n"}, {"codigo_origem": "Q2465354", "numero_original": 1082, "banca": "SELECON", "orgao": "SAD-MS", "ano": 2024, "prova": "SELECON - 2024 - SAD-MS - Assistente Social ...", "cargo": "Assistente Social", "materia": "Língua Portuguesa", "assunto": "Fonologia e Acentuação", "assunto_detalhado": "Fonologia , Encontros consonantais: Dígrafos", "enunciado": "Na expressão “doença cardíaca isquêmica”, o segmento destacado é um exemplo de:", "alternativas": [{"id": "A", "texto": "hiato"}, {"id": "B", "texto": "dígrafo"}, {"id": "C", "texto": "ditongo"}, {"id": "D", "texto": "tritongo"}, {"id": "E", "texto": "encontro consonantal https://www.qconcursos.com/questoes-de-concursos/questoes?difficulty%5B%5D=1&difficulty%5B%5D=2&discipline_ids%5B%5D=1&examining… 1/8 21/11/2026, 11:23 1083 Ano: 2024 Questões de Provas - Questões de Concursos - Página 55 | Qconcursos.com"}], "resposta_correta": "B", "id": "LP1082", "numero_ordem": 1082, "fundamentacao_correta": "Conforme a fonética e fonologia do Português moderno (Cegalla / Rocha Lima), a contagem e distinção entre fonemas, letras, dígrafos (duas letras representando um único som) e encontros consonantais ou vocálicos exigem análise auditiva e articulatória rigorosa. A assertiva [B] ('dígrafo') apresenta a exata correlação fonológico-ortográfica.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta, pois 'hiato' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}, {"letra": "C", "motivo": "Incorreta, pois 'ditongo' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}, {"letra": "D", "motivo": "Incorreta, pois 'tritongo' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}, {"letra": "E", "motivo": "Incorreta, pois 'encontro consonantal https://www.qconcursos.com/qu...' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [B]** — *dígrafo*\n\n#### Fundamentação Gramatical:\nConforme a fonética e fonologia do Português moderno (Cegalla / Rocha Lima), a contagem e distinção entre fonemas, letras, dígrafos (duas letras representando um único som) e encontros consonantais ou vocálicos exigem análise auditiva e articulatória rigorosa. A assertiva [B] ('dígrafo') apresenta a exata correlação fonológico-ortográfica.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois 'hiato' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n- **Alternativa [C]:** Incorreta, pois 'ditongo' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n- **Alternativa [D]:** Incorreta, pois 'tritongo' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n- **Alternativa [E]:** Incorreta, pois 'encontro consonantal https://www.qconcursos.com/qu...' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n"}, {"codigo_origem": "Q2353192", "numero_original": 1118, "banca": "SELECON", "orgao": "Prefeitura de Sapezal - MT", "ano": 2024, "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Motorista de", "cargo": "Motorista de", "materia": "Língua Portuguesa", "assunto": "Fonologia e Acentuação", "assunto_detalhado": "Fonologia , Sílaba: Monossílabos, Dissílabos, Trissílabos, Polissílabos", "enunciado": "Quanto ao número de sílabas, a palavra “Venezuela” é:", "alternativas": [{"id": "A", "texto": "monossílaba"}, {"id": "B", "texto": "dissílaba"}, {"id": "C", "texto": "trissílaba"}, {"id": "D", "texto": "polissílaba 1119 Ano:"}], "resposta_correta": "D", "id": "LP1118", "numero_ordem": 1118, "fundamentacao_correta": "Conforme a fonética e fonologia do Português moderno (Cegalla / Rocha Lima), a contagem e distinção entre fonemas, letras, dígrafos (duas letras representando um único som) e encontros consonantais ou vocálicos exigem análise auditiva e articulatória rigorosa. A assertiva [D] ('polissílaba 1119 Ano:') apresenta a exata correlação fonológico-ortográfica.", "analise_distratores": [{"letra": "A", "motivo": "Incorreta, pois 'monossílaba' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}, {"letra": "B", "motivo": "Incorreta, pois 'dissílaba' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}, {"letra": "C", "motivo": "Incorreta, pois 'trissílaba' não encontra respaldo nas regras gramaticais e normativas que balizam a questão."}], "comentario": "### Gabarito Comentado (Banca SELECON)\n\n**Resposta Correta:** **Alternativa [D]** — *polissílaba 1119 Ano:*\n\n#### Fundamentação Gramatical:\nConforme a fonética e fonologia do Português moderno (Cegalla / Rocha Lima), a contagem e distinção entre fonemas, letras, dígrafos (duas letras representando um único som) e encontros consonantais ou vocálicos exigem análise auditiva e articulatória rigorosa. A assertiva [D] ('polissílaba 1119 Ano:') apresenta a exata correlação fonológico-ortográfica.\n\n#### Análise dos Distratores (Por que as outras alternativas estão incorretas?):\n- **Alternativa [A]:** Incorreta, pois 'monossílaba' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n- **Alternativa [B]:** Incorreta, pois 'dissílaba' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n- **Alternativa [C]:** Incorreta, pois 'trissílaba' não encontra respaldo nas regras gramaticais e normativas que balizam a questão.\n"}];
+export const questoes = [
+  {
+    "codigo_origem": "Q3199015",
+    "numero_original": 18,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sinop - MT Prova: SELECON - 2025 - Prefeitura de Sinop - MT - Nível Fundamental (201",
+    "ano": 2025,
+    "prova": "SELECON - 2025 - Prefeitura de Sinop - MT - Nível Fundamental (201",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Fonologia e Acentuação",
+    "enunciado": "e 202) A única frase em que todas as palavras estão corretamente acentuadas é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "A joia foi levada à assembleia dos fiéis."
+      },
+      {
+        "id": "B",
+        "texto": "Todos os que crêem em Deus estão aqui."
+      },
+      {
+        "id": "C",
+        "texto": "Os passageiros sentiram grande enjôo no vôo."
+      },
+      {
+        "id": "D",
+        "texto": "A idéia de levar uma jibóia ao palco foi péssima."
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [A] ('A joia foi levada à assembleia dos fiéis.') traduz a análise fonético-fonológica correta.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Todos os que crêem em Deus estão aqui....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'Os passageiros sentiram grande enjôo no vôo....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'A idéia de levar uma jibóia ao palco foi péssima....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [A] ('A joia foi levada à assembleia dos fiéis.') traduz a análise fonético-fonológica correta.",
+    "id": "PT0418",
+    "numero_ordem": 418,
+    "resposta": "A",
+    "explicacao": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [A] ('A joia foi levada à assembleia dos fiéis.') traduz a análise fonético-fonológica correta."
+  },
+  {
+    "codigo_origem": "Q3135780",
+    "numero_original": 11,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Nova Mutum - MT Prova: SELECON - 2024 - Prefeitura de Nova Mutum - MT -",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Nova Mutum - MT -",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Fonologia e Acentuação",
+    "enunciado": "Fundamental Completo A única palavra que está corretamente acentuada, de acordo com as normas ortográficas vigentes, é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "bênção"
+      },
+      {
+        "id": "B",
+        "texto": "rúbrica"
+      },
+      {
+        "id": "C",
+        "texto": "bonéca"
+      },
+      {
+        "id": "D",
+        "texto": "assembléia"
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [A] ('bênção') traduz a análise fonético-fonológica correta.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'rúbrica...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'bonéca...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'assembléia...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [A] ('bênção') traduz a análise fonético-fonológica correta.",
+    "id": "PT0571",
+    "numero_ordem": 571,
+    "resposta": "A",
+    "explicacao": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [A] ('bênção') traduz a análise fonético-fonológica correta."
+  },
+  {
+    "codigo_origem": "Q3108935",
+    "numero_original": 5,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sapezal - MT Provas: SELECON - 2024 - Prefeitura de Sapezal - MT - Técnico de",
+    "ano": 2024,
+    "prova": "",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Fonologia e Acentuação",
+    "enunciado": "Desenvolvimento Infantil - Edital nº 2 ... Leia o texto a seguir: Seca extrema derruba produtividade de cana e usinas antecipam colheita Levantamento da empresa Centro de Tecnologia Canavieira (CTC) indicou queda de produtividade por hectare na cana-deaçúcar colhida na região centro-sul do país, com média de 69,7 toneladas por hectare (t/ha) em setembro de 2024, em relação ao mesmo mês de 2023, quando houve média de 83,4 t/ha. Nesta semana, a entidade patronal União da Indústria de Cana-de-açúcar e Biotecnologia (Unica) apontou adiantamento da colheita no estado, com 12 unidades finalizando a moagem até a segunda quinzena de outubro. No mesmo período da safra anterior, quatro usinas haviam concluído a moagem. A empresa, que faz monitoramento para o desenvolvimento de tecnologias no setor, observou ganho discreto na qualidade da matéria-prima por meio da medição de Açúcar Total Recuperável (ATR) na safra, ligeiramente acima em 2024, com 136,71 kg por tonelada de cana colhida. A UNICA observou melhoria mais acelerada entre seus associados, com 160,30 kg de ATR por tonelada de cana-de-açúcar este ano contra 149,84 kg por tonelada na safra 2023/2024 – variação positiva de no ano passado. A Unica informou que operaram na primeira quinzena de outubro 255 unidades produtoras na região centro-sul, sendo mesmo período, na safra 23/24, operaram 259 unidades produtoras. A associação mostrou ainda que, na primeira quinzena de outubro, as unidades produtoras da região centro-sul processaram 33,83 milhões de toneladas, enquanto na safra anterior haviam processado 32,93 milhões. O aumento foi de 2,75%. No acumulado da safra 2024/2025 até 16 de outubro, a moagem atingiu 538,85 milhões de toneladas, 2,36% a mais do que os 526,43 milhões de toneladas registrados no mesmo período do ciclo anterior. Especialistas consultados pela Agência Brasil atribuíram o aumento a um adiantamento na colheita, medida usada para evitar perdas maiores na produtividade. Fonte: A palavra PERÍODO é acentuada pela mesma razão da palavra:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "dó"
+      },
+      {
+        "id": "B",
+        "texto": "anão"
+      },
+      {
+        "id": "C",
+        "texto": "tórax"
+      },
+      {
+        "id": "D",
+        "texto": "ônibus"
+      }
+    ],
+    "resposta_correta": "D",
+    "fundamentacao_correta": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [D] ('ônibus') traduz a análise fonético-fonológica correta.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'dó...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'anão...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'tórax...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [D] ('ônibus') traduz a análise fonético-fonológica correta.",
+    "id": "PT0665",
+    "numero_ordem": 665,
+    "resposta": "D",
+    "explicacao": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [D] ('ônibus') traduz a análise fonético-fonológica correta."
+  },
+  {
+    "codigo_origem": "Q3103223",
+    "numero_original": 20,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Lucas do Rio Verde - MT Prova: SELECON - 2024 - Prefeitura de Lucas do Rio Verde -",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Lucas do Rio Verde -",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Fonologia e Acentuação",
+    "enunciado": "Leia o texto a seguir: Reunião Global de Educação pede prioridade no financiamento do setor Representantes de diversos países que participam da Reunião Global de Educação, em Fortaleza (CE), firmaram o compromisso de encorajar um maior investimento em educação tanto a nível nacional, quanto global. Este é um dos pontos do documento final do encontro, a Declaração de Fortaleza. \"O investimento na educação produz muitos benefícios sociais e econômicos a nível individual e social. Aumentar os investimentos na educação não é apenas um imperativo moral, mas também uma necessidade econômica e estratégica para acelerar o progresso no sentido de alcançar todos os ODS [Objetivos de Desenvolvimento Sustentável]\", diz o texto. A reunião, organizada pela Organização das Nações Unidas para a Educação, a Ciência e a Cultura (Unesco), reuniu 51 ministérios, 94 países e mais de 650 participantes, entre os dias 31 de outubro e 1º de novembro. O financiamento da educação em todo o mundo é uma preocupação. O relatório de Monitoramento Global da Educação (GEM) 2024, divulgado nesta quinta-feira (31), na abertura da reunião mostrou que os gastos com educação, em âmbito mundial, caíram em média 0,4 ponto percentual do Produto Interno Bruto (PIB) – soma das riquezas produzidas globalmente. Nos últimos anos, a região da América Latina e Caribe, onde está localizado o Brasil, passou de uma média de investimento de 4,6% do PIB em educação em 2010 para 4,2% em 2022. Fonte: “Nos últimos anos, a região da América Latina e Caribe, onde está localizado o Brasil, passou de uma média de investimento de 4,6% do PIB em educação em 2010 para 4,2% em 2022” (5º parágrafo). Em língua portuguesa, a palavra em destaque é acentuada porque:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "todas as palavras polissílabas são acentuadas"
+      },
+      {
+        "id": "B",
+        "texto": "todas as palavras proparoxítonas são acentuadas"
+      },
+      {
+        "id": "C",
+        "texto": "todas as palavras oxítonas terminadas em -a são acentuadas"
+      },
+      {
+        "id": "D",
+        "texto": "todas as palavras paroxítonas terminadas em -a são acentuadas"
+      }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [B] ('todas as palavras proparoxítonas são acentuadas') traduz a análise fonético-fonológica correta.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'todas as palavras polissílabas são acentuadas...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'todas as palavras oxítonas terminadas em -a são acentuadas...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'todas as palavras paroxítonas terminadas em -a são acentuadas...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [B] ('todas as palavras proparoxítonas são acentuadas') traduz a análise fonético-fonológica correta.",
+    "id": "PT0680",
+    "numero_ordem": 680,
+    "resposta": "B",
+    "explicacao": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [B] ('todas as palavras proparoxítonas são acentuadas') traduz a análise fonético-fonológica correta."
+  },
+  {
+    "codigo_origem": "Q3067450",
+    "numero_original": 8,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Cuiabá - MT Provas: SELECON - 2024 - Prefeitura de Cuiabá - MT - Técnico em",
+    "ano": 2024,
+    "prova": "",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Fonologia e Acentuação",
+    "enunciado": "Nutrição Escolar (Merendeira) ... Leia o texto a seguir: Por que a geração Z e os millennials não atendem mais o telefone \"Olá, esta é a caixa postal de Yasmin Rufo. Por favor, não deixe mensagem, pois não vou ouvir, nem ligar de volta.\" Infelizmente, esta não é a mensagem da minha caixa postal. Mas eu certamente gostaria que fosse, bem como a maior parte dos jovens da geração Z (nascidos entre 1995 e 2010) e dos millennials (nascidos entre 1981 e 1995). Uma pesquisa recente concluiu que 25% das pessoas com 18 a 34 anos de idade nunca atendem o telefone. Os participantes responderam que ignoram o toque, respondem por mensagens de texto ou pesquisam o número online se for desconhecido. A pesquisa do site Uswitch envolveu 2 mil pessoas. Ela também concluiu que cerca de 70% das pessoas com 18 a 34 anos preferem mensagens de texto a chamadas telefônicas. Para as gerações mais velhas, falar ao telefone é normal. Meus pais passaram a adolescência brigando com seus irmãos pelo telefone fixo no corredor, o que só fazia com que toda a família ouvisse as suas conversas. Já a minha adolescência foi passada em mensagens de texto. Fiquei obcecada por elas desde o momento em que ganhei meu Nokia cor-de-rosa de presente de aniversário, com 13 anos de idade. Eu passava todas as noites depois da escola redigindo textos de 160 caracteres para os meus amigos. Eu retirava todas as vogais e espaços desnecessários, até que a mensagem parecesse um grupo de consoantes aleatórias que os próprios serviços de inteligência teriam dificuldade de decifrar. Afinal, eu nunca iria pagar a mais para escrever 161 caracteres. E, em 2009, as ligações telefônicas do meu celular custavam uma fortuna. \"Nós não demos este telefone para você fofocar com suas amigas a noite inteira\", relembravam meus pais sempre que recebiam minha conta telefônica, todos os meses. Foi assim que surgiu uma geração de pessoas que só se comunicam por texto. As ligações por telefone celular eram para emergências e o telefone fixo era usado raramente para falar com os avós. Fonte: De acordo com o Novo Acordo Ortográfico, a única palavra que está corretamente grafada é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "assembleia"
+      },
+      {
+        "id": "B",
+        "texto": "asteróide"
+      },
+      {
+        "id": "C",
+        "texto": "chapeus"
+      },
+      {
+        "id": "D",
+        "texto": "vôo"
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [A] ('assembleia') traduz a análise fonético-fonológica correta.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'asteróide...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'chapeus...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'vôo...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [A] ('assembleia') traduz a análise fonético-fonológica correta.",
+    "id": "PT0728",
+    "numero_ordem": 728,
+    "resposta": "A",
+    "explicacao": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [A] ('assembleia') traduz a análise fonético-fonológica correta."
+  },
+  {
+    "codigo_origem": "Q2484539",
+    "numero_original": 18,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Lucas do Rio Verde - MT Prova: SELECON - 2024 - Prefeitura de Lucas do Rio Verde -",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Lucas do Rio Verde -",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Fonologia e Acentuação",
+    "enunciado": "De acordo com as regras de acentuação gráfica, a palavra classificada como paroxítona é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "título"
+      },
+      {
+        "id": "B",
+        "texto": "sensível"
+      },
+      {
+        "id": "C",
+        "texto": "caracóis"
+      },
+      {
+        "id": "D",
+        "texto": "pedagógica"
+      }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [B] ('sensível') traduz a análise fonético-fonológica correta.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'título...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'caracóis...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'pedagógica...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [B] ('sensível') traduz a análise fonético-fonológica correta.",
+    "id": "PT0818",
+    "numero_ordem": 818,
+    "resposta": "B",
+    "explicacao": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [B] ('sensível') traduz a análise fonético-fonológica correta."
+  },
+  {
+    "codigo_origem": "Q2473748",
+    "numero_original": 5,
+    "banca": "SELECON",
+    "orgao": "SAD-MS Provas: SELECON - 2024 - SAD-MS - Costureiro ...",
+    "ano": 2024,
+    "prova": "",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Fonologia e Acentuação",
+    "enunciado": "Há um dígrafo na palavra:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "água"
+      },
+      {
+        "id": "B",
+        "texto": "açude"
+      },
+      {
+        "id": "C",
+        "texto": "exceção"
+      },
+      {
+        "id": "D",
+        "texto": "piscadela"
+      },
+      {
+        "id": "E",
+        "texto": "problemas"
+      }
+    ],
+    "resposta_correta": "C",
+    "fundamentacao_correta": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [C] ('exceção') traduz a análise fonético-fonológica correta.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'água...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'açude...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'piscadela...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'problemas...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [C] ('exceção') traduz a análise fonético-fonológica correta.",
+    "id": "PT0845",
+    "numero_ordem": 845,
+    "resposta": "C",
+    "explicacao": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [C] ('exceção') traduz a análise fonético-fonológica correta."
+  },
+  {
+    "codigo_origem": "Q2472147",
+    "numero_original": 2,
+    "banca": "SELECON",
+    "orgao": "SAD-MS Prova: SELECON - 2024 - SAD-MS - Auxiliar de Serviços Hospitalares",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - SAD-MS - Auxiliar de Serviços Hospitalares",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Fonologia e Acentuação",
+    "enunciado": "Na palavra “SAÚDE”, há:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "um tritongo"
+      },
+      {
+        "id": "B",
+        "texto": "um ditongo"
+      },
+      {
+        "id": "C",
+        "texto": "dois ditongos"
+      },
+      {
+        "id": "D",
+        "texto": "dois hiatos"
+      },
+      {
+        "id": "E",
+        "texto": "um hiato"
+      }
+    ],
+    "resposta_correta": "E",
+    "fundamentacao_correta": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [E] ('um hiato') traduz a análise fonético-fonológica correta.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'um tritongo...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'um ditongo...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'dois ditongos...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'dois hiatos...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [E] ('um hiato') traduz a análise fonético-fonológica correta.",
+    "id": "PT0901",
+    "numero_ordem": 901,
+    "resposta": "E",
+    "explicacao": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [E] ('um hiato') traduz a análise fonético-fonológica correta."
+  },
+  {
+    "codigo_origem": "Q2468936",
+    "numero_original": 7,
+    "banca": "SELECON",
+    "orgao": "Câmara de Rondonópolis - MT Provas: SELECON - 2024 - Câmara de Rondonópolis - MT -",
+    "ano": 2024,
+    "prova": "",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Fonologia e Acentuação",
+    "enunciado": "Procurador Jurídico ... Em “A missão prevê um voo na cápsula Orion, construída pela Lockheed, ao redor do satélite” (4.º parágrafo), as duas palavras grifadas foram acentuadas porque são:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "proparoxítonas"
+      },
+      {
+        "id": "B",
+        "texto": "paroxítonas terminadas em vogal"
+      },
+      {
+        "id": "C",
+        "texto": "paroxítonas com duas ou mais sílabas"
+      },
+      {
+        "id": "D",
+        "texto": "palavras formadas por três ou mais vogais"
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [A] ('proparoxítonas') traduz a análise fonético-fonológica correta.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'paroxítonas terminadas em vogal...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'paroxítonas com duas ou mais sílabas...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'palavras formadas por três ou mais vogais...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [A] ('proparoxítonas') traduz a análise fonético-fonológica correta.",
+    "id": "PT0946",
+    "numero_ordem": 946,
+    "resposta": "A",
+    "explicacao": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [A] ('proparoxítonas') traduz a análise fonético-fonológica correta."
+  },
+  {
+    "codigo_origem": "Q2465354",
+    "numero_original": 2,
+    "banca": "SELECON",
+    "orgao": "SAD-MS Provas: SELECON - 2024 - SAD-MS - Assistente Social ...",
+    "ano": 2024,
+    "prova": "",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Fonologia e Acentuação",
+    "enunciado": "Na expressão “doença cardíaca isquêmica”, o segmento destacado é um exemplo de:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "hiato"
+      },
+      {
+        "id": "B",
+        "texto": "dígrafo"
+      },
+      {
+        "id": "C",
+        "texto": "ditongo"
+      },
+      {
+        "id": "D",
+        "texto": "tritongo"
+      },
+      {
+        "id": "E",
+        "texto": "encontro consonantal"
+      }
+    ],
+    "resposta_correta": "B",
+    "fundamentacao_correta": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [B] ('dígrafo') traduz a análise fonético-fonológica correta.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'hiato...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'ditongo...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'tritongo...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'encontro consonantal...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [B] ('dígrafo') traduz a análise fonético-fonológica correta.",
+    "id": "PT0981",
+    "numero_ordem": 981,
+    "resposta": "B",
+    "explicacao": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [B] ('dígrafo') traduz a análise fonético-fonológica correta."
+  },
+  {
+    "codigo_origem": "Q2353196",
+    "numero_original": 14,
+    "banca": "SELECON",
+    "orgao": "Prefeitura de Sapezal - MT Prova: SELECON - 2024 - Prefeitura de Sapezal - MT - Motorista de",
+    "ano": 2024,
+    "prova": "SELECON - 2024 - Prefeitura de Sapezal - MT - Motorista de",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Fonologia e Acentuação",
+    "enunciado": "Transporte Escolar A única alternativa que apresenta todas as palavras de acordo com a nova ortografia da língua portuguesa é:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "muçarela, queijo, presunto"
+      },
+      {
+        "id": "B",
+        "texto": "muçarela, quejo, prezunto"
+      },
+      {
+        "id": "C",
+        "texto": "muçarela, quejo, presunto"
+      },
+      {
+        "id": "D",
+        "texto": "muçarela, queijo, prezunto"
+      }
+    ],
+    "resposta_correta": "A",
+    "fundamentacao_correta": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [A] ('muçarela, queijo, presunto') traduz a análise fonético-fonológica correta.",
+    "analise_distratores": [
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'muçarela, quejo, prezunto...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "C",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'muçarela, quejo, presunto...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'muçarela, queijo, prezunto...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [A] ('muçarela, queijo, presunto') traduz a análise fonético-fonológica correta.",
+    "id": "PT1013",
+    "numero_ordem": 1013,
+    "resposta": "A",
+    "explicacao": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [A] ('muçarela, queijo, presunto') traduz a análise fonético-fonológica correta."
+  },
+  {
+    "codigo_origem": "Q2762313",
+    "numero_original": 723,
+    "banca": "FCC",
+    "orgao": "TRT - 11ª Região (AM e RR)",
+    "ano": 2024,
+    "prova": "FCC - 2024 - TRT - 11ª Região (AM e RR) - Técnico",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "materia": "Língua Portuguesa",
+    "assunto": "Fonologia e Acentuação",
+    "enunciado": "Administrativo - Área Administrativa A mesma regra justifica a presença de acento em todas as palavras em:",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "fanático, solitário, científico, cómico."
+      },
+      {
+        "id": "B",
+        "texto": "irlandês, polinésio, congolês, indonésio."
+      },
+      {
+        "id": "C",
+        "texto": "terapêutico, mímica, antepenúltimo, lírico."
+      },
+      {
+        "id": "D",
+        "texto": "cerimônia, descartável. espécie, música."
+      },
+      {
+        "id": "E",
+        "texto": "imundície, horário, melancólico, longínquo. Português > Interpretação de Textos ,"
+      }
+    ],
+    "resposta_correta": "C",
+    "fundamentacao_correta": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [C] ('terapêutico, mímica, antepenúltimo, lírico.') traduz a análise fonético-fonológica correta.",
+    "analise_distratores": [
+      {
+        "letra": "A",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'fanático, solitário, científico, cómico....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "B",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'irlandês, polinésio, congolês, indonésio....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "D",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'cerimônia, descartável. espécie, música....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      },
+      {
+        "letra": "E",
+        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'imundície, horário, melancólico, longínquo. Português > Interpretação de Textos ...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
+      }
+    ],
+    "comentario": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [C] ('terapêutico, mímica, antepenúltimo, lírico.') traduz a análise fonético-fonológica correta.",
+    "id": "FCC_LP0574",
+    "numero_ordem": 574,
+    "resposta": "C",
+    "explicacao": "Na fonologia da língua portuguesa, os encontros vocálicos, dígrafos e relações fonema-grafema determinam a estrutura silábica e a tonicidade da palavra. A alternativa [C] ('terapêutico, mímica, antepenúltimo, lírico.') traduz a análise fonético-fonológica correta."
+  }
+];
+export default questoes;

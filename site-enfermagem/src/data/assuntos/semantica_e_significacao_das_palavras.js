@@ -46,7 +46,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('entusiasmo') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0034",
-    "numero_ordem": 34
+    "numero_ordem": 34,
+    "resposta": "A",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('entusiasmo') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3825045",
@@ -95,7 +97,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('conotativo, porque é usada de forma figurada para expressar a responsabilidade coletiva envolvida') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0050",
-    "numero_ordem": 50
+    "numero_ordem": 50,
+    "resposta": "A",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('conotativo, porque é usada de forma figurada para expressar a responsabilidade coletiva envolvida') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3825042",
@@ -144,7 +148,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('...uma futura mobilidade social é comprometida pela má alimentação...') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0053",
-    "numero_ordem": 53
+    "numero_ordem": 53,
+    "resposta": "A",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('...uma futura mobilidade social é comprometida pela má alimentação...') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3819360",
@@ -193,7 +199,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('metáfora') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0078",
-    "numero_ordem": 78
+    "numero_ordem": 78,
+    "resposta": "A",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('metáfora') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3741945",
@@ -242,7 +250,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('indicar que a pesquisa brasileira é promissora, visto que tem potencial para contribuir com o avanço científico internacional') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0163",
-    "numero_ordem": 163
+    "numero_ordem": 163,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('indicar que a pesquisa brasileira é promissora, visto que tem potencial para contribuir com o avanço científico internacional') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3694459",
@@ -291,7 +301,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('metáfora') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0194",
-    "numero_ordem": 194
+    "numero_ordem": 194,
+    "resposta": "A",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('metáfora') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q4394413",
@@ -340,7 +352,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('chamar o público mato-grossense para a ação') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0211",
-    "numero_ordem": 211
+    "numero_ordem": 211,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('chamar o público mato-grossense para a ação') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3693934",
@@ -389,7 +403,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('Segundo') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0223",
-    "numero_ordem": 223
+    "numero_ordem": 223,
+    "resposta": "C",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('Segundo') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3628196",
@@ -438,7 +454,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('hipérbole') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0232",
-    "numero_ordem": 232
+    "numero_ordem": 232,
+    "resposta": "C",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('hipérbole') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3616691",
@@ -487,7 +505,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('comparativo') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0251",
-    "numero_ordem": 251
+    "numero_ordem": 251,
+    "resposta": "C",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('comparativo') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3498109",
@@ -536,7 +556,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('julgamento') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0282",
-    "numero_ordem": 282
+    "numero_ordem": 282,
+    "resposta": "C",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('julgamento') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3448847",
@@ -585,7 +607,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('Em conformidade com') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0312",
-    "numero_ordem": 312
+    "numero_ordem": 312,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('Em conformidade com') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3448846",
@@ -634,7 +658,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('finalidade') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0313",
-    "numero_ordem": 313
+    "numero_ordem": 313,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('finalidade') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3326041",
@@ -683,7 +709,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('conformidade') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0324",
-    "numero_ordem": 324
+    "numero_ordem": 324,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('conformidade') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3325906",
@@ -732,7 +760,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('finalidade') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0328",
-    "numero_ordem": 328
+    "numero_ordem": 328,
+    "resposta": "C",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('finalidade') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3290408",
@@ -781,7 +811,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('depreciar') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0330",
-    "numero_ordem": 330
+    "numero_ordem": 330,
+    "resposta": "C",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('depreciar') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3289912",
@@ -830,7 +862,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('tempo') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0338",
-    "numero_ordem": 338
+    "numero_ordem": 338,
+    "resposta": "A",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('tempo') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3289911",
@@ -879,7 +913,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('A alegria deve ser para cidadãos e cidadãs deste país.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0339",
-    "numero_ordem": 339
+    "numero_ordem": 339,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('A alegria deve ser para cidadãos e cidadãs deste país.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3289910",
@@ -928,7 +964,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('consequência') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0340",
-    "numero_ordem": 340
+    "numero_ordem": 340,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('consequência') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3288684",
@@ -977,7 +1015,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('inicialmente') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0346",
-    "numero_ordem": 346
+    "numero_ordem": 346,
+    "resposta": "A",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('inicialmente') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3288155",
@@ -1026,56 +1066,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('conclusivo') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0350",
-    "numero_ordem": 350
-  },
-  {
-    "codigo_origem": "Q3285960",
-    "numero_original": 8,
-    "banca": "SELECON",
-    "orgao": "CEFET-RJ Prova: SELECON - 2025 - CEFET-RJ - Cursos Integrados (Produção Cultural/Automação",
-    "ano": 2025,
-    "prova": "SELECON - 2025 - CEFET-RJ - Cursos Integrados (Produção Cultural/Automação",
-    "cargo": "Cargos Diversos (Superior/Médio)",
-    "materia": "Língua Portuguesa",
-    "assunto": "Semântica e Significação das Palavras",
-    "enunciado": "Industrial) Ao analisar a estrutura das palavras destacadas no trecho “Almejam-se o aumento da pena e o endurecimento das condições de cumprimento da pena” (5º parágrafo), em todas o sufixo expressa o sentido de:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "favorecimento de uma ideia"
-      },
-      {
-        "id": "B",
-        "texto": "desenvolvimento de uma ação"
-      },
-      {
-        "id": "C",
-        "texto": "desdobramento de um conceito"
-      },
-      {
-        "id": "D",
-        "texto": "questionamento de uma norma"
-      }
-    ],
-    "resposta_correta": "B",
-    "fundamentacao_correta": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('desenvolvimento de uma ação') preserva o sentido original e a coerência semântica do trecho em análise.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'favorecimento de uma ideia...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'desdobramento de um conceito...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'questionamento de uma norma...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
-      }
-    ],
-    "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('desenvolvimento de uma ação') preserva o sentido original e a coerência semântica do trecho em análise.",
-    "id": "PT0368",
-    "numero_ordem": 368
+    "numero_ordem": 350,
+    "resposta": "C",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('conclusivo') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3248057",
@@ -1132,7 +1125,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('propensas') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0393",
-    "numero_ordem": 393
+    "numero_ordem": 393,
+    "resposta": "C",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('propensas') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3248040",
@@ -1189,7 +1184,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('ambiente inóspito ou situação perigosa') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0408",
-    "numero_ordem": 408
+    "numero_ordem": 408,
+    "resposta": "C",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('ambiente inóspito ou situação perigosa') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q4340296",
@@ -1238,7 +1235,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('Em conformidade com') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0434",
-    "numero_ordem": 434
+    "numero_ordem": 434,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('Em conformidade com') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3197336",
@@ -1287,7 +1286,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('fato e finalidade') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0462",
-    "numero_ordem": 462
+    "numero_ordem": 462,
+    "resposta": "C",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('fato e finalidade') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3196584",
@@ -1336,7 +1337,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('aditivo') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0472",
-    "numero_ordem": 472
+    "numero_ordem": 472,
+    "resposta": "A",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('aditivo') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3174180",
@@ -1385,7 +1388,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('em prol') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0488",
-    "numero_ordem": 488
+    "numero_ordem": 488,
+    "resposta": "A",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('em prol') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3588649",
@@ -1434,7 +1439,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('causa') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0502",
-    "numero_ordem": 502
+    "numero_ordem": 502,
+    "resposta": "C",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('causa') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3581653",
@@ -1483,7 +1490,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('concessivo') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0530",
-    "numero_ordem": 530
+    "numero_ordem": 530,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('concessivo') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3581560",
@@ -1532,7 +1541,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('cerâmica') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0531",
-    "numero_ordem": 531
+    "numero_ordem": 531,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('cerâmica') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3581555",
@@ -1581,7 +1592,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('tempo') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0535",
-    "numero_ordem": 535
+    "numero_ordem": 535,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('tempo') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3398153",
@@ -1630,7 +1643,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('bem') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0557",
-    "numero_ordem": 557
+    "numero_ordem": 557,
+    "resposta": "A",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('bem') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3135778",
@@ -1679,7 +1694,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('indivíduo que executa um solo vocal ou instrumental') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0573",
-    "numero_ordem": 573
+    "numero_ordem": 573,
+    "resposta": "C",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('indivíduo que executa um solo vocal ou instrumental') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3120949",
@@ -1736,7 +1753,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('aborrecido') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0597",
-    "numero_ordem": 597
+    "numero_ordem": 597,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('aborrecido') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3120477",
@@ -1793,7 +1812,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('inofensiva') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0609",
-    "numero_ordem": 609
+    "numero_ordem": 609,
+    "resposta": "E",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('inofensiva') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3120333",
@@ -1850,7 +1871,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('metonímia') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0614",
-    "numero_ordem": 614
+    "numero_ordem": 614,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('metonímia') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3108513",
@@ -1899,105 +1922,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('“Conforme divulgado anteriormente, a investigação constatou que a cadeia de valor de BEVs na China se beneficia de subsídios injustos” (4º parágrafo)') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0671",
-    "numero_ordem": 671
-  },
-  {
-    "codigo_origem": "Q3103223",
-    "numero_original": 20,
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Lucas do Rio Verde - MT Prova: SELECON - 2024 - Prefeitura de Lucas do Rio Verde -",
-    "ano": 2024,
-    "prova": "SELECON - 2024 - Prefeitura de Lucas do Rio Verde -",
-    "cargo": "Cargos Diversos (Superior/Médio)",
-    "materia": "Língua Portuguesa",
-    "assunto": "Semântica e Significação das Palavras",
-    "enunciado": "Leia o texto a seguir: Reunião Global de Educação pede prioridade no financiamento do setor Representantes de diversos países que participam da Reunião Global de Educação, em Fortaleza (CE), firmaram o compromisso de encorajar um maior investimento em educação tanto a nível nacional, quanto global. Este é um dos pontos do documento final do encontro, a Declaração de Fortaleza. \"O investimento na educação produz muitos benefícios sociais e econômicos a nível individual e social. Aumentar os investimentos na educação não é apenas um imperativo moral, mas também uma necessidade econômica e estratégica para acelerar o progresso no sentido de alcançar todos os ODS [Objetivos de Desenvolvimento Sustentável]\", diz o texto. A reunião, organizada pela Organização das Nações Unidas para a Educação, a Ciência e a Cultura (Unesco), reuniu 51 ministérios, 94 países e mais de 650 participantes, entre os dias 31 de outubro e 1º de novembro. O financiamento da educação em todo o mundo é uma preocupação. O relatório de Monitoramento Global da Educação (GEM) 2024, divulgado nesta quinta-feira (31), na abertura da reunião mostrou que os gastos com educação, em âmbito mundial, caíram em média 0,4 ponto percentual do Produto Interno Bruto (PIB) – soma das riquezas produzidas globalmente. Nos últimos anos, a região da América Latina e Caribe, onde está localizado o Brasil, passou de uma média de investimento de 4,6% do PIB em educação em 2010 para 4,2% em 2022. Fonte: “Nos últimos anos, a região da América Latina e Caribe, onde está localizado o Brasil, passou de uma média de investimento de 4,6% do PIB em educação em 2010 para 4,2% em 2022” (5º parágrafo). Em língua portuguesa, a palavra em destaque é acentuada porque:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "todas as palavras polissílabas são acentuadas"
-      },
-      {
-        "id": "B",
-        "texto": "todas as palavras proparoxítonas são acentuadas"
-      },
-      {
-        "id": "C",
-        "texto": "todas as palavras oxítonas terminadas em -a são acentuadas"
-      },
-      {
-        "id": "D",
-        "texto": "todas as palavras paroxítonas terminadas em -a são acentuadas"
-      }
-    ],
-    "resposta_correta": "B",
-    "fundamentacao_correta": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('todas as palavras proparoxítonas são acentuadas') preserva o sentido original e a coerência semântica do trecho em análise.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'todas as palavras polissílabas são acentuadas...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'todas as palavras oxítonas terminadas em -a são acentuadas...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'todas as palavras paroxítonas terminadas em -a são acentuadas...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
-      }
-    ],
-    "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('todas as palavras proparoxítonas são acentuadas') preserva o sentido original e a coerência semântica do trecho em análise.",
-    "id": "PT0680",
-    "numero_ordem": 680
-  },
-  {
-    "codigo_origem": "Q3103222",
-    "numero_original": 1,
-    "banca": "SELECON",
-    "orgao": "Prefeitura de Lucas do Rio Verde - MT Prova: SELECON - 2024 - Prefeitura de Lucas do Rio Verde -",
-    "ano": 2024,
-    "prova": "SELECON - 2024 - Prefeitura de Lucas do Rio Verde -",
-    "cargo": "Cargos Diversos (Superior/Médio)",
-    "materia": "Língua Portuguesa",
-    "assunto": "Semântica e Significação das Palavras",
-    "enunciado": "Leia o texto a seguir: Reunião Global de Educação pede prioridade no financiamento do setor Representantes de diversos países que participam da Reunião Global de Educação, em Fortaleza (CE), firmaram o compromisso de encorajar um maior investimento em educação tanto a nível nacional, quanto global. Este é um dos pontos do documento final do encontro, a Declaração de Fortaleza. \"O investimento na educação produz muitos benefícios sociais e econômicos a nível individual e social. Aumentar os investimentos na educação não é apenas um imperativo moral, mas também uma necessidade econômica e estratégica para acelerar o progresso no sentido de alcançar todos os ODS [Objetivos de Desenvolvimento Sustentável]\", diz o texto. A reunião, organizada pela Organização das Nações Unidas para a Educação, a Ciência e a Cultura (Unesco), reuniu 51 ministérios, 94 países e mais de 650 participantes, entre os dias 31 de outubro e 1º de novembro. O financiamento da educação em todo o mundo é uma preocupação. O relatório de Monitoramento Global da Educação (GEM) 2024, divulgado nesta quinta-feira (31), na abertura da reunião mostrou que os gastos com educação, em âmbito mundial, caíram em média 0,4 ponto percentual do Produto Interno Bruto (PIB) – soma das riquezas produzidas globalmente. Nos últimos anos, a região da América Latina e Caribe, onde está localizado o Brasil, passou de uma média de investimento de 4,6% do PIB em educação em 2010 para 4,2% em 2022. Fonte: Na frase “O financiamento da educação em todo o mundo é uma preocupação” (4º parágrafo), as palavras em destaque são respectivamente classificadas como:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "verbo e verbo"
-      },
-      {
-        "id": "B",
-        "texto": "verbo e substantivo"
-      },
-      {
-        "id": "C",
-        "texto": "substantivo e verbo"
-      },
-      {
-        "id": "D",
-        "texto": "substantivo e substantivo"
-      }
-    ],
-    "resposta_correta": "D",
-    "fundamentacao_correta": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('substantivo e substantivo') preserva o sentido original e a coerência semântica do trecho em análise.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'verbo e verbo...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'verbo e substantivo...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
-      },
-      {
-        "letra": "C",
-        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'substantivo e verbo...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
-      }
-    ],
-    "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('substantivo e substantivo') preserva o sentido original e a coerência semântica do trecho em análise.",
-    "id": "PT0681",
-    "numero_ordem": 681
+    "numero_ordem": 671,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('“Conforme divulgado anteriormente, a investigação constatou que a cadeia de valor de BEVs na China se beneficia de subsídios injustos” (4º parágrafo)') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3103171",
@@ -2046,7 +1973,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('conjunto de objetos sem valor ou serventia') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0697",
-    "numero_ordem": 697
+    "numero_ordem": 697,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('conjunto de objetos sem valor ou serventia') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3096884",
@@ -2095,7 +2024,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('“Bem feito!exclamou o papagaio.Quem mandou ser mais burro que o pobre burro e não compreender que o verdadeiro egoísmo era aliviá-lo da carga em excesso?”') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0705",
-    "numero_ordem": 705
+    "numero_ordem": 705,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('“Bem feito!exclamou o papagaio.Quem mandou ser mais burro que o pobre burro e não compreender que o verdadeiro egoísmo era aliviá-lo da carga em excesso?”') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3096882",
@@ -2144,7 +2075,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('zombou') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0707",
-    "numero_ordem": 707
+    "numero_ordem": 707,
+    "resposta": "A",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('zombou') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3096824",
@@ -2193,7 +2126,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('finalidade') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0714",
-    "numero_ordem": 714
+    "numero_ordem": 714,
+    "resposta": "A",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('finalidade') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3067441",
@@ -2242,7 +2177,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('Esta não é a mensagem da minha caixa postal, mas gostaria que fosse') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0731",
-    "numero_ordem": 731
+    "numero_ordem": 731,
+    "resposta": "C",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('Esta não é a mensagem da minha caixa postal, mas gostaria que fosse') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2537148",
@@ -2291,7 +2228,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('comparação.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0766",
-    "numero_ordem": 766
+    "numero_ordem": 766,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('comparação.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2487812",
@@ -2340,7 +2279,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('“...mas, pelo que me dizem os entendidos...”') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0802",
-    "numero_ordem": 802
+    "numero_ordem": 802,
+    "resposta": "C",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('“...mas, pelo que me dizem os entendidos...”') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2484602",
@@ -2389,7 +2330,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('entretanto') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0811",
-    "numero_ordem": 811
+    "numero_ordem": 811,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('entretanto') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2484597",
@@ -2438,7 +2381,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('“Levo também este cinzeiro.” – 1º parágrafo') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0815",
-    "numero_ordem": 815
+    "numero_ordem": 815,
+    "resposta": "A",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('“Levo também este cinzeiro.” – 1º parágrafo') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2484540",
@@ -2487,7 +2432,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('explicação') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0817",
-    "numero_ordem": 817
+    "numero_ordem": 817,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('explicação') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2472776",
@@ -2536,7 +2483,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('líquido capaz de dissolver substâncias') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0853",
-    "numero_ordem": 853
+    "numero_ordem": 853,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('líquido capaz de dissolver substâncias') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2472772",
@@ -2585,7 +2534,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('protegidos') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0857",
-    "numero_ordem": 857
+    "numero_ordem": 857,
+    "resposta": "C",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('protegidos') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q4325234",
@@ -2634,7 +2585,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('explicação para o fato anteriormente apresentado') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0863",
-    "numero_ordem": 863
+    "numero_ordem": 863,
+    "resposta": "A",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('explicação para o fato anteriormente apresentado') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q4325232",
@@ -2683,7 +2636,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('assumir compromisso com a equipe') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0864",
-    "numero_ordem": 864
+    "numero_ordem": 864,
+    "resposta": "C",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('assumir compromisso com a equipe') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2472008",
@@ -2732,7 +2687,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('concessão e finalidade') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0908",
-    "numero_ordem": 908
+    "numero_ordem": 908,
+    "resposta": "A",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('concessão e finalidade') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2470821",
@@ -2781,7 +2738,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('“exceto se conseguirmos fazer uma delas sem pensar muito”') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0913",
-    "numero_ordem": 913
+    "numero_ordem": 913,
+    "resposta": "A",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('“exceto se conseguirmos fazer uma delas sem pensar muito”') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2470820",
@@ -2830,7 +2789,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('molas') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0914",
-    "numero_ordem": 914
+    "numero_ordem": 914,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('molas') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2470320",
@@ -2879,7 +2840,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('Emmanuel Macron') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0925",
-    "numero_ordem": 925
+    "numero_ordem": 925,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('Emmanuel Macron') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2469355",
@@ -2928,7 +2891,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('Em conformidade com') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0933",
-    "numero_ordem": 933
+    "numero_ordem": 933,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('Em conformidade com') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2469354",
@@ -2977,7 +2942,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('excesso de conteúdos') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0934",
-    "numero_ordem": 934
+    "numero_ordem": 934,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('excesso de conteúdos') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2469352",
@@ -3026,7 +2993,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('hipérbole') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0936",
-    "numero_ordem": 936
+    "numero_ordem": 936,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('hipérbole') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2467081",
@@ -3075,7 +3044,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('temporal') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0960",
-    "numero_ordem": 960
+    "numero_ordem": 960,
+    "resposta": "A",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('temporal') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2466384",
@@ -3124,7 +3095,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('“Conforme a prefeitura da cidade, o elevado volume de chuva ‘ocasionou danos materiais e ambientais, além de prejuízos sociais e econômicos’” (3º parágrafo)') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0974",
-    "numero_ordem": 974
+    "numero_ordem": 974,
+    "resposta": "C",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('“Conforme a prefeitura da cidade, o elevado volume de chuva ‘ocasionou danos materiais e ambientais, além de prejuízos sociais e econômicos’” (3º parágrafo)') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2465350",
@@ -3181,7 +3154,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('denotativa, pois emprega palavras e expressões em seus usos mais objetivos e literais') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT0984",
-    "numero_ordem": 984
+    "numero_ordem": 984,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('denotativa, pois emprega palavras e expressões em seus usos mais objetivos e literais') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2353255",
@@ -3230,7 +3205,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('conformidade') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT1010",
-    "numero_ordem": 1010
+    "numero_ordem": 1010,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('conformidade') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2347873",
@@ -3279,7 +3256,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('concretas ou palpáveis') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT1026",
-    "numero_ordem": 1026
+    "numero_ordem": 1026,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('concretas ou palpáveis') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2347856",
@@ -3328,7 +3307,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('terrenos abandonados') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT1031",
-    "numero_ordem": 1031
+    "numero_ordem": 1031,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('terrenos abandonados') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2347853",
@@ -3377,7 +3358,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('concentrada') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT1033",
-    "numero_ordem": 1033
+    "numero_ordem": 1033,
+    "resposta": "C",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('concentrada') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q4250884",
@@ -3426,7 +3409,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('adição, incorporando uma nova via de dispersão dos poluentes ao raciocínio em curso') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT1051",
-    "numero_ordem": 1051
+    "numero_ordem": 1051,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('adição, incorporando uma nova via de dispersão dos poluentes ao raciocínio em curso') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q4250112",
@@ -3475,7 +3460,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('apresenta informações e avaliações sobre os fatos sem se incluir como participante deles') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT1062",
-    "numero_ordem": 1062
+    "numero_ordem": 1062,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('apresenta informações e avaliações sobre os fatos sem se incluir como participante deles') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q4160340",
@@ -3524,7 +3511,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('denotativo, pois indica o valor de compra de algo') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT1077",
-    "numero_ordem": 1077
+    "numero_ordem": 1077,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('denotativo, pois indica o valor de compra de algo') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q4160178",
@@ -3573,7 +3562,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('hipérbole') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT1083",
-    "numero_ordem": 1083
+    "numero_ordem": 1083,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('hipérbole') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3925454",
@@ -3622,7 +3613,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('A gente sabe como começa, mas não sabe como terminará') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "PT1108",
-    "numero_ordem": 1108
+    "numero_ordem": 1108,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('A gente sabe como começa, mas não sabe como terminará') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3947134",
@@ -3679,7 +3672,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('Fica comigo a memória da memória que era minha (3º parágrafo) = conservo a lembrança do meu modo de lembrar.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0011",
-    "numero_ordem": 11
+    "numero_ordem": 11,
+    "resposta": "A",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('Fica comigo a memória da memória que era minha (3º parágrafo) = conservo a lembrança do meu modo de lembrar.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3916761",
@@ -3736,7 +3731,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('de quem - espera-se que ouça e veja') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0020",
-    "numero_ordem": 20
+    "numero_ordem": 20,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('de quem - espera-se que ouça e veja') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3916755",
@@ -3793,7 +3790,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('o fator que aciona a atividade escritural.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0025",
-    "numero_ordem": 25
+    "numero_ordem": 25,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('o fator que aciona a atividade escritural.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3916743",
@@ -3850,7 +3849,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('possibilitada pela opção que tivéssemos considerado como correta.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0031",
-    "numero_ordem": 31
+    "numero_ordem": 31,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('possibilitada pela opção que tivéssemos considerado como correta.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3916742",
@@ -3907,7 +3908,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('é fácil esbarrar em espectros do passado (4º parágrafo) = é comum confrontar com antigos fantasmas.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0032",
-    "numero_ordem": 32
+    "numero_ordem": 32,
+    "resposta": "E",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('é fácil esbarrar em espectros do passado (4º parágrafo) = é comum confrontar com antigos fantasmas.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3916739",
@@ -3964,7 +3967,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('potencialidade que não foi desenvolvida.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0033",
-    "numero_ordem": 33
+    "numero_ordem": 33,
+    "resposta": "A",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('potencialidade que não foi desenvolvida.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3910518",
@@ -4021,7 +4026,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('ocultas sob os matizes mais encantadores (2º parágrafo) = encobertas pelas mais sedutoras nuances.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0040",
-    "numero_ordem": 40
+    "numero_ordem": 40,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('ocultas sob os matizes mais encantadores (2º parágrafo) = encobertas pelas mais sedutoras nuances.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3888378",
@@ -4078,7 +4085,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('palavras e expressões de movimento e espaço, por meio da figura simbólica da distância como amadurecimento.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0045",
-    "numero_ordem": 45
+    "numero_ordem": 45,
+    "resposta": "C",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('palavras e expressões de movimento e espaço, por meio da figura simbólica da distância como amadurecimento.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3887593",
@@ -4135,7 +4144,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('não desconfiávamos.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0055",
-    "numero_ordem": 55
+    "numero_ordem": 55,
+    "resposta": "A",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('não desconfiávamos.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3883914",
@@ -4192,7 +4203,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('decorre de uma ação construtiva (4ª parágrafo) = resulta de uma atividade fecunda.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0072",
-    "numero_ordem": 72
+    "numero_ordem": 72,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('decorre de uma ação construtiva (4ª parágrafo) = resulta de uma atividade fecunda.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3872136",
@@ -4249,7 +4262,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('para tentar suprir as lacunas (4° parágrafo) = com o intento de fazer frente às vacuidades.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0090",
-    "numero_ordem": 90
+    "numero_ordem": 90,
+    "resposta": "A",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('para tentar suprir as lacunas (4° parágrafo) = com o intento de fazer frente às vacuidades.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3872079",
@@ -4306,7 +4321,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('inevitavelmente.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0102",
-    "numero_ordem": 102
+    "numero_ordem": 102,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('inevitavelmente.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3872073",
@@ -4363,7 +4380,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('Um pequeno passo para a humanidade, um grande passo para um homem. (4º parágrafo)') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0108",
-    "numero_ordem": 108
+    "numero_ordem": 108,
+    "resposta": "C",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('Um pequeno passo para a humanidade, um grande passo para um homem. (4º parágrafo)') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3871973",
@@ -4420,7 +4439,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('um modo de vida em conexão com a natureza (3º parágrafo) = um viver em consonância com a ordem natural.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0114",
-    "numero_ordem": 114
+    "numero_ordem": 114,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('um modo de vida em conexão com a natureza (3º parágrafo) = um viver em consonância com a ordem natural.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3848766",
@@ -4477,7 +4498,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('possibilidade teórica de um futuro um pouco mais gratificante (3º parágrafo) = virtualidade abstrata de um porvir um tanto mais positivo') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0134",
-    "numero_ordem": 134
+    "numero_ordem": 134,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('possibilidade teórica de um futuro um pouco mais gratificante (3º parágrafo) = virtualidade abstrata de um porvir um tanto mais positivo') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3735522",
@@ -4534,7 +4557,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('Nair deixou no ar todas as implicações da duplicidade masculina.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0149",
-    "numero_ordem": 149
+    "numero_ordem": 149,
+    "resposta": "A",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('Nair deixou no ar todas as implicações da duplicidade masculina.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3660482",
@@ -4591,7 +4616,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('sinfonia recursiva e imprevisível (2º parágrafo) expressa a consonância recorrente e surpreendente dos componentes cerebrais.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0152",
-    "numero_ordem": 152
+    "numero_ordem": 152,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('sinfonia recursiva e imprevisível (2º parágrafo) expressa a consonância recorrente e surpreendente dos componentes cerebrais.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3627561",
@@ -4648,7 +4675,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('Quando lhe acusei a contradição (7º parágrafo) = tão logo lhe fiz ver sua discrepância.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0161",
-    "numero_ordem": 161
+    "numero_ordem": 161,
+    "resposta": "A",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('Quando lhe acusei a contradição (7º parágrafo) = tão logo lhe fiz ver sua discrepância.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3538927",
@@ -4705,7 +4734,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('metáfora, ao transfigurar o ciclo vital em deslocamento para o zero.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0176",
-    "numero_ordem": 176
+    "numero_ordem": 176,
+    "resposta": "E",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('metáfora, ao transfigurar o ciclo vital em deslocamento para o zero.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3538925",
@@ -4762,7 +4793,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('a limitação física está associada a uma possibilidade de elevação simbólica.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0178",
-    "numero_ordem": 178
+    "numero_ordem": 178,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('a limitação física está associada a uma possibilidade de elevação simbólica.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3538740",
@@ -4819,7 +4852,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('gama de escolhas sempre limitadas (3º parágrafo) = paleta de opções reduzidas.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0190",
-    "numero_ordem": 190
+    "numero_ordem": 190,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('gama de escolhas sempre limitadas (3º parágrafo) = paleta de opções reduzidas.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q4231733",
@@ -4876,7 +4911,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('o que havemos de atravessar é duvidoso, o que já atravessamos é certo.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0203",
-    "numero_ordem": 203
+    "numero_ordem": 203,
+    "resposta": "E",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('o que havemos de atravessar é duvidoso, o que já atravessamos é certo.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q4231607",
@@ -4933,64 +4970,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('frágil.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0208",
-    "numero_ordem": 208
-  },
-  {
-    "codigo_origem": "Q4231599",
-    "numero_original": 37,
-    "banca": "FCC",
-    "orgao": "TJ-CE",
-    "ano": 2026,
-    "prova": "FCC - 2026 - TJ-CE - Técnico Judiciário - Área Judiciária",
-    "cargo": "Cargos Diversos (Superior/Médio)",
-    "materia": "Língua Portuguesa",
-    "assunto": "Semântica e Significação das Palavras",
-    "enunciado": "Significação Contextual de Palavras e Expressões. Sinônimos e Antônimos. , Noções Gerais de Compreensão e Interpretação de Texto O adjetivo sublinhado está corretamente traduzido pelo que se encontra entre parênteses em:",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "interpretações sutis ou sibilinas (precisas)"
-      },
-      {
-        "id": "B",
-        "texto": "um resultado pífio (grandioso)"
-      },
-      {
-        "id": "C",
-        "texto": "a folha enfadonha (monótona)"
-      },
-      {
-        "id": "D",
-        "texto": "atenção infatigável (cansativa)"
-      },
-      {
-        "id": "E",
-        "texto": "um verbo mais incisivo (ambíguo)"
-      }
-    ],
-    "resposta_correta": "C",
-    "fundamentacao_correta": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('a folha enfadonha (monótona)') preserva o sentido original e a coerência semântica do trecho em análise.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'interpretações sutis ou sibilinas (precisas)...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'um resultado pífio (grandioso)...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'atenção infatigável (cansativa)...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
-      },
-      {
-        "letra": "E",
-        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'um verbo mais incisivo (ambíguo)...' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
-      }
-    ],
-    "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('a folha enfadonha (monótona)') preserva o sentido original e a coerência semântica do trecho em análise.",
-    "id": "FCC_LP0216",
-    "numero_ordem": 216
+    "numero_ordem": 208,
+    "resposta": "C",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('frágil.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3538606",
@@ -5047,7 +5029,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('Que ainda dança a nossa volta.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0222",
-    "numero_ordem": 222
+    "numero_ordem": 222,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('Que ainda dança a nossa volta.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3506104",
@@ -5104,7 +5088,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('as respostas já intentadas na progressão civilizatória simulam afirmar-se como cabíveis, mas não suprimem nossa inquietação essencial.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0240",
-    "numero_ordem": 240
+    "numero_ordem": 240,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('as respostas já intentadas na progressão civilizatória simulam afirmar-se como cabíveis, mas não suprimem nossa inquietação essencial.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3506100",
@@ -5161,7 +5147,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('o risco é nada menos que a estagnação da espécie (3º parágrafo) = a ameaça é precisamente o embotamento do gênero humano.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0243",
-    "numero_ordem": 243
+    "numero_ordem": 243,
+    "resposta": "A",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('o risco é nada menos que a estagnação da espécie (3º parágrafo) = a ameaça é precisamente o embotamento do gênero humano.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3502088",
@@ -5218,7 +5206,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('uma série de conjecturas insólitas (3º parágrafo) = uma sequência de suposições estranhas.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0256",
-    "numero_ordem": 256
+    "numero_ordem": 256,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('uma série de conjecturas insólitas (3º parágrafo) = uma sequência de suposições estranhas.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3468692",
@@ -5275,7 +5265,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('autênticas ressurreições do passado (1° parágrafo)= legítimas ressuscitações do decorrido.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0265",
-    "numero_ordem": 265
+    "numero_ordem": 265,
+    "resposta": "A",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('autênticas ressurreições do passado (1° parágrafo)= legítimas ressuscitações do decorrido.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3445874",
@@ -5332,7 +5324,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('será suficientemente inédito (3º parágrafo) = terá originalidade bastante.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0270",
-    "numero_ordem": 270
+    "numero_ordem": 270,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('será suficientemente inédito (3º parágrafo) = terá originalidade bastante.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3303209",
@@ -5389,7 +5383,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('Ocupando-se mais com o sentido da morte e não com o da vida, o homem não questiona seu respirar.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0308",
-    "numero_ordem": 308
+    "numero_ordem": 308,
+    "resposta": "E",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('Ocupando-se mais com o sentido da morte e não com o da vida, o homem não questiona seu respirar.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3303205",
@@ -5446,7 +5442,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('Essas perguntas fundamentam-se na suposição (2º parágrafo) = tais questões estribam-se na conjectura.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0312",
-    "numero_ordem": 312
+    "numero_ordem": 312,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('Essas perguntas fundamentam-se na suposição (2º parágrafo) = tais questões estribam-se na conjectura.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3295800",
@@ -5503,7 +5501,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('se origine da circunstância - contrário') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0315",
-    "numero_ordem": 315
+    "numero_ordem": 315,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('se origine da circunstância - contrário') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3295798",
@@ -5560,7 +5560,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('combina o aspecto algo risível com o fúnebre.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0317",
-    "numero_ordem": 317
+    "numero_ordem": 317,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('combina o aspecto algo risível com o fúnebre.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3295796",
@@ -5617,7 +5619,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('descansa com uma espécie de humildade (4° parágrafo)') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0319",
-    "numero_ordem": 319
+    "numero_ordem": 319,
+    "resposta": "E",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('descansa com uma espécie de humildade (4° parágrafo)') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3290992",
@@ -5674,7 +5678,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('assimiláveis.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0328",
-    "numero_ordem": 328
+    "numero_ordem": 328,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('assimiláveis.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3290542",
@@ -5731,7 +5737,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('aquele tanto de vago e aquele tanto de preciso (4º parágrafo) = algo da vaguidade e algo da exatidão.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0332",
-    "numero_ordem": 332
+    "numero_ordem": 332,
+    "resposta": "E",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('aquele tanto de vago e aquele tanto de preciso (4º parágrafo) = algo da vaguidade e algo da exatidão.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3288320",
@@ -5788,7 +5796,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('Uma substituição de palavras tradicionais por outras que carregam conotações formais e técnicas.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0340",
-    "numero_ordem": 340
+    "numero_ordem": 340,
+    "resposta": "C",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('Uma substituição de palavras tradicionais por outras que carregam conotações formais e técnicas.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3281713",
@@ -5845,7 +5855,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('Liguei para dois conhecidos, no entanto, nenhum estava em casa. Após tomar um banho e mudar de roupa, saí sozinho, uma vez que perdi há tempos meu caderno de endereços e não encontro a lista de telefone.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0363",
-    "numero_ordem": 363
+    "numero_ordem": 363,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('Liguei para dois conhecidos, no entanto, nenhum estava em casa. Após tomar um banho e mudar de roupa, saí sozinho, uma vez que perdi há tempos meu caderno de endereços e não encontro a lista de telefone.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3281578",
@@ -5902,7 +5914,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('II.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0368",
-    "numero_ordem": 368
+    "numero_ordem": 368,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('II.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3216468",
@@ -5959,7 +5973,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('Obstáculos que surgem inopinadamente (2° paragrafo) = barreiras de súbito deparadas.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0392",
-    "numero_ordem": 392
+    "numero_ordem": 392,
+    "resposta": "E",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('Obstáculos que surgem inopinadamente (2° paragrafo) = barreiras de súbito deparadas.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3216467",
@@ -6016,7 +6032,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('maturidade modesta // medidas radicais. (2° paragrafo)') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0393",
-    "numero_ordem": 393
+    "numero_ordem": 393,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('maturidade modesta // medidas radicais. (2° paragrafo)') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3215698",
@@ -6073,7 +6091,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('Definitivamente, é objetivo da separação dos poderes não dar margem ao exercício da arbitrariedade e do autoritarismo.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0397",
-    "numero_ordem": 397
+    "numero_ordem": 397,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('Definitivamente, é objetivo da separação dos poderes não dar margem ao exercício da arbitrariedade e do autoritarismo.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3215696",
@@ -6130,7 +6150,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('diversidades absolutas II igualdade relativa. (2° parágrafo)') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0398",
-    "numero_ordem": 398
+    "numero_ordem": 398,
+    "resposta": "C",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('diversidades absolutas II igualdade relativa. (2° parágrafo)') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3884586",
@@ -6187,7 +6209,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('Mas você é especula, hein? (1° parágrafo).') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0408",
-    "numero_ordem": 408
+    "numero_ordem": 408,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('Mas você é especula, hein? (1° parágrafo).') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q4221349",
@@ -6244,7 +6268,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('nosso desamparo estrutural (2º parágrafo)') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0416",
-    "numero_ordem": 416
+    "numero_ordem": 416,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('nosso desamparo estrutural (2º parágrafo)') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3737621",
@@ -6301,7 +6327,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('(...) acionava o espelho da minha curiosidade para saber mais coisas.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0437",
-    "numero_ordem": 437
+    "numero_ordem": 437,
+    "resposta": "A",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('(...) acionava o espelho da minha curiosidade para saber mais coisas.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3737346",
@@ -6358,7 +6386,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('O nó da questão não é apenas a dificuldade de formular uma conjectura minimamente plausível (1º parágrafo).') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0443",
-    "numero_ordem": 443
+    "numero_ordem": 443,
+    "resposta": "C",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('O nó da questão não é apenas a dificuldade de formular uma conjectura minimamente plausível (1º parágrafo).') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3737340",
@@ -6415,7 +6445,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('estavam abusando de sua docilidade para fabricar cerâmicas vulgares (1º parágrafo).') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0448",
-    "numero_ordem": 448
+    "numero_ordem": 448,
+    "resposta": "C",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('estavam abusando de sua docilidade para fabricar cerâmicas vulgares (1º parágrafo).') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3550510",
@@ -6472,7 +6504,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('mas ainda não se dilui em treva (6º parágrafo) = mesmo que por ora não se dissolva na escuridão') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0464",
-    "numero_ordem": 464
+    "numero_ordem": 464,
+    "resposta": "E",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('mas ainda não se dilui em treva (6º parágrafo) = mesmo que por ora não se dissolva na escuridão') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3481517",
@@ -6529,7 +6563,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('o que por mim mesma era uma mistura de repulsa e forte autocomiseração.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0473",
-    "numero_ordem": 473
+    "numero_ordem": 473,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('o que por mim mesma era uma mistura de repulsa e forte autocomiseração.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3481514",
@@ -6586,7 +6622,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('base de uma epopeia sensível (3º paragrafo) = fundamento de uma épica emotiva') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0476",
-    "numero_ordem": 476
+    "numero_ordem": 476,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('base de uma epopeia sensível (3º paragrafo) = fundamento de uma épica emotiva') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3171831",
@@ -6643,7 +6681,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('refere-se às características do local citado.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0486",
-    "numero_ordem": 486
+    "numero_ordem": 486,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('refere-se às características do local citado.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3171829",
@@ -6700,7 +6740,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('enfadonho.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0488",
-    "numero_ordem": 488
+    "numero_ordem": 488,
+    "resposta": "E",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('enfadonho.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3171828",
@@ -6757,7 +6799,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('conquanto.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0489",
-    "numero_ordem": 489
+    "numero_ordem": 489,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('conquanto.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3170806",
@@ -6814,7 +6858,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('arrastando-se pela Terra // podemos alcançar as estrelas') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0498",
-    "numero_ordem": 498
+    "numero_ordem": 498,
+    "resposta": "E",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('arrastando-se pela Terra // podemos alcançar as estrelas') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3169904",
@@ -6871,7 +6917,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('imóveis.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0519",
-    "numero_ordem": 519
+    "numero_ordem": 519,
+    "resposta": "E",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('imóveis.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3169896",
@@ -6928,7 +6976,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('exaltar a dimensão transcendental da criação poética.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0527",
-    "numero_ordem": 527
+    "numero_ordem": 527,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('exaltar a dimensão transcendental da criação poética.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2762307",
@@ -6985,7 +7035,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('“muito discutido, ponderado”.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0580",
-    "numero_ordem": 580
+    "numero_ordem": 580,
+    "resposta": "E",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('“muito discutido, ponderado”.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2762305",
@@ -7042,7 +7094,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('Precisamos falar a verdade: a tarefa de adormecer ficava cada vez mais fácil. Um simples pensar em cores e sonos e as pestanas já pesavam. Então era só ligar a televisão e ambos adormeciam.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0582",
-    "numero_ordem": 582
+    "numero_ordem": 582,
+    "resposta": "C",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('Precisamos falar a verdade: a tarefa de adormecer ficava cada vez mais fácil. Um simples pensar em cores e sonos e as pestanas já pesavam. Então era só ligar a televisão e ambos adormeciam.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2575198",
@@ -7099,7 +7153,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('a autora opõe-se à banalização da violência doméstica e afirma que, mesmo com o fim do amor, as mulheres seriam dignas de compaixão.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0591",
-    "numero_ordem": 591
+    "numero_ordem": 591,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('a autora opõe-se à banalização da violência doméstica e afirma que, mesmo com o fim do amor, as mulheres seriam dignas de compaixão.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2575187",
@@ -7156,7 +7212,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('Talvez não seja verdade que, caso a economia não esteja funcionando bem, nós morreremos.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0602",
-    "numero_ordem": 602
+    "numero_ordem": 602,
+    "resposta": "A",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('Talvez não seja verdade que, caso a economia não esteja funcionando bem, nós morreremos.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2564639",
@@ -7213,7 +7271,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('autocomplacência.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0611",
-    "numero_ordem": 611
+    "numero_ordem": 611,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('autocomplacência.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2564451",
@@ -7270,7 +7330,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('é instituída com um zelo quase que fanático (2º parágrafo) = se estabelece com um empenho próximo da obsessão') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0623",
-    "numero_ordem": 623
+    "numero_ordem": 623,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('é instituída com um zelo quase que fanático (2º parágrafo) = se estabelece com um empenho próximo da obsessão') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q4156287",
@@ -7327,7 +7389,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('No centro da concepção de vida pública urbana presente na Paris moderna, estavam as ideias de que o espaço urbano deveria ser franqueado ao uso e usufruto de qualquer pessoa e de que a sociedade de consumo ali existente poderia se tornar acessível a todos.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0638",
-    "numero_ordem": 638
+    "numero_ordem": 638,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('No centro da concepção de vida pública urbana presente na Paris moderna, estavam as ideias de que o espaço urbano deveria ser franqueado ao uso e usufruto de qualquer pessoa e de que a sociedade de consumo ali existente poderia se tornar acessível a todos.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2400420",
@@ -7384,7 +7448,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('a motivação por trás dessas explicações (3º parágrafo) = a causa oculta dessas elucidações') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0675",
-    "numero_ordem": 675
+    "numero_ordem": 675,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('a motivação por trás dessas explicações (3º parágrafo) = a causa oculta dessas elucidações') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q4157389",
@@ -7441,7 +7507,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('O ânimo persuasivo só recrudesce e lança mão das artes e artimanhas da retórica') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0678",
-    "numero_ordem": 678
+    "numero_ordem": 678,
+    "resposta": "A",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('O ânimo persuasivo só recrudesce e lança mão das artes e artimanhas da retórica') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q4157383",
@@ -7498,7 +7566,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('recrudesce = torna-se mais intenso') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0684",
-    "numero_ordem": 684
+    "numero_ordem": 684,
+    "resposta": "E",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('recrudesce = torna-se mais intenso') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2762367",
@@ -7555,7 +7625,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('não obstante.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0692",
-    "numero_ordem": 692
+    "numero_ordem": 692,
+    "resposta": "C",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('não obstante.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2762366",
@@ -7612,7 +7684,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('Justinho tomou como mais um triunfo da burocracia que afinal não passava de um método para pôr ordem no caos, segundo ele. (27º parágrafo)') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0693",
-    "numero_ordem": 693
+    "numero_ordem": 693,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('Justinho tomou como mais um triunfo da burocracia que afinal não passava de um método para pôr ordem no caos, segundo ele. (27º parágrafo)') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2760848",
@@ -7669,7 +7743,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('embuste.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0698",
-    "numero_ordem": 698
+    "numero_ordem": 698,
+    "resposta": "E",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('embuste.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2760843",
@@ -7726,7 +7802,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('a metáfora.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0702",
-    "numero_ordem": 702
+    "numero_ordem": 702,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('a metáfora.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2635527",
@@ -7783,7 +7861,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('Este livro de histórias é o testemunho em que (no qual) tento retratar uma série de situações.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0716",
-    "numero_ordem": 716
+    "numero_ordem": 716,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('Este livro de histórias é o testemunho em que (no qual) tento retratar uma série de situações.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2436553",
@@ -7840,7 +7920,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('o canto intermitente da água (3º parágrafo) = a música intervalada da água.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0748",
-    "numero_ordem": 748
+    "numero_ordem": 748,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('o canto intermitente da água (3º parágrafo) = a música intervalada da água.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2397859",
@@ -7897,7 +7979,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('Quando cheguei o mais próximo que podia, tive um baque') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0765",
-    "numero_ordem": 765
+    "numero_ordem": 765,
+    "resposta": "C",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('Quando cheguei o mais próximo que podia, tive um baque') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2397857",
@@ -7954,7 +8038,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('A chuva já havia voltado com força e eu nem tinha percebido (sequer)') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0767",
-    "numero_ordem": 767
+    "numero_ordem": 767,
+    "resposta": "A",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('A chuva já havia voltado com força e eu nem tinha percebido (sequer)') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2397856",
@@ -8011,7 +8097,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('No scroll infinito de imagens hoje nas nossas telas') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0768",
-    "numero_ordem": 768
+    "numero_ordem": 768,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('No scroll infinito de imagens hoje nas nossas telas') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2384404",
@@ -8068,7 +8156,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('transfiguraram-se em formas rebaixadas de suas aspirações de jovem.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0771",
-    "numero_ordem": 771
+    "numero_ordem": 771,
+    "resposta": "C",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('transfiguraram-se em formas rebaixadas de suas aspirações de jovem.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2288236",
@@ -8125,7 +8215,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('iria começar o degelo (6º parágrafo)') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0787",
-    "numero_ordem": 787
+    "numero_ordem": 787,
+    "resposta": "C",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('iria começar o degelo (6º parágrafo)') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2248991",
@@ -8182,7 +8274,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('\"excitamos a imaginação até o limite do imponderável\" (4º parágrafo) – atiçam a fantasia até o extremo do impalpável.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0796",
-    "numero_ordem": 796
+    "numero_ordem": 796,
+    "resposta": "A",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [A] ('\"excitamos a imaginação até o limite do imponderável\" (4º parágrafo) – atiçam a fantasia até o extremo do impalpável.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2235398",
@@ -8239,7 +8333,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('exceto') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0799",
-    "numero_ordem": 799
+    "numero_ordem": 799,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('exceto') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2173022",
@@ -8296,7 +8392,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('vicejou e progressivamente abriu espaço (3º parágrafo) = fez germinar e gradualmente ampliou-se.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0830",
-    "numero_ordem": 830
+    "numero_ordem": 830,
+    "resposta": "E",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('vicejou e progressivamente abriu espaço (3º parágrafo) = fez germinar e gradualmente ampliou-se.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2173021",
@@ -8353,7 +8451,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('traduzem aspirações distintas e tensionadas em suas implicações históricas.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0831",
-    "numero_ordem": 831
+    "numero_ordem": 831,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('traduzem aspirações distintas e tensionadas em suas implicações históricas.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2155225",
@@ -8410,7 +8510,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('Ele era o principal protagonista da história.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0840",
-    "numero_ordem": 840
+    "numero_ordem": 840,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('Ele era o principal protagonista da história.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2155224",
@@ -8467,7 +8569,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('infalível') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0841",
-    "numero_ordem": 841
+    "numero_ordem": 841,
+    "resposta": "E",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('infalível') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q4092684",
@@ -8524,64 +8628,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('adquirir uma relevância desmedida (1° parágrafo) = ganhar uma importância desmesurada.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0864",
-    "numero_ordem": 864
-  },
-  {
-    "codigo_origem": "Q2155134",
-    "numero_original": 983,
-    "banca": "FCC",
-    "orgao": "Copergás - PE",
-    "ano": 2023,
-    "prova": "",
-    "cargo": "Cargos Diversos (Superior/Médio)",
-    "materia": "Língua Portuguesa",
-    "assunto": "Semântica e Significação das Palavras",
-    "enunciado": "Significação Contextual de Palavras e Expressões. Sinônimos e Antônimos. Provas: FCC - 2023 - Copergás - PE - Analista Administrador ... No 2º parágrafo, o adjetivo “quixotesco”, considerado no contexto em que se insere, traduz-se por",
-    "alternativas": [
-      {
-        "id": "A",
-        "texto": "sagaz."
-      },
-      {
-        "id": "B",
-        "texto": "perverso."
-      },
-      {
-        "id": "C",
-        "texto": "idealista."
-      },
-      {
-        "id": "D",
-        "texto": "autônomo."
-      },
-      {
-        "id": "E",
-        "texto": "indulgente."
-      }
-    ],
-    "resposta_correta": "C",
-    "fundamentacao_correta": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('idealista.') preserva o sentido original e a coerência semântica do trecho em análise.",
-    "analise_distratores": [
-      {
-        "letra": "A",
-        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'sagaz....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
-      },
-      {
-        "letra": "B",
-        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'perverso....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
-      },
-      {
-        "letra": "D",
-        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'autônomo....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
-      },
-      {
-        "letra": "E",
-        "motivo": "Incorreta segundo a norma culta e os critérios da banca examinadora: 'indulgente....' incorre em desvio gramatical, impropriedade lexical ou distorção do sentido do texto original."
-      }
-    ],
-    "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('idealista.') preserva o sentido original e a coerência semântica do trecho em análise.",
-    "id": "FCC_LP0871",
-    "numero_ordem": 871
+    "numero_ordem": 864,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('adquirir uma relevância desmedida (1° parágrafo) = ganhar uma importância desmesurada.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2098892",
@@ -8638,7 +8687,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('Ir ao encalço de poemas com uma caneta consiste numa das formas possíveis de vida.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0874",
-    "numero_ordem": 874
+    "numero_ordem": 874,
+    "resposta": "E",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('Ir ao encalço de poemas com uma caneta consiste numa das formas possíveis de vida.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q2098887",
@@ -8695,7 +8746,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('esquecida por enquanto dos zangões imobiliários (3º parágrafo) = poupada até agora do furor imobiliário.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0879",
-    "numero_ordem": 879
+    "numero_ordem": 879,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('esquecida por enquanto dos zangões imobiliários (3º parágrafo) = poupada até agora do furor imobiliário.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q4091329",
@@ -8752,7 +8805,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('O Houaiss foi o primeiro a abrir a porta (3º parágrafo).') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0890",
-    "numero_ordem": 890
+    "numero_ordem": 890,
+    "resposta": "C",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [C] ('O Houaiss foi o primeiro a abrir a porta (3º parágrafo).') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q4091328",
@@ -8809,7 +8864,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('pronuncie \"récorde\"') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0891",
-    "numero_ordem": 891
+    "numero_ordem": 891,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('pronuncie \"récorde\"') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q4091326",
@@ -8866,7 +8923,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('hipérbole. Português > Interpretação de Textos ,') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0893",
-    "numero_ordem": 893
+    "numero_ordem": 893,
+    "resposta": "E",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [E] ('hipérbole. Português > Interpretação de Textos ,') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q4066781",
@@ -8923,7 +8982,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('mereceria o enfado que ela lhe inspira (4º parágrafo) = faria jus ao tédio que ela lhe incute.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0911",
-    "numero_ordem": 911
+    "numero_ordem": 911,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('mereceria o enfado que ela lhe inspira (4º parágrafo) = faria jus ao tédio que ela lhe incute.') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3964484",
@@ -8980,7 +9041,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('resistência a - hesitação') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0950",
-    "numero_ordem": 950
+    "numero_ordem": 950,
+    "resposta": "B",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [B] ('resistência a - hesitação') preserva o sentido original e a coerência semântica do trecho em análise."
   },
   {
     "codigo_origem": "Q3964476",
@@ -9037,7 +9100,9 @@ export const questoes = [
     ],
     "comentario": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('não garanto que o dono dê conta (5º parágrafo) = não afianço que o proprietário consiga.') preserva o sentido original e a coerência semântica do trecho em análise.",
     "id": "FCC_LP0957",
-    "numero_ordem": 957
+    "numero_ordem": 957,
+    "resposta": "D",
+    "explicacao": "A análise semântica contextual avalia as nuances de sentido, sinonímia, conotação e figuras de linguagem mobilizadas no texto. A alternativa [D] ('não garanto que o dono dê conta (5º parágrafo) = não afianço que o proprietário consiga.') preserva o sentido original e a coerência semântica do trecho em análise."
   }
 ];
 export default questoes;

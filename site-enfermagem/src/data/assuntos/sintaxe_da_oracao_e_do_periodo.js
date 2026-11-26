@@ -46,7 +46,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('concessiva') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "PT0085",
-    "numero_ordem": 85
+    "numero_ordem": 85,
+    "resposta": "B",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('concessiva') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3260881",
@@ -95,7 +97,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('pensamento') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "PT0378",
-    "numero_ordem": 378
+    "numero_ordem": 378,
+    "resposta": "D",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('pensamento') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3248062",
@@ -152,7 +156,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('a plataforma sem moderação de conteúdo') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "PT0389",
-    "numero_ordem": 389
+    "numero_ordem": 389,
+    "resposta": "D",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('a plataforma sem moderação de conteúdo') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3248049",
@@ -209,7 +215,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [C] ('transitivo direto') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "PT0400",
-    "numero_ordem": 400
+    "numero_ordem": 400,
+    "resposta": "C",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [C] ('transitivo direto') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q4341769",
@@ -258,7 +266,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [C] ('referencial') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "PT0425",
-    "numero_ordem": 425
+    "numero_ordem": 425,
+    "resposta": "C",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [C] ('referencial') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3196585",
@@ -307,7 +317,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('transitivo direto') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "PT0471",
-    "numero_ordem": 471
+    "numero_ordem": 471,
+    "resposta": "B",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('transitivo direto') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3584076",
@@ -356,7 +368,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('adjetiva restritiva') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "PT0507",
-    "numero_ordem": 507
+    "numero_ordem": 507,
+    "resposta": "A",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('adjetiva restritiva') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3458321",
@@ -405,7 +419,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('mudar e permanecer o mesmo, adaptar-se à nova rodada de sua vida sem se tornar inteiramente estrangeiro a si mesmo') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "PT0546",
-    "numero_ordem": 546
+    "numero_ordem": 546,
+    "resposta": "B",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('mudar e permanecer o mesmo, adaptar-se à nova rodada de sua vida sem se tornar inteiramente estrangeiro a si mesmo') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3398155",
@@ -454,7 +470,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('transitivo direto') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "PT0555",
-    "numero_ordem": 555
+    "numero_ordem": 555,
+    "resposta": "B",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('transitivo direto') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3109055",
@@ -503,7 +521,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('“As doenças virais atingem quaisquer idades”') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "PT0632",
-    "numero_ordem": 632
+    "numero_ordem": 632,
+    "resposta": "B",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('“As doenças virais atingem quaisquer idades”') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3108582",
@@ -552,7 +572,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('transitivo direto') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "PT0669",
-    "numero_ordem": 669
+    "numero_ordem": 669,
+    "resposta": "B",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('transitivo direto') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3093827",
@@ -601,7 +623,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('adjetiva restritiva') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "PT0719",
-    "numero_ordem": 719
+    "numero_ordem": 719,
+    "resposta": "A",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('adjetiva restritiva') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3093824",
@@ -650,7 +674,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('“essa onda”') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "PT0722",
-    "numero_ordem": 722
+    "numero_ordem": 722,
+    "resposta": "A",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('“essa onda”') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3042369",
@@ -707,7 +733,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('predicativo') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "PT0740",
-    "numero_ordem": 740
+    "numero_ordem": 740,
+    "resposta": "A",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('predicativo') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q2537149",
@@ -756,7 +784,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('O autor do personagem Menino Maluquinho.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "PT0765",
-    "numero_ordem": 765
+    "numero_ordem": 765,
+    "resposta": "D",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('O autor do personagem Menino Maluquinho.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q2467083",
@@ -805,7 +835,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('substantiva objetiva direta') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "PT0958",
-    "numero_ordem": 958
+    "numero_ordem": 958,
+    "resposta": "A",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('substantiva objetiva direta') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q2467080",
@@ -854,7 +886,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('indeterminado') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "PT0961",
-    "numero_ordem": 961
+    "numero_ordem": 961,
+    "resposta": "D",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('indeterminado') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q2465352",
@@ -911,7 +945,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('sujeito') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "PT0982",
-    "numero_ordem": 982
+    "numero_ordem": 982,
+    "resposta": "A",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('sujeito') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q2353193",
@@ -960,7 +996,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('“Os encontros em São Vicente e Granadinas são promovidos pela Comunidade dos Estados Latino-Americanos e Caribenhos (CELAC) e pela Comunidade do Caribe (CARICOM)”.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "PT1016",
-    "numero_ordem": 1016
+    "numero_ordem": 1016,
+    "resposta": "B",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('“Os encontros em São Vicente e Granadinas são promovidos pela Comunidade dos Estados Latino-Americanos e Caribenhos (CELAC) e pela Comunidade do Caribe (CARICOM)”.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q4160339",
@@ -1009,7 +1047,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('pratica a ação indicada pelo verbo') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "PT1078",
-    "numero_ordem": 1078
+    "numero_ordem": 1078,
+    "resposta": "D",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('pratica a ação indicada pelo verbo') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3916789",
@@ -1066,7 +1106,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('a dificuldade de perceber as implicações da falta de familiaridade de muitas pessoas com ideias matemáticas básicas.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0014",
-    "numero_ordem": 14
+    "numero_ordem": 14,
+    "resposta": "B",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('a dificuldade de perceber as implicações da falta de familiaridade de muitas pessoas com ideias matemáticas básicas.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3883917",
@@ -1123,7 +1165,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('A vaidade que a todos nos assalta é dos sentimentos o que mais nos aflige.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0069",
-    "numero_ordem": 69
+    "numero_ordem": 69,
+    "resposta": "D",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('A vaidade que a todos nos assalta é dos sentimentos o que mais nos aflige.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3872082",
@@ -1180,7 +1224,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [E] ('Sobreveio uma infecção (4º parágrafo).') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0099",
-    "numero_ordem": 99
+    "numero_ordem": 99,
+    "resposta": "E",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [E] ('Sobreveio uma infecção (4º parágrafo).') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3872074",
@@ -1237,7 +1283,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [C] ('seria resolvido.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0107",
-    "numero_ordem": 107
+    "numero_ordem": 107,
+    "resposta": "C",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [C] ('seria resolvido.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3871906",
@@ -1294,7 +1342,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('Planejar construções atendendo às condições de sustentabilidade deve constituir uma das prioridades da arquitetura.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0124",
-    "numero_ordem": 124
+    "numero_ordem": 124,
+    "resposta": "B",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('Planejar construções atendendo às condições de sustentabilidade deve constituir uma das prioridades da arquitetura.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3735529",
@@ -1351,7 +1401,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('escancarou-se uma controversa realidade social.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0142",
-    "numero_ordem": 142
+    "numero_ordem": 142,
+    "resposta": "A",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('escancarou-se uma controversa realidade social.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3660476",
@@ -1408,7 +1460,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('Inclui-se entre os hábitos dos cronistas camaradas a possibilidade de virem a se valer de um banco comum de crônicas.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0155",
-    "numero_ordem": 155
+    "numero_ordem": 155,
+    "resposta": "D",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('Inclui-se entre os hábitos dos cronistas camaradas a possibilidade de virem a se valer de um banco comum de crônicas.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3538742",
@@ -1465,7 +1519,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('não é constituída - seja levada') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0188",
-    "numero_ordem": 188
+    "numero_ordem": 188,
+    "resposta": "A",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('não é constituída - seja levada') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3538737",
@@ -1522,7 +1578,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [E] ('As virtudes humanas, a que deveríamos dedicar todaa nossa atenção, vêm sendo confrontadas com os vícios digitais.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0193",
-    "numero_ordem": 193
+    "numero_ordem": 193,
+    "resposta": "E",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [E] ('As virtudes humanas, a que deveríamos dedicar todaa nossa atenção, vêm sendo confrontadas com os vícios digitais.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3538736",
@@ -1579,7 +1637,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('Não se constituem na mecânica de uma programação eletrônica os valores em que se faz reconhecer a nossa humanidade.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0194",
-    "numero_ordem": 194
+    "numero_ordem": 194,
+    "resposta": "D",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('Não se constituem na mecânica de uma programação eletrônica os valores em que se faz reconhecer a nossa humanidade.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q4231736",
@@ -1636,7 +1696,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [E] ('Esse período os ocupados o perdem') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0202",
-    "numero_ordem": 202
+    "numero_ordem": 202,
+    "resposta": "E",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [E] ('Esse período os ocupados o perdem') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q4221355",
@@ -1693,7 +1755,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('Predomina nas artes, na ciência e na vida a faculdade criativa que anima as crianças.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0217",
-    "numero_ordem": 217
+    "numero_ordem": 217,
+    "resposta": "D",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('Predomina nas artes, na ciência e na vida a faculdade criativa que anima as crianças.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3506108",
@@ -1750,7 +1814,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('Correspondem a cada um dos três caminhos tomados pelo homem interrogações próprias do saber a que servem em sua busca.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0237",
-    "numero_ordem": 237
+    "numero_ordem": 237,
+    "resposta": "D",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('Correspondem a cada um dos três caminhos tomados pelo homem interrogações próprias do saber a que servem em sua busca.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3506101",
@@ -1807,7 +1873,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('Não derivam do uso mesmo da IA os presumíveis prejuízos éticos, mas do enamoramento nosso pelas vantagens míticas de seu desempenho.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0242",
-    "numero_ordem": 242
+    "numero_ordem": 242,
+    "resposta": "B",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('Não derivam do uso mesmo da IA os presumíveis prejuízos éticos, mas do enamoramento nosso pelas vantagens míticas de seu desempenho.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3502093",
@@ -1864,7 +1932,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('Em poucos anos se comprovará, talvez, a capacidade de absorverem as máquinas algo da espiritualidade humana.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0254",
-    "numero_ordem": 254
+    "numero_ordem": 254,
+    "resposta": "B",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('Em poucos anos se comprovará, talvez, a capacidade de absorverem as máquinas algo da espiritualidade humana.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3468693",
@@ -1921,7 +1991,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('Imprime-se nas memórias caracterizadas por Bergson a distinção entre suas duas naturezas.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0264",
-    "numero_ordem": 264
+    "numero_ordem": 264,
+    "resposta": "B",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('Imprime-se nas memórias caracterizadas por Bergson a distinção entre suas duas naturezas.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3303210",
@@ -1978,7 +2050,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('Atribui-se a narrativas equivocadas uma verdade que passa a ser consagrada entre os incautos.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0307",
-    "numero_ordem": 307
+    "numero_ordem": 307,
+    "resposta": "B",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('Atribui-se a narrativas equivocadas uma verdade que passa a ser consagrada entre os incautos.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3281727",
@@ -2035,7 +2109,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [E] ('A combinação de variáveis, assim como sua definição, mudam ao longo do tempo. (1° parágrafo)') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0350",
-    "numero_ordem": 350
+    "numero_ordem": 350,
+    "resposta": "E",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [E] ('A combinação de variáveis, assim como sua definição, mudam ao longo do tempo. (1° parágrafo)') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3281723",
@@ -2092,7 +2168,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [E] ('O espaço excessivo ocupado por automóveis, por cuja reordenação se tem lutado, é um problema comum aos grandes centros urbanos.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0354",
-    "numero_ordem": 354
+    "numero_ordem": 354,
+    "resposta": "E",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [E] ('O espaço excessivo ocupado por automóveis, por cuja reordenação se tem lutado, é um problema comum aos grandes centros urbanos.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3216570",
@@ -2149,7 +2227,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('o termo mais intensifica as ações representadas.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0380",
-    "numero_ordem": 380
+    "numero_ordem": 380,
+    "resposta": "A",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('o termo mais intensifica as ações representadas.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3216569",
@@ -2206,7 +2286,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('seja reconsiderada.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0381",
-    "numero_ordem": 381
+    "numero_ordem": 381,
+    "resposta": "B",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('seja reconsiderada.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3216565",
@@ -2263,7 +2345,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [C] ('A escravidão é a cruel instituição de cujo uso a humanidade não se redimiu.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0385",
-    "numero_ordem": 385
+    "numero_ordem": 385,
+    "resposta": "C",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [C] ('A escravidão é a cruel instituição de cujo uso a humanidade não se redimiu.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3216564",
@@ -2320,7 +2404,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [E] ('Diferem as épocas quanto à justificativa da específica violência que as caracteriza.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0386",
-    "numero_ordem": 386
+    "numero_ordem": 386,
+    "resposta": "E",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [E] ('Diferem as épocas quanto à justificativa da específica violência que as caracteriza.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3215694",
@@ -2377,7 +2463,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('pode ser alterada.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0399",
-    "numero_ordem": 399
+    "numero_ordem": 399,
+    "resposta": "A",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('pode ser alterada.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3215693",
@@ -2434,7 +2522,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [C] ('Não foi suficiente passar dois mil e quinhentos anos para que viesse a apagar-se o valor desses dramas.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0400",
-    "numero_ordem": 400
+    "numero_ordem": 400,
+    "resposta": "C",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [C] ('Não foi suficiente passar dois mil e quinhentos anos para que viesse a apagar-se o valor desses dramas.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q4156548",
@@ -2491,7 +2581,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('são proporcionadas.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0431",
-    "numero_ordem": 431
+    "numero_ordem": 431,
+    "resposta": "D",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('são proporcionadas.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3737336",
@@ -2548,7 +2640,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('é inventada.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0452",
-    "numero_ordem": 452
+    "numero_ordem": 452,
+    "resposta": "B",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('é inventada.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3736958",
@@ -2605,7 +2699,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [E] ('Apesar da politica social dos anos 2000 ter propiciado maior consumo de bens e serviços por parte das familias, isso não representou uma mudança na estrutura das desigualdades sociais brasileiras.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0456",
-    "numero_ordem": 456
+    "numero_ordem": 456,
+    "resposta": "E",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [E] ('Apesar da politica social dos anos 2000 ter propiciado maior consumo de bens e serviços por parte das familias, isso não representou uma mudança na estrutura das desigualdades sociais brasileiras.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3736915",
@@ -2662,7 +2758,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [C] ('Iá aparecia alguém que o convidava a ficar com um bonito número.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0458",
-    "numero_ordem": 458
+    "numero_ordem": 458,
+    "resposta": "C",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [C] ('Iá aparecia alguém que o convidava a ficar com um bonito número.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3171820",
@@ -2719,7 +2817,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('a humanidade se arrastou para uma crise existencial.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0496",
-    "numero_ordem": 496
+    "numero_ordem": 496,
+    "resposta": "B",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('a humanidade se arrastou para uma crise existencial.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3170800",
@@ -2776,7 +2876,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('Na escolha do caminho dos jovens pretendem influenciar os algoritmos.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0501",
-    "numero_ordem": 501
+    "numero_ordem": 501,
+    "resposta": "D",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('Na escolha do caminho dos jovens pretendem influenciar os algoritmos.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3170799",
@@ -2833,7 +2935,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [C] ('que seja mantido') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0502",
-    "numero_ordem": 502
+    "numero_ordem": 502,
+    "resposta": "C",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [C] ('que seja mantido') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3170451",
@@ -2890,7 +2994,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [E] ('para reprimir uma dimensão crucial = para que seja reprimida uma dimensão crucial.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0510",
-    "numero_ordem": 510
+    "numero_ordem": 510,
+    "resposta": "E",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [E] ('para reprimir uma dimensão crucial = para que seja reprimida uma dimensão crucial.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3169900",
@@ -2947,7 +3053,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('no qual.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0523",
-    "numero_ordem": 523
+    "numero_ordem": 523,
+    "resposta": "D",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('no qual.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3089867",
@@ -3004,7 +3112,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('Não interessa aos entusiastas da Inteligência Artificial avaliar a experiência que os arrebata.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0553",
-    "numero_ordem": 553
+    "numero_ordem": 553,
+    "resposta": "B",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('Não interessa aos entusiastas da Inteligência Artificial avaliar a experiência que os arrebata.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q2762317",
@@ -3061,7 +3171,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [C] ('Il e llI.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0570",
-    "numero_ordem": 570
+    "numero_ordem": 570,
+    "resposta": "C",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [C] ('Il e llI.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q2564455",
@@ -3118,7 +3230,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [E] ('É admirável o rigoroso zelo a que se obriga aquele cientista no acompanhamento de sua experiência.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0619",
-    "numero_ordem": 619
+    "numero_ordem": 619,
+    "resposta": "E",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [E] ('É admirável o rigoroso zelo a que se obriga aquele cientista no acompanhamento de sua experiência.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q2514716",
@@ -3175,7 +3289,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('Não sei se os presentes compreenderam quanto havia de surpresa, terror e pasmo nos olhos da tartaruga. (2º parágrafo)') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0628",
-    "numero_ordem": 628
+    "numero_ordem": 628,
+    "resposta": "A",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('Não sei se os presentes compreenderam quanto havia de surpresa, terror e pasmo nos olhos da tartaruga. (2º parágrafo)') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q4156298",
@@ -3232,7 +3348,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('Abre-lhe o paletó, o colarinho, a gravata e a cinta.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0634",
-    "numero_ordem": 634
+    "numero_ordem": 634,
+    "resposta": "D",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('Abre-lhe o paletó, o colarinho, a gravata e a cinta.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q4156294",
@@ -3289,7 +3407,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [C] ('A polícia decidiu por chamar o rabecão após constatar que Dario já não apresentava sinais vitais.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0635",
-    "numero_ordem": 635
+    "numero_ordem": 635,
+    "resposta": "C",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [C] ('A polícia decidiu por chamar o rabecão após constatar que Dario já não apresentava sinais vitais.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q2514707",
@@ -3346,7 +3466,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('foi buscado.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0656",
-    "numero_ordem": 656
+    "numero_ordem": 656,
+    "resposta": "B",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('foi buscado.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q2400680",
@@ -3403,7 +3525,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [C] ('Não resta aos cientistas ou religiosos senão tomarem para si o dever de encontrar respostas a todo e qualquer mistério que os intrigue.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0667",
-    "numero_ordem": 667
+    "numero_ordem": 667,
+    "resposta": "C",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [C] ('Não resta aos cientistas ou religiosos senão tomarem para si o dever de encontrar respostas a todo e qualquer mistério que os intrigue.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q2762372",
@@ -3460,7 +3584,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('O Alaor propôs um plebiscito no escritório (7º parágrafo).') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0687",
-    "numero_ordem": 687
+    "numero_ordem": 687,
+    "resposta": "B",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('O Alaor propôs um plebiscito no escritório (7º parágrafo).') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q2705668",
@@ -3517,7 +3643,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('causa.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0711",
-    "numero_ordem": 711
+    "numero_ordem": 711,
+    "resposta": "B",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('causa.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q2635758",
@@ -3574,7 +3702,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('foi iniciada.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0714",
-    "numero_ordem": 714
+    "numero_ordem": 714,
+    "resposta": "A",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('foi iniciada.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q2635522",
@@ -3631,7 +3761,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('são sincronizadas.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0721",
-    "numero_ordem": 721
+    "numero_ordem": 721,
+    "resposta": "B",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('são sincronizadas.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q2436554",
@@ -3688,7 +3820,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('Não se escrevem textos inspirados sem o recurso da visão que nos proporcionam, em cada casa que habitamos, as janelas abertas para a vida.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0747",
-    "numero_ordem": 747
+    "numero_ordem": 747,
+    "resposta": "B",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('Não se escrevem textos inspirados sem o recurso da visão que nos proporcionam, em cada casa que habitamos, as janelas abertas para a vida.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q2397959",
@@ -3745,7 +3879,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('Nem tudo o que podemos conhecer dos fenômenos naturais encontra-se à disposição das técnicas científicas que ora se prestigiam.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0757",
-    "numero_ordem": 757
+    "numero_ordem": 757,
+    "resposta": "B",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('Nem tudo o que podemos conhecer dos fenômenos naturais encontra-se à disposição das técnicas científicas que ora se prestigiam.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q2397861",
@@ -3802,7 +3938,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [C] ('ser chamada.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0763",
-    "numero_ordem": 763
+    "numero_ordem": 763,
+    "resposta": "C",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [C] ('ser chamada.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q2384400",
@@ -3859,7 +3997,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [C] ('Comer pombas ou alvejar gaviões são opções que se apresentam àqueles a quem move a força de bem específicos interesses.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0775",
-    "numero_ordem": 775
+    "numero_ordem": 775,
+    "resposta": "C",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [C] ('Comer pombas ou alvejar gaviões são opções que se apresentam àqueles a quem move a força de bem específicos interesses.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q2288243",
@@ -3916,7 +4056,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('Deus, de repente, chamara o farmacêutico.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0780",
-    "numero_ordem": 780
+    "numero_ordem": 780,
+    "resposta": "D",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('Deus, de repente, chamara o farmacêutico.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q2248996",
@@ -3973,7 +4115,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('\"Sendo desconsiderados os ritos da hospitalidade, há o risco de se perder seu significado.\"') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0791",
-    "numero_ordem": 791
+    "numero_ordem": 791,
+    "resposta": "B",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('\"Sendo desconsiderados os ritos da hospitalidade, há o risco de se perder seu significado.\"') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q2248992",
@@ -4030,7 +4174,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('\"Sempre haverá os que esperam que a passagem dos anos não macule os cenários a que já estivessem habituados.\"') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0795",
-    "numero_ordem": 795
+    "numero_ordem": 795,
+    "resposta": "B",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('\"Sempre haverá os que esperam que a passagem dos anos não macule os cenários a que já estivessem habituados.\"') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q2173474",
@@ -4087,7 +4233,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [C] ('foi cancelado.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0818",
-    "numero_ordem": 818
+    "numero_ordem": 818,
+    "resposta": "C",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [C] ('foi cancelado.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q2173023",
@@ -4144,7 +4292,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('Ao se tratar dos sonhos não se avaliam sempre os traços da dimensão negativa dos sentimentos que neles podem se representar.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0829",
-    "numero_ordem": 829
+    "numero_ordem": 829,
+    "resposta": "A",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('Ao se tratar dos sonhos não se avaliam sempre os traços da dimensão negativa dos sentimentos que neles podem se representar.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q2155226",
@@ -4201,7 +4351,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('I e II.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0839",
-    "numero_ordem": 839
+    "numero_ordem": 839,
+    "resposta": "D",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('I e II.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q2155141",
@@ -4258,7 +4410,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [C] ('Embora possa optar por ser autêntico, o homem acomoda-se à significação exata e formal das palavras e dos gestos.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0844",
-    "numero_ordem": 844
+    "numero_ordem": 844,
+    "resposta": "C",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [C] ('Embora possa optar por ser autêntico, o homem acomoda-se à significação exata e formal das palavras e dos gestos.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q4091331",
@@ -4315,7 +4469,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('foi suprimida.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0868",
-    "numero_ordem": 868
+    "numero_ordem": 868,
+    "resposta": "D",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('foi suprimida.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q2098881",
@@ -4372,7 +4528,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('Não decorrerá das diferenças culturais entre europeus e imigrantes o que há de mais problemático nas migrações?') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0885",
-    "numero_ordem": 885
+    "numero_ordem": 885,
+    "resposta": "A",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('Não decorrerá das diferenças culturais entre europeus e imigrantes o que há de mais problemático nas migrações?') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q4066786",
@@ -4429,7 +4587,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('requerer os préstimos de - se apliquem na questão desta') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0906",
-    "numero_ordem": 906
+    "numero_ordem": 906,
+    "resposta": "A",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('requerer os préstimos de - se apliquem na questão desta') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q4066782",
@@ -4486,7 +4646,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [E] ('Sempre haverá os que querem que o sujeito dos sonhos se submeta a limitações.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0910",
-    "numero_ordem": 910
+    "numero_ordem": 910,
+    "resposta": "E",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [E] ('Sempre haverá os que querem que o sujeito dos sonhos se submeta a limitações.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3976691",
@@ -4543,7 +4705,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('Deriva das argumentações do autor a convicção de que ao tédio cabem operações capazes de resgatar nossas experiências profundas.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0926",
-    "numero_ordem": 926
+    "numero_ordem": 926,
+    "resposta": "B",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [B] ('Deriva das argumentações do autor a convicção de que ao tédio cabem operações capazes de resgatar nossas experiências profundas.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3964478",
@@ -4600,7 +4764,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('O luto da mãe, das tias, das primas, de todos os familiares, não parece ter sensibilizado o menino, que tanto gostaria de ver comemorados os seus oito anos.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0955",
-    "numero_ordem": 955
+    "numero_ordem": 955,
+    "resposta": "A",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [A] ('O luto da mãe, das tias, das primas, de todos os familiares, não parece ter sensibilizado o menino, que tanto gostaria de ver comemorados os seus oito anos.') constrói a estrutura sintática de forma impecável e harmoniosa."
   },
   {
     "codigo_origem": "Q3954798",
@@ -4657,7 +4823,9 @@ export const questoes = [
     ],
     "comentario": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('no sintoma do descontentamento do escritor criativo depois de buscar um nexo intenso entre ele e suas palavras.') constrói a estrutura sintática de forma impecável e harmoniosa.",
     "id": "FCC_LP0964",
-    "numero_ordem": 964
+    "numero_ordem": 964,
+    "resposta": "D",
+    "explicacao": "Na sintaxe da norma-padrão (Evanildo Bechara; Celso Cunha), as relações de regência, concordância verbal/nominal e articulação entre orações devem obedecer às regras cultas da língua sem ambiguidades. A alternativa [D] ('no sintoma do descontentamento do escritor criativo depois de buscar um nexo intenso entre ele e suas palavras.') constrói a estrutura sintática de forma impecável e harmoniosa."
   }
 ];
 export default questoes;
