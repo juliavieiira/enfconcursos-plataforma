@@ -158,7 +158,25 @@ BEGIN
 END;
 $$ LANGUAGE plpgsql STABLE;
 
--- 7. Concessão de Permissões de Acesso às Roles do Supabase (anon, authenticated, service_role)
+-- 7. Função RPC para estatísticas instantâneas do acervo (+20.000 questões)
+CREATE OR REPLACE FUNCTION public.obter_estatisticas_acervo()
+RETURNS TABLE (
+  banca VARCHAR,
+  materia VARCHAR,
+  assunto VARCHAR,
+  cargo VARCHAR,
+  total BIGINT
+) AS $$
+BEGIN
+  RETURN QUERY
+  SELECT q.banca, q.materia, q.assunto, q.cargo, COUNT(*)::BIGINT AS total
+  FROM public.questoes q
+  WHERE q.ativo = TRUE
+  GROUP BY q.banca, q.materia, q.assunto, q.cargo;
+END;
+$$ LANGUAGE plpgsql STABLE;
+
+-- 8. Concessão de Permissões de Acesso às Roles do Supabase (anon, authenticated, service_role)
 GRANT USAGE ON SCHEMA public TO anon, authenticated, service_role;
 GRANT ALL ON ALL TABLES IN SCHEMA public TO anon, authenticated, service_role;
 GRANT ALL ON ALL SEQUENCES IN SCHEMA public TO anon, authenticated, service_role;
@@ -167,5 +185,6 @@ GRANT ALL ON ALL ROUTINES IN SCHEMA public TO anon, authenticated, service_role;
 ALTER DEFAULT PRIVILEGES IN SCHEMA public GRANT ALL ON TABLES TO anon, authenticated, service_role;
 ALTER DEFAULT PRIVILEGES IN SCHEMA public GRANT ALL ON SEQUENCES TO anon, authenticated, service_role;
 ALTER DEFAULT PRIVILEGES IN SCHEMA public GRANT ALL ON ROUTINES TO anon, authenticated, service_role;
+
 
 

@@ -2,7 +2,7 @@ import React, { useState, useRef, useEffect } from 'react';
 import { useAuth } from '../context/useAuth';
 import { User, LogIn, LogOut, Crown, ChevronDown, Sparkles, CheckCircle2, Shield } from 'lucide-react';
 
-export const UserHeaderMenu = () => {
+export const UserHeaderMenu = ({ totalQuestoes = 0 }) => {
   const {
     user,
     profile,
@@ -146,7 +146,11 @@ export const UserHeaderMenu = () => {
                 <Sparkles size={16} color="#f59e0b" />
                 <div className="action-texts">
                   <strong>Assinar Plano VIP PRO</strong>
-                  <span>Desbloqueie todas as 3.884 questões</span>
+                  <span>
+                    {totalQuestoes > 0
+                      ? `Desbloqueie todas as ${totalQuestoes.toLocaleString('pt-BR')} questões`
+                      : 'Desbloqueie acesso ilimitado ao banco'}
+                  </span>
                 </div>
               </button>
             )}

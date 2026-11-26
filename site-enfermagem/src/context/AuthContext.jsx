@@ -14,10 +14,9 @@ export const AuthProvider = ({ children }) => {
   const [modalAuthModo, setModalAuthModo] = useState('login'); // 'login' | 'cadastro' | 'recuperar'
   const [modalUpgradeAberto, setModalUpgradeAberto] = useState(false);
 
-  // Contador diário de questões respondidas (resetado a cada dia civil)
-  const getDailyKey = useCallback(() => {
+  const getDailyKey = useCallback((targetUser = user) => {
     const hoje = new Date().toISOString().split('T')[0];
-    const uid = user ? user.id : 'visitante_anonimo';
+    const uid = targetUser ? targetUser.id : 'visitante_anonimo';
     return `questoes_respondidas_${uid}_${hoje}`;
   }, [user]);
 
@@ -26,12 +25,15 @@ export const AuthProvider = ({ children }) => {
     return parseInt(localStorage.getItem(`questoes_respondidas_visitante_anonimo_${hoje}`) || '0', 10);
   });
 
-  // Carregar perfil do usuário no Supabase
+  // Carregar perfil do usuário no Supabase e sincronizar cota diária
   const carregarPerfil = useCallback(async (authUser) => {
     if (!authUser) {
       setProfile(null);
       return;
     }
+
+    const hoje = new Date().toISOString().split('T')[0];
+    const localCount = parseInt(localStorage.getItem(`questoes_respondidas_${authUser.id}_${hoje}`) || '0', 10);
 
     try {
       const { data, error } = await supabase
@@ -46,8 +48,13 @@ export const AuthProvider = ({ children }) => {
 
       if (data) {
         setProfile(data);
+        // Sincroniza contador diário se último acesso foi hoje
+        const dataUltimo = data.data_ultimo_acesso ? String(data.data_ultimo_acesso).split('T')[0] : null;
+        const dbCountHoje = dataUltimo === hoje ? (Number(data.questoes_respondidas_hoje) || 0) : 0;
+        const countFinal = Math.max(localCount, dbCountHoje);
+        localStorage.setItem(`questoes_respondidas_${authUser.id}_${hoje}`, String(countFinal));
+        setQuestoesRespondidasHoje(countFinal);
       } else {
-        // Perfil padrão caso ainda não exista no banco
         const fallbackProfile = {
           id: authUser.id,
           nome: authUser.user_metadata?.nome || authUser.email.split('@')[0],
@@ -55,12 +62,14 @@ export const AuthProvider = ({ children }) => {
           plano: 'gratuito',
           status: 'ativo',
           limite_diario: LIMITE_GRATUITO_DIARIO,
-          questoes_respondidas_hoje: 0
+          questoes_respondidas_hoje: localCount
         };
         setProfile(fallbackProfile);
+        setQuestoesRespondidasHoje(localCount);
       }
     } catch (err) {
       console.error('Falha ao obter perfil do usuário:', err);
+      setQuestoesRespondidasHoje(localCount);
     }
   }, []);
 
@@ -74,9 +83,6 @@ export const AuthProvider = ({ children }) => {
         if (mounted) {
           if (session?.user) {
             setUser(session.user);
-            const hoje = new Date().toISOString().split('T')[0];
-            const count = parseInt(localStorage.getItem(`questoes_respondidas_${session.user.id}_${hoje}`) || '0', 10);
-            setQuestoesRespondidasHoje(count);
             await carregarPerfil(session.user);
           } else {
             setUser(null);
@@ -92,13 +98,10 @@ export const AuthProvider = ({ children }) => {
 
     initSession();
 
-    const { data: { subscription } } = supabase.auth.onAuthStateChange(async (event, session) => {
+    const { data: { subscription } } = supabase.auth.onAuthStateChange(async (_event, session) => {
       if (!mounted) return;
       if (session?.user) {
         setUser(session.user);
-        const hoje = new Date().toISOString().split('T')[0];
-        const count = parseInt(localStorage.getItem(`questoes_respondidas_${session.user.id}_${hoje}`) || '0', 10);
-        setQuestoesRespondidasHoje(count);
         await carregarPerfil(session.user);
       } else {
         setUser(null);
@@ -116,10 +119,7 @@ export const AuthProvider = ({ children }) => {
     };
   }, [carregarPerfil]);
 
-  // Acesso VIP
   const isVip = Boolean(profile?.plano === 'vip' && profile?.status === 'ativo');
-
-  // Limite e permissão para responder questões
   const limiteDiario = isVip ? Infinity : LIMITE_GRATUITO_DIARIO;
   const questoesRestantesHoje = isVip ? Infinity : Math.max(0, limiteDiario - questoesRespondidasHoje);
 
@@ -128,30 +128,46 @@ export const AuthProvider = ({ children }) => {
     return questoesRespondidasHoje < LIMITE_GRATUITO_DIARIO;
   };
 
-  const registrarResposta = (questaoId, acertou = false) => {
+  // Registra resposta no localStorage e persiste todos os campos obrigatórios no Supabase
+  const registrarResposta = async (questaoOuId, respostaEscolhida, acertou = false) => {
     const key = getDailyKey();
     const novoTotal = questoesRespondidasHoje + 1;
     localStorage.setItem(key, novoTotal.toString());
     setQuestoesRespondidasHoje(novoTotal);
 
-    // Se estiver logado no Supabase, opcionalmente registra resposta no banco
     if (user && isSupabaseConfigured()) {
-      supabase.from('user_answers').insert([{
+      const isObj = questaoOuId && typeof questaoOuId === 'object';
+      const payload = {
         user_id: user.id,
-        questao_id: questaoId,
-        acertou
-      }]).catch(() => {});
+        questao_id: isObj ? questaoOuId.id : String(questaoOuId),
+        banca: isObj ? (questaoOuId.banca || 'SELECON') : 'SELECON',
+        materia: isObj ? (questaoOuId.materia || 'Enfermagem') : 'Enfermagem',
+        assunto: isObj ? (questaoOuId.assunto || 'Geral') : 'Geral',
+        resposta_escolhida: String(respostaEscolhida || ''),
+        resposta_correta: isObj ? (questaoOuId.resposta_correta || '') : '',
+        acertou: Boolean(acertou)
+      };
+
+      try {
+        await supabase.from('user_answers').insert([payload]);
+        await supabase
+          .from('profiles')
+          .update({
+            questoes_respondidas_hoje: novoTotal,
+            data_ultimo_acesso: new Date().toISOString()
+          })
+          .eq('id', user.id);
+      } catch (err) {
+        console.warn('Não foi possível sincronizar histórico no Supabase:', err);
+      }
     }
   };
 
-  // Funções de Autenticação
   const cadastrar = async (nome, email, password) => {
     const { data, error } = await supabase.auth.signUp({
       email,
       password,
-      options: {
-        data: { nome }
-      }
+      options: { data: { nome } }
     });
 
     if (error) throw error;
@@ -163,11 +179,7 @@ export const AuthProvider = ({ children }) => {
   };
 
   const login = async (email, password) => {
-    const { data, error } = await supabase.auth.signInWithPassword({
-      email,
-      password
-    });
-
+    const { data, error } = await supabase.auth.signInWithPassword({ email, password });
     if (error) throw error;
     if (data?.user) {
       setUser(data.user);
@@ -188,7 +200,6 @@ export const AuthProvider = ({ children }) => {
     return data;
   };
 
-  // Função utilitária para testar upgrade/downgrade instantaneamente
   const atualizarPlano = async (novoPlano) => {
     if (!profile) return;
     const atualizado = { ...profile, plano: novoPlano };
@@ -199,7 +210,6 @@ export const AuthProvider = ({ children }) => {
     }
   };
 
-  // Controle de Modais
   const abrirModalAuth = (modo = 'login') => {
     setModalAuthModo(modo);
     setModalAuthAberto(true);

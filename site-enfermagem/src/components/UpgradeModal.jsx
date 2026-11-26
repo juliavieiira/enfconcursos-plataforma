@@ -2,7 +2,7 @@ import React from 'react';
 import { useAuth } from '../context/useAuth';
 import { X, CheckCircle2, Crown, Zap, Sparkles, ShieldCheck, ArrowRight, Lock } from 'lucide-react';
 
-export const UpgradeModal = () => {
+export const UpgradeModal = ({ totalQuestoes = 0 }) => {
   const {
     modalUpgradeAberto,
     fecharModalUpgrade,
@@ -13,6 +13,10 @@ export const UpgradeModal = () => {
   } = useAuth();
 
   if (!modalUpgradeAberto) return null;
+
+  const totalLabel = totalQuestoes > 0
+    ? `${totalQuestoes.toLocaleString('pt-BR')} q. auditadas`
+    : 'acervo completo auditado';
 
   const handleCheckout = () => {
     if (!user) {
@@ -122,7 +126,7 @@ export const UpgradeModal = () => {
             <ul className="plan-features">
               <li>
                 <Zap size={16} className="feat-icon gold" />
-                <strong>Resolução ILIMITADA de questões (3.884 q.)</strong>
+                <strong>Resolução ILIMITADA de questões ({totalLabel})</strong>
               </li>
               <li>
                 <CheckCircle2 size={16} className="feat-icon gold" />

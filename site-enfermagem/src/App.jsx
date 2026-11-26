@@ -1,9 +1,14 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import './App.css';
 import { BANCAS_PRECONFIGURADAS, getInsightPorBanca } from './data/bancasInfo';
-import { ASSUNTOS_PORTUGUES, ASSUNTOS_ENFERMAGEM, questaoPertenceAoAssunto, carregarQuestoesAssunto } from './data/assuntosCatalogo';
-import { getPadraoSalvo } from './data/padraoBancaCatalogo';
-import { SIMULADOS_OFICIAIS } from './data/simuladosData';
+import { ASSUNTOS_PORTUGUES, ASSUNTOS_ENFERMAGEM } from './data/assuntosCatalogo';
+import {
+  buscarQuestoesPaginadas,
+  carregarEstatisticasAcervo,
+  contarPorFiltro,
+  obterRaioXDinamico,
+  gerarSimuladoSupabase
+} from './services/questoesService';
 import {
   Stethoscope,
   BookOpen,
@@ -20,14 +25,16 @@ import {
   ChevronsRight,
   HelpCircle,
   Sparkles,
-  ShieldCheck,
   Zap,
   PieChart,
   BarChart3,
   Lightbulb,
   Target,
   Building2,
-  RotateCcw
+  RotateCcw,
+  Crown,
+  Lock,
+  RefreshCw
 } from 'lucide-react';
 import { useAuth } from './context/useAuth.js';
 import UserHeaderMenu from './components/UserHeaderMenu.jsx';
@@ -36,61 +43,152 @@ import UpgradeModal from './components/UpgradeModal.jsx';
 import TextoEnunciado from './components/TextoEnunciado.jsx';
 
 const CURRENT_YEAR = new Date().getFullYear();
+const PAGE_SIZE = 20;
+
+const SIMULADOS_CATALOGO = [
+  {
+    numero: 1,
+    tituloBase: 'Simulado Oficial #01 - Prova Completa',
+    subtituloBase: '60 questões reais sorteadas no padrão estatístico da banca (20 Português + 40 Enfermagem)',
+    exclusivoVip: false
+  },
+  {
+    numero: 2,
+    tituloBase: 'Simulado Oficial #02 - Prova Inédita',
+    subtituloBase: 'Nova bateria de 60 questões cronometradas com foco nas pegadinhas mais cobradas',
+    exclusivoVip: true
+  }
+];
 
 export default function App() {
   const [activeTab, setActiveTab] = useState('questoes'); // 'questoes', 'padrao', 'simulados'
 
-  // Navegação individual focada (1 questão por vez)
+  // Estatísticas em tempo real do Supabase (atualizam automaticamente para +20.000 questões)
+  const [statsAcervo, setStatsAcervo] = useState(null);
+
+  useEffect(() => {
+    let ativo = true;
+    carregarEstatisticasAcervo()
+      .then(res => {
+        if (ativo) setStatsAcervo(res);
+      })
+      .catch(err => console.error('Erro ao carregar estatísticas do Supabase:', err));
+    return () => { ativo = false; };
+  }, []);
+
+  const totalGeralAcervo = statsAcervo?.totalGeral || 0;
+
+  // Navegação individual focada (1 questão por vez com paginação server-side)
   const [questaoIndex, setQuestaoIndex] = useState(0);
   const [puloInput, setPuloInput] = useState('');
 
   // Filtros - Padrão direto na banca SELECON e no tema principal de Enfermagem
   const [buscaTexto, setBuscaTexto] = useState('');
+  const [buscaDebounced, setBuscaDebounced] = useState('');
   const [filtroBanca, setFiltroBanca] = useState('SELECON');
   const [filtroCargo, setFiltroCargo] = useState('Todos');
   const [filtroMateria, setFiltroMateria] = useState('Enfermagem');
-  const [filtroAssunto, setFiltroAssunto] = useState('Fundamentos e Procedimentos de Enfermagem');
+  const [filtroAssunto, setFiltroAssunto] = useState('Todos');
 
-  const chaveFiltroAtual = `${filtroMateria}::${filtroAssunto}`;
-  const [dadosCarregados, setDadosCarregados] = useState({ chave: '', itens: [] });
-  const carregandoDados = dadosCarregados.chave !== chaveFiltroAtual;
-  const questoes = dadosCarregados.itens;
+  // Debounce da busca textual (evita disparar consulta a cada tecla)
+  useEffect(() => {
+    const t = setTimeout(() => {
+      setBuscaDebounced(buscaTexto);
+      setQuestaoIndex(0);
+    }, 350);
+    return () => clearTimeout(t);
+  }, [buscaTexto]);
 
-  // Carregamento sob demanda ultra-leve: carrega apenas as questões do assunto selecionado
+  const paginaAtual = Math.floor(questaoIndex / PAGE_SIZE);
+  const offsetNaPagina = questaoIndex % PAGE_SIZE;
+
+  const [paginaDados, setPaginaDados] = useState({
+    chave: '',
+    itens: [],
+    total: 0,
+    erro: null
+  });
+  const [retryToken, setRetryToken] = useState(0);
+
+  const chaveConsultaAtual = JSON.stringify({
+    banca: filtroBanca,
+    cargo: filtroMateria === 'Língua Portuguesa' ? 'Todos' : filtroCargo,
+    materia: filtroMateria,
+    assunto: filtroAssunto,
+    busca: buscaDebounced,
+    pagina: paginaAtual,
+    retry: retryToken
+  });
+
+  const carregandoDados = paginaDados.chave !== chaveConsultaAtual;
+
+  // Consulta 100% server-side no Supabase com paginação escalável (+20.000 questões)
   useEffect(() => {
     let ativo = true;
-    const chave = `${filtroMateria}::${filtroAssunto}`;
+    const cargoEfetivo = filtroMateria === 'Língua Portuguesa' ? 'Todos' : filtroCargo;
 
-    carregarQuestoesAssunto(filtroMateria, filtroAssunto)
-      .then(data => {
-        if (ativo) {
-          setDadosCarregados({
-            chave,
-            itens: Array.isArray(data) ? data : []
-          });
-          setQuestaoIndex(0);
+    buscarQuestoesPaginadas({
+      banca: filtroBanca,
+      cargo: cargoEfetivo,
+      materia: filtroMateria,
+      assunto: filtroAssunto,
+      busca: buscaDebounced,
+      pagina: paginaAtual,
+      tamanhoPagina: PAGE_SIZE
+    })
+      .then(res => {
+        if (!ativo) return;
+        setPaginaDados({
+          chave: chaveConsultaAtual,
+          itens: res.itens,
+          total: res.total,
+          erro: null
+        });
+
+        // Prefetch silencioso da próxima página quando o aluno se aproxima do fim da página atual
+        const totalPaginas = Math.ceil(res.total / PAGE_SIZE);
+        if (paginaAtual + 1 < totalPaginas) {
+          buscarQuestoesPaginadas({
+            banca: filtroBanca,
+            cargo: cargoEfetivo,
+            materia: filtroMateria,
+            assunto: filtroAssunto,
+            busca: buscaDebounced,
+            pagina: paginaAtual + 1,
+            tamanhoPagina: PAGE_SIZE
+          }).catch(() => {});
         }
       })
       .catch(err => {
-        console.error('Erro ao carregar questões do assunto:', err);
-        if (ativo) {
-          setDadosCarregados({ chave, itens: [] });
-        }
+        if (!ativo) return;
+        console.error('Erro ao buscar questões no Supabase:', err);
+        setPaginaDados({
+          chave: chaveConsultaAtual,
+          itens: [],
+          total: 0,
+          erro: err.message || 'Não foi possível conectar ao banco de dados.'
+        });
       });
 
     return () => { ativo = false; };
-  }, [filtroMateria, filtroAssunto]);
+  }, [chaveConsultaAtual, filtroBanca, filtroCargo, filtroMateria, filtroAssunto, buscaDebounced, paginaAtual]);
+
+  const totalFiltradas = paginaDados.total;
+  const safeIndex = totalFiltradas > 0 ? Math.min(Math.max(0, questaoIndex), totalFiltradas - 1) : 0;
+  const questaoAtual = !carregandoDados && paginaDados.itens[offsetNaPagina] ? paginaDados.itens[offsetNaPagina] : null;
 
   // Estado das respostas do usuário na aba questões
-  const [respostas, setRespostas] = useState({}); // { [questionId]: { selecionada: 'A', confirmada: true, acertou: true } }
+  const [respostas, setRespostas] = useState({});
 
-  // Estado do Simulado
+  // Estado do Simulado (gerado em tempo real do Supabase)
   const [simuladoAtivo, setSimuladoAtivo] = useState(null);
+  const [carregandoSimulado, setCarregandoSimulado] = useState(false);
+  const [erroSimulado, setErroSimulado] = useState(null);
   const [simuladoIndex, setSimuladoIndex] = useState(0);
   const [simuladoRespostas, setSimuladoRespostas] = useState({});
   const [tempoRestante, setTempoRestante] = useState(10800);
   const [simuladoFinalizado, setSimuladoFinalizado] = useState(false);
-  const [filtroRevisaoSimulado, setFiltroRevisaoSimulado] = useState('todas'); // 'todas', 'erros', 'acertos'
+  const [filtroRevisaoSimulado, setFiltroRevisaoSimulado] = useState('todas');
   const [simuladoBanca, setSimuladoBanca] = useState('SELECON');
   const [simuladoBancaDropdownAberto, setSimuladoBancaDropdownAberto] = useState(false);
 
@@ -107,10 +205,9 @@ export default function App() {
 
   const nomeAssuntoAtivo = filtroAssunto !== 'Todos' ? filtroAssunto : null;
 
-  // Aba Padrão da Banca / Raio-X
-  const [padraoMateria, setPadraoMateria] = useState('Todas'); // 'Todas', 'Língua Portuguesa', 'Enfermagem'
-  const [padraoCargo, setPadraoCargo] = useState('Todos'); // 'Todos'
-  const [padraoBanca, setPadraoBanca] = useState('SELECON'); // 'Todas', 'SELECON', etc.
+  // Aba Padrão da Banca / Raio-X (100% dinâmico a partir do Supabase)
+  const [padraoMateria, setPadraoMateria] = useState('Todas');
+  const [padraoBanca, setPadraoBanca] = useState('SELECON');
   const [bancaDropdownAberto, setBancaDropdownAberto] = useState(false);
   const [materiaDropdownAberto, setMateriaDropdownAberto] = useState(false);
 
@@ -126,8 +223,10 @@ export default function App() {
     return () => document.removeEventListener('click', handleOutsideClick);
   }, []);
 
-  // Padrão estatístico auditado salvo (carregamento instantâneo de 2.007 questões da SELECON)
-  const dadosPadraoSalvo = getPadraoSalvo(padraoBanca, padraoMateria, padraoCargo);
+  const dadosRaioX = useMemo(
+    () => obterRaioXDinamico(statsAcervo, padraoBanca, padraoMateria),
+    [statsAcervo, padraoBanca, padraoMateria]
+  );
 
   const palette = [
     '#0d9488', // teal
@@ -143,8 +242,8 @@ export default function App() {
     '#94a3b8'  // slate (outros)
   ];
 
-  const totalQuestoesPadrao = dadosPadraoSalvo ? dadosPadraoSalvo.total : 0;
-  const listaTemasPadrao = dadosPadraoSalvo ? dadosPadraoSalvo.temas : [];
+  const totalQuestoesPadrao = dadosRaioX.total;
+  const listaTemasPadrao = dadosRaioX.temas;
 
   const top10 = listaTemasPadrao.slice(0, 10);
   const outrosTotal = listaTemasPadrao.length > 10
@@ -154,7 +253,6 @@ export default function App() {
   const itensGrafico = [
     ...top10.map((item, idx) => ({
       nome: item.nome,
-      slug: item.slug,
       materia: item.materia,
       count: item.count,
       percent: item.percent,
@@ -199,20 +297,16 @@ export default function App() {
       setFiltroAssunto(temaNome);
     }
     setBuscaTexto('');
-    if (padraoCargo === 'Técnico de Enfermagem' || padraoCargo === 'Enfermeiro') {
-      setFiltroCargo(padraoCargo);
-    } else {
-      setFiltroCargo('Todos');
-    }
+    setBuscaDebounced('');
+    setFiltroCargo('Todos');
     setFiltroBanca(padraoBanca === 'Todas' ? 'Todas' : padraoBanca);
     setQuestaoIndex(0);
     setActiveTab('questoes');
-    window.scrollTo({ top: 250, behavior: 'smooth' });
+    window.scrollTo({ top: 180, behavior: 'smooth' });
   };
 
-  // Insight estratégico dinâmico por banca e disciplina
   const currentInsight = getInsightPorBanca(padraoBanca, padraoMateria) || {
-    nome: padraoBanca === 'Todas' ? 'Concursos Públicos' : padraoBanca,
+    nome: padraoBanca === 'Todas' ? 'Todas as Bancas' : padraoBanca,
     foco1: {
       tag: 'Conteúdo Mais Cobrado',
       title: top10[0] ? top10[0].nome : 'Conteúdo Principal',
@@ -225,41 +319,15 @@ export default function App() {
     },
     perfil: {
       tag: 'Estratégia de Prova',
-      title: 'Foco Orientado por Cargo',
-      text: 'Ajuste seu cronograma priorizando os temas de maior incidência estatística no gráfico.'
+      title: 'Foco Orientado por Incidência',
+      text: 'Ajuste seu cronograma priorizando os temas de maior peso estatístico no gráfico acima.'
     },
     sus: {
       tag: 'Critério da Banca',
-      title: 'Norma Culta e Padrão da Banca',
-      text: 'A banca mantém fidelidade às gramáticas de referência e protocolos oficiais.'
+      title: 'Norma Culta e Protocolos Oficiais',
+      text: 'As provas mantêm fidelidade às gramáticas de referência e protocolos vigentes do Ministério da Saúde e COFEN.'
     }
   };
-
-  // Filtragem
-  const questoesFiltradas = questoes.filter(q => {
-    const matchBusca =
-      !buscaTexto ||
-      (q.enunciado && q.enunciado.toLowerCase().includes(buscaTexto.toLowerCase())) ||
-      (q.orgao && q.orgao.toLowerCase().includes(buscaTexto.toLowerCase())) ||
-      (q.assunto && q.assunto.toLowerCase().includes(buscaTexto.toLowerCase()));
-
-    const matchBanca = filtroBanca === 'Todas' || q.banca === filtroBanca;
-
-    const matchCargo =
-      filtroCargo === 'Todos' ||
-      (q.materia === 'Enfermagem' ? q.cargo === filtroCargo : true);
-
-    const matchMateria = filtroMateria === 'Todas' || q.materia === filtroMateria;
-
-    const matchAssunto = questaoPertenceAoAssunto(q, filtroAssunto);
-
-    return matchBusca && matchBanca && matchCargo && matchMateria && matchAssunto;
-  });
-
-  // Navegação de questões no Modo Individual (1 por vez)
-  const totalFiltradas = questoesFiltradas.length;
-  const safeIndex = totalFiltradas > 0 ? Math.min(Math.max(0, questaoIndex), totalFiltradas - 1) : 0;
-  const questaoAtual = totalFiltradas > 0 ? questoesFiltradas[safeIndex] : null;
 
   const scrollParaQuestao = () => {
     const el = document.getElementById('questoes-anchor');
@@ -304,7 +372,7 @@ export default function App() {
     }
   };
 
-  // Atalhos de teclado (← e →) para navegação fluida
+  // Atalhos de teclado (← e →)
   useEffect(() => {
     const handleKeyDown = (e) => {
       if (activeTab !== 'questoes') return;
@@ -326,7 +394,7 @@ export default function App() {
     return () => window.removeEventListener('keydown', handleKeyDown);
   }, [activeTab, safeIndex, totalFiltradas]);
 
-  // Temporizador do simulado (estável, sem recriar intervalo a cada segundo)
+  // Temporizador do simulado
   useEffect(() => {
     if (!simuladoAtivo || simuladoFinalizado) return;
     const timer = setInterval(() => {
@@ -359,15 +427,17 @@ export default function App() {
     }));
   };
 
-  const confirmarResposta = (questaoId, respostaCorreta) => {
-    if (!respostas[questaoId]?.selecionada) return;
+  const confirmarResposta = (questaoObj) => {
+    const questaoId = questaoObj.id;
+    const selecionada = respostas[questaoId]?.selecionada;
+    if (!selecionada) return;
 
     if (!podeResponderQuestao()) {
       abrirModalUpgrade();
       return;
     }
 
-    const acertou = respostas[questaoId].selecionada === respostaCorreta;
+    const acertou = selecionada === questaoObj.resposta_correta;
     setRespostas(prev => ({
       ...prev,
       [questaoId]: {
@@ -377,22 +447,44 @@ export default function App() {
       }
     }));
 
-    registrarResposta(questaoId, acertou);
+    registrarResposta(questaoObj, selecionada, acertou);
   };
 
-  const iniciarSimulado = (simuladoId) => {
-    const sim = SIMULADOS_OFICIAIS.find(s => s.id === simuladoId) || SIMULADOS_OFICIAIS[0];
-    if (!sim) return;
+  const iniciarSimulado = async (itemCatalogo) => {
+    if (itemCatalogo.exclusivoVip && !isVip) {
+      abrirModalUpgrade();
+      return;
+    }
 
-    setSimuladoAtivo(sim);
-    setSimuladoIndex(0);
-    setSimuladoRespostas({});
-    setTempoRestante(sim.duracaoMinutos * 60); // 180 min * 60 = 10800s (3 horas)
-    setSimuladoFinalizado(false);
-    setFiltroRevisaoSimulado('todas');
-    setActiveTab('simulados');
-    window.scrollTo({ top: 0, behavior: 'smooth' });
+    setCarregandoSimulado(true);
+    setErroSimulado(null);
+    try {
+      const sim = await gerarSimuladoSupabase({
+        banca: simuladoBanca,
+        numero: itemCatalogo.numero,
+        titulo: `${simuladoBanca} • ${itemCatalogo.tituloBase}`,
+        subtitulo: itemCatalogo.subtituloBase
+      });
+      setSimuladoAtivo(sim);
+      setSimuladoIndex(0);
+      setSimuladoRespostas({});
+      setTempoRestante(sim.duracaoMinutos * 60);
+      setSimuladoFinalizado(false);
+      setFiltroRevisaoSimulado('todas');
+      setActiveTab('simulados');
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    } catch (err) {
+      setErroSimulado(err.message || 'Erro ao gerar simulado no Supabase.');
+    } finally {
+      setCarregandoSimulado(false);
+    }
   };
+
+  // Helpers de exibição de contagem em tempo real
+  const fmtQ = (n) => (statsAcervo ? `${n.toLocaleString('pt-BR')} q.` : '...');
+  const totalSelecon = contarPorFiltro(statsAcervo, { banca: 'SELECON' });
+  const totalFcc = contarPorFiltro(statsAcervo, { banca: 'FCC' });
+  const bancasAtivas = new Set(Object.keys(statsAcervo?.porBanca || {}));
 
   return (
     <div className="app-root">
@@ -434,7 +526,7 @@ export default function App() {
               <Timer size={17} />
               <span>Simulados</span>
             </button>
-            <UserHeaderMenu />
+            <UserHeaderMenu totalQuestoes={totalGeralAcervo} />
           </div>
         </div>
       </nav>
@@ -444,7 +536,7 @@ export default function App() {
         {/* ABA: BANCO DE QUESTÕES */}
         {activeTab === 'questoes' && (
           <section className="animate-fade-in">
-            {/* Filtros de Pesquisa e SEO */}
+            {/* Filtros de Pesquisa */}
             <div className="filter-card">
               <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '0.5rem' }}>
                 <Filter size={18} color="#0d9488" />
@@ -456,11 +548,11 @@ export default function App() {
                 <Search size={18} color="#94a3b8" style={{ position: 'absolute', left: '12px', top: '12px' }} />
                 <input
                   type="text"
-                  placeholder="Pesquise por prefeitura, assunto (ex: SUS, Imunização, Nägele, PCR)..."
+                  placeholder="Pesquise por prefeitura, assunto ou código (ex: SUS, Imunização, Crase, PCR, EF0010)..."
                   className="filter-input"
                   style={{ width: '100%', paddingLeft: '2.5rem' }}
                   value={buscaTexto}
-                  onChange={e => { setBuscaTexto(e.target.value); setQuestaoIndex(0); }}
+                  onChange={e => setBuscaTexto(e.target.value)}
                 />
               </div>
 
@@ -473,15 +565,18 @@ export default function App() {
                     value={filtroBanca}
                     onChange={e => { setFiltroBanca(e.target.value); setQuestaoIndex(0); }}
                   >
-                    <option value="SELECON">SELECON (2.019 questões auditadas)</option>
-                    <option value="FCC">FCC (1.865 questões auditadas)</option>
-                    <option value="Todas">Todas as Bancas (3.884 questões auditadas)</option>
+                    <option value="SELECON">SELECON ({fmtQ(totalSelecon)})</option>
+                    <option value="FCC">FCC ({fmtQ(totalFcc)})</option>
+                    <option value="Todas">Todas as Bancas ({fmtQ(totalGeralAcervo)})</option>
                     <optgroup label="Bancas em Preparação">
-                      <option value="IBAM" disabled>IBAM (Em breve)</option>
-                      <option value="VUNESP" disabled>VUNESP (Em breve)</option>
-                      <option value="Consulpam" disabled>Consulpam (Em breve)</option>
-                      <option value="AOCP" disabled>AOCP (Em breve)</option>
-                      <option value="FGV" disabled>FGV (Em breve)</option>
+                      {BANCAS_PRECONFIGURADAS.filter(b => b !== 'SELECON' && b !== 'FCC').map(b => {
+                        const qtd = contarPorFiltro(statsAcervo, { banca: b });
+                        return (
+                          <option key={b} value={b} disabled={qtd === 0}>
+                            {b} ({qtd > 0 ? fmtQ(qtd) : 'Em breve'})
+                          </option>
+                        );
+                      })}
                     </optgroup>
                   </select>
                 </div>
@@ -491,12 +586,20 @@ export default function App() {
                   <label className="filter-label">Cargo</label>
                   <select
                     className="filter-select"
-                    value={filtroCargo}
+                    value={filtroMateria === 'Língua Portuguesa' ? 'Todos' : filtroCargo}
+                    disabled={filtroMateria === 'Língua Portuguesa'}
+                    title={filtroMateria === 'Língua Portuguesa' ? 'As questões de Língua Portuguesa são comuns a todos os cargos' : 'Filtrar por cargo de Enfermagem'}
                     onChange={e => { setFiltroCargo(e.target.value); setQuestaoIndex(0); }}
                   >
-                    <option value="Todos">Todos os Cargos</option>
-                    <option value="Técnico de Enfermagem">Técnico de Enfermagem</option>
-                    <option value="Enfermeiro">Enfermeiro</option>
+                    {filtroMateria === 'Língua Portuguesa' ? (
+                      <option value="Todos">Comum a todos os cargos (Português)</option>
+                    ) : (
+                      <>
+                        <option value="Todos">Todos os Cargos</option>
+                        <option value="Técnico de Enfermagem">Técnico de Enfermagem</option>
+                        <option value="Enfermeiro">Enfermeiro</option>
+                      </>
+                    )}
                   </select>
                 </div>
 
@@ -509,19 +612,22 @@ export default function App() {
                     onChange={e => {
                       const novaMateria = e.target.value;
                       setFiltroMateria(novaMateria);
-                      if (novaMateria === 'Enfermagem') {
-                        setFiltroAssunto('Fundamentos e Procedimentos de Enfermagem');
-                      } else if (novaMateria === 'Língua Portuguesa') {
-                        setFiltroAssunto('Interpretação e Compreensão de Textos');
-                      } else {
-                        setFiltroAssunto('Todos');
+                      setFiltroAssunto('Todos');
+                      if (novaMateria === 'Língua Portuguesa') {
+                        setFiltroCargo('Todos');
                       }
                       setQuestaoIndex(0);
                     }}
                   >
-                    <option value="Enfermagem">Enfermagem</option>
-                    <option value="Língua Portuguesa">Língua Portuguesa</option>
-                    <option value="Todas">Todas as Disciplinas</option>
+                    <option value="Enfermagem">
+                      Enfermagem ({fmtQ(contarPorFiltro(statsAcervo, { banca: filtroBanca, materia: 'Enfermagem' }))})
+                    </option>
+                    <option value="Língua Portuguesa">
+                      Língua Portuguesa ({fmtQ(contarPorFiltro(statsAcervo, { banca: filtroBanca, materia: 'Língua Portuguesa' }))})
+                    </option>
+                    <option value="Todas">
+                      Todas as Disciplinas ({fmtQ(contarPorFiltro(statsAcervo, { banca: filtroBanca }))})
+                    </option>
                   </select>
                 </div>
 
@@ -536,12 +642,12 @@ export default function App() {
                       setFiltroAssunto(novoAssunto);
                       setQuestaoIndex(0);
 
-                      // Ajusta automaticamente a Disciplina conforme o assunto escolhido se necessário
                       if (novoAssunto !== 'Todos') {
                         const isPort = ASSUNTOS_PORTUGUES.some(a => a.nome === novoAssunto);
                         const isEnf = ASSUNTOS_ENFERMAGEM.some(a => a.nome === novoAssunto);
                         if (isPort && filtroMateria !== 'Língua Portuguesa') {
                           setFiltroMateria('Língua Portuguesa');
+                          setFiltroCargo('Todos');
                         } else if (isEnf && filtroMateria !== 'Enfermagem') {
                           setFiltroMateria('Enfermagem');
                         }
@@ -550,48 +656,58 @@ export default function App() {
                   >
                     <option value="Todos">
                       {(() => {
-                        const port = filtroBanca === 'FCC' ? '968' : filtroBanca === 'Todas' ? '2.102' : '1.134';
-                        const enf = filtroBanca === 'FCC' ? '898' : filtroBanca === 'Todas' ? '1.782' : '885';
-                        const tot = filtroBanca === 'FCC' ? '1.865' : filtroBanca === 'Todas' ? '3.884' : '2.019';
-                        if (filtroMateria === 'Língua Portuguesa') return `Todos os Assuntos de Língua Portuguesa (${port} q.)`;
-                        if (filtroMateria === 'Enfermagem') return `Todos os Assuntos de Enfermagem (${enf} q.)`;
-                        return `Todos os Assuntos (${tot} q.)`;
+                        const qtd = contarPorFiltro(statsAcervo, { banca: filtroBanca, materia: filtroMateria });
+                        if (filtroMateria === 'Língua Portuguesa') return `Todos os Assuntos de Língua Portuguesa (${fmtQ(qtd)})`;
+                        if (filtroMateria === 'Enfermagem') return `Todos os Assuntos de Enfermagem (${fmtQ(qtd)})`;
+                        return `Todos os Assuntos (${fmtQ(qtd)})`;
                       })()}
                     </option>
 
                     {(filtroMateria === 'Todas' || filtroMateria === 'Língua Portuguesa') && (
                       filtroMateria === 'Todas' ? (
                         <optgroup label="📖 Língua Portuguesa">
-                          {ASSUNTOS_PORTUGUES.map(a => (
-                            <option key={a.nome} value={a.nome}>
-                              {a.nome} ({a.total} q.)
-                            </option>
-                          ))}
+                          {ASSUNTOS_PORTUGUES.map(a => {
+                            const qtd = contarPorFiltro(statsAcervo, { banca: filtroBanca, materia: 'Língua Portuguesa', assunto: a.nome });
+                            return (
+                              <option key={a.nome} value={a.nome}>
+                                {a.nome} ({fmtQ(qtd)})
+                              </option>
+                            );
+                          })}
                         </optgroup>
                       ) : (
-                        ASSUNTOS_PORTUGUES.map(a => (
-                          <option key={a.nome} value={a.nome}>
-                            {a.nome} ({a.total} q.)
-                          </option>
-                        ))
+                        ASSUNTOS_PORTUGUES.map(a => {
+                          const qtd = contarPorFiltro(statsAcervo, { banca: filtroBanca, materia: 'Língua Portuguesa', assunto: a.nome });
+                          return (
+                            <option key={a.nome} value={a.nome}>
+                              {a.nome} ({fmtQ(qtd)})
+                            </option>
+                          );
+                        })
                       )
                     )}
 
                     {(filtroMateria === 'Todas' || filtroMateria === 'Enfermagem') && (
                       filtroMateria === 'Todas' ? (
                         <optgroup label="🩺 Enfermagem">
-                          {ASSUNTOS_ENFERMAGEM.map(a => (
-                            <option key={a.nome} value={a.nome}>
-                              {a.nome} ({a.total} q.)
-                            </option>
-                          ))}
+                          {ASSUNTOS_ENFERMAGEM.map(a => {
+                            const qtd = contarPorFiltro(statsAcervo, { banca: filtroBanca, materia: 'Enfermagem', assunto: a.nome });
+                            return (
+                              <option key={a.nome} value={a.nome}>
+                                {a.nome} ({fmtQ(qtd)})
+                              </option>
+                            );
+                          })}
                         </optgroup>
                       ) : (
-                        ASSUNTOS_ENFERMAGEM.map(a => (
-                          <option key={a.nome} value={a.nome}>
-                            {a.nome} ({a.total} q.)
-                          </option>
-                        ))
+                        ASSUNTOS_ENFERMAGEM.map(a => {
+                          const qtd = contarPorFiltro(statsAcervo, { banca: filtroBanca, materia: 'Enfermagem', assunto: a.nome });
+                          return (
+                            <option key={a.nome} value={a.nome}>
+                              {a.nome} ({fmtQ(qtd)})
+                            </option>
+                          );
+                        })
                       )
                     )}
                   </select>
@@ -606,8 +722,23 @@ export default function App() {
             {carregandoDados ? (
               <div style={{ textAlign: 'center', padding: '3.5rem 2rem', background: '#ffffff', borderRadius: '1rem', border: '1px solid #e2e8f0', margin: '1.5rem 0' }}>
                 <div style={{ width: '40px', height: '40px', border: '3px solid #ccfbf1', borderTopColor: '#0d9488', borderRadius: '50%', animation: 'enfSpin 0.75s linear infinite', margin: '0 auto 1rem' }}></div>
-                <h3 style={{ fontSize: '1.15rem', fontWeight: 700, color: '#0f172a', marginBottom: '0.35rem' }}>Carregando questões do assunto...</h3>
-                <p style={{ color: '#64748b', fontSize: '0.9rem', margin: 0 }}>Preparando modo de estudo individual focado</p>
+                <h3 style={{ fontSize: '1.15rem', fontWeight: 700, color: '#0f172a', marginBottom: '0.35rem' }}>Carregando questões da nuvem...</h3>
+                <p style={{ color: '#64748b', fontSize: '0.9rem', margin: 0 }}>Consultando banco de dados auditado em alta velocidade</p>
+              </div>
+            ) : paginaDados.erro ? (
+              <div style={{ textAlign: 'center', padding: '3rem 2rem', background: '#fef2f2', borderRadius: '1rem', border: '1px solid #fecaca', margin: '1.5rem 0' }}>
+                <XCircle size={42} color="#dc2626" style={{ margin: '0 auto 0.75rem' }} />
+                <h3 style={{ fontSize: '1.15rem', fontWeight: 700, color: '#991b1b', marginBottom: '0.4rem' }}>Falha ao carregar questões</h3>
+                <p style={{ color: '#7f1d1d', fontSize: '0.92rem', marginBottom: '1.25rem' }}>{paginaDados.erro}</p>
+                <button
+                  type="button"
+                  className="btn-primary"
+                  onClick={() => setRetryToken(t => t + 1)}
+                  style={{ display: 'inline-flex', alignItems: 'center', gap: '0.45rem' }}
+                >
+                  <RefreshCw size={16} />
+                  <span>Tentar Novamente</span>
+                </button>
               </div>
             ) : totalFiltradas === 0 ? (
               <div style={{ textAlign: 'center', padding: '3.5rem 2rem', background: '#ffffff', borderRadius: '1rem', border: '1px solid #e2e8f0', margin: '1.5rem 0' }}>
@@ -618,10 +749,11 @@ export default function App() {
                   className="btn-primary"
                   onClick={() => {
                     setBuscaTexto('');
+                    setBuscaDebounced('');
                     setFiltroBanca('SELECON');
                     setFiltroCargo('Todos');
                     setFiltroMateria('Enfermagem');
-                    setFiltroAssunto('Fundamentos e Procedimentos de Enfermagem');
+                    setFiltroAssunto('Todos');
                     setQuestaoIndex(0);
                   }}
                 >
@@ -670,7 +802,7 @@ export default function App() {
 
                           <div style={{ display: 'flex', alignItems: 'center', gap: '0.65rem' }}>
                             <span style={{ fontSize: '0.84rem', color: '#0f766e', fontWeight: 700, background: '#ccfbf1', padding: '0.25rem 0.65rem', borderRadius: '1rem' }}>
-                              Questão {safeIndex + 1} de {totalFiltradas} ({pctProgresso}%)
+                              Questão {safeIndex + 1} de {totalFiltradas.toLocaleString('pt-BR')} ({pctProgresso}%)
                             </span>
                             <form onSubmit={handlePuloSubmit} style={{ display: 'inline-flex', alignItems: 'center', gap: '0.25rem' }}>
                               <input
@@ -679,7 +811,7 @@ export default function App() {
                                 max={totalFiltradas}
                                 placeholder="Nº"
                                 title="Pular para o número da questão"
-                                style={{ width: '52px', padding: '0.2rem 0.4rem', fontSize: '0.78rem', border: '1px solid #cbd5e1', borderRadius: '4px', textAlign: 'center' }}
+                                style={{ width: '58px', padding: '0.2rem 0.4rem', fontSize: '0.78rem', border: '1px solid #cbd5e1', borderRadius: '4px', textAlign: 'center' }}
                                 value={puloInput}
                                 onChange={e => setPuloInput(e.target.value)}
                               />
@@ -724,7 +856,7 @@ export default function App() {
                                 <div style={{ fontSize: '1.8rem', marginBottom: '0.25rem' }}>⚡</div>
                                 <h4>Você atingiu o limite de {limiteDiario} questões gratuitas de hoje!</h4>
                                 <p>
-                                  Sua cota diária renova automaticamente à meia-noite. Assine o <strong>Plano VIP PRO</strong> para ter acesso ilimitado a todas as 3.884 questões com gabarito comentado e simulados oficiais cronometrados.
+                                  Sua cota diária renova automaticamente à meia-noite. Assine o <strong>Plano VIP PRO</strong> para ter acesso ilimitado a todas as {totalGeralAcervo > 0 ? totalGeralAcervo.toLocaleString('pt-BR') : ''} questões com gabarito comentado e simulados oficiais cronometrados.
                                 </p>
                                 <button
                                   type="button"
@@ -748,7 +880,7 @@ export default function App() {
                               <div style={{ display: 'flex', justifyContent: 'flex-end' }}>
                                 <button
                                   className="btn-primary"
-                                  onClick={() => confirmarResposta(q.id, q.resposta_correta)}
+                                  onClick={() => confirmarResposta(q)}
                                   disabled={!resp?.selecionada}
                                   style={{
                                     padding: '0.9rem 2.5rem',
@@ -834,7 +966,7 @@ export default function App() {
                                   </button>
                                 ) : (
                                   <span style={{ fontWeight: 800, color: '#0d9488', fontSize: '0.95rem' }}>
-                                    🎉 Você concluiu a última questão deste tema!
+                                    🎉 Você concluiu a última questão deste filtro!
                                   </span>
                                 )}
                               </div>
@@ -851,7 +983,7 @@ export default function App() {
                                 <span>Gabarito Oficial: Alternativa {q.resposta_correta} (Fundamentação Legal / Técnica)</span>
                               </div>
                               <p className="comment-text-correct">
-                                {q.fundamentacao_correta || q.comentario}
+                                {q.fundamentacao_correta}
                               </p>
                             </div>
 
@@ -874,7 +1006,7 @@ export default function App() {
                               </div>
                             )}
 
-                            {/* Rodapé do comentário com ação rápida para a próxima */}
+                            {/* Rodapé do comentário */}
                             <div style={{
                               marginTop: '1.25rem',
                               paddingTop: '1rem',
@@ -887,7 +1019,7 @@ export default function App() {
                             }}>
                               <span style={{ fontSize: '0.86rem', color: '#64748b', fontWeight: 600 }}>
                                 {safeIndex < totalFiltradas - 1
-                                  ? `Pronto para a próxima? Restam ${totalFiltradas - safeIndex - 1} questões neste caderno.`
+                                  ? `Pronto para a próxima? Restam ${(totalFiltradas - safeIndex - 1).toLocaleString('pt-BR')} questões neste caderno.`
                                   : 'Você completou a última questão deste caderno temático!'}
                               </span>
                               {safeIndex < totalFiltradas - 1 ? (
@@ -947,7 +1079,7 @@ export default function App() {
                         }}>
                           <div style={{ fontSize: '2.5rem', marginBottom: '0.5rem' }}>🏆</div>
                           <h3 style={{ fontSize: '1.35rem', fontWeight: 800, color: '#166534', marginBottom: '0.5rem' }}>
-                            Parabéns! Você concluiu todas as {totalFiltradas} questões deste caderno!
+                            Parabéns! Você concluiu todas as {totalFiltradas.toLocaleString('pt-BR')} questões deste caderno!
                           </h3>
                           <p style={{ color: '#15803d', fontSize: '0.98rem', maxWidth: '620px', margin: '0 auto 1.5rem', lineHeight: '1.6' }}>
                             Você finalizou com sucesso o estudo prático de <strong>{nomeAssuntoAtivo || filtroMateria}</strong>. Continue praticando para fixar os conteúdos mais cobrados pela banca.
@@ -957,15 +1089,7 @@ export default function App() {
                               type="button"
                               className="btn-primary"
                               onClick={irParaPrimeira}
-                              style={{
-                                padding: '0.8rem 1.6rem',
-                                fontWeight: 700,
-                                background: '#0d9488',
-                                display: 'inline-flex',
-                                alignItems: 'center',
-                                gap: '0.5rem',
-                                borderRadius: '0.5rem'
-                              }}
+                              style={{ padding: '0.8rem 1.6rem', fontWeight: 700, background: '#0d9488', display: 'inline-flex', alignItems: 'center', gap: '0.5rem', borderRadius: '0.5rem' }}
                             >
                               <RotateCcw size={18} />
                               <span>Recomeçar este Caderno</span>
@@ -973,21 +1097,8 @@ export default function App() {
                             <button
                               type="button"
                               className="btn-secondary"
-                              onClick={() => {
-                                window.scrollTo({ top: 250, behavior: 'smooth' });
-                              }}
-                              style={{
-                                padding: '0.8rem 1.6rem',
-                                fontWeight: 700,
-                                background: '#ffffff',
-                                border: '1px solid #cbd5e1',
-                                color: '#334155',
-                                display: 'inline-flex',
-                                alignItems: 'center',
-                                gap: '0.5rem',
-                                cursor: 'pointer',
-                                borderRadius: '0.5rem'
-                              }}
+                              onClick={() => window.scrollTo({ top: 150, behavior: 'smooth' })}
+                              style={{ padding: '0.8rem 1.6rem', fontWeight: 700, background: '#ffffff', border: '1px solid #cbd5e1', color: '#334155', display: 'inline-flex', alignItems: 'center', gap: '0.5rem', cursor: 'pointer', borderRadius: '0.5rem' }}
                             >
                               <Filter size={18} />
                               <span>Escolher Outro Assunto</span>
@@ -995,22 +1106,8 @@ export default function App() {
                             <button
                               type="button"
                               className="btn-secondary"
-                              onClick={() => {
-                                setActiveTab('padrao');
-                                window.scrollTo({ top: 0, behavior: 'smooth' });
-                              }}
-                              style={{
-                                padding: '0.8rem 1.6rem',
-                                fontWeight: 700,
-                                background: '#ffffff',
-                                border: '1px solid #cbd5e1',
-                                color: '#334155',
-                                display: 'inline-flex',
-                                alignItems: 'center',
-                                gap: '0.5rem',
-                                cursor: 'pointer',
-                                borderRadius: '0.5rem'
-                              }}
+                              onClick={() => { setActiveTab('padrao'); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
+                              style={{ padding: '0.8rem 1.6rem', fontWeight: 700, background: '#ffffff', border: '1px solid #cbd5e1', color: '#334155', display: 'inline-flex', alignItems: 'center', gap: '0.5rem', cursor: 'pointer', borderRadius: '0.5rem' }}
                             >
                               <BarChart3 size={18} />
                               <span>Ver Raio-X da Banca</span>
@@ -1022,21 +1119,11 @@ export default function App() {
                       {/* Barra de Navegação Inferior */}
                       <div className="question-bottom-nav">
                         <div className="bottom-nav-group left">
-                          <button
-                            className="btn-nav-step"
-                            onClick={irParaPrimeira}
-                            disabled={safeIndex === 0}
-                            title="Primeira questão"
-                          >
+                          <button className="btn-nav-step" onClick={irParaPrimeira} disabled={safeIndex === 0} title="Primeira questão">
                             <ChevronsLeft size={18} />
                             <span className="hide-mobile">Primeira</span>
                           </button>
-                          <button
-                            className="btn-nav-step btn-nav-arrow"
-                            onClick={irParaAnterior}
-                            disabled={safeIndex === 0}
-                            title="Questão anterior (ou Tecla ←)"
-                          >
+                          <button className="btn-nav-step btn-nav-arrow" onClick={irParaAnterior} disabled={safeIndex === 0} title="Questão anterior (ou Tecla ←)">
                             <ChevronLeft size={18} />
                             <span>Anterior</span>
                           </button>
@@ -1044,7 +1131,7 @@ export default function App() {
 
                         <div className="bottom-nav-center">
                           <div style={{ fontSize: '0.88rem', fontWeight: 700, color: '#0f172a' }}>
-                            Questão {safeIndex + 1} de {totalFiltradas} ({pctProgresso}%)
+                            Questão {safeIndex + 1} de {totalFiltradas.toLocaleString('pt-BR')} ({pctProgresso}%)
                           </div>
                           <div className="progress-tracker">
                             <div className="progress-bar-fill" style={{ width: `${pctProgresso}%` }}></div>
@@ -1052,21 +1139,11 @@ export default function App() {
                         </div>
 
                         <div className="bottom-nav-group right">
-                          <button
-                            className="btn-nav-step primary btn-nav-arrow"
-                            onClick={irParaProxima}
-                            disabled={safeIndex >= totalFiltradas - 1}
-                            title="Próxima questão (ou Tecla →)"
-                          >
+                          <button className="btn-nav-step primary btn-nav-arrow" onClick={irParaProxima} disabled={safeIndex >= totalFiltradas - 1} title="Próxima questão (ou Tecla →)">
                             <span>Próxima</span>
                             <ChevronRight size={18} />
                           </button>
-                          <button
-                            className="btn-nav-step"
-                            onClick={irParaUltima}
-                            disabled={safeIndex >= totalFiltradas - 1}
-                            title="Última questão"
-                          >
+                          <button className="btn-nav-step" onClick={irParaUltima} disabled={safeIndex >= totalFiltradas - 1} title="Última questão">
                             <span className="hide-mobile">Última</span>
                             <ChevronsRight size={18} />
                           </button>
@@ -1079,13 +1156,12 @@ export default function App() {
                     </div>
                   );
                 })()}
-
               </>
             )}
           </section>
         )}
 
-        {/* ABA: SIMULADOS */}
+        {/* ABA: SIMULADOS (100% GERADOS DO SUPABASE) */}
         {activeTab === 'simulados' && (
           <section className="animate-fade-in">
             {!simuladoAtivo ? (
@@ -1108,7 +1184,7 @@ export default function App() {
                       </div>
                       <div className="funnel-right">
                         <span className="pill-badge">
-                          {simuladoBanca === 'SELECON' || simuladoBanca === 'FCC' ? '2 Simulados' : 'Em Breve'}
+                          {bancasAtivas.has(simuladoBanca) ? '2 Simulados' : 'Em Breve'}
                         </span>
                         <ChevronDown size={16} className={`funnel-arrow ${simuladoBancaDropdownAberto ? 'open' : ''}`} />
                       </div>
@@ -1116,855 +1192,758 @@ export default function App() {
 
                     {simuladoBancaDropdownAberto && (
                       <div className="padrao-dropdown-menu animate-fade-in">
-                        <button
-                          type="button"
-                          className={`padrao-dropdown-item ${simuladoBanca === 'SELECON' ? 'selected' : ''}`}
-                          onClick={() => {
-                            setSimuladoBanca('SELECON');
-                            setSimuladoBancaDropdownAberto(false);
-                          }}
-                        >
-                          <span className="item-name">SELECON</span>
-                          <span className="pill-badge">2 Simulados</span>
-                        </button>
-                        <button
-                          type="button"
-                          className={`padrao-dropdown-item ${simuladoBanca === 'FCC' ? 'selected' : ''}`}
-                          onClick={() => {
-                            setSimuladoBanca('FCC');
-                            setSimuladoBancaDropdownAberto(false);
-                          }}
-                        >
-                          <span className="item-name">FCC</span>
-                          <span className="pill-badge">2 Simulados</span>
-                        </button>
-                        {BANCAS_PRECONFIGURADAS.filter(b => b !== 'SELECON' && b !== 'FCC').map(banca => (
-                          <button
-                            key={banca}
-                            type="button"
-                            className={`padrao-dropdown-item ${simuladoBanca === banca ? 'selected' : ''}`}
-                            onClick={() => {
-                              setSimuladoBanca(banca);
-                              setSimuladoBancaDropdownAberto(false);
-                            }}
-                          >
-                            <span className="item-name">{banca}</span>
-                            <span className="pill-badge">Em Breve</span>
-                          </button>
-                        ))}
+                        {BANCAS_PRECONFIGURADAS.map(banca => {
+                          const disponivel = bancasAtivas.has(banca) || banca === 'SELECON' || banca === 'FCC';
+                          return (
+                            <button
+                              key={banca}
+                              type="button"
+                              className={`padrao-dropdown-item ${simuladoBanca === banca ? 'selected' : ''}`}
+                              onClick={() => {
+                                setSimuladoBanca(banca);
+                                setSimuladoBancaDropdownAberto(false);
+                                setErroSimulado(null);
+                              }}
+                            >
+                              <span className="item-name">{banca}</span>
+                              <span className="pill-badge">{disponivel ? '2 Simulados' : 'Em Breve'}</span>
+                            </button>
+                          );
+                        })}
                       </div>
                     )}
                   </div>
                 </div>
 
-                {(() => {
-                  const simuladosDaBanca = SIMULADOS_OFICIAIS.filter(s => s.banca === simuladoBanca);
-                  if (simuladosDaBanca.length > 0) {
-                    return (
-                      <div className="simulados-grid" style={{ gridTemplateColumns: 'repeat(auto-fit, minmax(350px, 1fr))', gap: '1.75rem' }}>
-                        {simuladosDaBanca.map((sim, index) => (
-                          <div
-                            key={sim.id}
-                            className="simulado-card"
-                            style={{
-                              border: index === 0 ? '2px solid #0d9488' : '1px solid var(--border)',
-                              position: 'relative'
-                            }}
-                          >
-                            <div className="simulado-header">
-                              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.85rem' }}>
-                                <span style={{
-                                  display: 'inline-flex',
-                                  alignItems: 'center',
-                                  gap: '0.35rem',
-                                  background: index === 0 ? '#ccfbf1' : '#f1f5f9',
-                                  color: index === 0 ? '#0f766e' : '#334155',
-                                  fontSize: '0.78rem',
-                                  fontWeight: 800,
-                                  padding: '0.25rem 0.65rem',
-                                  borderRadius: '4px',
-                                  textTransform: 'uppercase'
-                                }}>
-                                  {index === 0 ? `⭐ Simulado #${sim.numero} • Prova Completa` : `Simulado #${sim.numero} • Prova Inédita`}
-                                </span>
-                                <span style={{ fontSize: '0.8rem', color: '#0f766e', fontWeight: 700, background: '#f0fdfa', padding: '0.2rem 0.5rem', borderRadius: '4px' }}>
-                                  Banca: {sim.banca}
-                                </span>
-                              </div>
+                {erroSimulado && (
+                  <div style={{ maxWidth: '640px', margin: '0 auto 1.5rem', padding: '1rem 1.25rem', background: '#fef2f2', border: '1px solid #fecaca', borderRadius: '0.75rem', color: '#991b1b', textAlign: 'center', fontWeight: 600 }}>
+                    {erroSimulado}
+                  </div>
+                )}
 
-                              <h3 className="simulado-title" style={{ fontSize: '1.3rem', fontWeight: 800, marginBottom: '0.45rem' }}>
-                                {sim.titulo}
-                              </h3>
-                              <p className="simulado-desc" style={{ marginBottom: '1.15rem' }}>
-                                {sim.subtitulo}
-                              </p>
-
-                              {/* Grade Proporcional Resumida Dinâmica */}
-                              <div style={{ background: '#f8fafc', borderRadius: '8px', padding: '0.95rem 1.15rem', border: '1px solid #e2e8f0', marginBottom: '1.25rem' }}>
-                                <div style={{ fontWeight: 800, fontSize: '0.85rem', color: '#1e293b', marginBottom: '0.45rem', display: 'flex', justifyContent: 'space-between' }}>
-                                  <span>📖 Módulo I: Língua Portuguesa</span>
-                                  <strong style={{ color: '#0d9488' }}>{sim.distribuicao?.portugues || 20} Questões</strong>
-                                </div>
-                                <div style={{ fontSize: '0.8rem', color: '#64748b', lineHeight: '1.45', marginBottom: '0.75rem' }}>
-                                  {sim.gradeTemas?.portugues?.map(t => `${t.tema.split(' - ')[0]} (${t.questoes}q)`).join(', ') || 'Interpretação (8q), Sintaxe (4q), Verbos (2q)...'}
-                                </div>
-
-                                <div style={{ fontWeight: 800, fontSize: '0.85rem', color: '#1e293b', marginBottom: '0.45rem', display: 'flex', justifyContent: 'space-between', borderTop: '1px solid #e2e8f0', paddingTop: '0.65rem' }}>
-                                  <span>🩺 Módulo II: Conhecimentos Específicos</span>
-                                  <strong style={{ color: '#0d9488' }}>{sim.distribuicao?.enfermagem || 40} Questões</strong>
-                                </div>
-                                <div style={{ fontSize: '0.8rem', color: '#64748b', lineHeight: '1.45' }}>
-                                  {sim.gradeTemas?.enfermagem?.map(t => `${t.tema.split(' (')[0]} (${t.questoes}q)`).join(', ') || 'Fundamentos, SUS, Urgência, Farmacologia...'}
-                                </div>
-                              </div>
+                {carregandoSimulado ? (
+                  <div style={{ textAlign: 'center', padding: '3.5rem 2rem', background: '#ffffff', borderRadius: '1rem', border: '1px solid #e2e8f0', maxWidth: '640px', margin: '0 auto 2rem' }}>
+                    <div style={{ width: '40px', height: '40px', border: '3px solid #ccfbf1', borderTopColor: '#0d9488', borderRadius: '50%', animation: 'enfSpin 0.75s linear infinite', margin: '0 auto 1rem' }}></div>
+                    <h3 style={{ fontSize: '1.15rem', fontWeight: 700, color: '#0f172a', marginBottom: '0.35rem' }}>Montando Simulado {simuladoBanca}...</h3>
+                    <p style={{ color: '#64748b', fontSize: '0.9rem', margin: 0 }}>Sorteando 60 questões auditadas (20 Português + 40 Enfermagem) direto do Supabase</p>
+                  </div>
+                ) : (bancasAtivas.has(simuladoBanca) || simuladoBanca === 'SELECON' || simuladoBanca === 'FCC') ? (
+                  <div className="simulados-grid" style={{ gridTemplateColumns: 'repeat(auto-fit, minmax(350px, 1fr))', gap: '1.75rem' }}>
+                    {SIMULADOS_CATALOGO.map((sim, index) => {
+                      const bloqueado = sim.exclusivoVip && !isVip;
+                      return (
+                        <div
+                          key={`${simuladoBanca}-${sim.numero}`}
+                          className="simulado-card"
+                          style={{
+                            border: index === 0 ? '2px solid #0d9488' : '1px solid var(--border)',
+                            position: 'relative'
+                          }}
+                        >
+                          <div className="simulado-header">
+                            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.85rem' }}>
+                              <span style={{
+                                display: 'inline-flex',
+                                alignItems: 'center',
+                                gap: '0.35rem',
+                                background: index === 0 ? '#ccfbf1' : '#fef3c7',
+                                color: index === 0 ? '#0f766e' : '#92400e',
+                                fontSize: '0.78rem',
+                                fontWeight: 800,
+                                padding: '0.25rem 0.65rem',
+                                borderRadius: '4px',
+                                textTransform: 'uppercase'
+                              }}>
+                                {index === 0 ? `⭐ Simulado #${sim.numero} • Gratuito` : `👑 Simulado #${sim.numero} • VIP PRO`}
+                              </span>
+                              <span style={{ fontSize: '0.8rem', color: '#0f766e', fontWeight: 700, background: '#f0fdfa', padding: '0.2rem 0.5rem', borderRadius: '4px' }}>
+                                Banca: {simuladoBanca}
+                              </span>
                             </div>
 
-                            <div className="simulado-info" style={{ marginTop: 'auto', marginBottom: '1.25rem' }}>
-                              <span><strong>60</strong> Questões</span>
-                              <span><strong>180</strong> Minutos (3h)</span>
-                              <span>Corte Mínimo: <strong>60%</strong></span>
-                            </div>
+                            <h3 className="simulado-title" style={{ fontSize: '1.3rem', fontWeight: 800, marginBottom: '0.45rem' }}>
+                              {simuladoBanca} • {sim.tituloBase}
+                            </h3>
+                            <p className="simulado-desc" style={{ marginBottom: '1.15rem' }}>
+                              {sim.subtituloBase}
+                            </p>
 
-                            <button
-                              className="btn-primary"
-                              style={{ width: '100%', justifyContent: 'center', padding: '0.85rem', fontSize: '1rem', fontWeight: 800 }}
-                              onClick={() => iniciarSimulado(sim.id)}
-                            >
-                              Iniciar Simulado #{sim.numero} (60 Questões)
-                            </button>
+                            <div style={{ background: '#f8fafc', borderRadius: '8px', padding: '0.95rem 1.15rem', border: '1px solid #e2e8f0', marginBottom: '1.25rem' }}>
+                              <div style={{ fontWeight: 800, fontSize: '0.85rem', color: '#1e293b', marginBottom: '0.45rem', display: 'flex', justifyContent: 'space-between' }}>
+                                <span>📖 Módulo I: Língua Portuguesa</span>
+                                <strong style={{ color: '#0d9488' }}>20 Questões</strong>
+                              </div>
+                              <div style={{ fontSize: '0.8rem', color: '#64748b', lineHeight: '1.45', marginBottom: '0.75rem' }}>
+                                Interpretação, Sintaxe, Verbos, Semântica, Pontuação, Conjunções e Crase
+                              </div>
+
+                              <div style={{ fontWeight: 800, fontSize: '0.85rem', color: '#1e293b', marginBottom: '0.45rem', display: 'flex', justifyContent: 'space-between', borderTop: '1px solid #e2e8f0', paddingTop: '0.65rem' }}>
+                                <span>🩺 Módulo II: Conhecimentos Específicos</span>
+                                <strong style={{ color: '#0d9488' }}>40 Questões</strong>
+                              </div>
+                              <div style={{ fontSize: '0.8rem', color: '#64748b', lineHeight: '1.45' }}>
+                                SUS, Biossegurança, Farmacologia, Urgência/PCR, Legislação COFEN, PNI e Fundamentos
+                              </div>
+                            </div>
                           </div>
-                        ))}
-                      </div>
-                    );
-                  }
-                  return (
-                    <div className="padrao-empty-state animate-fade-in" style={{ maxWidth: '640px', margin: '0 auto 2.5rem' }}>
-                      <div className="padrao-empty-icon" style={{ margin: '0 auto 1rem', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-                        <BookOpen size={28} color="#0d9488" />
-                      </div>
-                      <h3 style={{ fontSize: '1.25rem', fontWeight: 800, color: '#0f172a', marginBottom: '0.5rem' }}>
-                        Simulados da banca {simuladoBanca} em preparação!
-                      </h3>
-                      <p style={{ color: '#64748b', fontSize: '0.95rem', lineHeight: '1.6', marginBottom: '1.5rem' }}>
-                        O acervo estatístico e as provas no padrão de cobrança da banca <strong>{simuladoBanca}</strong> estão sendo catalogados. Em breve teremos simulados completos cronometrados com 60 questões (20 Português + 40 Enfermagem) específicas para esta banca.
-                      </p>
-                      <div style={{ display: 'flex', gap: '0.75rem', justifyContent: 'center', flexWrap: 'wrap' }}>
-                        <button
-                          type="button"
-                          className="btn-primary"
-                          onClick={() => setSimuladoBanca('SELECON')}
-                          style={{ display: 'inline-flex', alignItems: 'center', gap: '0.5rem', padding: '0.75rem 1.25rem', fontWeight: 700 }}
-                        >
-                          <span>Simulados SELECON</span>
-                          <ChevronRight size={16} />
-                        </button>
-                        <button
-                          type="button"
-                          className="btn-secondary"
-                          onClick={() => setSimuladoBanca('FCC')}
-                          style={{ display: 'inline-flex', alignItems: 'center', gap: '0.5rem', padding: '0.75rem 1.25rem', fontWeight: 700 }}
-                        >
-                          <span>Simulados FCC</span>
-                          <ChevronRight size={16} />
-                        </button>
-                      </div>
+
+                          <div className="simulado-info" style={{ marginTop: 'auto', marginBottom: '1.25rem' }}>
+                            <span><strong>60</strong> Questões</span>
+                            <span><strong>180</strong> Minutos (3h)</span>
+                            <span>Corte Mínimo: <strong>60%</strong></span>
+                          </div>
+
+                          <button
+                            className="btn-primary"
+                            style={{
+                              width: '100%',
+                              justifyContent: 'center',
+                              padding: '0.85rem',
+                              fontSize: '1rem',
+                              fontWeight: 800,
+                              background: bloqueado ? '#d97706' : '#0d9488',
+                              display: 'inline-flex',
+                              alignItems: 'center',
+                              gap: '0.5rem'
+                            }}
+                            onClick={() => iniciarSimulado(sim)}
+                          >
+                            {bloqueado ? (
+                              <>
+                                <Lock size={17} />
+                                <span>Desbloquear Simulado #{sim.numero} (VIP)</span>
+                              </>
+                            ) : (
+                              <span>Iniciar Simulado #{sim.numero} (60 Questões)</span>
+                            )}
+                          </button>
+                        </div>
+                      );
+                    })}
+                  </div>
+                ) : (
+                  <div className="padrao-empty-state animate-fade-in" style={{ maxWidth: '640px', margin: '0 auto 2.5rem' }}>
+                    <div className="padrao-empty-icon" style={{ margin: '0 auto 1rem', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                      <BookOpen size={28} color="#0d9488" />
                     </div>
-                  );
-                })()}
+                    <h3 style={{ fontSize: '1.25rem', fontWeight: 800, color: '#0f172a', marginBottom: '0.5rem' }}>
+                      Simulados da banca {simuladoBanca} em preparação!
+                    </h3>
+                    <p style={{ color: '#64748b', fontSize: '0.95rem', lineHeight: '1.6', marginBottom: '1.5rem' }}>
+                      O acervo da banca <strong>{simuladoBanca}</strong> está sendo catalogado. Assim que novas questões forem inseridas no Supabase, os simulados aparecerão automaticamente aqui!
+                    </p>
+                    <div style={{ display: 'flex', gap: '0.75rem', justifyContent: 'center', flexWrap: 'wrap' }}>
+                      <button type="button" className="btn-primary" onClick={() => setSimuladoBanca('SELECON')} style={{ display: 'inline-flex', alignItems: 'center', gap: '0.5rem', padding: '0.75rem 1.25rem', fontWeight: 700 }}>
+                        <span>Simulados SELECON</span>
+                        <ChevronRight size={16} />
+                      </button>
+                      <button type="button" className="btn-secondary" onClick={() => setSimuladoBanca('FCC')} style={{ display: 'inline-flex', alignItems: 'center', gap: '0.5rem', padding: '0.75rem 1.25rem', fontWeight: 700 }}>
+                        <span>Simulados FCC</span>
+                        <ChevronRight size={16} />
+                      </button>
+                    </div>
+                  </div>
+                )}
               </div>
             ) : (
               /* MODO EXECUÇÃO DO SIMULADO */
-              <div className="simulado-runner">
-                {/* Barra Superior do Simulado */}
-                <div className="simulado-header-bar" style={{ flexWrap: 'wrap', gap: '0.85rem' }}>
-                  <div style={{ flex: 1, minWidth: '240px' }}>
-                    <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '0.25rem' }}>
-                      <span style={{
-                        fontSize: '0.75rem',
-                        fontWeight: 800,
-                        padding: '0.2rem 0.5rem',
-                        borderRadius: '4px',
-                        background: simuladoIndex < 20 ? '#dbeafe' : '#ccfbf1',
-                        color: simuladoIndex < 20 ? '#1e40af' : '#0f766e'
-                      }}>
-                        {simuladoIndex < 20 ? '📖 Módulo I: Português' : '🩺 Módulo II: Enfermagem'}
-                      </span>
-                      <span style={{ fontSize: '0.84rem', color: '#64748b', fontWeight: 600 }}>
-                        Questão {simuladoIndex + 1} de {simuladoAtivo.questoes.length}
-                      </span>
-                    </div>
-                    <h3 style={{ fontSize: '1.15rem', color: '#0f172a', margin: 0, fontWeight: 800 }}>
-                      {simuladoAtivo.titulo}
-                    </h3>
-                  </div>
+              (() => {
+                const totalSim = simuladoAtivo.questoes.length;
+                const qtdPort = simuladoAtivo.distribuicao?.portugues ?? simuladoAtivo.questoes.filter(q => q.materia === 'Língua Portuguesa').length;
+                const qtdEnf = totalSim - qtdPort;
 
-                  <div style={{ display: 'flex', alignItems: 'center', gap: '0.85rem', flexWrap: 'wrap' }}>
-                    <span style={{ fontSize: '0.84rem', color: '#475569', fontWeight: 700, background: '#f1f5f9', padding: '0.35rem 0.75rem', borderRadius: '6px' }}>
-                      {Object.keys(simuladoRespostas).length}/60 Respondidas
-                    </span>
-
-                    <div className="timer-box" title="Tempo restante de prova">
-                      <Timer size={19} />
-                      <span>{formatarTempo(tempoRestante)}</span>
-                    </div>
-
-                    {!simuladoFinalizado && (
-                      <div style={{ display: 'flex', gap: '0.5rem' }}>
-                        <button
-                          type="button"
-                          className="btn-primary"
-                          style={{ background: '#10b981', padding: '0.5rem 0.95rem', fontSize: '0.85rem', fontWeight: 700 }}
-                          onClick={() => {
-                            const faltam = simuladoAtivo.questoes.length - Object.keys(simuladoRespostas).length;
-                            const msg = faltam > 0
-                              ? `Você ainda tem ${faltam} questão(ões) sem resposta. Deseja realmente finalizar o simulado e ver seu resultado?`
-                              : 'Deseja finalizar o simulado e conferir sua pontuação e gabarito comentado?';
-                            if (window.confirm(msg)) {
-                              setSimuladoFinalizado(true);
-                              window.scrollTo({ top: 0, behavior: 'smooth' });
-                            }
-                          }}
-                        >
-                          Finalizar Simulado
-                        </button>
-                        <button
-                          type="button"
-                          onClick={() => {
-                            if (window.confirm('Tem certeza que deseja sair deste simulado? Seu progresso nesta tentativa será cancelado.')) {
-                              setSimuladoAtivo(null);
-                            }
-                          }}
-                          style={{
-                            padding: '0.5rem 0.85rem',
-                            fontSize: '0.82rem',
-                            fontWeight: 700,
-                            background: '#f8fafc',
-                            color: '#64748b',
-                            borderRadius: '6px',
-                            border: '1px solid #cbd5e1',
-                            cursor: 'pointer'
-                          }}
-                        >
-                          Sair
-                        </button>
-                      </div>
-                    )}
-                  </div>
-                </div>
-
-                {!simuladoFinalizado ? (
-                  <div>
-                    {/* Paleta de Navegação das 60 Questões */}
-                    <div className="simulado-palette-box">
-                      {/* Bloco 1: Língua Portuguesa (1 a 20) */}
-                      <div style={{ marginBottom: '0.85rem' }}>
-                        <div className="palette-section-title">
-                          <span>📖 Módulo I: Língua Portuguesa (Questões 01 a 20)</span>
-                          <span style={{ fontSize: '0.75rem', color: '#0d9488' }}>
-                            {simuladoAtivo.questoes.slice(0, 20).filter(q => simuladoRespostas[q.id] !== undefined).length}/20 respondidas
+                return (
+                  <div className="simulado-runner">
+                    {/* Barra Superior do Simulado */}
+                    <div className="simulado-header-bar" style={{ flexWrap: 'wrap', gap: '0.85rem' }}>
+                      <div style={{ flex: 1, minWidth: '240px' }}>
+                        <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '0.25rem' }}>
+                          <span style={{
+                            fontSize: '0.75rem',
+                            fontWeight: 800,
+                            padding: '0.2rem 0.5rem',
+                            borderRadius: '4px',
+                            background: simuladoIndex < qtdPort ? '#dbeafe' : '#ccfbf1',
+                            color: simuladoIndex < qtdPort ? '#1e40af' : '#0f766e'
+                          }}>
+                            {simuladoIndex < qtdPort ? '📖 Módulo I: Português' : '🩺 Módulo II: Enfermagem'}
+                          </span>
+                          <span style={{ fontSize: '0.84rem', color: '#64748b', fontWeight: 600 }}>
+                            Questão {simuladoIndex + 1} de {totalSim}
                           </span>
                         </div>
-                        <div className="palette-grid">
-                          {simuladoAtivo.questoes.slice(0, 20).map((q, idx) => {
-                            const isCurrent = simuladoIndex === idx;
-                            const isAnswered = simuladoRespostas[q.id] !== undefined;
-                            return (
-                              <button
-                                key={q.id}
-                                type="button"
-                                className={`palette-btn ${isCurrent ? 'current' : ''} ${isAnswered ? 'answered' : ''}`}
-                                onClick={() => setSimuladoIndex(idx)}
-                                title={`Questão ${idx + 1}: ${q.assunto_proporcional || q.assunto}`}
-                              >
-                                {idx + 1}
-                              </button>
-                            );
-                          })}
-                        </div>
+                        <h3 style={{ fontSize: '1.15rem', color: '#0f172a', margin: 0, fontWeight: 800 }}>
+                          {simuladoAtivo.titulo}
+                        </h3>
                       </div>
 
-                      {/* Bloco 2: Conhecimentos Específicos em Enfermagem (21 a 60) */}
-                      <div>
-                        <div className="palette-section-title">
-                          <span>🩺 Módulo II: Conhecimentos Específicos em Enfermagem (Questões 21 a 60)</span>
-                          <span style={{ fontSize: '0.75rem', color: '#0d9488' }}>
-                            {simuladoAtivo.questoes.slice(20, 60).filter(q => simuladoRespostas[q.id] !== undefined).length}/40 respondidas
-                          </span>
+                      <div style={{ display: 'flex', alignItems: 'center', gap: '0.85rem', flexWrap: 'wrap' }}>
+                        <span style={{ fontSize: '0.84rem', color: '#475569', fontWeight: 700, background: '#f1f5f9', padding: '0.35rem 0.75rem', borderRadius: '6px' }}>
+                          {Object.keys(simuladoRespostas).length}/{totalSim} Respondidas
+                        </span>
+
+                        <div className="timer-box" title="Tempo restante de prova">
+                          <Timer size={19} />
+                          <span>{formatarTempo(tempoRestante)}</span>
                         </div>
-                        <div className="palette-grid">
-                          {simuladoAtivo.questoes.slice(20, 60).map((q, idx) => {
-                            const realIdx = idx + 20;
-                            const isCurrent = simuladoIndex === realIdx;
-                            const isAnswered = simuladoRespostas[q.id] !== undefined;
-                            return (
-                              <button
-                                key={q.id}
-                                type="button"
-                                className={`palette-btn ${isCurrent ? 'current' : ''} ${isAnswered ? 'answered' : ''}`}
-                                onClick={() => setSimuladoIndex(realIdx)}
-                                title={`Questão ${realIdx + 1}: ${q.assunto_proporcional || q.assunto}`}
-                              >
-                                {realIdx + 1}
-                              </button>
-                            );
-                          })}
-                        </div>
-                      </div>
-                    </div>
 
-                    {/* Cartão da Questão Ativa */}
-                    {(() => {
-                      const q = simuladoAtivo.questoes[simuladoIndex];
-                      if (!q) return null;
-                      const selected = simuladoRespostas[q.id];
-
-                      return (
-                        <div className="question-card" style={{ borderTop: '3px solid #0d9488' }}>
-                          <div className="question-meta" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '0.5rem' }}>
-                            <div style={{ display: 'flex', gap: '0.45rem', flexWrap: 'wrap', alignItems: 'center' }}>
-                              <span className="badge" style={{ background: '#0f172a', color: '#38bdf8', fontWeight: 800 }}>
-                                Questão {simuladoIndex + 1} de 60
-                              </span>
-                              <span className="badge badge-banca">{q.banca}</span>
-                              <span className="badge badge-orgao">{q.orgao} • {q.ano}</span>
-                              <span className="badge badge-cargo">{q.cargo}</span>
-                              <span className="badge badge-materia" style={{ background: '#ecfdf5', color: '#065f46', fontWeight: 700 }}>
-                                {q.assunto_proporcional || q.assunto}
-                              </span>
-                            </div>
-
-                            <div style={{ fontSize: '0.82rem', color: selected ? '#059669' : '#d97706', fontWeight: 700 }}>
-                              {selected ? `✓ Marcada: Letra ${selected}` : '⚠️ Ainda não respondida'}
-                            </div>
-                          </div>
-
-                          <TextoEnunciado enunciado={q.enunciado} questaoId={q.id} />
-
-                          <div className="alternativas-list">
-                            {(q.alternativas || []).map(alt => (
-                              <button
-                                key={alt.id}
-                                type="button"
-                                className={`alt-option ${selected === alt.id ? 'selected' : ''}`}
-                                onClick={() => setSimuladoRespostas({ ...simuladoRespostas, [q.id]: alt.id })}
-                              >
-                                <span className="alt-letter">{alt.id}</span>
-                                <span style={{ flex: 1, textAlign: 'left' }}>{alt.texto}</span>
-                              </button>
-                            ))}
-                          </div>
-
-                          <div style={{ display: 'flex', justifyContent: 'space-between', marginTop: '1.75rem', gap: '0.75rem', flexWrap: 'wrap' }}>
+                        {!simuladoFinalizado && (
+                          <div style={{ display: 'flex', gap: '0.5rem' }}>
                             <button
                               type="button"
                               className="btn-primary"
-                              style={{ background: '#64748b' }}
-                              disabled={simuladoIndex === 0}
+                              style={{ background: '#10b981', padding: '0.5rem 0.95rem', fontSize: '0.85rem', fontWeight: 700 }}
                               onClick={() => {
-                                setSimuladoIndex(simuladoIndex - 1);
-                                window.scrollTo({ top: 180, behavior: 'smooth' });
+                                const faltam = totalSim - Object.keys(simuladoRespostas).length;
+                                const msg = faltam > 0
+                                  ? `Você ainda tem ${faltam} questão(ões) sem resposta. Deseja realmente finalizar o simulado e ver seu resultado?`
+                                  : 'Deseja finalizar o simulado e conferir sua pontuação e gabarito comentado?';
+                                if (window.confirm(msg)) {
+                                  setSimuladoFinalizado(true);
+                                  window.scrollTo({ top: 0, behavior: 'smooth' });
+                                }
                               }}
                             >
-                              <ChevronLeft size={18} />
-                              <span>Anterior</span>
+                              Finalizar Simulado
                             </button>
-
-                            <div style={{ display: 'flex', gap: '0.75rem' }}>
-                              {simuladoIndex < simuladoAtivo.questoes.length - 1 ? (
-                                <button
-                                  type="button"
-                                  className="btn-primary"
-                                  onClick={() => {
-                                    setSimuladoIndex(simuladoIndex + 1);
-                                    window.scrollTo({ top: 180, behavior: 'smooth' });
-                                  }}
-                                >
-                                  <span>Próxima Questão</span>
-                                  <ChevronRight size={18} />
-                                </button>
-                              ) : (
-                                <button
-                                  type="button"
-                                  className="btn-primary"
-                                  style={{ background: '#10b981' }}
-                                  onClick={() => {
-                                    setSimuladoFinalizado(true);
-                                    window.scrollTo({ top: 0, behavior: 'smooth' });
-                                  }}
-                                >
-                                  <Award size={18} />
-                                  <span>Finalizar Prova e Ver Resultado</span>
-                                </button>
-                              )}
-                            </div>
-                          </div>
-                        </div>
-                      );
-                    })()}
-                  </div>
-                ) : (
-                  /* RESULTADO DETALHADO DO SIMULADO */
-                  <div className="animate-fade-in">
-                    {(() => {
-                      const total = simuladoAtivo.questoes.length;
-                      const questoesPort = simuladoAtivo.questoes.slice(0, 20);
-                      const questoesEnf = simuladoAtivo.questoes.slice(20, 60);
-
-                      const acertosPort = questoesPort.filter(q => simuladoRespostas[q.id] === q.resposta_correta).length;
-                      const percPort = Math.round((acertosPort / 20) * 100);
-
-                      const acertosEnf = questoesEnf.filter(q => simuladoRespostas[q.id] === q.resposta_correta).length;
-                      const percEnf = Math.round((acertosEnf / 40) * 100);
-
-                      const totalAcertos = acertosPort + acertosEnf;
-                      const percTotal = Math.round((totalAcertos / total) * 100);
-
-                      const isAprovado = percTotal >= 60 && percPort >= 50 && percEnf >= 50;
-
-                      // Filtragem para revisão
-                      const questoesParaRevisao = simuladoAtivo.questoes.filter(q => {
-                        const acertou = simuladoRespostas[q.id] === q.resposta_correta;
-                        if (filtroRevisaoSimulado === 'erros') return !acertou;
-                        if (filtroRevisaoSimulado === 'acertos') return acertou;
-                        return true;
-                      });
-
-                      return (
-                        <div>
-                          <div className="question-card" style={{ textAlign: 'center', padding: '2.5rem 1.5rem', marginBottom: '2rem' }}>
-                            <Award size={60} color={isAprovado ? '#0d9488' : '#eab308'} style={{ margin: '0 auto 1rem' }} />
-                            <h2 style={{ fontSize: '1.9rem', fontWeight: 800, color: '#0f172a', marginBottom: '0.4rem' }}>
-                              Simulado Concluído com Sucesso!
-                            </h2>
-                            <p style={{ color: '#64748b', fontSize: '0.98rem', maxWidth: '600px', margin: '0 auto 1.5rem' }}>
-                              Resultado oficial apurado com base no gabarito das 60 questões proporcionais da banca SELECON.
-                            </p>
-
-                            {/* Cards de Pontuação por Módulo */}
-                            <div className="simulado-score-grid">
-                              <div className="simulado-score-card main">
-                                <div className="simulado-score-num">{percTotal}%</div>
-                                <div className="simulado-score-label">Pontuação Geral ({totalAcertos}/60)</div>
-                              </div>
-                              <div className="simulado-score-card">
-                                <div className="simulado-score-num" style={{ color: percPort >= 50 ? '#0d9488' : '#dc2626' }}>
-                                  {percPort}%
-                                </div>
-                                <div className="simulado-score-label">Português ({acertosPort}/20)</div>
-                              </div>
-                              <div className="simulado-score-card">
-                                <div className="simulado-score-num" style={{ color: percEnf >= 50 ? '#0d9488' : '#dc2626' }}>
-                                  {percEnf}%
-                                </div>
-                                <div className="simulado-score-label">Enfermagem ({acertosEnf}/40)</div>
-                              </div>
-                            </div>
-
-                            {/* Diagnóstico de Nota de Corte */}
-                            <div style={{
-                              padding: '1.25rem',
-                              borderRadius: '8px',
-                              background: isAprovado ? '#ecfdf5' : '#fffbeb',
-                              border: isAprovado ? '1px solid #a7f3d0' : '1px solid #fde68a',
-                              color: isAprovado ? '#065f46' : '#92400e',
-                              textAlign: 'left',
-                              fontSize: '0.95rem',
-                              lineHeight: '1.6',
-                              marginBottom: '1.75rem'
-                            }}>
-                              <div style={{ fontWeight: 800, marginBottom: '0.25rem', display: 'flex', alignItems: 'center', gap: '0.45rem' }}>
-                                {isAprovado ? <CheckCircle2 size={19} color="#059669" /> : <XCircle size={19} color="#d97706" />}
-                                <span>{isAprovado ? '🎉 APROVADO(A) NA NOTA DE CORTE DE PREFEITURAS!' : '⚠️ ATENÇÃO: ABAIXO DA NOTA DE CORTE DE CONVOCAÇÃO'}</span>
-                              </div>
-                              {isAprovado ? (
-                                <p style={{ margin: 0 }}>
-                                  Parabéns! Sua nota atingiu os critérios de aprovação de concursos municipais (mínimo de 50% em cada disciplina e 60% geral). Você está muito bem preparado(a) para a prova real!
-                                </p>
-                              ) : (
-                                <p style={{ margin: 0 }}>
-                                  Nos editais de prefeituras organizados pela SELECON, a nota de corte exige no mínimo <strong>50% em Português (10/20)</strong>, <strong>50% em Enfermagem (20/40)</strong> e <strong>60% no cômputo geral (36/60)</strong>. Revise os comentários das questões que você errou logo abaixo para fechar essas lacunas!
-                                </p>
-                              )}
-                            </div>
-
-                            {/* Ações pós-simulado */}
-                            <div style={{ display: 'flex', gap: '0.85rem', justifyContent: 'center', flexWrap: 'wrap' }}>
-                              <button
-                                type="button"
-                                className="btn-primary"
-                                onClick={() => {
-                                  setSimuladoRespostas({});
-                                  setSimuladoIndex(0);
-                                  setTempoRestante(simuladoAtivo.duracaoMinutos * 60);
-                                  setSimuladoFinalizado(false);
-                                  window.scrollTo({ top: 0, behavior: 'smooth' });
-                                }}
-                              >
-                                <RotateCcw size={17} />
-                                <span>Refazer Este Simulado</span>
-                              </button>
-                              <button
-                                type="button"
-                                className="btn-primary"
-                                style={{ background: '#475569' }}
-                                onClick={() => {
+                            <button
+                              type="button"
+                              onClick={() => {
+                                if (window.confirm('Tem certeza que deseja sair deste simulado? Seu progresso nesta tentativa será cancelado.')) {
                                   setSimuladoAtivo(null);
-                                  window.scrollTo({ top: 0, behavior: 'smooth' });
-                                }}
-                              >
-                                <span>Escolher Outro Simulado</span>
-                              </button>
+                                }
+                              }}
+                              style={{ padding: '0.5rem 0.85rem', fontSize: '0.82rem', fontWeight: 700, background: '#f8fafc', color: '#64748b', borderRadius: '6px', border: '1px solid #cbd5e1', cursor: 'pointer' }}
+                            >
+                              Sair
+                            </button>
+                          </div>
+                        )}
+                      </div>
+                    </div>
+
+                    {!simuladoFinalizado ? (
+                      <div>
+                        {/* Paleta de Navegação */}
+                        <div className="simulado-palette-box">
+                          <div style={{ marginBottom: '0.85rem' }}>
+                            <div className="palette-section-title">
+                              <span>📖 Módulo I: Língua Portuguesa (Questões 01 a {qtdPort})</span>
+                              <span style={{ fontSize: '0.75rem', color: '#0d9488' }}>
+                                {simuladoAtivo.questoes.slice(0, qtdPort).filter(q => simuladoRespostas[q.id] !== undefined).length}/{qtdPort} respondidas
+                              </span>
+                            </div>
+                            <div className="palette-grid">
+                              {simuladoAtivo.questoes.slice(0, qtdPort).map((q, idx) => (
+                                <button
+                                  key={q.id}
+                                  type="button"
+                                  className={`palette-btn ${simuladoIndex === idx ? 'current' : ''} ${simuladoRespostas[q.id] !== undefined ? 'answered' : ''}`}
+                                  onClick={() => setSimuladoIndex(idx)}
+                                  title={`Questão ${idx + 1}: ${q.assunto}`}
+                                >
+                                  {idx + 1}
+                                </button>
+                              ))}
                             </div>
                           </div>
 
-                          {/* Seção de Revisão Completa com Gabarito e Comentários */}
-                          <div style={{ marginTop: '2.5rem' }}>
-                            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '0.85rem', marginBottom: '1.25rem' }}>
-                              <div>
-                                <h3 style={{ fontSize: '1.35rem', fontWeight: 800, color: '#0f172a' }}>
-                                  Revisão e Gabarito Oficial Comentado
-                                </h3>
-                                <p style={{ color: '#64748b', fontSize: '0.88rem' }}>
-                                  Analise alternativa por alternativa com fundamentação técnica e legal.
-                                </p>
-                              </div>
-
-                              <div style={{ display: 'flex', gap: '0.4rem', background: '#e2e8f0', padding: '0.25rem', borderRadius: '8px' }}>
-                                <button
-                                  type="button"
-                                  className={`btn-padrao-pill ${filtroRevisaoSimulado === 'todas' ? 'active' : ''}`}
-                                  onClick={() => setFiltroRevisaoSimulado('todas')}
-                                >
-                                  Todas (60)
-                                </button>
-                                <button
-                                  type="button"
-                                  className={`btn-padrao-pill ${filtroRevisaoSimulado === 'erros' ? 'active' : ''}`}
-                                  onClick={() => setFiltroRevisaoSimulado('erros')}
-                                >
-                                  Erros ({60 - totalAcertos})
-                                </button>
-                                <button
-                                  type="button"
-                                  className={`btn-padrao-pill ${filtroRevisaoSimulado === 'acertos' ? 'active' : ''}`}
-                                  onClick={() => setFiltroRevisaoSimulado('acertos')}
-                                >
-                                  Acertos ({totalAcertos})
-                                </button>
-                              </div>
+                          <div>
+                            <div className="palette-section-title">
+                              <span>🩺 Módulo II: Conhecimentos Específicos em Enfermagem (Questões {qtdPort + 1} a {totalSim})</span>
+                              <span style={{ fontSize: '0.75rem', color: '#0d9488' }}>
+                                {simuladoAtivo.questoes.slice(qtdPort).filter(q => simuladoRespostas[q.id] !== undefined).length}/{qtdEnf} respondidas
+                              </span>
                             </div>
-
-                            {/* Lista das Questões em Revisão */}
-                            <div style={{ display: 'flex', flexDirection: 'column', gap: '1.25rem' }}>
-                              {questoesParaRevisao.map(q => {
-                                const respAluno = simuladoRespostas[q.id];
-                                const acertou = respAluno === q.resposta_correta;
-
+                            <div className="palette-grid">
+                              {simuladoAtivo.questoes.slice(qtdPort).map((q, idx) => {
+                                const realIdx = idx + qtdPort;
                                 return (
-                                  <div
+                                  <button
                                     key={q.id}
-                                    className="simulado-review-card"
-                                    style={{
-                                      borderLeft: acertou ? '4px solid #10b981' : '4px solid #ef4444'
-                                    }}
+                                    type="button"
+                                    className={`palette-btn ${simuladoIndex === realIdx ? 'current' : ''} ${simuladoRespostas[q.id] !== undefined ? 'answered' : ''}`}
+                                    onClick={() => setSimuladoIndex(realIdx)}
+                                    title={`Questão ${realIdx + 1}: ${q.assunto}`}
                                   >
-                                    <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '0.5rem', marginBottom: '0.75rem' }}>
-                                      <div style={{ display: 'flex', gap: '0.45rem', alignItems: 'center', flexWrap: 'wrap' }}>
-                                        <span className="badge" style={{ background: '#0f172a', color: '#fff', fontWeight: 800 }}>
-                                          Questão {q.numero_simulado}
-                                        </span>
-                                        <span className="badge badge-banca">{q.banca}</span>
-                                        <span className="badge badge-orgao">{q.orgao} • {q.ano}</span>
-                                        <span className="badge badge-materia">{q.assunto_proporcional || q.assunto}</span>
-                                      </div>
-
-                                      <div>
-                                        {acertou ? (
-                                          <span style={{ color: '#059669', fontWeight: 800, fontSize: '0.85rem', display: 'inline-flex', alignItems: 'center', gap: '0.35rem' }}>
-                                            <CheckCircle2 size={16} /> Você acertou (Letra {respAluno})
-                                          </span>
-                                        ) : (
-                                          <span style={{ color: '#dc2626', fontWeight: 800, fontSize: '0.85rem', display: 'inline-flex', alignItems: 'center', gap: '0.35rem' }}>
-                                            <XCircle size={16} /> {respAluno ? `Você marcou (${respAluno}), Gabarito (${q.resposta_correta})` : `Não respondida, Gabarito (${q.resposta_correta})`}
-                                          </span>
-                                        )}
-                                      </div>
-                                    </div>
-
-                                    <TextoEnunciado enunciado={q.enunciado} questaoId={`rev-${q.id}`} />
-
-                                    {/* Alternativas */}
-                                    <div style={{ display: 'flex', flexDirection: 'column', gap: '0.45rem', marginBottom: '1.15rem' }}>
-                                      {(q.alternativas || []).map(alt => {
-                                        const isCorreta = alt.id === q.resposta_correta;
-                                        const isMarcadaAluno = respAluno === alt.id;
-                                        let bg = '#f8fafc';
-                                        let border = '#e2e8f0';
-                                        let textCol = '#334155';
-
-                                        if (isCorreta) {
-                                          bg = '#ecfdf5';
-                                          border = '#10b981';
-                                          textCol = '#065f46';
-                                        } else if (isMarcadaAluno && !acertou) {
-                                          bg = '#fef2f2';
-                                          border = '#ef4444';
-                                          textCol = '#991b1b';
-                                        }
-
-                                        return (
-                                          <div
-                                            key={alt.id}
-                                            style={{
-                                              padding: '0.65rem 0.95rem',
-                                              borderRadius: '6px',
-                                              border: `1.5px solid ${border}`,
-                                              background: bg,
-                                              color: textCol,
-                                              fontSize: '0.92rem',
-                                              display: 'flex',
-                                              alignItems: 'center',
-                                              gap: '0.65rem'
-                                            }}
-                                          >
-                                            <span style={{
-                                              width: '24px',
-                                              height: '24px',
-                                              borderRadius: '50%',
-                                              background: isCorreta ? '#10b981' : isMarcadaAluno ? '#ef4444' : '#cbd5e1',
-                                              color: '#ffffff',
-                                              display: 'flex',
-                                              alignItems: 'center',
-                                              justifyContent: 'center',
-                                              fontSize: '0.78rem',
-                                              fontWeight: 800,
-                                              flexShrink: 0
-                                            }}>
-                                              {alt.id}
-                                            </span>
-                                            <span style={{ flex: 1, fontWeight: (isCorreta || isMarcadaAluno) ? 700 : 500 }}>
-                                              {alt.texto}
-                                            </span>
-                                            {isCorreta && (
-                                              <span style={{ fontSize: '0.75rem', fontWeight: 800, color: '#059669', background: '#d1fae5', padding: '0.15rem 0.45rem', borderRadius: '4px' }}>
-                                                Gabarito Oficial
-                                              </span>
-                                            )}
-                                            {isMarcadaAluno && !isCorreta && (
-                                              <span style={{ fontSize: '0.75rem', fontWeight: 800, color: '#b91c1c', background: '#fee2e2', padding: '0.15rem 0.45rem', borderRadius: '4px' }}>
-                                                Sua Escolha
-                                              </span>
-                                            )}
-                                          </div>
-                                        );
-                                      })}
-                                    </div>
-
-                                    {/* Comentário / Fundamentação */}
-                                    <div style={{ background: '#f8fafc', borderLeft: '3px solid #0d9488', padding: '0.9rem 1.15rem', borderRadius: '4px', fontSize: '0.88rem', lineHeight: '1.6' }}>
-                                      <div style={{ fontWeight: 800, color: '#0f766e', marginBottom: '0.35rem', display: 'flex', alignItems: 'center', gap: '0.35rem' }}>
-                                        <CheckCircle2 size={16} /> Fundamentação Oficial (Gabarito {q.resposta_correta}):
-                                      </div>
-                                      <div style={{ color: '#334155' }}>
-                                        {q.fundamentacao_correta || q.comentario || 'Gabarito Oficial conferido pela banca examinadora.'}
-                                      </div>
-
-                                      {q.analise_distratores && q.analise_distratores.length > 0 && (
-                                        <div style={{ marginTop: '0.75rem', paddingTop: '0.75rem', borderTop: '1px dashed #cbd5e1' }}>
-                                          <div style={{ fontWeight: 700, color: '#64748b', fontSize: '0.82rem', marginBottom: '0.35rem' }}>
-                                            Por que as outras alternativas estão incorretas:
-                                          </div>
-                                          {q.analise_distratores.map(d => (
-                                            <div key={d.letra} style={{ fontSize: '0.82rem', color: '#475569', marginBottom: '0.2rem' }}>
-                                              <strong>Letra {d.letra}:</strong> {d.motivo}
-                                            </div>
-                                          ))}
-                                        </div>
-                                      )}
-                                    </div>
-                                  </div>
+                                    {realIdx + 1}
+                                  </button>
                                 );
                               })}
                             </div>
                           </div>
                         </div>
-                      );
-                    })()}
+
+                        {/* Cartão da Questão Ativa */}
+                        {(() => {
+                          const q = simuladoAtivo.questoes[simuladoIndex];
+                          if (!q) return null;
+                          const selected = simuladoRespostas[q.id];
+
+                          return (
+                            <div className="question-card" style={{ borderTop: '3px solid #0d9488' }}>
+                              <div className="question-meta" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '0.5rem' }}>
+                                <div style={{ display: 'flex', gap: '0.45rem', flexWrap: 'wrap', alignItems: 'center' }}>
+                                  <span className="badge" style={{ background: '#0f172a', color: '#38bdf8', fontWeight: 800 }}>
+                                    Questão {simuladoIndex + 1} de {totalSim}
+                                  </span>
+                                  <span className="badge badge-banca">{q.banca}</span>
+                                  <span className="badge badge-orgao">{q.orgao} • {q.ano}</span>
+                                  <span className="badge badge-cargo">{q.cargo}</span>
+                                  <span className="badge badge-materia" style={{ background: '#ecfdf5', color: '#065f46', fontWeight: 700 }}>
+                                    {q.assunto}
+                                  </span>
+                                </div>
+
+                                <div style={{ fontSize: '0.82rem', color: selected ? '#059669' : '#d97706', fontWeight: 700 }}>
+                                  {selected ? `✓ Marcada: Letra ${selected}` : '⚠️ Ainda não respondida'}
+                                </div>
+                              </div>
+
+                              <TextoEnunciado enunciado={q.enunciado} questaoId={q.id} />
+
+                              <div className="alternativas-list">
+                                {(q.alternativas || []).map(alt => (
+                                  <button
+                                    key={alt.id}
+                                    type="button"
+                                    className={`alt-option ${selected === alt.id ? 'selected' : ''}`}
+                                    onClick={() => setSimuladoRespostas({ ...simuladoRespostas, [q.id]: alt.id })}
+                                  >
+                                    <span className="alt-letter">{alt.id}</span>
+                                    <span style={{ flex: 1, textAlign: 'left' }}>{alt.texto}</span>
+                                  </button>
+                                ))}
+                              </div>
+
+                              <div style={{ display: 'flex', justifyContent: 'space-between', marginTop: '1.75rem', gap: '0.75rem', flexWrap: 'wrap' }}>
+                                <button
+                                  type="button"
+                                  className="btn-primary"
+                                  style={{ background: '#64748b' }}
+                                  disabled={simuladoIndex === 0}
+                                  onClick={() => {
+                                    setSimuladoIndex(simuladoIndex - 1);
+                                    window.scrollTo({ top: 180, behavior: 'smooth' });
+                                  }}
+                                >
+                                  <ChevronLeft size={18} />
+                                  <span>Anterior</span>
+                                </button>
+
+                                <div style={{ display: 'flex', gap: '0.75rem' }}>
+                                  {simuladoIndex < totalSim - 1 ? (
+                                    <button
+                                      type="button"
+                                      className="btn-primary"
+                                      onClick={() => {
+                                        setSimuladoIndex(simuladoIndex + 1);
+                                        window.scrollTo({ top: 180, behavior: 'smooth' });
+                                      }}
+                                    >
+                                      <span>Próxima Questão</span>
+                                      <ChevronRight size={18} />
+                                    </button>
+                                  ) : (
+                                    <button
+                                      type="button"
+                                      className="btn-primary"
+                                      style={{ background: '#10b981' }}
+                                      onClick={() => {
+                                        setSimuladoFinalizado(true);
+                                        window.scrollTo({ top: 0, behavior: 'smooth' });
+                                      }}
+                                    >
+                                      <Award size={18} />
+                                      <span>Finalizar Prova e Ver Resultado</span>
+                                    </button>
+                                  )}
+                                </div>
+                              </div>
+                            </div>
+                          );
+                        })()}
+                      </div>
+                    ) : (
+                      /* RESULTADO DETALHADO DO SIMULADO */
+                      <div className="animate-fade-in">
+                        {(() => {
+                          const questoesPort = simuladoAtivo.questoes.slice(0, qtdPort);
+                          const questoesEnf = simuladoAtivo.questoes.slice(qtdPort);
+
+                          const acertosPort = questoesPort.filter(q => simuladoRespostas[q.id] === q.resposta_correta).length;
+                          const percPort = qtdPort > 0 ? Math.round((acertosPort / qtdPort) * 100) : 0;
+
+                          const acertosEnf = questoesEnf.filter(q => simuladoRespostas[q.id] === q.resposta_correta).length;
+                          const percEnf = qtdEnf > 0 ? Math.round((acertosEnf / qtdEnf) * 100) : 0;
+
+                          const totalAcertos = acertosPort + acertosEnf;
+                          const percTotal = totalSim > 0 ? Math.round((totalAcertos / totalSim) * 100) : 0;
+                          const isAprovado = percTotal >= 60 && percPort >= 50 && percEnf >= 50;
+
+                          const questoesParaRevisao = simuladoAtivo.questoes.filter(q => {
+                            const acertou = simuladoRespostas[q.id] === q.resposta_correta;
+                            if (filtroRevisaoSimulado === 'erros') return !acertou;
+                            if (filtroRevisaoSimulado === 'acertos') return acertou;
+                            return true;
+                          });
+
+                          return (
+                            <div>
+                              <div className="question-card" style={{ textAlign: 'center', padding: '2.5rem 1.5rem', marginBottom: '2rem' }}>
+                                <Award size={60} color={isAprovado ? '#0d9488' : '#eab308'} style={{ margin: '0 auto 1rem' }} />
+                                <h2 style={{ fontSize: '1.9rem', fontWeight: 800, color: '#0f172a', marginBottom: '0.4rem' }}>
+                                  Simulado Concluído com Sucesso!
+                                </h2>
+                                <p style={{ color: '#64748b', fontSize: '0.98rem', maxWidth: '600px', margin: '0 auto 1.5rem' }}>
+                                  Resultado oficial apurado com base no gabarito das {totalSim} questões da banca <strong>{simuladoAtivo.banca}</strong>.
+                                </p>
+
+                                <div className="simulado-score-grid">
+                                  <div className="simulado-score-card main">
+                                    <div className="simulado-score-num">{percTotal}%</div>
+                                    <div className="simulado-score-label">Pontuação Geral ({totalAcertos}/{totalSim})</div>
+                                  </div>
+                                  <div className="simulado-score-card">
+                                    <div className="simulado-score-num" style={{ color: percPort >= 50 ? '#0d9488' : '#dc2626' }}>
+                                      {percPort}%
+                                    </div>
+                                    <div className="simulado-score-label">Português ({acertosPort}/{qtdPort})</div>
+                                  </div>
+                                  <div className="simulado-score-card">
+                                    <div className="simulado-score-num" style={{ color: percEnf >= 50 ? '#0d9488' : '#dc2626' }}>
+                                      {percEnf}%
+                                    </div>
+                                    <div className="simulado-score-label">Enfermagem ({acertosEnf}/{qtdEnf})</div>
+                                  </div>
+                                </div>
+
+                                <div style={{
+                                  padding: '1.25rem',
+                                  borderRadius: '8px',
+                                  background: isAprovado ? '#ecfdf5' : '#fffbeb',
+                                  border: isAprovado ? '1px solid #a7f3d0' : '1px solid #fde68a',
+                                  color: isAprovado ? '#065f46' : '#92400e',
+                                  textAlign: 'left',
+                                  fontSize: '0.95rem',
+                                  lineHeight: '1.6',
+                                  marginBottom: '1.75rem'
+                                }}>
+                                  <div style={{ fontWeight: 800, marginBottom: '0.25rem', display: 'flex', alignItems: 'center', gap: '0.45rem' }}>
+                                    {isAprovado ? <CheckCircle2 size={19} color="#059669" /> : <XCircle size={19} color="#d97706" />}
+                                    <span>{isAprovado ? '🎉 APROVADO(A) NA NOTA DE CORTE!' : '⚠️ ATENÇÃO: ABAIXO DA NOTA DE CORTE DE CONVOCAÇÃO'}</span>
+                                  </div>
+                                  {isAprovado ? (
+                                    <p style={{ margin: 0 }}>
+                                      Parabéns! Sua nota atingiu os critérios de aprovação de concursos organizados pela banca <strong>{simuladoAtivo.banca}</strong> (mínimo de 50% em cada disciplina e 60% geral).
+                                    </p>
+                                  ) : (
+                                    <p style={{ margin: 0 }}>
+                                      Nos editais organizados pela banca <strong>{simuladoAtivo.banca}</strong>, a nota de corte exige no mínimo <strong>50% em Português ({Math.ceil(qtdPort / 2)}/{qtdPort})</strong>, <strong>50% em Enfermagem ({Math.ceil(qtdEnf / 2)}/{qtdEnf})</strong> e <strong>60% geral ({Math.ceil(totalSim * 0.6)}/{totalSim})</strong>. Revise os comentários das questões que você errou logo abaixo!
+                                    </p>
+                                  )}
+                                </div>
+
+                                <div style={{ display: 'flex', gap: '0.85rem', justifyContent: 'center', flexWrap: 'wrap' }}>
+                                  <button
+                                    type="button"
+                                    className="btn-primary"
+                                    onClick={() => {
+                                      setSimuladoRespostas({});
+                                      setSimuladoIndex(0);
+                                      setTempoRestante(simuladoAtivo.duracaoMinutos * 60);
+                                      setSimuladoFinalizado(false);
+                                      window.scrollTo({ top: 0, behavior: 'smooth' });
+                                    }}
+                                  >
+                                    <RotateCcw size={17} />
+                                    <span>Refazer Este Simulado</span>
+                                  </button>
+                                  <button
+                                    type="button"
+                                    className="btn-primary"
+                                    style={{ background: '#475569' }}
+                                    onClick={() => {
+                                      setSimuladoAtivo(null);
+                                      window.scrollTo({ top: 0, behavior: 'smooth' });
+                                    }}
+                                  >
+                                    <span>Escolher Outro Simulado</span>
+                                  </button>
+                                </div>
+                              </div>
+
+                              {/* Revisão Completa */}
+                              <div style={{ marginTop: '2.5rem' }}>
+                                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '0.85rem', marginBottom: '1.25rem' }}>
+                                  <div>
+                                    <h3 style={{ fontSize: '1.35rem', fontWeight: 800, color: '#0f172a' }}>
+                                      Revisão e Gabarito Oficial Comentado
+                                    </h3>
+                                    <p style={{ color: '#64748b', fontSize: '0.88rem' }}>
+                                      Analise alternativa por alternativa com fundamentação técnica e legal.
+                                    </p>
+                                  </div>
+
+                                  <div style={{ display: 'flex', gap: '0.4rem', background: '#e2e8f0', padding: '0.25rem', borderRadius: '8px' }}>
+                                    <button type="button" className={`btn-padrao-pill ${filtroRevisaoSimulado === 'todas' ? 'active' : ''}`} onClick={() => setFiltroRevisaoSimulado('todas')}>
+                                      Todas ({totalSim})
+                                    </button>
+                                    <button type="button" className={`btn-padrao-pill ${filtroRevisaoSimulado === 'erros' ? 'active' : ''}`} onClick={() => setFiltroRevisaoSimulado('erros')}>
+                                      Erros ({totalSim - totalAcertos})
+                                    </button>
+                                    <button type="button" className={`btn-padrao-pill ${filtroRevisaoSimulado === 'acertos' ? 'active' : ''}`} onClick={() => setFiltroRevisaoSimulado('acertos')}>
+                                      Acertos ({totalAcertos})
+                                    </button>
+                                  </div>
+                                </div>
+
+                                <div style={{ display: 'flex', flexDirection: 'column', gap: '1.25rem' }}>
+                                  {questoesParaRevisao.map(q => {
+                                    const respAluno = simuladoRespostas[q.id];
+                                    const acertou = respAluno === q.resposta_correta;
+
+                                    return (
+                                      <div key={q.id} className="simulado-review-card" style={{ borderLeft: acertou ? '4px solid #10b981' : '4px solid #ef4444' }}>
+                                        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '0.5rem', marginBottom: '0.75rem' }}>
+                                          <div style={{ display: 'flex', gap: '0.45rem', alignItems: 'center', flexWrap: 'wrap' }}>
+                                            <span className="badge" style={{ background: '#0f172a', color: '#fff', fontWeight: 800 }}>
+                                              Questão {q.numero_simulado}
+                                            </span>
+                                            <span className="badge badge-banca">{q.banca}</span>
+                                            <span className="badge badge-orgao">{q.orgao} • {q.ano}</span>
+                                            <span className="badge badge-materia">{q.assunto}</span>
+                                          </div>
+
+                                          <div>
+                                            {acertou ? (
+                                              <span style={{ color: '#059669', fontWeight: 800, fontSize: '0.85rem', display: 'inline-flex', alignItems: 'center', gap: '0.35rem' }}>
+                                                <CheckCircle2 size={16} /> Você acertou (Letra {respAluno})
+                                              </span>
+                                            ) : (
+                                              <span style={{ color: '#dc2626', fontWeight: 800, fontSize: '0.85rem', display: 'inline-flex', alignItems: 'center', gap: '0.35rem' }}>
+                                                <XCircle size={16} /> {respAluno ? `Você marcou (${respAluno}), Gabarito (${q.resposta_correta})` : `Não respondida, Gabarito (${q.resposta_correta})`}
+                                              </span>
+                                            )}
+                                          </div>
+                                        </div>
+
+                                        <TextoEnunciado enunciado={q.enunciado} questaoId={`rev-${q.id}`} />
+
+                                        <div style={{ display: 'flex', flexDirection: 'column', gap: '0.45rem', marginBottom: '1.15rem' }}>
+                                          {(q.alternativas || []).map(alt => {
+                                            const isCorreta = alt.id === q.resposta_correta;
+                                            const isMarcadaAluno = respAluno === alt.id;
+                                            let bg = '#f8fafc';
+                                            let border = '#e2e8f0';
+                                            let textCol = '#334155';
+
+                                            if (isCorreta) {
+                                              bg = '#ecfdf5';
+                                              border = '#10b981';
+                                              textCol = '#065f46';
+                                            } else if (isMarcadaAluno && !acertou) {
+                                              bg = '#fef2f2';
+                                              border = '#ef4444';
+                                              textCol = '#991b1b';
+                                            }
+
+                                            return (
+                                              <div key={alt.id} style={{ padding: '0.65rem 0.95rem', borderRadius: '6px', border: `1.5px solid ${border}`, background: bg, color: textCol, fontSize: '0.92rem', display: 'flex', alignItems: 'center', gap: '0.65rem' }}>
+                                                <span style={{ width: '24px', height: '24px', borderRadius: '50%', background: isCorreta ? '#10b981' : isMarcadaAluno ? '#ef4444' : '#cbd5e1', color: '#ffffff', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '0.78rem', fontWeight: 800, flexShrink: 0 }}>
+                                                  {alt.id}
+                                                </span>
+                                                <span style={{ flex: 1, fontWeight: (isCorreta || isMarcadaAluno) ? 700 : 500 }}>
+                                                  {alt.texto}
+                                                </span>
+                                                {isCorreta && (
+                                                  <span style={{ fontSize: '0.75rem', fontWeight: 800, color: '#059669', background: '#d1fae5', padding: '0.15rem 0.45rem', borderRadius: '4px' }}>
+                                                    Gabarito Oficial
+                                                  </span>
+                                                )}
+                                                {isMarcadaAluno && !isCorreta && (
+                                                  <span style={{ fontSize: '0.75rem', fontWeight: 800, color: '#b91c1c', background: '#fee2e2', padding: '0.15rem 0.45rem', borderRadius: '4px' }}>
+                                                    Sua Escolha
+                                                  </span>
+                                                )}
+                                              </div>
+                                            );
+                                          })}
+                                        </div>
+
+                                        <div style={{ background: '#f8fafc', borderLeft: '3px solid #0d9488', padding: '0.9rem 1.15rem', borderRadius: '4px', fontSize: '0.88rem', lineHeight: '1.6' }}>
+                                          <div style={{ fontWeight: 800, color: '#0f766e', marginBottom: '0.35rem', display: 'flex', alignItems: 'center', gap: '0.35rem' }}>
+                                            <CheckCircle2 size={16} /> Fundamentação Oficial (Gabarito {q.resposta_correta}):
+                                          </div>
+                                          <div style={{ color: '#334155' }}>
+                                            {q.fundamentacao_correta || 'Gabarito Oficial conferido pela banca examinadora.'}
+                                          </div>
+
+                                          {q.analise_distratores && q.analise_distratores.length > 0 && (
+                                            <div style={{ marginTop: '0.75rem', paddingTop: '0.75rem', borderTop: '1px dashed #cbd5e1' }}>
+                                              <div style={{ fontWeight: 700, color: '#64748b', fontSize: '0.82rem', marginBottom: '0.35rem' }}>
+                                                Por que as outras alternativas estão incorretas:
+                                              </div>
+                                              {q.analise_distratores.map(d => (
+                                                <div key={d.letra} style={{ fontSize: '0.82rem', color: '#475569', marginBottom: '0.2rem' }}>
+                                                  <strong>Letra {d.letra}:</strong> {d.motivo}
+                                                </div>
+                                              ))}
+                                            </div>
+                                          )}
+                                        </div>
+                                      </div>
+                                    );
+                                  })}
+                                </div>
+                              </div>
+                            </div>
+                          );
+                        })()}
+                      </div>
+                    )}
                   </div>
-                )}
-              </div>
+                );
+              })()
             )}
           </section>
         )}
 
-        {/* ABA: PADRÃO DA BANCA (RAIO-X MULTI-BANCAS) */}
+        {/* ABA: PADRÃO DA BANCA (RAIO-X 100% DINÂMICO DO SUPABASE) */}
         {activeTab === 'padrao' && (
           <section className="animate-fade-in">
-            {/* Filtros Compactos em Formato de Funil: Escolha a Banca e Escolha a Disciplina */}
             <div className="padrao-filters-card">
-                {/* 1. Escolha a Banca */}
-                <div className="padrao-filter-col">
-                  <span className="padrao-filter-label">(escolha a banca)</span>
-                  <div className="padrao-dropdown-container">
-                    <button
-                      type="button"
-                      className={`btn-padrao-funnel ${bancaDropdownAberto ? 'active' : ''}`}
-                      onClick={() => {
-                        setBancaDropdownAberto(!bancaDropdownAberto);
-                        setMateriaDropdownAberto(false);
-                      }}
-                      title="Clique para escolher a banca examinadora"
-                    >
-                      <div className="funnel-left">
-                        <Filter size={16} className="funnel-icon" />
-                        <span className="funnel-text">{padraoBanca === 'Todas' ? 'Todas as Bancas' : padraoBanca}</span>
-                      </div>
-                      <div className="funnel-right">
-                        <span className="pill-badge">
-                          {padraoBanca === 'SELECON' ? '2.019 q.' : padraoBanca === 'FCC' ? '1.865 q.' : padraoBanca === 'Todas' ? '3.884 q.' : 'Em Breve'}
-                        </span>
-                        <ChevronDown size={16} className={`funnel-arrow ${bancaDropdownAberto ? 'open' : ''}`} />
-                      </div>
-                    </button>
+              {/* 1. Escolha a Banca */}
+              <div className="padrao-filter-col">
+                <span className="padrao-filter-label">(escolha a banca)</span>
+                <div className="padrao-dropdown-container">
+                  <button
+                    type="button"
+                    className={`btn-padrao-funnel ${bancaDropdownAberto ? 'active' : ''}`}
+                    onClick={() => {
+                      setBancaDropdownAberto(!bancaDropdownAberto);
+                      setMateriaDropdownAberto(false);
+                    }}
+                    title="Clique para escolher a banca examinadora"
+                  >
+                    <div className="funnel-left">
+                      <Filter size={16} className="funnel-icon" />
+                      <span className="funnel-text">{padraoBanca === 'Todas' ? 'Todas as Bancas' : padraoBanca}</span>
+                    </div>
+                    <div className="funnel-right">
+                      <span className="pill-badge">
+                        {padraoBanca === 'Todas'
+                          ? fmtQ(totalGeralAcervo)
+                          : contarPorFiltro(statsAcervo, { banca: padraoBanca }) > 0
+                            ? fmtQ(contarPorFiltro(statsAcervo, { banca: padraoBanca }))
+                            : 'Em Breve'}
+                      </span>
+                      <ChevronDown size={16} className={`funnel-arrow ${bancaDropdownAberto ? 'open' : ''}`} />
+                    </div>
+                  </button>
 
-                    {bancaDropdownAberto && (
-                      <div className="padrao-dropdown-menu animate-fade-in">
-                        <button
-                          type="button"
-                          className={`padrao-dropdown-item ${padraoBanca === 'SELECON' ? 'selected' : ''}`}
-                          onClick={() => {
-                            setPadraoBanca('SELECON');
-                            setBancaDropdownAberto(false);
-                          }}
-                        >
-                          <span className="item-name">SELECON</span>
-                          <span className="pill-badge">2.019 q.</span>
-                        </button>
-                        <button
-                          type="button"
-                          className={`padrao-dropdown-item ${padraoBanca === 'FCC' ? 'selected' : ''}`}
-                          onClick={() => {
-                            setPadraoBanca('FCC');
-                            setBancaDropdownAberto(false);
-                          }}
-                        >
-                          <span className="item-name">FCC</span>
-                          <span className="pill-badge">1.865 q.</span>
-                        </button>
-                        <button
-                          type="button"
-                          className={`padrao-dropdown-item ${padraoBanca === 'Todas' ? 'selected' : ''}`}
-                          onClick={() => {
-                            setPadraoBanca('Todas');
-                            setBancaDropdownAberto(false);
-                          }}
-                        >
-                          <span className="item-name">Todas as Bancas</span>
-                          <span className="pill-badge">3.884 q.</span>
-                        </button>
-                        {BANCAS_PRECONFIGURADAS.filter(b => b !== 'SELECON' && b !== 'FCC').map(banca => (
+                  {bancaDropdownAberto && (
+                    <div className="padrao-dropdown-menu animate-fade-in">
+                      <button
+                        type="button"
+                        className={`padrao-dropdown-item ${padraoBanca === 'SELECON' ? 'selected' : ''}`}
+                        onClick={() => { setPadraoBanca('SELECON'); setBancaDropdownAberto(false); }}
+                      >
+                        <span className="item-name">SELECON</span>
+                        <span className="pill-badge">{fmtQ(totalSelecon)}</span>
+                      </button>
+                      <button
+                        type="button"
+                        className={`padrao-dropdown-item ${padraoBanca === 'FCC' ? 'selected' : ''}`}
+                        onClick={() => { setPadraoBanca('FCC'); setBancaDropdownAberto(false); }}
+                      >
+                        <span className="item-name">FCC</span>
+                        <span className="pill-badge">{fmtQ(totalFcc)}</span>
+                      </button>
+                      <button
+                        type="button"
+                        className={`padrao-dropdown-item ${padraoBanca === 'Todas' ? 'selected' : ''}`}
+                        onClick={() => { setPadraoBanca('Todas'); setBancaDropdownAberto(false); }}
+                      >
+                        <span className="item-name">Todas as Bancas</span>
+                        <span className="pill-badge">{fmtQ(totalGeralAcervo)}</span>
+                      </button>
+                      {BANCAS_PRECONFIGURADAS.filter(b => b !== 'SELECON' && b !== 'FCC').map(banca => {
+                        const qtd = contarPorFiltro(statsAcervo, { banca });
+                        return (
                           <button
                             key={banca}
                             type="button"
                             className={`padrao-dropdown-item ${padraoBanca === banca ? 'selected' : ''}`}
-                            onClick={() => {
-                              setPadraoBanca(banca);
-                              setBancaDropdownAberto(false);
-                            }}
+                            onClick={() => { setPadraoBanca(banca); setBancaDropdownAberto(false); }}
                           >
                             <span className="item-name">{banca}</span>
-                            <span className="pill-badge">Em Breve</span>
+                            <span className="pill-badge">{qtd > 0 ? fmtQ(qtd) : 'Em Breve'}</span>
                           </button>
-                        ))}
-                      </div>
-                    )}
-                  </div>
-                </div>
-
-                {/* 2. Disciplina / Matéria */}
-                <div className="padrao-filter-col">
-                  <span className="padrao-filter-label">(escolha a matéria)</span>
-                  <div className="padrao-dropdown-container">
-                    <button
-                      type="button"
-                      className={`btn-padrao-funnel ${materiaDropdownAberto ? 'active' : ''}`}
-                      onClick={() => {
-                        setMateriaDropdownAberto(!materiaDropdownAberto);
-                        setBancaDropdownAberto(false);
-                      }}
-                      title="Clique para escolher a matéria"
-                    >
-                      <div className="funnel-left">
-                        <Filter size={16} className="funnel-icon" />
-                        <span className="funnel-text">{padraoMateria === 'Todas' ? 'Todas as Matérias' : padraoMateria}</span>
-                      </div>
-                      <div className="funnel-right">
-                        <span className="pill-badge">
-                          {(() => {
-                            if (padraoBanca === 'FCC') {
-                              return padraoMateria === 'Língua Portuguesa' ? '968 q.' : padraoMateria === 'Enfermagem' ? '898 q.' : '1.865 q.';
-                            }
-                            if (padraoBanca === 'Todas') {
-                              return padraoMateria === 'Língua Portuguesa' ? '2.102 q.' : padraoMateria === 'Enfermagem' ? '1.782 q.' : '3.884 q.';
-                            }
-                            return padraoMateria === 'Língua Portuguesa' ? '1.134 q.' : padraoMateria === 'Enfermagem' ? '885 q.' : '2.019 q.';
-                          })()}
-                        </span>
-                        <ChevronDown size={16} className={`funnel-arrow ${materiaDropdownAberto ? 'open' : ''}`} />
-                      </div>
-                    </button>
-
-                    {materiaDropdownAberto && (
-                      <div className="padrao-dropdown-menu animate-fade-in">
-                        <button
-                          type="button"
-                          className={`padrao-dropdown-item ${padraoMateria === 'Todas' ? 'selected' : ''}`}
-                          onClick={() => {
-                            setPadraoMateria('Todas');
-                            setPadraoCargo('Todos');
-                            setMateriaDropdownAberto(false);
-                          }}
-                        >
-                          <span className="item-name">Todas as Matérias</span>
-                          <span className="pill-badge">
-                            {padraoBanca === 'FCC' ? '1.865 q.' : padraoBanca === 'Todas' ? '3.884 q.' : '2.019 q.'}
-                          </span>
-                        </button>
-                        <button
-                          type="button"
-                          className={`padrao-dropdown-item ${padraoMateria === 'Língua Portuguesa' ? 'selected' : ''}`}
-                          onClick={() => {
-                            setPadraoMateria('Língua Portuguesa');
-                            setPadraoCargo('Todos');
-                            setMateriaDropdownAberto(false);
-                          }}
-                        >
-                          <span className="item-name">Língua Portuguesa</span>
-                          <span className="pill-badge">
-                            {padraoBanca === 'FCC' ? '926 q.' : padraoBanca === 'Todas' ? '2.061 q.' : '1.135 q.'}
-                          </span>
-                        </button>
-                        <button
-                          type="button"
-                          className={`padrao-dropdown-item ${padraoMateria === 'Enfermagem' ? 'selected' : ''}`}
-                          onClick={() => {
-                            setPadraoMateria('Enfermagem');
-                            setPadraoCargo('Todos');
-                            setMateriaDropdownAberto(false);
-                          }}
-                        >
-                          <span className="item-name">Enfermagem</span>
-                          <span className="pill-badge">
-                            {padraoBanca === 'FCC' ? '845 q.' : padraoBanca === 'Todas' ? '1.717 q.' : '872 q.'}
-                          </span>
-                        </button>
-                      </div>
-                    )}
-                  </div>
+                        );
+                      })}
+                    </div>
+                  )}
                 </div>
               </div>
 
-            {/* Caso a banca selecionada ainda não tenha questões importadas */}
+              {/* 2. Disciplina / Matéria */}
+              <div className="padrao-filter-col">
+                <span className="padrao-filter-label">(escolha a matéria)</span>
+                <div className="padrao-dropdown-container">
+                  <button
+                    type="button"
+                    className={`btn-padrao-funnel ${materiaDropdownAberto ? 'active' : ''}`}
+                    onClick={() => {
+                      setMateriaDropdownAberto(!materiaDropdownAberto);
+                      setBancaDropdownAberto(false);
+                    }}
+                    title="Clique para escolher a matéria"
+                  >
+                    <div className="funnel-left">
+                      <Filter size={16} className="funnel-icon" />
+                      <span className="funnel-text">{padraoMateria === 'Todas' ? 'Todas as Matérias' : padraoMateria}</span>
+                    </div>
+                    <div className="funnel-right">
+                      <span className="pill-badge">
+                        {fmtQ(contarPorFiltro(statsAcervo, { banca: padraoBanca, materia: padraoMateria }))}
+                      </span>
+                      <ChevronDown size={16} className={`funnel-arrow ${materiaDropdownAberto ? 'open' : ''}`} />
+                    </div>
+                  </button>
+
+                  {materiaDropdownAberto && (
+                    <div className="padrao-dropdown-menu animate-fade-in">
+                      <button
+                        type="button"
+                        className={`padrao-dropdown-item ${padraoMateria === 'Todas' ? 'selected' : ''}`}
+                        onClick={() => { setPadraoMateria('Todas'); setMateriaDropdownAberto(false); }}
+                      >
+                        <span className="item-name">Todas as Matérias</span>
+                        <span className="pill-badge">{fmtQ(contarPorFiltro(statsAcervo, { banca: padraoBanca }))}</span>
+                      </button>
+                      <button
+                        type="button"
+                        className={`padrao-dropdown-item ${padraoMateria === 'Língua Portuguesa' ? 'selected' : ''}`}
+                        onClick={() => { setPadraoMateria('Língua Portuguesa'); setMateriaDropdownAberto(false); }}
+                      >
+                        <span className="item-name">Língua Portuguesa</span>
+                        <span className="pill-badge">{fmtQ(contarPorFiltro(statsAcervo, { banca: padraoBanca, materia: 'Língua Portuguesa' }))}</span>
+                      </button>
+                      <button
+                        type="button"
+                        className={`padrao-dropdown-item ${padraoMateria === 'Enfermagem' ? 'selected' : ''}`}
+                        onClick={() => { setPadraoMateria('Enfermagem'); setMateriaDropdownAberto(false); }}
+                      >
+                        <span className="item-name">Enfermagem</span>
+                        <span className="pill-badge">{fmtQ(contarPorFiltro(statsAcervo, { banca: padraoBanca, materia: 'Enfermagem' }))}</span>
+                      </button>
+                    </div>
+                  )}
+                </div>
+              </div>
+            </div>
+
             {totalQuestoesPadrao === 0 ? (
               <div className="padrao-empty-state animate-fade-in">
                 <div className="padrao-empty-icon">
@@ -1974,43 +1953,28 @@ export default function App() {
                   A banca <strong>{padraoBanca}</strong> está pré-configurada e pronta para receber questões!
                 </h3>
                 <p style={{ color: '#64748b', maxWidth: '580px', margin: '0 auto 1.5rem', fontSize: '0.92rem', lineHeight: '1.6' }}>
-                  Atualmente o acervo conta com <strong>3.884 questões auditadas</strong> (2.019 da banca SELECON e 1.865 da FCC). Em breve novas bancas de prefeituras serão adicionadas à auditoria estatística!
+                  Atualmente o acervo conta com <strong>{totalGeralAcervo.toLocaleString('pt-BR')} questões auditadas</strong> ({totalSelecon.toLocaleString('pt-BR')} da SELECON e {totalFcc.toLocaleString('pt-BR')} da FCC). Assim que novas questões forem inseridas no Supabase, o Raio-X é gerado automaticamente!
                 </p>
                 <div style={{ display: 'flex', gap: '0.75rem', justifyContent: 'center', flexWrap: 'wrap' }}>
-                  <button
-                    className="btn-primary"
-                    onClick={() => {
-                      setPadraoBanca('SELECON');
-                      setPadraoMateria('Todas');
-                      setPadraoCargo('Todos');
-                    }}
-                  >
-                    Ver Raio-X da SELECON (2.019 Questões Auditadas)
+                  <button className="btn-primary" onClick={() => { setPadraoBanca('SELECON'); setPadraoMateria('Todas'); }}>
+                    Ver Raio-X da SELECON ({fmtQ(totalSelecon)})
                   </button>
-                  <button
-                    className="btn-padrao-pill"
-                    onClick={() => {
-                      setPadraoBanca('FCC');
-                      setPadraoMateria('Todas');
-                      setPadraoCargo('Todos');
-                    }}
-                  >
-                    Ver Raio-X da FCC (1.865 Questões Auditadas)
+                  <button className="btn-padrao-pill" onClick={() => { setPadraoBanca('FCC'); setPadraoMateria('Todas'); }}>
+                    Ver Raio-X da FCC ({fmtQ(totalFcc)})
                   </button>
                 </div>
               </div>
             ) : (
               <>
-                {/* Grid Principal: Gráfico Donut/Pizza + Ranking Horizontal */}
                 <div className="padrao-grid">
                   {/* Card 1: Gráfico de Pizza / Donut */}
                   <div className="padrao-card">
                     <h3 className="padrao-card-title">
                       <PieChart size={20} color="#0d9488" />
-                      Distribuição Percentual: {padraoBanca === 'Todas' ? 'SELECON (Acervo Completo)' : padraoBanca}
+                      Distribuição Percentual: {padraoBanca === 'Todas' ? 'Todas as Bancas (Acervo Completo)' : padraoBanca}
                     </h3>
                     <p className="padrao-card-desc">
-                      Proporção de cada assunto no universo de {totalQuestoesPadrao.toLocaleString('pt-BR')} questões analisadas.
+                      Proporção real de cada assunto no universo de {totalQuestoesPadrao.toLocaleString('pt-BR')} questões auditadas.
                     </p>
 
                     <div className="donut-container">
@@ -2036,7 +2000,7 @@ export default function App() {
                     </div>
                   </div>
 
-                  {/* Card 2: Ranking do Maior para o Menor */}
+                  {/* Card 2: Ranking */}
                   <div className="padrao-card">
                     <h3 className="padrao-card-title">
                       <BarChart3 size={20} color="#0d9488" />
@@ -2059,19 +2023,17 @@ export default function App() {
                                 >
                                   {index + 1}º
                                 </span>
-                                <span className="ranking-name-text">
-                                  {item.nome}
-                                </span>
+                                <span className="ranking-name-text">{item.nome}</span>
                               </span>
 
                               <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', flexShrink: 0 }}>
                                 <span className="ranking-metrics">
-                                  {item.count} q. ({item.percent}%)
+                                  {item.count.toLocaleString('pt-BR')} q. ({item.percent}%)
                                 </span>
                                 <button
                                   className="btn-topic-action"
                                   onClick={() => irParaQuestoesPorTema(item.nome, item.materia, item.isOutros)}
-                                  title={item.isOutros ? 'Abrir todas as questões desta disciplina' : `Filtrar questões sobre ${item.nome} na banca ${padraoBanca}`}
+                                  title={item.isOutros ? 'Abrir todas as questões desta disciplina' : `Filtrar questões sobre ${item.nome}`}
                                 >
                                   {item.isOutros ? 'Ver Todos' : 'Resolver'}
                                   <ChevronRight size={13} />
@@ -2096,7 +2058,7 @@ export default function App() {
                   </div>
                 </div>
 
-                {/* Seção de Insights Estratégicos Inteligentes */}
+                {/* Insights Estratégicos */}
                 <div className="padrao-card" style={{ marginTop: '2rem' }}>
                   <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '0.4rem' }}>
                     <Lightbulb size={22} color="#0d9488" />
@@ -2110,43 +2072,24 @@ export default function App() {
 
                   <div className="insights-grid" style={{ marginTop: 0 }}>
                     <div className="insight-card">
-                      <div className="insight-tag">
-                        <Target size={14} /> {currentInsight.foco1.tag}
-                      </div>
+                      <div className="insight-tag"><Target size={14} /> {currentInsight.foco1.tag}</div>
                       <h4 className="insight-title">{currentInsight.foco1.title}</h4>
-                      <p className="insight-text">
-                        {currentInsight.foco1.text}
-                      </p>
+                      <p className="insight-text">{currentInsight.foco1.text}</p>
                     </div>
-
                     <div className="insight-card">
-                      <div className="insight-tag">
-                        <Sparkles size={14} /> {currentInsight.ponto.tag}
-                      </div>
+                      <div className="insight-tag"><Sparkles size={14} /> {currentInsight.ponto.tag}</div>
                       <h4 className="insight-title">{currentInsight.ponto.title}</h4>
-                      <p className="insight-text">
-                        {currentInsight.ponto.text}
-                      </p>
+                      <p className="insight-text">{currentInsight.ponto.text}</p>
                     </div>
-
                     <div className="insight-card">
-                      <div className="insight-tag">
-                        <Zap size={14} /> {currentInsight.perfil.tag}
-                      </div>
+                      <div className="insight-tag"><Zap size={14} /> {currentInsight.perfil.tag}</div>
                       <h4 className="insight-title">{currentInsight.perfil.title}</h4>
-                      <p className="insight-text">
-                        {currentInsight.perfil.text}
-                      </p>
+                      <p className="insight-text">{currentInsight.perfil.text}</p>
                     </div>
-
                     <div className="insight-card">
-                      <div className="insight-tag">
-                        <Award size={14} /> {currentInsight.sus.tag}
-                      </div>
+                      <div className="insight-tag"><Award size={14} /> {currentInsight.sus.tag}</div>
                       <h4 className="insight-title">{currentInsight.sus.title}</h4>
-                      <p className="insight-text">
-                        {currentInsight.sus.text}
-                      </p>
+                      <p className="insight-text">{currentInsight.sus.text}</p>
                     </div>
                   </div>
                 </div>
@@ -2155,40 +2098,42 @@ export default function App() {
           </section>
         )}
 
-        {/* BANNER DE VENDAS / PLANO VIP (Garante a meta de R$ 10.000) */}
-        <section className="vip-banner">
-          <div>
-            <div style={{ display: 'inline-flex', alignItems: 'center', gap: '0.4rem', color: '#34d399', fontWeight: 700, fontSize: '0.85rem', textTransform: 'uppercase', marginBottom: '0.5rem' }}>
-              <ShieldCheck size={18} /> Oferta Especial de Lançamento
+        {/* BANNER DE VENDAS / PLANO VIP (Ocultado automaticamente para quem já é VIP e com preço unificado) */}
+        {!isVip && (
+          <section className="vip-banner">
+            <div>
+              <div style={{ display: 'inline-flex', alignItems: 'center', gap: '0.4rem', color: '#34d399', fontWeight: 700, fontSize: '0.85rem', textTransform: 'uppercase', marginBottom: '0.5rem' }}>
+                <Crown size={18} color="#f59e0b" /> Plano VIP PRO EnfConcursos
+              </div>
+              <h2 className="vip-title">Acesso Ilimitado até a Sua Aprovação</h2>
+              <p style={{ color: '#cbd5e1', maxWidth: '520px', fontSize: '0.95rem' }}>
+                Resolva questões sem limite diário com gabarito comentado alternativa por alternativa, simulados oficiais cronometrados (SELECON e FCC) e estatísticas em tempo real.
+              </p>
             </div>
-            <h2 className="vip-title">Passaporte Aprovação Prefeituras VIP</h2>
-            <p style={{ color: '#cbd5e1', maxWidth: '520px', fontSize: '0.95rem' }}>
-              Acesso ilimitado ao acervo completo com gabaritos comentados alternativa por alternativa, simulados oficiais cronometrados no padrão exato da banca e estatísticas de desempenho.
-            </p>
-          </div>
 
-          <div style={{ textAlign: 'center', minWidth: '220px' }}>
-            <div style={{ textDecoration: 'line-through', color: '#94a3b8', fontSize: '0.9rem' }}>De R$ 97,00 por</div>
-            <div className="vip-price">R$ 37,90</div>
-            <div style={{ fontSize: '0.8rem', color: '#cbd5e1', marginBottom: '1rem' }}>Pagamento único • Acesso Vitalício</div>
-            <button className="btn-vip-cta" onClick={abrirModalUpgrade}>
-              Garantir Minha Vaga VIP
-            </button>
-          </div>
-        </section>
+            <div style={{ textAlign: 'center', minWidth: '220px' }}>
+              <div style={{ fontSize: '0.85rem', color: '#94a3b8' }}>A partir de</div>
+              <div className="vip-price">R$ 29,90<span style={{ fontSize: '0.95rem', fontWeight: 600 }}>/mês</span></div>
+              <div style={{ fontSize: '0.8rem', color: '#cbd5e1', marginBottom: '1rem' }}>Garantia de 7 dias • Cancele quando quiser</div>
+              <button className="btn-vip-cta" onClick={abrirModalUpgrade}>
+                Garantir Acesso VIP Agora
+              </button>
+            </div>
+          </section>
+        )}
       </main>
 
-      {/* Modais Globais: Autenticação / Cadastro e Upgrade VIP */}
+      {/* Modais Globais */}
       <AuthModal />
-      <UpgradeModal />
+      <UpgradeModal totalQuestoes={totalGeralAcervo} />
 
-      {/* Footer com Links SEO */}
+      {/* Footer */}
       <footer className="footer">
         <div className="container footer-content">
           <div>
             <strong style={{ color: '#0f172a' }}>EnfConcursos</strong> — Plataforma especializada em Concursos de Enfermagem para Prefeituras e SUS.
             <div style={{ marginTop: '0.35rem', fontSize: '0.8rem' }}>
-              Questões das bancas: SELECON • IBAM • VUNESP • Consulpam • AOCP • FGV • Legalle • Avança SP
+              Questões das bancas: SELECON • FCC • IBAM • VUNESP • Consulpam • AOCP • FGV • Legalle • Avança SP
             </div>
           </div>
           <div>

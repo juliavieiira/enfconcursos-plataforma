@@ -66,12 +66,30 @@ def enviar_lote(url, key, lote, tentativas=3):
             time.sleep(2 * tentativa)
     return False
 
+def limpar_tabela_questoes(url, key):
+    """Remove registros antigos da tabela questoes antes de uma carga limpa completa."""
+    endpoint = f"{url.rstrip('/')}/rest/v1/questoes?id=neq.___nenhum___"
+    headers = {
+        "apikey": key,
+        "Authorization": f"Bearer {key}",
+        "Prefer": "return=minimal"
+    }
+    req = urllib.request.Request(endpoint, headers=headers, method="DELETE")
+    try:
+        with urllib.request.urlopen(req, timeout=45) as resp:
+            return resp.status in (200, 204)
+    except Exception as e:
+        print(f"⚠️ Erro ao limpar registros antigos: {e}")
+        return False
+
+
 def main():
     parser = argparse.ArgumentParser(description="Importador de Questões para Supabase")
     parser.add_argument("--url", help="URL do projeto Supabase (https://xyz.supabase.co)")
     parser.add_argument("--key", help="Chave service_role (ou anon com RLS liberada)")
     parser.add_argument("--arquivo", help="Caminho do arquivo JSON de questões", default=str(BANCO_JSON))
     parser.add_argument("--tamanho-lote", type=int, default=250, help="Tamanho de cada bloco de envio (padrão: 250)")
+    parser.add_argument("--limpar-antes", action="store_true", help="Remove questões obsoletas/antigas antes de enviar o acervo auditado")
     args = parser.parse_args()
 
     env_vars = carregar_env()
@@ -105,6 +123,13 @@ def main():
 
     total = len(questoes)
     print(f"📊 Total de questões a importar: {total}")
+
+    if args.limpar_antes:
+        print("🧹 Limpando registros obsoletos/antigos no Supabase antes da sincronização...")
+        if limpar_tabela_questoes(supabase_url, supabase_key):
+            print("   ✅ Tabela limpa com sucesso.")
+        else:
+            print("   ⚠️ Não foi possível limpar automaticamente; seguindo com upsert.")
 
     # Preparar dados com campos normalizados
     questoes_formatadas = []
@@ -156,3 +181,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
