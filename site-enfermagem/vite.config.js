@@ -14,6 +14,16 @@ export default defineConfig(({ mode }) => {
           changeOrigin: true,
           secure: true,
           rewrite: (path) => path.replace(/^\/supabase-proxy/, ''),
+          configure: (proxyServer) => {
+            proxyServer.on('proxyRes', (proxyRes, req) => {
+              proxyRes.headers['access-control-expose-headers'] =
+                'content-range, content-location, preference-applied'
+              console.log(`[supabase-proxy] ${req.method} ${req.url} -> ${proxyRes.statusCode}`)
+            })
+            proxyServer.on('error', (err, req) => {
+              console.error(`[supabase-proxy] ERROR ${req.method} ${req.url}:`, err.message)
+            })
+          },
         },
       }
     : undefined

@@ -198,17 +198,122 @@ class MockSupabaseClient {
   }
 }
 
-// Em ambiente de desenvolvimento (preview sandbox), roteia pelo proxy same-origin do Vite
-// Em produção (Vercel/Netlify/domínio próprio), conecta diretamente à URL oficial do Supabase
-const effectiveSupabaseUrl =
-  import.meta.env.DEV && typeof window !== 'undefined'
-    ? `${window.location.origin}/supabase-proxy`
-    : supabaseUrl;
+const headersToPlainObject = (headers) => {
+  if (!headers) return {};
+  if (typeof Headers !== 'undefined' && headers instanceof Headers) {
+    const obj = {};
+    headers.forEach((value, key) => {
+      obj[key] = value;
+    });
+    return obj;
+  }
+  if (Array.isArray(headers)) {
+    return Object.fromEntries(headers);
+  }
+  return { ...headers };
+};
+
+const xhrFetch = (url, init = {}) =>
+  new Promise((resolve, reject) => {
+    if (typeof XMLHttpRequest === 'undefined') {
+      reject(new TypeError('XMLHttpRequest indisponível'));
+      return;
+    }
+    const xhr = new XMLHttpRequest();
+    xhr.open((init.method || 'GET').toUpperCase(), url, true);
+    const hdrs = init.headers || {};
+    for (const [k, v] of Object.entries(hdrs)) {
+      if (v !== undefined && v !== null) {
+        xhr.setRequestHeader(k, String(v));
+      }
+    }
+    xhr.onload = () => {
+      const respHeaders = new Headers();
+      const rawHeaders = xhr.getAllResponseHeaders() || '';
+      rawHeaders
+        .trim()
+        .split(/[\r\n]+/)
+        .forEach((line) => {
+          const idx = line.indexOf(':');
+          if (idx > 0) {
+            respHeaders.append(line.slice(0, idx).trim(), line.slice(idx + 1).trim());
+          }
+        });
+      resolve(
+        new Response(xhr.responseText, {
+          status: xhr.status || 200,
+          statusText: xhr.statusText || 'OK',
+          headers: respHeaders
+        })
+      );
+    };
+    xhr.onerror = () => reject(new TypeError('XMLHttpRequest network error'));
+    xhr.send(init.body ?? null);
+  });
+
+// Em ambiente de desenvolvimento (preview sandbox), reescreve chamadas do Supabase
+// para o caminho RELATIVO '/supabase-proxy/...' servido pelo Vite na mesma origem.
+// Em produção (Vercel/Netlify/domínio próprio), conecta diretamente à URL oficial do Supabase.
+const devProxyFetch = async (input, init = {}) => {
+  const rawUrl =
+    typeof input === 'string'
+      ? input
+      : input instanceof URL
+        ? input.toString()
+        : input?.url || String(input);
+
+  let proxiedUrl = rawUrl;
+  if (supabaseUrl && rawUrl.startsWith(supabaseUrl)) {
+    proxiedUrl = `/supabase-proxy${rawUrl.slice(supabaseUrl.length)}`;
+  }
+
+  const cleanInit = {
+    method: init?.method || 'GET',
+    headers: headersToPlainObject(init?.headers),
+    ...(init?.body !== undefined ? { body: init.body } : {}),
+    ...(init?.signal ? { signal: init.signal } : {})
+  };
+
+  // 1. Caminho relativo '/supabase-proxy/...' (padrão ideal para sandbox preview e localhost)
+  try {
+    return await window.fetch(proxiedUrl, cleanInit);
+  } catch (err1) {
+    if (proxiedUrl.startsWith('/')) {
+      // 2. Fallback explícito para localhost:8080
+      try {
+        return await window.fetch(`http://localhost:8080${proxiedUrl}`, cleanInit);
+      } catch {
+        // 3. Fallback via XMLHttpRequest relativo
+        try {
+          return await xhrFetch(proxiedUrl, cleanInit);
+        } catch {
+          const origin = typeof window !== 'undefined' ? window.location?.origin : 'n/a';
+          const href = typeof window !== 'undefined' ? window.location?.href : 'n/a';
+          throw new TypeError(`${err1?.message || 'Fetch error'} (origin=${origin}, href=${href}, proxy=${proxiedUrl})`);
+        }
+      }
+    }
+    throw err1;
+  }
+};
 
 // Inicializa cliente real se variáveis existirem, senão ativa o mock com persistência local
 export const supabase = isSupabaseConfigured()
-  ? createClient(effectiveSupabaseUrl, supabaseAnonKey)
+  ? createClient(
+      supabaseUrl,
+      supabaseAnonKey,
+      import.meta.env.DEV && typeof window !== 'undefined'
+        ? { global: { fetch: devProxyFetch } }
+        : undefined
+    )
   : new MockSupabaseClient();
 
+if (import.meta.hot) {
+  import.meta.hot.accept(() => {
+    window.location.reload();
+  });
+}
+
 export default supabase;
+
 
