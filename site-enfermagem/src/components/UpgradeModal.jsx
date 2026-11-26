@@ -72,7 +72,7 @@ export const UpgradeModal = () => {
             <ul className="plan-features">
               <li>
                 <CheckCircle2 size={16} className="feat-icon check" />
-                <span>15 questões comentadas por dia</span>
+                <span>5 questões comentadas por dia</span>
               </li>
               <li>
                 <CheckCircle2 size={16} className="feat-icon check" />
@@ -85,10 +85,6 @@ export const UpgradeModal = () => {
               <li className="disabled-feat">
                 <Lock size={16} className="feat-icon lock" />
                 <span>Sem resolução ilimitada de questões</span>
-              </li>
-              <li className="disabled-feat">
-                <Lock size={16} className="feat-icon lock" />
-                <span>Sem download de cadernos em PDF</span>
               </li>
             </ul>
             <div className="plan-action">
@@ -142,10 +138,6 @@ export const UpgradeModal = () => {
               </li>
               <li>
                 <CheckCircle2 size={16} className="feat-icon gold" />
-                <span>Download de provas e cadernos em PDF para impressão</span>
-              </li>
-              <li>
-                <CheckCircle2 size={16} className="feat-icon gold" />
                 <span>Ranking comparativo e histórico completo de acertos</span>
               </li>
             </ul>
@@ -184,7 +176,7 @@ export const UpgradeModal = () => {
               onClick={handleToggleVipTeste}
               title="Ativa ou desativa o plano VIP instantaneamente para demonstração"
             >
-              {isVip ? '↺ Alternar para Modo Gratuito (15 q./dia)' : '⚡ Ativar VIP Instantâneo para Teste'}
+              {isVip ? '↺ Alternar para Modo Gratuito (5 q./dia)' : '⚡ Ativar VIP Instantâneo para Teste'}
             </button>
           </div>
         </div>

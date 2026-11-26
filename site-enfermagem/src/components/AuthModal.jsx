@@ -112,7 +112,7 @@ export const AuthModal = () => {
           </h2>
           <p className="auth-subtitle">
             {modo === 'login' && 'Acompanhe seu histórico, resolva simulados e audite seu rendimento.'}
-            {modo === 'cadastro' && 'Cadastre-se para liberar 15 questões diárias e simulados oficiais.'}
+            {modo === 'cadastro' && 'Cadastre-se para liberar 5 questões diárias e simulados oficiais.'}
             {modo === 'recuperar' && 'Digite seu e-mail para receber as instruções de redefinição de senha.'}
           </p>
         </div>
@@ -211,7 +211,7 @@ export const AuthModal = () => {
             <div className="auth-perks-box">
               <div className="perk-item">
                 <CheckCircle2 size={16} color="#0d9488" />
-                <span>15 questões comentadas por dia (Gratuito)</span>
+                <span>5 questões comentadas por dia (Gratuito)</span>
               </div>
               <div className="perk-item">
                 <CheckCircle2 size={16} color="#0d9488" />

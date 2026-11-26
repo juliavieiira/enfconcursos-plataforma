@@ -11,7 +11,7 @@ CREATE TABLE IF NOT EXISTS public.profiles (
   email TEXT NOT NULL,
   plano TEXT NOT NULL DEFAULT 'gratuito' CHECK (plano IN ('gratuito', 'vip')),
   status TEXT NOT NULL DEFAULT 'ativo' CHECK (status IN ('ativo', 'cancelado', 'pendente', 'bloqueado')),
-  limite_diario INT NOT NULL DEFAULT 15,
+  limite_diario INT NOT NULL DEFAULT 5,
   questoes_respondidas_hoje INT NOT NULL DEFAULT 0,
   data_ultimo_acesso TIMESTAMPTZ DEFAULT NOW(),
   data_expiracao_vip TIMESTAMPTZ,
@@ -74,7 +74,7 @@ BEGIN
     NEW.email,
     'gratuito',
     'ativo',
-    15
+    5
   );
   RETURN NEW;
 END;

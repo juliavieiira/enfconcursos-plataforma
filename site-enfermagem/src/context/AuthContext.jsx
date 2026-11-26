@@ -2,7 +2,7 @@ import React, { useState, useEffect, useCallback } from 'react';
 import { supabase, isSupabaseConfigured } from '../lib/supabaseClient';
 import { AuthContext } from './AuthContextBase';
 
-const LIMITE_GRATUITO_DIARIO = 15;
+const LIMITE_GRATUITO_DIARIO = 5;
 
 export const AuthProvider = ({ children }) => {
   const [user, setUser] = useState(null);

@@ -19,7 +19,6 @@ import {
   ChevronsLeft,
   ChevronsRight,
   HelpCircle,
-  FolderOpen,
   Sparkles,
   ShieldCheck,
   Zap,
@@ -38,7 +37,7 @@ import UpgradeModal from './components/UpgradeModal.jsx';
 const CURRENT_YEAR = new Date().getFullYear();
 
 export default function App() {
-  const [activeTab, setActiveTab] = useState('questoes'); // 'questoes', 'padrao', 'simulados', 'materiais'
+  const [activeTab, setActiveTab] = useState('questoes'); // 'questoes', 'padrao', 'simulados'
 
   // Navegação individual focada (1 questão por vez)
   const [questaoIndex, setQuestaoIndex] = useState(0);
@@ -434,13 +433,6 @@ export default function App() {
               <Timer size={17} />
               <span>Simulados</span>
             </button>
-            <button
-              className={`nav-link ${activeTab === 'materiais' ? 'active' : ''}`}
-              onClick={() => setActiveTab('materiais')}
-            >
-              <FolderOpen size={17} />
-              <span>PDFs & Provas</span>
-            </button>
             <UserHeaderMenu />
           </div>
         </div>
@@ -733,7 +725,7 @@ export default function App() {
                                 <div style={{ fontSize: '1.8rem', marginBottom: '0.25rem' }}>⚡</div>
                                 <h4>Você atingiu o limite de {limiteDiario} questões gratuitas de hoje!</h4>
                                 <p>
-                                  Sua cota diária renova automaticamente à meia-noite. Assine o <strong>Plano VIP PRO</strong> para ter acesso ilimitado a todas as 3.884 questões com gabarito comentado, simulados cronometrados e cadernos em PDF.
+                                  Sua cota diária renova automaticamente à meia-noite. Assine o <strong>Plano VIP PRO</strong> para ter acesso ilimitado a todas as 3.884 questões com gabarito comentado e simulados oficiais cronometrados.
                                 </p>
                                 <button
                                   type="button"
@@ -1810,56 +1802,6 @@ export default function App() {
           </section>
         )}
 
-        {/* ABA: MATERIAIS & PDFS */}
-        {activeTab === 'materiais' && (
-          <section className="animate-fade-in">
-            <div className="question-card">
-              <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', marginBottom: '1rem' }}>
-                <FolderOpen size={28} color="#0d9488" />
-                <div>
-                  <h2 style={{ fontSize: '1.4rem' }}>Repositório de Provas e PDFs de Referência</h2>
-                  <p style={{ color: '#64748b', fontSize: '0.9rem' }}>
-                    Suas pastas locais estão prontas para receber provas em PDF de prefeituras e grandes concursos.
-                  </p>
-                </div>
-              </div>
-
-              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '1rem', margin: '1.5rem 0' }}>
-                <div style={{ border: '1px solid #e2e8f0', borderRadius: '10px', padding: '1.25rem', background: '#f8fafc' }}>
-                  <h4 style={{ color: '#0f172a', marginBottom: '0.5rem' }}>📁 /01_PDFS_DE_REFERENCIA/prefeituras/</h4>
-                  <p style={{ fontSize: '0.85rem', color: '#64748b' }}>
-                    Destinado a cadernos de provas de municípios (SELECON, IBAM, VUNESP, Consulpam, Legalle, Avança SP).
-                  </p>
-                </div>
-
-                <div style={{ border: '1px solid #e2e8f0', borderRadius: '10px', padding: '1.25rem', background: '#f8fafc' }}>
-                  <h4 style={{ color: '#0f172a', marginBottom: '0.5rem' }}>📁 /01_PDFS_DE_REFERENCIA/concursos_maiores/</h4>
-                  <p style={{ fontSize: '0.85rem', color: '#64748b' }}>
-                    Destinado a provas da EBSERH, Ministério da Saúde, Fiocruz, Secretarias de Estado de Saúde.
-                  </p>
-                </div>
-
-                <div style={{ border: '1px solid #e2e8f0', borderRadius: '10px', padding: '1.25rem', background: '#f8fafc' }}>
-                  <h4 style={{ color: '#0f172a', marginBottom: '0.5rem' }}>📁 /01_PDFS_DE_REFERENCIA/cadernos_simulados/</h4>
-                  <p style={{ fontSize: '0.85rem', color: '#64748b' }}>
-                    Listas temáticas (ex: 100 Questões de SUS, 50 Cálculos de Medicamentos para Concurso).
-                  </p>
-                </div>
-              </div>
-
-              <div style={{ background: '#ecfdf5', border: '1px solid #a7f3d0', borderRadius: '8px', padding: '1.25rem', color: '#065f46' }}>
-                <h4 style={{ display: 'flex', alignItems: 'center', gap: '0.4rem', marginBottom: '0.5rem' }}>
-                  <Zap size={18} />
-                  Sincronização Automática
-                </h4>
-                <p style={{ fontSize: '0.9rem', lineHeight: '1.6' }}>
-                  Assim que você colocar os arquivos nas pastas acima, nosso script de processamento em <code>/scripts/extrair_questoes_pdf.py</code> converterá os textos em questões interativas para o site.
-                </p>
-              </div>
-            </div>
-          </section>
-        )}
-
         {/* ABA: PADRÃO DA BANCA (RAIO-X MULTI-BANCAS) */}
         {activeTab === 'padrao' && (
           <section className="animate-fade-in">
@@ -2037,7 +1979,7 @@ export default function App() {
                   A banca <strong>{padraoBanca}</strong> está pré-configurada e pronta para receber questões!
                 </h3>
                 <p style={{ color: '#64748b', maxWidth: '580px', margin: '0 auto 1.5rem', fontSize: '0.92rem', lineHeight: '1.6' }}>
-                  Atualmente o acervo conta com <strong>3.884 questões auditadas</strong> (2.019 da banca SELECON e 1.865 da FCC). Assim que você fizer upload dos cadernos de provas em PDF da <strong>{padraoBanca}</strong> na pasta <code>/01_PDFS_DE_REFERENCIA/prefeituras/</code>, o gráfico de pizza e o ranking ordenado de conteúdo serão calculados instantaneamente aqui!
+                  Atualmente o acervo conta com <strong>3.884 questões auditadas</strong> (2.019 da banca SELECON e 1.865 da FCC). Em breve novas bancas de prefeituras serão adicionadas à auditoria estatística!
                 </p>
                 <div style={{ display: 'flex', gap: '0.75rem', justifyContent: 'center', flexWrap: 'wrap' }}>
                   <button
@@ -2052,9 +1994,13 @@ export default function App() {
                   </button>
                   <button
                     className="btn-padrao-pill"
-                    onClick={() => setActiveTab('materiais')}
+                    onClick={() => {
+                      setPadraoBanca('FCC');
+                      setPadraoMateria('Todas');
+                      setPadraoCargo('Todos');
+                    }}
                   >
-                    Ver Instruções de Envio de PDFs
+                    Ver Raio-X da FCC (1.865 Questões Auditadas)
                   </button>
                 </div>
               </div>
@@ -2222,7 +2168,7 @@ export default function App() {
             </div>
             <h2 className="vip-title">Passaporte Aprovação Prefeituras VIP</h2>
             <p style={{ color: '#cbd5e1', maxWidth: '520px', fontSize: '0.95rem' }}>
-              Acesso ilimitado ao banco completo com mais de 10.000 questões, simulados inéditos semanais com ranking, cadernos em PDF para download e suporte a dúvidas.
+              Acesso ilimitado ao acervo completo com gabaritos comentados alternativa por alternativa, simulados oficiais cronometrados no padrão exato da banca e estatísticas de desempenho.
             </p>
           </div>
 
