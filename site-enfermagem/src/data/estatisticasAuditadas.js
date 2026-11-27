@@ -1,4 +1,4 @@
-// Baseline oficial auditada do acervo EnfConcursos (recalculada com reintegração FCC Português)
+// Baseline oficial auditada do acervo EnfConcursos (aprimoramento geral de qualidade)
 export const ESTATISTICAS_AUDITADAS_BASELINE = [
   {
     "banca": "FCC",
