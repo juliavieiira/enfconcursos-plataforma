@@ -205,38 +205,47 @@ export const AuthProvider = ({ children }) => {
   };
 
   const loginComGoogle = async () => {
-    // 1. Verifica se o provedor do Google está ativo no Supabase para evitar tela preta de erro 400
-    const supabaseUrl = import.meta.env.VITE_SUPABASE_URL;
-    const supabaseAnonKey = import.meta.env.VITE_SUPABASE_ANON_KEY;
-    if (supabaseUrl && supabaseAnonKey) {
+    // Detecta se está em iframe (como no Embedded Web Preview do ambiente)
+    // O Google proíbe autenticação dentro de iframes (X-Frame-Options: DENY -> Erro 403)
+    const isIframe = window.self !== window.top;
+    let popup = null;
+
+    if (isIframe) {
+      // Abre a janela síncrona no clique para contornar bloqueador de popups e evitar iframe
       try {
-        const res = await fetch(`${supabaseUrl}/auth/v1/settings`, {
-          headers: {
-            apikey: supabaseAnonKey,
-            Authorization: `Bearer ${supabaseAnonKey}`
-          }
-        });
-        if (res.ok) {
-          const settings = await res.json();
-          if (settings?.external?.google === false) {
-            throw new Error('O login com Google ainda não foi ativado no painel do Supabase (Authentication > Providers > Google). Para entrar agora, utilize seu e-mail e senha logo abaixo!');
-          }
-        }
-      } catch (errCheck) {
-        if (errCheck.message.includes('Supabase')) {
-          throw errCheck;
-        }
+        popup = window.open('about:blank', '_blank', 'width=540,height=680,status=no,toolbar=no,menubar=no');
+      } catch {
+        popup = null;
       }
     }
 
-    const { data, error } = await supabase.auth.signInWithOAuth({
-      provider: 'google',
-      options: {
-        redirectTo: window.location.origin
+    try {
+      const { data, error } = await supabase.auth.signInWithOAuth({
+        provider: 'google',
+        options: {
+          redirectTo: window.location.origin,
+          skipBrowserRedirect: isIframe
+        }
+      });
+
+      if (error) {
+        if (popup) popup.close();
+        throw error;
       }
-    });
-    if (error) throw error;
-    return data;
+
+      if (isIframe && data?.url) {
+        if (popup && !popup.closed) {
+          popup.location.href = data.url;
+        } else {
+          window.open(data.url, '_blank');
+        }
+      }
+
+      return data;
+    } catch (err) {
+      if (popup) popup.close();
+      throw err;
+    }
   };
 
   const logout = async () => {

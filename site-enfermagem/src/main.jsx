@@ -113,6 +113,15 @@ class ErrorBoundary extends Component {
   }
 }
 
+// Se esta janela foi aberta como popup de autenticação OAuth e retornou com token, fecha após sincronizar
+if (window.opener && (window.location.hash.includes('access_token') || window.location.search.includes('code='))) {
+  setTimeout(() => {
+    try {
+      window.close();
+    } catch {}
+  }, 1200);
+}
+
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <ErrorBoundary>

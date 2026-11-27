@@ -108,6 +108,10 @@ export const AuthModal = () => {
     setCarregando(true);
     try {
       await loginComGoogle();
+      if (window.self !== window.top) {
+        setMensagemSucesso('Janela de login aberta! Escolha sua conta do Google na janela que se abriu.');
+        setCarregando(false);
+      }
     } catch (err) {
       setMensagemErro(traduzirErroSupabase(err?.message));
       setCarregando(false);
