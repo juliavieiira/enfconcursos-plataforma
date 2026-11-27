@@ -50,33 +50,61 @@ class ErrorBoundary extends Component {
               padding: '0.75rem 1rem',
               borderRadius: '8px',
               fontSize: '0.88rem',
-              marginBottom: '1.25rem',
-              border: '1px solid #fecaca'
+              marginBottom: '1rem',
+              border: '1px solid #fecaca',
+              fontWeight: 600
             }}>
-              Detectamos uma instabilidade temporária ao recarregar a sessão.
+              {this.state.error ? (this.state.error.message || String(this.state.error)) : 'Detectamos uma instabilidade temporária ao recarregar a sessão.'}
             </div>
-            <p style={{ color: '#64748b', fontSize: '0.95rem', marginBottom: '1.75rem', lineHeight: 1.6 }}>
-              Clique abaixo para restaurar o acervo de 2.007 questões e sincronizar a plataforma:
+
+            {this.state.error?.stack && (
+              <pre style={{
+                textAlign: 'left',
+                background: '#f8fafc',
+                border: '1px solid #e2e8f0',
+                color: '#475569',
+                padding: '0.75rem',
+                borderRadius: '8px',
+                fontSize: '0.72rem',
+                maxHeight: '160px',
+                overflow: 'auto',
+                marginBottom: '1.25rem',
+                whiteSpace: 'pre-wrap'
+              }}>
+                {this.state.error.stack}
+              </pre>
+            )}
+
+            <p style={{ color: '#64748b', fontSize: '0.95rem', marginBottom: '1.5rem', lineHeight: 1.6 }}>
+              Clique abaixo para restaurar o acervo de 3.696 questões auditadas e sincronizar a plataforma:
             </p>
-            <button
-              onClick={() => {
-                window.location.reload();
-              }}
-              style={{
-                backgroundColor: '#0d9488',
-                color: 'white',
-                border: 'none',
-                padding: '0.85rem 1.75rem',
-                borderRadius: '10px',
-                fontWeight: 700,
-                fontSize: '0.95rem',
-                cursor: 'pointer',
-                boxShadow: '0 4px 12px rgba(13, 148, 136, 0.25)',
-                transition: 'all 0.2s'
-              }}
-            >
-              Recarregar Plataforma
-            </button>
+            <div style={{ display: 'flex', gap: '0.75rem', justifyContent: 'center', flexWrap: 'wrap' }}>
+              <button
+                onClick={() => {
+                  try {
+                    sessionStorage.clear();
+                    localStorage.removeItem('enfconcursos_supabase_stats_v2');
+                    localStorage.removeItem('enfconcursos_mock_session');
+                  } catch (e) {}
+                  this.setState({ hasError: false, error: null });
+                  window.location.reload();
+                }}
+                style={{
+                  backgroundColor: '#0d9488',
+                  color: 'white',
+                  border: 'none',
+                  padding: '0.85rem 1.75rem',
+                  borderRadius: '10px',
+                  fontWeight: 700,
+                  fontSize: '0.95rem',
+                  cursor: 'pointer',
+                  boxShadow: '0 4px 12px rgba(13, 148, 136, 0.25)',
+                  transition: 'all 0.2s'
+                }}
+              >
+                Recarregar Plataforma
+              </button>
+            </div>
           </div>
         </div>
       );

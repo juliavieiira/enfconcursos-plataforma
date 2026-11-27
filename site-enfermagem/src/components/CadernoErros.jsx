@@ -53,7 +53,9 @@ export default function CadernoErros({ user, totalGeralAcervo, aoTrocarParaQuest
 
   // Lista filtrada de erros
   const errosFiltrados = useMemo(() => {
+    if (!Array.isArray(erros)) return [];
     return erros.filter((e) => {
+      if (!e || typeof e !== 'object' || !e.id || !e.questao) return false;
       // Filtro Status
       if (filtroStatus !== 'todos' && e.status !== filtroStatus) return false;
       // Filtro Banca
@@ -61,7 +63,7 @@ export default function CadernoErros({ user, totalGeralAcervo, aoTrocarParaQuest
       // Filtro Matéria
       if (filtroMateria !== 'Todas' && e.materia !== filtroMateria) return false;
       // Busca
-      if (termoBusca.trim()) {
+      if (termoBusca && termoBusca.trim()) {
         const t = termoBusca.toLowerCase();
         const noId = (e.id || '').toLowerCase().includes(t);
         const noEnunc = (e.questao?.enunciado || '').toLowerCase().includes(t);
@@ -438,12 +440,12 @@ export default function CadernoErros({ user, totalGeralAcervo, aoTrocarParaQuest
         }}>
           <ShieldAlert size={22} color="#f59e0b" style={{ flexShrink: 0, marginTop: '2px' }} />
           <div style={{ fontSize: '0.88rem', lineHeight: 1.6, color: 'var(--text-main)' }}>
-            <strong>Perfil de Cobrança da {diagnostico.padraoBancaInfo.nome}: </strong>
+            <strong>Perfil de Cobrança da {diagnostico?.padraoBancaInfo?.nome || 'Banca'}: </strong>
             <span style={{ color: 'var(--text-muted)' }}>
-              {diagnostico.padraoBancaInfo.focoPrincipal}
+              {diagnostico?.padraoBancaInfo?.focoPrincipal || ''}
             </span>
             <div style={{ marginTop: '0.4rem', color: '#b45309', fontWeight: 600 }}>
-              ⚠️ Pegadinha Recorrente: {diagnostico.padraoBancaInfo.pegadinhaFrequente}
+              ⚠️ Pegadinha Recorrente: {diagnostico?.padraoBancaInfo?.pegadinhaFrequente || 'Atenção aos distratores comuns da banca.'}
             </div>
           </div>
         </div>
@@ -641,14 +643,14 @@ export default function CadernoErros({ user, totalGeralAcervo, aoTrocarParaQuest
       ) : (
         <div style={{ display: 'flex', flexDirection: 'column', gap: '1.75rem' }}>
           {errosFiltrados.map((erroItem, idx) => {
-            const q = erroItem.questao;
-            const qid = erroItem.id;
+            const q = erroItem?.questao || {};
+            const qid = erroItem?.id || `erro-${idx}`;
             const respTreino = respostasTreino[qid];
             const feedback = feedbackTreino[qid];
             const isRaioXAberto = raioXVisivel[qid];
             const raioXInfo = obterRaioXDoErro(erroItem);
 
-            const isSuperada = erroItem.status === 'superada';
+            const isSuperada = erroItem?.status === 'superada';
 
             return (
               <div
@@ -683,7 +685,7 @@ export default function CadernoErros({ user, totalGeralAcervo, aoTrocarParaQuest
                       padding: '3px 8px',
                       borderRadius: '6px'
                     }}>
-                      {q.id}
+                      {q.id || qid}
                     </span>
                     <span style={{
                       fontWeight: 700,
@@ -693,10 +695,10 @@ export default function CadernoErros({ user, totalGeralAcervo, aoTrocarParaQuest
                       padding: '3px 8px',
                       borderRadius: '6px'
                     }}>
-                      {q.banca}
+                      {q.banca || erroItem?.banca || 'FCC'}
                     </span>
                     <span style={{ fontSize: '0.8rem', fontWeight: 600, color: 'var(--text-muted)' }}>
-                      {q.orgao} • {q.ano}
+                      {(q.orgao || erroItem?.cargo || 'Concurso')} • {(q.ano || 2024)}
                     </span>
                     <span style={{
                       fontSize: '0.75rem',

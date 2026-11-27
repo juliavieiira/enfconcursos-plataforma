@@ -93,7 +93,8 @@ export function carregarErrosLocais(userId) {
     const raw = localStorage.getItem(getStorageKey(userId));
     if (!raw) return [];
     const parsed = JSON.parse(raw);
-    return Array.isArray(parsed) ? parsed : [];
+    if (!Array.isArray(parsed)) return [];
+    return parsed.filter(item => item && typeof item === 'object' && item.id && item.questao);
   } catch (err) {
     console.error('Erro ao ler caderno de erros local:', err);
     return [];
@@ -219,20 +220,20 @@ export function limparErrosSuperados(userId) {
 export function obterRaioXDoErro(erro) {
   if (!erro || !erro.questao) return null;
 
-  const q = erro.questao;
-  const letraMarcada = erro.resposta_escolhida;
-  const gabarito = q.resposta_correta;
-  const alts = q.alternativas || [];
+  const q = erro.questao || {};
+  const letraMarcada = erro.resposta_escolhida || '';
+  const gabarito = q.resposta_correta || erro.resposta_correta || '';
+  const alts = Array.isArray(q.alternativas) ? q.alternativas : [];
 
-  const altMarcadaObj = alts.find((a) => a.id === letraMarcada);
-  const altCorretaObj = alts.find((a) => a.id === gabarito);
+  const altMarcadaObj = alts.find((a) => a && a.id === letraMarcada);
+  const altCorretaObj = alts.find((a) => a && a.id === gabarito);
 
   const textoMarcado = altMarcadaObj ? altMarcadaObj.texto : '';
   const textoCorreto = altCorretaObj ? altCorretaObj.texto : '';
 
   // Procura a explicação específica do distrator
-  const distratores = q.analise_distratores || [];
-  const distratorObj = distratores.find((d) => d.letra === letraMarcada);
+  const distratores = Array.isArray(q.analise_distratores) ? q.analise_distratores : [];
+  const distratorObj = distratores.find((d) => d && d.letra === letraMarcada);
 
   let motivoErro = '';
   if (distratorObj && distratorObj.motivo) {
@@ -244,7 +245,7 @@ export function obterRaioXDoErro(erro) {
   // Busca conselho da banca para o assunto
   const bancaChave = q.banca === 'FCC' ? 'FCC' : (q.banca === 'SELECON' ? 'SELECON' : (q.materia === 'Enfermagem' ? 'Enfermagem' : 'FCC'));
   const infoBanca = PADROES_BANCA_CONHECIMENTO[bancaChave] || PADROES_BANCA_CONHECIMENTO.FCC;
-  const assuntoInfo = infoBanca.assuntosCriticos[q.assunto] || null;
+  const assuntoInfo = infoBanca?.assuntosCriticos?.[q.assunto] || null;
 
   return {
     letraMarcada,
@@ -253,9 +254,9 @@ export function obterRaioXDoErro(erro) {
     textoCorreto,
     motivoErro,
     fundamentacao: q.fundamentacao_correta || 'Consulte a bibliografia oficial e gramática normativa para fixação.',
-    dicaBanca: assuntoInfo?.dicaOuro || infoBanca.pegadinhaFrequente,
-    alertaTema: assuntoInfo?.alerta || infoBanca.focoPrincipal,
-    bancaNome: infoBanca.nome
+    dicaBanca: assuntoInfo?.dicaOuro || infoBanca?.pegadinhaFrequente || 'Revise a teoria e o padrão da banca.',
+    alertaTema: assuntoInfo?.alerta || infoBanca?.focoPrincipal || 'Foco nas normas da banca.',
+    bancaNome: infoBanca?.nome || q.banca || 'Banca'
   };
 }
 
@@ -263,7 +264,8 @@ export function obterRaioXDoErro(erro) {
  * Gera o Diagnóstico Geral Inteligente por Usuário e Banca
  */
 export function gerarDiagnosticoInteligente({ erros = [], bancaFiltro = 'Todas' }) {
-  const lista = bancaFiltro === 'Todas' ? erros : erros.filter((e) => e.banca === bancaFiltro);
+  const listaSegura = Array.isArray(erros) ? erros.filter((e) => e && typeof e === 'object') : [];
+  const lista = bancaFiltro === 'Todas' ? listaSegura : listaSegura.filter((e) => e.banca === bancaFiltro);
 
   const total = lista.length;
   const pendentes = lista.filter((e) => e.status === 'pendente').length;
@@ -297,13 +299,18 @@ export function gerarDiagnosticoInteligente({ erros = [], bancaFiltro = 'Todas' 
 
   // Análise da Banca selecionada
   const bancaChave = bancaFiltro === 'FCC' ? 'FCC' : (bancaFiltro === 'SELECON' ? 'SELECON' : 'FCC');
-  const padraoBancaInfo = PADROES_BANCA_CONHECIMENTO[bancaChave] || PADROES_BANCA_CONHECIMENTO.FCC;
+  const padraoBancaInfo = PADROES_BANCA_CONHECIMENTO[bancaChave] || PADROES_BANCA_CONHECIMENTO.FCC || {
+    nome: 'Geral',
+    focoPrincipal: 'Revisão sistemática de questões e fixação das pegadinhas da banca.',
+    pegadinhaFrequente: 'Distratores com extrapolação e reducionismo de texto.',
+    assuntosCriticos: {}
+  };
 
   // Montagem das Recomendações Pedagógicas
   const recomendacoes = [];
   if (topAssuntosCriticos.length > 0) {
     topAssuntosCriticos.forEach((item) => {
-      const infoEspecifica = padraoBancaInfo.assuntosCriticos[item.assunto];
+      const infoEspecifica = padraoBancaInfo?.assuntosCriticos?.[item.assunto];
       recomendacoes.push({
         assunto: item.assunto,
         qtdErros: item.qtd,

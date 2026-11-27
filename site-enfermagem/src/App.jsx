@@ -210,6 +210,7 @@ export default function App() {
 
   // Contexto de Autenticação, Usuário e Limites
   const {
+    user,
     isVip,
     questoesRespondidasHoje,
     limiteDiario,
@@ -444,6 +445,7 @@ export default function App() {
   };
 
   const confirmarResposta = (questaoObj) => {
+    if (!questaoObj || !questaoObj.id) return;
     const questaoId = questaoObj.id;
     const selecionada = respostas[questaoId]?.selecionada;
     if (!selecionada) return;
@@ -2120,26 +2122,34 @@ export default function App() {
                   </p>
 
                   <div className="insights-grid" style={{ marginTop: 0 }}>
-                    <div className="insight-card">
-                      <div className="insight-tag"><Target size={14} /> {currentInsight.foco1.tag}</div>
-                      <h4 className="insight-title">{currentInsight.foco1.title}</h4>
-                      <p className="insight-text">{currentInsight.foco1.text}</p>
-                    </div>
-                    <div className="insight-card">
-                      <div className="insight-tag"><Sparkles size={14} /> {currentInsight.ponto.tag}</div>
-                      <h4 className="insight-title">{currentInsight.ponto.title}</h4>
-                      <p className="insight-text">{currentInsight.ponto.text}</p>
-                    </div>
-                    <div className="insight-card">
-                      <div className="insight-tag"><Zap size={14} /> {currentInsight.perfil.tag}</div>
-                      <h4 className="insight-title">{currentInsight.perfil.title}</h4>
-                      <p className="insight-text">{currentInsight.perfil.text}</p>
-                    </div>
-                    <div className="insight-card">
-                      <div className="insight-tag"><Award size={14} /> {currentInsight.sus.tag}</div>
-                      <h4 className="insight-title">{currentInsight.sus.title}</h4>
-                      <p className="insight-text">{currentInsight.sus.text}</p>
-                    </div>
+                    {currentInsight?.foco1 && (
+                      <div className="insight-card">
+                        <div className="insight-tag"><Target size={14} /> {currentInsight.foco1.tag || 'Foco da Banca'}</div>
+                        <h4 className="insight-title">{currentInsight.foco1.title || ''}</h4>
+                        <p className="insight-text">{currentInsight.foco1.text || ''}</p>
+                      </div>
+                    )}
+                    {currentInsight?.ponto && (
+                      <div className="insight-card">
+                        <div className="insight-tag"><Sparkles size={14} /> {currentInsight.ponto.tag || 'Ponto Garantido'}</div>
+                        <h4 className="insight-title">{currentInsight.ponto.title || ''}</h4>
+                        <p className="insight-text">{currentInsight.ponto.text || ''}</p>
+                      </div>
+                    )}
+                    {currentInsight?.perfil && (
+                      <div className="insight-card">
+                        <div className="insight-tag"><Zap size={14} /> {currentInsight.perfil.tag || 'Estratégia'}</div>
+                        <h4 className="insight-title">{currentInsight.perfil.title || ''}</h4>
+                        <p className="insight-text">{currentInsight.perfil.text || ''}</p>
+                      </div>
+                    )}
+                    {currentInsight?.sus && (
+                      <div className="insight-card">
+                        <div className="insight-tag"><Award size={14} /> {currentInsight.sus.tag || 'Critério da Banca'}</div>
+                        <h4 className="insight-title">{currentInsight.sus.title || ''}</h4>
+                        <p className="insight-text">{currentInsight.sus.text || ''}</p>
+                      </div>
+                    )}
                   </div>
                 </div>
               </>
