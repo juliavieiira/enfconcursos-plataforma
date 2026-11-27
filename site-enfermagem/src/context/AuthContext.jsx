@@ -47,7 +47,13 @@ export const AuthProvider = ({ children }) => {
         console.warn('Erro ao carregar perfil:', error.message);
       }
 
+      const googleName = authUser.user_metadata?.full_name || authUser.user_metadata?.name || authUser.user_metadata?.nome;
+
       if (data) {
+        if (googleName && (!data.nome || data.nome === authUser.email.split('@')[0])) {
+          data.nome = googleName;
+          supabase.from('profiles').update({ nome: googleName }).eq('id', authUser.id).catch(() => {});
+        }
         setProfile(data);
         // Sincroniza contador diário se último acesso foi hoje
         const dataUltimo = data.data_ultimo_acesso ? String(data.data_ultimo_acesso).split('T')[0] : null;
@@ -58,7 +64,7 @@ export const AuthProvider = ({ children }) => {
       } else {
         const fallbackProfile = {
           id: authUser.id,
-          nome: authUser.user_metadata?.nome || authUser.email.split('@')[0],
+          nome: googleName || authUser.email.split('@')[0],
           email: authUser.email,
           plano: 'gratuito',
           status: 'ativo',
