@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import { supabase, isSupabaseConfigured } from '../lib/supabaseClient';
 import { AuthContext } from './AuthContextBase';
+import { registrarTentativaCaderno } from '../services/cadernoErrosService';
 
 const LIMITE_GRATUITO_DIARIO = 5;
 
@@ -134,6 +135,15 @@ export const AuthProvider = ({ children }) => {
     const novoTotal = questoesRespondidasHoje + 1;
     localStorage.setItem(key, novoTotal.toString());
     setQuestoesRespondidasHoje(novoTotal);
+
+    // Registra automaticamente no Caderno de Erros inteligente
+    if (questaoOuId && typeof questaoOuId === 'object') {
+      try {
+        registrarTentativaCaderno(questaoOuId, respostaEscolhida, acertou, user?.id);
+      } catch (err) {
+        console.warn('Erro ao atualizar caderno de erros:', err);
+      }
+    }
 
     if (user && isSupabaseConfigured()) {
       const isObj = questaoOuId && typeof questaoOuId === 'object';

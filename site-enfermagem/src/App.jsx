@@ -36,13 +36,15 @@ import {
   RotateCcw,
   Crown,
   Lock,
-  RefreshCw
+  RefreshCw,
+  Brain
 } from 'lucide-react';
 import { useAuth } from './context/useAuth.js';
 import UserHeaderMenu from './components/UserHeaderMenu.jsx';
 import AuthModal from './components/AuthModal.jsx';
 import UpgradeModal from './components/UpgradeModal.jsx';
 import TextoEnunciado from './components/TextoEnunciado.jsx';
+import CadernoErros from './components/CadernoErros.jsx';
 
 const CURRENT_YEAR = new Date().getFullYear();
 const PAGE_SIZE = 20;
@@ -527,6 +529,16 @@ export default function App() {
             >
               <BookOpen size={17} />
               <span>Questões</span>
+            </button>
+            <button
+              className={`nav-link ${activeTab === 'caderno' ? 'active' : ''}`}
+              onClick={() => {
+                setActiveTab('caderno');
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+              }}
+            >
+              <Brain size={17} />
+              <span>Caderno de Erros</span>
             </button>
             <button
               className={`nav-link ${activeTab === 'padrao' ? 'active' : ''}`}
@@ -2133,6 +2145,18 @@ export default function App() {
               </>
             )}
           </section>
+        )}
+
+        {/* ABA: CADERNO DE ERROS COM MENTOR IA */}
+        {activeTab === 'caderno' && (
+          <CadernoErros
+            user={user}
+            totalGeralAcervo={totalGeralAcervo}
+            aoTrocarParaQuestoes={() => {
+              setActiveTab('questoes');
+              window.scrollTo({ top: 0, behavior: 'smooth' });
+            }}
+          />
         )}
 
         {/* BANNER DE VENDAS / PLANO VIP (Ocultado automaticamente para quem já é VIP e com preço unificado) */}
