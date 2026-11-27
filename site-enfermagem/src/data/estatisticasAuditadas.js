@@ -1,4 +1,12 @@
+// Baseline oficial auditada do acervo EnfConcursos (recalculada com reintegração FCC Português)
 export const ESTATISTICAS_AUDITADAS_BASELINE = [
+  {
+    "banca": "FCC",
+    "materia": "Língua Portuguesa",
+    "assunto": "Interpretação e Compreensão de Textos",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "total": 365
+  },
   {
     "banca": "SELECON",
     "materia": "Língua Portuguesa",
@@ -9,9 +17,9 @@ export const ESTATISTICAS_AUDITADAS_BASELINE = [
   {
     "banca": "FCC",
     "materia": "Língua Portuguesa",
-    "assunto": "Interpretação e Compreensão de Textos",
+    "assunto": "Sintaxe da Oração e do Período",
     "cargo": "Cargos Diversos (Superior/Médio)",
-    "total": 279
+    "total": 172
   },
   {
     "banca": "SELECON",
@@ -23,16 +31,9 @@ export const ESTATISTICAS_AUDITADAS_BASELINE = [
   {
     "banca": "FCC",
     "materia": "Língua Portuguesa",
-    "assunto": "Sintaxe da Oração e do Período",
-    "cargo": "Cargos Diversos (Superior/Médio)",
-    "total": 138
-  },
-  {
-    "banca": "FCC",
-    "materia": "Língua Portuguesa",
     "assunto": "Morfologia - Tempos e Modos Verbais",
     "cargo": "Cargos Diversos (Superior/Médio)",
-    "total": 114
+    "total": 126
   },
   {
     "banca": "SELECON",
@@ -47,6 +48,13 @@ export const ESTATISTICAS_AUDITADAS_BASELINE = [
     "assunto": "Doenças Infecciosas e Parasitárias (Dengue, Tuberculose, HIV)",
     "cargo": "Enfermeiro",
     "total": 107
+  },
+  {
+    "banca": "FCC",
+    "materia": "Língua Portuguesa",
+    "assunto": "Semântica e Significação das Palavras",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "total": 99
   },
   {
     "banca": "FCC",
@@ -92,13 +100,6 @@ export const ESTATISTICAS_AUDITADAS_BASELINE = [
   },
   {
     "banca": "SELECON",
-    "materia": "Língua Portuguesa",
-    "assunto": "Semântica e Significação das Palavras",
-    "cargo": "Cargos Diversos (Superior/Médio)",
-    "total": 62
-  },
-  {
-    "banca": "FCC",
     "materia": "Língua Portuguesa",
     "assunto": "Semântica e Significação das Palavras",
     "cargo": "Cargos Diversos (Superior/Médio)",
@@ -161,6 +162,13 @@ export const ESTATISTICAS_AUDITADAS_BASELINE = [
     "total": 43
   },
   {
+    "banca": "FCC",
+    "materia": "Língua Portuguesa",
+    "assunto": "Pontuação e Emprego da Vírgula",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "total": 43
+  },
+  {
     "banca": "SELECON",
     "materia": "Enfermagem",
     "assunto": "Urgência, Emergência e PCR",
@@ -172,6 +180,13 @@ export const ESTATISTICAS_AUDITADAS_BASELINE = [
     "materia": "Enfermagem",
     "assunto": "Imunização e Calendário Vacinal (PNI)",
     "cargo": "Técnico de Enfermagem",
+    "total": 42
+  },
+  {
+    "banca": "FCC",
+    "materia": "Língua Portuguesa",
+    "assunto": "Conjunções e Relações Lógico-Discursivas",
+    "cargo": "Cargos Diversos (Superior/Médio)",
     "total": 42
   },
   {
@@ -194,20 +209,6 @@ export const ESTATISTICAS_AUDITADAS_BASELINE = [
     "assunto": "Legislação de Enfermagem e Código de Ética",
     "cargo": "Técnico de Enfermagem",
     "total": 40
-  },
-  {
-    "banca": "FCC",
-    "materia": "Língua Portuguesa",
-    "assunto": "Pontuação e Emprego da Vírgula",
-    "cargo": "Cargos Diversos (Superior/Médio)",
-    "total": 40
-  },
-  {
-    "banca": "FCC",
-    "materia": "Língua Portuguesa",
-    "assunto": "Conjunções e Relações Lógico-Discursivas",
-    "cargo": "Cargos Diversos (Superior/Médio)",
-    "total": 39
   },
   {
     "banca": "SELECON",
@@ -245,6 +246,13 @@ export const ESTATISTICAS_AUDITADAS_BASELINE = [
     "total": 35
   },
   {
+    "banca": "FCC",
+    "materia": "Língua Portuguesa",
+    "assunto": "Morfologia - Pronomes e Colocação Pronominal",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "total": 35
+  },
+  {
     "banca": "SELECON",
     "materia": "Língua Portuguesa",
     "assunto": "Morfologia - Pronomes e Colocação Pronominal",
@@ -256,6 +264,13 @@ export const ESTATISTICAS_AUDITADAS_BASELINE = [
     "materia": "Enfermagem",
     "assunto": "Saúde Pública, SUS e Atenção Básica",
     "cargo": "Técnico de Enfermagem",
+    "total": 32
+  },
+  {
+    "banca": "FCC",
+    "materia": "Língua Portuguesa",
+    "assunto": "Coesão Textual e Referenciação",
+    "cargo": "Cargos Diversos (Superior/Médio)",
     "total": 32
   },
   {
@@ -298,27 +313,13 @@ export const ESTATISTICAS_AUDITADAS_BASELINE = [
     "materia": "Língua Portuguesa",
     "assunto": "Morfologia - Classes Gramaticais",
     "cargo": "Cargos Diversos (Superior/Médio)",
-    "total": 26
-  },
-  {
-    "banca": "FCC",
-    "materia": "Língua Portuguesa",
-    "assunto": "Morfologia - Pronomes e Colocação Pronominal",
-    "cargo": "Cargos Diversos (Superior/Médio)",
-    "total": 25
+    "total": 27
   },
   {
     "banca": "SELECON",
     "materia": "Enfermagem",
     "assunto": "Legislação de Enfermagem e Código de Ética",
     "cargo": "Técnico de Enfermagem",
-    "total": 23
-  },
-  {
-    "banca": "FCC",
-    "materia": "Língua Portuguesa",
-    "assunto": "Coesão Textual e Referenciação",
-    "cargo": "Cargos Diversos (Superior/Médio)",
     "total": 23
   },
   {
@@ -515,7 +516,7 @@ export const ESTATISTICAS_AUDITADAS_BASELINE = [
     "materia": "Língua Portuguesa",
     "assunto": "Emprego do Sinal Indicativo de Crase",
     "cargo": "Cargos Diversos (Superior/Médio)",
-    "total": 8
+    "total": 9
   },
   {
     "banca": "SELECON",
@@ -616,6 +617,13 @@ export const ESTATISTICAS_AUDITADAS_BASELINE = [
     "total": 3
   },
   {
+    "banca": "FCC",
+    "materia": "Língua Portuguesa",
+    "assunto": "Tipologia e Gêneros Textuais",
+    "cargo": "Cargos Diversos (Superior/Médio)",
+    "total": 3
+  },
+  {
     "banca": "SELECON",
     "materia": "Enfermagem",
     "assunto": "Saúde Mental e Atenção Psicossocial",
@@ -633,13 +641,6 @@ export const ESTATISTICAS_AUDITADAS_BASELINE = [
     "banca": "FCC",
     "materia": "Língua Portuguesa",
     "assunto": "Ortografia Oficial e Acentuação Gráfica",
-    "cargo": "Cargos Diversos (Superior/Médio)",
-    "total": 2
-  },
-  {
-    "banca": "FCC",
-    "materia": "Língua Portuguesa",
-    "assunto": "Tipologia e Gêneros Textuais",
     "cargo": "Cargos Diversos (Superior/Médio)",
     "total": 2
   },
@@ -767,13 +768,6 @@ export const ESTATISTICAS_AUDITADAS_BASELINE = [
     "materia": "Enfermagem",
     "assunto": "Epidemiologia e Demografia em Saúde",
     "cargo": "Consultor Legislativo - Saúde",
-    "total": 1
-  },
-  {
-    "banca": "FCC",
-    "materia": "Língua Portuguesa",
-    "assunto": "Morfologia e Emprego dos Tempos Verbais",
-    "cargo": "Técnico Judiciário - Área Administrativa",
     "total": 1
   }
 ];
