@@ -181,7 +181,7 @@ export const AuthProvider = ({ children }) => {
     });
 
     if (error) throw error;
-    if (data?.user) {
+    if (data?.user && data?.session) {
       setUser(data.user);
       await carregarPerfil(data.user);
     }

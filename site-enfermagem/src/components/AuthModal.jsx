@@ -74,9 +74,15 @@ export const AuthModal = () => {
         if (senha.length < 6) throw new Error('A senha deve ter pelo menos 6 caracteres.');
         if (senha !== confirmarSenha) throw new Error('As senhas digitadas não coincidem.');
 
-        await cadastrar(nome.trim(), email.trim(), senha);
-        setMensagemSucesso('Conta criada com sucesso! Bem-vindo(a) ao EnfConcursos.');
-        setTimeout(() => fechar(), 1200);
+        const res = await cadastrar(nome.trim(), email.trim(), senha);
+        if (res?.session) {
+          setMensagemSucesso('Conta criada com sucesso! Bem-vindo(a) ao EnfConcursos.');
+          setTimeout(() => fechar(), 1200);
+        } else {
+          setMensagemSucesso(
+            `Cadastro realizado com sucesso! Enviamos um link de confirmação para ${email.trim()}. Acesse seu e-mail para ativar sua conta e depois faça login.`
+          );
+        }
       } else if (modo === 'login') {
         await login(email.trim(), senha);
         setMensagemSucesso('Login efetuado com sucesso!');
@@ -148,9 +154,24 @@ export const AuthModal = () => {
           </div>
         )}
         {mensagemSucesso && (
-          <div className="auth-alert success animate-fade-in">
-            <CheckCircle2 size={18} className="alert-icon" />
-            <span>{mensagemSucesso}</span>
+          <div className="auth-alert success animate-fade-in" style={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-start', gap: '0.5rem' }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+              <CheckCircle2 size={18} className="alert-icon" style={{ flexShrink: 0 }} />
+              <span>{mensagemSucesso}</span>
+            </div>
+            {modo === 'cadastro' && (
+              <button
+                type="button"
+                className="btn-primary"
+                onClick={() => {
+                  setMensagemSucesso('');
+                  mudarModo('login');
+                }}
+                style={{ fontSize: '0.8rem', padding: '0.4rem 0.9rem', marginTop: '0.2rem', alignSelf: 'flex-start' }}
+              >
+                Ir para o Login →
+              </button>
+            )}
           </div>
         )}
 
