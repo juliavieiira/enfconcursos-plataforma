@@ -199,6 +199,30 @@ export const AuthProvider = ({ children }) => {
   };
 
   const loginComGoogle = async () => {
+    // 1. Verifica se o provedor do Google está ativo no Supabase para evitar tela preta de erro 400
+    const supabaseUrl = import.meta.env.VITE_SUPABASE_URL;
+    const supabaseAnonKey = import.meta.env.VITE_SUPABASE_ANON_KEY;
+    if (supabaseUrl && supabaseAnonKey) {
+      try {
+        const res = await fetch(`${supabaseUrl}/auth/v1/settings`, {
+          headers: {
+            apikey: supabaseAnonKey,
+            Authorization: `Bearer ${supabaseAnonKey}`
+          }
+        });
+        if (res.ok) {
+          const settings = await res.json();
+          if (settings?.external?.google === false) {
+            throw new Error('O login com Google ainda não foi ativado no painel do Supabase (Authentication > Providers > Google). Para entrar agora, utilize seu e-mail e senha logo abaixo!');
+          }
+        }
+      } catch (errCheck) {
+        if (errCheck.message.includes('Supabase')) {
+          throw errCheck;
+        }
+      }
+    }
+
     const { data, error } = await supabase.auth.signInWithOAuth({
       provider: 'google',
       options: {
