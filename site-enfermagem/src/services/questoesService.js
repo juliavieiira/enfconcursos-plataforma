@@ -26,7 +26,7 @@ function sanitizarBusca(termo) {
   if (!termo) return '';
   return termo
     .trim()
-    .replace(/[%_,()]/g, ' ')
+    .replace(/[%,()]/g, ' ')
     .replace(/\s+/g, ' ')
     .trim();
 }
@@ -83,9 +83,10 @@ export async function buscarQuestoesPaginadas({
 
   if (buscaLimpa) {
     query = query.or(
-      `enunciado.ilike.%${buscaLimpa}%,orgao.ilike.%${buscaLimpa}%,assunto.ilike.%${buscaLimpa}%,id.ilike.%${buscaLimpa}%`
+      `enunciado.ilike.%${buscaLimpa}%,orgao.ilike.%${buscaLimpa}%,assunto.ilike.%${buscaLimpa}%,id.ilike.%${buscaLimpa}%,codigo_origem.ilike.%${buscaLimpa}%`
     );
   }
+
 
   const from = pagina * tamanhoPagina;
   const to = from + tamanhoPagina - 1;

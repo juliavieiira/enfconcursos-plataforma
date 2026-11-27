@@ -1,10 +1,112 @@
-import React, { useState } from 'react';
-import { ChevronDown, ChevronUp, BookOpen } from 'lucide-react';
+import React, { useState, useEffect } from 'react';
+import { ChevronDown, ChevronUp, BookOpen, ZoomIn } from 'lucide-react';
+
+/**
+ * Utilitário para parsear markdown de imagens:
+ * ![alt text](/questoes_imagens/...) ou [IMAGEM: /questoes_imagens/... | legenda]
+ */
+const renderizarTextoComImagens = (texto, onZoom) => {
+  if (!texto || typeof texto !== 'string') return null;
+
+  const imageRegex = /(!\[(.*?)\]\((.*?)\)|\[IMAGEM:\s*([^\]|]+)(?:\|\s*([^\]]+))?\])/g;
+  const parts = [];
+  let lastIndex = 0;
+  let match;
+
+  while ((match = imageRegex.exec(texto)) !== null) {
+    const matchIndex = match.index;
+    if (matchIndex > lastIndex) {
+      parts.push({
+        type: 'text',
+        content: texto.slice(lastIndex, matchIndex)
+      });
+    }
+
+    let url = '';
+    let alt = '';
+
+    if (match[1].startsWith('![')) {
+      // Markdown: ![alt](url)
+      alt = match[2] || '';
+      url = match[3] || '';
+    } else {
+      // Tag customizada: [IMAGEM: url | alt]
+      url = (match[4] || '').trim();
+      alt = (match[5] || '').trim();
+    }
+
+    parts.push({
+      type: 'image',
+      url,
+      alt
+    });
+
+    lastIndex = imageRegex.lastIndex;
+  }
+
+  if (lastIndex < texto.length) {
+    parts.push({
+      type: 'text',
+      content: texto.slice(lastIndex)
+    });
+  }
+
+  // Se não tem imagens, retorna texto puro
+  if (parts.length === 1 && parts[0].type === 'text') {
+    return <span style={{ whiteSpace: 'pre-line' }}>{parts[0].content}</span>;
+  }
+
+  return parts.map((part, idx) => {
+    if (part.type === 'text') {
+      return (
+        <span key={`txt-${idx}`} style={{ whiteSpace: 'pre-line' }}>
+          {part.content}
+        </span>
+      );
+    }
+    return (
+      <div className="questao-imagem-container" key={`img-${idx}`}>
+        <figure className="questao-imagem-card">
+          <img
+            src={part.url}
+            alt={part.alt || 'Ilustração da questão'}
+            className="questao-imagem-img"
+            loading="lazy"
+            onClick={() => onZoom && onZoom({ url: part.url, alt: part.alt })}
+            title="Clique na imagem para ampliar em tela cheia"
+          />
+          {part.alt && (
+            <figcaption className="questao-imagem-caption">
+              <span className="icone-lupa">🔍</span>
+              <span>{part.alt}</span>
+              <span className="dica-zoom">(clique para ampliar)</span>
+            </figcaption>
+          )}
+        </figure>
+      </div>
+    );
+  });
+};
 
 export const TextoEnunciado = ({ enunciado, questaoId }) => {
   // Rastreador de expansão por questão: reseta automaticamente na troca de questão
   const [expandidoId, setExpandidoId] = useState(null);
+  const [imagemModal, setImagemModal] = useState(null);
+
   const expandido = expandidoId === questaoId;
+
+  // Fecha o modal de imagem ao pressionar tecla ESC
+  useEffect(() => {
+    const handleKeyDown = (e) => {
+      if (e.key === 'Escape') {
+        setImagemModal(null);
+      }
+    };
+    if (imagemModal) {
+      window.addEventListener('keydown', handleKeyDown);
+    }
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [imagemModal]);
 
   const toggleExpandido = () => {
     setExpandidoId(prev => (prev === questaoId ? null : questaoId));
@@ -24,11 +126,48 @@ export const TextoEnunciado = ({ enunciado, questaoId }) => {
   const match = enunciado.match(triggerRegex);
   const isTextoLongoComLeitura = Boolean(match && enunciado.length > 260);
 
+  // Modal Lightbox Render
+  const renderLightbox = () => {
+    if (!imagemModal) return null;
+    return (
+      <div
+        className="questao-imagem-modal-backdrop"
+        onClick={() => setImagemModal(null)}
+        role="dialog"
+        aria-modal="true"
+      >
+        <div className="questao-imagem-modal-content" onClick={(e) => e.stopPropagation()}>
+          <button
+            type="button"
+            className="questao-imagem-modal-close"
+            onClick={() => setImagemModal(null)}
+            aria-label="Fechar ampliação"
+          >
+            ✕
+          </button>
+          <img
+            src={imagemModal.url}
+            alt={imagemModal.alt || 'Imagem da questão'}
+            className="questao-imagem-modal-img"
+          />
+          {imagemModal.alt && (
+            <div className="questao-imagem-modal-caption">
+              {imagemModal.alt}
+            </div>
+          )}
+        </div>
+      </div>
+    );
+  };
+
   if (!isTextoLongoComLeitura) {
     return (
-      <p className="question-text" style={{ fontSize: '1.08rem', lineHeight: '1.75', whiteSpace: 'pre-line' }}>
-        <strong>Enunciado:</strong> {enunciado}
-      </p>
+      <>
+        <div className="question-text" style={{ fontSize: '1.08rem', lineHeight: '1.75' }}>
+          <strong>Enunciado:</strong> {renderizarTextoComImagens(enunciado, setImagemModal)}
+        </div>
+        {renderLightbox()}
+      </>
     );
   }
 
@@ -79,6 +218,11 @@ export const TextoEnunciado = ({ enunciado, questaoId }) => {
     }
   }
 
+  // Versão resumida para quando a caixa estiver recolhida (substitui markdown de imagem por aviso amigável)
+  const resumoTextoLeitura = textoLeitura
+    .replace(/!\[(.*?)\]\(.*?\)/g, ' 🖼️ [$1] ')
+    .replace(/\[IMAGEM:\s*[^\]|]+(?:\|\s*([^\]]+))?\]/g, ' 🖼️ [$1] ');
+
   return (
     <div className="leia-texto-wrapper animate-fade-in">
       {prefixo && (
@@ -114,22 +258,23 @@ export const TextoEnunciado = ({ enunciado, questaoId }) => {
           </span>
         </div>
 
-        {/* Texto limitado a no máximo 2 linhas quando fechado */}
+        {/* Texto limitado a no máximo 2 linhas quando fechado, ou completo e formatado quando expandido */}
         <div
           className={`leia-texto-content ${expandido ? 'expandido' : 'clamped-2-lines'}`}
-          style={expandido ? { whiteSpace: 'pre-line' } : undefined}
           onClick={() => !expandido && setExpandidoId(questaoId)}
           title={!expandido ? 'Clique para expandir e ler o texto completo' : undefined}
         >
-          {textoLeitura}
+          {expandido
+            ? renderizarTextoComImagens(textoLeitura, setImagemModal)
+            : resumoTextoLeitura}
         </div>
       </div>
 
       {/* Comando específico da questão */}
       {comando ? (
-        <p className="question-text" style={{ fontSize: '1.08rem', lineHeight: '1.75', marginTop: '1rem' }}>
-          <strong>Enunciado:</strong> {comando}
-        </p>
+        <div className="question-text" style={{ fontSize: '1.08rem', lineHeight: '1.75', marginTop: '1rem' }}>
+          <strong>Enunciado:</strong> {renderizarTextoComImagens(comando, setImagemModal)}
+        </div>
       ) : (
         !expandido && (
           <div className="leia-texto-hint-inline" onClick={() => setExpandidoId(questaoId)}>
@@ -137,6 +282,8 @@ export const TextoEnunciado = ({ enunciado, questaoId }) => {
           </div>
         )
       )}
+
+      {renderLightbox()}
     </div>
   );
 };
