@@ -155,6 +155,22 @@ class MockSupabaseAuth {
     }
     return { data: {}, error: null };
   }
+
+  async signInWithOAuth({ provider }) {
+    await new Promise(r => setTimeout(r, 300));
+    const mockUser = {
+      id: 'usr_oauth_' + Math.random().toString(36).substring(2, 10),
+      email: 'aluno.google@exemplo.com',
+      user_metadata: { nome: 'Aluno Google' },
+      created_at: new Date().toISOString()
+    };
+    const session = {
+      access_token: 'mock_oauth_token_' + Date.now(),
+      user: mockUser
+    };
+    this._saveSession(session);
+    return { data: { user: mockUser, session }, error: null };
+  }
 }
 
 // Mock Database Queries

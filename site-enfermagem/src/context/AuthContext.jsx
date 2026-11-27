@@ -198,6 +198,17 @@ export const AuthProvider = ({ children }) => {
     return data;
   };
 
+  const loginComGoogle = async () => {
+    const { data, error } = await supabase.auth.signInWithOAuth({
+      provider: 'google',
+      options: {
+        redirectTo: window.location.origin
+      }
+    });
+    if (error) throw error;
+    return data;
+  };
+
   const logout = async () => {
     await supabase.auth.signOut();
     setUser(null);
@@ -244,6 +255,7 @@ export const AuthProvider = ({ children }) => {
         registrarResposta,
         cadastrar,
         login,
+        loginComGoogle,
         logout,
         recuperarSenha,
         atualizarPlano,
