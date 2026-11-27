@@ -2,6 +2,29 @@ import React, { useState } from 'react';
 import { useAuth } from '../context/useAuth';
 import { X, Lock, Mail, User, ArrowRight, ShieldCheck, CheckCircle2, AlertCircle, KeyRound, Sparkles } from 'lucide-react';
 
+const traduzirErroSupabase = (msg = '') => {
+  const m = String(msg).toLowerCase();
+  if (m.includes('invalid login credentials') || m.includes('invalid grant') || m.includes('invalid_credentials')) {
+    return 'E-mail ou senha incorretos. Verifique seus dados de acesso.';
+  }
+  if (m.includes('user already registered') || m.includes('already registered')) {
+    return 'Este e-mail já está cadastrado. Faça login ou solicite recuperação de senha.';
+  }
+  if (m.includes('password should be at least')) {
+    return 'A senha deve conter no mínimo 6 caracteres.';
+  }
+  if (m.includes('email not confirmed')) {
+    return 'E-mail ainda não confirmado. Verifique sua caixa de entrada e spam.';
+  }
+  if (m.includes('rate limit') || m.includes('too many requests')) {
+    return 'Muitas tentativas em pouco tempo. Aguarde alguns minutos e tente novamente.';
+  }
+  if (m.includes('network') || m.includes('fetch')) {
+    return 'Falha na conexão com o servidor. Verifique sua internet e tente novamente.';
+  }
+  return msg || 'Ocorreu um erro ao processar sua solicitação.';
+};
+
 export const AuthModal = () => {
   const {
     modalAuthAberto,
@@ -63,7 +86,7 @@ export const AuthModal = () => {
         setMensagemSucesso('Instruções de recuperação enviadas para o seu e-mail!');
       }
     } catch (err) {
-      setMensagemErro(err.message || 'Ocorreu um erro ao processar sua solicitação.');
+      setMensagemErro(traduzirErroSupabase(err?.message));
     } finally {
       setCarregando(false);
     }

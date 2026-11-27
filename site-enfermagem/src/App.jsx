@@ -2,9 +2,11 @@ import React, { useState, useEffect, useMemo } from 'react';
 import './App.css';
 import { BANCAS_PRECONFIGURADAS, getInsightPorBanca } from './data/bancasInfo';
 import { ASSUNTOS_PORTUGUES, ASSUNTOS_ENFERMAGEM } from './data/assuntosCatalogo';
+import { ESTATISTICAS_AUDITADAS_BASELINE } from './data/estatisticasAuditadas';
 import {
   buscarQuestoesPaginadas,
   carregarEstatisticasAcervo,
+  construirResumoEstatisticas,
   contarPorFiltro,
   obterRaioXDinamico,
   gerarSimuladoSupabase
@@ -63,19 +65,26 @@ const SIMULADOS_CATALOGO = [
 export default function App() {
   const [activeTab, setActiveTab] = useState('questoes'); // 'questoes', 'padrao', 'simulados'
 
-  // Estatísticas em tempo real do Supabase (atualizam automaticamente para +20.000 questões)
-  const [statsAcervo, setStatsAcervo] = useState(null);
+  // Estatísticas em tempo real do Supabase com baseline auditado imediato (zero travamento)
+  const [statsAcervo, setStatsAcervo] = useState(() => construirResumoEstatisticas(ESTATISTICAS_AUDITADAS_BASELINE));
+  const [statsErro, setStatsErro] = useState(null);
   const [retryToken, setRetryToken] = useState(0);
 
   useEffect(() => {
     let ativo = true;
-    carregarEstatisticasAcervo()
+    carregarEstatisticasAcervo(true)
       .then(res => {
         if (ativo && res && res.totalGeral > 0) {
           setStatsAcervo(res);
+          setStatsErro(null);
         }
       })
-      .catch(err => console.error('Erro ao carregar estatísticas do Supabase:', err));
+      .catch(err => {
+        if (ativo) {
+          console.error('Erro ao carregar estatísticas do Supabase:', err);
+          setStatsErro(err?.message || 'Erro ao sincronizar com o banco de dados');
+        }
+      });
     return () => { ativo = false; };
   }, [retryToken]);
 
@@ -177,7 +186,10 @@ export default function App() {
 
   const totalFiltradas = paginaDados.total;
   const safeIndex = totalFiltradas > 0 ? Math.min(Math.max(0, questaoIndex), totalFiltradas - 1) : 0;
-  const questaoAtual = !carregandoDados && paginaDados.itens[offsetNaPagina] ? paginaDados.itens[offsetNaPagina] : null;
+  const safeOffsetNaPagina = Array.isArray(paginaDados.itens) && paginaDados.itens.length > 0
+    ? Math.min(offsetNaPagina, paginaDados.itens.length - 1)
+    : 0;
+  const questaoAtual = !carregandoDados && paginaDados.itens[safeOffsetNaPagina] ? paginaDados.itens[safeOffsetNaPagina] : null;
 
   // Estado das respostas do usuário na aba questões
   const [respostas, setRespostas] = useState({});
@@ -1951,8 +1963,23 @@ export default function App() {
             {!temStats ? (
               <div style={{ textAlign: 'center', padding: '3.5rem 2rem', background: '#ffffff', borderRadius: '1rem', border: '1px solid #e2e8f0', margin: '1.5rem 0' }}>
                 <div style={{ width: '40px', height: '40px', border: '3px solid #ccfbf1', borderTopColor: '#0d9488', borderRadius: '50%', animation: 'enfSpin 0.75s linear infinite', margin: '0 auto 1rem' }}></div>
-                <h3 style={{ fontSize: '1.15rem', fontWeight: 700, color: '#0f172a', marginBottom: '0.35rem' }}>Carregando Raio-X da Banca</h3>
-                <p style={{ color: '#64748b', fontSize: '0.9rem', margin: 0 }}>Calculando estatísticas em tempo real do banco auditado</p>
+                <h3 style={{ fontSize: '1.15rem', fontWeight: 700, color: '#0f172a', marginBottom: '0.35rem' }}>
+                  {statsErro ? 'Erro ao Carregar Estatísticas' : 'Carregando Raio-X da Banca'}
+                </h3>
+                <p style={{ color: '#64748b', fontSize: '0.9rem', margin: '0 auto 1.25rem', maxWidth: '480px' }}>
+                  {statsErro
+                    ? 'Não foi possível carregar as contagens atualizadas no momento. Você pode tentar novamente clicando no botão abaixo.'
+                    : 'Calculando estatísticas em tempo real do banco auditado.'}
+                </p>
+                <button
+                  type="button"
+                  className="btn-primary"
+                  onClick={() => setRetryToken(t => t + 1)}
+                  style={{ display: 'inline-flex', alignItems: 'center', gap: '0.5rem', margin: '0 auto' }}
+                >
+                  <RotateCcw size={16} />
+                  <span>Tentar Novamente</span>
+                </button>
               </div>
             ) : totalQuestoesPadrao === 0 ? (
               <div className="padrao-empty-state animate-fade-in">

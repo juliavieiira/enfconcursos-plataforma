@@ -108,7 +108,7 @@ class MockSupabaseAuth {
       email: newUser.email,
       plano: 'gratuito',
       status: 'ativo',
-      limite_diario: 15,
+      limite_diario: 5,
       questoes_respondidas_hoje: 0,
       created_at: newUser.created_at
     };
@@ -322,7 +322,7 @@ const devProxyFetch = async (input, init = {}) => {
       }
     }
 
-    // 3. Último fallback via XHR relativo em /api/sb
+    // 3. Fallback via XHR relativo em /api/sb
     try {
       const xhrRes = await xhrFetch('/api/sb', {
         method: 'POST',
@@ -333,11 +333,32 @@ const devProxyFetch = async (input, init = {}) => {
         return await unwrapBridgeResponse(xhrRes);
       }
     } catch {
-      const origin = typeof window !== 'undefined' ? window.location?.origin : 'n/a';
-      throw new TypeError(`${errPost?.message || 'Bridge fetch error'} (origin=${origin}, bridge=/api/sb)`);
+      // 4. Se o bridge local não responder (ex: reinício do servidor de dev ou aba normal do navegador),
+      // tenta direct fetch. Em navegadores fora do sandbox do preview, CORS está liberado pelo Supabase!
+      try {
+        const directRes = await window.fetch(input, init);
+        if (directRes) return directRes;
+      } catch (errDirect) {
+        const origin = typeof window !== 'undefined' ? window.location?.origin : 'n/a';
+        throw new TypeError(`${errPost?.message || 'Bridge fetch error'} (origin=${origin}, bridge=/api/sb, direct=${errDirect?.message})`);
+      }
     }
 
-    throw errPost;
+    // Se o bridge falhou e não lançou no XHR, tenta direct fetch antes de desistir
+    try {
+      const directRes = await window.fetch(input, init);
+      if (directRes) return directRes;
+    } catch {
+      throw errPost;
+    }
+  }
+
+  // Se o bridge retornou status não-ok (ex: 502/504), tenta direct fetch
+  try {
+    const directRes = await window.fetch(input, init);
+    if (directRes) return directRes;
+  } catch {
+    // segue para erro padrão
   }
 
   throw new TypeError('O bridge /api/sb do servidor de desenvolvimento não respondeu.');
