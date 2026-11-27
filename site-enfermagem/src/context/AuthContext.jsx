@@ -205,46 +205,18 @@ export const AuthProvider = ({ children }) => {
   };
 
   const loginComGoogle = async () => {
-    // Detecta se está em iframe (como no Embedded Web Preview do ambiente)
-    // O Google proíbe autenticação dentro de iframes (X-Frame-Options: DENY -> Erro 403)
+    const supabaseUrl = import.meta.env.VITE_SUPABASE_URL || 'https://nvbmpzpuqbdxlhkdxyri.supabase.co';
     const isIframe = window.self !== window.top;
-    let popup = null;
+    const targetUrl = `${supabaseUrl}/auth/v1/authorize?provider=google&redirect_to=${encodeURIComponent(window.location.origin)}`;
 
     if (isIframe) {
-      // Abre a janela síncrona no clique para contornar bloqueador de popups e evitar iframe
-      try {
-        popup = window.open('about:blank', '_blank', 'width=540,height=680,status=no,toolbar=no,menubar=no');
-      } catch {
-        popup = null;
+      // Abre diretamente a URL de autenticação na ação do usuário (evita página em branco de about:blank no Safari)
+      const popup = window.open(targetUrl, 'google_auth_popup', 'width=540,height=680,status=no,toolbar=no,menubar=no');
+      if (!popup || popup.closed) {
+        window.location.href = targetUrl;
       }
-    }
-
-    try {
-      const { data, error } = await supabase.auth.signInWithOAuth({
-        provider: 'google',
-        options: {
-          redirectTo: window.location.origin,
-          skipBrowserRedirect: isIframe
-        }
-      });
-
-      if (error) {
-        if (popup) popup.close();
-        throw error;
-      }
-
-      if (isIframe && data?.url) {
-        if (popup && !popup.closed) {
-          popup.location.href = data.url;
-        } else {
-          window.open(data.url, '_blank');
-        }
-      }
-
-      return data;
-    } catch (err) {
-      if (popup) popup.close();
-      throw err;
+    } else {
+      window.location.href = targetUrl;
     }
   };
 
