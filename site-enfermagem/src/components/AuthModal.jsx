@@ -622,24 +622,6 @@ export const AuthModal = () => {
                 </div>
               )}
 
-              {/* Vantagens no Cadastro (Compacto) */}
-              {modo === 'cadastro' && (
-                <div className="auth-perks-box compact">
-                  <div className="perk-item">
-                    <CheckCircle2 size={13} color="#0d9488" />
-                    <span>5 questões diárias</span>
-                  </div>
-                  <div className="perk-item">
-                    <CheckCircle2 size={13} color="#0d9488" />
-                    <span>Simulados FCC/SELECON</span>
-                  </div>
-                  <div className="perk-item">
-                    <CheckCircle2 size={13} color="#0d9488" />
-                    <span>Raio-X de Banca</span>
-                  </div>
-                </div>
-              )}
-
               <button type="submit" className="btn-auth-submit" disabled={carregando}>
                 {carregando ? (
                   <span>Processando...</span>

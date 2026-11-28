@@ -2205,40 +2205,6 @@
   box-shadow: 0 0 0 3px rgba(13, 148, 136, 0.15);
 }
 
-.auth-perks-box {
-  background: #f8fafc;
-  border: 1px solid #e2e8f0;
-  border-radius: 8px;
-  padding: 0.5rem 0.65rem;
-  display: flex;
-  flex-direction: column;
-  gap: 0.25rem;
-}
-
-.auth-perks-box.compact {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  align-items: center;
-  padding: 0.4rem 0.6rem;
-  background: #f8fafc;
-  border: 1px solid #e2e8f0;
-  border-radius: 8px;
-  gap: 0.3rem 0.5rem;
-}
-
-.auth-perks-box .perk-item,
-.auth-perks-box.compact .perk-item {
-  display: flex;
-  align-items: center;
-  gap: 0.35rem;
-  font-size: 0.73rem;
-  color: #334155;
-  font-weight: 600;
-  white-space: nowrap;
-}
-
 .btn-auth-submit {
   display: flex;
   align-items: center;
