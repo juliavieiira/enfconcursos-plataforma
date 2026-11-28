@@ -51,13 +51,13 @@ export const UpgradeModal = ({ totalQuestoes = 0 }) => {
         <div className="upgrade-header">
           <div className="upgrade-badge">
             <Crown size={18} color="#f59e0b" />
-            <span>Plano VIP EnfConcursos</span>
+            <span>ACESSO VITALÍCIO • ATÉ A POSSE</span>
           </div>
           <h2 className="upgrade-title">
-            Eleve sua Preparação para o Nível dos 1ºs Colocados
+            Estude com Acesso Ilimitado até Conquistar a Sua Nomeação
           </h2>
           <p className="upgrade-subtitle">
-            Estude com foco cirúrgico nas bancas de prefeituras e grandes concursos. Questões comentadas alternativa por alternativa, sem limites diários.
+            Sem mensalidades, sem cobranças automáticas e sem renovação recorrente. Pague uma única vez e tenha acesso irrestrito a todo o acervo de questões comentadas e simulados oficiais até o dia da sua posse.
           </p>
         </div>
 
@@ -106,20 +106,29 @@ export const UpgradeModal = ({ totalQuestoes = 0 }) => {
             </div>
           </div>
 
-          {/* Card VIP PRO (Destaque) */}
+          {/* Card VIP Vitalício (Destaque Principal) */}
           <div className={`plan-card vip-plan highlighted ${isVip ? 'active-user-plan' : ''}`}>
-            <div className="popular-ribbon">RECOMENDADO</div>
+            <div className="popular-ribbon">OFERTA VITALÍCIA • PAGAMENTO ÚNICO</div>
             <div className="plan-header">
               <div className="vip-icon-wrapper">
                 <Crown size={22} color="#f59e0b" />
               </div>
-              <h3>Plano VIP PRO</h3>
-              <p className="plan-desc">Acesso total e irrestrito até a sua aprovação</p>
+              <h3>Plano VIP Vitalício</h3>
+              <p className="plan-desc">Acesso total e irrestrito até a sua posse oficial</p>
+              
+              <div className="price-old-anchor">
+                De <span style={{ textDecoration: 'line-through' }}>R$ 197,00</span> por apenas
+              </div>
+
               <div className="plan-price">
                 <span className="price-currency">R$</span>
-                <span className="price-val">29</span>
-                <span className="price-cents">,90</span>
-                <span className="price-period">/ mês</span>
+                <span className="price-val">97</span>
+                <span className="price-cents">,00</span>
+                <span className="price-period">pagamento único</span>
+              </div>
+
+              <div className="price-installments-pill">
+                ou 12x de <strong>R$ 9,74</strong> no cartão / PIX
               </div>
             </div>
 
@@ -130,7 +139,7 @@ export const UpgradeModal = ({ totalQuestoes = 0 }) => {
               </li>
               <li>
                 <CheckCircle2 size={16} className="feat-icon gold" />
-                <span>Dissecação alternativa por alternativa com erros explicados</span>
+                <span>Dissecação alternativa por alternativa com fundamentação</span>
               </li>
               <li>
                 <CheckCircle2 size={16} className="feat-icon gold" />
@@ -138,11 +147,15 @@ export const UpgradeModal = ({ totalQuestoes = 0 }) => {
               </li>
               <li>
                 <CheckCircle2 size={16} className="feat-icon gold" />
-                <span>Acesso a todas as novas bancas (IBAM, VUNESP, Consulpam, AOCP)</span>
+                <span>Caderno de Erros Inteligente com Raio-X Cognitivo</span>
               </li>
               <li>
                 <CheckCircle2 size={16} className="feat-icon gold" />
-                <span>Ranking comparativo e histórico completo de acertos</span>
+                <span>Novas bancas inclusas (IBAM, VUNESP, Consulpam, AOCP, FGV)</span>
+              </li>
+              <li>
+                <CheckCircle2 size={16} className="feat-icon gold" />
+                <strong>Acesso Vitalício: sem mensalidade nem pegadinhas no cartão</strong>
               </li>
             </ul>
 
@@ -150,7 +163,7 @@ export const UpgradeModal = ({ totalQuestoes = 0 }) => {
               {isVip ? (
                 <div className="current-plan-badge vip">
                   <Sparkles size={16} />
-                  <span>Você já é VIP PRO!</span>
+                  <span>Você possui Acesso VIP Vitalício!</span>
                 </div>
               ) : (
                 <button
@@ -158,7 +171,7 @@ export const UpgradeModal = ({ totalQuestoes = 0 }) => {
                   className="btn-upgrade-cta"
                   onClick={handleCheckout}
                 >
-                  <span>Garantir Acesso VIP Agora</span>
+                  <span>Garantir Acesso Vitalício por R$ 97</span>
                   <ArrowRight size={18} />
                 </button>
               )}
@@ -170,7 +183,7 @@ export const UpgradeModal = ({ totalQuestoes = 0 }) => {
         <div className="upgrade-modal-footer">
           <div className="security-guarantee">
             <ShieldCheck size={18} color="#0d9488" />
-            <span>Garantia incondicional de 7 dias • Cancele quando quiser sem burocracia</span>
+            <span>Garantia incondicional de 7 dias • Acesso imediato via PIX ou Cartão • Pagamento único sem renovação automática</span>
           </div>
 
           <div className="dev-test-action" style={{ marginTop: '0.75rem' }}>

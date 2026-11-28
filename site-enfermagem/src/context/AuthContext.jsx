@@ -66,6 +66,7 @@ export const AuthProvider = ({ children }) => {
           id: authUser.id,
           nome: googleName || authUser.email.split('@')[0],
           email: authUser.email,
+          whatsapp: authUser.user_metadata?.whatsapp || '',
           plano: 'gratuito',
           status: 'ativo',
           limite_diario: LIMITE_GRATUITO_DIARIO,
@@ -179,17 +180,31 @@ export const AuthProvider = ({ children }) => {
     }
   };
 
-  const cadastrar = async (nome, email, password) => {
+  const cadastrar = async (nome, email, password, whatsapp = '') => {
     const { data, error } = await supabase.auth.signUp({
       email,
       password,
-      options: { data: { nome } }
+      options: {
+        data: {
+          nome,
+          whatsapp: whatsapp ? whatsapp.trim() : null
+        }
+      }
     });
 
     if (error) throw error;
-    if (data?.user && data?.session) {
-      setUser(data.user);
-      await carregarPerfil(data.user);
+    if (data?.user) {
+      if (data?.session) {
+        setUser(data.user);
+        await carregarPerfil(data.user);
+      }
+      if (whatsapp && whatsapp.trim()) {
+        supabase
+          .from('profiles')
+          .update({ whatsapp: whatsapp.trim() })
+          .eq('id', data.user.id)
+          .catch(() => {});
+      }
     }
     return data;
   };

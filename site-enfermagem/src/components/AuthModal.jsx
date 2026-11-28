@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useAuth } from '../context/useAuth';
-import { X, Lock, Mail, User, ArrowRight, ShieldCheck, CheckCircle2, AlertCircle, KeyRound, Sparkles, Send } from 'lucide-react';
+import { X, Lock, Mail, User, Phone, ArrowRight, ShieldCheck, CheckCircle2, AlertCircle, KeyRound, Sparkles, Send } from 'lucide-react';
 
 const traduzirErroSupabase = (msg = '') => {
   const m = String(msg).toLowerCase();
@@ -53,6 +53,7 @@ export const AuthModal = () => {
 
   const [metodoLogin, setMetodoLogin] = useState('senha'); // 'senha' | 'magic'
   const [nome, setNome] = useState('');
+  const [whatsapp, setWhatsapp] = useState('');
   const [email, setEmail] = useState('');
   const [senha, setSenha] = useState('');
   const [confirmarSenha, setConfirmarSenha] = useState('');
@@ -63,6 +64,22 @@ export const AuthModal = () => {
   const [carregando, setCarregando] = useState(false);
   const [mensagemErro, setMensagemErro] = useState('');
   const [mensagemSucesso, setMensagemSucesso] = useState('');
+
+  // Máscara e validação amigável de telefone brasileiro (DD) 9XXXX-XXXX
+  const handleWhatsAppChange = (e) => {
+    const digitos = e.target.value.replace(/\D/g, '').slice(0, 11);
+    let formatado = digitos;
+    if (digitos.length > 2 && digitos.length <= 6) {
+      formatado = `(${digitos.slice(0, 2)}) ${digitos.slice(2)}`;
+    } else if (digitos.length > 6 && digitos.length <= 10) {
+      formatado = `(${digitos.slice(0, 2)}) ${digitos.slice(2, 6)}-${digitos.slice(6)}`;
+    } else if (digitos.length > 10) {
+      formatado = `(${digitos.slice(0, 2)}) ${digitos.slice(2, 7)}-${digitos.slice(7, 11)}`;
+    } else if (digitos.length > 0) {
+      formatado = `(${digitos}`;
+    }
+    setWhatsapp(formatado);
+  };
 
   // Contador de cooldown para reenvio de e-mail seguro
   useEffect(() => {
@@ -106,7 +123,7 @@ export const AuthModal = () => {
         if (senha.length < 6) throw new Error('A senha deve ter pelo menos 6 caracteres.');
         if (senha !== confirmarSenha) throw new Error('As senhas digitadas não coincidem.');
 
-        const res = await cadastrar(nome.trim(), email.trim(), senha);
+        const res = await cadastrar(nome.trim(), email.trim(), senha, whatsapp.trim());
         if (res?.session) {
           setMensagemSucesso('Conta criada com sucesso! Bem-vindo(a) ao EnfConcursos.');
           setTimeout(() => fechar(), 1200);
@@ -451,19 +468,37 @@ export const AuthModal = () => {
             /* FLUXO 2: LOGIN TRADICIONAL / CADASTRO / RECUPERAÇÃO */
             <>
               {modo === 'cadastro' && (
-                <div className="auth-input-group">
-                  <label>Nome Completo</label>
-                  <div className="auth-input-wrapper">
-                    <User size={18} className="input-icon" />
-                    <input
-                      type="text"
-                      placeholder="Ex: Dra. Mariana Costa"
-                      value={nome}
-                      onChange={(e) => setNome(e.target.value)}
-                      required
-                    />
+                <>
+                  <div className="auth-input-group">
+                    <label>Nome Completo</label>
+                    <div className="auth-input-wrapper">
+                      <User size={18} className="input-icon" />
+                      <input
+                        type="text"
+                        placeholder="Ex: Dra. Mariana Costa"
+                        value={nome}
+                        onChange={(e) => setNome(e.target.value)}
+                        required
+                      />
+                    </div>
                   </div>
-                </div>
+
+                  <div className="auth-input-group">
+                    <div className="label-with-action">
+                      <label>WhatsApp (com DDD)</label>
+                      <span className="auth-whatsapp-badge">Alertas de Simulados e Provas</span>
+                    </div>
+                    <div className="auth-input-wrapper">
+                      <Phone size={18} className="input-icon" />
+                      <input
+                        type="tel"
+                        placeholder="(11) 99999-9999"
+                        value={whatsapp}
+                        onChange={handleWhatsAppChange}
+                      />
+                    </div>
+                  </div>
+                </>
               )}
 
               <div className="auth-input-group">

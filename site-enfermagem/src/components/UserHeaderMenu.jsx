@@ -81,12 +81,12 @@ export const UserHeaderMenu = ({ totalQuestoes = 0 }) => {
         type="button"
         className={`plan-status-pill ${isVip ? 'vip' : 'free'}`}
         onClick={abrirModalUpgrade}
-        title={isVip ? 'Você possui Acesso VIP Ilimitado!' : 'Clique para ver as vantagens do VIP PRO'}
+        title={isVip ? 'Você possui Acesso VIP Vitalício Ilimitado!' : 'Clique para ver as vantagens do VIP Vitalício'}
       >
         {isVip ? (
           <>
             <Crown size={14} color="#f59e0b" />
-            <span className="pill-text">VIP PRO</span>
+            <span className="pill-text">VIP Vitalício</span>
           </>
         ) : (
           <>
@@ -123,7 +123,7 @@ export const UserHeaderMenu = ({ totalQuestoes = 0 }) => {
               {isVip ? (
                 <span className="tag-vip">
                   <Crown size={13} color="#f59e0b" />
-                  Plano VIP PRO • Ilimitado
+                  Plano VIP Vitalício • Ilimitado
                 </span>
               ) : (
                 <span className="tag-free">
@@ -145,7 +145,7 @@ export const UserHeaderMenu = ({ totalQuestoes = 0 }) => {
               >
                 <Sparkles size={16} color="#f59e0b" />
                 <div className="action-texts">
-                  <strong>Assinar Plano VIP PRO</strong>
+                  <strong>Garantir Plano VIP Vitalício</strong>
                   <span>
                     {totalQuestoes > 0
                       ? `Desbloqueie todas as ${totalQuestoes.toLocaleString('pt-BR')} questões`

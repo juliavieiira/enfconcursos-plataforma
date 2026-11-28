@@ -886,7 +886,7 @@ export default function App() {
                                 <div style={{ fontSize: '1.8rem', marginBottom: '0.25rem' }}>⚡</div>
                                 <h4>Você atingiu o limite de {limiteDiario} questões gratuitas de hoje!</h4>
                                 <p>
-                                  Sua cota diária renova automaticamente à meia-noite. Assine o <strong>Plano VIP PRO</strong> para ter acesso ilimitado a todas as {totalGeralAcervo > 0 ? totalGeralAcervo.toLocaleString('pt-BR') : ''} questões com gabarito comentado e simulados oficiais cronometrados.
+                                  Sua cota diária renova automaticamente à meia-noite. Garanta o <strong>Plano VIP Vitalício</strong> para ter acesso ilimitado a todas as {totalGeralAcervo > 0 ? totalGeralAcervo.toLocaleString('pt-BR') : ''} questões com gabarito comentado e simulados oficiais cronometrados.
                                 </p>
                                 <button
                                   type="button"
@@ -1284,7 +1284,7 @@ export default function App() {
                                 borderRadius: '4px',
                                 textTransform: 'uppercase'
                               }}>
-                                {index === 0 ? `⭐ Simulado #${sim.numero} • Gratuito` : `👑 Simulado #${sim.numero} • VIP PRO`}
+                                {index === 0 ? `⭐ Simulado #${sim.numero} • Gratuito` : `👑 Simulado #${sim.numero} • VIP Vitalício`}
                               </span>
                               <span style={{ fontSize: '0.8rem', color: '#0f766e', fontWeight: 700, background: '#f0fdfa', padding: '0.2rem 0.5rem', borderRadius: '4px' }}>
                                 Banca: {simuladoBanca}
@@ -2170,25 +2170,25 @@ export default function App() {
           />
         )}
 
-        {/* BANNER DE VENDAS / PLANO VIP (Ocultado automaticamente para quem já é VIP e com preço unificado) */}
+        {/* BANNER DE VENDAS / PLANO VIP VITALÍCIO (Ocultado automaticamente para quem já é VIP) */}
         {!isVip && (
           <section className="vip-banner">
             <div>
               <div style={{ display: 'inline-flex', alignItems: 'center', gap: '0.4rem', color: '#34d399', fontWeight: 700, fontSize: '0.85rem', textTransform: 'uppercase', marginBottom: '0.5rem' }}>
-                <Crown size={18} color="#f59e0b" /> Plano VIP PRO EnfConcursos
+                <Crown size={18} color="#f59e0b" /> Plano VIP Vitalício EnfConcursos
               </div>
-              <h2 className="vip-title">Acesso Ilimitado até a Sua Aprovação</h2>
+              <h2 className="vip-title">Acesso Ilimitado até Conquistar a Sua Posse</h2>
               <p style={{ color: '#cbd5e1', maxWidth: '520px', fontSize: '0.95rem' }}>
-                Resolva questões sem limite diário com gabarito comentado alternativa por alternativa, simulados oficiais cronometrados (SELECON e FCC) e estatísticas em tempo real.
+                Resolva questões sem limite diário com gabarito comentado alternativa por alternativa, simulados oficiais cronometrados (SELECON e FCC) e estatísticas em tempo real. Pague uma única vez e estude até ser nomeado.
               </p>
             </div>
 
-            <div style={{ textAlign: 'center', minWidth: '220px' }}>
-              <div style={{ fontSize: '0.85rem', color: '#94a3b8' }}>A partir de</div>
-              <div className="vip-price">R$ 29,90<span style={{ fontSize: '0.95rem', fontWeight: 600 }}>/mês</span></div>
-              <div style={{ fontSize: '0.8rem', color: '#cbd5e1', marginBottom: '1rem' }}>Garantia de 7 dias • Cancele quando quiser</div>
+            <div style={{ textAlign: 'center', minWidth: '240px' }}>
+              <div style={{ fontSize: '0.85rem', color: '#94a3b8', textDecoration: 'line-through' }}>De R$ 197,00 por</div>
+              <div className="vip-price">R$ 97<span style={{ fontSize: '0.95rem', fontWeight: 600 }}> pagamento único</span></div>
+              <div style={{ fontSize: '0.8rem', color: '#34d399', fontWeight: 600, marginBottom: '1rem' }}>ou 12x de R$ 9,74 • Sem mensalidades</div>
               <button className="btn-vip-cta" onClick={abrirModalUpgrade}>
-                Garantir Acesso VIP Agora
+                Garantir Acesso Vitalício
               </button>
             </div>
           </section>

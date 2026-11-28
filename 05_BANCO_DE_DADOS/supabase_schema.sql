@@ -9,6 +9,7 @@ CREATE TABLE IF NOT EXISTS public.profiles (
   id UUID REFERENCES auth.users(id) ON DELETE CASCADE PRIMARY KEY,
   nome TEXT NOT NULL,
   email TEXT NOT NULL,
+  whatsapp TEXT, -- WhatsApp para comunicados e remarketing de alunos
   plano TEXT NOT NULL DEFAULT 'gratuito' CHECK (plano IN ('gratuito', 'vip')),
   status TEXT NOT NULL DEFAULT 'ativo' CHECK (status IN ('ativo', 'cancelado', 'pendente', 'bloqueado')),
   limite_diario INT NOT NULL DEFAULT 5,
@@ -99,11 +100,12 @@ CREATE POLICY "Usuário pode registrar suas respostas"
 CREATE OR REPLACE FUNCTION public.handle_new_user()
 RETURNS TRIGGER AS $$
 BEGIN
-  INSERT INTO public.profiles (id, nome, email, plano, status, limite_diario)
+  INSERT INTO public.profiles (id, nome, email, whatsapp, plano, status, limite_diario)
   VALUES (
     NEW.id,
     COALESCE(NEW.raw_user_meta_data->>'nome', split_part(NEW.email, '@', 1)),
     NEW.email,
+    NEW.raw_user_meta_data->>'whatsapp',
     'gratuito',
     'ativo',
     5
