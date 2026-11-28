@@ -156,7 +156,7 @@ class MockSupabaseAuth {
     return { data: {}, error: null };
   }
 
-  async signInWithOAuth({ provider }) {
+  async signInWithOAuth({ provider: _provider } = {}) {
     await new Promise(r => setTimeout(r, 300));
     const mockUser = {
       id: 'usr_oauth_' + Math.random().toString(36).substring(2, 10),

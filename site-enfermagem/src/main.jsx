@@ -85,7 +85,7 @@ class ErrorBoundary extends Component {
                     sessionStorage.clear();
                     localStorage.removeItem('enfconcursos_supabase_stats_v2');
                     localStorage.removeItem('enfconcursos_mock_session');
-                  } catch (e) {}
+                  } catch {}
                   this.setState({ hasError: false, error: null });
                   window.location.reload();
                 }}

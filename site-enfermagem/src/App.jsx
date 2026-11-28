@@ -2160,6 +2160,7 @@ export default function App() {
         {/* ABA: CADERNO DE ERROS COM MENTOR IA */}
         {activeTab === 'caderno' && (
           <CadernoErros
+            key={user?.id || 'visitante_anonimo'}
             user={user}
             totalGeralAcervo={totalGeralAcervo}
             aoTrocarParaQuestoes={() => {

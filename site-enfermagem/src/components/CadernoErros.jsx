@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useMemo } from 'react';
+import React, { useState, useMemo, useCallback } from 'react';
 import {
   Brain,
   AlertTriangle,
@@ -9,14 +9,12 @@ import {
   RotateCcw,
   Trash2,
   Search,
-  Filter,
   ChevronDown,
   ChevronUp,
   Award,
   Lightbulb,
   HelpCircle,
   TrendingDown,
-  ArrowRight,
   ShieldAlert
 } from 'lucide-react';
 import TextoEnunciado from './TextoEnunciado';
@@ -29,11 +27,11 @@ import {
   registrarTentativaCaderno
 } from '../services/cadernoErrosService';
 
-export default function CadernoErros({ user, totalGeralAcervo, aoTrocarParaQuestoes }) {
-  const [erros, setErros] = useState([]);
+export default function CadernoErros({ user, totalGeralAcervo: _totalGeralAcervo, aoTrocarParaQuestoes }) {
+  const [erros, setErros] = useState(() => carregarErrosLocais(user?.id));
   const [filtroStatus, setFiltroStatus] = useState('pendente'); // 'todos' | 'pendente' | 'superada'
   const [filtroBanca, setFiltroBanca] = useState('Todas');
-  const [filtroMateria, setFiltroMateria] = useState('Todas');
+  const filtroMateria = 'Todas';
   const [termoBusca, setTermoBusca] = useState('');
 
   // Questão em treino ativo no caderno
@@ -41,15 +39,11 @@ export default function CadernoErros({ user, totalGeralAcervo, aoTrocarParaQuest
   const [raioXVisivel, setRaioXVisivel] = useState({});
   const [feedbackTreino, setFeedbackTreino] = useState({});
 
-  // Carrega os erros do usuário
-  const carregarErros = () => {
+  // Recarrega os erros do usuário sob demanda (ações do usuário)
+  const carregarErros = useCallback(() => {
     const dados = carregarErrosLocais(user?.id);
     setErros(dados);
-  };
-
-  useEffect(() => {
-    carregarErros();
-  }, [user]);
+  }, [user?.id]);
 
   // Lista filtrada de erros
   const errosFiltrados = useMemo(() => {

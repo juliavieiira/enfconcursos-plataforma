@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { ChevronDown, ChevronUp, BookOpen, ZoomIn } from 'lucide-react';
+import { ChevronDown, ChevronUp, BookOpen } from 'lucide-react';
 
 /**
  * Utilitário para parsear markdown de imagens:

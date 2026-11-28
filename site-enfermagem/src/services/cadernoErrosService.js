@@ -1,5 +1,3 @@
-import { supabase, isSupabaseConfigured } from '../lib/supabaseClient';
-
 const STORAGE_PREFIX = 'enfconcursos_caderno_erros_';
 
 /**
