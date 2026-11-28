@@ -1,11 +1,17 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useAuth } from '../context/useAuth';
-import { X, Lock, Mail, User, ArrowRight, ShieldCheck, CheckCircle2, AlertCircle, KeyRound, Sparkles } from 'lucide-react';
+import { X, Lock, Mail, User, ArrowRight, ShieldCheck, CheckCircle2, AlertCircle, KeyRound, Sparkles, Send } from 'lucide-react';
 
 const traduzirErroSupabase = (msg = '') => {
   const m = String(msg).toLowerCase();
   if (m.includes('invalid login credentials') || m.includes('invalid grant') || m.includes('invalid_credentials')) {
     return 'E-mail ou senha incorretos. Verifique seus dados de acesso.';
+  }
+  if (m.includes('token has expired') || m.includes('otp expired') || m.includes('token is expired')) {
+    return 'O código ou link de acesso expirou. Solicite um novo link mágico.';
+  }
+  if (m.includes('invalid token') || m.includes('token is invalid') || m.includes('invalid otp')) {
+    return 'Código de verificação incorreto. Verifique os 6 dígitos recebidos no e-mail.';
   }
   if (m.includes('user already registered') || m.includes('already registered')) {
     return 'Este e-mail já está cadastrado. Faça login ou solicite recuperação de senha.';
@@ -17,10 +23,10 @@ const traduzirErroSupabase = (msg = '') => {
     return 'E-mail ainda não confirmado. Verifique sua caixa de entrada e spam.';
   }
   if (m.includes('provider is not enabled') || m.includes('unsupported provider')) {
-    return 'O login com Google ainda não foi ativado no painel do Supabase (Authentication > Providers > Google). Enquanto isso, cadastre-se com seu e-mail e senha!';
+    return 'O login com Google ainda não foi ativado no painel do Supabase. Enquanto isso, entre com e-mail ou link mágico!';
   }
-  if (m.includes('rate limit') || m.includes('too many requests')) {
-    return 'Muitas tentativas em pouco tempo. Aguarde alguns minutos e tente novamente.';
+  if (m.includes('rate limit') || m.includes('too many requests') || m.includes('over_email_send_rate_limit')) {
+    return 'Muitas tentativas em pouco tempo por segurança. Aguarde alguns minutos e tente novamente.';
   }
   if (m.includes('network') || m.includes('fetch')) {
     return 'Falha na conexão com o servidor. Verifique sua internet e tente novamente.';
@@ -35,6 +41,8 @@ export const AuthModal = () => {
     fecharModalAuth,
     login,
     loginComGoogle,
+    enviarLinkMagico,
+    verificarCodigoOtp,
     cadastrar,
     recuperarSenha,
     isSupabaseConfigured
@@ -43,13 +51,27 @@ export const AuthModal = () => {
   const [modoOverride, setModoOverride] = useState(null);
   const modo = modoOverride !== null ? modoOverride : (modalAuthModo || 'login');
 
+  const [metodoLogin, setMetodoLogin] = useState('senha'); // 'senha' | 'magic'
   const [nome, setNome] = useState('');
   const [email, setEmail] = useState('');
   const [senha, setSenha] = useState('');
   const [confirmarSenha, setConfirmarSenha] = useState('');
+  const [codigoOtp, setCodigoOtp] = useState('');
+  const [otpEnviado, setOtpEnviado] = useState(false);
+  const [timerReenvio, setTimerReenvio] = useState(0);
+
   const [carregando, setCarregando] = useState(false);
   const [mensagemErro, setMensagemErro] = useState('');
   const [mensagemSucesso, setMensagemSucesso] = useState('');
+
+  // Contador de cooldown para reenvio de e-mail seguro
+  useEffect(() => {
+    if (timerReenvio <= 0) return;
+    const interval = setInterval(() => {
+      setTimerReenvio((prev) => Math.max(0, prev - 1));
+    }, 1000);
+    return () => clearInterval(interval);
+  }, [timerReenvio]);
 
   if (!modalAuthAberto) return null;
 
@@ -57,6 +79,9 @@ export const AuthModal = () => {
     setModoOverride(null);
     setMensagemErro('');
     setMensagemSucesso('');
+    setOtpEnviado(false);
+    setCodigoOtp('');
+    setTimerReenvio(0);
     fecharModalAuth();
   };
 
@@ -64,6 +89,9 @@ export const AuthModal = () => {
     setModoOverride(novoModo);
     setMensagemErro('');
     setMensagemSucesso('');
+    setOtpEnviado(false);
+    setCodigoOtp('');
+    setTimerReenvio(0);
   };
 
   const handleSubmit = async (e) => {
@@ -88,9 +116,26 @@ export const AuthModal = () => {
           );
         }
       } else if (modo === 'login') {
-        await login(email.trim(), senha);
-        setMensagemSucesso('Login efetuado com sucesso!');
-        setTimeout(() => fechar(), 900);
+        if (metodoLogin === 'magic') {
+          if (!email.trim()) throw new Error('Por favor, informe seu e-mail.');
+          if (otpEnviado) {
+            if (!codigoOtp.trim() || codigoOtp.trim().length < 6) {
+              throw new Error('Por favor, informe o código de 6 dígitos recebido no seu e-mail.');
+            }
+            await verificarCodigoOtp(email.trim(), codigoOtp.trim());
+            setMensagemSucesso('Autenticação concluída com sucesso! Bem-vindo(a) ao EnfConcursos.');
+            setTimeout(() => fechar(), 900);
+          } else {
+            await enviarLinkMagico(email.trim());
+            setOtpEnviado(true);
+            setTimerReenvio(60);
+            setMensagemSucesso(`Link de acesso enviado para ${email.trim()}! Acesse seu e-mail e clique no link, ou digite o código de 6 dígitos logo abaixo.`);
+          }
+        } else {
+          await login(email.trim(), senha);
+          setMensagemSucesso('Login efetuado com sucesso!');
+          setTimeout(() => fechar(), 900);
+        }
       } else if (modo === 'recuperar') {
         await recuperarSenha(email.trim());
         setMensagemSucesso('Instruções de recuperação enviadas para o seu e-mail!');
@@ -261,114 +306,260 @@ export const AuthModal = () => {
 
         {/* Formulário */}
         <form onSubmit={handleSubmit} className="auth-form">
-          {modo === 'cadastro' && (
-            <div className="auth-input-group">
-              <label>Nome Completo</label>
-              <div className="auth-input-wrapper">
-                <User size={18} className="input-icon" />
-                <input
-                  type="text"
-                  placeholder="Ex: Dra. Mariana Costa"
-                  value={nome}
-                  onChange={(e) => setNome(e.target.value)}
-                  required
-                />
-              </div>
+          {/* Seletor de Método de Acesso no Login: Senha Tradicional vs Link Mágico */}
+          {modo === 'login' && (
+            <div className="auth-method-switcher">
+              <button
+                type="button"
+                className={`method-switch-pill ${metodoLogin === 'senha' ? 'active' : ''}`}
+                onClick={() => {
+                  setMetodoLogin('senha');
+                  setMensagemErro('');
+                  setMensagemSucesso('');
+                }}
+              >
+                <Lock size={14} />
+                <span>Entrar com Senha</span>
+              </button>
+              <button
+                type="button"
+                className={`method-switch-pill ${metodoLogin === 'magic' ? 'active' : ''}`}
+                onClick={() => {
+                  setMetodoLogin('magic');
+                  setMensagemErro('');
+                  setMensagemSucesso('');
+                }}
+              >
+                <Sparkles size={14} />
+                <span>Link Mágico (Sem Senha)</span>
+              </button>
             </div>
           )}
 
-          <div className="auth-input-group">
-            <label>E-mail</label>
-            <div className="auth-input-wrapper">
-              <Mail size={18} className="input-icon" />
-              <input
-                type="email"
-                placeholder="seu.email@exemplo.com"
-                value={email}
-                onChange={(e) => setEmail(e.target.value)}
-                required
-              />
-            </div>
-          </div>
+          {/* FLUXO 1: LOGIN COM LINK MÁGICO / OTP */}
+          {modo === 'login' && metodoLogin === 'magic' ? (
+            <>
+              {!otpEnviado ? (
+                <div className="magic-info-banner">
+                  <Sparkles size={18} color="#0d9488" style={{ flexShrink: 0, marginTop: '2px' }} />
+                  <div>
+                    <strong style={{ color: '#0f766e', display: 'block', marginBottom: '2px' }}>Acesso Rápido sem Senha</strong>
+                    <span style={{ fontSize: '0.8rem', color: '#115e59' }}>
+                      Digite seu e-mail para receber um link de acesso com 1 clique e um código de 6 dígitos. Perfeito para estudar sem decorar senhas!
+                    </span>
+                  </div>
+                </div>
+              ) : (
+                <div className="magic-info-banner" style={{ background: '#ecfdf5', borderColor: '#a7f3d0' }}>
+                  <CheckCircle2 size={18} color="#059669" style={{ flexShrink: 0, marginTop: '2px' }} />
+                  <div>
+                    <strong style={{ color: '#065f46', display: 'block', marginBottom: '2px' }}>E-mail de acesso enviado!</strong>
+                    <span style={{ fontSize: '0.8rem', color: '#047857' }}>
+                      Enviamos para <strong>{email}</strong>. Você pode <strong>clicar no link do e-mail</strong> ou <strong>digitar o código de 6 dígitos</strong> recebido:
+                    </span>
+                  </div>
+                </div>
+              )}
 
-          {modo !== 'recuperar' && (
-            <div className="auth-input-group">
-              <div className="label-with-action">
-                <label>Senha</label>
-                {modo === 'login' && (
-                  <button
-                    type="button"
-                    className="link-forgot-password"
-                    onClick={() => mudarModo('recuperar')}
-                  >
-                    Esqueceu a senha?
-                  </button>
+              <div className="auth-input-group">
+                <label>Seu E-mail Cadastrado</label>
+                <div className="auth-input-wrapper">
+                  <Mail size={18} className="input-icon" />
+                  <input
+                    type="email"
+                    placeholder="seu.email@exemplo.com"
+                    value={email}
+                    onChange={(e) => setEmail(e.target.value)}
+                    disabled={otpEnviado}
+                    required
+                  />
+                </div>
+              </div>
+
+              {otpEnviado && (
+                <div className="auth-input-group animate-fade-in">
+                  <div className="label-with-action">
+                    <label>Código de 6 dígitos (recebido no e-mail)</label>
+                    <button
+                      type="button"
+                      className="link-forgot-password"
+                      onClick={() => {
+                        setOtpEnviado(false);
+                        setCodigoOtp('');
+                        setMensagemSucesso('');
+                      }}
+                    >
+                      Trocar e-mail
+                    </button>
+                  </div>
+                  <div className="auth-input-wrapper">
+                    <KeyRound size={18} className="input-icon" />
+                    <input
+                      type="text"
+                      className="otp-digit-input"
+                      placeholder="000000"
+                      maxLength={6}
+                      value={codigoOtp}
+                      onChange={(e) => setCodigoOtp(e.target.value.replace(/\D/g, ''))}
+                      autoFocus
+                      required
+                    />
+                  </div>
+                  <div className="auth-resend-area">
+                    <span style={{ color: '#64748b' }}>Não recebeu o e-mail?</span>
+                    <button
+                      type="button"
+                      className="btn-auth-resend"
+                      disabled={timerReenvio > 0 || carregando}
+                      onClick={async () => {
+                        setCarregando(true);
+                        setMensagemErro('');
+                        try {
+                          await enviarLinkMagico(email.trim());
+                          setTimerReenvio(60);
+                          setMensagemSucesso('Novo e-mail com link e código reenviado!');
+                        } catch (err) {
+                          setMensagemErro(traduzirErroSupabase(err?.message));
+                        } finally {
+                          setCarregando(false);
+                        }
+                      }}
+                    >
+                      {timerReenvio > 0 ? `Reenviar em ${timerReenvio}s` : 'Reenviar código'}
+                    </button>
+                  </div>
+                </div>
+              )}
+
+              <button type="submit" className="btn-auth-submit" disabled={carregando || (otpEnviado && codigoOtp.length < 6)}>
+                {carregando ? (
+                  <span>Processando...</span>
+                ) : otpEnviado ? (
+                  <>
+                    <span>Confirmar Código e Entrar</span>
+                    <ArrowRight size={18} />
+                  </>
+                ) : (
+                  <>
+                    <span>Enviar Link de Acesso sem Senha</span>
+                    <Send size={16} />
+                  </>
                 )}
-              </div>
-              <div className="auth-input-wrapper">
-                <Lock size={18} className="input-icon" />
-                <input
-                  type="password"
-                  placeholder="Mínimo de 6 caracteres"
-                  value={senha}
-                  onChange={(e) => setSenha(e.target.value)}
-                  required
-                />
-              </div>
-            </div>
-          )}
+              </button>
+            </>
+          ) : (
+            /* FLUXO 2: LOGIN TRADICIONAL / CADASTRO / RECUPERAÇÃO */
+            <>
+              {modo === 'cadastro' && (
+                <div className="auth-input-group">
+                  <label>Nome Completo</label>
+                  <div className="auth-input-wrapper">
+                    <User size={18} className="input-icon" />
+                    <input
+                      type="text"
+                      placeholder="Ex: Dra. Mariana Costa"
+                      value={nome}
+                      onChange={(e) => setNome(e.target.value)}
+                      required
+                    />
+                  </div>
+                </div>
+              )}
 
-          {modo === 'cadastro' && (
-            <div className="auth-input-group">
-              <label>Confirmar Senha</label>
-              <div className="auth-input-wrapper">
-                <KeyRound size={18} className="input-icon" />
-                <input
-                  type="password"
-                  placeholder="Repita sua senha"
-                  value={confirmarSenha}
-                  onChange={(e) => setConfirmarSenha(e.target.value)}
-                  required
-                />
+              <div className="auth-input-group">
+                <label>E-mail</label>
+                <div className="auth-input-wrapper">
+                  <Mail size={18} className="input-icon" />
+                  <input
+                    type="email"
+                    placeholder="seu.email@exemplo.com"
+                    value={email}
+                    onChange={(e) => setEmail(e.target.value)}
+                    required
+                  />
+                </div>
               </div>
-            </div>
-          )}
 
-          {/* Vantagens no Cadastro */}
-          {modo === 'cadastro' && (
-            <div className="auth-perks-box">
-              <div className="perk-item">
-                <CheckCircle2 size={16} color="#0d9488" />
-                <span>5 questões comentadas por dia (Gratuito)</span>
-              </div>
-              <div className="perk-item">
-                <CheckCircle2 size={16} color="#0d9488" />
-                <span>Simulados Oficiais SELECON e FCC</span>
-              </div>
-              <div className="perk-item">
-                <CheckCircle2 size={16} color="#0d9488" />
-                <span>Raio-X estatístico do Padrão da Banca</span>
-              </div>
-            </div>
-          )}
+              {modo !== 'recuperar' && (
+                <div className="auth-input-group">
+                  <div className="label-with-action">
+                    <label>Senha</label>
+                    {modo === 'login' && (
+                      <button
+                        type="button"
+                        className="link-forgot-password"
+                        onClick={() => mudarModo('recuperar')}
+                      >
+                        Esqueceu a senha?
+                      </button>
+                    )}
+                  </div>
+                  <div className="auth-input-wrapper">
+                    <Lock size={18} className="input-icon" />
+                    <input
+                      type="password"
+                      placeholder="Mínimo de 6 caracteres"
+                      value={senha}
+                      onChange={(e) => setSenha(e.target.value)}
+                      required
+                    />
+                  </div>
+                </div>
+              )}
 
-          <button type="submit" className="btn-auth-submit" disabled={carregando}>
-            {carregando ? (
-              <span>Processando...</span>
-            ) : modo === 'login' ? (
-              <>
-                <span>Entrar na Minha Conta</span>
-                <ArrowRight size={18} />
-              </>
-            ) : modo === 'cadastro' ? (
-              <>
-                <span>Criar Minha Conta Grátis</span>
-                <Sparkles size={18} />
-              </>
-            ) : (
-              <span>Enviar Link de Recuperação</span>
-            )}
-          </button>
+              {modo === 'cadastro' && (
+                <div className="auth-input-group">
+                  <label>Confirmar Senha</label>
+                  <div className="auth-input-wrapper">
+                    <KeyRound size={18} className="input-icon" />
+                    <input
+                      type="password"
+                      placeholder="Repita sua senha"
+                      value={confirmarSenha}
+                      onChange={(e) => setConfirmarSenha(e.target.value)}
+                      required
+                    />
+                  </div>
+                </div>
+              )}
+
+              {/* Vantagens no Cadastro */}
+              {modo === 'cadastro' && (
+                <div className="auth-perks-box">
+                  <div className="perk-item">
+                    <CheckCircle2 size={16} color="#0d9488" />
+                    <span>5 questões comentadas por dia (Gratuito)</span>
+                  </div>
+                  <div className="perk-item">
+                    <CheckCircle2 size={16} color="#0d9488" />
+                    <span>Simulados Oficiais SELECON e FCC</span>
+                  </div>
+                  <div className="perk-item">
+                    <CheckCircle2 size={16} color="#0d9488" />
+                    <span>Raio-X estatístico do Padrão da Banca</span>
+                  </div>
+                </div>
+              )}
+
+              <button type="submit" className="btn-auth-submit" disabled={carregando}>
+                {carregando ? (
+                  <span>Processando...</span>
+                ) : modo === 'login' ? (
+                  <>
+                    <span>Entrar na Minha Conta</span>
+                    <ArrowRight size={18} />
+                  </>
+                ) : modo === 'cadastro' ? (
+                  <>
+                    <span>Criar Minha Conta Grátis</span>
+                    <Sparkles size={18} />
+                  </>
+                ) : (
+                  <span>Enviar Link de Recuperação</span>
+                )}
+              </button>
+            </>
+          )}
         </form>
 
         {/* Rodapé Alternador */}

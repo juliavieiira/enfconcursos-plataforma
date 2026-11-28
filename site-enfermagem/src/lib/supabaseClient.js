@@ -171,6 +171,33 @@ class MockSupabaseAuth {
     this._saveSession(session);
     return { data: { user: mockUser, session }, error: null };
   }
+
+  async signInWithOtp({ email }) {
+    await new Promise(r => setTimeout(r, 300));
+    return { data: { email }, error: null };
+  }
+
+  async verifyOtp({ email, token: _token }) {
+    await new Promise(r => setTimeout(r, 300));
+    const users = this._getUsers();
+    let user = users.find(u => u.email.toLowerCase() === email.toLowerCase());
+    if (!user) {
+      user = {
+        id: 'usr_otp_' + Math.random().toString(36).substring(2, 10),
+        email,
+        user_metadata: { nome: email.split('@')[0] },
+        created_at: new Date().toISOString()
+      };
+      users.push(user);
+      this._saveUsers(users);
+    }
+    const session = {
+      access_token: 'mock_otp_token_' + Date.now(),
+      user
+    };
+    this._saveSession(session);
+    return { data: { user, session }, error: null };
+  }
 }
 
 // Mock Database Queries

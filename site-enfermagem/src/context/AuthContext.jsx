@@ -220,6 +220,32 @@ export const AuthProvider = ({ children }) => {
     }
   };
 
+  const enviarLinkMagico = async (email) => {
+    const { data, error } = await supabase.auth.signInWithOtp({
+      email,
+      options: {
+        emailRedirectTo: window.location.origin,
+        shouldCreateUser: true
+      }
+    });
+    if (error) throw error;
+    return data;
+  };
+
+  const verificarCodigoOtp = async (email, token) => {
+    const { data, error } = await supabase.auth.verifyOtp({
+      email,
+      token: token.trim(),
+      type: 'email'
+    });
+    if (error) throw error;
+    if (data?.user) {
+      setUser(data.user);
+      await carregarPerfil(data.user);
+    }
+    return data;
+  };
+
   const logout = async () => {
     await supabase.auth.signOut();
     setUser(null);
@@ -267,6 +293,8 @@ export const AuthProvider = ({ children }) => {
         cadastrar,
         login,
         loginComGoogle,
+        enviarLinkMagico,
+        verificarCodigoOtp,
         logout,
         recuperarSenha,
         atualizarPlano,
