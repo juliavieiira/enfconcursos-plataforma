@@ -119,7 +119,7 @@ export const UserHeaderMenu = ({ totalQuestoes = 0 }) => {
           <div className="user-dropdown-header">
             <p className="user-dropdown-name">{nomeExibicao}</p>
             <p className="user-dropdown-email">
-              {user.email?.startsWith('tel_') && profile?.whatsapp ? `📱 ${profile.whatsapp}` : user.email}
+              {user.email?.startsWith('tel_') && profile?.whatsapp ? `📞 ${profile.whatsapp}` : user.email}
             </p>
             <div className="user-dropdown-plan-tag">
               {isVip ? (

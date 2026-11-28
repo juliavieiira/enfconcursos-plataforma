@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useAuth } from '../context/useAuth';
-import { X, Lock, Mail, User, Phone, ArrowRight, ShieldCheck, CheckCircle2, AlertCircle, KeyRound, Sparkles, Send } from 'lucide-react';
+import { X, Lock, Mail, User, Phone, ArrowRight, CheckCircle2, AlertCircle, KeyRound, Sparkles, Send } from 'lucide-react';
 
 const traduzirErroSupabase = (msg = '') => {
   const m = String(msg).toLowerCase();
@@ -52,7 +52,7 @@ export const AuthModal = () => {
   const modo = modoOverride !== null ? modoOverride : (modalAuthModo || 'login');
 
   const [metodoLogin, setMetodoLogin] = useState('senha'); // 'senha' | 'magic'
-  const [tipoCanal, setTipoCanal] = useState('email'); // 'email' | 'telefone'
+  const [tipoCanal, setTipoCanal] = useState('telefone'); // 'telefone' | 'email' (Telefone pré-selecionado)
   const [nome, setNome] = useState('');
   const [identificador, setIdentificador] = useState('');
   const [senha, setSenha] = useState('');
@@ -66,7 +66,7 @@ export const AuthModal = () => {
   const [mensagemSucesso, setMensagemSucesso] = useState('');
 
   // Formatação automática para números brasileiros (DD) 9XXXX-XXXX
-  const handleFormatWhatsApp = (valorBruto) => {
+  const handleFormatTelefone = (valorBruto) => {
     const digitos = valorBruto.replace(/\D/g, '').slice(0, 11);
     let formatado = digitos;
     if (digitos.length > 2 && digitos.length <= 6) {
@@ -100,7 +100,7 @@ export const AuthModal = () => {
     setCodigoOtp('');
     setTimerReenvio(0);
     setIdentificador('');
-    setTipoCanal('email');
+    setTipoCanal('telefone');
     fecharModalAuth();
   };
 
@@ -112,6 +112,7 @@ export const AuthModal = () => {
     setCodigoOtp('');
     setTimerReenvio(0);
     setIdentificador('');
+    setTipoCanal('telefone');
   };
 
   const handleSubmit = async (e) => {
@@ -127,9 +128,9 @@ export const AuthModal = () => {
 
       if (modo === 'cadastro') {
         if (!nome.trim()) throw new Error('Por favor, informe seu nome completo.');
-        if (!rawId) throw new Error('Por favor, informe seu e-mail ou WhatsApp.');
+        if (!rawId) throw new Error('Por favor, informe seu telefone ou e-mail.');
         if (isTelefone && digitos.length < 10) {
-          throw new Error('Por favor, informe um número de WhatsApp com DDD válido (ex: 11 99999-9999).');
+          throw new Error('Por favor, informe um número de telefone com DDD válido (ex: 11 99999-9999).');
         }
         if (!isTelefone && (!rawId.includes('@') || !rawId.includes('.'))) {
           throw new Error('Por favor, informe um e-mail válido.');
@@ -149,7 +150,7 @@ export const AuthModal = () => {
         if (metodoLogin === 'magic') {
           if (!rawId) throw new Error('Por favor, informe seu e-mail.');
           if (isTelefone) {
-            throw new Error('O Link Mágico sem senha é enviado por e-mail. Para entrar com WhatsApp, selecione "Entrar com Senha".');
+            throw new Error('O Link Mágico sem senha é enviado por e-mail. Para entrar com Telefone, selecione "Entrar com Senha".');
           }
           if (otpEnviado) {
             if (!codigoOtp.trim() || codigoOtp.trim().length < 6) {
@@ -165,7 +166,7 @@ export const AuthModal = () => {
             setMensagemSucesso(`Link de acesso enviado para ${rawId}! Acesse seu e-mail e clique no link, ou digite o código de 6 dígitos logo abaixo.`);
           }
         } else {
-          if (!rawId) throw new Error('Por favor, informe seu e-mail ou WhatsApp.');
+          if (!rawId) throw new Error('Por favor, informe seu telefone ou e-mail.');
           await login(rawId, senha);
           setMensagemSucesso('Login efetuado com sucesso!');
           setTimeout(() => fechar(), 900);
@@ -173,7 +174,7 @@ export const AuthModal = () => {
       } else if (modo === 'recuperar') {
         if (!rawId) throw new Error('Por favor, informe seu e-mail.');
         if (isTelefone) {
-          throw new Error('A recuperação automática é enviada por e-mail. Caso seu cadastro seja por WhatsApp, entre em contato com nosso suporte.');
+          throw new Error('A recuperação automática é enviada por e-mail. Caso seu cadastro seja por Telefone, acerte sua senha com nosso suporte.');
         }
         await recuperarSenha(rawId);
         setMensagemSucesso('Instruções de recuperação enviadas para o seu e-mail!');
@@ -204,16 +205,10 @@ export const AuthModal = () => {
   return (
     <div className="modal-overlay animate-fade-in" onClick={fechar}>
       <div className="modal-content auth-modal-box" onClick={(e) => e.stopPropagation()}>
-        {/* Cabeçalho do Modal */}
-        <div className="auth-modal-header">
-          <div className="auth-brand-badge">
-            <ShieldCheck size={18} color="#0d9488" />
-            <span>EnfConcursos • Área do Aluno</span>
-          </div>
-          <button className="btn-close-modal" onClick={fechar} title="Fechar">
-            <X size={20} />
-          </button>
-        </div>
+        {/* Botão de Fechar Flutuante */}
+        <button className="btn-close-modal" onClick={fechar} title="Fechar" style={{ position: 'absolute', top: '12px', right: '12px', zIndex: 10 }}>
+          <X size={18} />
+        </button>
 
         {/* Abas Alternadoras: Entrar / Criar Conta */}
         {modo !== 'recuperar' && (
@@ -280,7 +275,7 @@ export const AuthModal = () => {
 
         {/* Botão de Autenticação Social com Google */}
         {modo !== 'recuperar' && (
-          <div className="auth-social-area" style={{ marginBottom: '1.25rem' }}>
+          <div className="auth-social-area" style={{ marginBottom: '0.65rem' }}>
             <button
               type="button"
               className="btn-google-auth"
@@ -291,14 +286,14 @@ export const AuthModal = () => {
                 display: 'flex',
                 alignItems: 'center',
                 justifyContent: 'center',
-                gap: '10px',
-                padding: '0.75rem 1rem',
-                borderRadius: '10px',
+                gap: '8px',
+                padding: '0.58rem 0.85rem',
+                borderRadius: '8px',
                 border: '1px solid #cbd5e1',
                 background: '#ffffff',
                 color: '#1e293b',
                 fontWeight: 600,
-                fontSize: '0.9rem',
+                fontSize: '0.86rem',
                 cursor: 'pointer',
                 boxShadow: '0 1px 3px rgba(0,0,0,0.06)',
                 transition: 'all 0.15s ease'
@@ -328,7 +323,7 @@ export const AuthModal = () => {
             <div style={{
               display: 'flex',
               alignItems: 'center',
-              margin: '1.15rem 0',
+              margin: '0.75rem 0',
               color: '#94a3b8',
               fontSize: '0.78rem',
               fontWeight: 600,
@@ -336,7 +331,7 @@ export const AuthModal = () => {
               letterSpacing: '0.04em'
             }}>
               <div style={{ flex: 1, height: '1px', background: '#e2e8f0' }} />
-              <span style={{ padding: '0 0.75rem' }}>ou continue com e-mail ou whatsapp</span>
+              <span style={{ padding: '0 0.75rem' }}>ou continue com telefone ou e-mail</span>
               <div style={{ flex: 1, height: '1px', background: '#e2e8f0' }} />
             </div>
           </div>
@@ -510,12 +505,23 @@ export const AuthModal = () => {
                   <label>
                     {modo === 'recuperar'
                       ? 'E-mail Cadastrado'
-                      : tipoCanal === 'email'
-                      ? 'E-mail'
-                      : 'WhatsApp (com DDD)'}
+                      : tipoCanal === 'telefone'
+                      ? 'Telefone (com DDD)'
+                      : 'E-mail'}
                   </label>
                   {modo !== 'recuperar' && (
                     <div className="channel-switch-pills">
+                      <button
+                        type="button"
+                        className={`channel-pill ${tipoCanal === 'telefone' ? 'active' : ''}`}
+                        onClick={() => {
+                          setTipoCanal('telefone');
+                          setIdentificador('');
+                        }}
+                      >
+                        <Phone size={12} />
+                        <span>Telefone</span>
+                      </button>
                       <button
                         type="button"
                         className={`channel-pill ${tipoCanal === 'email' ? 'active' : ''}`}
@@ -527,23 +533,23 @@ export const AuthModal = () => {
                         <Mail size={12} />
                         <span>E-mail</span>
                       </button>
-                      <button
-                        type="button"
-                        className={`channel-pill ${tipoCanal === 'telefone' ? 'active' : ''}`}
-                        onClick={() => {
-                          setTipoCanal('telefone');
-                          setIdentificador('');
-                        }}
-                      >
-                        <Phone size={12} />
-                        <span>WhatsApp</span>
-                      </button>
                     </div>
                   )}
                 </div>
 
                 <div className="auth-input-wrapper">
-                  {tipoCanal === 'email' || modo === 'recuperar' ? (
+                  {tipoCanal === 'telefone' && modo !== 'recuperar' ? (
+                    <>
+                      <Phone size={18} className="input-icon phone" />
+                      <input
+                        type="tel"
+                        placeholder="(11) 99999-9999"
+                        value={identificador}
+                        onChange={(e) => handleFormatTelefone(e.target.value)}
+                        required
+                      />
+                    </>
+                  ) : (
                     <>
                       <Mail size={18} className="input-icon" />
                       <input
@@ -554,7 +560,7 @@ export const AuthModal = () => {
                           const val = e.target.value;
                           if (modo !== 'recuperar' && /^\d{2}/.test(val.replace(/\D/g, '')) && !val.includes('@')) {
                             setTipoCanal('telefone');
-                            handleFormatWhatsApp(val);
+                            handleFormatTelefone(val);
                           } else {
                             setIdentificador(val);
                           }
@@ -562,24 +568,13 @@ export const AuthModal = () => {
                         required
                       />
                     </>
-                  ) : (
-                    <>
-                      <Phone size={18} className="input-icon phone" />
-                      <input
-                        type="tel"
-                        placeholder="(11) 99999-9999"
-                        value={identificador}
-                        onChange={(e) => handleFormatWhatsApp(e.target.value)}
-                        required
-                      />
-                    </>
                   )}
                 </div>
                 {modo !== 'recuperar' && (
                   <span className="auth-helper-note">
-                    {tipoCanal === 'email'
-                      ? 'Acesse ou confirme sua conta usando seu melhor e-mail.'
-                      : 'Acesse ou confirme sua conta usando seu número de WhatsApp com DDD.'}
+                    {tipoCanal === 'telefone'
+                      ? 'Acesse ou confirme sua conta usando seu número de telefone com DDD.'
+                      : 'Acesse ou confirme sua conta usando seu melhor e-mail.'}
                   </span>
                 )}
               </div>
@@ -627,20 +622,20 @@ export const AuthModal = () => {
                 </div>
               )}
 
-              {/* Vantagens no Cadastro */}
+              {/* Vantagens no Cadastro (Compacto) */}
               {modo === 'cadastro' && (
-                <div className="auth-perks-box">
+                <div className="auth-perks-box compact">
                   <div className="perk-item">
-                    <CheckCircle2 size={16} color="#0d9488" />
-                    <span>5 questões comentadas por dia (Gratuito)</span>
+                    <CheckCircle2 size={13} color="#0d9488" />
+                    <span>5 questões diárias</span>
                   </div>
                   <div className="perk-item">
-                    <CheckCircle2 size={16} color="#0d9488" />
-                    <span>Simulados Oficiais SELECON e FCC</span>
+                    <CheckCircle2 size={13} color="#0d9488" />
+                    <span>Simulados FCC/SELECON</span>
                   </div>
                   <div className="perk-item">
-                    <CheckCircle2 size={16} color="#0d9488" />
-                    <span>Raio-X estatístico do Padrão da Banca</span>
+                    <CheckCircle2 size={13} color="#0d9488" />
+                    <span>Raio-X de Banca</span>
                   </div>
                 </div>
               )}
