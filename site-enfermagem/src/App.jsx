@@ -2041,10 +2041,10 @@ export default function App() {
                         {itensGrafico.map(item => (
                           <div key={item.nome} className="legend-item" title={`${item.nome}: ${item.count} questões (${item.percent}%)`}>
                             <span className="legend-color" style={{ backgroundColor: item.cor }}></span>
-                            <span style={{ overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', flex: 1 }}>
+                            <span style={{ overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', flex: 1, minWidth: 0 }}>
                               {item.nome}
                             </span>
-                            <strong style={{ fontSize: '0.78rem', color: '#0f172a' }}>{item.percent}%</strong>
+                            <strong style={{ fontSize: '0.78rem', color: '#0f172a', flexShrink: 0 }}>{item.percent}%</strong>
                           </div>
                         ))}
                       </div>
