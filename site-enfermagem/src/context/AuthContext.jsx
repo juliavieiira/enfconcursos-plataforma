@@ -180,14 +180,29 @@ export const AuthProvider = ({ children }) => {
     }
   };
 
-  const cadastrar = async (nome, email, password, whatsapp = '') => {
+  const cadastrar = async (nome, identificador, password, tipoCanal = 'email') => {
+    const raw = String(identificador || '').trim();
+    const digitos = raw.replace(/\D/g, '');
+    let emailFinal = raw.toLowerCase();
+    let whatsappFinal = null;
+
+    if (tipoCanal === 'telefone' || (!raw.includes('@') && digitos.length >= 10)) {
+      emailFinal = `tel_${digitos}@aluno.enfconcursos.com.br`;
+      const ddd = digitos.slice(0, 2);
+      const num = digitos.slice(2);
+      whatsappFinal = digitos.length === 11
+        ? `(${ddd}) ${num.slice(0, 5)}-${num.slice(5)}`
+        : `(${ddd}) ${num.slice(0, 4)}-${num.slice(4)}`;
+    }
+
     const { data, error } = await supabase.auth.signUp({
-      email,
+      email: emailFinal,
       password,
       options: {
         data: {
           nome,
-          whatsapp: whatsapp ? whatsapp.trim() : null
+          whatsapp: whatsappFinal,
+          tipo_cadastro: whatsappFinal ? 'telefone' : 'email'
         }
       }
     });
@@ -198,10 +213,10 @@ export const AuthProvider = ({ children }) => {
         setUser(data.user);
         await carregarPerfil(data.user);
       }
-      if (whatsapp && whatsapp.trim()) {
+      if (whatsappFinal) {
         supabase
           .from('profiles')
-          .update({ whatsapp: whatsapp.trim() })
+          .update({ whatsapp: whatsappFinal })
           .eq('id', data.user.id)
           .catch(() => {});
       }
@@ -209,8 +224,20 @@ export const AuthProvider = ({ children }) => {
     return data;
   };
 
-  const login = async (email, password) => {
-    const { data, error } = await supabase.auth.signInWithPassword({ email, password });
+  const login = async (identificadorOuEmail, password) => {
+    const raw = String(identificadorOuEmail || '').trim();
+    const digitos = raw.replace(/\D/g, '');
+    let emailFinal = raw.toLowerCase();
+
+    // Se o usuário digitou um número de telefone/WhatsApp (sem @ e com 10 ou 11 dígitos)
+    if (!raw.includes('@') && digitos.length >= 10) {
+      emailFinal = `tel_${digitos}@aluno.enfconcursos.com.br`;
+    }
+
+    const { data, error } = await supabase.auth.signInWithPassword({
+      email: emailFinal,
+      password
+    });
     if (error) throw error;
     if (data?.user) {
       setUser(data.user);

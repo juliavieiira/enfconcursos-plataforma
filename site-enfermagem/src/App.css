@@ -2344,6 +2344,53 @@
   text-decoration: none;
 }
 
+/* Seletor Amigável de Canal (E-mail ou WhatsApp juntos) */
+.channel-switch-pills {
+  display: inline-flex;
+  align-items: center;
+  background: #f1f5f9;
+  padding: 3px;
+  border-radius: 9999px;
+  gap: 3px;
+}
+
+.channel-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.22rem 0.65rem;
+  border: none;
+  background: transparent;
+  color: #64748b;
+  font-size: 0.72rem;
+  font-weight: 700;
+  border-radius: 9999px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.channel-pill:hover {
+  color: #0f172a;
+}
+
+.channel-pill.active {
+  background: #ffffff;
+  color: #0d9488;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+.auth-helper-note {
+  display: block;
+  font-size: 0.72rem;
+  color: #64748b;
+  margin-top: 0.35rem;
+  line-height: 1.35;
+}
+
+.input-icon.phone {
+  color: #10b981;
+}
+
 /* Modal de Upgrade VIP / Paywall */
 .upgrade-modal-box {
   max-width: 760px;

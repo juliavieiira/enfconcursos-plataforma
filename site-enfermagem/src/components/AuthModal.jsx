@@ -52,9 +52,9 @@ export const AuthModal = () => {
   const modo = modoOverride !== null ? modoOverride : (modalAuthModo || 'login');
 
   const [metodoLogin, setMetodoLogin] = useState('senha'); // 'senha' | 'magic'
+  const [tipoCanal, setTipoCanal] = useState('email'); // 'email' | 'telefone'
   const [nome, setNome] = useState('');
-  const [whatsapp, setWhatsapp] = useState('');
-  const [email, setEmail] = useState('');
+  const [identificador, setIdentificador] = useState('');
   const [senha, setSenha] = useState('');
   const [confirmarSenha, setConfirmarSenha] = useState('');
   const [codigoOtp, setCodigoOtp] = useState('');
@@ -65,9 +65,9 @@ export const AuthModal = () => {
   const [mensagemErro, setMensagemErro] = useState('');
   const [mensagemSucesso, setMensagemSucesso] = useState('');
 
-  // Máscara e validação amigável de telefone brasileiro (DD) 9XXXX-XXXX
-  const handleWhatsAppChange = (e) => {
-    const digitos = e.target.value.replace(/\D/g, '').slice(0, 11);
+  // Formatação automática para números brasileiros (DD) 9XXXX-XXXX
+  const handleFormatWhatsApp = (valorBruto) => {
+    const digitos = valorBruto.replace(/\D/g, '').slice(0, 11);
     let formatado = digitos;
     if (digitos.length > 2 && digitos.length <= 6) {
       formatado = `(${digitos.slice(0, 2)}) ${digitos.slice(2)}`;
@@ -78,7 +78,7 @@ export const AuthModal = () => {
     } else if (digitos.length > 0) {
       formatado = `(${digitos}`;
     }
-    setWhatsapp(formatado);
+    setIdentificador(formatado);
   };
 
   // Contador de cooldown para reenvio de e-mail seguro
@@ -99,6 +99,8 @@ export const AuthModal = () => {
     setOtpEnviado(false);
     setCodigoOtp('');
     setTimerReenvio(0);
+    setIdentificador('');
+    setTipoCanal('email');
     fecharModalAuth();
   };
 
@@ -109,6 +111,7 @@ export const AuthModal = () => {
     setOtpEnviado(false);
     setCodigoOtp('');
     setTimerReenvio(0);
+    setIdentificador('');
   };
 
   const handleSubmit = async (e) => {
@@ -118,43 +121,61 @@ export const AuthModal = () => {
     setCarregando(true);
 
     try {
+      const rawId = identificador.trim();
+      const digitos = rawId.replace(/\D/g, '');
+      const isTelefone = tipoCanal === 'telefone' || (!rawId.includes('@') && digitos.length >= 10);
+
       if (modo === 'cadastro') {
         if (!nome.trim()) throw new Error('Por favor, informe seu nome completo.');
+        if (!rawId) throw new Error('Por favor, informe seu e-mail ou WhatsApp.');
+        if (isTelefone && digitos.length < 10) {
+          throw new Error('Por favor, informe um número de WhatsApp com DDD válido (ex: 11 99999-9999).');
+        }
+        if (!isTelefone && (!rawId.includes('@') || !rawId.includes('.'))) {
+          throw new Error('Por favor, informe um e-mail válido.');
+        }
         if (senha.length < 6) throw new Error('A senha deve ter pelo menos 6 caracteres.');
         if (senha !== confirmarSenha) throw new Error('As senhas digitadas não coincidem.');
 
-        const res = await cadastrar(nome.trim(), email.trim(), senha, whatsapp.trim());
+        const res = await cadastrar(nome.trim(), rawId, senha, isTelefone ? 'telefone' : 'email');
         if (res?.session) {
           setMensagemSucesso('Conta criada com sucesso! Bem-vindo(a) ao EnfConcursos.');
           setTimeout(() => fechar(), 1200);
         } else {
-          setMensagemSucesso(
-            `Cadastro realizado com sucesso! Enviamos um link de confirmação para ${email.trim()}. Acesse seu e-mail para ativar sua conta e depois faça login.`
-          );
+          setMensagemSucesso('Conta criada com sucesso! Bem-vindo(a) ao EnfConcursos.');
+          setTimeout(() => fechar(), 1200);
         }
       } else if (modo === 'login') {
         if (metodoLogin === 'magic') {
-          if (!email.trim()) throw new Error('Por favor, informe seu e-mail.');
+          if (!rawId) throw new Error('Por favor, informe seu e-mail.');
+          if (isTelefone) {
+            throw new Error('O Link Mágico sem senha é enviado por e-mail. Para entrar com WhatsApp, selecione "Entrar com Senha".');
+          }
           if (otpEnviado) {
             if (!codigoOtp.trim() || codigoOtp.trim().length < 6) {
               throw new Error('Por favor, informe o código de 6 dígitos recebido no seu e-mail.');
             }
-            await verificarCodigoOtp(email.trim(), codigoOtp.trim());
+            await verificarCodigoOtp(rawId, codigoOtp.trim());
             setMensagemSucesso('Autenticação concluída com sucesso! Bem-vindo(a) ao EnfConcursos.');
             setTimeout(() => fechar(), 900);
           } else {
-            await enviarLinkMagico(email.trim());
+            await enviarLinkMagico(rawId);
             setOtpEnviado(true);
             setTimerReenvio(60);
-            setMensagemSucesso(`Link de acesso enviado para ${email.trim()}! Acesse seu e-mail e clique no link, ou digite o código de 6 dígitos logo abaixo.`);
+            setMensagemSucesso(`Link de acesso enviado para ${rawId}! Acesse seu e-mail e clique no link, ou digite o código de 6 dígitos logo abaixo.`);
           }
         } else {
-          await login(email.trim(), senha);
+          if (!rawId) throw new Error('Por favor, informe seu e-mail ou WhatsApp.');
+          await login(rawId, senha);
           setMensagemSucesso('Login efetuado com sucesso!');
           setTimeout(() => fechar(), 900);
         }
       } else if (modo === 'recuperar') {
-        await recuperarSenha(email.trim());
+        if (!rawId) throw new Error('Por favor, informe seu e-mail.');
+        if (isTelefone) {
+          throw new Error('A recuperação automática é enviada por e-mail. Caso seu cadastro seja por WhatsApp, entre em contato com nosso suporte.');
+        }
+        await recuperarSenha(rawId);
         setMensagemSucesso('Instruções de recuperação enviadas para o seu e-mail!');
       }
     } catch (err) {
@@ -315,7 +336,7 @@ export const AuthModal = () => {
               letterSpacing: '0.04em'
             }}>
               <div style={{ flex: 1, height: '1px', background: '#e2e8f0' }} />
-              <span style={{ padding: '0 0.75rem' }}>ou continue com e-mail</span>
+              <span style={{ padding: '0 0.75rem' }}>ou continue com e-mail ou whatsapp</span>
               <div style={{ flex: 1, height: '1px', background: '#e2e8f0' }} />
             </div>
           </div>
@@ -372,7 +393,7 @@ export const AuthModal = () => {
                   <div>
                     <strong style={{ color: '#065f46', display: 'block', marginBottom: '2px' }}>E-mail de acesso enviado!</strong>
                     <span style={{ fontSize: '0.8rem', color: '#047857' }}>
-                      Enviamos para <strong>{email}</strong>. Você pode <strong>clicar no link do e-mail</strong> ou <strong>digitar o código de 6 dígitos</strong> recebido:
+                      Enviamos para <strong>{identificador}</strong>. Você pode <strong>clicar no link do e-mail</strong> ou <strong>digitar o código de 6 dígitos</strong> recebido:
                     </span>
                   </div>
                 </div>
@@ -385,8 +406,8 @@ export const AuthModal = () => {
                   <input
                     type="email"
                     placeholder="seu.email@exemplo.com"
-                    value={email}
-                    onChange={(e) => setEmail(e.target.value)}
+                    value={identificador}
+                    onChange={(e) => setIdentificador(e.target.value)}
                     disabled={otpEnviado}
                     required
                   />
@@ -432,7 +453,7 @@ export const AuthModal = () => {
                         setCarregando(true);
                         setMensagemErro('');
                         try {
-                          await enviarLinkMagico(email.trim());
+                          await enviarLinkMagico(identificador.trim());
                           setTimerReenvio(60);
                           setMensagemSucesso('Novo e-mail com link e código reenviado!');
                         } catch (err) {
@@ -468,51 +489,99 @@ export const AuthModal = () => {
             /* FLUXO 2: LOGIN TRADICIONAL / CADASTRO / RECUPERAÇÃO */
             <>
               {modo === 'cadastro' && (
-                <>
-                  <div className="auth-input-group">
-                    <label>Nome Completo</label>
-                    <div className="auth-input-wrapper">
-                      <User size={18} className="input-icon" />
+                <div className="auth-input-group">
+                  <label>Nome Completo</label>
+                  <div className="auth-input-wrapper">
+                    <User size={18} className="input-icon" />
+                    <input
+                      type="text"
+                      placeholder="Ex: Dra. Mariana Costa"
+                      value={nome}
+                      onChange={(e) => setNome(e.target.value)}
+                      required
+                    />
+                  </div>
+                </div>
+              )}
+
+              {/* CAMPO UNIFICADO: E-MAIL OU WHATSAPP */}
+              <div className="auth-input-group">
+                <div className="label-with-action">
+                  <label>
+                    {modo === 'recuperar'
+                      ? 'E-mail Cadastrado'
+                      : tipoCanal === 'email'
+                      ? 'E-mail'
+                      : 'WhatsApp (com DDD)'}
+                  </label>
+                  {modo !== 'recuperar' && (
+                    <div className="channel-switch-pills">
+                      <button
+                        type="button"
+                        className={`channel-pill ${tipoCanal === 'email' ? 'active' : ''}`}
+                        onClick={() => {
+                          setTipoCanal('email');
+                          setIdentificador('');
+                        }}
+                      >
+                        <Mail size={12} />
+                        <span>E-mail</span>
+                      </button>
+                      <button
+                        type="button"
+                        className={`channel-pill ${tipoCanal === 'telefone' ? 'active' : ''}`}
+                        onClick={() => {
+                          setTipoCanal('telefone');
+                          setIdentificador('');
+                        }}
+                      >
+                        <Phone size={12} />
+                        <span>WhatsApp</span>
+                      </button>
+                    </div>
+                  )}
+                </div>
+
+                <div className="auth-input-wrapper">
+                  {tipoCanal === 'email' || modo === 'recuperar' ? (
+                    <>
+                      <Mail size={18} className="input-icon" />
                       <input
-                        type="text"
-                        placeholder="Ex: Dra. Mariana Costa"
-                        value={nome}
-                        onChange={(e) => setNome(e.target.value)}
+                        type="email"
+                        placeholder="seu.email@exemplo.com"
+                        value={identificador}
+                        onChange={(e) => {
+                          const val = e.target.value;
+                          if (modo !== 'recuperar' && /^\d{2}/.test(val.replace(/\D/g, '')) && !val.includes('@')) {
+                            setTipoCanal('telefone');
+                            handleFormatWhatsApp(val);
+                          } else {
+                            setIdentificador(val);
+                          }
+                        }}
                         required
                       />
-                    </div>
-                  </div>
-
-                  <div className="auth-input-group">
-                    <div className="label-with-action">
-                      <label>WhatsApp (com DDD)</label>
-                      <span className="auth-whatsapp-badge">Alertas de Simulados e Provas</span>
-                    </div>
-                    <div className="auth-input-wrapper">
-                      <Phone size={18} className="input-icon" />
+                    </>
+                  ) : (
+                    <>
+                      <Phone size={18} className="input-icon phone" />
                       <input
                         type="tel"
                         placeholder="(11) 99999-9999"
-                        value={whatsapp}
-                        onChange={handleWhatsAppChange}
+                        value={identificador}
+                        onChange={(e) => handleFormatWhatsApp(e.target.value)}
+                        required
                       />
-                    </div>
-                  </div>
-                </>
-              )}
-
-              <div className="auth-input-group">
-                <label>E-mail</label>
-                <div className="auth-input-wrapper">
-                  <Mail size={18} className="input-icon" />
-                  <input
-                    type="email"
-                    placeholder="seu.email@exemplo.com"
-                    value={email}
-                    onChange={(e) => setEmail(e.target.value)}
-                    required
-                  />
+                    </>
+                  )}
                 </div>
+                {modo !== 'recuperar' && (
+                  <span className="auth-helper-note">
+                    {tipoCanal === 'email'
+                      ? 'Acesse ou confirme sua conta usando seu melhor e-mail.'
+                      : 'Acesse ou confirme sua conta usando seu número de WhatsApp com DDD.'}
+                  </span>
+                )}
               </div>
 
               {modo !== 'recuperar' && (
